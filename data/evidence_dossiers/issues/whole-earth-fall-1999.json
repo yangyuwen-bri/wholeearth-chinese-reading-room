@@ -1,0 +1,674 @@
+{
+  "title": "Whole Earth, Fall 1999",
+  "identifier": "wholeearthfall1900unse_0",
+  "year": 1999,
+  "season": "Fall",
+  "collection": "Whole Earth Magazine",
+  "collection_zh": "Whole Earth Magazine",
+  "pages": 110,
+  "url": "https://wholeearth.info/p/whole-earth-fall-1999",
+  "archive_url": "https://archive.org/details/wholeearthfall1900unse_0",
+  "pdf_url": "https://archive.org/download/wholeearthfall1900unse_0/wholeearthfall1900unse_0.pdf",
+  "cover_url": "https://archive.org/download/wholeearthfall1900unse_0/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthfall1900unse_0_djvu.txt",
+  "ocr_chars": 422597,
+  "significant_line_count": 10512,
+  "theme_counts": {
+    "software_computing": 89,
+    "tools_craft": 162,
+    "ecology_place": 364,
+    "learning_media": 349,
+    "community_politics": 251
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 4258,
+      "page": 6,
+      "title": "OFF THE CO",
+      "image_url": "https://archive.org/download/wholeearthfall1900unse_0/page/n7_w500.jpg"
+    },
+    {
+      "line": 10045,
+      "page": 1,
+      "title": "RIVER OF",
+      "image_url": "https://archive.org/download/wholeearthfall1900unse_0/page/n2_w500.jpg"
+    },
+    {
+      "line": 10667,
+      "page": 66,
+      "title": "DIANTHUS",
+      "image_url": "https://archive.org/download/wholeearthfall1900unse_0/page/n67_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 4258,
+      "text": "6 OFF THE CO",
+      "score": 8
+    },
+    {
+      "line": 10045,
+      "text": "1 RIVER OF",
+      "score": 8
+    },
+    {
+      "line": 10667,
+      "text": "66 DIANTHUS",
+      "score": 8
+    },
+    {
+      "line": 258,
+      "text": "REVIEWED IN",
+      "score": 6
+    },
+    {
+      "line": 1706,
+      "text": "LEARNING ALONG",
+      "score": 6
+    },
+    {
+      "line": 3430,
+      "text": "CELEBRATING COMMUNITY CREATIVITY FOR THE NEW CENTURY",
+      "score": 6
+    },
+    {
+      "line": 12490,
+      "text": "ECOLOGY",
+      "score": 6
+    },
+    {
+      "line": 13955,
+      "text": "BA/MA IN SociAL ECOLOGY",
+      "score": 6
+    },
+    {
+      "line": 6,
+      "text": "$6.95/$8.50 CDN",
+      "score": 4
+    },
+    {
+      "line": 9,
+      "text": "SALMAN RUSHDIE ¢ MARGARET MEAD 2001 AWARD WINNER",
+      "score": 4
+    },
+    {
+      "line": 10,
+      "text": "FUNGAL INTELLIGENCE ¢ LIFE-MADE ROCKS © GLOBALOCAL BEES.",
+      "score": 4
+    },
+    {
+      "line": 33,
+      "text": "YOSEMITE",
+      "score": 4
+    },
+    {
+      "line": 36,
+      "text": "A GLIMPSE",
+      "score": 4
+    },
+    {
+      "line": 39,
+      "text": "PARADISE.",
+      "score": 4
+    },
+    {
+      "line": 72,
+      "text": "THE YOSEMITE FUND",
+      "score": 4
+    },
+    {
+      "line": 90,
+      "text": "FALL TITLES FROM NSP",
+      "score": 4
+    },
+    {
+      "line": 93,
+      "text": "MAKING A LIVING",
+      "score": 4
+    },
+    {
+      "line": 94,
+      "text": "WHILE MAKING A",
+      "score": 4
+    },
+    {
+      "line": 95,
+      "text": "DIFFERENCE",
+      "score": 4
+    },
+    {
+      "line": 122,
+      "text": "NEw SOCIETY PUBLISH ERG",
+      "score": 4
+    },
+    {
+      "line": 123,
+      "text": "BOOKS TO BUILD A NEw S@erery",
+      "score": 4
+    },
+    {
+      "line": 129,
+      "text": "YEAR 2000",
+      "score": 4
+    },
+    {
+      "line": 131,
+      "text": "HOUSMAN’S PEACE",
+      "score": 4
+    },
+    {
+      "line": 133,
+      "text": "PEACE DIRECTORY",
+      "score": 4
+    },
+    {
+      "line": 186,
+      "text": "SPECIAL: METAPHORS and SPECIAL IN COLOR:",
+      "score": 4
+    },
+    {
+      "line": 252,
+      "text": "FROM OuR",
+      "score": 4
+    },
+    {
+      "line": 253,
+      "text": "DumsB CENTURY",
+      "score": 4
+    },
+    {
+      "line": 254,
+      "text": "(THE ONION,",
+      "score": 4
+    },
+    {
+      "line": 255,
+      "text": "Inc./THREE",
+      "score": 4
+    },
+    {
+      "line": 256,
+      "text": "RIVERS PRESS,",
+      "score": 4
+    },
+    {
+      "line": 257,
+      "text": "1999), TO BE",
+      "score": 4
+    },
+    {
+      "line": 259,
+      "text": "OUR WINTER",
+      "score": 4
+    },
+    {
+      "line": 260,
+      "text": "ISSUE.",
+      "score": 4
+    },
+    {
+      "line": 281,
+      "text": "CoEVOLUTION",
+      "score": 4
+    },
+    {
+      "line": 320,
+      "text": "HOMEPLATE",
+      "score": 4
+    },
+    {
+      "line": 365,
+      "text": "TOOLS, ETC.",
+      "score": 4
+    },
+    {
+      "line": 387,
+      "text": "ACCESS",
+      "score": 4
+    },
+    {
+      "line": 399,
+      "text": "BACKMATTER",
+      "score": 4
+    },
+    {
+      "line": 416,
+      "text": "FALL: 1999",
+      "score": 4
+    },
+    {
+      "line": 487,
+      "text": "SUBSCRIPTIONS: In US $24;",
+      "score": 4
+    },
+    {
+      "line": 599,
+      "text": "Fatt 1999 ® WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 602,
+      "text": "© 1999 By Ray CHAVEZ. COURTESY OF THE OAKLAND TRIBUNE.",
+      "score": 4
+    },
+    {
+      "line": 645,
+      "text": "WHOLE EARTH ® Fait 1999",
+      "score": 4
+    },
+    {
+      "line": 849,
+      "text": "WHOLE EARTH ® FAtt 1999",
+      "score": 4
+    },
+    {
+      "line": 958,
+      "text": "-THE GROUND BENEATH HER FEET",
+      "score": 4
+    },
+    {
+      "line": 961,
+      "text": "THE GROUND",
+      "score": 4
+    },
+    {
+      "line": 962,
+      "text": "BENEATH",
+      "score": 4
+    },
+    {
+      "line": 963,
+      "text": "HER FEET -",
+      "score": 4
+    },
+    {
+      "line": 965,
+      "text": "1999; 575 PP.",
+      "score": 4
+    },
+    {
+      "line": 1027,
+      "text": "FALL 1999 ® WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 1030,
+      "text": "me = THE SATANIC",
+      "score": 4
+    },
+    {
+      "line": 1032,
+      "text": "| VERSES",
+      "score": 4
+    },
+    {
+      "line": 1100,
+      "text": "| MIDNIGHT’S",
+      "score": 4
+    },
+    {
+      "line": 1102,
+      "text": "| CHILDREN",
+      "score": 4
+    },
+    {
+      "line": 1109,
+      "text": "MIRRORWORK",
+      "score": 4
+    },
+    {
+      "line": 1306,
+      "text": "“The GREAT ARSENIC LossTeR",
+      "score": 4
+    },
+    {
+      "line": 1309,
+      "text": "WHOLE EARTH’S MINI-SECTION ON",
+      "score": 4
+    },
+    {
+      "line": 1310,
+      "text": "METAPHORS AND MORALITY",
+      "score": 4
+    },
+    {
+      "line": 1360,
+      "text": "LA DAME OVALE, MAX ERNST (1939).",
+      "score": 4
+    },
+    {
+      "line": 1455,
+      "text": "METAPHORS ON THE LOOSE",
+      "score": 4
+    },
+    {
+      "line": 1501,
+      "text": "METAPHORS ANO MORALITY",
+      "score": 4
+    },
+    {
+      "line": 1566,
+      "text": "INTELLECT ANO INTUITION",
+      "score": 4
+    },
+    {
+      "line": 1699,
+      "text": "ADAPTED WITH",
+      "score": 4
+    },
+    {
+      "line": 1700,
+      "text": "PERMISSION",
+      "score": 4
+    },
+    {
+      "line": 1701,
+      "text": "FROM “TURNING",
+      "score": 4
+    },
+    {
+      "line": 1702,
+      "text": "INTO A TOAD,”",
+      "score": 4
+    },
+    {
+      "line": 1704,
+      "text": "IN PERIPHERAL",
+      "score": 4
+    },
+    {
+      "line": 1705,
+      "text": "VISIONS:",
+      "score": 4
+    },
+    {
+      "line": 1707,
+      "text": "THE Way, BY",
+      "score": 4
+    },
+    {
+      "line": 1708,
+      "text": "Mary CATHERINE",
+      "score": 4
+    },
+    {
+      "line": 1709,
+      "text": "BATESON",
+      "score": 4
+    },
+    {
+      "line": 1712,
+      "text": "(HARPERCOLLINS,",
+      "score": 4
+    },
+    {
+      "line": 1718,
+      "text": "€ ARE OUR OWN METAPHOR",
+      "score": 4
+    },
+    {
+      "line": 1724,
+      "text": "MARY CATHERINE BATESON REFLECTS ON",
+      "score": 4
+    },
+    {
+      "line": 1835,
+      "text": "WHOLE EARTH ® FALL 1999",
+      "score": 4
+    },
+    {
+      "line": 2033,
+      "text": "VIRTUAL",
+      "score": 4
+    },
+    {
+      "line": 2036,
+      "text": "REALITY",
+      "score": 4
+    },
+    {
+      "line": 2039,
+      "text": "A TECHNO-METAPHOR WITH A LIFE OF ITS OWN",
+      "score": 4
+    },
+    {
+      "line": 2040,
+      "text": "BY JARON LANIER",
+      "score": 4
+    },
+    {
+      "line": 2076,
+      "text": "PROLOG",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 69,
+      "term": "learning",
+      "snippet": "future generations will continue to enjoy Yosemite National Park as a place of learning, inspiration and renewal. THE YOSEMITE FUND Providing for Yosemite's Future The Yosemite Fund"
+    },
+    {
+      "line": 181,
+      "term": "interview",
+      "snippet": "Fall 1999 VWikgree of the Well epee 4. Salman Rushdie, interviewed by Whole Earth editorial board member Vijaya Nagarajan, on Bombay, rock ‘n’ roll, and The Satanic Verses. SPECIAL: METAPHORS and SPECIAL IN COLOR:"
+    },
+    {
+      "line": 216,
+      "term": "community",
+      "snippet": "A techno-metaphor with a life of its own. A killer writes from death row. He wants to die, but | psychiatrists say no. | Virtual Community 18 Howard Rheingold Global Bees and Local Beekeepers 60 Experts tell the tale: mites, beetles, and African bees. ! Cancer as Metaphor 19"
+    },
+    {
+      "line": 365,
+      "term": "tools",
+      "snippet": "Recycled and Certified Papers 83 Universal Health Care 87 TOOLS, ETC. All Around Shop-Vac « Bosch Power Handsaw « Giro Hammerhead Bike Helmet « Hart “Woody” Hammer «"
+    },
+    {
+      "line": 373,
+      "term": "tools",
+      "snippet": "Jet Mini Lathe » Makita Baby Belt Sander « Roto Zip Spiral Saw » Sorby Metal Spinning Tools + Zircon Scanners 84 Preserve Toothbrush « TeleMed Pill Minder 87"
+    },
+    {
+      "line": 392,
+      "term": "ecology",
+      "snippet": "Enviro-News 73 Fungi 77 Kids’ Ecology 8&1 Mead 2001 Award Winners 30 Pollination 59 Ultralights 48"
+    },
+    {
+      "line": 517,
+      "term": "community",
+      "snippet": "Cdilorial Doted VWihiber Vijaya Vlagarajan tall, together at the Berkeley Community erie KPFA Benefit Bombay Vijaya Nagarajan: You were born in Bombay and raised there until you were a “part” teenager, and"
+    },
+    {
+      "line": 1219,
+      "term": "community",
+      "snippet": "they’d been told about it, which wasn’t always accu- rate. The novel is actually in large part about the Asian community in London, and to see those peo- ple protesting against the novel was one of the most painful sights of my life. I took really no sat- isfaction from it at all."
+    },
+    {
+      "line": 1368,
+      "term": "tools",
+      "snippet": "open up this metaphor confab. was weak compared to metaphor (X is Y; my girl is a It’s a Whole Earth task: If words, images and lioness). I was going to ask poet Gary Snyder what phrases can be considered “tools,” how does a word- he thought, when I noticed that his latest email smith incite wrath or kindle love or bore a listener ‘til ended with an “as if” construction that played on the blood curdles? Yes, words impeccably ringing of rile: truth or glamorously beautiful do move citizens and"
+    },
+    {
+      "line": 1467,
+      "term": "community",
+      "snippet": "“virtual,” and wonders what its lifespan might be. Howard Rheingold has tracked the pinball-machine life of his metaphor, virtual community (page 18). There’s nothing new in metaphors journeying with an amoral sense of independence. A “polished” Annie Gr av), 7th"
+    },
+    {
+      "line": 1706,
+      "term": "learning",
+      "snippet": "IN PERIPHERAL VISIONS: LEARNING ALONG THE Way, BY Mary CATHERINE BATESON"
+    },
+    {
+      "line": 1828,
+      "term": "learning",
+      "snippet": "ecosystem or a species is an amputation and, like the amputation of a limb, can trigger fatal shock or, at the least, require learning new ways to function. One extraneous item introduced in the wrong Fatt 1999 ® WHOLE EARTH WHOLE EARTH ® FALL 1999"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 6,
+      "text": "$6.95/$8.50 CDN"
+    },
+    {
+      "line": 9,
+      "text": "SALMAN RUSHDIE ¢ MARGARET MEAD 2001 AWARD WINNER"
+    },
+    {
+      "line": 10,
+      "text": "FUNGAL INTELLIGENCE ¢ LIFE-MADE ROCKS © GLOBALOCAL BEES."
+    },
+    {
+      "line": 16,
+      "text": "i ili"
+    },
+    {
+      "line": 19,
+      "text": "rally."
+    },
+    {
+      "line": 20,
+      "text": "NAAN"
+    },
+    {
+      "line": 24,
+      "text": "i aul We"
+    },
+    {
+      "line": 33,
+      "text": "YOSEMITE"
+    },
+    {
+      "line": 36,
+      "text": "A GLIMPSE"
+    },
+    {
+      "line": 39,
+      "text": "PARADISE."
+    },
+    {
+      "line": 42,
+      "text": "A gift to The Yosemite Fund"
+    },
+    {
+      "line": 43,
+      "text": "provides a legacy to keep"
+    },
+    {
+      "line": 44,
+      "text": "the park’s beauty alive."
+    },
+    {
+      "line": 47,
+      "text": "Over the last decade, Yosemite Fund"
+    },
+    {
+      "line": 50,
+      "text": "projects have included:"
+    },
+    {
+      "line": 53,
+      "text": "¢ The new Glacier Point Amphitheater"
+    },
+    {
+      "line": 54,
+      "text": "¢ Mariposa Grove Museum Exhibits"
+    },
+    {
+      "line": 55,
+      "text": "Habitat and Streambank Restoration"
+    },
+    {
+      "line": 56,
+      "text": "Handicap Access"
+    },
+    {
+      "line": 58,
+      "text": "Trail Repair/Wilderness Restoration"
+    },
+    {
+      "line": 61,
+      "text": "Bikeways"
+    },
+    {
+      "line": 62,
+      "text": "Bear-Proof Food Lockers"
+    },
+    {
+      "line": 65,
+      "text": "Your tax-deductible contribution of"
+    },
+    {
+      "line": 66,
+      "text": "$25.00 or more will help to ensure that"
+    },
+    {
+      "line": 67,
+      "text": "future generations will continue to enjoy"
+    },
+    {
+      "line": 68,
+      "text": "Yosemite National Park as a place of"
+    },
+    {
+      "line": 69,
+      "text": "learning, inspiration and renewal."
+    },
+    {
+      "line": 72,
+      "text": "THE YOSEMITE FUND"
+    },
+    {
+      "line": 73,
+      "text": "Providing for Yosemite's Future"
+    },
+    {
+      "line": 76,
+      "text": "The Yosemite Fund"
+    },
+    {
+      "line": 77,
+      "text": "155 Montgomery Street, Suite 1104"
+    },
+    {
+      "line": 78,
+      "text": "San Francisco, CA. 94104"
+    },
+    {
+      "line": 82,
+      "text": "Visit our website: www.yosemitefund.org"
+    },
+    {
+      "line": 85,
+      "text": "Spirituality / Early Childhood Education / Environmental Studies / Gerontology / Religious Studies / Psychology"
+    },
+    {
+      "line": 86,
+      "text": "ation / Study Abroad / N.C.A. accredited / B.A., M.A. & M.FA. degrees offered"
+    },
+    {
+      "line": 87,
+      "text": "O 80302 / 303.546.3572 / 800.772.6951 / www.naropa.edu"
+    },
+    {
+      "line": 90,
+      "text": "FALL TITLES FROM NSP"
+    },
+    {
+      "line": 93,
+      "text": "MAKING A LIVING"
+    },
+    {
+      "line": 94,
+      "text": "WHILE MAKING A"
+    },
+    {
+      "line": 95,
+      "text": "DIFFERENCE"
+    }
+  ]
+}

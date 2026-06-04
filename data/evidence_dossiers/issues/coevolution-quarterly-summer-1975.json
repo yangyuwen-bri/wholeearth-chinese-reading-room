@@ -1,0 +1,655 @@
+{
+  "title": "CoEvolution Quarterly, Summer 1975",
+  "identifier": "coevolutionquart00unse_3",
+  "year": 1975,
+  "season": "Summer",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 195,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1975",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_3",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_3/coevolutionquart00unse_3.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_3/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_3_djvu.txt",
+  "ocr_chars": 966789,
+  "significant_line_count": 19531,
+  "theme_counts": {
+    "software_computing": 382,
+    "tools_craft": 252,
+    "ecology_place": 1207,
+    "learning_media": 410,
+    "community_politics": 441
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [],
+  "candidate_headings": [
+    {
+      "line": 7070,
+      "text": "ENERGY AND ENERGY GATES",
+      "score": 6
+    },
+    {
+      "line": 7545,
+      "text": "DIVERSITY AND ENERGY FLOW",
+      "score": 6
+    },
+    {
+      "line": 7739,
+      "text": "CLIMAX COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 8402,
+      "text": "APPLIED ECOLOGY ;",
+      "score": 6
+    },
+    {
+      "line": 21864,
+      "text": "COMPUTERS AND PROGRAMMING - THE 25¢ LECTURE",
+      "score": 6
+    },
+    {
+      "line": 22382,
+      "text": "LEARNING ABOUT COMPUTERS",
+      "score": 6
+    },
+    {
+      "line": 23743,
+      "text": "WRITE THE PROGRAM BEFORE BUYING THE MACHINE.",
+      "score": 6
+    },
+    {
+      "line": 23754,
+      "text": "REVIEWS",
+      "score": 6
+    },
+    {
+      "line": 7930,
+      "text": "of ecology, the paradox means that the community seeks to",
+      "score": 5
+    },
+    {
+      "line": 9459,
+      "text": "and a measure of community stability. Ecology 36:533-36.",
+      "score": 5
+    },
+    {
+      "line": 10248,
+      "text": "how much community gardening programs have done",
+      "score": 5
+    },
+    {
+      "line": 14178,
+      "text": "programs in shelter and soft technology. Fees are $750 per",
+      "score": 5
+    },
+    {
+      "line": 29,
+      "text": "; -SB",
+      "score": 4
+    },
+    {
+      "line": 703,
+      "text": "SAGAN’S CONJECTURE",
+      "score": 4
+    },
+    {
+      "line": 1057,
+      "text": "WHAT DO WE USE",
+      "score": 4
+    },
+    {
+      "line": 1060,
+      "text": "FOR LIFEBOATS",
+      "score": 4
+    },
+    {
+      "line": 1061,
+      "text": "WHEN THE SHIP",
+      "score": 4
+    },
+    {
+      "line": 1062,
+      "text": "GOES DOWN?",
+      "score": 4
+    },
+    {
+      "line": 1324,
+      "text": "USSR 245.1 1400 70 23 99 4535",
+      "score": 4
+    },
+    {
+      "line": 1325,
+      "text": "US 207.0 5160 71 19 99 11244",
+      "score": 4
+    },
+    {
+      "line": 2421,
+      "text": "BY GARRETT HARDIN",
+      "score": 4
+    },
+    {
+      "line": 3252,
+      "text": "\"EMERGENCY!\"",
+      "score": 4
+    },
+    {
+      "line": 3255,
+      "text": "Pal EMERGENCY TS",
+      "score": 4
+    },
+    {
+      "line": 3730,
+      "text": "REFERENCES",
+      "score": 4
+    },
+    {
+      "line": 3815,
+      "text": "INNA ALLEY To THE",
+      "score": 4
+    },
+    {
+      "line": 3816,
+      "text": "NEAREST WATER HOLE",
+      "score": 4
+    },
+    {
+      "line": 3817,
+      "text": "AFTER B BUSY DAY",
+      "score": 4
+    },
+    {
+      "line": 3818,
+      "text": "IN THE UTY ROOM",
+      "score": 4
+    },
+    {
+      "line": 3819,
+      "text": "WRITIRG O8 wn €O",
+      "score": 4
+    },
+    {
+      "line": 3823,
+      "text": "ROL HNE NOTHING 5",
+      "score": 4
+    },
+    {
+      "line": 3824,
+      "text": "CALLOWAY |! SO TL AM",
+      "score": 4
+    },
+    {
+      "line": 3825,
+      "text": "GOING To GINE You",
+      "score": 4
+    },
+    {
+      "line": 3840,
+      "text": "- SUDDENLY I'N",
+      "score": 4
+    },
+    {
+      "line": 3841,
+      "text": "LOOKING AT THE fin",
+      "score": 4
+    },
+    {
+      "line": 3842,
+      "text": "BUSINESS END OF MI 9",
+      "score": 4
+    },
+    {
+      "line": 3843,
+      "text": "7 A WGERNINE “",
+      "score": 4
+    },
+    {
+      "line": 3844,
+      "text": "a MILLIMETER”",
+      "score": 4
+    },
+    {
+      "line": 3847,
+      "text": "THAT'S FAR",
+      "score": 4
+    },
+    {
+      "line": 3850,
+      "text": "NOUGH,",
+      "score": 4
+    },
+    {
+      "line": 3851,
+      "text": "CALLOWAY..",
+      "score": 4
+    },
+    {
+      "line": 3854,
+      "text": "1M GING,",
+      "score": 4
+    },
+    {
+      "line": 3855,
+      "text": "Row A CHOICE:",
+      "score": 4
+    },
+    {
+      "line": 3856,
+      "text": "SUNKE MY HAND -",
+      "score": 4
+    },
+    {
+      "line": 3861,
+      "text": "IS FAMILIAR -",
+      "score": 4
+    },
+    {
+      "line": 3870,
+      "text": "NY WOICE SHOLLD",
+      "score": 4
+    },
+    {
+      "line": 3880,
+      "text": "“THAT \\S WAY",
+      "score": 4
+    },
+    {
+      "line": 3881,
+      "text": "IHNE |",
+      "score": 4
+    },
+    {
+      "line": 3882,
+      "text": "RETURNED «",
+      "score": 4
+    },
+    {
+      "line": 3885,
+      "text": "Be FAMILIAR CALLOWHY.",
+      "score": 4
+    },
+    {
+      "line": 3888,
+      "text": "FORT AM THE",
+      "score": 4
+    },
+    {
+      "line": 3889,
+      "text": "CONSCIENCE!!",
+      "score": 4
+    },
+    {
+      "line": 3892,
+      "text": "ALL RIGHT",
+      "score": 4
+    },
+    {
+      "line": 3894,
+      "text": "Have AAP LOOR",
+      "score": 4
+    },
+    {
+      "line": 3895,
+      "text": "FUN ! NOW",
+      "score": 4
+    },
+    {
+      "line": 3896,
+      "text": "WHERE IN",
+      "score": 4
+    },
+    {
+      "line": 3900,
+      "text": "DREAM ARE",
+      "score": 4
+    },
+    {
+      "line": 3906,
+      "text": ".. MY OERR",
+      "score": 4
+    },
+    {
+      "line": 3907,
+      "text": "ACE REPORTER ..",
+      "score": 4
+    },
+    {
+      "line": 3908,
+      "text": "IF YOU WILL",
+      "score": 4
+    },
+    {
+      "line": 3909,
+      "text": "D\\SENSHGE",
+      "score": 4
+    },
+    {
+      "line": 3912,
+      "text": "QOURSELF FROM |",
+      "score": 4
+    },
+    {
+      "line": 3915,
+      "text": "QouR GARBNAE",
+      "score": 4
+    },
+    {
+      "line": 3940,
+      "text": "LIN THE LATER HALF",
+      "score": 4
+    },
+    {
+      "line": 3941,
+      "text": "OE WE ZASTCENTURY",
+      "score": 4
+    },
+    {
+      "line": 3942,
+      "text": "IT WAS DISCOVERED",
+      "score": 4
+    },
+    {
+      "line": 3943,
+      "text": "THAT THE CHIRESE",
+      "score": 4
+    },
+    {
+      "line": 3944,
+      "text": "WERE ALHOST 6 “To",
+      "score": 4
+    },
+    {
+      "line": 3945,
+      "text": "PROTEIN! . Aye",
+      "score": 4
+    },
+    {
+      "line": 3946,
+      "text": "BEST OF ALL-- UNTAIISTER",
+      "score": 4
+    },
+    {
+      "line": 3949,
+      "text": "BQ CHEMICALS !",
+      "score": 4
+    },
+    {
+      "line": 3952,
+      "text": "SO THE STATE",
+      "score": 4
+    },
+    {
+      "line": 3955,
+      "text": "QuT TR 2",
+      "score": 4
+    },
+    {
+      "line": 3956,
+      "text": "CONTAIN CHINA:",
+      "score": 4
+    },
+    {
+      "line": 3959,
+      "text": "I MUST WARN :",
+      "score": 4
+    },
+    {
+      "line": 3968,
+      "text": "TO TANT \\ON «",
+      "score": 4
+    },
+    {
+      "line": 3982,
+      "text": "Wi MN)",
+      "score": 4
+    },
+    {
+      "line": 3989,
+      "text": "_ WITH CUB CALLOWAY, A",
+      "score": 4
+    },
+    {
+      "line": 3992,
+      "text": "- LT DONT",
+      "score": 4
+    },
+    {
+      "line": 3998,
+      "text": "CE REPORTER",
+      "score": 4
+    },
+    {
+      "line": 4008,
+      "text": "TM ALL OUT OF",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 38,
+      "term": "whole systems",
+      "snippet": "hello. Understanding Whole Systems Land Use Shelter Soft Technology"
+    },
+    {
+      "line": 81,
+      "term": "community",
+      "snippet": "Synergetics 66 Peter Kropotkin, Murray Bookchin, Ivan Illich 67 The People’s Land 68 A Bibliography on Land Reform in Rural America The City People’s Book of Raising Food 69 Community Gardening e How to Know the Economic Plants 70 The Samaka Guide to Homesite Farming Yerba Buena 71 Improving Garden Soil With Green Manure 72 Three seed catalogs and the risks of hybrid seed « My Lawnmower Hates Me 73"
+    },
+    {
+      "line": 87,
+      "term": "ecology",
+      "snippet": "Yerba Buena 71 Improving Garden Soil With Green Manure 72 Three seed catalogs and the risks of hybrid seed « My Lawnmower Hates Me 73 Woodland Ecology « Commonwealth, indeed, Massachusetts 74 A quiet chainsaw! 75 . Dude Farms by Sally Nicholson 76 Detweiler’s Harness Shop 78 The Mule: e Influencing Horses e¢ Carroll Saddle Company 79 |"
+    },
+    {
+      "line": 124,
+      "term": "community",
+      "snippet": "Nature’s Colors ¢ Lichens for Vegetable Dyeing 95 Making Stone Arrowheads & Scrapers by Gil Verde 96 Community Neighborhood Power e« Neighborhood Government 98 Briarpatch Review e Survival in the City 99- The Sports Book Catalog « How to raise rents 100 Starting Line Sports « Whole Earth Access Company e"
+    },
+    {
+      "line": 166,
+      "term": "communications",
+      "snippet": "‘4 The Touring Cyclist Shop « Portable bicycle 126 & The Mariner’s Catalog - Vol. 2 ¢ Sea Survival « Fly 127 .Communications Beginner’s Guide to Photography « The Money Saver’s Guide to Photography e Film 128 Madrigal’s Magic Key to Spanish e Street Art 129 The Use and Training of the Human Voice e New Music Vocabulary e Discwasher e Little Flute 130 Audio Amateur e Letter"
+    },
+    {
+      "line": 199,
+      "term": "software",
+      "snippet": "; Evaluating Computers for Home or Personal Use g _by Dick Rubenstein 148 Experimenter’s Computer System 149 3 _ Software for Personal Computers by Dick Rubenstein 150 y Micro-8 Newsletter 151 What To Do After You Hit Return « Last Pass 152 if Heckletooth 3 « Allen Verbatim 153 | : Learning Helplessness ¢ Operators and Things 154 Magic"
+    },
+    {
+      "line": 203,
+      "term": "learning",
+      "snippet": "y Micro-8 Newsletter 151 What To Do After You Hit Return « Last Pass 152 if Heckletooth 3 « Allen Verbatim 153 | : Learning Helplessness ¢ Operators and Things 154 Magic 4 Encyclopedia of Sex Drugs & Aphrodisiacs « Cooking With Cannabis 155 : Loka e A Guide to Oriental Classics 156 Mani Trading Co. e R Six nonlectures 157"
+    },
+    {
+      "line": 326,
+      "term": "energy",
+      "snippet": "Lessons Thanks to the triple blessing of the lost cause in Vietnam, the loss of control in the Energy Crisis, and the loss of innocence with Watergate, general prospects for America are now better than they’ve been in years. Three public humiliations in two years has put the country in Learning Mode."
+    },
+    {
+      "line": 329,
+      "term": "learning",
+      "snippet": "with Watergate, general prospects for America are now better than they’ve been in years. Three public humiliations in two years has put the country in Learning Mode. The lesson of Watergate is Never Trust a Government. Already we are seeing improvement in the quality of representative that a burned, skeptical, informed electorate"
+    },
+    {
+      "line": 388,
+      "term": "energy",
+      "snippet": "pF,” ee sal. _ The lesson of the Energy Crisis is If You Spend Capital (oil) As If It Were Income, You Live a Short Flashy Life. America _ is third-generation rich, famously wastrel. The Arabs are first-generation rich, with riches we had considered ours. In"
+    },
+    {
+      "line": 459,
+      "term": "energy",
+      "snippet": "back on fuel usage because of high prices, the economic recession, and the general acceptance of the long-term need _ to conserve on energy .... The big story in the marketplace __ is the strong resurgence of private-brand and independent [gasoline] marketers.”’ Economic up and then down is the consensus scenario among"
+    },
+    {
+      "line": 503,
+      "term": "energy",
+      "snippet": "Box 428, Sausalito, California 94965 bought up the U.S. coalfields in the early ‘60’s, why they exacerbated the Energy Crisis, why they claim natural gas shortage. The key is the natural gas pipelines, which are . federally regulated. Those pipelines could carry natural gas, synthetic gas (from coal), or hydrogen gas (the only income"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 2,
+      "text": "lal les"
+    },
+    {
+      "line": 3,
+      "text": "The present atmosphere were life deleted."
+    },
+    {
+      "line": 6,
+      "text": "B : $2 Summer 1975"
+    },
+    {
+      "line": 9,
+      "text": "by ANSEL ADAMS - “Robert Boardman Howard, San Francisco, c. 1960”"
+    },
+    {
+      "line": 12,
+      "text": "Cover"
+    },
+    {
+      "line": 18,
+      "text": "I/lustrates the article beginning on p. 30, “The Atmosphere as Circulatory System of the Biosphere - The Gaia Hypothesis’ “"
+    },
+    {
+      "line": 19,
+      "text": "by Lynn Margulis and James Lovelock. an"
+    },
+    {
+      "line": 20,
+      "text": "Implied in the Gaia hypothesis is the perception of the Earth as a single living creature."
+    },
+    {
+      "line": 23,
+      "text": "The cover artist - Laszlo Meszoly - is Hungarian-born and Boston-based. He does biological and paleontological artwork yy"
+    },
+    {
+      "line": 24,
+      "text": "for Harvard, Boston University, and their ilk. “Bones and gibbons, that’s what he’s especially good at,”’ says Lynn Margulis."
+    },
+    {
+      "line": 25,
+      "text": "“He only dips into the Pre-Cambrian when he does our stuff. The rest of it’s all Mesozoic and Cenozoic.” ;"
+    },
+    {
+      "line": 28,
+      "text": "The photo by Ansel Adams, opposite, is in his recent New York Graphic Society book, Ansel Adams: Images 1923-1974. a"
+    },
+    {
+      "line": 29,
+      "text": "; -SB"
+    },
+    {
+      "line": 32,
+      "text": "Apocalypse"
+    },
+    {
+      "line": 33,
+      "text": "Juggernaut,"
+    },
+    {
+      "line": 34,
+      "text": "hello."
+    },
+    {
+      "line": 37,
+      "text": "Understanding"
+    },
+    {
+      "line": 38,
+      "text": "Whole Systems"
+    },
+    {
+      "line": 41,
+      "text": "Land Use"
+    },
+    {
+      "line": 44,
+      "text": "Shelter"
+    },
+    {
+      "line": 47,
+      "text": "Soft Technology"
+    },
+    {
+      "line": 50,
+      "text": "Craft"
+    },
+    {
+      "line": 53,
+      "text": "Lessons e Notes 5"
+    },
+    {
+      "line": 55,
+      "text": "Captain Kirk, Something Funny’s Going On In The Transporter Room 6"
+    },
+    {
+      "line": 56,
+      "text": "Sagan's Conjecture 7"
+    },
+    {
+      "line": 58,
+      "text": "What Do We Use for Lifeboats When the Ship Goes Down? by My 8"
+    },
+    {
+      "line": 59,
+      "text": "Living ona Lifeboat by Garrett Hardin 16"
+    },
+    {
+      "line": 61,
+      "text": "Holiday for Cynics by Dan O'Neill 24"
+    },
+    {
+      "line": 64,
+      "text": "Three From Space by Carl Sagan 28"
+    },
+    {
+      "line": 66,
+      "text": "The Atmosphere as Circulatory System of the Biosphere - The Gaia"
+    },
+    {
+      "line": 67,
+      "text": "Hypothesis by Lynn Margulis and James E. Lovelock 30 |"
+    },
+    {
+      "line": 69,
+      "text": "Origin of Eukaryotic Cells 41"
+    },
+    {
+      "line": 71,
+      "text": "Who’s Earth by Russell Schweickart 42"
+    },
+    {
+      "line": 73,
+      "text": "Introducing Margalef by Stewart Brand, Peter Warshall, Michael McClure 46"
+    },
+    {
+      "line": 75,
+      "text": "Perspectives in Ecological Theory by Ramdén Margalef 48"
+    },
+    {
+      "line": 77,
+      "text": "Synergetics 66 Peter Kropotkin, Murray Bookchin, Ivan Illich 67"
+    },
+    {
+      "line": 80,
+      "text": "The People’s Land 68 A Bibliography on Land Reform in Rural America"
+    },
+    {
+      "line": 81,
+      "text": "The City People’s Book of Raising Food 69 Community Gardening e"
+    },
+    {
+      "line": 83,
+      "text": "How to Know the Economic Plants 70 The Samaka Guide to Homesite Farming"
+    },
+    {
+      "line": 84,
+      "text": "Yerba Buena 71 Improving Garden Soil With Green Manure 72"
+    }
+  ]
+}

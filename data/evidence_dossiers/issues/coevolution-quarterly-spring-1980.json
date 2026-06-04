@@ -1,0 +1,686 @@
+{
+  "title": "CoEvolution Quarterly, Spring 1980",
+  "identifier": "coevolutionquart00unse_22",
+  "year": 1980,
+  "season": "Spring",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 153,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1980",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_22",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_22/coevolutionquart00unse_22.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_22/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_22_djvu.txt",
+  "ocr_chars": 585397,
+  "significant_line_count": 15237,
+  "theme_counts": {
+    "software_computing": 54,
+    "tools_craft": 203,
+    "ecology_place": 585,
+    "learning_media": 382,
+    "community_politics": 305
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 202,
+      "page": 22,
+      "title": "THE INDEPENDENT PRACTICE",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_22/page/n23_w500.jpg"
+    },
+    {
+      "line": 204,
+      "page": 31,
+      "title": "LYNN MARGULIS - UNLIKE",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_22/page/n32_w500.jpg"
+    },
+    {
+      "line": 212,
+      "page": 44,
+      "title": "LIGHT RAIL - HOW TO MAKE",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_22/page/n45_w500.jpg"
+    },
+    {
+      "line": 18685,
+      "page": 1,
+      "title": "KNOW WHUT IT 127",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_22/page/n2_w500.jpg"
+    },
+    {
+      "line": 22564,
+      "page": 220,
+      "title": "A SSO",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_22/page/n221_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 202,
+      "text": "22 THE INDEPENDENT PRACTICE",
+      "score": 8
+    },
+    {
+      "line": 204,
+      "text": "31 LYNN MARGULIS - UNLIKE",
+      "score": 8
+    },
+    {
+      "line": 212,
+      "text": "44 LIGHT RAIL - HOW TO MAKE",
+      "score": 8
+    },
+    {
+      "line": 18685,
+      "text": "1 KNOW WHUT IT 127",
+      "score": 8
+    },
+    {
+      "line": 22564,
+      "text": "220 A SSO",
+      "score": 8
+    },
+    {
+      "line": 7199,
+      "text": "BAINBRIDGE ENERGY USE- HOUSE",
+      "score": 6
+    },
+    {
+      "line": 16982,
+      "text": "LIBERTARIAN REVIEW",
+      "score": 6
+    },
+    {
+      "line": 316,
+      "text": "Community Communications",
+      "score": 5
+    },
+    {
+      "line": 7450,
+      "text": "Review of solar energy in the summer of 1978. A series",
+      "score": 5
+    },
+    {
+      "line": 21847,
+      "text": "group) ‘The Energy/Shelter Interest",
+      "score": 5
+    },
+    {
+      "line": 183,
+      "text": "OUR ENEMIES OUR SELVES",
+      "score": 4
+    },
+    {
+      "line": 205,
+      "text": "MOST MICROBIOLOGISTS",
+      "score": 4
+    },
+    {
+      "line": 331,
+      "text": "86 WHEN DID YOU SEE THE SUNRISE?",
+      "score": 4
+    },
+    {
+      "line": 392,
+      "text": "BETWEEN RUSSIA AND AMERICA, SOMETIME IN THE NEXT 30 YEARS, THE",
+      "score": 4
+    },
+    {
+      "line": 395,
+      "text": "PARAMOUNT HUMAN ISSUE OF NUCLEAR WAR",
+      "score": 4
+    },
+    {
+      "line": 396,
+      "text": "SOLUTION OR DISSOLVE US TRYING.",
+      "score": 4
+    },
+    {
+      "line": 494,
+      "text": "IS GOING TO FIND ITS",
+      "score": 4
+    },
+    {
+      "line": 1247,
+      "text": "ISKEEUSEE SLs",
+      "score": 4
+    },
+    {
+      "line": 1615,
+      "text": "MONGOLUAM REF",
+      "score": 4
+    },
+    {
+      "line": 1738,
+      "text": "THE RUSSIANS ARE BIG",
+      "score": 4
+    },
+    {
+      "line": 1739,
+      "text": "ON SUBSTANCE RIGHTS",
+      "score": 4
+    },
+    {
+      "line": 1740,
+      "text": "AND WEAK ON PROCESS",
+      "score": 4
+    },
+    {
+      "line": 1741,
+      "text": "RIGHTS, AND WE'RE",
+      "score": 4
+    },
+    {
+      "line": 1742,
+      "text": "THE REVERSE.",
+      "score": 4
+    },
+    {
+      "line": 2103,
+      "text": "A STORY SO FAR UNREPORTED IN THE AMERICAN PRESS",
+      "score": 4
+    },
+    {
+      "line": 2359,
+      "text": ": TD, AT SED AR ED,",
+      "score": 4
+    },
+    {
+      "line": 2573,
+      "text": "AADAMAAAAA 4 OAL Of",
+      "score": 4
+    },
+    {
+      "line": 2631,
+      "text": "NE OF THE PLEAS-",
+      "score": 4
+    },
+    {
+      "line": 3014,
+      "text": "aD, SS )",
+      "score": 4
+    },
+    {
+      "line": 3199,
+      "text": "LIS SSIS SID AAAAABDAADISASAAPAPAAAPBAARAMDAAD A AA Ae",
+      "score": 4
+    },
+    {
+      "line": 4687,
+      "text": "EES EERE LSD RG EE ORD BT NN Vo ET",
+      "score": 4
+    },
+    {
+      "line": 4826,
+      "text": "ESL AS PERSE, gobs oe AY SPRL DD RRR OREM RR MOM |",
+      "score": 4
+    },
+    {
+      "line": 5198,
+      "text": "KING Gir SND",
+      "score": 4
+    },
+    {
+      "line": 5200,
+      "text": "STHE TRESI DER aos",
+      "score": 4
+    },
+    {
+      "line": 5201,
+      "text": "My son ARRIVES HOME FROM ool MULTIPLY Stv HUNDRED ||“ No \"SAYS THE",
+      "score": 4
+    },
+    {
+      "line": 5202,
+      "text": "HGH SCHOOL. FLUSHED WITH BY THREE HUNDRED SIXTY FINE! iD.“ ITSEEMS [3",
+      "score": 4
+    },
+    {
+      "line": 5203,
+      "text": "FACTS. HE TELLS ME © CA YEARS WORTH OF SIKIN IN WE ALL HAVE",
+      "score": 4
+    },
+    {
+      "line": 5204,
+      "text": "PARTICLES OF SKIN EVERY THAT BY SIXTEEN YEARS || uicroBe TURE «",
+      "score": 4
+    },
+    {
+      "line": 5206,
+      "text": "Aca eaten € AND BOVBLE IT .. BECAUSE || BUGS TRoMeING Bs &",
+      "score": 4
+    },
+    {
+      "line": 5207,
+      "text": "OF WIVES IN THE BED AND BY",
+      "score": 4
+    },
+    {
+      "line": 5210,
+      "text": "ee REALIZE THAT NER THAT EVES |",
+      "score": 4
+    },
+    {
+      "line": 5211,
+      "text": "TIME PERIOD ») ELEVEN Ki )",
+      "score": 4
+    },
+    {
+      "line": 5212,
+      "text": "MILLION , SM HUNORED ee ‘iy",
+      "score": 4
+    },
+    {
+      "line": 5213,
+      "text": "THIRTR Tle O THOUSAND BO",
+      "score": 4
+    },
+    {
+      "line": 5219,
+      "text": "SKIN PARTICLES HAVE",
+      "score": 4
+    },
+    {
+      "line": 5220,
+      "text": "COLLECTED IN",
+      "score": 4
+    },
+    {
+      "line": 5223,
+      "text": "J. NOwW,L WAS",
+      "score": 4
+    },
+    {
+      "line": 5224,
+      "text": "REALWY OIGCEUSTED ..",
+      "score": 4
+    },
+    {
+      "line": 5227,
+      "text": "* Ewnire CWILIZATIONS LEAP “EMPIRES RISING AND",
+      "score": 4
+    },
+    {
+      "line": 5228,
+      "text": "OFF OF COMPARATIVE STRANGERS|| FALLING WITH A HANDSHAKES",
+      "score": 4
+    },
+    {
+      "line": 5231,
+      "text": "“AND LODGE ON YOUR Zopy’.",
+      "score": 4
+    },
+    {
+      "line": 5232,
+      "text": "SOOWV. , THE NEWCOMERS ARE SAID THE KID... L THOUGHT",
+      "score": 4
+    },
+    {
+      "line": 5235,
+      "text": "\"THE NEAT PART, “SAYS",
+      "score": 4
+    },
+    {
+      "line": 5236,
+      "text": "THE Kio,\" 1S HOW",
+      "score": 4
+    },
+    {
+      "line": 5237,
+      "text": "THE MICROBE BuG TWRES",
+      "score": 4
+    },
+    {
+      "line": 5240,
+      "text": "TRANSFER BY THE MONCHING ON YOUR Parties, || OF SHAKING HANDS THAT",
+      "score": 4
+    },
+    {
+      "line": 5241,
+      "text": "MILLIONS To ANY PERSON CCAR NG WITH THE Hn, bist G aes HANS ss",
+      "score": 4
+    },
+    {
+      "line": 5246,
+      "text": "CONTACT... ? L Hite",
+      "score": 4
+    },
+    {
+      "line": 5249,
+      "text": "Last YEAR .£ YAD 50 & KNOWS T'M NOT SueE..",
+      "score": 4
+    },
+    {
+      "line": 5250,
+      "text": "THE OPPORTUNITY TO WAVE LIMLE COMMIE || LATELY, © SusPecT",
+      "score": 4
+    },
+    {
+      "line": 5251,
+      "text": "SHAKE PAROS WITH MIC ROBE BUGS EVERY LITTLE RAM,",
+      "score": 4
+    },
+    {
+      "line": 5255,
+      "text": "OF \\T »» MUTE EVIDENCE",
+      "score": 4
+    },
+    {
+      "line": 5258,
+      "text": "~ AND HE ONCE",
+      "score": 4
+    },
+    {
+      "line": 5261,
+      "text": "PARTICLES »",
+      "score": 4
+    },
+    {
+      "line": 5264,
+      "text": "SCIENTIFIC CLOSEUP",
+      "score": 4
+    },
+    {
+      "line": 5265,
+      "text": "OF TEENAGE PIMPLE",
+      "score": 4
+    },
+    {
+      "line": 5266,
+      "text": "EXPLODING /",
+      "score": 4
+    },
+    {
+      "line": 5272,
+      "text": "X. FEEL SURE THAT",
+      "score": 4
+    },
+    {
+      "line": 5275,
+      "text": "TL BEGIN TS Tank THE",
+      "score": 4
+    },
+    {
+      "line": 5277,
+      "text": "u i HE DEBRIS",
+      "score": 4
+    },
+    {
+      "line": 5279,
+      "text": "| AFFECTING ME~ --- 2,",
+      "score": 4
+    },
+    {
+      "line": 5285,
+      "text": "THE BUGS PROBABLY DEVELOPED",
+      "score": 4
+    },
+    {
+      "line": 5286,
+      "text": "THEIR NUCLEAR CAPABILITY",
+      "score": 4
+    },
+    {
+      "line": 5287,
+      "text": "INTHE LATE SEVENTIES ..",
+      "score": 4
+    },
+    {
+      "line": 5295,
+      "text": ". SOON ACTER DISCOVERING",
+      "score": 4
+    },
+    {
+      "line": 5296,
+      "text": "THE RADIUM TRACES..",
+      "score": 4
+    },
+    {
+      "line": 5298,
+      "text": "THE RISE IN SKIN CANCER",
+      "score": 4
+    },
+    {
+      "line": 5299,
+      "text": "INTHE LOS ANGELES AREA",
+      "score": 4
+    },
+    {
+      "line": 5302,
+      "text": "THIS THEORY...",
+      "score": 4
+    },
+    {
+      "line": 5308,
+      "text": "DEPENDENT Now) ON",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 184,
+      "term": "interview",
+      "snippet": "The Battle by Peter Blue Cloud OUR ENEMIES OUR SELVES Interviewing Robert Fuller Giving Up the Gun = The Dangers Be Nuclear War Metrication Halts in Canada"
+    },
+    {
+      "line": 199,
+      "term": "whole systems",
+      "snippet": "Century by Peter Laurie Violence in Pornography, or not? Whole Systems 22 THE INDEPENDENT PRACTICE OF SCIENCE by James Lovelock 31 LYNN MARGULIS - UNLIKE"
+    },
+    {
+      "line": 214,
+      "term": "energy",
+      "snippet": "44 LIGHT RAIL - HOW TO MAKE IT WORK by Christopher Swan 56 Confessions of an Energy Professional by David A. Bainbridge 57 Reel Change » Appropriate Technology Directory # Reaching Up, Reaching Out ="
+    },
+    {
+      "line": 251,
+      "term": "interview",
+      "snippet": "65 Smith & Hawken Tool Company © 66 AMAN OF THE TREES Edward Goldsmith interviewing Richard St. Barbe Baker 70. My Life My Trees # Professional Timber Falling = The Illustrated Encyclopedia of Trees » Simon & Schuster’s Guide"
+    },
+    {
+      "line": 316,
+      "term": "community",
+      "snippet": "from Blackberry Press, Box 186, Brunswick, Main 04011. Blue Cloud and Swan both live near | Nevada City, California. - Stewart Brand (SB) Community Communications 76 SHRAMADANA - GIVING ENERGY 122 The Dream of aCommon Language = by Joanna Rogers Macy On Lies, Secrets and Silence » How to 82 Getting Well Again = Marijuana and Cancer Make and Sell Your Own Record"
+    },
+    {
+      "line": 318,
+      "term": "energy",
+      "snippet": "Nevada City, California. - Stewart Brand (SB) Community Communications 76 SHRAMADANA - GIVING ENERGY 122 The Dream of aCommon Language = by Joanna Rogers Macy On Lies, Secrets and Silence » How to 82 Getting Well Again = Marijuana and Cancer Make and Sell Your Own Record 83 Chase Scene » The Basic Back Book 123. The Magazine » Publish Your Photo"
+    },
+    {
+      "line": 332,
+      "term": "learning",
+      "snippet": "Chihuahua Hater by J. Baldwin 124 Good Movies by Sheila Benson 86 WHEN DID YOU SEE THE SUNRISE? Collected by Anne Herbert Learning 106 High Desert drawings by Michael Moore 109 The Elsinore Cowboy’s Goodbye by D. D. Harmon : 126 Teaching asa Conserving Activity"
+    },
+    {
+      "line": 344,
+      "term": "energy",
+      "snippet": "3 65 128 Bop It Out by R. Crumb Nomadics 132 Mime # The Solar Cookery Book = Get Your Hands On Energy 116 The Art and Adventure of Traveling 133 Nae Se Baden = Powered Old Cheapiy # The Magic Bus (Europe & ; east) = Hosteling USA = The Bed 134 The World’s Last Mysteries = Buddha,"
+    },
+    {
+      "line": 402,
+      "term": "interview",
+      "snippet": "SOLUTION OR DISSOLVE US TRYING. by Robert Fuller A two-part interview - part before and part after the Soviet invasion of Afghanistan. Fuller is at present a Senior Researcher at Worldwatch Institute in Wash- ington, D.C. He was President of Oberlin College from 1970 to 1974."
+    },
+    {
+      "line": 415,
+      "term": "interview",
+      "snippet": "Partly because of that experience he spent October and November of 1978 speaking and travelling in the Soviet Union. The first part of this article took place in June, 1979, as a syndicated radio interview with Michael Toms for New Dimension (a cassette of the full interview costs $15.50 from New Dimensions, 267 States St., San Francisco, CA 94114). In all of his efforts in recent years Fuller has an unhidden agenda - -"
+    },
+    {
+      "line": 416,
+      "term": "interview",
+      "snippet": "1978 speaking and travelling in the Soviet Union. The first part of this article took place in June, 1979, as a syndicated radio interview with Michael Toms for New Dimension (a cassette of the full interview costs $15.50 from New Dimensions, 267 States St., San Francisco, CA 94114). In all of his efforts in recent years Fuller has an unhidden agenda - - finding how to change the world’s geopolitical habits away from war."
+    },
+    {
+      "line": 1015,
+      "term": "energy",
+      "snippet": "the case that it was viewed as a fairly good game to play. A lot of energy and patriotism, a lot of things for the women to do too, and just high enough odds of death to be exciting and make"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Beers"
+    },
+    {
+      "line": 4,
+      "text": "‘The Battle"
+    },
+    {
+      "line": 7,
+      "text": "by Peter Blue Cloud"
+    },
+    {
+      "line": 10,
+      "text": "They were so angry that they decided"
+    },
+    {
+      "line": 11,
+      "text": "to have a battle. So terrible was their anger"
+    },
+    {
+      "line": 12,
+      "text": "that they would not wait, but declared that"
+    },
+    {
+      "line": 13,
+      "text": "the fight must be fought now, immediately,"
+    },
+    {
+      "line": 14,
+      "text": "on this very spot. Fox blamed what he"
+    },
+    {
+      "line": 15,
+      "text": "considered to be the crime on Badger."
+    },
+    {
+      "line": 16,
+      "text": "Badger in turn was all for placing the blame"
+    },
+    {
+      "line": 17,
+      "text": "on Cougar."
+    },
+    {
+      "line": 19,
+      "text": "Jackrabbit hopped in agitation, calling"
+    },
+    {
+      "line": 20,
+      "text": "for Mole and for Mouse, and for Deer and"
+    },
+    {
+      "line": 21,
+      "text": "Bear to fetch their sharpest arrows and"
+    },
+    {
+      "line": 22,
+      "text": "their heaviest warclubs. |"
+    },
+    {
+      "line": 25,
+      "text": "By the time Coyote arrived the sides"
+    },
+    {
+      "line": 26,
+      "text": "had already been chosen, the battle lines"
+    },
+    {
+      "line": 27,
+      "text": "formed, and the smell of hate and future"
+    },
+    {
+      "line": 28,
+      "text": "bloodshed permeated the very air."
+    },
+    {
+      "line": 30,
+      "text": "He, Coyote, listened to all the threats"
+    },
+    {
+      "line": 31,
+      "text": "» and promises of broken bodies to be. He"
+    },
+    {
+      "line": 32,
+      "text": ", walked out and stood between the enemies,"
+    },
+    {
+      "line": 33,
+      "text": "declaring very solemnly, and in a very"
+    },
+    {
+      "line": 34,
+      "text": "- soft voice:"
+    },
+    {
+      "line": 36,
+      "text": ", eae “No, I cannot allow this great fight to"
+    },
+    {
+      "line": 38,
+      "text": ": happen just yet. There has been no battle-"
+    },
+    {
+      "line": 39,
+      "text": "preparation dance. There has been no pipe"
+    },
+    {
+      "line": 40,
+      "text": "= of cleansing. No, the Creation does not"
+    },
+    {
+      "line": 43,
+      "text": "@,, Wish this battle to take place just yet.”"
+    },
+    {
+      "line": 46,
+      "text": "And some say it was Bear, but strangely,"
+    },
+    {
+      "line": 47,
+      "text": "no one actually remembers just who it was."
+    },
+    {
+      "line": 48,
+      "text": "Bear denied the accusation, but someone"
+    },
+    {
+      "line": 49,
+      "text": "ran from one of the lines and struck."
+    },
+    {
+      "line": 50,
+      "text": "Coyote dead!"
+    },
+    {
+      "line": 52,
+      "text": "And Coyote fell and indeed lay there,"
+    },
+    {
+      "line": 53,
+      "text": "very dead. And the cry for immediate"
+    },
+    {
+      "line": 54,
+      "text": "battle was resumed, and the menacing cries"
+    },
+    {
+      "line": 55,
+      "text": "for blood again filled the air, ;"
+    },
+    {
+      "line": 57,
+      "text": "when, from"
+    },
+    {
+      "line": 58,
+      "text": "the opposite end of the battle lines, Coyote"
+    }
+  ]
+}

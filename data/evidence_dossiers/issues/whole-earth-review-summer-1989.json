@@ -1,0 +1,800 @@
+{
+  "title": "Whole Earth Review, Summer 1989",
+  "identifier": "wholeearthreview00unse_18",
+  "year": 1989,
+  "season": "Summer",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/whole-earth-review-summer-1989",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_18",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_18/wholeearthreview00unse_18.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_18/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthreview00unse_18_djvu.txt",
+  "ocr_chars": 656631,
+  "significant_line_count": 15866,
+  "theme_counts": {
+    "software_computing": 251,
+    "tools_craft": 186,
+    "ecology_place": 292,
+    "learning_media": 499,
+    "community_politics": 441
+  },
+  "top_themes": [
+    "learning_media",
+    "community_politics",
+    "ecology_place"
+  ],
+  "page_markers": [
+    {
+      "line": 512,
+      "page": 2,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n3_w500.jpg"
+    },
+    {
+      "line": 750,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO, CA 94965 3",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n28_w500.jpg"
+    },
+    {
+      "line": 800,
+      "page": 4,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n5_w500.jpg"
+    },
+    {
+      "line": 1044,
+      "page": 6,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n7_w500.jpg"
+    },
+    {
+      "line": 1294,
+      "page": 8,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n9_w500.jpg"
+    },
+    {
+      "line": 3202,
+      "page": 20,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n21_w500.jpg"
+    },
+    {
+      "line": 3355,
+      "page": 22,
+      "title": "WHOLE EARTH REVIEW . SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n23_w500.jpg"
+    },
+    {
+      "line": 3886,
+      "page": 26,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n27_w500.jpg"
+    },
+    {
+      "line": 4117,
+      "page": 28,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n29_w500.jpg"
+    },
+    {
+      "line": 4421,
+      "page": 30,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n31_w500.jpg"
+    },
+    {
+      "line": 4771,
+      "page": 32,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n33_w500.jpg"
+    },
+    {
+      "line": 5342,
+      "page": 34,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n35_w500.jpg"
+    },
+    {
+      "line": 5833,
+      "page": 38,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n39_w500.jpg"
+    },
+    {
+      "line": 6081,
+      "page": 40,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n41_w500.jpg"
+    },
+    {
+      "line": 6335,
+      "page": 42,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n43_w500.jpg"
+    },
+    {
+      "line": 6848,
+      "page": 44,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n45_w500.jpg"
+    },
+    {
+      "line": 7352,
+      "page": 48,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n49_w500.jpg"
+    },
+    {
+      "line": 7560,
+      "page": 50,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n51_w500.jpg"
+    },
+    {
+      "line": 7757,
+      "page": 52,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n53_w500.jpg"
+    },
+    {
+      "line": 8007,
+      "page": 54,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n55_w500.jpg"
+    },
+    {
+      "line": 8332,
+      "page": 56,
+      "title": "WHOLE EARTH REVIEW. SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n57_w500.jpg"
+    },
+    {
+      "line": 8572,
+      "page": 58,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n59_w500.jpg"
+    },
+    {
+      "line": 9094,
+      "page": 60,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n61_w500.jpg"
+    },
+    {
+      "line": 9262,
+      "page": 62,
+      "title": "WHOLE EARTH REVIEW SUMMER 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_18/page/n63_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 512,
+      "text": "2 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 800,
+      "text": "4 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 1044,
+      "text": "6 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 1294,
+      "text": "8 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 3202,
+      "text": "20 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 3355,
+      "text": "22 WHOLE EARTH REVIEW . SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 3886,
+      "text": "26 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 4117,
+      "text": "28 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 4421,
+      "text": "30 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 4771,
+      "text": "32 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 5342,
+      "text": "34 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 5833,
+      "text": "38 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 6081,
+      "text": "40 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 6335,
+      "text": "42 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 6848,
+      "text": "44 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 7352,
+      "text": "48 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 7560,
+      "text": "50 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 7757,
+      "text": "52 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 8007,
+      "text": "54 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 8332,
+      "text": "56 WHOLE EARTH REVIEW. SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 8572,
+      "text": "58 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 9094,
+      "text": "60 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 9262,
+      "text": "62 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 9532,
+      "text": "64 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 9755,
+      "text": "66 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 9994,
+      "text": "68 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 10810,
+      "text": "72 WHOLE EARTH REVIEW . SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 11059,
+      "text": "74 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 11416,
+      "text": "76 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 11655,
+      "text": "78 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 11878,
+      "text": "80 WHOLE EARTH REVIEW. SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 12196,
+      "text": "82 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 12786,
+      "text": "86 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 13001,
+      "text": "88 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 13267,
+      "text": "90 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 13504,
+      "text": "92 WHOLE EARTH REVIEW. SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 13658,
+      "text": "94 WHOLE EARTH REVIEW SUMMER 1989 .",
+      "score": 10
+    },
+    {
+      "line": 13906,
+      "text": "96 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 14210,
+      "text": "98 WHOLE EARTH REVIEW SUMMER 1989",
+      "score": 10
+    },
+    {
+      "line": 750,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 3",
+      "score": 8
+    },
+    {
+      "line": 965,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5",
+      "score": 8
+    },
+    {
+      "line": 1220,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 7",
+      "score": 8
+    },
+    {
+      "line": 3182,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : 9",
+      "score": 8
+    },
+    {
+      "line": 3316,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 21",
+      "score": 8
+    },
+    {
+      "line": 3497,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 23",
+      "score": 8
+    },
+    {
+      "line": 4067,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 27",
+      "score": 8
+    },
+    {
+      "line": 4347,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 29",
+      "score": 8
+    },
+    {
+      "line": 5222,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 33",
+      "score": 8
+    },
+    {
+      "line": 5539,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 35",
+      "score": 8
+    },
+    {
+      "line": 5759,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 37",
+      "score": 8
+    },
+    {
+      "line": 5983,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 39",
+      "score": 8
+    },
+    {
+      "line": 6765,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 43",
+      "score": 8
+    },
+    {
+      "line": 7089,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 45",
+      "score": 8
+    },
+    {
+      "line": 7266,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 47",
+      "score": 8
+    },
+    {
+      "line": 7521,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 49",
+      "score": 8
+    },
+    {
+      "line": 7938,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 53",
+      "score": 8
+    },
+    {
+      "line": 8187,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 55",
+      "score": 8
+    },
+    {
+      "line": 8975,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 59",
+      "score": 8
+    },
+    {
+      "line": 9459,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 63",
+      "score": 8
+    },
+    {
+      "line": 9722,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 65",
+      "score": 8
+    },
+    {
+      "line": 9911,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 67",
+      "score": 8
+    },
+    {
+      "line": 10196,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 69",
+      "score": 8
+    },
+    {
+      "line": 11022,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 73",
+      "score": 8
+    },
+    {
+      "line": 11332,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 75",
+      "score": 8
+    },
+    {
+      "line": 11593,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 77",
+      "score": 8
+    },
+    {
+      "line": 11823,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 79",
+      "score": 8
+    },
+    {
+      "line": 12470,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 83",
+      "score": 8
+    },
+    {
+      "line": 12731,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 85",
+      "score": 8
+    },
+    {
+      "line": 12932,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 87",
+      "score": 8
+    },
+    {
+      "line": 13148,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 89",
+      "score": 8
+    },
+    {
+      "line": 13377,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 9 :",
+      "score": 8
+    },
+    {
+      "line": 13645,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 93",
+      "score": 8
+    },
+    {
+      "line": 13825,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 95",
+      "score": 8
+    },
+    {
+      "line": 14121,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 97",
+      "score": 8
+    },
+    {
+      "line": 18941,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : 21",
+      "score": 8
+    },
+    {
+      "line": 21426,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : 33",
+      "score": 8
+    },
+    {
+      "line": 21778,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 23751,
+      "text": "27 GATE FIVE ROAD, SAUSALITO,",
+      "score": 8
+    },
+    {
+      "line": 206,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 216,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    }
+  ],
+  "snippets": [
+    {
+      "line": 56,
+      "term": "interview",
+      "snippet": "by Timothy Haight 78 Cyberpunk Era Interviews with William Gibson | 83 Cyberpunk 101 Reading | List 7 by Richard Kadrey"
+    },
+    {
+      "line": 189,
+      "term": "community",
+      "snippet": "HEALTH Growing Old Is Not For Sissies 0 WSA Community Pharmacy - 1 Cholesterol Dysfunctional Families by Corinne Cullen Hawkins"
+    },
+    {
+      "line": 206,
+      "term": "community",
+      "snippet": "Bradshaw On: The Family DC The Self-Help Sourcebook COMMUNITY 20/20 Vision HOUSEHOLD The Portable Office"
+    },
+    {
+      "line": 216,
+      "term": "communications",
+      "snippet": "0 Sony World Band Radio System 0 DAK COMMUNICATIONS Watchmen Bull’s Eye 0 Those Annoying Post Brothers 0 Savage Henry"
+    },
+    {
+      "line": 232,
+      "term": "learning",
+      "snippet": "Non-Linear Fiction by Sarah Vandershaf LEARNING The Science of Fractal Images 1 Mathematica Graphic Design for the Elec-"
+    },
+    {
+      "line": 249,
+      "term": "software",
+      "snippet": "© Tips and Techniques for Using Low-Cost and Public Domain Software Caucus 0 Paradox 2 Interactive Music Software O- SCORE"
+    },
+    {
+      "line": 253,
+      "term": "software",
+      "snippet": "Domain Software Caucus 0 Paradox 2 Interactive Music Software O- SCORE Roland Digital Pianos 2 Home Recording 0 Roland"
+    },
+    {
+      "line": 347,
+      "term": "whole systems",
+      "snippet": "1 PI AS TF Res Be re Paap! Orn Sri gay ON tee he + WHOLE SYSTEMS SimCity 0 Hidden Agenda The Insider’s Guide to Demographic Know-How"
+    },
+    {
+      "line": 1098,
+      "term": "learning",
+      "snippet": "ment I remember being surprised whenever] - felt my spine reposition itself. Later, after learning Sufi dancing, I remember being sur- prised when I just took a relaxed breath while standing, and my whole back re- aligned,”’"
+    },
+    {
+      "line": 1216,
+      "term": "energy",
+      "snippet": "I loved the folk dancing, the reels, squares, etc. - the clear sense of a communal form, the energy and groundedness of it. Everyone needed to participate fully and equally to 27 GATE FIVE ROAD SAUSALITO, CA 94965 7 complete the pattern, much like the pieces"
+    },
+    {
+      "line": 1260,
+      "term": "energy",
+      "snippet": "and its banks, and have very little sense of specific body parts but a general sense of different textures of internal energy. In striking contrast to the dualistic sense of the body, which is most common in Western literature and philosophy, is this image written of Truong,"
+    },
+    {
+      "line": 1323,
+      "term": "learning",
+      "snippet": "terms of that system. ‘‘I learned to understand human characters and fortunes through all parts of the body. With that kind of learning, I never see the human body isolated from the whole context of life.”’ | As in the other stories I’ve told, Truong’s contains"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Summer 1989 $5 ($6 Canadian)"
+    },
+    {
+      "line": 4,
+      "text": "How culture"
+    },
+    {
+      "line": 5,
+      "text": "shapes your"
+    },
+    {
+      "line": 6,
+      "text": "body p.4"
+    },
+    {
+      "line": 9,
+      "text": "The evolution"
+    },
+    {
+      "line": 10,
+      "text": "| of the body into"
+    },
+    {
+      "line": 11,
+      "text": "machine p. 12"
+    },
+    {
+      "line": 14,
+      "text": "| The spiritual"
+    },
+    {
+      "line": 16,
+      "text": "| challenge of"
+    },
+    {
+      "line": 18,
+      "text": "| living through"
+    },
+    {
+      "line": 19,
+      "text": "| the body pp. 24"
+    },
+    {
+      "line": 22,
+      "text": "Cyberpunk"
+    },
+    {
+      "line": 25,
+      "text": "The science of"
+    },
+    {
+      "line": 26,
+      "text": "complexity p. 94"
+    },
+    {
+      "line": 36,
+      "text": "Number 63 FEATURES | Summer 1989"
+    },
+    {
+      "line": 49,
+      "text": "71 When Women Take Over"
+    },
+    {
+      "line": 50,
+      "text": "by Ruth Wallsgrove"
+    },
+    {
+      "line": 53,
+      "text": "74 Living in the Office"
+    },
+    {
+      "line": 54,
+      "text": "by Timothy Haight"
+    },
+    {
+      "line": 55,
+      "text": "78 Cyberpunk Era"
+    },
+    {
+      "line": 56,
+      "text": "Interviews with William Gibson |"
+    },
+    {
+      "line": 57,
+      "text": "83 Cyberpunk 101 Reading |"
+    },
+    {
+      "line": 58,
+      "text": "List 7"
+    },
+    {
+      "line": 59,
+      "text": "by Richard Kadrey"
+    },
+    {
+      "line": 62,
+      "text": "84 Cyberspace"
+    },
+    {
+      "line": 63,
+      "text": "by Stewart Brand and Kevin Kelly"
+    },
+    {
+      "line": 66,
+      "text": "94 Simple Words About the"
+    },
+    {
+      "line": 67,
+      "text": "New Science of Complexity"
+    },
+    {
+      "line": 68,
+      "text": "A talk with George Cowan"
+    },
+    {
+      "line": 71,
+      "text": "102 Good Videos:"
+    },
+    {
+      "line": 72,
+      "text": "International Satire"
+    },
+    {
+      "line": 75,
+      "text": "by Corinne Cullen Hawkins"
+    },
+    {
+      "line": 76,
+      "text": "and Sarah Vandershaf"
+    },
+    {
+      "line": 79,
+      "text": "106 A Poor Man’s"
+    },
+    {
+      "line": 80,
+      "text": "Reference Library"
+    },
+    {
+      "line": 81,
+      "text": "by Andrew Dick"
+    },
+    {
+      "line": 84,
+      "text": "109 Study the Latin, I Pray You"
+    },
+    {
+      "line": 85,
+      "text": "by C. J. Hincke"
+    },
+    {
+      "line": 88,
+      "text": "114 Spadefoot Packrat"
+    },
+    {
+      "line": 89,
+      "text": "Havahart"
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "title": "Whole Earth Catalog, Spring 1970",
+  "identifier": "wholeearthcatalo00unse_1",
+  "year": 1970,
+  "season": "Spring",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 148,
+  "url": "https://wholeearth.info/p/whole-earth-catalog-spring-1970",
+  "archive_url": "https://archive.org/details/wholeearthcatalo00unse_1",
+  "pdf_url": "https://archive.org/download/wholeearthcatalo00unse_1/wholeearthcatalo00unse_1.pdf",
+  "cover_url": "https://archive.org/download/wholeearthcatalo00unse_1/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthcatalo00unse_1_djvu.txt",
+  "ocr_chars": 1303327,
+  "significant_line_count": 28245,
+  "theme_counts": {
+    "software_computing": 120,
+    "tools_craft": 1069,
+    "ecology_place": 1242,
+    "learning_media": 1271,
+    "community_politics": 475
+  },
+  "top_themes": [
+    "learning_media",
+    "ecology_place",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 1195,
+      "page": 8,
+      "title": "LANGUAGE 64, 65, 78, 123, 135",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_1/page/n9_w500.jpg"
+    },
+    {
+      "line": 1211,
+      "page": 3,
+      "title": "LOG HOUSE 24, 25",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_1/page/n4_w500.jpg"
+    },
+    {
+      "line": 2532,
+      "page": 2,
+      "title": "FIGURE 8.23. 4",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_1/page/n3_w500.jpg"
+    },
+    {
+      "line": 8870,
+      "page": 1,
+      "title": "ESTIMATING",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_1/page/n2_w500.jpg"
+    },
+    {
+      "line": 10484,
+      "page": 7,
+      "title": "BELOW FROST LINE",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_1/page/n8_w500.jpg"
+    },
+    {
+      "line": 19104,
+      "page": 4,
+      "title": "DIVISION OF WILL ROSS, INC",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_1/page/n5_w500.jpg"
+    },
+    {
+      "line": 28592,
+      "page": 6,
+      "title": "TO 10 LBS.",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_1/page/n7_w500.jpg"
+    },
+    {
+      "line": 28614,
+      "page": 40,
+      "title": "TO 45 LBS.",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_1/page/n41_w500.jpg"
+    },
+    {
+      "line": 33881,
+      "page": 86,
+      "title": "C 45818............ 19.49",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_1/page/n87_w500.jpg"
+    },
+    {
+      "line": 40457,
+      "page": 70,
+      "title": "MULES",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_1/page/n71_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 1195,
+      "text": "8 LANGUAGE 64, 65, 78, 123, 135",
+      "score": 8
+    },
+    {
+      "line": 1211,
+      "text": "3 LOG HOUSE 24, 25",
+      "score": 8
+    },
+    {
+      "line": 2532,
+      "text": "2 FIGURE 8.23. 4",
+      "score": 8
+    },
+    {
+      "line": 6912,
+      "text": "3 SSS 5S",
+      "score": 8
+    },
+    {
+      "line": 8734,
+      "text": "3 PIPE",
+      "score": 8
+    },
+    {
+      "line": 8870,
+      "text": "1 ESTIMATING",
+      "score": 8
+    },
+    {
+      "line": 10480,
+      "text": "2 BRACES",
+      "score": 8
+    },
+    {
+      "line": 10484,
+      "text": "7 BELOW FROST LINE",
+      "score": 8
+    },
+    {
+      "line": 18550,
+      "text": "7 ENASEES LING",
+      "score": 8
+    },
+    {
+      "line": 19104,
+      "text": "4 DIVISION OF WILL ROSS, INC",
+      "score": 8
+    },
+    {
+      "line": 20182,
+      "text": "4 WINCH",
+      "score": 8
+    },
+    {
+      "line": 22491,
+      "text": "7 ART AND ILLUSION",
+      "score": 8
+    },
+    {
+      "line": 27029,
+      "text": "1 GOING TO TUNER",
+      "score": 8
+    },
+    {
+      "line": 28589,
+      "text": "3 TO 5LBS.",
+      "score": 8
+    },
+    {
+      "line": 28592,
+      "text": "6 TO 10 LBS.",
+      "score": 8
+    },
+    {
+      "line": 28614,
+      "text": "40 TO 45 LBS.",
+      "score": 8
+    },
+    {
+      "line": 33881,
+      "text": "86 C 45818............ 19.49",
+      "score": 8
+    },
+    {
+      "line": 40457,
+      "text": "70 MULES",
+      "score": 8
+    },
+    {
+      "line": 942,
+      "text": "ECOLOGY 6-11, 31-33, 37, 38, 61, 82, 89,",
+      "score": 6
+    },
+    {
+      "line": 1499,
+      "text": "SOLAR ENERGY 38, 61, 107, 129",
+      "score": 6
+    },
+    {
+      "line": 2474,
+      "text": "ISSUES IN HUMAN ECOLOGY.",
+      "score": 6
+    },
+    {
+      "line": 4265,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 13744,
+      "text": "WEW SOURCES OF ENERGY",
+      "score": 6
+    },
+    {
+      "line": 18844,
+      "text": "BOOK REVIEWS.",
+      "score": 6
+    },
+    {
+      "line": 26127,
+      "text": "STUDY / REVIEW DECKS @ $8.95 ea.",
+      "score": 6
+    },
+    {
+      "line": 27945,
+      "text": "621.47. SOLAR ENERGY ENGINEERING.",
+      "score": 6
+    },
+    {
+      "line": 38117,
+      "text": "SUGGESTED & REVIEWED BY SAGE",
+      "score": 6
+    },
+    {
+      "line": 49724,
+      "text": "|= ALEARNING TO LEARN CATALOG:",
+      "score": 6
+    },
+    {
+      "line": 61,
+      "text": "RETAINING SUBSCRIBERS",
+      "score": 4
+    },
+    {
+      "line": 64,
+      "text": "FUNCTION",
+      "score": 4
+    },
+    {
+      "line": 104,
+      "text": "PURPOSE",
+      "score": 4
+    },
+    {
+      "line": 127,
+      "text": "i ‘ts gi SUSTAINING SUBSCRIBERS",
+      "score": 4
+    },
+    {
+      "line": 402,
+      "text": "CATALOG",
+      "score": 4
+    },
+    {
+      "line": 670,
+      "text": "ACTING 69, 133",
+      "score": 4
+    },
+    {
+      "line": 672,
+      "text": "ADOBE 27 ;",
+      "score": 4
+    },
+    {
+      "line": 677,
+      "text": "AGRICULTURE 7, 11, 31-34, 36, 37, 39,",
+      "score": 4
+    },
+    {
+      "line": 683,
+      "text": "AIRPLANES 116, 118, 119",
+      "score": 4
+    },
+    {
+      "line": 702,
+      "text": "AMERICAN INDIANS 51, 93, 98, 102,",
+      "score": 4
+    },
+    {
+      "line": 707,
+      "text": "» ANTHROPOLOGY 11-13, 19, 31, 35, 63,",
+      "score": 4
+    },
+    {
+      "line": 710,
+      "text": "ARCHITECTURE 4, 18-20, 22, 24-30, 39,",
+      "score": 4
+    },
+    {
+      "line": 723,
+      "text": "ART 8, 19, 43, 46, 50, 62-65, 78, 81, 124",
+      "score": 4
+    },
+    {
+      "line": 732,
+      "text": "ASTRONOMY 5, 13, 16, 58, 115, 125,",
+      "score": 4
+    },
+    {
+      "line": 738,
+      "text": "AUTO REPAIR 112, 113",
+      "score": 4
+    },
+    {
+      "line": 756,
+      "text": "BICYCLES. 111",
+      "score": 4
+    },
+    {
+      "line": 765,
+      "text": "BLACKSMITHING 45",
+      "score": 4
+    },
+    {
+      "line": 768,
+      "text": "BOATS 114, 115, 119",
+      "score": 4
+    },
+    {
+      "line": 771,
+      "text": "BOOKMAKING 44, 78, 79, 124",
+      "score": 4
+    },
+    {
+      "line": 773,
+      "text": "BOOKS 78-81, 98, 100, 128",
+      "score": 4
+    },
+    {
+      "line": 775,
+      "text": "BRAIN. 67, 132, 134-38",
+      "score": 4
+    },
+    {
+      "line": 784,
+      "text": "BUILDING MATERIALS 26-28, 39-41,",
+      "score": 4
+    },
+    {
+      "line": 787,
+      "text": "BUSINESS EQUIPMENT 39, 53, 57, 74 '",
+      "score": 4
+    },
+    {
+      "line": 788,
+      "text": "BUYING CHEAP 36, 39, 54-56, 79, 94,",
+      "score": 4
+    },
+    {
+      "line": 797,
+      "text": "CAMPING 24, 25, 35, 84, 102-108,",
+      "score": 4
+    },
+    {
+      "line": 799,
+      "text": "CAMPING EQUIPMENT 35, 82, 93,",
+      "score": 4
+    },
+    {
+      "line": 803,
+      "text": "CARPENTRY 22-25, 27, 42-44",
+      "score": 4
+    },
+    {
+      "line": 806,
+      "text": "CASTING 43, 47",
+      "score": 4
+    },
+    {
+      "line": 815,
+      "text": "CHAIN SAW 25",
+      "score": 4
+    },
+    {
+      "line": 821,
+      "text": "CHEAP TRAVEL 118",
+      "score": 4
+    },
+    {
+      "line": 822,
+      "text": "CHEMISTRY 33, 52,57, 99, 128, 129, 134",
+      "score": 4
+    },
+    {
+      "line": 823,
+      "text": "CHILDBIRTH 92, 120",
+      "score": 4
+    },
+    {
+      "line": 826,
+      "text": "CHILDREN 42,92, 93, 120-125",
+      "score": 4
+    },
+    {
+      "line": 838,
+      "text": "COMMUNE 18, 19, 35, 39, 83, 86, 88, 89,",
+      "score": 4
+    },
+    {
+      "line": 858,
+      "text": "COOKING 82-85, 102, 108,",
+      "score": 4
+    },
+    {
+      "line": 861,
+      "text": "CORRESPONDENCE SCHOOLS” 131",
+      "score": 4
+    },
+    {
+      "line": 863,
+      "text": "COSMOS 4,5, 12-14, 16, 64, 65, 125,",
+      "score": 4
+    },
+    {
+      "line": 872,
+      "text": "CRAFT SUPPLIES 43, 44, 46-49",
+      "score": 4
+    },
+    {
+      "line": 884,
+      "text": "CYBERNETICS 4, 10, 12, 15, 63, 66, 67,",
+      "score": 4
+    },
+    {
+      "line": 891,
+      "text": "DEATH",
+      "score": 4
+    },
+    {
+      "line": 898,
+      "text": "DESIGN 4, 15, 19, 20, 29, 30, 51, 56, 58,",
+      "score": 4
+    },
+    {
+      "line": 911,
+      "text": "DOGS 99, 108, 125:-%..",
+      "score": 4
+    },
+    {
+      "line": 915,
+      "text": "DOMES. 4, 15, 18-22, 29, 30, 40, 41, 98,",
+      "score": 4
+    },
+    {
+      "line": 920,
+      "text": "DRAWING 43, 62, 68, 78",
+      "score": 4
+    },
+    {
+      "line": 923,
+      "text": "DRUGS 31, 34, 53, 71, 85, 93, 97, 121,",
+      "score": 4
+    },
+    {
+      "line": 927,
+      "text": "DYEING 49,50",
+      "score": 4
+    },
+    {
+      "line": 944,
+      "text": "ECONOMICS 4, 6-9, 17, 44, 74, 81,87, 94",
+      "score": 4
+    },
+    {
+      "line": 963,
+      "text": "‘ELECTRICITY 23, 24, 38, 52, 77, 129, 135",
+      "score": 4
+    },
+    {
+      "line": 966,
+      "text": "ELECTRONIC MUSIC 70",
+      "score": 4
+    },
+    {
+      "line": 969,
+      "text": "ELECTRONICS 53, 70, 71, 76, 77, 112, 135",
+      "score": 4
+    },
+    {
+      "line": 987,
+      "text": "EVOLUTION 4, 10-13, 15-17, 61, 64",
+      "score": 4
+    },
+    {
+      "line": 1000,
+      "text": "FERRO-CEMENT 23, 24, 27, 41",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 121,
+      "term": "tools",
+      "snippet": "With it, the user should know better what is worth getting and experience Tools that aid this process are sought and promoted by the WHOLE EARTH CATALOG. i ‘ts gi SUSTAINING SUBSCRIBERS Rockford, Illinois"
+    },
+    {
+      "line": 556,
+      "term": "tools",
+      "snippet": "information exchange to suppliers, but not favors. Our obligation is to CATALOG users and to ourselves to be good tools for one another. The photograph, courtesy Lick Observatory, shows the M-31 Andromeda galaxy, which is considered similar to our own in structure and size. Where the thought"
+    },
+    {
+      "line": 650,
+      "term": "whole systems",
+      "snippet": "* yar ~ Ne » Oi oe Re Whole Systems er Bes 3 Shelter and Land Use Industry and Craft Community 62 ."
+    },
+    {
+      "line": 655,
+      "term": "community",
+      "snippet": "Bes 3 Shelter and Land Use Industry and Craft Community 62 . Communications 82 Nomadics 102 Learning 120"
+    },
+    {
+      "line": 656,
+      "term": "communications",
+      "snippet": "Industry and Craft Community 62 . Communications 82 Nomadics 102 Learning 120 * = new item"
+    },
+    {
+      "line": 658,
+      "term": "learning",
+      "snippet": "Communications 82 Nomadics 102 Learning 120 * = new item * AAA Adding Machine id ea 74 * ABC of Reading 81"
+    },
+    {
+      "line": 780,
+      "term": "tools",
+      "snippet": "Horse 110 Brent Potter's Wheel 46 Brookstone Tools 54 * Buchla Synthesizer 70 * Building a Log House 24 Building Maintenance 24"
+    },
+    {
+      "line": 796,
+      "term": "tools",
+      "snippet": "H. A. Calahan, Inc. (paints) 41 Camp and Trai! Outfitters 106 * Campbell Tools 55 CAMPING 24, 25, 35, 84, 102-108, CAMPING EQUIPMENT 35, 82, 93, Camping and Woodcraft 102"
+    },
+    {
+      "line": 807,
+      "term": "learning",
+      "snippet": "* Cascades 74 CASTING 43, 47 * Catalog for Learning Things 130 Caulking Compounds 41 CeCoCo 39 * Cement Mason‘s Manual for Residential"
+    },
+    {
+      "line": 840,
+      "term": "community",
+      "snippet": "*Commonsense Childbirth 92 COMMUNE 18, 19, 35, 39, 83, 86, 88, 89, Community Playthings 120 The Complete Walker 102 * Composition of Foods 84 * Composting 37"
+    },
+    {
+      "line": 905,
+      "term": "energy",
+      "snippet": "* Diderot Pictorial Encyclopedia of Trades and Industry 51 Direct Use of the Sun’s Energy 61 ° * Directory of Accredited Private Home Study Schools 131 * Directory of Free Schools 88"
+    },
+    {
+      "line": 942,
+      "term": "ecology",
+      "snippet": "*Earth Times 8 * Eastern Mountain Sports, Inc. 106 ECOLOGY 6-11, 31-33, 37, 38, 61, 82, 89, ECONOMICS 4, 6-9, 17, 44, 74, 81,87, 94 * Ecotactics 9 Eddie Bauer 105"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "ing 1970"
+    },
+    {
+      "line": 12,
+      "text": "i Julia Brand"
+    },
+    {
+      "line": 13,
+      "text": "‘Sane Forrest A. Richey, Jr."
+    },
+    {
+      "line": 14,
+      "text": "Figaro Ue: Frederick W. Davis"
+    },
+    {
+      "line": 15,
+      "text": "] Clark Gesner"
+    },
+    {
+      "line": 16,
+      "text": "John E. Clay"
+    },
+    {
+      "line": 17,
+      "text": "Daniel M. Beach"
+    },
+    {
+      "line": 20,
+      "text": "Mark Albert"
+    },
+    {
+      "line": 21,
+      "text": "John Doss"
+    },
+    {
+      "line": 22,
+      "text": "Edmund Scientific Co."
+    },
+    {
+      "line": 23,
+      "text": "Henry Jacobs and Assoc."
+    },
+    {
+      "line": 24,
+      "text": "Edward Rosenfeld"
+    },
+    {
+      "line": 25,
+      "text": "St. George Bryan"
+    },
+    {
+      "line": 26,
+      "text": "Geoffrey Gates"
+    },
+    {
+      "line": 27,
+      "text": "Lp hey Peter Cornell"
+    },
+    {
+      "line": 28,
+      "text": "ane Bill Davis"
+    },
+    {
+      "line": 29,
+      "text": "7 Halbert Speer"
+    },
+    {
+      "line": 31,
+      "text": "Constance Hwang"
+    },
+    {
+      "line": 32,
+      "text": "_ Terry Borton"
+    },
+    {
+      "line": 34,
+      "text": "Frederick and Karen Worden"
+    },
+    {
+      "line": 35,
+      "text": ", Don Winsberg"
+    },
+    {
+      "line": 37,
+      "text": "Jeffrey Mitchell"
+    },
+    {
+      "line": 39,
+      "text": "The Committee"
+    },
+    {
+      "line": 41,
+      "text": "Mrs. Audrey Sabol"
+    },
+    {
+      "line": 43,
+      "text": "Paul Kventsky"
+    },
+    {
+      "line": 45,
+      "text": "Syntex Corporation"
+    },
+    {
+      "line": 47,
+      "text": "Geoff Stirling"
+    },
+    {
+      "line": 49,
+      "text": "Bernard Loven"
+    },
+    {
+      "line": 51,
+      "text": "Ronald Jorgensen"
+    },
+    {
+      "line": 52,
+      "text": "_ Gerald J. Driessen"
+    },
+    {
+      "line": 53,
+      "text": "~ Joseph L. Bridger"
+    },
+    {
+      "line": 55,
+      "text": "Joe & Ann McConnell, Jr."
+    },
+    {
+      "line": 57,
+      "text": "Vera L. Pratt"
+    },
+    {
+      "line": 58,
+      "text": "_ Jim Temple"
+    },
+    {
+      "line": 61,
+      "text": "RETAINING SUBSCRIBERS"
+    },
+    {
+      "line": 64,
+      "text": "FUNCTION"
+    },
+    {
+      "line": 67,
+      "text": "The WHOLE EARTH CATALOG functions as an evaluation and access"
+    },
+    {
+      "line": 70,
+      "text": "device."
+    },
+    {
+      "line": 73,
+      "text": "where"
+    },
+    {
+      "line": 76,
+      "text": "and how to do the getting."
+    }
+  ]
+}

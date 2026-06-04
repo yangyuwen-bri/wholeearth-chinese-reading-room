@@ -1,0 +1,662 @@
+{
+  "title": "CoEvolution Quarterly, Fall 1974",
+  "identifier": "coevolutionquart00unse_0",
+  "year": 1974,
+  "season": "Fall",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 99,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1974",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_0",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_0/coevolutionquart00unse_0.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_0/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_0_djvu.txt",
+  "ocr_chars": 240526,
+  "significant_line_count": 5423,
+  "theme_counts": {
+    "software_computing": 300,
+    "tools_craft": 52,
+    "ecology_place": 189,
+    "learning_media": 231,
+    "community_politics": 282
+  },
+  "top_themes": [
+    "software_computing",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 5018,
+      "page": 14,
+      "title": "POINT PROGRAM TO REBUILD",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_0/page/n15_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 5018,
+      "text": "14 POINT PROGRAM TO REBUILD",
+      "score": 10
+    },
+    {
+      "line": 68,
+      "text": "4 COMMUNITY LEARNING CENTER................. a a. 3",
+      "score": 8
+    },
+    {
+      "line": 1032,
+      "text": "The Adult Education Program of the Community Learning Center",
+      "score": 7
+    },
+    {
+      "line": 66,
+      "text": "ne edt _ PANTHER PARTY SURVIVAL PROGRAMS...... Le 7",
+      "score": 6
+    },
+    {
+      "line": 73,
+      "text": "eRe AMBULANCE PROGRAM) he as 25",
+      "score": 6
+    },
+    {
+      "line": 75,
+      "text": "BREE FOOD PROGRAM (oe ee 29",
+      "score": 6
+    },
+    {
+      "line": 78,
+      "text": "FREE EMPLOYMENT PROGRAM............ es ie 34",
+      "score": 6
+    },
+    {
+      "line": 80,
+      "text": "FREE HOUSING COOPERATIVE PROGRAM................: 40",
+      "score": 6
+    },
+    {
+      "line": 82,
+      "text": "FREE SHOR PROGRAM. 6 eee, ae Bo",
+      "score": 6
+    },
+    {
+      "line": 83,
+      "text": "FRED CLOTHING PROGRAM. (a ae",
+      "score": 6
+    },
+    {
+      "line": 84,
+      "text": "FREE PLUMBING AND MAINTENANCE PROGRAM......... 46",
+      "score": 6
+    },
+    {
+      "line": 85,
+      "text": "REE PEST CONTRO PROGRAMA i ek 47",
+      "score": 6
+    },
+    {
+      "line": 87,
+      "text": "10 POINT PLATFORM AND PROGRAM.......... ae a",
+      "score": 6
+    },
+    {
+      "line": 88,
+      "text": "LEGAL AID AND EDUCATIONAL PROGRAM................ = ae",
+      "score": 6
+    },
+    {
+      "line": 251,
+      "text": "PROGRAMS/ ACHIEVEMENTS",
+      "score": 6
+    },
+    {
+      "line": 369,
+      "text": "SURVIVAL PROGRAMS OF",
+      "score": 6
+    },
+    {
+      "line": 586,
+      "text": "MATTER & ENERGY",
+      "score": 6
+    },
+    {
+      "line": 824,
+      "text": "COMMUNITY ©",
+      "score": 6
+    },
+    {
+      "line": 825,
+      "text": "LEARNING CENTER",
+      "score": 6
+    },
+    {
+      "line": 975,
+      "text": "ADULT EDUCATION PROGRAM: Every Tues-",
+      "score": 6
+    },
+    {
+      "line": 1524,
+      "text": "COMMUNITY ENCOURAGED Pe te",
+      "score": 6
+    },
+    {
+      "line": 1835,
+      "text": "PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 2562,
+      "text": "HOW TO SET UP THE PROGRAM:",
+      "score": 6
+    },
+    {
+      "line": 3557,
+      "text": "~ PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 4186,
+      "text": "4. WE WANT DECENT HOUSING, FIT FOR THE SHELTER OF HUMAN BEINGS. in",
+      "score": 6
+    },
+    {
+      "line": 4252,
+      "text": "-PEOPLE’S COMMUNITY CONTROL OF MODERN TECHNOLOGY.",
+      "score": 6
+    },
+    {
+      "line": 4430,
+      "text": "- BUSING TO PRISONS PROGRAM:",
+      "score": 6
+    },
+    {
+      "line": 4457,
+      "text": "DUCATIONAL PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 4493,
+      "text": "COMMISSARY FOR PRISONERS PROGRAM:",
+      "score": 6
+    },
+    {
+      "line": 4678,
+      "text": "_ COMMUNITY COMMITTEE FOR PRISONERS,",
+      "score": 6
+    },
+    {
+      "line": 5169,
+      "text": "PEOPLE'S PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 5265,
+      "text": "RECREATION PROGRAMS OTHERS",
+      "score": 6
+    },
+    {
+      "line": 9090,
+      "text": "FOUR MINUTE EXERCISE PROGRAM .. .- $1.",
+      "score": 6
+    },
+    {
+      "line": 412,
+      "text": "‘‘All these programs satisfy the deep hoes of the community but they are not. i",
+      "score": 5
+    },
+    {
+      "line": 421,
+      "text": "‘All of our survival programsarefree. We have never charged the community a",
+      "score": 5
+    },
+    {
+      "line": 828,
+      "text": "The Community Learning Center is a multi-pur-",
+      "score": 5
+    },
+    {
+      "line": 908,
+      "text": "instruction at the Community Learning Center is",
+      "score": 5
+    },
+    {
+      "line": 934,
+      "text": "the Community Learning Center. Drama which is",
+      "score": 5
+    },
+    {
+      "line": 979,
+      "text": "Diploma (GED). The Community Learning Center,",
+      "score": 5
+    },
+    {
+      "line": 991,
+      "text": "Physically, the Community Learning Center is a",
+      "score": 5
+    },
+    {
+      "line": 1061,
+      "text": "Community Learning Center is $100,000 per year.",
+      "score": 5
+    },
+    {
+      "line": 1135,
+      "text": "will, through various community programs in",
+      "score": 5
+    },
+    {
+      "line": 1157,
+      "text": "community programs. Sunday Temple Celebration Services feature",
+      "score": 5
+    },
+    {
+      "line": 1499,
+      "text": "set up a community outreach program whereby",
+      "score": 5
+    },
+    {
+      "line": 1856,
+      "text": "a program in your home or community follow: |",
+      "score": 5
+    },
+    {
+      "line": 2033,
+      "text": "community meetings held to explain the program",
+      "score": 5
+    },
+    {
+      "line": 2203,
+      "text": "community’s questions concerning the program.",
+      "score": 5
+    },
+    {
+      "line": 2341,
+      "text": "created numerous programs in the community such",
+      "score": 5
+    },
+    {
+      "line": 3606,
+      "text": "es scale to introduce the program to the community.",
+      "score": 5
+    },
+    {
+      "line": 3879,
+      "text": "Program may further aid the community’s survival",
+      "score": 5
+    },
+    {
+      "line": 4399,
+      "text": "way to organize community help. Program",
+      "score": 5
+    },
+    {
+      "line": 4420,
+      "text": "program unifies the community by taking concrete or",
+      "score": 5
+    },
+    {
+      "line": 4497,
+      "text": "a community program designed to aid sisters and",
+      "score": 5
+    },
+    {
+      "line": 4745,
+      "text": "people’s program, the result of the community’s",
+      "score": 5
+    },
+    {
+      "line": 5185,
+      "text": "Bier sat for community and city service programs)",
+      "score": 5
+    },
+    {
+      "line": 7174,
+      "text": "instructor at the Community Learning Center.)",
+      "score": 5
+    },
+    {
+      "line": 52,
+      "text": "Editor, THE CoEVOLUTION QUARTERLY",
+      "score": 4
+    },
+    {
+      "line": 65,
+      "text": "Survival - INTRODUCTION TO THE BLACK | }",
+      "score": 4
+    },
+    {
+      "line": 69,
+      "text": "Pon SOMOP IAN TEMPE 17",
+      "score": 4
+    },
+    {
+      "line": 70,
+      "text": "SENIORS AGAINST A FEARFUL ENVIRONMENT (S. AF-E)...19",
+      "score": 4
+    },
+    {
+      "line": 71,
+      "text": "PEOPLE’S FREE MEDICAL RESEARCH HEALTH CLINIC. .... 21",
+      "score": 4
+    },
+    {
+      "line": 72,
+      "text": "SICKLE CELL ANEMIA RESEARCH FOUNDATION.............. 23",
+      "score": 4
+    },
+    {
+      "line": 74,
+      "text": "FREE BREAKFAST FOR SCHOOLCHILDREN... 26",
+      "score": 4
+    },
+    {
+      "line": 76,
+      "text": "BLACK STOUENT ALLIANCE 80 re a 32",
+      "score": 4
+    },
+    {
+      "line": 77,
+      "text": "DAVUBANRING 0 33",
+      "score": 4
+    },
+    {
+      "line": 79,
+      "text": "INTERCOMMUNAL NEWS SERVICE...... a er ie 35",
+      "score": 4
+    },
+    {
+      "line": 81,
+      "text": "- CHILD DEVELOPMENT CENTER............ es er a",
+      "score": 4
+    },
+    {
+      "line": 86,
+      "text": "BLACK PANTHER PARTY , :",
+      "score": 4
+    },
+    {
+      "line": 89,
+      "text": "a Oe ORGANIZING A PEOPLE’S CAMPAIGN.......... Ae 3",
+      "score": 4
+    },
+    {
+      "line": 90,
+      "text": "‘min ais the BLACK PANTHER PARTY POSITION PAPER ON",
+      "score": 4
+    },
+    {
+      "line": 91,
+      "text": "residency -«-_ ZHE_ELIMINATION OF THE OFFICES OF |",
+      "score": 4
+    },
+    {
+      "line": 92,
+      "text": "€SIGENCY - PRESIDENT AND VICE-PRESIDENT... ee . 61",
+      "score": 4
+    },
+    {
+      "line": 94,
+      "text": "oo NES POETRY BY ERICKA HUGGINS........... NG 75",
+      "score": 4
+    },
+    {
+      "line": 95,
+      "text": "| eAILISCS © ‘DRAWINGS BY EMORY DOUGIAS.................... hae",
+      "score": 4
+    },
+    {
+      "line": 96,
+      "text": "iN TRODUCTION.TO BOOK EXCERPTS. (3. el 83",
+      "score": 4
+    },
+    {
+      "line": 97,
+      "text": "REVOLUTIONARY SUICIDE: THE WAY OF LIBERATION |",
+      "score": 4
+    },
+    {
+      "line": 98,
+      "text": "and FREEDOM by HUEY P. NEWTON..................... 84",
+      "score": 4
+    },
+    {
+      "line": 99,
+      "text": "(from REVOLUTIONARY SUICIDE) Lae",
+      "score": 4
+    },
+    {
+      "line": 100,
+      "text": "TOWARD THE UNITED FRONT by GEORGE JACKSON....... 89",
+      "score": 4
+    },
+    {
+      "line": 101,
+      "text": "(from BLOOD IN MY EYE)",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 36,
+      "term": "community",
+      "snippet": "because the usual CQ staff is buried under a mountain of books getting out the WHOLE EARTH EPILOG. An honor because the Panthers are the most effective community service-and-organization group I know. It’s a good deal for us. We pay the cost of production and of printing 10,000 copies. The income and costs from those should about equal out. An additional 10,000 copies are being printed and sold by the Panthers, with income going"
+    },
+    {
+      "line": 55,
+      "term": "community",
+      "snippet": "- Stewart Brand Editor, THE CoEVOLUTION QUARTERLY [Photo on Front Cover taken at First Black Community Survival Conference sponsored by the Black Panther Party, held on March 29, 30, 31, 1972. Over 10,000 free bags of groceries, with a chicken in every bag, were distributed during the course of the three day event. |"
+    },
+    {
+      "line": 68,
+      "term": "community",
+      "snippet": "ne edt _ PANTHER PARTY SURVIVAL PROGRAMS...... Le 7 d ending = = INTERCOMMUNAL YOUTH INSTITUTE............ ak cag 4 COMMUNITY LEARNING CENTER................. a a. 3 Pon SOMOP IAN TEMPE 17 SENIORS AGAINST A FEARFUL ENVIRONMENT (S. AF-E)...19 PEOPLE’S FREE MEDICAL RESEARCH HEALTH CLINIC. .... 21"
+    },
+    {
+      "line": 148,
+      "term": "community",
+      "snippet": "| 1 TRODUCTION, .We had seen Watts rise up the previous year. We had seen how the police bitched the Watts community after causing the trouble in the first place. We had seen Martin Luther King come to Watts in an effort to calm the people, and we had seen his philosophy of nonviolence rejected. Black people had been taught nonviolence; it was deep in us. What good, however, was nonviolence"
+    },
+    {
+      "line": 154,
+      "term": "community",
+      "snippet": "when the police were determined to rule by force? We had seen the Oakland police and the California Highway Patrol begin to carry their shotguns in full view as another way of striking fear into the community. We had seen all this, and we recognized that the rising consciousness of Black people was almost at the point of explosion. One must relate to the history of one’s community and to its future. Buvety thing we had seen convinced us that our time had come..."
+    },
+    {
+      "line": 156,
+      "term": "community",
+      "snippet": "view as another way of striking fear into the community. We had seen all this, and we recognized that the rising consciousness of Black people was almost at the point of explosion. One must relate to the history of one’s community and to its future. Buvety thing we had seen convinced us that our time had come... - Huey P. Newson: “The Founding of the Black PantherParty,’’ taken from his autobiography, REVOLUTI ae Y SUICIDE."
+    },
+    {
+      "line": 221,
+      "term": "energy",
+      "snippet": "The CoEvolution Quarterly Fall, 1974 through their heartfelt contributions of time and energy, devotion and love. In short, People’s Power; that boundless and bold enthusiasm carefully and cautiously granted to those who serve the people’s interest."
+    },
+    {
+      "line": 237,
+      "term": "community",
+      "snippet": "Newton and other early Party members began their historic patrols of the Oakland Police Department armed with law books to explain to the community their basic Constitutional rights, the Black Panther. Party has attempted to provide an example to the community of what is possible and to raise the"
+    },
+    {
+      "line": 244,
+      "term": "community",
+      "snippet": "their basic Constitutional rights, the Black Panther. Party has attempted to provide an example to the community of what is possible and to raise the people’s political consciousness so that we can all. step forward with dignity and courage. PROGRAMS/ ACHIEVEMENTS"
+    },
+    {
+      "line": 263,
+      "term": "community",
+      "snippet": "Schoolchildren, the most well-known Black Panther Party program, is actually only one of close to two dozen ongoing community-based activities and programs that the Black Panther Party sponsors. We have also included in this volume _ poetry, songs and artwork which together make up the"
+    },
+    {
+      "line": 294,
+      "term": "community",
+      "snippet": "record their magnificent achievements. ALL POWER TO THE PEOPLE Voter registration, speeches at community Mebane nad passing out leaflets accounted for the success of the 1973 People’s Campaign for Oakland City Offices. Box 428, Sausalito, California 94965"
+    },
+    {
+      "line": 323,
+      "term": "community",
+      "snippet": "attacks by police and federal authorities against Huey P. Newton and the Black Panther Party. For further information contact THE COMMITTEE FOR JUSTICE FOR HUEY P. NEWTON, c/o Community Learning rei 6118 E. 14th Street, Oakland, California 94621, or call (415) 562-5261. | would like to donate to help the Committee’s legal and educational activities ie - $1,000 () $100 (3 $50 OC $10 ( $5, $------------------"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 12,
+      "text": "Pre REI in HR fr"
+    },
+    {
+      "line": 15,
+      "text": "NRE owner, Sele a Be tow"
+    },
+    {
+      "line": 18,
+      "text": "Lom :"
+    },
+    {
+      "line": 28,
+      "text": "Gratitude “Jo"
+    },
+    {
+      "line": 29,
+      "text": "Our Guest Editors"
+    },
+    {
+      "line": 32,
+      "text": "It is and honor and a relief to turn over the editorship of this entire issue of"
+    },
+    {
+      "line": 33,
+      "text": "THE CoEVOLUTION QUARTERLY to the Black Panther Party. A relief"
+    },
+    {
+      "line": 34,
+      "text": "because the usual CQ staff is buried under a mountain of books getting out the"
+    },
+    {
+      "line": 35,
+      "text": "WHOLE EARTH EPILOG. An honor because the Panthers are the most"
+    },
+    {
+      "line": 36,
+      "text": "effective community service-and-organization group I know."
+    },
+    {
+      "line": 38,
+      "text": "It’s a good deal for us. We pay the cost of production and of printing 10,000"
+    },
+    {
+      "line": 39,
+      "text": "copies. The income and costs from those should about equal out. An additional"
+    },
+    {
+      "line": 40,
+      "text": "10,000 copies are being printed and sold by the Panthers, with income going"
+    },
+    {
+      "line": 41,
+      "text": "into their ‘‘survival programs’’ (model activities, it seems to me, for cities"
+    },
+    {
+      "line": 42,
+      "text": "everywhere, especially as times grow harder around us.)"
+    },
+    {
+      "line": 44,
+      "text": "Our usual tight control of guest editors prevail - we haven't any idea what’s"
+    },
+    {
+      "line": 45,
+      "text": "in the magazine until it hits the street. Now that it’s out, we know, and you"
+    },
+    {
+      "line": 46,
+      "text": "know, and maybe the Panthers ought to have guest editorship of the City of"
+    },
+    {
+      "line": 47,
+      "text": "Oakland for a while."
+    },
+    {
+      "line": 49,
+      "text": "- Stewart Brand"
+    },
+    {
+      "line": 52,
+      "text": "Editor, THE CoEVOLUTION QUARTERLY"
+    },
+    {
+      "line": 55,
+      "text": "[Photo on Front Cover taken at First Black Community Survival Conference"
+    },
+    {
+      "line": 56,
+      "text": "sponsored by the Black Panther Party, held on March 29, 30, 31, 1972. Over"
+    },
+    {
+      "line": 57,
+      "text": "10,000 free bags of groceries, with a chicken in every bag, were distributed"
+    },
+    {
+      "line": 58,
+      "text": "during the course of the three day event. |"
+    },
+    {
+      "line": 61,
+      "text": ": Page a i"
+    },
+    {
+      "line": 62,
+      "text": "it : cu aes iGaeat! Edited byt the BLACK PANTHER PARTY Quarterly -"
+    },
+    {
+      "line": 63,
+      "text": "‘ o 5 The | oe ae Lie"
+    },
+    {
+      "line": 64,
+      "text": "Pereople INTRODUCTION. ee a A cee aaa ee"
+    },
+    {
+      "line": 65,
+      "text": "Survival - INTRODUCTION TO THE BLACK | }"
+    },
+    {
+      "line": 66,
+      "text": "ne edt _ PANTHER PARTY SURVIVAL PROGRAMS...... Le 7"
+    },
+    {
+      "line": 67,
+      "text": "d ending = = INTERCOMMUNAL YOUTH INSTITUTE............ ak cag"
+    },
+    {
+      "line": 68,
+      "text": "4 COMMUNITY LEARNING CENTER................. a a. 3"
+    },
+    {
+      "line": 69,
+      "text": "Pon SOMOP IAN TEMPE 17"
+    },
+    {
+      "line": 70,
+      "text": "SENIORS AGAINST A FEARFUL ENVIRONMENT (S. AF-E)...19"
+    },
+    {
+      "line": 71,
+      "text": "PEOPLE’S FREE MEDICAL RESEARCH HEALTH CLINIC. .... 21"
+    },
+    {
+      "line": 72,
+      "text": "SICKLE CELL ANEMIA RESEARCH FOUNDATION.............. 23"
+    },
+    {
+      "line": 73,
+      "text": "eRe AMBULANCE PROGRAM) he as 25"
+    },
+    {
+      "line": 74,
+      "text": "FREE BREAKFAST FOR SCHOOLCHILDREN... 26"
+    },
+    {
+      "line": 75,
+      "text": "BREE FOOD PROGRAM (oe ee 29"
+    }
+  ]
+}

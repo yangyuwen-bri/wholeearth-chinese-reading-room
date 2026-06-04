@@ -1,0 +1,668 @@
+{
+  "title": "Whole Earth Catalog, Fall 1968",
+  "identifier": "wholeearthcatalo00unse_8",
+  "year": 1968,
+  "season": "Fall",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 68,
+  "url": "https://wholeearth.info/p/whole-earth-catalog-fall-1968",
+  "archive_url": "https://archive.org/details/wholeearthcatalo00unse_8",
+  "pdf_url": "https://archive.org/download/wholeearthcatalo00unse_8/wholeearthcatalo00unse_8.pdf",
+  "cover_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthcatalo00unse_8_djvu.txt",
+  "ocr_chars": 443878,
+  "significant_line_count": 10402,
+  "theme_counts": {
+    "software_computing": 139,
+    "tools_craft": 300,
+    "ecology_place": 353,
+    "learning_media": 435,
+    "community_politics": 196
+  },
+  "top_themes": [
+    "learning_media",
+    "ecology_place",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 10311,
+      "page": 1,
+      "title": "VECTOR ETCHED CIRCUIT KIT",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n2_w500.jpg"
+    },
+    {
+      "line": 15523,
+      "page": 4,
+      "title": "BEE 5",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_8/page/n5_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 10311,
+      "text": "1 VECTOR ETCHED CIRCUIT KIT",
+      "score": 8
+    },
+    {
+      "line": 15523,
+      "text": "4 BEE 5",
+      "score": 8
+    },
+    {
+      "line": 3335,
+      "text": "ENERGY SLAVES* ARE IN Py) |",
+      "score": 6
+    },
+    {
+      "line": 3340,
+      "text": "og = AND THOSE ENERGY SLAVES ARE ; cial",
+      "score": 6
+    },
+    {
+      "line": 9472,
+      "text": "V PROGRAM STORAGE",
+      "score": 6
+    },
+    {
+      "line": 15647,
+      "text": "(A BETTER INFORMED REVIEW OF THIS SUBJECT IS NEEDED) y@) never can tell",
+      "score": 6
+    },
+    {
+      "line": 18723,
+      "text": "REVIEW TAKE PLEASURE IN RECOMMEND-",
+      "score": 6
+    },
+    {
+      "line": 13165,
+      "text": "niques, community techniques, secure communications, and",
+      "score": 5
+    },
+    {
+      "line": 1,
+      "text": "_ WHOLE EARTH CATALOG -",
+      "score": 4
+    },
+    {
+      "line": 69,
+      "text": "é ) M",
+      "score": 4
+    },
+    {
+      "line": 78,
+      "text": "FUNCTION",
+      "score": 4
+    },
+    {
+      "line": 98,
+      "text": "PURPOSE |",
+      "score": 4
+    },
+    {
+      "line": 212,
+      "text": "CATALOG",
+      "score": 4
+    },
+    {
+      "line": 280,
+      "text": "FROM YOUR EXPERIENCE",
+      "score": 4
+    },
+    {
+      "line": 281,
+      "text": "HOW WOULD YOU ALTER",
+      "score": 4
+    },
+    {
+      "line": 706,
+      "text": "KIT ATIONSHID Ob MAN",
+      "score": 4
+    },
+    {
+      "line": 707,
+      "text": "TO REE CTROMAGNE TIC SPECTRUM",
+      "score": 4
+    },
+    {
+      "line": 769,
+      "text": "WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 957,
+      "text": "WORLD",
+      "score": 4
+    },
+    {
+      "line": 958,
+      "text": "DESIGN",
+      "score": 4
+    },
+    {
+      "line": 959,
+      "text": "SCIENCE",
+      "score": 4
+    },
+    {
+      "line": 960,
+      "text": "DECADE",
+      "score": 4
+    },
+    {
+      "line": 965,
+      "text": "INVENTORY OF WORLD RESOURCES",
+      "score": 4
+    },
+    {
+      "line": 966,
+      "text": "HUMAN TRENDS AND NEEDS",
+      "score": 4
+    },
+    {
+      "line": 970,
+      "text": "THE DESIGN INITIATIVE",
+      "score": 4
+    },
+    {
+      "line": 1007,
+      "text": "COMPREHENSIVE DESIGN STRATEGY",
+      "score": 4
+    },
+    {
+      "line": 1014,
+      "text": "COMPREHENSIVE THINKING",
+      "score": 4
+    },
+    {
+      "line": 1022,
+      "text": "- DYMAXION",
+      "score": 4
+    },
+    {
+      "line": 1023,
+      "text": "SKY-OCEAN",
+      "score": 4
+    },
+    {
+      "line": 1029,
+      "text": "WATER",
+      "score": 4
+    },
+    {
+      "line": 1033,
+      "text": "COVERY UNIT",
+      "score": 4
+    },
+    {
+      "line": 1040,
+      "text": "WATER RE-",
+      "score": 4
+    },
+    {
+      "line": 1049,
+      "text": "HONEYWELL",
+      "score": 4
+    },
+    {
+      "line": 1088,
+      "text": "ACTIVATED nes ; |",
+      "score": 4
+    },
+    {
+      "line": 1091,
+      "text": "BURNER",
+      "score": 4
+    },
+    {
+      "line": 1094,
+      "text": "CATALYTIC",
+      "score": 4
+    },
+    {
+      "line": 1101,
+      "text": "COAL FILTER",
+      "score": 4
+    },
+    {
+      "line": 1120,
+      "text": "DEHUMIDIFIER",
+      "score": 4
+    },
+    {
+      "line": 1123,
+      "text": "CARBON DIOXIDE",
+      "score": 4
+    },
+    {
+      "line": 1124,
+      "text": "se\") CONCENTRATOR",
+      "score": 4
+    },
+    {
+      "line": 1155,
+      "text": "LYSIS UNIT",
+      "score": 4
+    },
+    {
+      "line": 1161,
+      "text": "REDUCTION UNIT",
+      "score": 4
+    },
+    {
+      "line": 1183,
+      "text": "METABOLIC REQUIREMENTS & RESULTANT WASTES IN POUNDS",
+      "score": 4
+    },
+    {
+      "line": 1184,
+      "text": "FOR A 160 1b. MAN",
+      "score": 4
+    },
+    {
+      "line": 1187,
+      "text": "VOTAL LNPUT |",
+      "score": 4
+    },
+    {
+      "line": 1210,
+      "text": "THE ECOLOGICAL CONTEXT:",
+      "score": 4
+    },
+    {
+      "line": 1214,
+      "text": "ERGY AND MATERIALS",
+      "score": 4
+    },
+    {
+      "line": 1236,
+      "text": "10,000 BTU",
+      "score": 4
+    },
+    {
+      "line": 1252,
+      "text": "NASA:",
+      "score": 4
+    },
+    {
+      "line": 1258,
+      "text": "HUMAN.DAILY METABOLIC TURNOVER",
+      "score": 4
+    },
+    {
+      "line": 1301,
+      "text": "(H50)",
+      "score": 4
+    },
+    {
+      "line": 1310,
+      "text": "INPUT 100%",
+      "score": 4
+    },
+    {
+      "line": 1334,
+      "text": "\\|| MAN",
+      "score": 4
+    },
+    {
+      "line": 1367,
+      "text": "nl TOTAL OUTPUT hi",
+      "score": 4
+    },
+    {
+      "line": 1388,
+      "text": "OUTPUT = 100% Get",
+      "score": 4
+    },
+    {
+      "line": 1465,
+      "text": "or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1485,
+      "text": "MS ST ReaTS",
+      "score": 4
+    },
+    {
+      "line": 1558,
+      "text": "THE UNIVERSE IN 40 JUMPS",
+      "score": 4
+    },
+    {
+      "line": 1569,
+      "text": "by KEES BOEKE",
+      "score": 4
+    },
+    {
+      "line": 1573,
+      "text": "ARTE 1. COMPTON",
+      "score": 4
+    },
+    {
+      "line": 1618,
+      "text": "S-63-45 748",
+      "score": 4
+    },
+    {
+      "line": 1709,
+      "text": "SURFACE",
+      "score": 4
+    },
+    {
+      "line": 1977,
+      "text": "VOLUME IX (1964)",
+      "score": 4
+    },
+    {
+      "line": 2028,
+      "text": "XXXVI.",
+      "score": 4
+    },
+    {
+      "line": 2064,
+      "text": "VOLUME X (1965)",
+      "score": 4
+    },
+    {
+      "line": 2098,
+      "text": "GENERAL SYSTEMS",
+      "score": 4
+    },
+    {
+      "line": 2102,
+      "text": "VOLUME x1",
+      "score": 4
+    },
+    {
+      "line": 2108,
+      "text": "LUDWIG von BERTALANFFY",
+      "score": 4
+    },
+    {
+      "line": 2114,
+      "text": "ANATOL RAPOPORT",
+      "score": 4
+    },
+    {
+      "line": 2167,
+      "text": "VOLUME X! (1966)",
+      "score": 4
+    },
+    {
+      "line": 2203,
+      "text": "VOLUME XII (1967)",
+      "score": 4
+    },
+    {
+      "line": 2368,
+      "text": "CHRISTOPHER ALEXANDER",
+      "score": 4
+    },
+    {
+      "line": 2555,
+      "text": "EVERY PHENOMENAL OBJECT IS THE ei tlcels e & REFLECTION OF A CERTAIN PATTERN",
+      "score": 4
+    },
+    {
+      "line": 2587,
+      "text": "ESSER",
+      "score": 4
+    },
+    {
+      "line": 2590,
+      "text": "IN THIS: WAY ART 1S A PATH TOWARD TRUTH & REALIZATION OF THE SELF",
+      "score": 4
+    },
+    {
+      "line": 2599,
+      "text": "ALINAPLI NY PUdS DF PW/L FAlVinO BNO LIINVOD OL SNiuyAtdd Nw SI WULNWA",
+      "score": 4
+    },
+    {
+      "line": 2602,
+      "text": "290d! 10 (VOILIY? FHL NYHL FLNTOSAY BAOW WOLULWALIVI2NCD IO WYOI ON SISIXZ FAIHL",
+      "score": 4
+    },
+    {
+      "line": 2605,
+      "text": "WI. REPRODUCTIONS OF WORKS",
+      "score": 4
+    },
+    {
+      "line": 2608,
+      "text": "| Ae SIRE LE é UJHILE POETIC € JNTRESTING",
+      "score": 4
+    },
+    {
+      "line": 2609,
+      "text": "OF OT PRECISE OR SPECIFIC ENOUGH FOR THOSE DESIRING 2c (OE Thick.",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 14,
+      "term": "tools",
+      "snippet": "Fall1968 - 5 ge es access to tools fily ‘ 7 h hou !"
+    },
+    {
+      "line": 108,
+      "term": "tools",
+      "snippet": "personal power is developing-power of the individual to conduct his own education, find his own inspiration, shape his own environment, =p and share his adventure with whoever is interested. Tools that aid this : process are sought and promoted by the WHOLE EARTH CATALOG. Understanding Whole Systems Buckminster Fuller General Systems Yearbook"
+    },
+    {
+      "line": 113,
+      "term": "whole systems",
+      "snippet": "=p and share his adventure with whoever is interested. Tools that aid this : process are sought and promoted by the WHOLE EARTH CATALOG. Understanding Whole Systems Buckminster Fuller General Systems Yearbook Cosmic View ; Synthesis of Form Full Earth On Growth and Form"
+    },
+    {
+      "line": 139,
+      "term": "tools",
+      "snippet": "Introduction to Engineering Design Part 2 Van Waters & Rogers The Measure of Man Silvo Catalog Bookmaking Thomas Register of American Manufacturers Brookstone Tools Zone System Manual New Scientist Jensen Tools A Sculptor’s Manual Scientific American Miners Catalog Creative Glass Blowing Industrial Design Blasters’ Handbook Buckskin"
+    },
+    {
+      "line": 140,
+      "term": "tools",
+      "snippet": "The Measure of Man Silvo Catalog Bookmaking Thomas Register of American Manufacturers Brookstone Tools Zone System Manual New Scientist Jensen Tools A Sculptor’s Manual Scientific American Miners Catalog Creative Glass Blowing Industrial Design Blasters’ Handbook Buckskin Product Engineering Direct Use of the Sun’s Energy Cut Beads"
+    },
+    {
+      "line": 143,
+      "term": "energy",
+      "snippet": "Scientific American Miners Catalog Creative Glass Blowing Industrial Design Blasters’ Handbook Buckskin Product Engineering Direct Use of the Sun’s Energy Cut Beads Ciearinghouse Structure, Form and Movement Melrose Yarns Communications Human Biocomputer Education Automation | American Cinematographer Manual"
+    },
+    {
+      "line": 149,
+      "term": "communications",
+      "snippet": "Product Engineering Direct Use of the Sun’s Energy Cut Beads Ciearinghouse Structure, Form and Movement Melrose Yarns Communications Human Biocomputer Education Automation | American Cinematographer Manual The Mind of the Dolphin Intelligent Life in the Universe The Technique of Documentary Film Production ; Information The McGraw-Hill Encyclopedia of Space The Technique of Television Production"
+    },
+    {
+      "line": 163,
+      "term": "community",
+      "snippet": "Eye and Brain : Modern Business Forms Subject Guide to Books in Print Design for a Brain Community The Modern Utopian The Merck Manual American Cinematographer Art Prints The Realist Land for Sale"
+    },
+    {
+      "line": 386,
+      "term": "tools",
+      "snippet": "suppliers, but not favors. Our obligation is to CATALOG users and to ourselves to be good tools for one another. This Issue of the CATALOG, the first, is heavy on books because they are easy to start with ( low cost, simple to get and evaluate). As more CATALOG users report in and we"
+    },
+    {
+      "line": 566,
+      "term": "energy",
+      "snippet": "connoting the vast harmonic reordering of the universe from unleashed chaos of energy. And there is bom unheralded a great natural peace, not out of exclusive"
+    },
+    {
+      "line": 829,
+      "term": "whole systems",
+      "snippet": "WDSD Document 2 | define ‘synergy’ as follows: Synergy is the unique behavior of whole systems, unpredicted by behavior fo their respective sub- systems’ events, [Ideas and Integrities] selfishness (self-preoccupation pursued until self loses its way and self-generates fear and spontaneous random surging, i.e. panic, the"
+    },
+    {
+      "line": 889,
+      "term": "energy",
+      "snippet": "universe she arranges her structural systems both in the microcosm and macrocosm in the following manner. Nature has compression operating in little remotely positioned islands, as high energy con- centrations, such as the earth and other planets, in the macrocosm; or as islanded electrons, or protons or other atomic nuclear compo- nents in the microcosm while cohering the whole universal system,"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "_ WHOLE EARTH CATALOG -"
+    },
+    {
+      "line": 10,
+      "text": "Fall1968 -"
+    },
+    {
+      "line": 11,
+      "text": "5 ge es"
+    },
+    {
+      "line": 14,
+      "text": "access to tools"
+    },
+    {
+      "line": 19,
+      "text": "fily"
+    },
+    {
+      "line": 20,
+      "text": "‘ 7 h"
+    },
+    {
+      "line": 21,
+      "text": "hou !"
+    },
+    {
+      "line": 26,
+      "text": "Ne ¥"
+    },
+    {
+      "line": 27,
+      "text": "ek o"
+    },
+    {
+      "line": 28,
+      "text": "4 8 Ret"
+    },
+    {
+      "line": 34,
+      "text": "yy : 2"
+    },
+    {
+      "line": 37,
+      "text": "iy i;"
+    },
+    {
+      "line": 38,
+      "text": "| « ne ee A"
+    },
+    {
+      "line": 39,
+      "text": "aX) 2"
+    },
+    {
+      "line": 40,
+      "text": "hs ¥),"
+    },
+    {
+      "line": 41,
+      "text": "MN ie"
+    },
+    {
+      "line": 42,
+      "text": "Bray"
+    },
+    {
+      "line": 69,
+      "text": "é ) M"
+    },
+    {
+      "line": 72,
+      "text": "{ ‘y"
+    },
+    {
+      "line": 73,
+      "text": "i ‘f \" }"
+    },
+    {
+      "line": 74,
+      "text": "} if { ="
+    },
+    {
+      "line": 75,
+      "text": "t fe si oe ee ES bg Se) ee"
+    },
+    {
+      "line": 78,
+      "text": "FUNCTION"
+    },
+    {
+      "line": 81,
+      "text": "The WHOLE EARTH CATALOG functions as an evaluation and access"
+    },
+    {
+      "line": 82,
+      "text": "device. With it, the user should know better what is worth getting and"
+    },
+    {
+      "line": 83,
+      "text": "where and how to do the getting."
+    },
+    {
+      "line": 86,
+      "text": "An item is listed in the CATALOG if it is deemed:"
+    },
+    {
+      "line": 87,
+      "text": "1) Useful as a tool,"
+    },
+    {
+      "line": 88,
+      "text": "2) Relevant to independent education,"
+    },
+    {
+      "line": 89,
+      "text": "3) High quality or low cost,"
+    },
+    {
+      "line": 90,
+      "text": "3 4) Not already common knowledge,"
+    },
+    {
+      "line": 91,
+      "text": "5) Easily available by mail."
+    },
+    {
+      "line": 94,
+      "text": "This information is continually revised according to the experience and"
+    },
+    {
+      "line": 95,
+      "text": "suggestions of CATALOG users and staff."
+    },
+    {
+      "line": 98,
+      "text": "PURPOSE |"
+    },
+    {
+      "line": 101,
+      "text": "We are as gods and might as well get good at it. So far, remotely done"
+    },
+    {
+      "line": 102,
+      "text": "power and glory-as via government, big business, formal education,"
+    },
+    {
+      "line": 103,
+      "text": "church-has succeeded to the point where gross defects obscure actual"
+    },
+    {
+      "line": 104,
+      "text": "gains. In response to this dilemma and to these gains a realm of intimate,"
+    },
+    {
+      "line": 105,
+      "text": "personal power is developing-power of the individual to conduct his"
+    }
+  ]
+}

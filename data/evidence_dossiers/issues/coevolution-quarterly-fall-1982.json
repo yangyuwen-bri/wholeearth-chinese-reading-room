@@ -1,0 +1,674 @@
+{
+  "title": "CoEvolution Quarterly, Fall 1982",
+  "identifier": "coevolutionquart00unse_31",
+  "year": 1982,
+  "season": "Fall",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 165,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1982",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_31",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_31/coevolutionquart00unse_31.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_31/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_31_djvu.txt",
+  "ocr_chars": 716424,
+  "significant_line_count": 18707,
+  "theme_counts": {
+    "software_computing": 125,
+    "tools_craft": 356,
+    "ecology_place": 705,
+    "learning_media": 756,
+    "community_politics": 502
+  },
+  "top_themes": [
+    "learning_media",
+    "ecology_place",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 99,
+      "page": 10,
+      "title": "THE GIFT MUST ALWAYS MOVE",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_31/page/n11_w500.jpg"
+    },
+    {
+      "line": 18795,
+      "page": 50,
+      "title": "WHAT JF A CULTURAL HERITAGE WAS LOST",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_31/page/n51_w500.jpg"
+    },
+    {
+      "line": 21138,
+      "page": 12,
+      "title": "MONTH BIORHYTHM CALEN-",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_31/page/n13_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 99,
+      "text": "10 THE GIFT MUST ALWAYS MOVE",
+      "score": 8
+    },
+    {
+      "line": 18795,
+      "text": "50 WHAT JF A CULTURAL HERITAGE WAS LOST",
+      "score": 8
+    },
+    {
+      "line": 21119,
+      "text": "COMMUNITY ENERGY SELF-",
+      "score": 8
+    },
+    {
+      "line": 21138,
+      "text": "12 MONTH BIORHYTHM CALEN-",
+      "score": 8
+    },
+    {
+      "line": 88,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 182,
+      "text": "- COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 285,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 297,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 17308,
+      "text": "~ COMMUNICATIONS |",
+      "score": 6
+    },
+    {
+      "line": 21121,
+      "text": "is acommunity energy planning",
+      "score": 5
+    },
+    {
+      "line": 22977,
+      "text": "Alternative Energy -Book Reviews",
+      "score": 5
+    },
+    {
+      "line": 24263,
+      "text": "Ecology -Book Reviews",
+      "score": 5
+    },
+    {
+      "line": 24269,
+      "text": "Ecology - Periodical Reviews",
+      "score": 5
+    },
+    {
+      "line": 24376,
+      "text": "Energy Conservation- Book Reviews",
+      "score": 5
+    },
+    {
+      "line": 25240,
+      "text": "Hydroelectric Energy -Book Reviews",
+      "score": 5
+    },
+    {
+      "line": 25539,
+      "text": "Learning - Book Reviews",
+      "score": 5
+    },
+    {
+      "line": 27268,
+      "text": "Solar Energy -Book Reviews",
+      "score": 5
+    },
+    {
+      "line": 28000,
+      "text": "Wind Energy - Book Reviews",
+      "score": 5
+    },
+    {
+      "line": 28071,
+      "text": "Wood Cutting - Book Reviews World energy data sheet, etc. 29:87",
+      "score": 5
+    },
+    {
+      "line": 35,
+      "text": "WEEDS AND WILDFLOWERS",
+      "score": 4
+    },
+    {
+      "line": 41,
+      "text": "FROM THE COLLECTION OF STERLING LIBRARY, YALE UNIVERSITY",
+      "score": 4
+    },
+    {
+      "line": 47,
+      "text": "FOXGLOVES",
+      "score": 4
+    },
+    {
+      "line": 51,
+      "text": "~ COW PARSLEY",
+      "score": 4
+    },
+    {
+      "line": 129,
+      "text": "COVER LAND USE",
+      "score": 4
+    },
+    {
+      "line": 208,
+      "text": "NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 227,
+      "text": "POLITICS",
+      "score": 4
+    },
+    {
+      "line": 252,
+      "text": "SOFT TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 315,
+      "text": "CRAFT",
+      "score": 4
+    },
+    {
+      "line": 321,
+      "text": "BUSINESS .",
+      "score": 4
+    },
+    {
+      "line": 344,
+      "text": "HY DO I ASK SO MANY QUESTIONS?",
+      "score": 4
+    },
+    {
+      "line": 430,
+      "text": "NY 14805,",
+      "score": 4
+    },
+    {
+      "line": 440,
+      "text": "THE CoEVOLUTION",
+      "score": 4
+    },
+    {
+      "line": 443,
+      "text": "QUARTERLY FALL 1982",
+      "score": 4
+    },
+    {
+      "line": 495,
+      "text": "BOX 428 SAUSALITO CA 94966",
+      "score": 4
+    },
+    {
+      "line": 680,
+      "text": "I IS Ce",
+      "score": 4
+    },
+    {
+      "line": 681,
+      "text": "HER GR RG Pm 9, 0, NS",
+      "score": 4
+    },
+    {
+      "line": 838,
+      "text": "THE CoEVOLUTION QUARTERLY FALL 1982",
+      "score": 4
+    },
+    {
+      "line": 1234,
+      "text": "1AM A MAN AND | AM A MAMMAL!",
+      "score": 4
+    },
+    {
+      "line": 1584,
+      "text": "HEN THE PURITANS first",
+      "score": 4
+    },
+    {
+      "line": 1732,
+      "text": "-- eT ES",
+      "score": 4
+    },
+    {
+      "line": 2244,
+      "text": "- THE CoEVOLUTION QUARTERLY FALL 1982",
+      "score": 4
+    },
+    {
+      "line": 2445,
+      "text": "THE CoEVOLUTION QUARTERLY FALL1982 , ;",
+      "score": 4
+    },
+    {
+      "line": 3480,
+      "text": "POTLATCH",
+      "score": 4
+    },
+    {
+      "line": 3497,
+      "text": "e ANOTHER",
+      "score": 4
+    },
+    {
+      "line": 3498,
+      "text": "* VIEW",
+      "score": 4
+    },
+    {
+      "line": 3850,
+      "text": "SMITHSONIAN INSTITUTION, PHOTO NUMBER 3880",
+      "score": 4
+    },
+    {
+      "line": 3989,
+      "text": "THE CoEVOLUTION QUARTERLY FALL1982. ~",
+      "score": 4
+    },
+    {
+      "line": 4261,
+      "text": "GIFT EXCHANGE: #3",
+      "score": 4
+    },
+    {
+      "line": 4366,
+      "text": "MD 21157.",
+      "score": 4
+    },
+    {
+      "line": 4381,
+      "text": "COURTESY BANCROFT LIBRARY, UNIVERSITY OF CALIFORNIA",
+      "score": 4
+    },
+    {
+      "line": 4581,
+      "text": "a ALT.",
+      "score": 4
+    },
+    {
+      "line": 4735,
+      "text": "E KNOW IT IS QUITE POSSIBLE",
+      "score": 4
+    },
+    {
+      "line": 4774,
+      "text": "KAI DE FONTENAY",
+      "score": 4
+    },
+    {
+      "line": 4801,
+      "text": "34 THE CoEVOLUTION QUARTERLY FALL 1982",
+      "score": 4
+    },
+    {
+      "line": 5143,
+      "text": "““WIPE YOUR GLOSSES!”’)",
+      "score": 4
+    },
+    {
+      "line": 5394,
+      "text": "MICHAEL STULBERG",
+      "score": 4
+    },
+    {
+      "line": 5721,
+      "text": "E FONTENAY",
+      "score": 4
+    },
+    {
+      "line": 5843,
+      "text": "THE CoEVOLUTION QUARTERLY FALLI982 - Bt",
+      "score": 4
+    },
+    {
+      "line": 5846,
+      "text": "BOX 428 SAUSALITO CA 94966.",
+      "score": 4
+    },
+    {
+      "line": 5963,
+      "text": "2 VEE NANT SOR RS RCO th an",
+      "score": 4
+    },
+    {
+      "line": 6155,
+      "text": "(NWEC p, 28)",
+      "score": 4
+    },
+    {
+      "line": 6254,
+      "text": "URIZEN",
+      "score": 4
+    },
+    {
+      "line": 6282,
+      "text": "IN CHIMPS",
+      "score": 4
+    },
+    {
+      "line": 6284,
+      "text": "DOLPHINS:",
+      "score": 4
+    },
+    {
+      "line": 6442,
+      "text": "THE CoEVOLUTION QUARTERLY FALL1982 -",
+      "score": 4
+    },
+    {
+      "line": 6995,
+      "text": "- BOX 428 SAUSALITO CA 94966",
+      "score": 4
+    },
+    {
+      "line": 7209,
+      "text": "PHORONIDEA) he",
+      "score": 4
+    },
+    {
+      "line": 7235,
+      "text": "w= LPWALOCHORDATA",
+      "score": 4
+    },
+    {
+      "line": 7238,
+      "text": "~ HEMICHORDATA",
+      "score": 4
+    },
+    {
+      "line": 7241,
+      "text": "5eo= LROHORDATA",
+      "score": 4
+    },
+    {
+      "line": 7248,
+      "text": "HOLOTHUROIOLA",
+      "score": 4
+    },
+    {
+      "line": 8029,
+      "text": "NY 10017.",
+      "score": 4
+    },
+    {
+      "line": 8081,
+      "text": "MA 02138.",
+      "score": 4
+    },
+    {
+      "line": 8172,
+      "text": "Bis BABY IS THERE REALLY AWAY BACK HOME FROM TOMORROW?",
+      "score": 4
+    },
+    {
+      "line": 8236,
+      "text": "ths ; THE CoEVOLUTION QUARTERLY FALL 1982",
+      "score": 4
+    },
+    {
+      "line": 8727,
+      "text": "° OLUTION QUARTERLY FALL 1982",
+      "score": 4
+    },
+    {
+      "line": 8736,
+      "text": "LAURIE RICH",
+      "score": 4
+    },
+    {
+      "line": 8922,
+      "text": "PTA AED, BOISE SBE A ea",
+      "score": 4
+    },
+    {
+      "line": 8958,
+      "text": "SECCETETTECTEECECEEEET",
+      "score": 4
+    },
+    {
+      "line": 8983,
+      "text": "STEWART BRAND",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 88,
+      "term": "whole systems",
+      "snippet": "- and content, -Robert Horvitz } OL CAN ON 1 Weeds and Wildflowers by George Mackley WHOLE SYSTEMS Quarterly 4 RULES OF THUMB by Tom Parker 8 Visions of the Universe = Five Kingdoms"
+    },
+    {
+      "line": 174,
+      "term": "energy",
+      "snippet": "Recent CQ mailing list renters: Friends of the Earth, SEVA, Cousteau Society, Environmental Task Force, The Nation, World Wildlife Fund, Planned Parenthood, Natural Resources Defense Council, Union of Concerned Scientists, Environmental Defense Fund, Handgun Control Inc., Common Cause, S.A.N.E., American Civil Liberties Union, League of Women Voters, East West Journal, The World Game, Golden Gate Energy Center, Uncommon Courtesy, The Sierra Club, Quest. Subscription circulation: 22,500. Newsstand circulation: 10,800. POSTMASTER: Please send form 3547 or 3579. - COMMUNITY"
+    },
+    {
+      "line": 182,
+      "term": "community",
+      "snippet": "Subscription circulation: 22,500. Newsstand circulation: 10,800. POSTMASTER: Please send form 3547 or 3579. - COMMUNITY 67 Design for Independent Living = Under the Influence 68 Grace Bliss Poems by Adam Levine"
+    },
+    {
+      "line": 270,
+      "term": "energy",
+      "snippet": "Solar Neighborhoods Solar Card # The Rammed Earth Experience ® Energy Efficient Housing - a Prairie Approach The Anvil’s Ring ™ Lindsay’s Technical Books Collar Drawing Tool ® Hilti tools = Break"
+    },
+    {
+      "line": 277,
+      "term": "tools",
+      "snippet": "a Prairie Approach The Anvil’s Ring ™ Lindsay’s Technical Books Collar Drawing Tool ® Hilti tools = Break Free ® Bike Tech ® D.R.I. Industries COMMUNICATIONS The Secret Guide to Computers # DON’T!"
+    },
+    {
+      "line": 285,
+      "term": "communications",
+      "snippet": "Collar Drawing Tool ® Hilti tools = Break Free ® Bike Tech ® D.R.I. Industries COMMUNICATIONS The Secret Guide to Computers # DON’T! Freeing the Natural Voice = Other Networks 2nd Opinion # NCAP News"
+    },
+    {
+      "line": 297,
+      "term": "learning",
+      "snippet": "Guitar Player ® Keyboard ® Frets @ The Public Eye LEARNING Basic Skills = The Independent Scholar’s Handbook Practical Parenting # CHILD-to-child"
+    },
+    {
+      "line": 551,
+      "term": "interview",
+      "snippet": "manage 500 bee colonies. -Cornell University During a job interview, never talk for more than 60 seconds at a time. -Anonymous employer"
+    },
+    {
+      "line": 689,
+      "term": "energy",
+      "snippet": "A SS One BTU is roughly equal to the amount of heat energy given off by completely burning one wooden kitchen match. -Robert G. Flower, engineer"
+    },
+    {
+      "line": 803,
+      "term": "energy",
+      "snippet": "glass with night insulation equals one gallon of oil a year. -Tom Wilson, energy consultant Spring moves up in altitude 1000 feet per week. -Annette Arthur, gardener"
+    },
+    {
+      "line": 1144,
+      "term": "community",
+      "snippet": "or Whole Earth Household Store An intact bacterial community from a pocket in the hindgut wall of the Sonoran desert termite Pterotermes occidentis (Phylum A-27). More than 10 billion bacteria per milliliter have been counted in these hindgut com-"
+    },
+    {
+      "line": 1271,
+      "term": "interview",
+      "snippet": "bandied about between Zen students as some kind of in- group wisdom or slangy shorthand for larger meanings. They are used sparingly, in interviews with the teacher, as a mode of reaching even deeper than a ‘personal’ answer to aproblem,; as a way of confirming that one has touched base with a larger Mind,”"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "-- bd wo ofl iv"
+    },
+    {
+      "line": 4,
+      "text": "Published by the Whole"
+    },
+    {
+      "line": 7,
+      "text": "Quarterly"
+    },
+    {
+      "line": 10,
+      "text": "> =a"
+    },
+    {
+      "line": 13,
+      "text": "© Rules of Thumb Page 4"
+    },
+    {
+      "line": 15,
+      "text": "®On Bateson Page 34"
+    },
+    {
+      "line": 17,
+      "text": "®@ Anthropocentric Science Page 46"
+    },
+    {
+      "line": 18,
+      "text": "® Cutting Firewood Page 56"
+    },
+    {
+      "line": 20,
+      "text": "© Mustanging Page 58"
+    },
+    {
+      "line": 22,
+      "text": "@ Texas Crude Page 72"
+    },
+    {
+      "line": 24,
+      "text": "® Honest Hope Page 80"
+    },
+    {
+      "line": 26,
+      "text": "© Making Peace Page 82"
+    },
+    {
+      "line": 29,
+      "text": "a eee See ee"
+    },
+    {
+      "line": 35,
+      "text": "WEEDS AND WILDFLOWERS"
+    },
+    {
+      "line": 38,
+      "text": "by George Mackley"
+    },
+    {
+      "line": 41,
+      "text": "FROM THE COLLECTION OF STERLING LIBRARY, YALE UNIVERSITY"
+    },
+    {
+      "line": 44,
+      "text": "MA fii 35"
+    },
+    {
+      "line": 47,
+      "text": "FOXGLOVES"
+    },
+    {
+      "line": 50,
+      "text": "Bea tet erie foe"
+    },
+    {
+      "line": 51,
+      "text": "~ COW PARSLEY"
+    },
+    {
+      "line": 57,
+      "text": "-s a7)"
+    },
+    {
+      "line": 60,
+      "text": "aay nig"
+    },
+    {
+      "line": 66,
+      "text": "OST OF MACKLEY’S WOODCUTS are small, sentimental views of old watermills, canals, and"
+    },
+    {
+      "line": 67,
+      "text": "cottages in the English countryside, but the 17 he cut to illustrate Armida Colt’s book, Weeds"
+    },
+    {
+      "line": 68,
+      "text": "and Wildflowers, are something special, Ms. Colt recalls that when her Two-Horse Press"
+    },
+    {
+      "line": 70,
+      "text": "(London) first published them in an edition of 250 in 1965, “they were greeted with astonishment that"
+    },
+    {
+      "line": 71,
+      "text": "a craftsman of such calibre should still exist in this machine age.”"
+    },
+    {
+      "line": 74,
+      "text": "Mackley was born in Tonbridge, Kent, in 1900, and he retired there in 1960. In between, he had a quiet"
+    },
+    {
+      "line": 75,
+      "text": "i career as a teacher and headmaster at various small English country schools. I don’t know if he’s still"
+    },
+    {
+      "line": 76,
+      "text": "alive - I’ve been unable to contact him,"
+    },
+    {
+      "line": 79,
+      "text": "e Plant portraits carved into plant flesh and printed on sheets of plant fiber: an elegant union of medium"
+    },
+    {
+      "line": 82,
+      "text": "- and content, -Robert Horvitz }"
+    },
+    {
+      "line": 85,
+      "text": "OL CAN ON 1 Weeds and Wildflowers by George Mackley"
+    },
+    {
+      "line": 88,
+      "text": "WHOLE SYSTEMS"
+    },
+    {
+      "line": 91,
+      "text": "Quarterly"
+    },
+    {
+      "line": 94,
+      "text": "4 RULES OF THUMB by Tom Parker"
+    },
+    {
+      "line": 95,
+      "text": "8 Visions of the Universe = Five Kingdoms"
+    },
+    {
+      "line": 96,
+      "text": "9 Scratching the Beat Surface = A Zen Forest"
+    },
+    {
+      "line": 99,
+      "text": "10 THE GIFT MUST ALWAYS MOVE"
+    },
+    {
+      "line": 100,
+      "text": "by Lewis Hyde"
+    }
+  ]
+}

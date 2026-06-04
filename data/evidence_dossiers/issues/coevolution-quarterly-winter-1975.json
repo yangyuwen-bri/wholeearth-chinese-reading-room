@@ -1,0 +1,668 @@
+{
+  "title": "CoEvolution Quarterly, Winter 1975",
+  "identifier": "coevolutionquart00unse_5",
+  "year": 1975,
+  "season": "Winter",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 153,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1975",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_5",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_5/coevolutionquart00unse_5.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_5/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_5_djvu.txt",
+  "ocr_chars": 686460,
+  "significant_line_count": 14185,
+  "theme_counts": {
+    "software_computing": 83,
+    "tools_craft": 295,
+    "ecology_place": 791,
+    "learning_media": 353,
+    "community_politics": 404
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 942,
+      "page": 8,
+      "title": "NBN,",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_5/page/n9_w500.jpg"
+    },
+    {
+      "line": 15568,
+      "page": 6,
+      "title": "SIDEWAYS-",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_5/page/n7_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 942,
+      "text": "8 NBN,",
+      "score": 8
+    },
+    {
+      "line": 15568,
+      "text": "6 SIDEWAYS-",
+      "score": 8
+    },
+    {
+      "line": 3159,
+      "text": "community, it is clearly superfluous for me to review this book",
+      "score": 5
+    },
+    {
+      "line": 4942,
+      "text": "social programs. The food and energy shortages all indicate",
+      "score": 5
+    },
+    {
+      "line": 10421,
+      "text": "interviewing two of our editors on community gardens in",
+      "score": 5
+    },
+    {
+      "line": 11861,
+      "text": "energy consuming lifestyle and community develops. ~",
+      "score": 5
+    },
+    {
+      "line": 36,
+      "text": "PLATE |",
+      "score": 4
+    },
+    {
+      "line": 57,
+      "text": "NCP] || {",
+      "score": 4
+    },
+    {
+      "line": 321,
+      "text": "A COEVOLUTIONARY GAME:",
+      "score": 4
+    },
+    {
+      "line": 359,
+      "text": "LIBATION BEARER",
+      "score": 4
+    },
+    {
+      "line": 395,
+      "text": "TOM PARKER",
+      "score": 4
+    },
+    {
+      "line": 420,
+      "text": "BY STEWART BRAND ‘",
+      "score": 4
+    },
+    {
+      "line": 619,
+      "text": "BY STEVE BAER",
+      "score": 4
+    },
+    {
+      "line": 927,
+      "text": "SOLAR GOODNESS",
+      "score": 4
+    },
+    {
+      "line": 932,
+      "text": "HE ENY",
+      "score": 4
+    },
+    {
+      "line": 933,
+      "text": "‘ ee ZN NAIR ;",
+      "score": 4
+    },
+    {
+      "line": 952,
+      "text": "~<<F \\",
+      "score": 4
+    },
+    {
+      "line": 1119,
+      "text": "ANDY ALPINE",
+      "score": 4
+    },
+    {
+      "line": 1450,
+      "text": "VILLAGES OF INE",
+      "score": 4
+    },
+    {
+      "line": 2693,
+      "text": "NOTES AND REFERENCES",
+      "score": 4
+    },
+    {
+      "line": 2991,
+      "text": "NY 11530",
+      "score": 4
+    },
+    {
+      "line": 3074,
+      "text": "VESROSRACSSUORRSSRESASTRSOLS SREB ReR",
+      "score": 4
+    },
+    {
+      "line": 3140,
+      "text": "BY JAY KINNEY",
+      "score": 4
+    },
+    {
+      "line": 3335,
+      "text": "(186-) - AMET, TAM abe, FEM ASCH",
+      "score": 4
+    },
+    {
+      "line": 3336,
+      "text": "FRET BNSF PRS INT TENG.",
+      "score": 4
+    },
+    {
+      "line": 3400,
+      "text": "SPLINTERS AND THE MEDIA .",
+      "score": 4
+    },
+    {
+      "line": 3470,
+      "text": "t MARXISM",
+      "score": 4
+    },
+    {
+      "line": 3533,
+      "text": "- ROUND TWO",
+      "score": 4
+    },
+    {
+      "line": 3597,
+      "text": "UNDERGROUND CADRES",
+      "score": 4
+    },
+    {
+      "line": 3679,
+      "text": "YOUTH",
+      "score": 4
+    },
+    {
+      "line": 3680,
+      "text": "ORGANIZE",
+      "score": 4
+    },
+    {
+      "line": 3681,
+      "text": "«=P.6",
+      "score": 4
+    },
+    {
+      "line": 3684,
+      "text": "CHINA .",
+      "score": 4
+    },
+    {
+      "line": 3689,
+      "text": "BUSING",
+      "score": 4
+    },
+    {
+      "line": 3690,
+      "text": "QUESTION",
+      "score": 4
+    },
+    {
+      "line": 3694,
+      "text": "SECCION",
+      "score": 4
+    },
+    {
+      "line": 3695,
+      "text": "EN ESPANOL",
+      "score": 4
+    },
+    {
+      "line": 3698,
+      "text": "POLITICAL",
+      "score": 4
+    },
+    {
+      "line": 3701,
+      "text": "=\" THE CAL =",
+      "score": 4
+    },
+    {
+      "line": 3707,
+      "text": "PEOPLE",
+      "score": 4
+    },
+    {
+      "line": 3710,
+      "text": "UNITE TO",
+      "score": 4
+    },
+    {
+      "line": 3711,
+      "text": "FIGHT BACK",
+      "score": 4
+    },
+    {
+      "line": 3780,
+      "text": "MAOISTS AND EX-MAOISTS",
+      "score": 4
+    },
+    {
+      "line": 3903,
+      "text": "| OSAWATOMIE",
+      "score": 4
+    },
+    {
+      "line": 3906,
+      "text": "| SUMMER 1975 NO. 2",
+      "score": 4
+    },
+    {
+      "line": 3909,
+      "text": "WEATHER UNDERGROUND ORGANIZATION",
+      "score": 4
+    },
+    {
+      "line": 3912,
+      "text": "QUR MOUNTAINS WILL ALWAYS BE,",
+      "score": 4
+    },
+    {
+      "line": 3913,
+      "text": "OUR RIVERS WILL ALWAYS BE,",
+      "score": 4
+    },
+    {
+      "line": 3914,
+      "text": "OUR PEOPLE wil ALWAYS: BE,",
+      "score": 4
+    },
+    {
+      "line": 3917,
+      "text": "THE AMERICAN INVADERS",
+      "score": 4
+    },
+    {
+      "line": 3919,
+      "text": "QUR LAND TIMES MORE",
+      "score": 4
+    },
+    {
+      "line": 3920,
+      "text": "BUTFUL",
+      "score": 4
+    },
+    {
+      "line": 3923,
+      "text": "--HO CHI MINH",
+      "score": 4
+    },
+    {
+      "line": 4104,
+      "text": "WORKERS",
+      "score": 4
+    },
+    {
+      "line": 4105,
+      "text": "VIEWPOINT",
+      "score": 4
+    },
+    {
+      "line": 4116,
+      "text": "VICTORY!",
+      "score": 4
+    },
+    {
+      "line": 4119,
+      "text": "@ THE BOSTON FORCED BUSING PLAN:",
+      "score": 4
+    },
+    {
+      "line": 4124,
+      "text": "@ TO THE FOREFRONT OF STRUGGLE",
+      "score": 4
+    },
+    {
+      "line": 4132,
+      "text": "@ CULTURE AND FASCISM Page 5S",
+      "score": 4
+    },
+    {
+      "line": 4135,
+      "text": "@\"ILLEGAL ALIENS:'' LEGAL EXPLOIT ATION",
+      "score": 4
+    },
+    {
+      "line": 4139,
+      "text": "® THE PALESTINIAN PEOPLE WILL SMASH",
+      "score": 4
+    },
+    {
+      "line": 4140,
+      "text": "\"MINI-ST ATE\" PLOT Page 68",
+      "score": 4
+    },
+    {
+      "line": 4143,
+      "text": "® WHAT IS REALLY BEHIND THE \"CIA",
+      "score": 4
+    },
+    {
+      "line": 4144,
+      "text": "SC AN DAL ?\" Page 80",
+      "score": 4
+    },
+    {
+      "line": 4173,
+      "text": "BULLHORNS AND CHAINS",
+      "score": 4
+    },
+    {
+      "line": 4274,
+      "text": "THE CPUSA",
+      "score": 4
+    },
+    {
+      "line": 4342,
+      "text": "~ DAILY | WORLD =",
+      "score": 4
+    },
+    {
+      "line": 4348,
+      "text": "BANKER PRESSURE GETS",
+      "score": 4
+    },
+    {
+      "line": 4349,
+      "text": "‘$150/M. PENSION FUND",
+      "score": 4
+    },
+    {
+      "line": 4352,
+      "text": "By PAT BARILE",
+      "score": 4
+    },
+    {
+      "line": 4358,
+      "text": "NEW YORK, Oct. 17 -",
+      "score": 4
+    },
+    {
+      "line": 4404,
+      "text": "TROTSKYISTS GALORE",
+      "score": 4
+    },
+    {
+      "line": 4499,
+      "text": "OCTOBER 24, 1975",
+      "score": 4
+    },
+    {
+      "line": 4502,
+      "text": "25 CENTS VOLUME 39/NUMBER 39",
+      "score": 4
+    },
+    {
+      "line": 4505,
+      "text": "THE MILITANT ;",
+      "score": 4
+    },
+    {
+      "line": 4508,
+      "text": "A SOCIALIST NEWSWEEKLY/PUBLISHED IN THE INTERESTS OF THE WORKING PEOPLE",
+      "score": 4
+    },
+    {
+      "line": 4517,
+      "text": "21 YEARS /S TOO LONG! DEFEND Uae, RIGHTS:",
+      "score": 4
+    },
+    {
+      "line": 4518,
+      "text": "2nd NATIONAL STUDENTS: CONFERENCE",
+      "score": 4
+    },
+    {
+      "line": 4519,
+      "text": "AGAINST RACISM",
+      "score": 4
+    },
+    {
+      "line": 4522,
+      "text": "Octuber 10 112 é NORTHEASTERN UNIVERS",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 145,
+      "term": "interview",
+      "snippet": "Why New World Utopias = Brothels of Nevada = Bob Creeley on Communes 80-85 Confessions of an Ex. Blackjack Player by Rolf Cahn | ese : 86-89 An Interview with Two Serious ane Gamblers by Rosemary Menninger and Meee MeCree a 8&9 Poker arterly Penn eet as Te a"
+    },
+    {
+      "line": 194,
+      "term": "interview",
+      "snippet": "aS: re ie - 5 gt Ry Pape A Capsule View of the Biosphere interview by Salli Rasberry Homestead Bicycle Technology by Jim Burgel Shoe Patch: Two Paid* Testimonials = The Ultimate Athlete » The Way to Play Round Spinning Vehicles by Herald Reno Hoyt"
+    },
+    {
+      "line": 226,
+      "term": "interview",
+      "snippet": "Ancient Creek by Gurney Norman An Excerpt From Merce’s Notebook Interview with a Cattle Mutilator by Paul Krassner Sporting Deaths by Russell D. Chatham The Optimist by Don Carpenter Running on Empty by Johnny Popper"
+    },
+    {
+      "line": 282,
+      "term": "community",
+      "snippet": "bodily functions. | hope the more astute reader is not disappointed by the common tone of this issue, the emphasis on community, the faith that simple things are as valuable as complex ones, or the occasional use of “shit” or “‘fuck”’ as parts of the English language."
+    },
+    {
+      "line": 305,
+      "term": "whole systems",
+      "snippet": "The section headings might be a little mutated for all you Whole Earth thinkers, but (having been around the heading: Whole Systems for years and trying to fit things in and out | of it), the categories get melted into one another. If 1 edited a newspaper the funnies and the obituaries would be scattered throughout, with front page personals at the same"
+    },
+    {
+      "line": 475,
+      "term": "energy",
+      "snippet": "SN make jumps like that, and considerable bumping around with a _ other dancers to make the jumps. Neither one alone works. ~ Now our poor rich nation wants energy self-sufficiency -a _ deadly stupid chimera. We nations all are in total dependency 4 on systems which have no respect for national boundaries - ~ atmosphere, oceans, ocean life, biotic provinces (which are not"
+    },
+    {
+      "line": 629,
+      "term": "energy",
+      "snippet": "A few years ago Peter Van Dresser mentioned the Clothesline Paradox. Solar energy advocates are continuously humiliated by being shown “energy pies.” Slices are assigned to coal, gas, oil, hydroelectric and even nuclear, but solar energy is evidently too small to appear. I have"
+    },
+    {
+      "line": 630,
+      "term": "energy",
+      "snippet": "Clothesline Paradox. Solar energy advocates are continuously humiliated by being shown “energy pies.” Slices are assigned to coal, gas, oil, hydroelectric and even nuclear, but solar energy is evidently too small to appear. I have a typical energy pie from the Ford Foundation whose"
+    },
+    {
+      "line": 632,
+      "term": "energy",
+      "snippet": "by being shown “energy pies.” Slices are assigned to coal, gas, oil, hydroelectric and even nuclear, but solar energy is evidently too small to appear. I have a typical energy pie from the Ford Foundation whose source is the U.S. Bureau of Mines. The large pie is split into 5 pieces. Petroleum - 46%, coal - 18%,"
+    },
+    {
+      "line": 634,
+      "term": "energy",
+      "snippet": "coal, gas, oil, hydroelectric and even nuclear, but solar energy is evidently too small to appear. I have a typical energy pie from the Ford Foundation whose source is the U.S. Bureau of Mines. The large pie is split into 5 pieces. Petroleum - 46%, coal - 18%, natural gas - 31%, hydropower - 4%, and nuclear -"
+    },
+    {
+      "line": 639,
+      "term": "energy",
+      "snippet": "natural gas - 31%, hydropower - 4%, and nuclear - 1%. (An asterisk notes that wood has been omitted - why?). We are frequently reminded that the energy we advocate - solar energy - must, after the proper technical efforts, appear alongside coal, oil, natural gas, and nuclear before it will make an “impact.”"
+    },
+    {
+      "line": 640,
+      "term": "energy",
+      "snippet": "1%. (An asterisk notes that wood has been omitted - why?). We are frequently reminded that the energy we advocate - solar energy - must, after the proper technical efforts, appear alongside coal, oil, natural gas, and nuclear before it will make an “impact.” ERDA in its different energy consumption predictions"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 4,
+      "text": "50 Winter 1975"
+    },
+    {
+      "line": 25,
+      "text": "Wf Aavey aati t)"
+    },
+    {
+      "line": 34,
+      "text": "BS re!"
+    },
+    {
+      "line": 35,
+      "text": "ORS mS) mae"
+    },
+    {
+      "line": 36,
+      "text": "PLATE |"
+    },
+    {
+      "line": 37,
+      "text": "gee Ke, oF"
+    },
+    {
+      "line": 38,
+      "text": "So 5 yy \"|"
+    },
+    {
+      "line": 39,
+      "text": "rams -"
+    },
+    {
+      "line": 53,
+      "text": "ett er"
+    },
+    {
+      "line": 56,
+      "text": "i Wh Yf , i}"
+    },
+    {
+      "line": 57,
+      "text": "NCP] || {"
+    },
+    {
+      "line": 65,
+      "text": "rip C"
+    },
+    {
+      "line": 71,
+      "text": "‘ Ath)"
+    },
+    {
+      "line": 72,
+      "text": "We 4 Uff"
+    },
+    {
+      "line": 78,
+      "text": "» AO-47...498...4q"
+    },
+    {
+      "line": 81,
+      "text": "e eee"
+    },
+    {
+      "line": 84,
+      "text": "C Beem pre fone act"
+    },
+    {
+      "line": 87,
+      "text": "Cover |"
+    },
+    {
+      "line": 90,
+      "text": "Front: Photograph by Darius Kinsey, 1869-1945. This is the frontispiece from Volume Two of Kinsey, Photographer:"
+    },
+    {
+      "line": 93,
+      "text": "A half century of negatives by Darius and Tabitha May Kinsey, a two-volume work produced by Dave Bohn and"
+    },
+    {
+      "line": 94,
+      "text": "Rudolfo Petschek, published by Scrimshaw Press in October 1975."
+    },
+    {
+      "line": 97,
+      "text": "Back: Pen and ink drawing by Mike Moore. International truck in Jarbridge Canyon, Nevada."
+    },
+    {
+      "line": 100,
+      "text": "ok Inside front: Pen and ink drawing by Gordon Baldwin. Interior of house in Bolinas, California."
+    },
+    {
+      "line": 103,
+      "text": "_ Inside back: Photograph by Diana Fairbanks. Denizen of Gate 5, Sausalito, California."
+    },
+    {
+      "line": 109,
+      "text": "4 Editor’s Introduction =» A CoEvolutionary Game =» Libation Bearer"
+    },
+    {
+      "line": 110,
+      "text": "5: Local Dependency by Stewart Brand =» The Economist"
+    },
+    {
+      "line": 111,
+      "text": "6-7 The Clothesline Paradox by Steve Baer :"
+    },
+    {
+      "line": 112,
+      "text": "8-9 The Briarpatch Network by Andy Alpine"
+    },
+    {
+      "line": 113,
+      "text": "10-17 Villages of India by David Morris."
+    },
+    {
+      "line": 114,
+      "text": "a £ The Entropy Law and the Economic Process » Workbooks"
+    },
+    {
+      "line": 115,
+      "text": "19-30 What’s Left? Revisiting the Revolution. by Jay Kinney"
+    },
+    {
+      "line": 116,
+      "text": "31-34 The Ohu Movement in New Zealand by Elliot Smith ."
+    },
+    {
+      "line": 117,
+      "text": "35-40 Nonviolent Direct Action Is Alive and Well in Europe by Lee Swenson"
+    },
+    {
+      "line": 120,
+      "text": "41-48 Finding Our Place In Space by Gordon Ashby"
+    },
+    {
+      "line": 121,
+      "text": "49 Poems by Richard Brautigan"
+    },
+    {
+      "line": 122,
+      "text": "49 Guide to Hand-Operated and Animal-Drawn Equipment = Goat Artificial Insemination"
+    },
+    {
+      "line": 125,
+      "text": "50-54 A Guide to Buying Horse Equipment by Jack Carroll"
+    },
+    {
+      "line": 126,
+      "text": "54 Farm and Ranch Supplies"
+    },
+    {
+      "line": 127,
+      "text": "55 Bee Books = The Art and Adventure of Beekeeping = Bees and Beekeeping 3"
+    },
+    {
+      "line": 128,
+      "text": "56 Nine Lectures on Bees «= Recipe for Raising Chickens » The J oy of a Home baat Garden Cy"
+    }
+  ]
+}

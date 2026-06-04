@@ -1,0 +1,655 @@
+{
+  "title": "II Cybernetic Frontiers, January 1974",
+  "identifier": "iicyberneticfron00unse",
+  "year": 1974,
+  "season": "January",
+  "collection": "Special Publications",
+  "collection_zh": "专题出版物",
+  "pages": 99,
+  "url": "https://wholeearth.info/p/ii-cybernetic-frontiers-january-1974",
+  "archive_url": "https://archive.org/details/iicyberneticfron00unse",
+  "pdf_url": "https://archive.org/download/iicyberneticfron00unse/iicyberneticfron00unse.pdf",
+  "cover_url": "https://archive.org/download/iicyberneticfron00unse/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/iicyberneticfron00unse_djvu.txt",
+  "ocr_chars": 135242,
+  "significant_line_count": 2391,
+  "theme_counts": {
+    "software_computing": 238,
+    "tools_craft": 45,
+    "ecology_place": 64,
+    "learning_media": 102,
+    "community_politics": 180
+  },
+  "top_themes": [
+    "software_computing",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [],
+  "candidate_headings": [
+    {
+      "line": 2154,
+      "text": "THE WONDERFUL NEWS PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 2160,
+      "text": "FOONLY PLOT PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 2164,
+      "text": "FILE PACKING PROGRAM FOR NON#ASCII (HALF ASCII?) FILES",
+      "score": 6
+    },
+    {
+      "line": 2192,
+      "text": "PRUNING PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 2211,
+      "text": "RPG PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 2214,
+      "text": "LISTING PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 17,
+      "text": "WHOLE EARTH CATALOG.",
+      "score": 4
+    },
+    {
+      "line": 58,
+      "text": "LDA a",
+      "score": 4
+    },
+    {
+      "line": 87,
+      "text": "LA a8 SSE ESAs SIN AO RECS IN:",
+      "score": 4
+    },
+    {
+      "line": 90,
+      "text": "AS ROG DOO",
+      "score": 4
+    },
+    {
+      "line": 171,
+      "text": "Q310.B73 301.31 73-20591",
+      "score": 4
+    },
+    {
+      "line": 1636,
+      "text": "-@ OWA",
+      "score": 4
+    },
+    {
+      "line": 1640,
+      "text": "{ COnSOLE, & TORPEDO TUSLS, SILLER SContwe,",
+      "score": 4
+    },
+    {
+      "line": 1641,
+      "text": "MO PCARTLAL OAMACL, HO UIPERSPFACE, EILLER Sor.",
+      "score": 4
+    },
+    {
+      "line": 1642,
+      "text": "SuleS START Lm STAMHARD FOSLTIONS.",
+      "score": 4
+    },
+    {
+      "line": 1643,
+      "text": "14/0 ¥ 160 O07 & STAPOARD GARE! a",
+      "score": 4
+    },
+    {
+      "line": 1644,
+      "text": "SCCOMO CONSOLE) weAseR ELS ECT oRP!",
+      "score": 4
+    },
+    {
+      "line": 1645,
+      "text": "HOW RAAT SPACE -ALPES GO Yeo wAwT?",
+      "score": 4
+    },
+    {
+      "line": 1647,
+      "text": "PARTEAL SANAGED y",
+      "score": 4
+    },
+    {
+      "line": 1650,
+      "text": "AIVLOGA SCeRE? «.",
+      "score": 4
+    },
+    {
+      "line": 1678,
+      "text": "THIS CONSOLE AVAILABLE.",
+      "score": 4
+    },
+    {
+      "line": 1688,
+      "text": "L 1, REG",
+      "score": 4
+    },
+    {
+      "line": 1689,
+      "text": "CSD FALL PICNIC. SATURDAY.11 AM",
+      "score": 4
+    },
+    {
+      "line": 1690,
+      "text": "IN FLOOD PARK...",
+      "score": 4
+    },
+    {
+      "line": 1698,
+      "text": "R SWR.",
+      "score": 4
+    },
+    {
+      "line": 1699,
+      "text": "WELCOME TO SPACEWAR.",
+      "score": 4
+    },
+    {
+      "line": 1700,
+      "text": "HOW MANY SHIPS? MAXIMUM IS 5.",
+      "score": 4
+    },
+    {
+      "line": 1710,
+      "text": "KEYBOARD BUTTONS? (ELSE REGULAR). TYPE Y OR N.",
+      "score": 4
+    },
+    {
+      "line": 1714,
+      "text": "THE STANDARD GAME IS:",
+      "score": 4
+    },
+    {
+      "line": 1715,
+      "text": "1 CONSOLE, 2 TORPEDO TUBES, (NORMAL) SCORING,",
+      "score": 4
+    },
+    {
+      "line": 1716,
+      "text": "NO PARTIAL DAMAGE, NO HYPERSPACE, KILLER SUN.",
+      "score": 4
+    },
+    {
+      "line": 1717,
+      "text": "SHIPS START IN STANDARD POSITIONS. TYPE Y TO",
+      "score": 4
+    },
+    {
+      "line": 1718,
+      "text": "GET A STANDARD GAME.",
+      "score": 4
+    },
+    {
+      "line": 1724,
+      "text": "HOW MANY SPACE MINES DO YOU WANT?",
+      "score": 4
+    },
+    {
+      "line": 1725,
+      "text": "CHOOSE FROM § TO 4.",
+      "score": 4
+    },
+    {
+      "line": 1730,
+      "text": "PARTIAL DAMAGE?",
+      "score": 4
+    },
+    {
+      "line": 1733,
+      "text": "DISPLAY SCORES?",
+      "score": 4
+    },
+    {
+      "line": 1739,
+      "text": "CH CR HY:",
+      "score": 4
+    },
+    {
+      "line": 1741,
+      "text": "TWO TORPEDO TUBES?",
+      "score": 4
+    },
+    {
+      "line": 1745,
+      "text": "HY PERSPACE?",
+      "score": 4
+    },
+    {
+      "line": 1749,
+      "text": "RANDOM STARTING POSITIONS?",
+      "score": 4
+    },
+    {
+      "line": 2042,
+      "text": "MACRU",
+      "score": 4
+    },
+    {
+      "line": 2043,
+      "text": "MACTO6",
+      "score": 4
+    },
+    {
+      "line": 2044,
+      "text": "MAGTST",
+      "score": 4
+    },
+    {
+      "line": 2045,
+      "text": "MANLST",
+      "score": 4
+    },
+    {
+      "line": 2046,
+      "text": "MATHLA",
+      "score": 4
+    },
+    {
+      "line": 2049,
+      "text": "MIXAL",
+      "score": 4
+    },
+    {
+      "line": 2050,
+      "text": "MLISP",
+      "score": 4
+    },
+    {
+      "line": 2051,
+      "text": "MEL LSh2",
+      "score": 4
+    },
+    {
+      "line": 2052,
+      "text": "MLISPC",
+      "score": 4
+    },
+    {
+      "line": 2053,
+      "text": "MONITR",
+      "score": 4
+    },
+    {
+      "line": 2054,
+      "text": "MONUSE",
+      "score": 4
+    },
+    {
+      "line": 2055,
+      "text": "MULDIV",
+      "score": 4
+    },
+    {
+      "line": 2056,
+      "text": "MUS{2",
+      "score": 4
+    },
+    {
+      "line": 2057,
+      "text": "NEWMUS",
+      "score": 4
+    },
+    {
+      "line": 2059,
+      "text": "NSAIL",
+      "score": 4
+    },
+    {
+      "line": 2060,
+      "text": "OSAIL",
+      "score": 4
+    },
+    {
+      "line": 2126,
+      "text": "ASSEMBLER",
+      "score": 4
+    },
+    {
+      "line": 2128,
+      "text": "READ PROJECT MAC DECTAPES CIF YOU'RE VERY LUCKY)",
+      "score": 4
+    },
+    {
+      "line": 2129,
+      "text": "MAGTAPE TEST",
+      "score": 4
+    },
+    {
+      "line": 2131,
+      "text": "MANUAL UPDATE?",
+      "score": 4
+    },
+    {
+      "line": 2133,
+      "text": "MATH LAB (SYMBOLIC CALCULATION PS0GRAM)",
+      "score": 4
+    },
+    {
+      "line": 2134,
+      "text": "SEND A MESSAGE TO ONE TTY",
+      "score": 4
+    },
+    {
+      "line": 2136,
+      "text": "MIX INTERPRETER (KNUTH’S MAGIC MACHINE)",
+      "score": 4
+    },
+    {
+      "line": 2137,
+      "text": "MIX ASSEMB3LER",
+      "score": 4
+    },
+    {
+      "line": 2141,
+      "text": "NEW IMPROVED MLISP",
+      "score": 4
+    },
+    {
+      "line": 2143,
+      "text": "COMPILING VERSION OF MLIS®",
+      "score": 4
+    },
+    {
+      "line": 2145,
+      "text": "PEEKS AT SAIL JOBS AND TYPES OUT STORAGE USAGE INFO",
+      "score": 4
+    },
+    {
+      "line": 2146,
+      "text": "TYPE MONITOR STATISTICS",
+      "score": 4
+    },
+    {
+      "line": 2148,
+      "text": "RANDOM DIAGNOSTIC, WON’T RUN",
+      "score": 4
+    },
+    {
+      "line": 2150,
+      "text": "PART OF MUSIC SYSTEM",
+      "score": 4
+    },
+    {
+      "line": 2152,
+      "text": "NEW MUSIC COMPILER (REPLACES MUS1Q)",
+      "score": 4
+    },
+    {
+      "line": 2156,
+      "text": "NEW SAIL SYSTEM",
+      "score": 4
+    },
+    {
+      "line": 2162,
+      "text": "PAPER TAPE DUPLICATOR",
+      "score": 4
+    },
+    {
+      "line": 2165,
+      "text": "PDP14 ASSEMBLER",
+      "score": 4
+    },
+    {
+      "line": 2167,
+      "text": "PARANOID MODEL",
+      "score": 4
+    },
+    {
+      "line": 2169,
+      "text": "FOONLY PC CARD LAYOUT",
+      "score": 4
+    },
+    {
+      "line": 2171,
+      "text": "PROOF CHECKER",
+      "score": 4
+    },
+    {
+      "line": 2173,
+      "text": "EDONEY. PLOT VOR srs",
+      "score": 4
+    },
+    {
+      "line": 2175,
+      "text": "DISPLAY HACK",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 27,
+      "term": "interview",
+      "snippet": "anthropoligist, psychologist, former husband of Margaret Mead, and formulator of the Double Bind theory of schizophrenia. He’s tall (6’S’’). This interview is a jagged journey among the wholesome paradoxes that (thank God) undermine human _ conscious purpose. We _ visit cybernetically-perceived pathologies of the mind, of the"
+    },
+    {
+      "line": 32,
+      "term": "learning",
+      "snippet": "cybernetically-perceived pathologies of the mind, of the laboratory, of natural history and human history, and we take Taoistic medicine, bitter and sweet. Learning is paradoxical. Health is complexity. Fanatic Life & Symbolic Death Among the Computer Bums"
+    },
+    {
+      "line": 170,
+      "term": "ecology",
+      "snippet": "“A Random House/Bookworks book.” 1. Cybernetics. 2. Computers and civilization. 3. Social psychology. 4.Human ecology. I. Title. Q310.B73 301.31 73-20591 Manufactured in the United States of America. BSTC: BirclSra res eh te SelciapaNane, Rabie t eP let mie fl |"
+    },
+    {
+      "line": 244,
+      "term": "energy",
+      "snippet": "The field of cybernetics is still busy finding out what it is. Our comprehension has grown used to the concepts of matter and energy, but the burden of cybernetics-information-continues to boggle us. Weightless energyless differences fly about making pat- terns which are apparently nothing but which move the somethings with mysterious regularity. Meat learns; machines learn. An ab-"
+    },
+    {
+      "line": 245,
+      "term": "energy",
+      "snippet": "comprehension has grown used to the concepts of matter and energy, but the burden of cybernetics-information-continues to boggle us. Weightless energyless differences fly about making pat- terns which are apparently nothing but which move the somethings with mysterious regularity. Meat learns; machines learn. An ab- sence is as significant as a presence (You may write an angry reply to a"
+    },
+    {
+      "line": 252,
+      "term": "energy",
+      "snippet": "are inarticulate within that system, which makes things difficult for the cybernetician, who has no way of standing outside his science. It is a science of essences, a slippery business. Information, energy, and matter (and life) make an inseparable whole, but there is yet no theory to link them formally. Every part of cybernetics research is jumping with fascinating"
+    },
+    {
+      "line": 293,
+      "term": "ecology",
+      "snippet": "self-enhancing ethic of what is sacred, what is right for life. Tall order. In the summer of ’72 a book began to fill it for me: Steps to an Ecology of Mind, Gregory Bateson, Ballantine Books, LOY Zuo lynpp ese 12953) After reading it I couldn’t understand why Gregory Bateson was famous only for conceiving the Double Bind theory of schizophrenia"
+    },
+    {
+      "line": 348,
+      "term": "ecology",
+      "snippet": "Apparently Bateson’s unusual work with the pathologies of in- dividual insanity and alcohol addiction was yielding powerful in- sights into our social pathologies. Steps to the Mind of Ecology. I wanted more. There were radically different habits of thought going on in Bateson that I wanted to replace some of my habits. I knew that young questers were trekking to his door with the same private"
+    },
+    {
+      "line": 363,
+      "term": "ecology",
+      "snippet": "or Buckminster Fuller, and that half a dozen disciplines beleaguered Steps to an Ecology of Mind Introduction: The Science of Mind and Order Part I: Metalogues Metalogue: Why Do Things Get in a Muddle"
+    },
+    {
+      "line": 402,
+      "term": "learning",
+      "snippet": "Comment on Part II Part II]: Form and Pathology in Helationship Social Planning and the Concept of Deutero-Learning A Theory of Play and Fantasy Epidemiology of a Schizophrenia Toward a Theory of Schizophrenia"
+    },
+    {
+      "line": 414,
+      "term": "learning",
+      "snippet": "Minimal Requirements for a Theory of Schizophrenia Double Bind, 1969 The Logical Categories of Learning and Communication The Cybernetics of “Self”: A Theory of Alcoholism Comment on Part III Part IV: Biology and Evolution"
+    },
+    {
+      "line": 435,
+      "term": "ecology",
+      "snippet": "A Re-examination of “Bateson’s Rule” Comments on Part IV Part V: Epistemology and Ecology Cybernetic Explanation Redundancy and Coding Conscious Purpose versus Nature"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "II Cybernetic Frontiers"
+    },
+    {
+      "line": 4,
+      "text": "Both Sides of | Fanatic Life |"
+    },
+    {
+      "line": 5,
+      "text": "the Necessary | | and |"
+    },
+    {
+      "line": 6,
+      "text": "| Paradox | | _ Symbolic"
+    },
+    {
+      "line": 7,
+      "text": "| (Conversations Death"
+    },
+    {
+      "line": 8,
+      "text": "with Gregory | Among the."
+    },
+    {
+      "line": 9,
+      "text": "Bateson) | Computer.Bums |"
+    },
+    {
+      "line": 12,
+      "text": "Stewart Brand _"
+    },
+    {
+      "line": 15,
+      "text": "The publisher would like you to know that the author of"
+    },
+    {
+      "line": 16,
+      "text": "Two Cybernetic Frontiers founded and edited the"
+    },
+    {
+      "line": 17,
+      "text": "WHOLE EARTH CATALOG."
+    },
+    {
+      "line": 20,
+      "text": "Both Sides of the"
+    },
+    {
+      "line": 21,
+      "text": "Necessary Paradox"
+    },
+    {
+      "line": 24,
+      "text": "Gregory Bateson is a naturalist, a cybernetic philosopher,"
+    },
+    {
+      "line": 25,
+      "text": "anthropoligist, psychologist, former husband of Margaret"
+    },
+    {
+      "line": 26,
+      "text": "Mead, and formulator of the Double Bind theory of"
+    },
+    {
+      "line": 27,
+      "text": "schizophrenia. He’s tall (6’S’’). This interview is a jagged"
+    },
+    {
+      "line": 28,
+      "text": "journey among the wholesome paradoxes that (thank God)"
+    },
+    {
+      "line": 29,
+      "text": "undermine human _ conscious purpose. We _ visit"
+    },
+    {
+      "line": 30,
+      "text": "cybernetically-perceived pathologies of the mind, of the"
+    },
+    {
+      "line": 31,
+      "text": "laboratory, of natural history and human history, and we"
+    },
+    {
+      "line": 32,
+      "text": "take Taoistic medicine, bitter and sweet. Learning is"
+    },
+    {
+      "line": 33,
+      "text": "paradoxical. Health is complexity."
+    },
+    {
+      "line": 36,
+      "text": "Fanatic Life & Symbolic Death"
+    },
+    {
+      "line": 37,
+      "text": "Among the Computer Bums"
+    },
+    {
+      "line": 40,
+      "text": "A photo and tape report on what’s lively in computer sci-"
+    },
+    {
+      "line": 41,
+      "text": "ence. The irrepressible computer-game of Spacewar-a spe-"
+    },
+    {
+      "line": 42,
+      "text": "cial enthusiasm of the hackers (computer bums,"
+    },
+    {
+      "line": 43,
+      "text": "technicians)-is found to have belied predictions and plans"
+    },
+    {
+      "line": 44,
+      "text": "for computer use, delivering more fun and less control to"
+    },
+    {
+      "line": 45,
+      "text": "the whole field. We visit an Intergalactic Spacewar Olym-"
+    },
+    {
+      "line": 46,
+      "text": "pics at Stanford’s Artificial Intelligence Laboratory, as well"
+    },
+    {
+      "line": 47,
+      "text": "as the on-line network linking all of America’s major com-"
+    },
+    {
+      "line": 48,
+      "text": "puter centers, an idyllic corporate research center, and a"
+    },
+    {
+      "line": 49,
+      "text": "People’s computer facility. Marvels are told. No predictions"
+    },
+    {
+      "line": 50,
+      "text": "are made."
+    },
+    {
+      "line": 53,
+      "text": "The front cover illustration is a sumi ink painting the author"
+    },
+    {
+      "line": 54,
+      "text": "picked up in Kyoto, Japan, for 800 yen, about $2."
+    },
+    {
+      "line": 57,
+      "text": "RIK: WO & Dein Slowey"
+    },
+    {
+      "line": 58,
+      "text": "LDA a"
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+{
+  "title": "CoEvolution Quarterly, Spring 1978",
+  "identifier": "coevolutionquart00unse_14",
+  "year": 1978,
+  "season": "Spring",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 157,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1978",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_14",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_14/coevolutionquart00unse_14.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_14/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_14_djvu.txt",
+  "ocr_chars": 654184,
+  "significant_line_count": 14489,
+  "theme_counts": {
+    "software_computing": 73,
+    "tools_craft": 284,
+    "ecology_place": 866,
+    "learning_media": 435,
+    "community_politics": 300
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 5151,
+      "page": 1,
+      "title": "ONLY GET",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_14/page/n2_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 5151,
+      "text": "1 ONLY GET",
+      "score": 8
+    },
+    {
+      "line": 5267,
+      "text": "1 DONT CARE WHAT",
+      "score": 8
+    },
+    {
+      "line": 5344,
+      "text": "1 DON'MIND IT.",
+      "score": 8
+    },
+    {
+      "line": 5466,
+      "text": "1 KNOW A COUPLE'O' 1",
+      "score": 8
+    },
+    {
+      "line": 10459,
+      "text": "But what if sheltering a human community had been",
+      "score": 5
+    },
+    {
+      "line": 11945,
+      "text": "other community energy codes.",
+      "score": 5
+    },
+    {
+      "line": 46,
+      "text": "8-13 GOVERNOR BROWN AT THE MENTAL HOSPITALS by Orville Schell",
+      "score": 4
+    },
+    {
+      "line": 69,
+      "text": "50-59 EARL BUTZ VERSUS WENDELL BERRY",
+      "score": 4
+    },
+    {
+      "line": 155,
+      "text": "RAR AEN TA EE NE EN TI I ETL TA ME GI SE ES EE ESE RSE",
+      "score": 4
+    },
+    {
+      "line": 316,
+      "text": "\"7 THE HISTORY OF THE METRIC SYSTEM,",
+      "score": 4
+    },
+    {
+      "line": 351,
+      "text": "THE METRE WAS ORIGINALLY INTENDED,",
+      "score": 4
+    },
+    {
+      "line": 363,
+      "text": "| 94 MILES |",
+      "score": 4
+    },
+    {
+      "line": 364,
+      "text": "me 151 KILOMETERS.",
+      "score": 4
+    },
+    {
+      "line": 582,
+      "text": "BIBLIOGRAPHY",
+      "score": 4
+    },
+    {
+      "line": 704,
+      "text": "BY ORVILLE SCHELL",
+      "score": 4
+    },
+    {
+      "line": 920,
+      "text": "LTHOUGH IT IS THANKSGIVING DAY,",
+      "score": 4
+    },
+    {
+      "line": 927,
+      "text": "YOU JUST BROKE THE CAMEL’S BACK",
+      "score": 4
+    },
+    {
+      "line": 1633,
+      "text": "BOPS WITHOUT aULS",
+      "score": 4
+    },
+    {
+      "line": 1636,
+      "text": "KEN KESEY at GOVERNOR BROWN'S OFFICE",
+      "score": 4
+    },
+    {
+      "line": 1834,
+      "text": "POLYGON",
+      "score": 4
+    },
+    {
+      "line": 1835,
+      "text": "BARREL",
+      "score": 4
+    },
+    {
+      "line": 1836,
+      "text": "DESIGN INCREASES",
+      "score": 4
+    },
+    {
+      "line": 1837,
+      "text": "ACCURACY AND",
+      "score": 4
+    },
+    {
+      "line": 1838,
+      "text": "STOPPING POWER!",
+      "score": 4
+    },
+    {
+      "line": 1869,
+      "text": "Le VRE!",
+      "score": 4
+    },
+    {
+      "line": 2233,
+      "text": "MAGNETIC",
+      "score": 4
+    },
+    {
+      "line": 2234,
+      "text": "RING SAVES",
+      "score": 4
+    },
+    {
+      "line": 2235,
+      "text": "LIVES & INJURIES",
+      "score": 4
+    },
+    {
+      "line": 2508,
+      "text": "YELLOW",
+      "score": 4
+    },
+    {
+      "line": 2509,
+      "text": "~ DIAMONDS",
+      "score": 4
+    },
+    {
+      "line": 2541,
+      "text": "RECOMBINANT DNA,",
+      "score": 4
+    },
+    {
+      "line": 2542,
+      "text": "PauL EHRLICH, AND",
+      "score": 4
+    },
+    {
+      "line": 2543,
+      "text": "FRIENDS OF THE EARTH",
+      "score": 4
+    },
+    {
+      "line": 2670,
+      "text": "ADUUIAT KALDT",
+      "score": 4
+    },
+    {
+      "line": 3296,
+      "text": "REFERENCES",
+      "score": 4
+    },
+    {
+      "line": 3358,
+      "text": "I } :",
+      "score": 4
+    },
+    {
+      "line": 3467,
+      "text": "ST Te",
+      "score": 4
+    },
+    {
+      "line": 3506,
+      "text": "ARISTOPHANES",
+      "score": 4
+    },
+    {
+      "line": 3513,
+      "text": "ALBERT SZENT-GYORGI",
+      "score": 4
+    },
+    {
+      "line": 3518,
+      "text": "ALBERT CAMUS",
+      "score": 4
+    },
+    {
+      "line": 3521,
+      "text": "I. INTRODUCTION",
+      "score": 4
+    },
+    {
+      "line": 3591,
+      "text": "CA 90742.",
+      "score": 4
+    },
+    {
+      "line": 3677,
+      "text": "DO Se",
+      "score": 4
+    },
+    {
+      "line": 3701,
+      "text": "Il. THE THEORY",
+      "score": 4
+    },
+    {
+      "line": 3709,
+      "text": "MARCUS AURELIUS",
+      "score": 4
+    },
+    {
+      "line": 3982,
+      "text": "WMMAOW",
+      "score": 4
+    },
+    {
+      "line": 3985,
+      "text": "<A SADA",
+      "score": 4
+    },
+    {
+      "line": 3986,
+      "text": "SOO EL",
+      "score": 4
+    },
+    {
+      "line": 3989,
+      "text": "NOY AMARA AA)",
+      "score": 4
+    },
+    {
+      "line": 3995,
+      "text": "eS NO",
+      "score": 4
+    },
+    {
+      "line": 4002,
+      "text": "PLLEAIDO",
+      "score": 4
+    },
+    {
+      "line": 4010,
+      "text": "OLA LEIDEOS TEE 1 PLOIER",
+      "score": 4
+    },
+    {
+      "line": 4014,
+      "text": "CD IL 2 22a",
+      "score": 4
+    },
+    {
+      "line": 4021,
+      "text": "UAC ASi",
+      "score": 4
+    },
+    {
+      "line": 4025,
+      "text": "AGO G IA",
+      "score": 4
+    },
+    {
+      "line": 4070,
+      "text": "III. THE APPLICATION OF THE THEORY",
+      "score": 4
+    },
+    {
+      "line": 4071,
+      "text": "TO ACNE VULGARIS",
+      "score": 4
+    },
+    {
+      "line": 4079,
+      "text": "VOLTAIRE",
+      "score": 4
+    },
+    {
+      "line": 4083,
+      "text": "KIPLING",
+      "score": 4
+    },
+    {
+      "line": 4091,
+      "text": "JAMES BRANCH CABELL",
+      "score": 4
+    },
+    {
+      "line": 4866,
+      "text": "IV. CONCLUSION",
+      "score": 4
+    },
+    {
+      "line": 5009,
+      "text": "“FP .",
+      "score": 4
+    },
+    {
+      "line": 5027,
+      "text": "ge AND NOW, FOLKS, INTRODUCING, FoR THE FIRST TIME IN ANY MAGAZINE,",
+      "score": 4
+    },
+    {
+      "line": 5030,
+      "text": "Pp WHOLE NEW SET OF CHARACTERS FROM THE CREATOR OF SO MANY OF",
+      "score": 4
+    },
+    {
+      "line": 5031,
+      "text": "'EPVORITE CARTOON CHARACTERS, THOSE LOVABLE...THOSE CUTE N’",
+      "score": 4
+    },
+    {
+      "line": 5034,
+      "text": "y DON'T GET UPSETS?",
+      "score": 4
+    },
+    {
+      "line": 5035,
+      "text": "- WHEN 1 CALL You",
+      "score": 4
+    },
+    {
+      "line": 5036,
+      "text": "A STU-BUM, IT'S",
+      "score": 4
+    },
+    {
+      "line": 5037,
+      "text": "ONLY IN FUN...1",
+      "score": 4
+    },
+    {
+      "line": 5038,
+      "text": "USE IT AS A TERM",
+      "score": 4
+    },
+    {
+      "line": 5039,
+      "text": "OF ENDEARMENT,",
+      "score": 4
+    },
+    {
+      "line": 5040,
+      "text": "REALLY //",
+      "score": 4
+    },
+    {
+      "line": 5043,
+      "text": "SAM, USTEN, DO",
+      "score": 4
+    },
+    {
+      "line": 5044,
+      "text": "YOU THINK THE",
+      "score": 4
+    },
+    {
+      "line": 5045,
+      "text": "MIND CAN EVER",
+      "score": 4
+    },
+    {
+      "line": 5046,
+      "text": "REALLY KNOW",
+      "score": 4
+    },
+    {
+      "line": 5047,
+      "text": "WHAT THIS 1S 22",
+      "score": 4
+    },
+    {
+      "line": 5053,
+      "text": "-CUDDLY,,, THOSE SIMPLY APORABLE LI'L GUYS,.,,",
+      "score": 4
+    },
+    {
+      "line": 5056,
+      "text": "FRIEND... 1 BEEN",
+      "score": 4
+    },
+    {
+      "line": 5057,
+      "text": "CONTEMPLATIN’ EXIS-",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 56,
+      "term": "whole systems",
+      "snippet": "24-27 Recombinant DNA, Paul Ehrlich, and Friends of The Earth 27-28 Environmental Mutagens/Carcinogens by Bruce N. Ames Understanding Whole Systems ag Magnifications = Worlds Within Worlds 30-38 LANGUAGE, THOUGHT, & DISEASE by W. C. Ellerbroek, M.D. 39-43 The Nerds by R. Crumb"
+    },
+    {
+      "line": 82,
+      "term": "energy",
+      "snippet": "74-79 SOLAR WATER HEATERS IN FLORIDA 1923 - 1978 by Ken Butti and John Perlin 80 The Art and Science of Inventing = Buying Solar = Now that’s continuity : 81 Homegrown Sundwellings = Energy Conservation Code Workbook # Preliminary Comparison - Ps Study of Four Solar Space Heating Systems = Wind Power Access Catalog = Junkers Gas Water Heater 82 The Spacemaker Book # How to Build Your Own Living Structures = Gadget"
+    },
+    {
+      "line": 101,
+      "term": "community",
+      "snippet": "Spring 1978 <j one ter i : Community 86-90 JOB SHARING IS GOOD by Robert Gilman % 90-91 I Was Armand Hammer by J. Baldwin a 02 For the People = Firehouse » How to Make Meetings Work # The Neighborhood Works"
+    },
+    {
+      "line": 130,
+      "term": "communications",
+      "snippet": "» 114-118 CLUNKER BIKES by Richard Nilsen F biG Alaska Blues Communications -----@-AAAM@#@MH 120 Vibrations » The Kanji ABC = The David Grisman Quintet m= Maledicta A New York Rocker # Calculators/Computers Magazine # PCC’s Reference Book of Personal and Home Computing"
+    },
+    {
+      "line": 138,
+      "term": "learning",
+      "snippet": "(22 The Photographer’s Handbook s# The Pushcart Prize and The Small Press Review ¢ 123 Hidden Ground # TVin Russia = Gorilla =» TV comments Learning 124-129 ON STORY TELLING by Carol Scott Van Strum 130 Storytelling and The World of Storytelling = Centuries of Childhood . 131 Imperial Messages and Minute Stories m= Six wishes"
+    },
+    {
+      "line": 497,
+      "term": "community",
+      "snippet": "dial world is upset. The art of government, as practised from the earliest times, is to discern and weigh the various interests within the community, preserving dynamic stability by application of the mystical law of proportion. The decline of this esoteric science and the fragmentation of the canonical society"
+    },
+    {
+      "line": 550,
+      "term": "community",
+      "snippet": "universally accepted and embodied in theories of government, the natural function of rulers - to balance the various interests within the community, - being disregarded. Finally, the native parasites have now been swallowed up by others larger and more anonymous, so that it has become no longer"
+    },
+    {
+      "line": 743,
+      "term": "learning",
+      "snippet": "ago, because | was invited, because | think they are doing important work well, and because they are my friends and | learn from them. Some of what I’m learning | try to pass on in this magazine. Orville Schell, author of In the People’s Republic and The Town that Fought to Save Itself, has just completed a"
+    },
+    {
+      "line": 819,
+      "term": "community",
+      "snippet": "“The very simple reason is that it takes more than words to put some limit on that growth. There are certain needs and obligations in the community that just have to be taken care of, and if you don’t do it - through some volunteer movement, some other arrangement outside of the public sector - then"
+    },
+    {
+      "line": 917,
+      "term": "community",
+      "snippet": "“We're institutionalizing everybody. And I'd like to de-institutionalize everybody, I’d like to have a community that has a more human spirit to it.”” - LTHOUGH IT IS THANKSGIVING DAY, pickets stand out in front of the broad avenue that leads up past several wards to the adminis-"
+    },
+    {
+      "line": 1113,
+      "term": "interview",
+      "snippet": "for making it better, but | can’t do it alone.” “How come black people don’t look like God?” a black patient who has been watching the interview suddenly asks Brown. “How do you know they don’t?”’ The black patient listens impassively to Brown’s"
+    },
+    {
+      "line": 1209,
+      "term": "community",
+      "snippet": "says, ‘As each individual in our society gives less, the institutions have to give more. They become substi- tutes for the family and community.” ‘Well, we can’t give back the patients,’’ retorts a doctor with contempt, perhaps misunderstanding Brown’s comment as a criticism of them."
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 4,
+      "text": "te self-report"
+    },
+    {
+      "line": 5,
+      "text": "ICS."
+    },
+    {
+      "line": 8,
+      "text": "thaccura"
+    },
+    {
+      "line": 28,
+      "text": "Acne may result from"
+    },
+    {
+      "line": 31,
+      "text": "Cover | was so envious of the cover art (showing a woman about to step on a toy while her shadow is already falling"
+    },
+    {
+      "line": 32,
+      "text": "down the stairs) on the 10 Nov. ‘77 New Scientist that / wrote to the artist in England and asked him to do it"
+    },
+    {
+      "line": 33,
+      "text": "for us. He did, twice. Once, on the cover, for “Language, Thought, & Disease’’ (p. 30), and again, on the back,"
+    },
+    {
+      "line": 34,
+      "text": "for “Cops Without Guns,” (p. 18). Robin Harris, 28, is based in London and regularly exhibits his paintings"
+    },
+    {
+      "line": 35,
+      "text": "(done inacrylics). In 1979 Pierrot will publish a book of work from his travels to the States and elsewhere."
+    },
+    {
+      "line": 38,
+      "text": "-SB (Stewart Brand)"
+    },
+    {
+      "line": 41,
+      "text": "Politics"
+    },
+    {
+      "line": 43,
+      "text": "2-6 A DEFENCE OF SACRED MEASURES by John Michell"
+    },
+    {
+      "line": 45,
+      "text": "7 Ladle Rat Rotten Hut"
+    },
+    {
+      "line": 46,
+      "text": "8-13 GOVERNOR BROWN AT THE MENTAL HOSPITALS by Orville Schell"
+    },
+    {
+      "line": 48,
+      "text": "14-17 Cog by Dan O’Neill"
+    },
+    {
+      "line": 49,
+      "text": "18-22 COPS WITHOUT GUNS Ken Kesey at Governor Brown’s Office"
+    },
+    {
+      "line": 51,
+      "text": "Zo More Yellow Diamonds by Malcolm Wells"
+    },
+    {
+      "line": 52,
+      "text": "24-27 Recombinant DNA, Paul Ehrlich, and Friends of The Earth"
+    },
+    {
+      "line": 53,
+      "text": "27-28 Environmental Mutagens/Carcinogens by Bruce N. Ames"
+    },
+    {
+      "line": 56,
+      "text": "Understanding Whole Systems"
+    },
+    {
+      "line": 59,
+      "text": "ag Magnifications = Worlds Within Worlds"
+    },
+    {
+      "line": 60,
+      "text": "30-38 LANGUAGE, THOUGHT, & DISEASE by W. C. Ellerbroek, M.D."
+    },
+    {
+      "line": 61,
+      "text": "39-43 The Nerds by R. Crumb"
+    },
+    {
+      "line": 62,
+      "text": "44-46 Number is Different from Quantity by Gregory Bateson"
+    },
+    {
+      "line": 63,
+      "text": "46 Protect the trophies, slay the children"
+    },
+    {
+      "line": 64,
+      "text": "47 Untitled = Information Theory and the Living System"
+    },
+    {
+      "line": 65,
+      "text": "48 World Map # Ecoscience = Neuropolitics"
+    },
+    {
+      "line": 66,
+      "text": "49 A Species of Eternity = Natural History in America ="
+    },
+    {
+      "line": 67,
+      "text": "Endangered Species and WIN # Bio-Dynamic Agriculture"
+    },
+    {
+      "line": 68,
+      "text": "Land Use"
+    },
+    {
+      "line": 69,
+      "text": "50-59 EARL BUTZ VERSUS WENDELL BERRY"
+    },
+    {
+      "line": 70,
+      "text": "60-64 | Biological Agriculture in Europe by Gil Friend"
+    },
+    {
+      "line": 71,
+      "text": "64 The Coming of Spring 1977 by Robert Horvitz"
+    },
+    {
+      "line": 72,
+      "text": "65 The One-Straw Revolution"
+    },
+    {
+      "line": 73,
+      "text": "66 The Education of a Gardener » Vermont Bean Seed Co. = Flowers When You Want Them = ~"
+    },
+    {
+      "line": 74,
+      "text": "Mondell Pine ;"
+    },
+    {
+      "line": 75,
+      "text": "67 Simon & Schuster’s Complete Guide to Plants and Flowers = Solar greenhouse access ="
+    },
+    {
+      "line": 76,
+      "text": "Alternative sanitation systems | ."
+    },
+    {
+      "line": 77,
+      "text": "Soft Technology"
+    },
+    {
+      "line": 78,
+      "text": "68-72 BOTANIC ARCHITECTURE by Mark Primack"
+    }
+  ]
+}

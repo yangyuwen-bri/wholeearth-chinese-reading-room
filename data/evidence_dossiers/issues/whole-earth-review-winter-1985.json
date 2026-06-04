@@ -1,0 +1,692 @@
+{
+  "title": "Whole Earth Review, Winter 1985",
+  "identifier": "wholeearthreview00unse_4",
+  "year": 1985,
+  "season": "Winter",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 145,
+  "url": "https://wholeearth.info/p/whole-earth-review-winter-1985",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_4",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_4/wholeearthreview00unse_4.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_4/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthreview00unse_4_djvu.txt",
+  "ocr_chars": 647273,
+  "significant_line_count": 14968,
+  "theme_counts": {
+    "software_computing": 181,
+    "tools_craft": 218,
+    "ecology_place": 464,
+    "learning_media": 410,
+    "community_politics": 494
+  },
+  "top_themes": [
+    "community_politics",
+    "ecology_place",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 479,
+      "page": 105,
+      "title": "LITTLE BLACK BOOK",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_4/page/n106_w500.jpg"
+    },
+    {
+      "line": 482,
+      "page": 106,
+      "title": "PAPERBACK WRITER",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_4/page/n107_w500.jpg"
+    },
+    {
+      "line": 501,
+      "page": 0,
+      "title": "DX HEAVEN",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_4/page/n1_w500.jpg"
+    },
+    {
+      "line": 506,
+      "page": 127,
+      "title": "THE COMPLETE FIREWORKS",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_4/page/n128_w500.jpg"
+    },
+    {
+      "line": 658,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO CA 94965",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_4/page/n28_w500.jpg"
+    },
+    {
+      "line": 2731,
+      "page": 20,
+      "title": "WHOLE EARTH REVIEW WINTER 1985",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_4/page/n21_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 2731,
+      "text": "20 WHOLE EARTH REVIEW WINTER 1985",
+      "score": 10
+    },
+    {
+      "line": 479,
+      "text": "105 LITTLE BLACK BOOK",
+      "score": 8
+    },
+    {
+      "line": 482,
+      "text": "106 PAPERBACK WRITER",
+      "score": 8
+    },
+    {
+      "line": 501,
+      "text": "0 DX HEAVEN",
+      "score": 8
+    },
+    {
+      "line": 506,
+      "text": "127 THE COMPLETE FIREWORKS",
+      "score": 8
+    },
+    {
+      "line": 658,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 19012,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA",
+      "score": 8
+    },
+    {
+      "line": 22120,
+      "text": "0 AID CRCULATION",
+      "score": 8
+    },
+    {
+      "line": 318,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 332,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 400,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 492,
+      "text": "110 Dr. T’s MIDI SEQUENCER PROGRAM 0",
+      "score": 6
+    },
+    {
+      "line": 609,
+      "text": "WHOLE EARTH REVIEW WINTER 1985",
+      "score": 6
+    },
+    {
+      "line": 1132,
+      "text": "WHOLE EARTH REVIEW WINTER 1985 -",
+      "score": 6
+    },
+    {
+      "line": 3954,
+      "text": "28 j WHOLE EARTH REVIEW WINTER 1985",
+      "score": 6
+    },
+    {
+      "line": 5334,
+      "text": "WHOLE EARTH REVIEW = WINTER 1985",
+      "score": 6
+    },
+    {
+      "line": 5938,
+      "text": "WHOLE EARTH REVIEW. WINTER 1985",
+      "score": 6
+    },
+    {
+      "line": 6732,
+      "text": ". WHOLE EARTH REVIEW = WINTER: 1985",
+      "score": 6
+    },
+    {
+      "line": 8254,
+      "text": "WHOLE EARTH REVIEW: WINTER 1985",
+      "score": 6
+    },
+    {
+      "line": 8296,
+      "text": "AN INTERVIEW",
+      "score": 6
+    },
+    {
+      "line": 11700,
+      "text": "WHOLE EARTH REVIEW WINTER [985",
+      "score": 6
+    },
+    {
+      "line": 12319,
+      "text": "c-----S EARTH REVIEW WINTER 1985",
+      "score": 6
+    },
+    {
+      "line": 12658,
+      "text": "WHOLE EARTH REVIEW - WINTER 1985",
+      "score": 6
+    },
+    {
+      "line": 12946,
+      "text": "88 . WHOLE EARTH REVIEW WINTER 1985",
+      "score": 6
+    },
+    {
+      "line": 14334,
+      "text": "WHOLE EARTH REVIEW § WINTER 1985",
+      "score": 6
+    },
+    {
+      "line": 16013,
+      "text": "WHOLE-EARTH REVIEW WINTER 1985",
+      "score": 6
+    },
+    {
+      "line": 16753,
+      "text": "SEQUENCER PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 18916,
+      "text": "I 24 WHOLE EARTH REVIEW WINTER 1985",
+      "score": 6
+    },
+    {
+      "line": 21793,
+      "text": "i 38 7 ; WHOLE EARTH REVIEW WINTER 1985",
+      "score": 6
+    },
+    {
+      "line": 4490,
+      "text": "Chautauqua Learning Community, a",
+      "score": 5
+    },
+    {
+      "line": 3,
+      "text": "ACCESS TO TOOLS AND IDEAS eis?” NO. 49 WINTER 1985 $4.50 (CANADIAN $5.50)",
+      "score": 4
+    },
+    {
+      "line": 188,
+      "text": "A FUTURE VISIT",
+      "score": 4
+    },
+    {
+      "line": 219,
+      "text": "THEATER OF THE SKY",
+      "score": 4
+    },
+    {
+      "line": 248,
+      "text": "ISLAM: BEYOND STEREOTYPES -ASPECIAL SECTION Edited by Jay Kinney",
+      "score": 4
+    },
+    {
+      "line": 344,
+      "text": "‘SOFT TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 387,
+      "text": "SMALL BUSINESS",
+      "score": 4
+    },
+    {
+      "line": 420,
+      "text": "CRAFT",
+      "score": 4
+    },
+    {
+      "line": 438,
+      "text": "NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 454,
+      "text": "BACKSCATTER",
+      "score": 4
+    },
+    {
+      "line": 457,
+      "text": "GATE FIVE ROAD",
+      "score": 4
+    },
+    {
+      "line": 470,
+      "text": "- WHOLE EARTH SOFTWARE CATALOG VERSION 21",
+      "score": 4
+    },
+    {
+      "line": 473,
+      "text": "HARDWARE",
+      "score": 4
+    },
+    {
+      "line": 477,
+      "text": "ORGANIZING",
+      "score": 4
+    },
+    {
+      "line": 480,
+      "text": "WRITING",
+      "score": 4
+    },
+    {
+      "line": 485,
+      "text": "107 PAGE MAKER (0 WEBSTER’S",
+      "score": 4
+    },
+    {
+      "line": 486,
+      "text": "NEWWORLD SPELLING CHECKER",
+      "score": 4
+    },
+    {
+      "line": 497,
+      "text": "PLUS 0 PERSONAL COMPOSER",
+      "score": 4
+    },
+    {
+      "line": 499,
+      "text": "~1 CONCERTWARE CZ RIDER",
+      "score": 4
+    },
+    {
+      "line": 503,
+      "text": "0 DATA/7 and PERFORMANCE/7",
+      "score": 4
+    },
+    {
+      "line": 507,
+      "text": "CONSTRUCTION SET",
+      "score": 4
+    },
+    {
+      "line": 510,
+      "text": "LS AM",
+      "score": 4
+    },
+    {
+      "line": 513,
+      "text": "BeEVY OcNE",
+      "score": 4
+    },
+    {
+      "line": 522,
+      "text": "A SPECIAL SECTION",
+      "score": 4
+    },
+    {
+      "line": 1012,
+      "text": "ISLAM:",
+      "score": 4
+    },
+    {
+      "line": 1015,
+      "text": "BLIND SPO#",
+      "score": 4
+    },
+    {
+      "line": 1018,
+      "text": "OF TEE",
+      "score": 4
+    },
+    {
+      "line": 1912,
+      "text": "BPS PO Pe",
+      "score": 4
+    },
+    {
+      "line": 2228,
+      "text": "CHOOSING ISLAM",
+      "score": 4
+    },
+    {
+      "line": 2444,
+      "text": "POSTURE 1",
+      "score": 4
+    },
+    {
+      "line": 2467,
+      "text": "POSTURE 5",
+      "score": 4
+    },
+    {
+      "line": 2501,
+      "text": "POSTURE 2",
+      "score": 4
+    },
+    {
+      "line": 2564,
+      "text": "POSTURE 6",
+      "score": 4
+    },
+    {
+      "line": 2593,
+      "text": "FOSTURE 3",
+      "score": 4
+    },
+    {
+      "line": 2596,
+      "text": "POSTURE 4",
+      "score": 4
+    },
+    {
+      "line": 2644,
+      "text": "POSTURE 7",
+      "score": 4
+    },
+    {
+      "line": 2665,
+      "text": "POSTURE 8",
+      "score": 4
+    },
+    {
+      "line": 2940,
+      "text": "- ACCESS to QUR'AN |",
+      "score": 4
+    },
+    {
+      "line": 3330,
+      "text": "sO CO NQOS",
+      "score": 4
+    },
+    {
+      "line": 3457,
+      "text": "AN ECONOMY WITHOUT INTEREST",
+      "score": 4
+    },
+    {
+      "line": 3964,
+      "text": "OOOOOOOOOOOOOOOOOOOOOOOOOSYy »",
+      "score": 4
+    },
+    {
+      "line": 4330,
+      "text": "THE CASE FOR COVERING UP:",
+      "score": 4
+    },
+    {
+      "line": 4331,
+      "text": "| AN LSANIAN eee OF HI ee",
+      "score": 4
+    },
+    {
+      "line": 4334,
+      "text": "N THE WEST IF A MUSLIM",
+      "score": 4
+    },
+    {
+      "line": 4501,
+      "text": "THE SONS |",
+      "score": 4
+    },
+    {
+      "line": 5123,
+      "text": "q 27 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 4
+    },
+    {
+      "line": 5174,
+      "text": "AGAZINES ON",
+      "score": 4
+    },
+    {
+      "line": 5177,
+      "text": "USLIMS & THE",
+      "score": 4
+    },
+    {
+      "line": 5180,
+      "text": "IDDLE EAST",
+      "score": 4
+    },
+    {
+      "line": 5186,
+      "text": "ESTIMATES OF THE NUMBER OF MUSLIMS",
+      "score": 4
+    },
+    {
+      "line": 5393,
+      "text": "ARAMCO WORLD",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 3,
+      "term": "tools",
+      "snippet": "my | . Y (eee hee ACCESS TO TOOLS AND IDEAS eis?” NO. 49 WINTER 1985 $4.50 (CANADIAN $5.50) ISLA Beyond. «= Stereotypes"
+    },
+    {
+      "line": 283,
+      "term": "interview",
+      "snippet": "56 Why We Left the Farm Like -They Used To (Thank Goodness) edited by Kevin Kelly by J. B aldwin ; An interview with eight former members of It’s often a blessing when machines wear out. the archetypal New Age community. 98 The Bug Keeps Going Around 68 Assassinations by Dick Fugett by Anne Herbert Breathing new life into the old Volks at home."
+    },
+    {
+      "line": 284,
+      "term": "community",
+      "snippet": "edited by Kevin Kelly by J. B aldwin ; An interview with eight former members of It’s often a blessing when machines wear out. the archetypal New Age community. 98 The Bug Keeps Going Around 68 Assassinations by Dick Fugett by Anne Herbert Breathing new life into the old Volks at home. 16 Us and Them 112 Confessions of a 60-Second Novelist"
+    },
+    {
+      "line": 290,
+      "term": "learning",
+      "snippet": "by Fran Peavey, by Dan Hurley with Myrna Levy and Charles Varon 120 Conversations with a Gorilla Learning how he to hate your enemy. 128 Obli que Strategies 80 Pogo Meetings by Brian Eno and Peter Schmidt by Jim Sulivan A design oracle. Whole Earth Review (J Issue No. 49 1) December 3, 1985 (ISSN 0749-5056) (USPS 077-150). Published quarterly by POINT, a Cali-"
+    },
+    {
+      "line": 318,
+      "term": "whole systems",
+      "snippet": "_COVER: The courtyard of the Mosque reputed to be the tomb of Ali, fourth caliph of Islam, at Mazar-I-Sharif, Afghanistan, 1976. Photo by Kevin Kelly. WHOLE SYSTEMS 49 Roadside Geology Series O Mountains & Man 54 In Exile from the Land of Snows"
+    },
+    {
+      "line": 332,
+      "term": "community",
+      "snippet": "and Legend by Peter Warshall COMMUNITY 79 How Can I Help? 83. A Citizen Legislature 84 The People’s Book of Medical Tests"
+    },
+    {
+      "line": 400,
+      "term": "communications",
+      "snippet": "105 The Small Business Legal Problem Solver 106 How to Write a Book Proposal COMMUNICATIONS 108 101 Money-Saving Secrets Your Phone Com- pany Won’t Tell You 0 Which Phone System Should I Buy? 0 The Complete Guide to"
+    },
+    {
+      "line": 470,
+      "term": "software",
+      "snippet": "145 Our New Money? by Kevin Kelly and Robert Horvitz - WHOLE EARTH SOFTWARE CATALOG VERSION 21 HARDWARE 87 Tandy 200 Portable Computer ORGANIZING"
+    },
+    {
+      "line": 1092,
+      "term": "community",
+      "snippet": "The Prophet and his people had been invited to He in Medina in the hope that they would help to solve some of the problems of this fragmented community. Here, among Muslims, Jews, and polytheists, Mu- hammad completed his first agreement as a head of state, the Pact of Yathrib: a document of great"
+    },
+    {
+      "line": 1116,
+      "term": "community",
+      "snippet": "persecution, the loss of their property and family connections, and finally the threat to the very ex- istence of Muhammad’s community itself that Edmund Helminski, the author of this article, wears many hats: graphic designer, publisher of Threshold Books, and translator of the mystical poetry of Jelaluddin Rumi (The Ruins of the Heart, 1981, $5.45 postpaid from Threshold Books, R. D. 3, Box 1350, Putney, VT 05346). He lives with his family in Putney, Vermont."
+    },
+    {
+      "line": 1173,
+      "term": "community",
+      "snippet": "27 GATE FIVE ROAD SAUSALITO CA 94965 During the last two decades of Muhammad’s life, the new and still small community of Islam fought a life-and-death struggle against certain large, estab- lished tribes of the Arabian peninsula. The Muslims waged war as it had never been fought before. There"
+    },
+    {
+      "line": 1298,
+      "term": "community",
+      "snippet": "health and sexual counseling, was recorded. His life and sayings form a huge volume and are a source of guidance to the Muslim community. A few of Muhammad’s many interesting sayings , follow. Every religion has its distinctive virtue. With Islam ;"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "my |"
+    },
+    {
+      "line": 2,
+      "text": ". Y (eee hee"
+    },
+    {
+      "line": 3,
+      "text": "ACCESS TO TOOLS AND IDEAS eis?” NO. 49 WINTER 1985 $4.50 (CANADIAN $5.50)"
+    },
+    {
+      "line": 6,
+      "text": "ISLA"
+    },
+    {
+      "line": 9,
+      "text": "Beyond. «="
+    },
+    {
+      "line": 10,
+      "text": "Stereotypes"
+    },
+    {
+      "line": 11,
+      "text": "page 4"
+    },
+    {
+      "line": 17,
+      "text": "Cellular: r Autor"
+    },
+    {
+      "line": 20,
+      "text": "iter’ es lay Gao"
+    },
+    {
+      "line": 21,
+      "text": "by Steven. Levy ="
+    },
+    {
+      "line": 24,
+      "text": "page 42"
+    },
+    {
+      "line": 27,
+      "text": "Assassinations"
+    },
+    {
+      "line": 28,
+      "text": "by Anne. Herbert"
+    },
+    {
+      "line": 29,
+      "text": "page 67."
+    },
+    {
+      "line": 32,
+      "text": "A Work In Progress That Displays the Earth’s Rotational Wobble"
+    },
+    {
+      "line": 35,
+      "text": "N A SMALL MESA where the Sangre de Christo Mountains meet"
+    },
+    {
+      "line": 36,
+      "text": "the plains east of Albuquerque, | am building an earth/sky"
+    },
+    {
+      "line": 37,
+      "text": "sculpture called Star Axis ."
+    },
+    {
+      "line": 40,
+      "text": "A conical wedge has been hewn deep into layers of rock"
+    },
+    {
+      "line": 41,
+      "text": "to accommodate the underground placement of a stainless"
+    },
+    {
+      "line": 42,
+      "text": "steel tunnel that will be exactly parallel to the spinning"
+    },
+    {
+      "line": 43,
+      "text": "earth’s axis in order to sight and frame the north celestial"
+    },
+    {
+      "line": 44,
+      "text": "pole star. Standing inside the tunnel and observing without"
+    },
+    {
+      "line": 45,
+      "text": "the aid of lens or magnification, the star gazer will be able to see how our planet"
+    },
+    {
+      "line": 46,
+      "text": "changes its alignment to the stars over a 26,000-year period. Called precessions, this"
+    },
+    {
+      "line": 47,
+      "text": "cycle, which is caused by the earth slowly wobbling like a spinning top, occurs over"
+    },
+    {
+      "line": 50,
+      "text": "Much of Charles Ross’s time has been devoted to this project since he last graced our pages"
+    },
+    {
+      "line": 51,
+      "text": "(“Sunlight Convergence/Solar Burn,” CQ #16, pp. 104-7). When will it be finished? Depends on"
+    },
+    {
+      "line": 52,
+      "text": "cash flow. Ross has been paying for the land, surveying, excavation and construction with earn-"
+    },
+    {
+      "line": 53,
+      "text": "ings from the sale of his other artwork. The stonework is pretty much done. What remains is"
+    },
+    {
+      "line": 54,
+      "text": "fabrication of the stainless steel tunnel and rim. Patrons needed. Contact his agent: Joyce"
+    },
+    {
+      "line": 55,
+      "text": "Pomeroy Schwartz, Ltd., 17 West 54th St., New York, NY 10019. Exact location of the site"
+    },
+    {
+      "line": 57,
+      "text": "will be made public when construction is finished. -Robert Horvitz"
+    },
+    {
+      "line": 60,
+      "text": "Circumpolar star trails framed by the"
+    },
+    {
+      "line": 61,
+      "text": "excavation. Polaris is the small bright"
+    },
+    {
+      "line": 62,
+      "text": "arc at the center. In this photo the"
+    },
+    {
+      "line": 63,
+      "text": "trails were made by many different"
+    },
+    {
+      "line": 64,
+      "text": "stars; Polaris will turn in each of these"
+    },
+    {
+      "line": 65,
+      "text": "orbits at some past or future time."
+    },
+    {
+      "line": 66,
+      "text": "The central channel awaits placement"
+    }
+  ]
+}

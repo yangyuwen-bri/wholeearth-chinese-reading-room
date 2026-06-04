@@ -1,0 +1,800 @@
+{
+  "title": "Whole Earth Review, Summer 1994",
+  "identifier": "wholeearthreview00unse_38",
+  "year": 1994,
+  "season": "Summer",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 131,
+  "url": "https://wholeearth.info/p/whole-earth-review-summer-1994",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_38",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_38/wholeearthreview00unse_38.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_38/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthreview00unse_38_djvu.txt",
+  "ocr_chars": 526293,
+  "significant_line_count": 14289,
+  "theme_counts": {
+    "software_computing": 207,
+    "tools_craft": 263,
+    "ecology_place": 294,
+    "learning_media": 441,
+    "community_politics": 349
+  },
+  "top_themes": [
+    "learning_media",
+    "community_politics",
+    "ecology_place"
+  ],
+  "page_markers": [
+    {
+      "line": 329,
+      "page": 4,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n5_w500.jpg"
+    },
+    {
+      "line": 705,
+      "page": 27,
+      "title": "GATE5 ROAD _-- SAUSALITO, CA 94965 5",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n28_w500.jpg"
+    },
+    {
+      "line": 976,
+      "page": 6,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n7_w500.jpg"
+    },
+    {
+      "line": 3504,
+      "page": 20,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n21_w500.jpg"
+    },
+    {
+      "line": 4021,
+      "page": 24,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n25_w500.jpg"
+    },
+    {
+      "line": 4389,
+      "page": 26,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n27_w500.jpg"
+    },
+    {
+      "line": 4763,
+      "page": 28,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n29_w500.jpg"
+    },
+    {
+      "line": 5081,
+      "page": 30,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n31_w500.jpg"
+    },
+    {
+      "line": 5708,
+      "page": 34,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n35_w500.jpg"
+    },
+    {
+      "line": 6197,
+      "page": 38,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n39_w500.jpg"
+    },
+    {
+      "line": 6596,
+      "page": 40,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n41_w500.jpg"
+    },
+    {
+      "line": 8496,
+      "page": 56,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n57_w500.jpg"
+    },
+    {
+      "line": 8771,
+      "page": 58,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n59_w500.jpg"
+    },
+    {
+      "line": 9250,
+      "page": 60,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n61_w500.jpg"
+    },
+    {
+      "line": 9732,
+      "page": 62,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n63_w500.jpg"
+    },
+    {
+      "line": 10454,
+      "page": 68,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n69_w500.jpg"
+    },
+    {
+      "line": 10925,
+      "page": 72,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n73_w500.jpg"
+    },
+    {
+      "line": 11217,
+      "page": 74,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n75_w500.jpg"
+    },
+    {
+      "line": 11566,
+      "page": 76,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n77_w500.jpg"
+    },
+    {
+      "line": 12125,
+      "page": 80,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n81_w500.jpg"
+    },
+    {
+      "line": 12491,
+      "page": 82,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n83_w500.jpg"
+    },
+    {
+      "line": 13094,
+      "page": 86,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n87_w500.jpg"
+    },
+    {
+      "line": 13525,
+      "page": 90,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n91_w500.jpg"
+    },
+    {
+      "line": 13780,
+      "page": 92,
+      "title": "WHOLE EARTH REVIEW SUMMER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_38/page/n93_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 329,
+      "text": "4 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 976,
+      "text": "6 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 3504,
+      "text": "20 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 4021,
+      "text": "24 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 4389,
+      "text": "26 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 4763,
+      "text": "28 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 5081,
+      "text": "30 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 5708,
+      "text": "34 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 6197,
+      "text": "38 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 6596,
+      "text": "40 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 8496,
+      "text": "56 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 8771,
+      "text": "58 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 9250,
+      "text": "60 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 9732,
+      "text": "62 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 10454,
+      "text": "68 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 10925,
+      "text": "72 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 11217,
+      "text": "74 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 11566,
+      "text": "76 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 12125,
+      "text": "80 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 12491,
+      "text": "82 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 13094,
+      "text": "86 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 13525,
+      "text": "90 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 13780,
+      "text": "92 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 14024,
+      "text": "94 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 14475,
+      "text": "96 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 10
+    },
+    {
+      "line": 1281,
+      "text": "27 GATE5 ROAD --- SAUSALITO, CA 94965 9",
+      "score": 8
+    },
+    {
+      "line": 2142,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 2511,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 3953,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965 2 3",
+      "score": 8
+    },
+    {
+      "line": 4697,
+      "text": "27 GATES ROAD ---- SAUSALITO, CA 94965 2 7",
+      "score": 8
+    },
+    {
+      "line": 5065,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 2 9",
+      "score": 8
+    },
+    {
+      "line": 5459,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 3 :",
+      "score": 8
+    },
+    {
+      "line": 5629,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 3 3",
+      "score": 8
+    },
+    {
+      "line": 6045,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 3 5",
+      "score": 8
+    },
+    {
+      "line": 6122,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 3 7",
+      "score": 8
+    },
+    {
+      "line": 6524,
+      "text": "27 GATES ROAD --- SAUSALITO, CA 94965 3 9",
+      "score": 8
+    },
+    {
+      "line": 7218,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 43",
+      "score": 8
+    },
+    {
+      "line": 8355,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965 5 3",
+      "score": 8
+    },
+    {
+      "line": 8442,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965 5 5",
+      "score": 8
+    },
+    {
+      "line": 9134,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 5 9",
+      "score": 8
+    },
+    {
+      "line": 9982,
+      "text": "27 GATE 5 ROAD SAUSALITO, CA 94965 63",
+      "score": 8
+    },
+    {
+      "line": 10702,
+      "text": "27 GATE 5 ROAD SAUSALITO, CA 94965 69",
+      "score": 8
+    },
+    {
+      "line": 11106,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 73",
+      "score": 8
+    },
+    {
+      "line": 11725,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 7 7",
+      "score": 8
+    },
+    {
+      "line": 11897,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 79",
+      "score": 8
+    },
+    {
+      "line": 13025,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 8 5",
+      "score": 8
+    },
+    {
+      "line": 13480,
+      "text": "27 GATE5 ROAD --- SAUSALITO, CA 94965 89",
+      "score": 8
+    },
+    {
+      "line": 13948,
+      "text": "27 GATES ROAD -- SAUSALITO, CA 94965 9 3",
+      "score": 8
+    },
+    {
+      "line": 14269,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965 9 5",
+      "score": 8
+    },
+    {
+      "line": 14678,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 9 7",
+      "score": 8
+    },
+    {
+      "line": 15527,
+      "text": "27 GATE 5 ROAD",
+      "score": 8
+    },
+    {
+      "line": 15948,
+      "text": "27 GATE5 ROAD --- SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 17580,
+      "text": "439 USAAN NVI I",
+      "score": 8
+    },
+    {
+      "line": 23,
+      "text": "SUBSCRIBE TO WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 165,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 186,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 197,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 1343,
+      "text": "i 0 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 1816,
+      "text": "4 2 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 2223,
+      "text": "| 4 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 2624,
+      "text": "i 6 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 2985,
+      "text": "I 8 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 5592,
+      "text": "3 2 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 8147,
+      "text": "5 2 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 14908,
+      "text": "98 WHOLE EARTH REVIEW SUMMER 1994;",
+      "score": 6
+    },
+    {
+      "line": 15350,
+      "text": "| 02 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 15634,
+      "text": "i 04 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 15998,
+      "text": "j 06 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 16299,
+      "text": "j 08 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 16640,
+      "text": "| i 0 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 17028,
+      "text": "| } 2 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 17282,
+      "text": "| j 4 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 17787,
+      "text": "i i 8 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 18281,
+      "text": "l 20 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 18678,
+      "text": "j 22 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 19296,
+      "text": "{ 24 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 19412,
+      "text": "INTENTIONAL COMMUNITY FORMING in NM",
+      "score": 6
+    },
+    {
+      "line": 19879,
+      "text": "l 26 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 20761,
+      "text": "| 28 WHOLE EARTH REVIEW SUMMER 1994",
+      "score": 6
+    },
+    {
+      "line": 7384,
+      "text": "44 WHOLE EARTH REVIEW, 27 GATE 5 ROAD, SAUSALITO, CA 94965, 800/938-6657 / SUMMER 1994",
+      "score": 5
+    }
+  ],
+  "snippets": [
+    {
+      "line": 20,
+      "term": "tools",
+      "snippet": "-Z ~O, emceee NO ABSOLUTES JUST TOOLS SUBSCRIBE TO WHOLE EARTH REVIEW CALL CARLOS AT 415/332-1716 OR FAX 415/332-3110 TOLL FREE ORDER LINE: 800/783-4903"
+    },
+    {
+      "line": 123,
+      "term": "software",
+      "snippet": "EUGOr ah iocsoeccrececesareeteseeazantestinsosccctensoueuetoses ssack tise; saeetseepentanractssere tees evasuatiat cametnemae 31 The Lonely Thrill of Self-Encryption ...........cssssssssssessesssssssesscessssssesseeees 34 ONE- How to Get a Job as a Software Designer «0.0.0... sssesesssseeseeeeees Iota oe yey: Cee SPECIALS What to Do if You're Home less ................. cc ssesscsesssessosescsscsessessssesesesesssseees 75 How a Book Gets Published .............sesssssssssssssesssssseeseees sseecascyoes resieencemveres 116"
+    },
+    {
+      "line": 165,
+      "term": "whole systems",
+      "snippet": "POSTMASTER: Send address changes to: Whole Earth Review, PO Box 3000, Denville, NJ 07834. PRINTED IN USA TA BOLE OF COOUN TE“ NTS WHOLE SYSTEMS Complex interactions 9 The Scum Also Rises by Anonymous 13 A Chorus of Stones by Susan Griffin"
+    },
+    {
+      "line": 183,
+      "term": "software",
+      "snippet": "33 Twenty-five Ways to Spot an Expert by William Rifkin 34 The Lonely Thrill of Self-Encryption by Bruce Dunnington 35 How to Get a Job as a Software Designer by Alex Funk LEARNING Challenging assumptions 37 My Life in the Golden Age of Epistemology by Eliot Fintushel"
+    },
+    {
+      "line": 186,
+      "term": "learning",
+      "snippet": "34 The Lonely Thrill of Self-Encryption by Bruce Dunnington 35 How to Get a Job as a Software Designer by Alex Funk LEARNING Challenging assumptions 37 My Life in the Golden Age of Epistemology by Eliot Fintushel 42 Resonant Complexity by Brian Eno"
+    },
+    {
+      "line": 197,
+      "term": "community",
+      "snippet": "42 Resonant Complexity by Brian Eno 44 How Buildings Learn by Stewart Brand COMMUNITY The neighborhood 55 MacMagic by Digger 66 Random Kindness & Senseless Acts of Beauty"
+    },
+    {
+      "line": 332,
+      "term": "community",
+      "snippet": "that | “formally” re-entered the Whole 4 WHOLE EARTH REVIEW SUMMER 1994 Earth Community by subscribing to WER. | don’t think | can over estimate the Im- pact that “Whole Earth” has had on my development as a person, and this, in"
+    },
+    {
+      "line": 377,
+      "term": "community",
+      "snippet": "now we shall see if POINT walks the walk as well... Well? ... the Whole Earth Community is watching. Mark Reynolds Schefferville, Quebec, Canada Useless to the pragmatist"
+    },
+    {
+      "line": 392,
+      "term": "tools",
+      "snippet": "In the past | have found your magazine valuable as a house of useful books and tools; | would regularly find half a dozen useful items in each issue requiring a follow up. For the past year your magazine has been"
+    },
+    {
+      "line": 438,
+      "term": "ecology",
+      "snippet": "GATT, and the need for sustainability in all farming practices. For me personally Gaia, Deep Ecology, Permaculture, Bioregions, Creation Spiri- tuality, and “Green” Politics are all part of the same philosophy! The above are old"
+    },
+    {
+      "line": 503,
+      "term": "energy",
+      "snippet": "back by the big oil companies. So not only will these people create false energy shortages, or international conflicts like the Gulf War, but they will destroy the very planet we live on - and for no other reason than to"
+    },
+    {
+      "line": 686,
+      "term": "energy",
+      "snippet": "though our politics did not often coin- cide, his lifelong work in the fields of alternative energy, sustainable develop- ment and the environment gave me the global perspective and sense of social responsibility that Point exemplifies."
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 4,
+      "text": "No, 83"
+    },
+    {
+      "line": 5,
+      "text": "Summer 1994"
+    },
+    {
+      "line": 9,
+      "text": "$7.50 Canadian"
+    },
+    {
+      "line": 10,
+      "text": "¥2500 Japan"
+    },
+    {
+      "line": 13,
+      "text": "George Gilder * Susan Gritfin ¢ Stewart Brand ¢ Howard Rheingold ¢ Brian"
+    },
+    {
+      "line": 16,
+      "text": "-Z ~O, emceee"
+    },
+    {
+      "line": 19,
+      "text": "NO ABSOLUTES"
+    },
+    {
+      "line": 20,
+      "text": "JUST TOOLS"
+    },
+    {
+      "line": 23,
+      "text": "SUBSCRIBE TO WHOLE EARTH REVIEW"
+    },
+    {
+      "line": 24,
+      "text": "CALL CARLOS AT 415/332-1716 OR FAX 415/332-3110"
+    },
+    {
+      "line": 25,
+      "text": "TOLL FREE ORDER LINE: 800/783-4903"
+    },
+    {
+      "line": 28,
+      "text": "mes have changed"
+    },
+    {
+      "line": 29,
+      "text": "and the world comes to us in different ways."
+    },
+    {
+      "line": 30,
+      "text": "as leaped from the page to the screen,"
+    },
+    {
+      "line": 31,
+      "text": "ds to be seen as well as heard,"
+    },
+    {
+      "line": 32,
+      "text": "compaters have jumbled our relationship to"
+    },
+    {
+      "line": 33,
+      "text": "information, surveillance and money,"
+    },
+    {
+      "line": 34,
+      "text": "and television has merely changed everything."
+    },
+    {
+      "line": 35,
+      "text": "Now, things feel like they’re moving really fast,"
+    },
+    {
+      "line": 36,
+      "text": "leaving us with the attention spans of kitties"
+    },
+    {
+      "line": 37,
+      "text": "riveted by mouse-like movements."
+    },
+    {
+      "line": 38,
+      "text": "Within the blink of a blind eye,"
+    },
+    {
+      "line": 39,
+      "text": "we are soaked in sales pitches and infotainments"
+    },
+    {
+      "line": 40,
+      "text": "that make history when they do business."
+    },
+    {
+      "line": 43,
+      "text": "Running in place at the speed of light,"
+    },
+    {
+      "line": 44,
+      "text": "we defensively cling to our unexamined notions of categories,"
+    },
+    {
+      "line": 45,
+      "text": "our dilapidated signposts in a bleak landscape."
+    },
+    {
+      "line": 46,
+      "text": "They make things simple again."
+    },
+    {
+      "line": 47,
+      "text": "Reflections of control,"
+    },
+    {
+      "line": 50,
+      "text": "they reassure us that there’s a time and a place for everything."
+    },
+    {
+      "line": 53,
+      "text": "Declaring what’s right and what’s wrong,"
+    },
+    {
+      "line": 54,
+      "text": "they strengthen stereotypes and"
+    },
+    {
+      "line": 55,
+      "text": "murmur the false humilities of “common sense.”"
+    },
+    {
+      "line": 56,
+      "text": "Glowing with a veneer of studied connoisseurship,"
+    },
+    {
+      "line": 57,
+      "text": "they can grow nostalgic for times that never were."
+    },
+    {
+      "line": 58,
+      "text": "They are easy systems."
+    },
+    {
+      "line": 60,
+      "text": "Use them, but doubt them."
+    },
+    {
+      "line": 62,
+      "text": "They are the rules of the game,"
+    },
+    {
+      "line": 63,
+      "text": "but perhaps no longer the one being played."
+    },
+    {
+      "line": 66,
+      "text": "-Barbara Kruger"
+    }
+  ]
+}

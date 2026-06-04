@@ -1,0 +1,800 @@
+{
+  "title": "Whole Earth Review, Winter 1991",
+  "identifier": "wholeearthreview00unse_28",
+  "year": 1991,
+  "season": "Winter",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/whole-earth-review-winter-1991",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_28",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_28/wholeearthreview00unse_28.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_28/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthreview00unse_28_djvu.txt",
+  "ocr_chars": 639066,
+  "significant_line_count": 15540,
+  "theme_counts": {
+    "software_computing": 250,
+    "tools_craft": 315,
+    "ecology_place": 554,
+    "learning_media": 358,
+    "community_politics": 536
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 849,
+      "page": 4,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n5_w500.jpg"
+    },
+    {
+      "line": 974,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO, CA 94965 5",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n28_w500.jpg"
+    },
+    {
+      "line": 1077,
+      "page": 6,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n7_w500.jpg"
+    },
+    {
+      "line": 1321,
+      "page": 8,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n9_w500.jpg"
+    },
+    {
+      "line": 1985,
+      "page": 12,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n13_w500.jpg"
+    },
+    {
+      "line": 3206,
+      "page": 20,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n21_w500.jpg"
+    },
+    {
+      "line": 3357,
+      "page": 22,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n23_w500.jpg"
+    },
+    {
+      "line": 3617,
+      "page": 24,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n25_w500.jpg"
+    },
+    {
+      "line": 3942,
+      "page": 26,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n27_w500.jpg"
+    },
+    {
+      "line": 4217,
+      "page": 28,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n29_w500.jpg"
+    },
+    {
+      "line": 4523,
+      "page": 30,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n31_w500.jpg"
+    },
+    {
+      "line": 4729,
+      "page": 32,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n33_w500.jpg"
+    },
+    {
+      "line": 5285,
+      "page": 36,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n37_w500.jpg"
+    },
+    {
+      "line": 5473,
+      "page": 38,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n39_w500.jpg"
+    },
+    {
+      "line": 6109,
+      "page": 42,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n43_w500.jpg"
+    },
+    {
+      "line": 6597,
+      "page": 46,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n47_w500.jpg"
+    },
+    {
+      "line": 6809,
+      "page": 48,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n49_w500.jpg"
+    },
+    {
+      "line": 6968,
+      "page": 50,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n51_w500.jpg"
+    },
+    {
+      "line": 7190,
+      "page": 52,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n53_w500.jpg"
+    },
+    {
+      "line": 7574,
+      "page": 54,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n55_w500.jpg"
+    },
+    {
+      "line": 7848,
+      "page": 56,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n57_w500.jpg"
+    },
+    {
+      "line": 8194,
+      "page": 58,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n59_w500.jpg"
+    },
+    {
+      "line": 8577,
+      "page": 60,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n61_w500.jpg"
+    },
+    {
+      "line": 8769,
+      "page": 62,
+      "title": "WHOLE EARTH REVIEW WINTER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_28/page/n63_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 849,
+      "text": "4 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 1077,
+      "text": "6 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 1321,
+      "text": "8 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 1985,
+      "text": "12 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 3206,
+      "text": "20 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 3357,
+      "text": "22 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 3617,
+      "text": "24 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 3942,
+      "text": "26 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 4217,
+      "text": "28 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 4523,
+      "text": "30 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 4729,
+      "text": "32 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 5285,
+      "text": "36 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 5473,
+      "text": "38 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 6109,
+      "text": "42 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 6597,
+      "text": "46 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 6809,
+      "text": "48 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 6968,
+      "text": "50 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 7190,
+      "text": "52 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 7574,
+      "text": "54 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 7848,
+      "text": "56 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 8194,
+      "text": "58 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 8577,
+      "text": "60 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 8769,
+      "text": "62 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 9091,
+      "text": "64 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 9302,
+      "text": "66 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 9588,
+      "text": "68 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 10016,
+      "text": "70 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 10183,
+      "text": "72 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 10610,
+      "text": "76 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 10888,
+      "text": "78 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 11500,
+      "text": "82 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 11700,
+      "text": "84 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 11966,
+      "text": "86 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 12320,
+      "text": "88 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 12734,
+      "text": "90 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 13319,
+      "text": "94 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 13669,
+      "text": "96 WHOLE EARTH REVIEW WINTER 1991.",
+      "score": 10
+    },
+    {
+      "line": 14021,
+      "text": "98 WHOLE EARTH REVIEW WINTER 1991",
+      "score": 10
+    },
+    {
+      "line": 974,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5",
+      "score": 8
+    },
+    {
+      "line": 1252,
+      "text": "27 GATE FIVEROAD SAUSALITO, CA 94965 7",
+      "score": 8
+    },
+    {
+      "line": 1567,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 9",
+      "score": 8
+    },
+    {
+      "line": 1876,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : :",
+      "score": 8
+    },
+    {
+      "line": 2231,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : 3",
+      "score": 8
+    },
+    {
+      "line": 2985,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 I 7",
+      "score": 8
+    },
+    {
+      "line": 3286,
+      "text": "27 GATE FIVE ROAD: SAUSALITO, CA 94965 21",
+      "score": 8
+    },
+    {
+      "line": 3553,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 23",
+      "score": 8
+    },
+    {
+      "line": 3850,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 25",
+      "score": 8
+    },
+    {
+      "line": 4147,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 27",
+      "score": 8
+    },
+    {
+      "line": 4455,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 29",
+      "score": 8
+    },
+    {
+      "line": 4693,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 3 :",
+      "score": 8
+    },
+    {
+      "line": 4870,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 5223,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 35",
+      "score": 8
+    },
+    {
+      "line": 5410,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 37",
+      "score": 8
+    },
+    {
+      "line": 5695,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 39",
+      "score": 8
+    },
+    {
+      "line": 6391,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 43",
+      "score": 8
+    },
+    {
+      "line": 6526,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 45",
+      "score": 8
+    },
+    {
+      "line": 6745,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 47",
+      "score": 8
+    },
+    {
+      "line": 6937,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 49",
+      "score": 8
+    },
+    {
+      "line": 7527,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 53",
+      "score": 8
+    },
+    {
+      "line": 7766,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 55",
+      "score": 8
+    },
+    {
+      "line": 8082,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5 7",
+      "score": 8
+    },
+    {
+      "line": 8494,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 59",
+      "score": 8
+    },
+    {
+      "line": 9004,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 63",
+      "score": 8
+    },
+    {
+      "line": 9238,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 65",
+      "score": 8
+    },
+    {
+      "line": 9493,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 67",
+      "score": 8
+    },
+    {
+      "line": 10326,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 73",
+      "score": 8
+    },
+    {
+      "line": 10515,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 75",
+      "score": 8
+    },
+    {
+      "line": 10821,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 77",
+      "score": 8
+    },
+    {
+      "line": 11167,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 79",
+      "score": 8
+    },
+    {
+      "line": 11630,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 83",
+      "score": 8
+    },
+    {
+      "line": 11902,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 85",
+      "score": 8
+    },
+    {
+      "line": 12253,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 87",
+      "score": 8
+    },
+    {
+      "line": 12688,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 89",
+      "score": 8
+    },
+    {
+      "line": 12960,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 91",
+      "score": 8
+    },
+    {
+      "line": 13243,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 93",
+      "score": 8
+    },
+    {
+      "line": 13562,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 95",
+      "score": 8
+    },
+    {
+      "line": 13907,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 97",
+      "score": 8
+    },
+    {
+      "line": 14272,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 99",
+      "score": 8
+    },
+    {
+      "line": 15314,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 I 07",
+      "score": 8
+    },
+    {
+      "line": 15591,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : 09",
+      "score": 8
+    }
+  ],
+  "snippets": [
+    {
+      "line": 64,
+      "term": "tools",
+      "snippet": "NOW AYBE TS TIME T RETHINK “ACCESS TO TOOLS: \" ADDICTION TO DESTRUCTIVE | TECHNOLOGIES 1S DOING US ll eh"
+    },
+    {
+      "line": 112,
+      "term": "tools",
+      "snippet": "The ability of those who control the key points of lever- age in the system to increase their control is enhanced by the nature of some of the tools themselves - the media. Some of the technologies that make people a lot of mon- ey are also capable of lulling people into uncritical consum- er consciousness. This system is misunderstood by many,"
+    },
+    {
+      "line": 125,
+      "term": "tools",
+      "snippet": "as they are destructive (and comparatively little money is spent educating people about those effects). Every day, clever people use powerful communication tools to con- vince us that we need to buy more cars, bigger refriger- ators, more powerful computers, automated kitchens, smart houses, supersonic transports."
+    },
+    {
+      "line": 153,
+      "term": "tools",
+      "snippet": "ing attitudes toward technology. We have assembled these different perspectives and turned them on our most fun- damental assumption - that access to tools is a good and noble service to provide. These articles aren't prescriptions. They are pointers. When enough people point their attention in the right direction,"
+    },
+    {
+      "line": 161,
+      "term": "tools",
+      "snippet": "powerful things can happen. Perhaps among our readers will be one or two or more who will be inspired to create new tools for thinking about tools. _-Howard Rheingold ww rc we om eo e @ eo e@e @ @ @ @ @ @ @"
+    },
+    {
+      "line": 546,
+      "term": "energy",
+      "snippet": "The Global Citizen Practical Home Energy Savings 23,097. Newsstand circulation: 15,950. Sausalito, CA 94966. Issue No. 73 L] December 21, 1991 (ISSN 0749-5056) (USPS 077-150). Published"
+    },
+    {
+      "line": 1183,
+      "term": "learning",
+      "snippet": "Think of it, The commercial encourages young viewers to identify those inadequacies in their own lives, What a learning experience for young people still not sure who they are or where they fit in. social, health-related, and environ-"
+    },
+    {
+      "line": 1324,
+      "term": "energy",
+      "snippet": "have been invented than the market system 8 WHOLE EARTH REVIEW WINTER 1991 itself, with its prodigious use of energy and materials in the sublime mission of re- placing as much of human activity with commodities and the monetary transac-"
+    },
+    {
+      "line": 1547,
+      "term": "tools",
+      "snippet": "per year than in any other condition of society. The manufacture of tools, clothing, uten- sils, or ornaments, however easily done, becomes senseless when these begin to be more of a burden than a comfort. Utility"
+    },
+    {
+      "line": 1594,
+      "term": "energy",
+      "snippet": "ments, human beings have fewer alternatives and become more deeply immersed within technological conscious- A prime example is nuclear energy, which cannot possibly move society in a democratic direction, but will move society in an autocratic direction. Because it is so expensive and so dangerous, nuclear energy must be under the direct"
+    },
+    {
+      "line": 1597,
+      "term": "energy",
+      "snippet": "move society in a democratic direction, but will move society in an autocratic direction. Because it is so expensive and so dangerous, nuclear energy must be under the direct control of centralized financial, governmental, and military institutions. A nuclear power plant is not something that a few neighbors can get together and build. Community"
+    },
+    {
+      "line": 1600,
+      "term": "community",
+      "snippet": "control of centralized financial, governmental, and military institutions. A nuclear power plant is not something that a few neighbors can get together and build. Community control is anathema. Even control by city or state govern- ments is proving impossible, as is now obvious to those locales attempting to block the movement and disposal of"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Reclaiming Our Technological Future » Privacy & Technology"
+    },
+    {
+      "line": 4,
+      "text": "v7, va | -"
+    },
+    {
+      "line": 10,
+      "text": "| 4 d"
+    },
+    {
+      "line": 11,
+      "text": "‘ Ye. ‘ 4 é ‘"
+    },
+    {
+      "line": 12,
+      "text": "_ b bp q ‘ A i , ie ¢ 4"
+    },
+    {
+      "line": 13,
+      "text": "a : % a oF ” a hUP 7 wie"
+    },
+    {
+      "line": 14,
+      "text": "P Rare y s Be é i A"
+    },
+    {
+      "line": 15,
+      "text": "b as % | fe! ( “4 s"
+    },
+    {
+      "line": 16,
+      "text": "Uj (= S 4 '@) ft fl ft é‘ : » k ae | >"
+    },
+    {
+      "line": 17,
+      "text": "a = dj Rae: . 9 clas \" * 2g"
+    },
+    {
+      "line": 18,
+      "text": ". _ Ae \\ il"
+    },
+    {
+      "line": 19,
+      "text": "oe of ‘e , 7 ; Saisie."
+    },
+    {
+      "line": 20,
+      "text": "Te : : i i : > 4 \\ ees : Slane a ‘ “"
+    },
+    {
+      "line": 21,
+      "text": "1 - a |"
+    },
+    {
+      "line": 30,
+      "text": "Ge t0992°395940\" 1"
+    },
+    {
+      "line": 33,
+      "text": "a: = Ss »- a» -_ SS ee ee tnd = > ig! Ne a ee ae te oi S-=_ le - Rest eee em ees -- of ~~ ys Da dl > ae Me of! - ss a Pn ot a - yw be ss » bast - eet ae wy Ss a | ee a, Oe a Oe, ee ee? at eg ee a a Oe Cee a ae | a eS dl ww MA +d Ae, FrTwTwTrT Se r--wa Vw =, OS Ur oS |S wa ="
+    },
+    {
+      "line": 36,
+      "text": "-eeenpespeseeseeeeeeeeeeeeeseeeeeeeseseewaeoeeanasneaeaeoaeoaoeeaeewmeeaeeweeaeeoeoeaeeaeeaea ea eeaeeaeaseseaeeaeaeaeevnaevueeeeaeeaeeaeweeeeeeemlUcetmlClcehmlUOUCUCOOlUCUcMOCUCUch OCUhOhUh OU Oh CUO"
+    },
+    {
+      "line": 42,
+      "text": "“TECHNOLOGY 1S NOT THE"
+    },
+    {
+      "line": 44,
+      "text": "SOURCE OF OUR PROBLEMS,\""
+    },
+    {
+      "line": 46,
+      "text": "I WROTE ON THIS PAGE IN"
+    },
+    {
+      "line": 47,
+      "text": "1 WER# 70. WHAT IF I WAS"
+    },
+    {
+      "line": 48,
+      "text": "-| WRONG?"
+    },
+    {
+      "line": 51,
+      "text": "WHAT IF TECHNOLOGY 75 THE [::"
+    },
+    {
+      "line": 52,
+      "text": "SOURCE OF OUR PROBLEMS, fF:"
+    },
+    {
+      "line": 53,
+      "text": "BUT WE HAVE BEEN BRAIN-"
+    },
+    {
+      "line": 55,
+      "text": ":-] WASHED CAND ACTIVELY"
+    },
+    {
+      "line": 57,
+      "text": "+] BRAINWASH OURSELVES) TO"
+    },
+    {
+      "line": 59,
+      "text": "“| DENY THE OBVIOUS: OUR"
+    },
+    {
+      "line": 62,
+      "text": "NOW AYBE TS TIME T"
+    },
+    {
+      "line": 63,
+      "text": "RETHINK “ACCESS"
+    },
+    {
+      "line": 64,
+      "text": "TO TOOLS:"
+    },
+    {
+      "line": 67,
+      "text": "\" ADDICTION TO DESTRUCTIVE"
+    },
+    {
+      "line": 68,
+      "text": "| TECHNOLOGIES 1S DOING US"
+    },
+    {
+      "line": 71,
+      "text": "ll eh"
+    },
+    {
+      "line": 74,
+      "text": "F WE SET ASIDE our fascination with auto-"
+    },
+    {
+      "line": 75,
+      "text": "mobiles, telephones, microwave ovens and"
+    },
+    {
+      "line": 78,
+      "text": "color televisions for a moment, perhaps the"
+    },
+    {
+      "line": 79,
+      "text": "least-deluded interpretation we could make"
+    },
+    {
+      "line": 81,
+      "text": "of this century's technological revolutions"
+    },
+    {
+      "line": 83,
+      "text": "is this: Modern technology makes millions"
+    }
+  ]
+}

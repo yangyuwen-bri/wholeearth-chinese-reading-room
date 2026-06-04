@@ -1,0 +1,800 @@
+{
+  "title": "Helping Nature Heal, Spring 1991",
+  "identifier": "helpingnaturehea00unse",
+  "year": 1991,
+  "season": "Spring",
+  "collection": "Special Publications",
+  "collection_zh": "专题出版物",
+  "pages": 163,
+  "url": "https://wholeearth.info/p/helping-nature-heal-spring-1991",
+  "archive_url": "https://archive.org/details/helpingnaturehea00unse",
+  "pdf_url": "https://archive.org/download/helpingnaturehea00unse/helpingnaturehea00unse.pdf",
+  "cover_url": "https://archive.org/download/helpingnaturehea00unse/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/helpingnaturehea00unse_djvu.txt",
+  "ocr_chars": 625702,
+  "significant_line_count": 13551,
+  "theme_counts": {
+    "software_computing": 159,
+    "tools_craft": 304,
+    "ecology_place": 1443,
+    "learning_media": 327,
+    "community_politics": 307
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 757,
+      "page": 4,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n5_w500.jpg"
+    },
+    {
+      "line": 1060,
+      "page": 6,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n7_w500.jpg"
+    },
+    {
+      "line": 1309,
+      "page": 8,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n9_w500.jpg"
+    },
+    {
+      "line": 2492,
+      "page": 20,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n21_w500.jpg"
+    },
+    {
+      "line": 2811,
+      "page": 22,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n23_w500.jpg"
+    },
+    {
+      "line": 3093,
+      "page": 24,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n25_w500.jpg"
+    },
+    {
+      "line": 3350,
+      "page": 26,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n27_w500.jpg"
+    },
+    {
+      "line": 3623,
+      "page": 28,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n29_w500.jpg"
+    },
+    {
+      "line": 3777,
+      "page": 30,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n31_w500.jpg"
+    },
+    {
+      "line": 3992,
+      "page": 32,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n33_w500.jpg"
+    },
+    {
+      "line": 4188,
+      "page": 34,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n35_w500.jpg"
+    },
+    {
+      "line": 4360,
+      "page": 36,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n37_w500.jpg"
+    },
+    {
+      "line": 4858,
+      "page": 40,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n41_w500.jpg"
+    },
+    {
+      "line": 5078,
+      "page": 42,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n43_w500.jpg"
+    },
+    {
+      "line": 5318,
+      "page": 44,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n45_w500.jpg"
+    },
+    {
+      "line": 5581,
+      "page": 46,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n47_w500.jpg"
+    },
+    {
+      "line": 5732,
+      "page": 48,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n49_w500.jpg"
+    },
+    {
+      "line": 5889,
+      "page": 50,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n51_w500.jpg"
+    },
+    {
+      "line": 6074,
+      "page": 52,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n53_w500.jpg"
+    },
+    {
+      "line": 6269,
+      "page": 54,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n55_w500.jpg"
+    },
+    {
+      "line": 6404,
+      "page": 56,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n57_w500.jpg"
+    },
+    {
+      "line": 6596,
+      "page": 58,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n59_w500.jpg"
+    },
+    {
+      "line": 6920,
+      "page": 60,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n61_w500.jpg"
+    },
+    {
+      "line": 7103,
+      "page": 62,
+      "title": "HELPING NATURE HEAL",
+      "image_url": "https://archive.org/download/helpingnaturehea00unse/page/n63_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 757,
+      "text": "4 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 1060,
+      "text": "6 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 1309,
+      "text": "8 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 2492,
+      "text": "20 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 2811,
+      "text": "22 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 3093,
+      "text": "24 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 3350,
+      "text": "26 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 3623,
+      "text": "28 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 3777,
+      "text": "30 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 3992,
+      "text": "32 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 4188,
+      "text": "34 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 4360,
+      "text": "36 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 4858,
+      "text": "40 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 5078,
+      "text": "42 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 5318,
+      "text": "44 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 5581,
+      "text": "46 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 5732,
+      "text": "48 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 5889,
+      "text": "50 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 6074,
+      "text": "52 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 6269,
+      "text": "54 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 6404,
+      "text": "56 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 6596,
+      "text": "58 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 6920,
+      "text": "60 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 7103,
+      "text": "62 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 7288,
+      "text": "64 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 7781,
+      "text": "68 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 8008,
+      "text": "70 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 8246,
+      "text": "72 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 8571,
+      "text": "74 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 8860,
+      "text": "76 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 9029,
+      "text": "78 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 9185,
+      "text": "80 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 9422,
+      "text": "82 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 9651,
+      "text": "84 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 9855,
+      "text": "86 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 10293,
+      "text": "90 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 10456,
+      "text": "92 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 10668,
+      "text": "94 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 10847,
+      "text": "96 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 11119,
+      "text": "98 HELPING NATURE HEAL",
+      "score": 8
+    },
+    {
+      "line": 17087,
+      "text": "238 RIVERS",
+      "score": 8
+    },
+    {
+      "line": 17088,
+      "text": "43 PEREN. STREAMS",
+      "score": 8
+    },
+    {
+      "line": 17089,
+      "text": "23 INTER. STREAMS",
+      "score": 8
+    },
+    {
+      "line": 17091,
+      "text": "60 POND",
+      "score": 8
+    },
+    {
+      "line": 13127,
+      "text": "DSSIPATE The ENERGY oF",
+      "score": 6
+    },
+    {
+      "line": 13369,
+      "text": "GRAPE WITH ENERGY DissiPATION",
+      "score": 6
+    },
+    {
+      "line": 18630,
+      "text": "AND WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 7420,
+      "text": "program's inception. Although the vast majority of energy",
+      "score": 5
+    },
+    {
+      "line": 30,
+      "text": "HELPING",
+      "score": 4
+    },
+    {
+      "line": 31,
+      "text": "NATURE",
+      "score": 4
+    },
+    {
+      "line": 35,
+      "text": "AN INTRODUCTION JO",
+      "score": 4
+    },
+    {
+      "line": 36,
+      "text": "ENVIRONMENTAL RESTORATION",
+      "score": 4
+    },
+    {
+      "line": 45,
+      "text": "A WHOLE EARTH CATALOG/TEN SPEED PRESS PUBLICATION",
+      "score": 4
+    },
+    {
+      "line": 170,
+      "text": "QH541.15.R45A45 1991 91-4750",
+      "score": 4
+    },
+    {
+      "line": 300,
+      "text": "RACHEL",
+      "score": 4
+    },
+    {
+      "line": 357,
+      "text": "FOREWORD",
+      "score": 4
+    },
+    {
+      "line": 472,
+      "text": "HELPING NATURE HEAL",
+      "score": 4
+    },
+    {
+      "line": 475,
+      "text": "INTRODUCTION",
+      "score": 4
+    },
+    {
+      "line": 575,
+      "text": "THEORY OF",
+      "score": 4
+    },
+    {
+      "line": 617,
+      "text": "? HELPING NATURE HEAL",
+      "score": 4
+    },
+    {
+      "line": 643,
+      "text": "BY JIM DODGE",
+      "score": 4
+    },
+    {
+      "line": 731,
+      "text": "THEORY OF RESTORATION 3",
+      "score": 4
+    },
+    {
+      "line": 763,
+      "text": "BY WILLIAM R. JORDAN III",
+      "score": 4
+    },
+    {
+      "line": 989,
+      "text": "THEORY OF RESTORATION L",
+      "score": 4
+    },
+    {
+      "line": 1066,
+      "text": "ON THE WAY TO",
+      "score": 4
+    },
+    {
+      "line": 1069,
+      "text": "RESTORATION",
+      "score": 4
+    },
+    {
+      "line": 1072,
+      "text": "BY SETH ZUCKERMAN",
+      "score": 4
+    },
+    {
+      "line": 1202,
+      "text": "THEORY OF RESTORATION 7",
+      "score": 4
+    },
+    {
+      "line": 1404,
+      "text": "THEORY OF RESTORATION 9",
+      "score": 4
+    },
+    {
+      "line": 1484,
+      "text": "j 0 HELPING NATURE HEAL",
+      "score": 4
+    },
+    {
+      "line": 1566,
+      "text": "THEORY OF RESTORATION I i",
+      "score": 4
+    },
+    {
+      "line": 1689,
+      "text": "; 9] HELPING NATURE HEAL",
+      "score": 4
+    },
+    {
+      "line": 1843,
+      "text": "THEORY OF RESTORATION | 3",
+      "score": 4
+    },
+    {
+      "line": 1899,
+      "text": "i 4 HELPING NATURE HEAL",
+      "score": 4
+    },
+    {
+      "line": 1952,
+      "text": "BY WENDELL BERRY",
+      "score": 4
+    },
+    {
+      "line": 2093,
+      "text": "THEORY OF RESTORATION i 5",
+      "score": 4
+    },
+    {
+      "line": 2109,
+      "text": "SO 1S",
+      "score": 4
+    },
+    {
+      "line": 2113,
+      "text": "| 6 HELPING NATURE HEAL",
+      "score": 4
+    },
+    {
+      "line": 2217,
+      "text": "THEORY OF RESTORATION i 7",
+      "score": 4
+    },
+    {
+      "line": 2316,
+      "text": "| 8 HELPING NATURE HEAL",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 167,
+      "term": "ecology",
+      "snippet": "p. cm. ‘‘A Whole Earth Catalog.’’ Includes bibliographical 1. Restoration ecology. 2. Restoration ecology - United States. I. Nilsen, Richard. QH541.15.R45A45 1991 91-4750"
+    },
+    {
+      "line": 238,
+      "term": "ecology",
+      "snippet": "Society For Ecological Restoration * Restoration & Management Notes Environmental Restoration Around The World Bermuda: The Restoration Of An Island Ecology by David Wingate India: Revisiting Auroville by Alan Lithman Australia Turns An Environmental Corner by Richard Nilsen Soviet Union: No Longer Flows The Neva _ by Peter Riggs"
+    },
+    {
+      "line": 275,
+      "term": "tools",
+      "snippet": "Turning Industrial Polluters Into Good Neighbors by Sanford J. Lewis Finding And Using Toxics Information by Philip Wexler What's Underfoot: Computer Tools For Restoration by Hank Roberts A Crime Lab For Animals by Judith Goldsmith Reviews International Reforestation Suppliers ¢ Native Seed Foundation ¢ Weed Wrench ® Toadstool"
+    },
+    {
+      "line": 294,
+      "term": "learning",
+      "snippet": "Project Wild Manure, Meadows And Milkshakes ¢ Urban Forestry For Children ¢ Project Learning Tree ¢ More For Kids Resource Organizations For Activists National Toxics Campaign RACHEL"
+    },
+    {
+      "line": 493,
+      "term": "learning",
+      "snippet": "Through the practice of environmental restoration, the people in this book are inventing better solu- tions. By learning to make adaptive responses, they are helping to improve both the environment and their communities - by first realizing that the en- vironment is their community. Nature often works"
+    },
+    {
+      "line": 496,
+      "term": "community",
+      "snippet": "are helping to improve both the environment and their communities - by first realizing that the en- vironment is their community. Nature often works more slowly than the speeds modern humans are used to (quick solutions to biological problems are almost always the wrong solutions), and some of"
+    },
+    {
+      "line": 523,
+      "term": "energy",
+      "snippet": "complished - and how quickly - by an organized group. It was one of the only times I experienced the excitement of being part of a collective energy aimed at a common task. Group effort like this is a given for a Third World peasant, or for anyone who farmed fifty years ago. We have lost the necessity for"
+    },
+    {
+      "line": 560,
+      "term": "energy",
+      "snippet": "come from your car’s exhaust pipe or the nearest power plant cease to be abstract, and the benefits of using mass transit or buying energy-efficient appli- ances become easier to see. The synergism of the biological world spills over into our own lives. Nature never operates in isolation, and by working with"
+    },
+    {
+      "line": 674,
+      "term": "tools",
+      "snippet": "shed in Northern California. Some log jams act as barriers to spawning salmon. This one took a crew of eight one week to remove with hand tools. Victoria Stockley Some Reasons Why"
+    },
+    {
+      "line": 852,
+      "term": "community",
+      "snippet": "In the first phase, the emphasis was on the product of the restoration ef- fort - the restored community as an object in the landscape. This was on- ly natural since it is precisely a con- cern about the quality of the product"
+    },
+    {
+      "line": 875,
+      "term": "learning",
+      "snippet": "University of Wisconsin value to the restorationist as a process, a way of learning about the system being restored, and finally a way of establishing an intimate, mutually beneficial relationship with it."
+    },
+    {
+      "line": 931,
+      "term": "community",
+      "snippet": "ucts, but the process of restoring them. Maybe the best way to learn about a community like the prairie was to try your hand at restoring one. Over the years some of the most in- teresting research from the Arbor-"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "we . i :"
+    },
+    {
+      "line": 4,
+      "text": "A Whole Earth Catalog >"
+    },
+    {
+      "line": 7,
+      "text": "sens Be"
+    },
+    {
+      "line": 10,
+      "text": "An Introduction to -@"
+    },
+    {
+      "line": 11,
+      "text": ": Environmental Restoration"
+    },
+    {
+      "line": 16,
+      "text": "any a"
+    },
+    {
+      "line": 22,
+      "text": "= ee /"
+    },
+    {
+      "line": 23,
+      "text": "wk ae"
+    },
+    {
+      "line": 24,
+      "text": "4 ae"
+    },
+    {
+      "line": 30,
+      "text": "HELPING"
+    },
+    {
+      "line": 31,
+      "text": "NATURE"
+    },
+    {
+      "line": 32,
+      "text": "HEAL"
+    },
+    {
+      "line": 35,
+      "text": "AN INTRODUCTION JO"
+    },
+    {
+      "line": 36,
+      "text": "ENVIRONMENTAL RESTORATION"
+    },
+    {
+      "line": 39,
+      "text": "Edited by Richard Nilsen"
+    },
+    {
+      "line": 42,
+      "text": "Foreword by Barry Lopez"
+    },
+    {
+      "line": 45,
+      "text": "A WHOLE EARTH CATALOG/TEN SPEED PRESS PUBLICATION"
+    },
+    {
+      "line": 48,
+      "text": "Helping Nature Heal"
+    },
+    {
+      "line": 51,
+      "text": "Editor: Richard Nilsen"
+    },
+    {
+      "line": 53,
+      "text": "Designer: Kathleen O'Neill"
+    },
+    {
+      "line": 55,
+      "text": "Production Managers: Jonathan Evelegh,"
+    },
+    {
+      "line": 56,
+      "text": "Lori Woolpert"
+    },
+    {
+      "line": 58,
+      "text": "Copy Editor, Typesetter, Pasteup:"
+    },
+    {
+      "line": 60,
+      "text": "James Donnelly"
+    },
+    {
+      "line": 62,
+      "text": "Camera, Pasteup, Design: Donald Ryan"
+    },
+    {
+      "line": 63,
+      "text": "Pasteup: Charlie Oldham"
+    },
+    {
+      "line": 65,
+      "text": "Proofreader: Hank Roberts"
+    },
+    {
+      "line": 70,
+      "text": "Editorial Assistant: Corinne Cullen Hawkins"
+    },
+    {
+      "line": 73,
+      "text": "Project Manager: Keith Jordan"
+    },
+    {
+      "line": 76,
+      "text": "Point Foundation Staff:"
+    },
+    {
+      "line": 79,
+      "text": "Kelly Teevan (Executive Director), J. Baldwin,"
+    },
+    {
+      "line": 82,
+      "text": "Christine Goodson, Kurt Grubaugh,"
+    },
+    {
+      "line": 85,
+      "text": "Richard Kadrey, Kevin Kelly, Peter Klehm,"
+    },
+    {
+      "line": 88,
+      "text": "Jason Mongue, Howard Rheingold,"
+    },
+    {
+      "line": 89,
+      "text": "Susan Rosberg, Sarah Satterlee"
+    },
+    {
+      "line": 92,
+      "text": "Point Foundation Board: Stewart Brand,"
+    },
+    {
+      "line": 93,
+      "text": "Doug Carlston, Christina Desser,"
+    },
+    {
+      "line": 94,
+      "text": "Robert Fuller, Huey Johnson,"
+    },
+    {
+      "line": 96,
+      "text": "Peggy Lauer, Kelly Teevan"
+    },
+    {
+      "line": 99,
+      "text": "Cover Design: Nancy Austin"
+    }
+  ]
+}

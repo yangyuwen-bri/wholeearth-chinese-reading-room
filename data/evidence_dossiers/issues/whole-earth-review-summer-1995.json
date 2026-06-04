@@ -1,0 +1,698 @@
+{
+  "title": "Whole Earth Review, Summer 1995",
+  "identifier": "wholeearthreview00unse_41",
+  "year": 1995,
+  "season": "Summer",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 133,
+  "url": "https://wholeearth.info/p/whole-earth-review-summer-1995",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_41",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_41/wholeearthreview00unse_41.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_41/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthreview00unse_41_djvu.txt",
+  "ocr_chars": 557564,
+  "significant_line_count": 15887,
+  "theme_counts": {
+    "software_computing": 167,
+    "tools_craft": 292,
+    "ecology_place": 464,
+    "learning_media": 432,
+    "community_politics": 407
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 424,
+      "page": 84,
+      "title": "MWEC 88",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_41/page/n85_w500.jpg"
+    },
+    {
+      "line": 686,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO, CA 94965",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_41/page/n28_w500.jpg"
+    },
+    {
+      "line": 5688,
+      "page": 236,
+      "title": "WHOLE EARTH REVIEW SUMMER 1995",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_41/page/n237_w500.jpg"
+    },
+    {
+      "line": 11992,
+      "page": 494,
+      "title": "WHOLE EARTH REVIEW",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_41/page/n495_w500.jpg"
+    },
+    {
+      "line": 14259,
+      "page": 492,
+      "title": "OLE EARTH REVIEW",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_41/page/n493_w500.jpg"
+    },
+    {
+      "line": 17073,
+      "page": 14,
+      "title": "STHL",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_41/page/n15_w500.jpg"
+    },
+    {
+      "line": 23685,
+      "page": 7,
+      "title": "EARTH",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_41/page/n8_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 5688,
+      "text": "236 WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 10
+    },
+    {
+      "line": 11992,
+      "text": "494 WHOLE EARTH REVIEW",
+      "score": 10
+    },
+    {
+      "line": 14259,
+      "text": "492 OLE EARTH REVIEW",
+      "score": 10
+    },
+    {
+      "line": 424,
+      "text": "84 MWEC 88",
+      "score": 8
+    },
+    {
+      "line": 686,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 17073,
+      "text": "14 STHL",
+      "score": 8
+    },
+    {
+      "line": 23685,
+      "text": "7 EARTH",
+      "score": 8
+    },
+    {
+      "line": 228,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 298,
+      "text": "WHOLE EARTH REVIEW NO. 86 JUNE 21, 1995 ISSN 0749-5056; USPS 077-150.",
+      "score": 6
+    },
+    {
+      "line": 362,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 476,
+      "text": "4 LEARNING |",
+      "score": 6
+    },
+    {
+      "line": 600,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 5x",
+      "score": 6
+    },
+    {
+      "line": 685,
+      "text": "WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 988,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 1359,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 98",
+      "score": 6
+    },
+    {
+      "line": 2010,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 | 34",
+      "score": 6
+    },
+    {
+      "line": 2037,
+      "text": "| WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 2364,
+      "text": "£46 WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 3311,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 2 es",
+      "score": 6
+    },
+    {
+      "line": 3319,
+      "text": ": WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 3448,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 234",
+      "score": 6
+    },
+    {
+      "line": 4951,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 3 hS",
+      "score": 6
+    },
+    {
+      "line": 5225,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 334",
+      "score": 6
+    },
+    {
+      "line": 5405,
+      "text": "aQ WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 5570,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 359",
+      "score": 6
+    },
+    {
+      "line": 6105,
+      "text": "«$8 WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 6626,
+      "text": "xe WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 7207,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 439",
+      "score": 6
+    },
+    {
+      "line": 7644,
+      "text": "a WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 8009,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 498",
+      "score": 6
+    },
+    {
+      "line": 8089,
+      "text": "<$0 WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 8467,
+      "text": "a WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 9204,
+      "text": "2 & WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 9300,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 579",
+      "score": 6
+    },
+    {
+      "line": 9408,
+      "text": "im, $8 WHOLE EARTH REVIEW = SUP 4c",
+      "score": 6
+    },
+    {
+      "line": 9501,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 598",
+      "score": 6
+    },
+    {
+      "line": 9769,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 6 e)",
+      "score": 6
+    },
+    {
+      "line": 10140,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 639",
+      "score": 6
+    },
+    {
+      "line": 10371,
+      "text": "aa WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 10913,
+      "text": "£8 WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 11391,
+      "text": "240 WHOLE EARTH REVIEW | SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 11714,
+      "text": "iy WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 11904,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 739",
+      "score": 6
+    },
+    {
+      "line": 12227,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 754",
+      "score": 6
+    },
+    {
+      "line": 12282,
+      "text": "re WHOLE EARTH REVIEW | SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 12528,
+      "text": "BC | WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 12679,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 799",
+      "score": 6
+    },
+    {
+      "line": 12755,
+      "text": "& WHOLE EARTH REVIEW | SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 12947,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 8 fe",
+      "score": 6
+    },
+    {
+      "line": 13765,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 878",
+      "score": 6
+    },
+    {
+      "line": 13932,
+      "text": "c WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 14192,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 9 ie)",
+      "score": 6
+    },
+    {
+      "line": 14579,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 939",
+      "score": 6
+    },
+    {
+      "line": 14773,
+      "text": "x WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 14968,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 959",
+      "score": 6
+    },
+    {
+      "line": 15038,
+      "text": "A596 WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 15511,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 979",
+      "score": 6
+    },
+    {
+      "line": 16900,
+      "text": "é al 06 WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 17176,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995. | 07: ‘",
+      "score": 6
+    },
+    {
+      "line": 17422,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 J 098",
+      "score": 6
+    },
+    {
+      "line": 17714,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 | | eS",
+      "score": 6
+    },
+    {
+      "line": 18010,
+      "text": "ag ‘ ? WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 21119,
+      "text": "a 18 WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 22337,
+      "text": "£4922 WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 22795,
+      "text": "a 24 WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 22931,
+      "text": "SHELTER SYSTEMS, 224 W. O’Connor,",
+      "score": 6
+    },
+    {
+      "line": 23091,
+      "text": "COMPLETE SET WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 23102,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 | 25:",
+      "score": 6
+    },
+    {
+      "line": 23204,
+      "text": "&926 WHOLE EARTH REVIEW SUMMER 1995",
+      "score": 6
+    },
+    {
+      "line": 23676,
+      "text": "WHOLE EARTH REVIEW SUMMER 1995 F 274",
+      "score": 6
+    },
+    {
+      "line": 13097,
+      "text": "interview in Whole Earth Review:",
+      "score": 5
+    },
+    {
+      "line": 22197,
+      "text": "review of Community Alliance with",
+      "score": 5
+    },
+    {
+      "line": 9,
+      "text": "MATERIAL WORLD",
+      "score": 4
+    },
+    {
+      "line": 84,
+      "text": "2:00 P.M., DECEMBER 1, 1993 SUZDAL, RUSSIA",
+      "score": 4
+    },
+    {
+      "line": 87,
+      "text": "BIG PICTURE BY LOUIS PSIHOYOS AND JOHN KNOEBBER",
+      "score": 4
+    },
+    {
+      "line": 90,
+      "text": "|A GLOBAL FAMILY PORTRAIT",
+      "score": 4
+    },
+    {
+      "line": 181,
+      "text": "TELEVISIONS OF THE WORLD",
+      "score": 4
+    },
+    {
+      "line": 185,
+      "text": "THAILAND BrRaAziL",
+      "score": 4
+    },
+    {
+      "line": 186,
+      "text": "ALBANIA JAPAN",
+      "score": 4
+    },
+    {
+      "line": 202,
+      "text": "= SSE",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 228,
+      "term": "whole systems",
+      "snippet": "Comes Money 13 Material World WHOLE SYSTEMS The Eros of Everyday Life Susan Griffin"
+    },
+    {
+      "line": 362,
+      "term": "community",
+      "snippet": "Flywheel Wood Lathe 62 4 Paws of Crab 65 COMMUNITY Guide to a Well-Behaved Parrot The Organic Garden Book * The American Horticultural"
+    },
+    {
+      "line": 476,
+      "term": "learning",
+      "snippet": "122 Gossip » Masthead 120 Backscatter * MWEC Updates 4 LEARNING | Oliver Sacks: The Bedside Interview Tom Mcintyre"
+    },
+    {
+      "line": 507,
+      "term": "interview",
+      "snippet": "4 LEARNING | Oliver Sacks: The Bedside Interview Tom Mcintyre Pitbull J.D. Smith"
+    },
+    {
+      "line": 770,
+      "term": "interview",
+      "snippet": "don’t know the answer to that.” This was the single non-optimistic comment in an hour’s interview. Wattenberg hazarded the guess that a reduction in misery would result in an increase in happiness. But, plainly, he"
+    },
+    {
+      "line": 1029,
+      "term": "community",
+      "snippet": "finely finished log home kits for both home and export markets. Local pro- duction reinforces community values instead of destroying them. UCH IDEAS might be © dismissed by the deans of"
+    },
+    {
+      "line": 1040,
+      "term": "community",
+      "snippet": "Moles are at work in the very heart of economic power, promoting a view of prosperity that puts community before growth and qualities ahead of quantities. The headquarters of the World Bank"
+    },
+    {
+      "line": 1185,
+      "term": "community",
+      "snippet": "Smith, when traditional cultures were still strong and when capital itself tended to remain within a community or nation, the disruptive effect was not so pronounced as it is today. With rapidly mobile capital, a world"
+    },
+    {
+      "line": 1336,
+      "term": "community",
+      "snippet": "instrument for increasing prosperity: market incentives. Say that addictive behavior is ravaging a community. IN ONE CULTURE, INCREASING LITERACY MIGiiT INDICATE GREATER PROSPERITY, WHILE IN AN- OTHER THE SAME PARAMETER MIGHT SHOW THE"
+    },
+    {
+      "line": 1516,
+      "term": "community",
+      "snippet": "yourself and hang on.” Prosperity comes from sticking with a community, a neighbor, a business, a friend. Coming to a dif- ficulty is not a sign to jump ship and start all over. “If you"
+    },
+    {
+      "line": 1544,
+      "term": "community",
+      "snippet": "other cosmopolitan exporters of dan- ger. “If you are ready to say, I'll work for what is good for this community,” he remarks, “then there is nothing you can safely say that you don’t need to know.”"
+    },
+    {
+      "line": 2098,
+      "term": "ecology",
+      "snippet": "is probably the most comprehensive available right now, but most pro- grams are short on ecology. A few industrial design schools offer simi- lar combinations of engineering, aes- thetics, and social matters. The"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Anne Lamott ° Susan Griffin ° Adrienne Rich © Fran Peavey"
+    },
+    {
+      "line": 4,
+      "text": "| SO | What Is Prosperity? ¢ Houselessness and Homelessness"
+    },
+    {
+      "line": 5,
+      "text": "ews | Rheingold on the World Wide Web « The Bicycle As a Tool of Revolution"
+    },
+    {
+      "line": 6,
+      "text": "--_-__- Women and Water: Questions for the Ganges"
+    },
+    {
+      "line": 9,
+      "text": "MATERIAL WORLD"
+    },
+    {
+      "line": 12,
+      "text": "Remains of Empire"
+    },
+    {
+      "line": 15,
+      "text": "Size of household"
+    },
+    {
+      "line": 19,
+      "text": "Size of dwelling"
+    },
+    {
+      "line": 20,
+      "text": "1,500 sq. ft. (140 sq. m.)"
+    },
+    {
+      "line": 23,
+      "text": "Number of"
+    },
+    {
+      "line": 24,
+      "text": "Radios: 2, Stereos: |,"
+    },
+    {
+      "line": 25,
+      "text": "Telephones: 2,"
+    },
+    {
+      "line": 26,
+      "text": "Televisions: 2, VCRs: 0,"
+    },
+    {
+      "line": 27,
+      "text": "Automobiles: |"
+    },
+    {
+      "line": 30,
+      "text": "Most valued"
+    },
+    {
+      "line": 31,
+      "text": "possessions"
+    },
+    {
+      "line": 33,
+      "text": "Domra (Mother)"
+    },
+    {
+      "line": 35,
+      "text": "Video games, Conan Doyle"
+    },
+    {
+      "line": 36,
+      "text": "novels"
+    },
+    {
+      "line": 37,
+      "text": "(Oldest daughter)"
+    },
+    {
+      "line": 38,
+      "text": "Stuffed animal,"
+    },
+    {
+      "line": 39,
+      "text": "Barbie dolls"
+    },
+    {
+      "line": 40,
+      "text": "(Youngest daughter)"
+    },
+    {
+      "line": 43,
+      "text": "Per capita income ($US)"
+    },
+    {
+      "line": 47,
+      "text": "Percentage of"
+    },
+    {
+      "line": 48,
+      "text": "Kapralov family income"
+    },
+    {
+      "line": 49,
+      "text": "spent on food"
+    },
+    {
+      "line": 53,
+      "text": "... on clothing,"
+    },
+    {
+      "line": 54,
+      "text": "household goods"
+    },
+    {
+      "line": 58,
+      "text": "Wishes for future"
+    },
+    {
+      "line": 59,
+      "text": "To repair car, which will cost"
+    },
+    {
+      "line": 60,
+      "text": "$2,500 - $3,000 (Mother)"
+    },
+    {
+      "line": 61,
+      "text": "To have children live in"
+    },
+    {
+      "line": 62,
+      "text": "society that has joined"
+    },
+    {
+      "line": 63,
+      "text": "“mainstream of human"
+    },
+    {
+      "line": 64,
+      "text": "civilization” (Mother)"
+    },
+    {
+      "line": 67,
+      "text": "|. Eugeny Kapralov,"
+    },
+    {
+      "line": 68,
+      "text": "father, 37"
+    },
+    {
+      "line": 70,
+      "text": "2. Joanna Kapralov,"
+    },
+    {
+      "line": 71,
+      "text": "mother, 36"
+    }
+  ]
+}

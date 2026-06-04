@@ -1,0 +1,692 @@
+{
+  "title": "Whole Earth Catalog, Fall 1969",
+  "identifier": "wholeearthcatalo00unse_7",
+  "year": 1969,
+  "season": "Fall",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 132,
+  "url": "https://wholeearth.info/p/whole-earth-catalog-fall-1969",
+  "archive_url": "https://archive.org/details/wholeearthcatalo00unse_7",
+  "pdf_url": "https://archive.org/download/wholeearthcatalo00unse_7/wholeearthcatalo00unse_7.pdf",
+  "cover_url": "https://archive.org/download/wholeearthcatalo00unse_7/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthcatalo00unse_7_djvu.txt",
+  "ocr_chars": 1147287,
+  "significant_line_count": 24813,
+  "theme_counts": {
+    "software_computing": 142,
+    "tools_craft": 1078,
+    "ecology_place": 962,
+    "learning_media": 1262,
+    "community_politics": 436
+  },
+  "top_themes": [
+    "learning_media",
+    "tools_craft",
+    "ecology_place"
+  ],
+  "page_markers": [
+    {
+      "line": 6487,
+      "page": 20,
+      "title": "YEAR",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_7/page/n21_w500.jpg"
+    },
+    {
+      "line": 8427,
+      "page": 6,
+      "title": "OM 60M GOO GOO 6H 60M G",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_7/page/n7_w500.jpg"
+    },
+    {
+      "line": 24200,
+      "page": 8,
+      "title": "PLEASE NOTE: N.Y. RESIDENTS ADD TO THE ABOVE PRICES THE NEW YORK CITY",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_7/page/n9_w500.jpg"
+    },
+    {
+      "line": 26516,
+      "page": 3,
+      "title": "OOO 0 CSL SOLS TITLE TIAA LAL ASAI AION BOK 20000 UOC COU OSC ELE SELL IS LAI A ALATA IA IK IAI IAAL ISI SAIS IA IES AAAI A AAA AHA",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_7/page/n4_w500.jpg"
+    },
+    {
+      "line": 34650,
+      "page": 9,
+      "title": "PY LP",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_7/page/n10_w500.jpg"
+    },
+    {
+      "line": 39038,
+      "page": 2,
+      "title": "FUNK & WAGNALLS STANDARD REFERENCE",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_7/page/n3_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 6487,
+      "text": "20 YEAR",
+      "score": 8
+    },
+    {
+      "line": 8427,
+      "text": "6 OM 60M GOO GOO 6H 60M G",
+      "score": 8
+    },
+    {
+      "line": 24200,
+      "text": "8 PLEASE NOTE: N.Y. RESIDENTS ADD TO THE ABOVE PRICES THE NEW YORK CITY",
+      "score": 8
+    },
+    {
+      "line": 26646,
+      "text": "3 OL LSI LISD LAL IAI IIIA ISLA LAI ALIA LISI IAA ISSA.",
+      "score": 8
+    },
+    {
+      "line": 34650,
+      "text": "9 PY LP",
+      "score": 8
+    },
+    {
+      "line": 39035,
+      "text": "6 CATHOLIC ENCYCLOPEDIA FOR SCHOOL",
+      "score": 8
+    },
+    {
+      "line": 39038,
+      "text": "2 FUNK & WAGNALLS STANDARD REFERENCE",
+      "score": 8
+    },
+    {
+      "line": 30778,
+      "text": "s R.., Vt. ets eee ae PROGRAM MORTGAGE INSURANCE FOR EXPERIMENTAL | POPULAR NAME",
+      "score": 6
+    },
+    {
+      "line": 30836,
+      "text": "PROGRAM POPULAR NAME",
+      "score": 6
+    },
+    {
+      "line": 31217,
+      "text": "COMMUNITY HUTS son",
+      "score": 6
+    },
+    {
+      "line": 16234,
+      "text": "community the maximum variety of wholesome new learning experi-",
+      "score": 5
+    },
+    {
+      "line": 26516,
+      "text": "3 OOO 0 CSL SOLS TITLE TIAA LAL ASAI AION BOK 20000 UOC COU OSC ELE SELL IS LAI A ALATA IA IK IAI IAAL ISI SAIS IA IES AAAI A AAA AHA",
+      "score": 5
+    },
+    {
+      "line": 40080,
+      "text": "Seamanship Ecology Community Drownproofing Free Time Duty Watch",
+      "score": 5
+    },
+    {
+      "line": 41047,
+      "text": "of living things had lost its food and shelter. This community too",
+      "score": 5
+    },
+    {
+      "line": 12,
+      "text": "FUNCTION",
+      "score": 4
+    },
+    {
+      "line": 810,
+      "text": "WFF n PROOF",
+      "score": 4
+    },
+    {
+      "line": 893,
+      "text": "CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1181,
+      "text": "from: or WHOLE EARTH CATALOG |",
+      "score": 4
+    },
+    {
+      "line": 1200,
+      "text": "or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1328,
+      "text": "WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1427,
+      "text": "or WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 1633,
+      "text": "or WHOLE EARTH CATALOG fee",
+      "score": 4
+    },
+    {
+      "line": 2048,
+      "text": "VERSIV",
+      "score": 4
+    },
+    {
+      "line": 2052,
+      "text": "SCIEN",
+      "score": 4
+    },
+    {
+      "line": 2126,
+      "text": "J 3 = =",
+      "score": 4
+    },
+    {
+      "line": 2166,
+      "text": "CLIMATES",
+      "score": 4
+    },
+    {
+      "line": 2179,
+      "text": "PR AEE SIS",
+      "score": 4
+    },
+    {
+      "line": 2201,
+      "text": "THE UNIVERSE IN 40 JUMPS",
+      "score": 4
+    },
+    {
+      "line": 2440,
+      "text": "A SP-16i (1968 O-292-583)",
+      "score": 4
+    },
+    {
+      "line": 2502,
+      "text": "RACIR34",
+      "score": 4
+    },
+    {
+      "line": 2538,
+      "text": "EARTH",
+      "score": 4
+    },
+    {
+      "line": 2578,
+      "text": "from: AN UNEXPLORED FACTOR",
+      "score": 4
+    },
+    {
+      "line": 2591,
+      "text": "POSTURAL",
+      "score": 4
+    },
+    {
+      "line": 2600,
+      "text": "RELEASE",
+      "score": 4
+    },
+    {
+      "line": 2794,
+      "text": "WHOLE",
+      "score": 4
+    },
+    {
+      "line": 2825,
+      "text": "or WHOLE EARTH CATALOG or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 3012,
+      "text": "CONSTRUCTION",
+      "score": 4
+    },
+    {
+      "line": 3016,
+      "text": "CONTENT",
+      "score": 4
+    },
+    {
+      "line": 3047,
+      "text": "OR: >",
+      "score": 4
+    },
+    {
+      "line": 3053,
+      "text": "p IO AREIT. ARE TRYING TO CAPTURE IT, > ~~ Gre a",
+      "score": 4
+    },
+    {
+      "line": 3054,
+      "text": "THROUGH WHicr WE WHO BREIT, Ree TEM ee a MELE",
+      "score": 4
+    },
+    {
+      "line": 3057,
+      "text": "THE Doe CHASES 17S TAIL” *",
+      "score": 4
+    },
+    {
+      "line": 3060,
+      "text": "‘ . THOS AGAIN",
+      "score": 4
+    },
+    {
+      "line": 3067,
+      "text": "NCEPTION UNNECESSARY.",
+      "score": 4
+    },
+    {
+      "line": 3068,
+      "text": "8D SET OUT ULPon It",
+      "score": 4
+    },
+    {
+      "line": 3073,
+      "text": "IN THE UGHT OF",
+      "score": 4
+    },
+    {
+      "line": 3077,
+      "text": "TeumP CARO TER “THE FOOL” MRom A CONTEMPORARY TAROT DECK",
+      "score": 4
+    },
+    {
+      "line": 3097,
+      "text": "INTENT",
+      "score": 4
+    },
+    {
+      "line": 3216,
+      "text": "Te BD",
+      "score": 4
+    },
+    {
+      "line": 3678,
+      "text": "HUMAN BEINGS",
+      "score": 4
+    },
+    {
+      "line": 3810,
+      "text": "THE HUMAN USE",
+      "score": 4
+    },
+    {
+      "line": 3811,
+      "text": "OF THE EARTH",
+      "score": 4
+    },
+    {
+      "line": 3814,
+      "text": "PHILIP WAGNER ~",
+      "score": 4
+    },
+    {
+      "line": 3830,
+      "text": "or WHOLE EARTH CATALO",
+      "score": 4
+    },
+    {
+      "line": 3880,
+      "text": "or WHOLE EARTH CATALOGE",
+      "score": 4
+    },
+    {
+      "line": 3910,
+      "text": "DPRPPER ERED PEP PEEEEEE TET ET PEEP EE TT PT TFET TE",
+      "score": 4
+    },
+    {
+      "line": 4251,
+      "text": "Z Vu A",
+      "score": 4
+    },
+    {
+      "line": 4383,
+      "text": "ATH A SE ENTRODUC TION",
+      "score": 4
+    },
+    {
+      "line": 4388,
+      "text": "PEWIS VE MEORD",
+      "score": 4
+    },
+    {
+      "line": 4672,
+      "text": "CURRENT CONCEPTS IN BIOLOBY SERIES",
+      "score": 4
+    },
+    {
+      "line": 5023,
+      "text": "or WHOLE EARTH CATALOG .",
+      "score": 4
+    },
+    {
+      "line": 5028,
+      "text": "ANG) a",
+      "score": 4
+    },
+    {
+      "line": 5105,
+      "text": "WAWBRwW",
+      "score": 4
+    },
+    {
+      "line": 5167,
+      "text": "A FRAMEWORK",
+      "score": 4
+    },
+    {
+      "line": 5168,
+      "text": "FOR SPECULATION ON",
+      "score": 4
+    },
+    {
+      "line": 5169,
+      "text": "THE NEXT THIRTY-THREE YEARS",
+      "score": 4
+    },
+    {
+      "line": 5198,
+      "text": "by HERMAN KAHN",
+      "score": 4
+    },
+    {
+      "line": 5201,
+      "text": "and ANTHONY J. WIENER",
+      "score": 4
+    },
+    {
+      "line": 5208,
+      "text": "“FUTURIST",
+      "score": 4
+    },
+    {
+      "line": 5211,
+      "text": "TABLE IX",
+      "score": 4
+    },
+    {
+      "line": 5229,
+      "text": "WAAR AL AAD",
+      "score": 4
+    },
+    {
+      "line": 5246,
+      "text": "AOR WS",
+      "score": 4
+    },
+    {
+      "line": 5452,
+      "text": "- or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 5478,
+      "text": "NOTES ON THE",
+      "score": 4
+    },
+    {
+      "line": 5479,
+      "text": "SYNTHESIS",
+      "score": 4
+    },
+    {
+      "line": 5482,
+      "text": "OF FORM",
+      "score": 4
+    },
+    {
+      "line": 5502,
+      "text": "ze or WHOLE EARTH CATALOG CURIS TOPTLETE ALEX ANDER",
+      "score": 4
+    },
+    {
+      "line": 5618,
+      "text": "i or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 5712,
+      "text": "T- 0-0-1]",
+      "score": 4
+    },
+    {
+      "line": 5751,
+      "text": "FA YEAR FROM MONDAY;",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 9,
+      "term": "tools",
+      "snippet": "k < if “ Se - : } ue ae - GF access to tools FUNCTION The WHOLE EARTH CATALOG functions as an evaluation and access 4 device. With it, the user should know better what is worth getting and-"
+    },
+    {
+      "line": 35,
+      "term": "tools",
+      "snippet": "P : personal power is developing-power of the individual to conduct his own ; education, find his own inspiration, shape his own environment, and a share his adventure with whoever is interested. Tools that aid this ; process are sought and promoted by the WHOLE EARTH CATALOG. The Supplement corrects and updates information in the most recent CATALOG, carries on-going research toward the next CATALOG, ‘"
+    },
+    {
+      "line": 41,
+      "term": "tools",
+      "snippet": "CATALOG, carries on-going research toward the next CATALOG, ‘ and publishes what doesn’t fit in the CATALOG but does relate to the use of tools. te SUSTAINING SUBSCRIBER St. George Bryan Maui, Hawaii , Syntex Corporation Palo Alto, California f ‘ Geoffrey Gates New York, New York Geoff Stirling Wickenberg, Arizona - Julia Brand Rockford, Illinois Peter Cornell Berkeley, California Bernard Loven Minneapolis, Minnesota"
+    },
+    {
+      "line": 115,
+      "term": "ecology",
+      "snippet": "* Science and Survival * The Subversive Science * Concepts of Ecology Man’s Domain Cosmic View * Star Maker"
+    },
+    {
+      "line": 275,
+      "term": "energy",
+      "snippet": "* Miscellaneous 38 - Ashley Thermostatic Stove %* New Sources of Energy * Windmills. %* Sager Weathercaster 9 .Dymaxion World"
+    },
+    {
+      "line": 301,
+      "term": "energy",
+      "snippet": "Introduction to Engineering Design 41 Direct Use of the Sun's Energy * The Design of Design 42 New Scientist Scientific American"
+    },
+    {
+      "line": 323,
+      "term": "tools",
+      "snippet": "46 Silvo Hardware abe Surplus Center aise Brookstone Tools 4. Jensen Tools He 47 -* U. S: General Supply *_ * Airborne Sales :"
+    },
+    {
+      "line": 324,
+      "term": "tools",
+      "snippet": "Surplus Center aise Brookstone Tools 4. Jensen Tools He 47 -* U. S: General Supply *_ * Airborne Sales : Gerstner Tool Chests"
+    },
+    {
+      "line": 329,
+      "term": "tools",
+      "snippet": "* Airborne Sales : Gerstner Tool Chests Snap-on Tools 48 * Government Product News * Tamco Plastic Supplies Meccano"
+    },
+    {
+      "line": 347,
+      "term": "tools",
+      "snippet": "Craft & Hobby Book Service %* Museum of Early American Tools %* Book of Country Crafts 51 Allcraft Tool & Supply Woodcraft Supply"
+    },
+    {
+      "line": 645,
+      "term": "tools",
+      "snippet": "Synectics Person to Person Tools for Progress Natural Foods Cookbook Nomadics Complete Walker"
+    },
+    {
+      "line": 734,
+      "term": "learning",
+      "snippet": "* International Atlas *Reference Guide for Travelers Learning Dr. Spock Creative Playthings *Community Playthings"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 5,
+      "text": "k < if “ Se - :"
+    },
+    {
+      "line": 6,
+      "text": "} ue ae - GF"
+    },
+    {
+      "line": 9,
+      "text": "access to tools"
+    },
+    {
+      "line": 12,
+      "text": "FUNCTION"
+    },
+    {
+      "line": 15,
+      "text": "The WHOLE EARTH CATALOG functions as an evaluation and access 4"
+    },
+    {
+      "line": 16,
+      "text": "device. With it, the user should know better what is worth getting and-"
+    },
+    {
+      "line": 17,
+      "text": "where and how to do the getting. ‘"
+    },
+    {
+      "line": 20,
+      "text": "An item is listed in the CATALOG if it is deemed: : |"
+    },
+    {
+      "line": 21,
+      "text": "1) Useful as a tool, Ata aad y eae"
+    },
+    {
+      "line": 22,
+      "text": "2) Relevant to independent Leleater"
+    },
+    {
+      "line": 23,
+      "text": "3) High quality or low cost,"
+    },
+    {
+      "line": 24,
+      "text": "4) Easily available by mail."
+    },
+    {
+      "line": 27,
+      "text": "CATALOG listings are continually revised according to the experience , i"
+    },
+    {
+      "line": 28,
+      "text": "and suggestions of CATALOG users and staff."
+    },
+    {
+      "line": 29,
+      "text": "We are as gods and might as well get good at it. So far, remotely done"
+    },
+    {
+      "line": 30,
+      "text": "power and glory-as via government, ‘big business, formal education, :"
+    },
+    {
+      "line": 31,
+      "text": "church-has succeeded to the point where gross defects obscure actual mA"
+    },
+    {
+      "line": 32,
+      "text": "nea: gains. In response to this dilemma and to these gains a realm of intimate, nth a"
+    },
+    {
+      "line": 33,
+      "text": "P : personal power is developing-power of the individual to conduct his own ;"
+    },
+    {
+      "line": 34,
+      "text": "education, find his own inspiration, shape his own environment, and a"
+    },
+    {
+      "line": 35,
+      "text": "share his adventure with whoever is interested. Tools that aid this ;"
+    },
+    {
+      "line": 36,
+      "text": "process are sought and promoted by the WHOLE EARTH CATALOG."
+    },
+    {
+      "line": 38,
+      "text": "The Supplement corrects and updates information in the most recent"
+    },
+    {
+      "line": 39,
+      "text": "CATALOG, carries on-going research toward the next CATALOG, ‘"
+    },
+    {
+      "line": 40,
+      "text": "and publishes what doesn’t fit in the CATALOG but does relate to"
+    },
+    {
+      "line": 41,
+      "text": "the use of tools."
+    },
+    {
+      "line": 44,
+      "text": "te SUSTAINING SUBSCRIBER St. George Bryan Maui, Hawaii , Syntex Corporation Palo Alto, California"
+    },
+    {
+      "line": 45,
+      "text": "f ‘ Geoffrey Gates New York, New York Geoff Stirling Wickenberg, Arizona -"
+    },
+    {
+      "line": 46,
+      "text": "Julia Brand Rockford, Illinois Peter Cornell Berkeley, California Bernard Loven Minneapolis, Minnesota"
+    },
+    {
+      "line": 47,
+      "text": "‘ Bill Davis Boulder, Colorado Ronald Jorgensen : New York, New York -"
+    },
+    {
+      "line": 48,
+      "text": "; Halbert Speer Sea Cliff, New York Gerald J. Driessen Chicago, Illinois"
+    },
+    {
+      "line": 49,
+      "text": "Constance Hwang Berkeley, California Joseph L. Bridger Woodstock, New York"
+    },
+    {
+      "line": 50,
+      "text": "RETAINING SUBSCRIBERS Terry Borton Cambridge, Massachusetts Joe & Ann McConnell, Jr. Point Reyes Station, Califor"
+    },
+    {
+      "line": 51,
+      "text": "2 P : : Frederic and Karen Worden Sausalito, California Vera L. Pratt Cambridge, Massachusetts"
+    },
+    {
+      "line": 52,
+      "text": "Mark Albert San Francisco, California Don Winsberg Chicago, IIlinois : Jim Temple Adamant, Vermont"
+    },
+    {
+      "line": 53,
+      "text": "John Doss San Francisco, California Jeffrey Mitchell New York, New York Anthony D'Amato Chicago, Illinois"
+    },
+    {
+      "line": 54,
+      "text": "Edmund Scientific Co. Barrington, New Jersey The Committee San Francisco, California Bill Chaitkin Syracuse, New York"
+    },
+    {
+      "line": 55,
+      "text": "Henry Jacobs and Assoc. Sausalito, California Mrs. Audrey Sabo! Villanova, Pennsylvania David M. Meggyesy Saint Louis, Missouri"
+    },
+    {
+      "line": 56,
+      "text": "Edward Rosenfeld New York, New York Paul Kventsky Houston, Texas James J. Storrow I! New York, New York"
+    },
+    {
+      "line": 59,
+      "text": ": © 1969 Portola Institute, Inc. oa Maa"
+    }
+  ]
+}

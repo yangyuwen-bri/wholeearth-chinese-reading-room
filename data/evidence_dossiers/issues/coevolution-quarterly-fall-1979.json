@@ -1,0 +1,686 @@
+{
+  "title": "CoEvolution Quarterly, Fall 1979",
+  "identifier": "coevolutionquart00unse_20",
+  "year": 1979,
+  "season": "Fall",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 153,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1979",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_20",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_20/coevolutionquart00unse_20.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_20/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_20_djvu.txt",
+  "ocr_chars": 569793,
+  "significant_line_count": 14406,
+  "theme_counts": {
+    "software_computing": 49,
+    "tools_craft": 681,
+    "ecology_place": 993,
+    "learning_media": 318,
+    "community_politics": 284
+  },
+  "top_themes": [
+    "ecology_place",
+    "tools_craft",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 5900,
+      "page": 13,
+      "title": "FUEL",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_20/page/n14_w500.jpg"
+    },
+    {
+      "line": 6118,
+      "page": 30,
+      "title": "VACUUM",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_20/page/n31_w500.jpg"
+    },
+    {
+      "line": 6125,
+      "page": 22,
+      "title": "HYD. PUMP",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_20/page/n23_w500.jpg"
+    },
+    {
+      "line": 6128,
+      "page": 21,
+      "title": "ALTERNATOR",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_20/page/n22_w500.jpg"
+    },
+    {
+      "line": 17862,
+      "page": 832,
+      "title": "SANSOME STREET TELEPHONE",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_20/page/n833_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 5900,
+      "text": "13 FUEL",
+      "score": 8
+    },
+    {
+      "line": 6118,
+      "text": "30 VACUUM",
+      "score": 8
+    },
+    {
+      "line": 6125,
+      "text": "22 HYD. PUMP",
+      "score": 8
+    },
+    {
+      "line": 6128,
+      "text": "21 ALTERNATOR",
+      "score": 8
+    },
+    {
+      "line": 19762,
+      "text": "22 U.S,, 1G:",
+      "score": 8
+    },
+    {
+      "line": 2507,
+      "text": "NATIONAL ENERGY POLICY",
+      "score": 6
+    },
+    {
+      "line": 3440,
+      "text": "104 - ENERGY",
+      "score": 6
+    },
+    {
+      "line": 3836,
+      "text": "ENERGY CONVERSION",
+      "score": 6
+    },
+    {
+      "line": 5817,
+      "text": "PROPOSED ENERGY SYSTEM coe",
+      "score": 6
+    },
+    {
+      "line": 15621,
+      "text": "ENERGY AND RESOURCES",
+      "score": 6
+    },
+    {
+      "line": 15726,
+      "text": "ENERGY PRODUCTION",
+      "score": 6
+    },
+    {
+      "line": 15877,
+      "text": "PROGRAM SPECIFICS",
+      "score": 6
+    },
+    {
+      "line": 15923,
+      "text": "ENERGY BALANCE",
+      "score": 6
+    },
+    {
+      "line": 16355,
+      "text": "OLITICAL ECOLOGY OF",
+      "score": 6
+    },
+    {
+      "line": 15918,
+      "text": "community’s food and high-grade energy will be",
+      "score": 5
+    },
+    {
+      "line": 17235,
+      "text": "Energy Communications",
+      "score": 5
+    },
+    {
+      "line": 17862,
+      "text": "832 SANSOME STREET TELEPHONE",
+      "score": 5
+    },
+    {
+      "line": 22541,
+      "text": "systems, community, shelter,",
+      "score": 5
+    },
+    {
+      "line": 396,
+      "text": "NASA.",
+      "score": 4
+    },
+    {
+      "line": 748,
+      "text": "oa COVERED THE LAND",
+      "score": 4
+    },
+    {
+      "line": 750,
+      "text": "01 ne OES Fea MeD. FIRST COME THE BUGS,",
+      "score": 4
+    },
+    {
+      "line": 751,
+      "text": "FISH...",
+      "score": 4
+    },
+    {
+      "line": 888,
+      "text": "ILLUSTRATION BY JAHRMARGL AND DAVID WILLS",
+      "score": 4
+    },
+    {
+      "line": 1123,
+      "text": "MODELING THE GLOBAL CARBON CYCLE",
+      "score": 4
+    },
+    {
+      "line": 1129,
+      "text": "WATER",
+      "score": 4
+    },
+    {
+      "line": 1143,
+      "text": "AI AA",
+      "score": 4
+    },
+    {
+      "line": 1144,
+      "text": "NWAANASS",
+      "score": 4
+    },
+    {
+      "line": 1150,
+      "text": "ANN ARK A OSU.",
+      "score": 4
+    },
+    {
+      "line": 1166,
+      "text": "ILLUSTRATIONS BY DAVID WILLS",
+      "score": 4
+    },
+    {
+      "line": 1173,
+      "text": "EARTH",
+      "score": 4
+    },
+    {
+      "line": 1316,
+      "text": "FROM THE GREENHOUSE EFFECT",
+      "score": 4
+    },
+    {
+      "line": 1317,
+      "text": "TO THE MISSING CARBON",
+      "score": 4
+    },
+    {
+      "line": 1431,
+      "text": "EQUIVALENT AND OBSERVED INCREASE",
+      "score": 4
+    },
+    {
+      "line": 1432,
+      "text": "IN ATMOSPHERIC CONCENTRATION OF CO>9; PPM (BY VOLUME)",
+      "score": 4
+    },
+    {
+      "line": 1493,
+      "text": "ORK? HAD",
+      "score": 4
+    },
+    {
+      "line": 1498,
+      "text": "aint THE ATMOSPHERE",
+      "score": 4
+    },
+    {
+      "line": 1501,
+      "text": "PHOTOSYNTHESIS",
+      "score": 4
+    },
+    {
+      "line": 1507,
+      "text": "FOSSIL FUEL = 41 | Gy ? ly PHOTO-",
+      "score": 4
+    },
+    {
+      "line": 1508,
+      "text": "COMBUSTION AR WG. - js ==]. SYNTHESIS",
+      "score": 4
+    },
+    {
+      "line": 1511,
+      "text": "SURFACE",
+      "score": 4
+    },
+    {
+      "line": 1512,
+      "text": "OCEAN",
+      "score": 4
+    },
+    {
+      "line": 1515,
+      "text": "THERMOCLINE",
+      "score": 4
+    },
+    {
+      "line": 1518,
+      "text": "DISSOLVED",
+      "score": 4
+    },
+    {
+      "line": 1519,
+      "text": "ORGANIC",
+      "score": 4
+    },
+    {
+      "line": 1520,
+      "text": "MATTER",
+      "score": 4
+    },
+    {
+      "line": 1523,
+      "text": "VEGETATION AND HUMUS",
+      "score": 4
+    },
+    {
+      "line": 1535,
+      "text": "FOSSIL FUELS",
+      "score": 4
+    },
+    {
+      "line": 1539,
+      "text": "ATMOSPHERE",
+      "score": 4
+    },
+    {
+      "line": 1557,
+      "text": "DEEP OCEAN",
+      "score": 4
+    },
+    {
+      "line": 1563,
+      "text": "SURFACE OCEAN",
+      "score": 4
+    },
+    {
+      "line": 1598,
+      "text": "DIAGRAM BY DAVID WILLS",
+      "score": 4
+    },
+    {
+      "line": 1633,
+      "text": "SOURCES, SINKS, AND FLUXES: IS THE",
+      "score": 4
+    },
+    {
+      "line": 1634,
+      "text": "MISSING CARBON GREEN OR BLUE?",
+      "score": 4
+    },
+    {
+      "line": 1721,
+      "text": "THE OCEAN SINK: IS THE",
+      "score": 4
+    },
+    {
+      "line": 1722,
+      "text": "MISSING CARBON BLUE?",
+      "score": 4
+    },
+    {
+      "line": 1970,
+      "text": "THE GREEN FLUX",
+      "score": 4
+    },
+    {
+      "line": 2079,
+      "text": "THE TEMPORARY AND",
+      "score": 4
+    },
+    {
+      "line": 2080,
+      "text": "INVISIBLE ATMOSPHERIC SINK",
+      "score": 4
+    },
+    {
+      "line": 2225,
+      "text": "1 BMT)",
+      "score": 4
+    },
+    {
+      "line": 2319,
+      "text": "RUNNING THE GENERAL CIRCULA-",
+      "score": 4
+    },
+    {
+      "line": 2320,
+      "text": "TION MODEL AT 2 x COz2",
+      "score": 4
+    },
+    {
+      "line": 2506,
+      "text": "THE CARBON CYCLE AND",
+      "score": 4
+    },
+    {
+      "line": 2538,
+      "text": "\\ SN WN KT",
+      "score": 4
+    },
+    {
+      "line": 2593,
+      "text": "ILLUSTRATION BY JAY KINNEY",
+      "score": 4
+    },
+    {
+      "line": 2652,
+      "text": "REFERENCES",
+      "score": 4
+    },
+    {
+      "line": 2839,
+      "text": "; ? VS XDSA \\ 4 t Ny : --¢4",
+      "score": 4
+    },
+    {
+      "line": 2930,
+      "text": "ART T",
+      "score": 4
+    },
+    {
+      "line": 2936,
+      "text": "OSWALD",
+      "score": 4
+    },
+    {
+      "line": 2953,
+      "text": "AL OS Pe",
+      "score": 4
+    },
+    {
+      "line": 2957,
+      "text": "- Ui LV",
+      "score": 4
+    },
+    {
+      "line": 2960,
+      "text": "-) S21",
+      "score": 4
+    },
+    {
+      "line": 2980,
+      "text": "OCEAN POWER:",
+      "score": 4
+    },
+    {
+      "line": 2981,
+      "text": "A SALT SOLUTION",
+      "score": 4
+    },
+    {
+      "line": 3263,
+      "text": "ZB =E BZ",
+      "score": 4
+    },
+    {
+      "line": 3290,
+      "text": "SS Ae",
+      "score": 4
+    },
+    {
+      "line": 3293,
+      "text": "== = DIY Jy VNU Oe",
+      "score": 4
+    },
+    {
+      "line": 3368,
+      "text": "ILLUSTRATIONS BY KATHLEEN O'NEILL",
+      "score": 4
+    },
+    {
+      "line": 3527,
+      "text": "10! POWER",
+      "score": 4
+    },
+    {
+      "line": 3611,
+      "text": "U.S.A.",
+      "score": 4
+    },
+    {
+      "line": 3835,
+      "text": "SALINITY-GRADIENT",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 152,
+      "term": "tools",
+      "snippet": "Technique and Applications e Boatbuilding With Steel Hand Tools e Plywood Codes e Sigh e Antique Woodworking Tools e Safety Tools e Founder’s Goods @ Forge Supplies e Early American Industries e"
+    },
+    {
+      "line": 153,
+      "term": "tools",
+      "snippet": "Boatbuilding With Steel Hand Tools e Plywood Codes e Sigh e Antique Woodworking Tools e Safety Tools e Founder’s Goods @ Forge Supplies e Early American Industries e Defender Industries, Inc."
+    },
+    {
+      "line": 154,
+      "term": "tools",
+      "snippet": "Hand Tools e Plywood Codes e Sigh e Antique Woodworking Tools e Safety Tools e Founder’s Goods @ Forge Supplies e Early American Industries e Defender Industries, Inc. Spyglass e Nonferrous"
+    },
+    {
+      "line": 255,
+      "term": "ecology",
+      "snippet": "104 Hamilton Solar Village by Sim Van der Ryn 110 The Political Ecology of Hamilton : Solar Village by Steve McNamara 114 The Passive Solar Energy Book 115 Earth Shelter Design e The Wilderness"
+    },
+    {
+      "line": 257,
+      "term": "energy",
+      "snippet": "110 The Political Ecology of Hamilton : Solar Village by Steve McNamara 114 The Passive Solar Energy Book 115 Earth Shelter Design e The Wilderness Home Power System and How to Do It e Building Regulations e"
+    },
+    {
+      "line": 267,
+      "term": "energy",
+      "snippet": "116 Lorena Owner-Built Stoves e Woodstove Directory e Woodstove Construction e National Solar Energy Education Directory e Lineman’s Gloves Land Use 117 Forest Energy and Economic"
+    },
+    {
+      "line": 274,
+      "term": "energy",
+      "snippet": "Directory e Lineman’s Gloves Land Use 117 Forest Energy and Economic Development e Seeds of Woody Plants in the United States e Small Farm Energy Project Newsletter"
+    },
+    {
+      "line": 277,
+      "term": "energy",
+      "snippet": "Development e Seeds of Woody Plants in the United States e Small Farm Energy Project Newsletter Politics 118 Who’s behind metric conversion - U.S. multi-national corporations"
+    },
+    {
+      "line": 297,
+      "term": "whole systems",
+      "snippet": "Mickey Mouse case continues 120 Walt Disney’s reply to Dan O’Neill Understanding Whole Systems 124 The California Water Atlas e The Jesus Incident Community"
+    },
+    {
+      "line": 304,
+      "term": "community",
+      "snippet": "124 The California Water Atlas e The Jesus Incident Community 125 More from The Rising Sun Neighborhood Newsletter by Anne Herbert 126 What do you see out of the window you"
+    },
+    {
+      "line": 322,
+      "term": "communications",
+      "snippet": "133 Runner’s World e Consumer Union News Digest Communications 134 Good Movies by Sheila Benson Nomadics 136 Why Trade It In? e Diesel cars e"
+    },
+    {
+      "line": 335,
+      "term": "learning",
+      "snippet": "136 Why Trade It In? e Diesel cars e Birdman Learning - 137 Coyote Stories by Peter Blue Cloud 138 A Boy and His Dog in Nevada by Dan O'Neill"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "‘Published"
+    },
+    {
+      "line": 7,
+      "text": "Whether admired from a Uistante of 22,000 miles or 20 feet ours is an ocean planet,"
+    },
+    {
+      "line": 10,
+      "text": "i - dazzling blue, dominated in every respect by its water."
+    },
+    {
+      "line": 13,
+      "text": "a A. couple years ago we had a Watershed Issue of CoEvolution, deservedly popular, which"
+    },
+    {
+      "line": 14,
+      "text": "a er forward a politics of watershed-consciousness, utterly local - where and how the"
+    },
+    {
+      "line": 15,
+      "text": "life-blood flows in your locale. Now drift down that flow to the sea. Though still AROLCLE"
+    },
+    {
+      "line": 18,
+      "text": "a : Ocean-consciousness is inescapably planetary. Just so the salty first : 03 pages of this"
+    },
+    {
+      "line": 21,
+      "text": "Oceans Issue. (The last 40 pages are CQ business as usual.)"
+    },
+    {
+      "line": 23,
+      "text": "The guest-editors of the section are experienced on three valuable counts - Biitay edit,"
+    },
+    {
+      "line": 24,
+      "text": "they know nautical material as few alive, and they mess with boats. Working out of"
+    },
+    {
+      "line": 25,
+      "text": "Penobscot Bay in Maine, George Putz and Peter Spectre have co-edited 6% volumes of"
+    },
+    {
+      "line": 26,
+      "text": "_. The Mariner’s Catalog, a wondrous access-and-assessment publication. (A seventh volume"
+    },
+    {
+      "line": 27,
+      "text": "is due late this fall.) Over the years they have accumulated material and ideas too oceanic"
+    },
+    {
+      "line": 28,
+      "text": "for their boat-oriented catalogs but just right for CoEvolution. Hence ahappy collaboration"
+    },
+    {
+      "line": 29,
+      "text": "this summer in Sausalito - different coast, different ocean, same water, same truth."
+    },
+    {
+      "line": 31,
+      "text": "I keep coming back to a remark by David Crosby, the public musician and private"
+    },
+    {
+      "line": 32,
+      "text": "mariner, that turned up in Rolling Stone a few years ago. For me it sums up what the sea"
+    },
+    {
+      "line": 33,
+      "text": "does for the individual and what it may yet do for humankind. Crosby said:"
+    },
+    {
+      "line": 36,
+      "text": "“You can’t bullshit the ocean. It’s not listening, you know what I mean?”"
+    },
+    {
+      "line": 39,
+      "text": "-Stewart Brand"
+    },
+    {
+      "line": 40,
+      "text": "Editor, The CoEvolution Quarterly"
+    },
+    {
+      "line": 45,
+      "text": "es ak |"
+    },
+    {
+      "line": 55,
+      "text": "PME ae Se aoe ee yy"
+    },
+    {
+      "line": 56,
+      "text": "Rah ech os"
+    },
+    {
+      "line": 62,
+      "text": "Quarterly"
+    },
+    {
+      "line": 65,
+      "text": "No.23 Fall 1979"
+    },
+    {
+      "line": 68,
+      "text": "The Ocean - Full Wilderness,"
+    },
+    {
+      "line": 69,
+      "text": "Empty Wilderness by George Putz"
+    },
+    {
+      "line": 70,
+      "text": "Mike Brown’s Letter"
+    },
+    {
+      "line": 71,
+      "text": "Modeling the Global Carbon"
+    },
+    {
+      "line": 72,
+      "text": "Cycle by Phil Conkling"
+    },
+    {
+      "line": 73,
+      "text": "A Short History of America"
+    },
+    {
+      "line": 74,
+      "text": "by R. Crumb"
+    },
+    {
+      "line": 75,
+      "text": "Ocean Power: A Salt"
+    },
+    {
+      "line": 76,
+      "text": "Solution by Gerald Wick"
+    },
+    {
+      "line": 77,
+      "text": "Salt Tolerant Plants"
+    },
+    {
+      "line": 78,
+      "text": "by G. Fred Somers"
+    },
+    {
+      "line": 79,
+      "text": "“Large” Redefined"
+    },
+    {
+      "line": 82,
+      "text": "Future Shock in the Fishing"
+    },
+    {
+      "line": 85,
+      "text": "Business by Joe Upton"
+    }
+  ]
+}

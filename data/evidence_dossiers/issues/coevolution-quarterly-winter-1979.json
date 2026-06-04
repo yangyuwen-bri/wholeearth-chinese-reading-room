@@ -1,0 +1,680 @@
+{
+  "title": "CoEvolution Quarterly, Winter 1979",
+  "identifier": "coevolutionquart00unse_21",
+  "year": 1979,
+  "season": "Winter",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 153,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1979",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_21",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_21/coevolutionquart00unse_21.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_21/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_21_djvu.txt",
+  "ocr_chars": 546102,
+  "significant_line_count": 13868,
+  "theme_counts": {
+    "software_computing": 69,
+    "tools_craft": 237,
+    "ecology_place": 520,
+    "learning_media": 316,
+    "community_politics": 320
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 5623,
+      "page": 350,
+      "title": "B.C. -",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_21/page/n351_w500.jpg"
+    },
+    {
+      "line": 5668,
+      "page": 120,
+      "title": "A.D. -",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_21/page/n121_w500.jpg"
+    },
+    {
+      "line": 9428,
+      "page": 1,
+      "title": "AND FINEST D IN DUDS",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_21/page/n2_w500.jpg"
+    },
+    {
+      "line": 9865,
+      "page": 6,
+      "title": "THOPL OLS SURGERY",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_21/page/n7_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 5623,
+      "text": "350 B.C. -",
+      "score": 8
+    },
+    {
+      "line": 5668,
+      "text": "120 A.D. -",
+      "score": 8
+    },
+    {
+      "line": 9428,
+      "text": "1 AND FINEST D IN DUDS",
+      "score": 8
+    },
+    {
+      "line": 9865,
+      "text": "6 THOPL OLS SURGERY",
+      "score": 8
+    },
+    {
+      "line": 19544,
+      "text": "1 DON'T HAFTO",
+      "score": 8
+    },
+    {
+      "line": 15431,
+      "text": "APPEAR AT BOTH YOUR APPLICATION INTERVIEW",
+      "score": 6
+    },
+    {
+      "line": 286,
+      "text": "Community Communications",
+      "score": 5
+    },
+    {
+      "line": 19019,
+      "text": "chose. Energy was plentiful. Ecology a rumor. But",
+      "score": 5
+    },
+    {
+      "line": 21913,
+      "text": "Ay systems, community, shelter,",
+      "score": 5
+    },
+    {
+      "line": 5,
+      "text": "A DAR",
+      "score": 4
+    },
+    {
+      "line": 195,
+      "text": "42 2,500 YEARS OF SOLAR ARCHITEC-",
+      "score": 4
+    },
+    {
+      "line": 390,
+      "text": "PANG LO] f",
+      "score": 4
+    },
+    {
+      "line": 405,
+      "text": "ERULNY R11 7",
+      "score": 4
+    },
+    {
+      "line": 1111,
+      "text": "WORK MAKES MAN FREE,",
+      "score": 4
+    },
+    {
+      "line": 1866,
+      "text": "OPPRESSVNE DICHOTOMIES",
+      "score": 4
+    },
+    {
+      "line": 1870,
+      "text": "OF THE WORLD:",
+      "score": 4
+    },
+    {
+      "line": 1873,
+      "text": "THE PEMINGT",
+      "score": 4
+    },
+    {
+      "line": 1887,
+      "text": "THE MARLST era 3 | ; .",
+      "score": 4
+    },
+    {
+      "line": 1912,
+      "text": "THE ConSERIATIVES",
+      "score": 4
+    },
+    {
+      "line": 1915,
+      "text": "VICW OF THE",
+      "score": 4
+    },
+    {
+      "line": 1916,
+      "text": "WORLD:",
+      "score": 4
+    },
+    {
+      "line": 1930,
+      "text": "THE LIBERAL'S",
+      "score": 4
+    },
+    {
+      "line": 2002,
+      "text": "THE ANARCHIST |",
+      "score": 4
+    },
+    {
+      "line": 2003,
+      "text": "ViAW OF THE",
+      "score": 4
+    },
+    {
+      "line": 2010,
+      "text": "THE FUNDAMENTAUST",
+      "score": 4
+    },
+    {
+      "line": 2015,
+      "text": "WORLD : AN",
+      "score": 4
+    },
+    {
+      "line": 2016,
+      "text": "THE PARANOID",
+      "score": 4
+    },
+    {
+      "line": 2018,
+      "text": "VIEW OF THE",
+      "score": 4
+    },
+    {
+      "line": 2024,
+      "text": "RD WORLD",
+      "score": 4
+    },
+    {
+      "line": 2028,
+      "text": "UP YouR OWN",
+      "score": 4
+    },
+    {
+      "line": 2032,
+      "text": "INVENT NEW",
+      "score": 4
+    },
+    {
+      "line": 2036,
+      "text": "ENJOY THE RIGHTEDUS",
+      "score": 4
+    },
+    {
+      "line": 2037,
+      "text": "INDIGNATION. OF",
+      "score": 4
+    },
+    {
+      "line": 2038,
+      "text": "DUALISTIC THIN KING:",
+      "score": 4
+    },
+    {
+      "line": 2120,
+      "text": "43 SECONDS LATER, 1800FEET |",
+      "score": 4
+    },
+    {
+      "line": 2121,
+      "text": "OVER HROSHIMA, THE ATOM BOMB",
+      "score": 4
+    },
+    {
+      "line": 2122,
+      "text": "CALLED*L/TTLE Boy*EXPLOD,",
+      "score": 4
+    },
+    {
+      "line": 2123,
+      "text": "EMITTING A HOT WHE GHP on",
+      "score": 4
+    },
+    {
+      "line": 2124,
+      "text": "IT WAS AS IF TEN THOUSANDS OF",
+      "score": 4
+    },
+    {
+      "line": 2125,
+      "text": "FLASHBULBS HAD EXPLODED AT ONCE, -",
+      "score": 4
+    },
+    {
+      "line": 2925,
+      "text": "TENPIAIPUr :9COOT AN “YIOA MON",
+      "score": 4
+    },
+    {
+      "line": 2926,
+      "text": "“9S PUZP \"M E€ “YIOA MAN JO",
+      "score": 4
+    },
+    {
+      "line": 2940,
+      "text": "SIA - -_™,",
+      "score": 4
+    },
+    {
+      "line": 2956,
+      "text": "NEP MPP HNC Oqrq WIY>4 WOLIZ0U0M",
+      "score": 4
+    },
+    {
+      "line": 2983,
+      "text": "[TVSUAAINA S.",
+      "score": 4
+    },
+    {
+      "line": 2989,
+      "text": "‘SUIUROU ITJIJUOTIS OU pue dDUeD",
+      "score": 4
+    },
+    {
+      "line": 2990,
+      "text": "-IJIUSIS DIUISOD OU dAeY SToSuUe SIFY",
+      "score": 4
+    },
+    {
+      "line": 3016,
+      "text": "ue JOU 4sIsO[OUISOD & JOUITIOU 94} PUeIsIOpUN JOU PIp 31UYIS",
+      "score": 4
+    },
+    {
+      "line": 3021,
+      "text": "A[JUSTUIAUOD U99q MOTA-PTIOM , Are",
+      "score": 4
+    },
+    {
+      "line": 3056,
+      "text": "UOT}IaTIOI & OF UOTJINPOIUT oy) UT",
+      "score": 4
+    },
+    {
+      "line": 3072,
+      "text": "SQGINOILLNTOATA Ad",
+      "score": 4
+    },
+    {
+      "line": 3449,
+      "text": "e' NGM,",
+      "score": 4
+    },
+    {
+      "line": 3891,
+      "text": "an TES PTSD",
+      "score": 4
+    },
+    {
+      "line": 4338,
+      "text": "SENS GREE SIE RS Oar eas",
+      "score": 4
+    },
+    {
+      "line": 4374,
+      "text": "Me 454), SOR",
+      "score": 4
+    },
+    {
+      "line": 4662,
+      "text": "NA TE",
+      "score": 4
+    },
+    {
+      "line": 4678,
+      "text": "TH 10",
+      "score": 4
+    },
+    {
+      "line": 4763,
+      "text": "UNDER",
+      "score": 4
+    },
+    {
+      "line": 4841,
+      "text": "\"PG-LGPL2 EOP",
+      "score": 4
+    },
+    {
+      "line": 5477,
+      "text": "KSA 4",
+      "score": 4
+    },
+    {
+      "line": 5487,
+      "text": "CNR PRT NOK NL My",
+      "score": 4
+    },
+    {
+      "line": 5563,
+      "text": "912,500 SUNRISES AFTER XENEPHON AND WE’RE.",
+      "score": 4
+    },
+    {
+      "line": 5608,
+      "text": "93177. -SB",
+      "score": 4
+    },
+    {
+      "line": 5611,
+      "text": "RECONSTRUCTION BY A. ZIPPELIUS WATERCOLOR BY E. WOLFSFELD",
+      "score": 4
+    },
+    {
+      "line": 5620,
+      "text": "EARLY SOLAR ARCHITECTURE",
+      "score": 4
+    },
+    {
+      "line": 5701,
+      "text": "EDWIN D. THATCHER/DAVID WILLS",
+      "score": 4
+    },
+    {
+      "line": 5704,
+      "text": "THE SOUTHERN",
+      "score": 4
+    },
+    {
+      "line": 5706,
+      "text": "TERME DEL FORO",
+      "score": 4
+    },
+    {
+      "line": 5709,
+      "text": "SUN PENETRATION",
+      "score": 4
+    },
+    {
+      "line": 5710,
+      "text": "DECEMBER 21-12:00",
+      "score": 4
+    },
+    {
+      "line": 5716,
+      "text": "SOLAR POWER",
+      "score": 4
+    },
+    {
+      "line": 5719,
+      "text": "LEONARDO da VINCI",
+      "score": 4
+    },
+    {
+      "line": 5869,
+      "text": "SOLAR GREENHOUSES",
+      "score": 4
+    },
+    {
+      "line": 5982,
+      "text": "S. GRIBELIN",
+      "score": 4
+    },
+    {
+      "line": 6037,
+      "text": "SOLAR WATER HEATERS",
+      "score": 4
+    },
+    {
+      "line": 6046,
+      "text": "RY <0 4",
+      "score": 4
+    },
+    {
+      "line": 6089,
+      "text": "<2 MARCA REGISTRADA",
+      "score": 4
+    },
+    {
+      "line": 6098,
+      "text": "i/ DOBLE TUBERIA",
+      "score": 4
+    },
+    {
+      "line": 6099,
+      "text": "]| QUE GARANTIZAI",
+      "score": 4
+    },
+    {
+      "line": 6100,
+      "text": "CALOR CONTINUO,",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 112,
+      "term": "whole systems",
+      "snippet": "22 Letter to the Regents of the University of California by Gregory Bateson Understanding Whole Systems 24 Gaia 25 The Life Science #» Environmental Conservation = The Martian Landscape"
+    },
+    {
+      "line": 286,
+      "term": "community",
+      "snippet": "| Crumb liked a lot. ) Among CQ staff the cover is controversial. See page 144. Join the fray. -Stewart Brand (SB) Community Communications 62 HOW MODERN HOSPITALS GOT 100 Pig Ignorant: Life Against poet by _ THAT WAY by Roslyn Lindheim Peter Laurie 74 Laborers . . Photographs by Suzanne Arms 102 Notice of Intended Action and Right"
+    },
+    {
+      "line": 302,
+      "term": "learning",
+      "snippet": "Was Right = The Family Circle Guide 118 Heavily Punk Chorus by J. D. Evelegh ; to Self-Help 121 New Wave in Print by Jay Kinney 86 The Small Towns Book # Welfare ‘Learning | recipients demand right to be frozen m= , 2 Community Technology r126 Background Music by Marylee Mitcham _ [O77 John Jay Janney’s Virginia m= 131 Born-Again Lover by Susan Dollenmaier"
+    },
+    {
+      "line": 304,
+      "term": "community",
+      "snippet": "86 The Small Towns Book # Welfare ‘Learning | recipients demand right to be frozen m= , 2 Community Technology r126 Background Music by Marylee Mitcham _ [O77 John Jay Janney’s Virginia m= 131 Born-Again Lover by Susan Dollenmaier The ih eugene a “Chasing Cars” 136 _- Bearzy Wearzies by R. Crumb eee pe oe 140 Human Characteristics and School"
+    },
+    {
+      "line": 308,
+      "term": "learning",
+      "snippet": "The ih eugene a “Chasing Cars” 136 _- Bearzy Wearzies by R. Crumb eee pe oe 140 Human Characteristics and School Nomadics Learning = Any Child Can Write 88 . Strange Fish, Strange Sport Business s ~ ae a coe aemareas © 141 Masthead = Thank you World ot ree Cleat Bicycle a 142 CoEvolution Quarterly - Winter ’79-’80"
+    },
+    {
+      "line": 601,
+      "term": "interview",
+      "snippet": "price do we pay for the miracle of Factory? In a 1971 interview Albert Speer, Hitler’s second in command, was asked (in his prison cell in Spandau): if Hitler had admitted to him that he"
+    },
+    {
+      "line": 614,
+      "term": "interview",
+      "snippet": "“You’re killing the Jews? That is insane! I need, them to work in our Factories!” In the same interview Speer said: “It is this vast gulf Winter 79/80 - For money to earn me so [ can write in the future"
+    },
+    {
+      "line": 919,
+      "term": "interview",
+      "snippet": "health record, police record, military record, social security #, how far in school, everywhere worked, why quit or fired, Everything written here is true, signature, interview, the long wait, the call ““You’re hired” - Could still see themselves led through the factory to the spot they would work on, 7"
+    },
+    {
+      "line": 1076,
+      "term": "tools",
+      "snippet": "So, after suicide invites you through the naked mirror +. and poetry dares you to dive headfirst into the sky, ; After memorizing the discovery of fire, tools, speech, ; agriculture, industry, And all the inventors, inventions and dates of the fist 10,000 years you got a 100 on in ikon | Ry"
+    },
+    {
+      "line": 1469,
+      "term": "energy",
+      "snippet": "Washington, D.C. 20036 The Worldwatch Paper Series 1. The Other Energy Crisis: Firewood by Erik Eckholm. 2. The Politics and Responsibility of the North American Breadbasket by Lester R. Brown. 3. Women in Politics: A Global Review"
+    },
+    {
+      "line": 1476,
+      "term": "energy",
+      "snippet": "3. Women in Politics: A Global Review by Kathleen Newland 4. Energy: The Case for Conservation by Denis Hayes. 5. Twenty-two Dimensions of the Population Problem by Lester R. Brown, Patricia L. McGrath, and Bruce Stokes."
+    },
+    {
+      "line": 1499,
+      "term": "energy",
+      "snippet": "10. Health: The Family Planning Factor by Erik Eckholm and Kathleen Newland. 11. Energy: The Solar Prospect by Denis Hayes. 12. Filling the Family Planning Gap by Bruce Stokes. 13. Spreading Deserts - The Hand of Man by Erik Eckholm and Lester R. Brown. ;"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "iary"
+    },
+    {
+      "line": 2,
+      "text": "= 4; a"
+    },
+    {
+      "line": 3,
+      "text": "> ) ocean"
+    },
+    {
+      "line": 4,
+      "text": "~ Xv"
+    },
+    {
+      "line": 5,
+      "text": "A DAR"
+    },
+    {
+      "line": 10,
+      "text": "As) 4 ues"
+    },
+    {
+      "line": 11,
+      "text": "4, 4 vie 4, e a oy)"
+    },
+    {
+      "line": 17,
+      "text": "__--- aes"
+    },
+    {
+      "line": 39,
+      "text": "mall"
+    },
+    {
+      "line": 42,
+      "text": "- ee,” aoe 4 af ie Tap on L4p. i 7m Soa: )| oa"
+    },
+    {
+      "line": 45,
+      "text": "ee re! a. Fe"
+    },
+    {
+      "line": 48,
+      "text": "tin ah a"
+    },
+    {
+      "line": 51,
+      "text": "Grandma sneezing"
+    },
+    {
+      "line": 54,
+      "text": "Roadrunner,"
+    },
+    {
+      "line": 55,
+      "text": "standing next to"
+    },
+    {
+      "line": 56,
+      "text": "beaver, makes an"
+    },
+    {
+      "line": 57,
+      "text": "observation"
+    },
+    {
+      "line": 58,
+      "text": "regarding the"
+    },
+    {
+      "line": 59,
+      "text": "nature of the"
+    },
+    {
+      "line": 60,
+      "text": "times. Beaver"
+    },
+    {
+      "line": 61,
+      "text": "doesn’t answer."
+    },
+    {
+      "line": 62,
+      "text": "He’s watching"
+    },
+    {
+      "line": 63,
+      "text": "maple leaves"
+    },
+    {
+      "line": 64,
+      "text": "fall, leaf by leaf."
+    },
+    {
+      "line": 67,
+      "text": "i a ie iia aaa"
+    },
+    {
+      "line": 70,
+      "text": "Lt CREE Se ae Be SEES Spd EA"
+    },
+    {
+      "line": 79,
+      "text": "Simba (14 yrs. old) likes to scratch her head on my pen"
+    },
+    {
+      "line": 80,
+      "text": "whenever I write in my journal. So | give her a page"
+    },
+    {
+      "line": 81,
+      "text": "and let her scratch away, while | look out the window."
+    },
+    {
+      "line": 82,
+      "text": "Later | put a caption on it."
+    },
+    {
+      "line": 85,
+      "text": "Fred Schowalter"
+    },
+    {
+      "line": 86,
+      "text": "Oakland, California"
+    },
+    {
+      "line": 89,
+      "text": "paso Re | Court jester being thrown from"
+    },
+    {
+      "line": 90,
+      "text": ": the cliff by the King’s pig."
+    },
+    {
+      "line": 93,
+      "text": "1 Cat Art by Simba and Fred Schowalter"
+    },
+    {
+      "line": 94,
+      "text": "Politics"
+    },
+    {
+      "line": 95,
+      "text": "4. FACTORY by Antler"
+    },
+    {
+      "line": 98,
+      "text": "18 Worldwatch Papers"
+    },
+    {
+      "line": 101,
+      "text": "19 American Ways With Resources and"
+    },
+    {
+      "line": 102,
+      "text": "Techniques # In Our Own Interest ="
+    }
+  ]
+}

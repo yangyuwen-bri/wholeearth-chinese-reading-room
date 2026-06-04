@@ -1,0 +1,674 @@
+{
+  "title": "Whole Earth, Summer 2001",
+  "identifier": "wholeearthsummer00unse_3",
+  "year": 2001,
+  "season": "Summer",
+  "collection": "Whole Earth Magazine",
+  "collection_zh": "Whole Earth Magazine",
+  "pages": 107,
+  "url": "https://wholeearth.info/p/whole-earth-summer-2001",
+  "archive_url": "https://archive.org/details/wholeearthsummer00unse_3",
+  "pdf_url": "https://archive.org/download/wholeearthsummer00unse_3/wholeearthsummer00unse_3.pdf",
+  "cover_url": "https://archive.org/download/wholeearthsummer00unse_3/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthsummer00unse_3_djvu.txt",
+  "ocr_chars": 401046,
+  "significant_line_count": 10388,
+  "theme_counts": {
+    "software_computing": 204,
+    "tools_craft": 400,
+    "ecology_place": 410,
+    "learning_media": 172,
+    "community_politics": 356
+  },
+  "top_themes": [
+    "ecology_place",
+    "tools_craft",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 10312,
+      "page": 4,
+      "title": "EMBARCADERO",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_3/page/n5_w500.jpg"
+    },
+    {
+      "line": 10381,
+      "page": 8,
+      "title": "OG8 8B",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_3/page/n9_w500.jpg"
+    },
+    {
+      "line": 11809,
+      "page": 24,
+      "title": "SUMMER 2001 - WHOLE EARTH",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_3/page/n25_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 10312,
+      "text": "4 EMBARCADERO",
+      "score": 8
+    },
+    {
+      "line": 10381,
+      "text": "8 OG8 8B",
+      "score": 8
+    },
+    {
+      "line": 11809,
+      "text": "24 SUMMER 2001 - WHOLE EARTH",
+      "score": 8
+    },
+    {
+      "line": 13951,
+      "text": "GTOM ECOLOGY © FAKING NATURE * TOP RESTO!",
+      "score": 6
+    },
+    {
+      "line": 15649,
+      "text": "CONTROLLED ENERGY CORPORATION",
+      "score": 6
+    },
+    {
+      "line": 15743,
+      "text": "+3 NON ECOLOGY",
+      "score": 6
+    },
+    {
+      "line": 1682,
+      "text": "participate in the Energy Star Program.",
+      "score": 5
+    },
+    {
+      "line": 2564,
+      "text": "ware program that tracks energy",
+      "score": 5
+    },
+    {
+      "line": 7,
+      "text": "GUEST EDITOR: BRUCE STERLING",
+      "score": 4
+    },
+    {
+      "line": 49,
+      "text": "RAINFOREST ie",
+      "score": 4
+    },
+    {
+      "line": 50,
+      "text": "ACTION NETWORK",
+      "score": 4
+    },
+    {
+      "line": 54,
+      "text": "SAN FRANCISCO, CA.94104_",
+      "score": 4
+    },
+    {
+      "line": 55,
+      "text": "(415) 398- “4404 WWW.RAN.ORG ~",
+      "score": 4
+    },
+    {
+      "line": 167,
+      "text": "NEW REVISED EDITION",
+      "score": 4
+    },
+    {
+      "line": 190,
+      "text": "UNIVERSITY OF CALIFORNIA PRESS",
+      "score": 4
+    },
+    {
+      "line": 229,
+      "text": "WHORE EAR EH:",
+      "score": 4
+    },
+    {
+      "line": 233,
+      "text": "105 SUMMER 2001 The LITERARY VIEW oo",
+      "score": 4
+    },
+    {
+      "line": 239,
+      "text": "TECHNOLOGY:",
+      "score": 4
+    },
+    {
+      "line": 240,
+      "text": "GRAND SCHEMES nen7, the BITCH GODDESS ... 40",
+      "score": 4
+    },
+    {
+      "line": 247,
+      "text": "TEXAS GREEN 19 The VIRIDIAN VIEW of DESIGN... 49",
+      "score": 4
+    },
+    {
+      "line": 278,
+      "text": ", =F ITND",
+      "score": 4
+    },
+    {
+      "line": 304,
+      "text": "FUTUREFEEDFORWARD srt bs)",
+      "score": 4
+    },
+    {
+      "line": 321,
+      "text": "BEING GREEN IN 2001 AD 84",
+      "score": 4
+    },
+    {
+      "line": 336,
+      "text": "BACKMATTER eo |",
+      "score": 4
+    },
+    {
+      "line": 417,
+      "text": "NOTICE TO READERS:",
+      "score": 4
+    },
+    {
+      "line": 418,
+      "text": "As OF PRESS TIME, IT’S TOO EARLY TO TELL,",
+      "score": 4
+    },
+    {
+      "line": 419,
+      "text": "BUT THE FALL ISSUE MAY BE DELAYED, DUE TO",
+      "score": 4
+    },
+    {
+      "line": 420,
+      "text": "FINANCIAL RESTRUCTURING AND CASH FLOW",
+      "score": 4
+    },
+    {
+      "line": 421,
+      "text": "ISSUES. IN CASE THAT HAPPENS, WE APOLO-",
+      "score": 4
+    },
+    {
+      "line": 429,
+      "text": "VIRIDIANS INVADE WHOLE EARTH, SEIZE MEANS OF INFORMATION",
+      "score": 4
+    },
+    {
+      "line": 430,
+      "text": "BY BRUCE STERLING, VIRIDIAN POPE*EMPERSR",
+      "score": 4
+    },
+    {
+      "line": 508,
+      "text": "PRESENCE DU FUTUR",
+      "score": 4
+    },
+    {
+      "line": 513,
+      "text": "MIRRORSHADES",
+      "score": 4
+    },
+    {
+      "line": 516,
+      "text": "THE CYBERPUNK ANTHOLOGY",
+      "score": 4
+    },
+    {
+      "line": 519,
+      "text": "WERLIAN GTBSON GREG BEAR PAT CADIGAW",
+      "score": 4
+    },
+    {
+      "line": 520,
+      "text": "PY KUCKER JOHN SHIRLEY LEWIS SHINER",
+      "score": 4
+    },
+    {
+      "line": 598,
+      "text": "SUMMER 200! -",
+      "score": 4
+    },
+    {
+      "line": 681,
+      "text": "F’BRUCE",
+      "score": 4
+    },
+    {
+      "line": 691,
+      "text": "HOLE EARTH 58%)",
+      "score": 4
+    },
+    {
+      "line": 709,
+      "text": "GREG BEAR ’",
+      "score": 4
+    },
+    {
+      "line": 759,
+      "text": "@® BRUCE STERLING",
+      "score": 4
+    },
+    {
+      "line": 775,
+      "text": "ORE =SUMMER 200! - WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 778,
+      "text": "INTRODUCING BRUCE",
+      "score": 4
+    },
+    {
+      "line": 858,
+      "text": "2 4 7 . , F",
+      "score": 4
+    },
+    {
+      "line": 877,
+      "text": "BY ALAN AT ISSON",
+      "score": 4
+    },
+    {
+      "line": 980,
+      "text": "LOTENLEN,",
+      "score": 4
+    },
+    {
+      "line": 1022,
+      "text": "RESOUNDING WINNER:",
+      "score": 4
+    },
+    {
+      "line": 1028,
+      "text": "LAATT QUG",
+      "score": 4
+    },
+    {
+      "line": 1060,
+      "text": "SUMMER 200! - WHOLE EARTH 9Y@#)",
+      "score": 4
+    },
+    {
+      "line": 1134,
+      "text": "/K FUTURCPROOFXD POW2R MX T2R",
+      "score": 4
+    },
+    {
+      "line": 1137,
+      "text": "A DIFF2RLNT SCRIPT FOR AN INFORMATION APPLIANCY",
+      "score": 4
+    },
+    {
+      "line": 1205,
+      "text": "BY NATALIZ JERZMIJENKO",
+      "score": 4
+    },
+    {
+      "line": 1235,
+      "text": "SUMMER 2001-WHOLE EARTH INGE",
+      "score": 4
+    },
+    {
+      "line": 1303,
+      "text": "O22 SUMMER 200! - WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 1487,
+      "text": "SUMMER 200! - WHOLE EARTH I3Y@)",
+      "score": 4
+    },
+    {
+      "line": 1567,
+      "text": "Own SUMMER 2001 - WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 1779,
+      "text": "SUMMER 200! - WHOLE EARTH IBY)",
+      "score": 4
+    },
+    {
+      "line": 1878,
+      "text": "800/87 -POLE",
+      "score": 4
+    },
+    {
+      "line": 1977,
+      "text": "e2KIG SUMMER 200! - WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 2030,
+      "text": "800/BENTLEY (800/236-8539)",
+      "score": 4
+    },
+    {
+      "line": 2153,
+      "text": "PAACE",
+      "score": 4
+    },
+    {
+      "line": 2277,
+      "text": "SUMMER 2001- WHOLE EARTH IZS@s)",
+      "score": 4
+    },
+    {
+      "line": 2437,
+      "text": "ASKO USA, Inc.",
+      "score": 4
+    },
+    {
+      "line": 2524,
+      "text": "BAXI S.p.A.",
+      "score": 4
+    },
+    {
+      "line": 2529,
+      "text": "BAXI-USA",
+      "score": 4
+    },
+    {
+      "line": 2574,
+      "text": "eRIS SUMMER 200! - WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 2673,
+      "text": "DK THYyrE",
+      "score": 4
+    },
+    {
+      "line": 2681,
+      "text": "TITIDN",
+      "score": 4
+    },
+    {
+      "line": 2793,
+      "text": "R20 SUMMER 200! - WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 2968,
+      "text": "UNDER THE TEXAS LAWs",
+      "score": 4
+    },
+    {
+      "line": 3006,
+      "text": "(ESPs).",
+      "score": 4
+    },
+    {
+      "line": 3143,
+      "text": "WHOLE EARTH 2IN8%:)",
+      "score": 4
+    },
+    {
+      "line": 3268,
+      "text": "Oe RZB SUMMER 200!",
+      "score": 4
+    },
+    {
+      "line": 3271,
+      "text": "NOWNTOWN DOLAK €",
+      "score": 4
+    },
+    {
+      "line": 3342,
+      "text": "- WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 3384,
+      "text": "> OSTA",
+      "score": 4
+    },
+    {
+      "line": 3511,
+      "text": "“GREENER THAN",
+      "score": 4
+    },
+    {
+      "line": 3568,
+      "text": "SUMMER 2001 - WHOLE EARTH 239%}",
+      "score": 4
+    },
+    {
+      "line": 3640,
+      "text": "24 SUMMER 200! - WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 3819,
+      "text": "RESOURCES",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 112,
+      "term": "energy",
+      "snippet": "“{A] look at water from many unexpected perspectives. Wide-ranging, eclectic, exciting, the pages contain wild energy. | don't know of another collection doing anything like this.” - Gary Lawless, Department of English, Bates College, editor of Poems for the Wild Earth"
+    },
+    {
+      "line": 262,
+      "term": "learning",
+      "snippet": "THINK TANKS cn Gas Web Sphinx 5g General Thinking: A Digital Guild... 28 Joel Westerberg & Mikael Hus Tucker Viemeister Learning to Manage Hybrid Vigor so While Managing to Learn oo Denise Caruso Garry Peterson Fuse Foundation recey! Green Maps Oe"
+    },
+    {
+      "line": 433,
+      "term": "community",
+      "snippet": "VIRIDIANS INVADE WHOLE EARTH, SEIZE MEANS OF INFORMATION BY BRUCE STERLING, VIRIDIAN POPE*EMPERSR “Virtual community” was once a far- fetched notion from San Francisco cyber- space. As a Whole Earth reader, you were hip to this concept long before normal"
+    },
+    {
+      "line": 455,
+      "term": "community",
+      "snippet": "Guest Editor, hang out cyberspatially. The WELL is a primeval, cranky, yet potent virtual community in San Francisco (www.well.com/conf/mirrorshades/). For this issue of Whole Earth, I Despite the fact that I use a WELL address in have shaken down my digital California, I live in central Texas. So when my network and squeezed it into"
+    },
+    {
+      "line": 480,
+      "term": "tools",
+      "snippet": "industrial titans such as Henry Ford, Thomas point here. Instead, these are Edison, and John D. Rockefeller. These industries hands-on confessions about our are touchingly traditional, but you and I have to new tools, new ideas, and new breathe our own exhaust, plus Henry’s, Tom's, and approaches. John’s, because we are historically downwind from them and COs, stays up in the sky for centuries. My own line of work is science"
+    },
+    {
+      "line": 592,
+      "term": "tools",
+      "snippet": "attitude into our entire engage- ment with material reality. We'd like to think about our tools, ideas and practices as if we were native denizens of some wiser and more advanced civilization!"
+    },
+    {
+      "line": 922,
+      "term": "energy",
+      "snippet": "One of the most offensive artifacts of the twentieth century is the standard household energy meter. This ugly gizmo Clings like a barnacle to the out- side of your home, readable only by functionaries. Clumsily painted in bat-"
+    },
+    {
+      "line": 937,
+      "term": "energy",
+      "snippet": "This crass device is designed to leave you in stellar ignorance of your own energy usage. It publicly brands you as a helpless peon, a technically illiterate source of cash for remote, uncaring utility lords."
+    },
+    {
+      "line": 1000,
+      "term": "energy",
+      "snippet": "The Wattbug panel of judges-including sustainability, energy, and design luminaries such as Amory Lovins, John Todd, Nancy Jack Todd, and Donella Meadows-made the first cut. Ten finalists were invited to submit prototypes"
+    },
+    {
+      "line": 1038,
+      "term": "energy",
+      "snippet": "meter into a friendly little creature with a glowing tail (red, yellow, or green, depending on your current energy consumption) and an expressive face (purrs and smiles for low-con- sumption green, squeaks and frowns for high- consumption red}. The “eyes” were LED read-"
+    },
+    {
+      "line": 1071,
+      "term": "energy",
+      "snippet": "help build the Wattbug’s innards, or to mar- ket the final product. The timing (California's energy crisis) could not have been better. People have begun to clamor, in a small way, for real Wattbugs. And that's where the story...stops. For the"
+    },
+    {
+      "line": 1256,
+      "term": "energy",
+      "snippet": "relationship. You are the one with genuine awareness, who is making smart decisions about your energy consumption. The power meter merely does useful, dumb things that are inhumanly accurate, such as measuring your electricity consumption accurately in"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 7,
+      "text": "GUEST EDITOR: BRUCE STERLING"
+    },
+    {
+      "line": 10,
+      "text": "Only 20 percent of the Earth's old"
+    },
+    {
+      "line": 11,
+      "text": "growth forests remain intact today."
+    },
+    {
+      "line": 14,
+      "text": "These majestic treasures have been cut"
+    },
+    {
+      "line": 15,
+      "text": "at an alarming rate in recent years,"
+    },
+    {
+      "line": 16,
+      "text": "only to be turned into products like"
+    },
+    {
+      "line": 17,
+      "text": "lawn chairs, toilet paper and dispos-"
+    },
+    {
+      "line": 18,
+      "text": "able office supplies. However, as a"
+    },
+    {
+      "line": 20,
+      "text": "result of public pressure from people"
+    },
+    {
+      "line": 21,
+      "text": "like you, Some 300 companies includ-"
+    },
+    {
+      "line": 22,
+      "text": "ing Home Depot, Kinko's, and top"
+    },
+    {
+      "line": 23,
+      "text": "homebuilder Kaufman & Broad have"
+    },
+    {
+      "line": 24,
+      "text": "committed to rapidly phase out their"
+    },
+    {
+      "line": 25,
+      "text": "sale or use of wood from endangered"
+    },
+    {
+      "line": 26,
+      "text": "forests. These corporations make up"
+    },
+    {
+      "line": 28,
+      "text": "~ some 25 percent of the wood market in"
+    },
+    {
+      "line": 29,
+      "text": "the U.S., and the numbers continue to"
+    },
+    {
+      "line": 30,
+      "text": "_ grow. Today's transformation in the"
+    },
+    {
+      "line": 32,
+      "text": "~ wood market means that tomorrow our"
+    },
+    {
+      "line": 34,
+      "text": "ancient forests may still be sending."
+    },
+    {
+      "line": 37,
+      "text": "Your action can make a difference."
+    },
+    {
+      "line": 39,
+      "text": "With your help, we at Rainforest Action"
+    },
+    {
+      "line": 40,
+      "text": "Network can continue to move ald"
+    },
+    {
+      "line": 41,
+      "text": "growth products out of the U.S. &"
+    },
+    {
+      "line": 42,
+      "text": "place and protect the planet's la§t"
+    },
+    {
+      "line": 43,
+      "text": "ancient forests. Please send yout"
+    },
+    {
+      "line": 46,
+      "text": "contribution today. 4"
+    },
+    {
+      "line": 49,
+      "text": "RAINFOREST ie"
+    },
+    {
+      "line": 50,
+      "text": "ACTION NETWORK"
+    },
+    {
+      "line": 53,
+      "text": "221 PINE STREET, SUITE 500 |"
+    },
+    {
+      "line": 54,
+      "text": "SAN FRANCISCO, CA.94104_"
+    },
+    {
+      "line": 55,
+      "text": "(415) 398- “4404 WWW.RAN.ORG ~"
+    },
+    {
+      "line": 58,
+      "text": "PD nn,"
+    },
+    {
+      "line": 62,
+      "text": "Materials Matter"
+    },
+    {
+      "line": 65,
+      "text": "Toward a Sustainable Materlals Policy"
+    },
+    {
+      "line": 66,
+      "text": "Kenneth Geiser"
+    },
+    {
+      "line": 68,
+      "text": "foreword by Barry Commoner"
+    },
+    {
+      "line": 70,
+      "text": "“Geiser effectively makes the case that"
+    },
+    {
+      "line": 71,
+      "text": "materials matter in a virtual age. He provides"
+    },
+    {
+      "line": 72,
+      "text": "a guide to developing a sustainable materials"
+    }
+  ]
+}

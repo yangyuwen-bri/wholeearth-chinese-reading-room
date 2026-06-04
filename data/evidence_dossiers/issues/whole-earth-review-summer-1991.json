@@ -1,0 +1,800 @@
+{
+  "title": "Whole Earth Review, Summer 1991",
+  "identifier": "wholeearthreview00unse_26",
+  "year": 1991,
+  "season": "Summer",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 151,
+  "url": "https://wholeearth.info/p/whole-earth-review-summer-1991",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_26",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_26/wholeearthreview00unse_26.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_26/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthreview00unse_26_djvu.txt",
+  "ocr_chars": 645029,
+  "significant_line_count": 16600,
+  "theme_counts": {
+    "software_computing": 634,
+    "tools_craft": 260,
+    "ecology_place": 606,
+    "learning_media": 575,
+    "community_politics": 581
+  },
+  "top_themes": [
+    "software_computing",
+    "ecology_place",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 725,
+      "page": 4,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n5_w500.jpg"
+    },
+    {
+      "line": 770,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO, CA 94965 5",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n28_w500.jpg"
+    },
+    {
+      "line": 1169,
+      "page": 8,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n9_w500.jpg"
+    },
+    {
+      "line": 3168,
+      "page": 20,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n21_w500.jpg"
+    },
+    {
+      "line": 3421,
+      "page": 22,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n23_w500.jpg"
+    },
+    {
+      "line": 3710,
+      "page": 24,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n25_w500.jpg"
+    },
+    {
+      "line": 3885,
+      "page": 26,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n27_w500.jpg"
+    },
+    {
+      "line": 4208,
+      "page": 28,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n29_w500.jpg"
+    },
+    {
+      "line": 4794,
+      "page": 32,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n33_w500.jpg"
+    },
+    {
+      "line": 5042,
+      "page": 34,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n35_w500.jpg"
+    },
+    {
+      "line": 5318,
+      "page": 36,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n37_w500.jpg"
+    },
+    {
+      "line": 5548,
+      "page": 38,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n39_w500.jpg"
+    },
+    {
+      "line": 5764,
+      "page": 40,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n41_w500.jpg"
+    },
+    {
+      "line": 6070,
+      "page": 42,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n43_w500.jpg"
+    },
+    {
+      "line": 6551,
+      "page": 46,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n47_w500.jpg"
+    },
+    {
+      "line": 6871,
+      "page": 43,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n44_w500.jpg"
+    },
+    {
+      "line": 7241,
+      "page": 50,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n51_w500.jpg"
+    },
+    {
+      "line": 7634,
+      "page": 52,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n53_w500.jpg"
+    },
+    {
+      "line": 8151,
+      "page": 56,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n57_w500.jpg"
+    },
+    {
+      "line": 9307,
+      "page": 62,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n63_w500.jpg"
+    },
+    {
+      "line": 9917,
+      "page": 66,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n67_w500.jpg"
+    },
+    {
+      "line": 10550,
+      "page": 70,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n71_w500.jpg"
+    },
+    {
+      "line": 11275,
+      "page": 74,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n75_w500.jpg"
+    },
+    {
+      "line": 11638,
+      "page": 716,
+      "title": "WHOLE EARTH REVIEW SUMMER 1991",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_26/page/n717_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 725,
+      "text": "4 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 1169,
+      "text": "8 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 3168,
+      "text": "20 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 3421,
+      "text": "22 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 3710,
+      "text": "24 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 3885,
+      "text": "26 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 4208,
+      "text": "28 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 4794,
+      "text": "32 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 5042,
+      "text": "34 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 5318,
+      "text": "36 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 5548,
+      "text": "38 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 5764,
+      "text": "40 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 6070,
+      "text": "42 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 6551,
+      "text": "46 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 6871,
+      "text": "43 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 7241,
+      "text": "50 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 7634,
+      "text": "52 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 8151,
+      "text": "56 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 9307,
+      "text": "62 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 9917,
+      "text": "66 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 10550,
+      "text": "70 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 11275,
+      "text": "74 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 11638,
+      "text": "716 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 11957,
+      "text": "78 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 12266,
+      "text": "80 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 12882,
+      "text": "84 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 13182,
+      "text": "86 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 13724,
+      "text": "90 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 14158,
+      "text": "92 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 14865,
+      "text": "98 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 10
+    },
+    {
+      "line": 770,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5",
+      "score": 8
+    },
+    {
+      "line": 1097,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 7",
+      "score": 8
+    },
+    {
+      "line": 1382,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 9",
+      "score": 8
+    },
+    {
+      "line": 1734,
+      "text": "27 GATE FIVE ROAD ' SAUSALITO, CA 94965 : :",
+      "score": 8
+    },
+    {
+      "line": 3349,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 21",
+      "score": 8
+    },
+    {
+      "line": 3652,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 23",
+      "score": 8
+    },
+    {
+      "line": 3813,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 25",
+      "score": 8
+    },
+    {
+      "line": 4135,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 27",
+      "score": 8
+    },
+    {
+      "line": 4365,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 29",
+      "score": 8
+    },
+    {
+      "line": 4948,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 33",
+      "score": 8
+    },
+    {
+      "line": 5266,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 35",
+      "score": 8
+    },
+    {
+      "line": 5491,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 37",
+      "score": 8
+    },
+    {
+      "line": 5733,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 39",
+      "score": 8
+    },
+    {
+      "line": 6340,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 43",
+      "score": 8
+    },
+    {
+      "line": 6482,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 45",
+      "score": 8
+    },
+    {
+      "line": 7931,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5 3",
+      "score": 8
+    },
+    {
+      "line": 8079,
+      "text": "27 GATE FIVE ROAD SAUSALITO, C",
+      "score": 8
+    },
+    {
+      "line": 8529,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 57",
+      "score": 8
+    },
+    {
+      "line": 9612,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 63",
+      "score": 8
+    },
+    {
+      "line": 11602,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 75",
+      "score": 8
+    },
+    {
+      "line": 11884,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 77",
+      "score": 8
+    },
+    {
+      "line": 12230,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 79",
+      "score": 8
+    },
+    {
+      "line": 12879,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 83",
+      "score": 8
+    },
+    {
+      "line": 13403,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 87",
+      "score": 8
+    },
+    {
+      "line": 13674,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 89",
+      "score": 8
+    },
+    {
+      "line": 14449,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 93",
+      "score": 8
+    },
+    {
+      "line": 14631,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 95",
+      "score": 8
+    },
+    {
+      "line": 14831,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 97",
+      "score": 8
+    },
+    {
+      "line": 15061,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 99",
+      "score": 8
+    },
+    {
+      "line": 16335,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : 07",
+      "score": 8
+    },
+    {
+      "line": 17480,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : : 5",
+      "score": 8
+    },
+    {
+      "line": 18365,
+      "text": "97 FEET",
+      "score": 8
+    },
+    {
+      "line": 21992,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 659,
+      "text": "LEARNING | 31. CASim",
+      "score": 6
+    },
+    {
+      "line": 840,
+      "text": "6 WHOLE EARTH REVIEW SUMMER 199!",
+      "score": 6
+    },
+    {
+      "line": 1478,
+      "text": "i 0 WHOLE EARTH REVIEW SUMMER 199]",
+      "score": 6
+    },
+    {
+      "line": 1847,
+      "text": ": 2 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 6
+    },
+    {
+      "line": 2287,
+      "text": "i 4 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 6
+    },
+    {
+      "line": 2571,
+      "text": "| 6 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 6
+    },
+    {
+      "line": 2881,
+      "text": "i 8 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 6
+    },
+    {
+      "line": 4447,
+      "text": "i 0,000 WHOLE EARTH REVIEW. SUMMER 1991",
+      "score": 6
+    },
+    {
+      "line": 6346,
+      "text": "INTERVIEWED BY",
+      "score": 6
+    },
+    {
+      "line": 6392,
+      "text": "4d WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 6
+    },
+    {
+      "line": 13430,
+      "text": "88 WHOLE EARTH REVIEW SUMMER 199!",
+      "score": 6
+    },
+    {
+      "line": 14488,
+      "text": "94 WHOLE EARTH REVIEW SUMMER 199]",
+      "score": 6
+    },
+    {
+      "line": 14692,
+      "text": "96 WHOLE EARTH REVIEW SUMMER 199!",
+      "score": 6
+    },
+    {
+      "line": 15128,
+      "text": "i 00 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 6
+    },
+    {
+      "line": 15422,
+      "text": ": 02 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 6
+    },
+    {
+      "line": 15857,
+      "text": "; 04 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 6
+    },
+    {
+      "line": 16050,
+      "text": "; 06 WHOLE EARTH REVIEW SUMMER 1991",
+      "score": 6
+    }
+  ],
+  "snippets": [
+    {
+      "line": 347,
+      "term": "energy",
+      "snippet": "cluding exhaustion and debilitating pain. Men- struation interfered with my sex life, with athletic activities, and with my energy level. tt caused mood swings, irritability, and de- structive, unstoppable bitchiness. It cost money - in pads and tampons to absorb the"
+    },
+    {
+      "line": 388,
+      "term": "tools",
+      "snippet": "records of my great-grand- mother’s oral storytelling with new tools, such as interactive video, now that the family has dispersed to various cities, become increasingly secular,"
+    },
+    {
+      "line": 464,
+      "term": "community",
+      "snippet": "14 More Power For Nonprofit Organizations: Compumentor Daniel Ben-Horin 16 Sources Of Community-Action Ideas _ Bill Berkowitz 18 Computer Conferencing Lawrence B. Brilliant I3 20 The Global Commons Brock N. Meeks 30 24 Electronic City Hall Michele Wittig"
+    },
+    {
+      "line": 489,
+      "term": "communications",
+      "snippet": "serbil+ The Complete Electronic Bulletin Board Starter Kit © New Communications Technologies In Politics ¢ Media Technology And The Vote Information Technologies And Social"
+    },
+    {
+      "line": 513,
+      "term": "interview",
+      "snippet": "50 Come Into Animal Presence Jonathan White and Donna Sandstrom Public Myths, Private Dreams = Interview With Wendy Doniger Adam Phillips 52 Interview With James Hillman éd Other Peoples’ Myths ® The Jungian-"
+    },
+    {
+      "line": 520,
+      "term": "interview",
+      "snippet": "Public Myths, Private Dreams = Interview With Wendy Doniger Adam Phillips 52 Interview With James Hillman éd Other Peoples’ Myths ® The Jungian- Senoi Dreamwork Manual The Water Of Life"
+    },
+    {
+      "line": 639,
+      "term": "communications",
+      "snippet": "84 The Sabbath Of Women Lara Owen 91 The Menstrual Health Foundation 90 How To Make A Cloth Maxi-Pad Sue Smith-Heavenrich 92 Blood Magic *© The Wise Wound COMMUNICATIONS 31 Discount Booksource 57 In Context 104 Access To Zines #2 Mike Gunderloy and Cari Goldberg 59 Mapping Hypertext 107 Four Flew Over D’Cuckoo’s Nest - Flash Gordon 61 Media Magic"
+    },
+    {
+      "line": 655,
+      "term": "tools",
+      "snippet": "108 The Fuel-Efficient Sudanese For A Beautiful Home ® Making And Ill Universal Patterns Cookstove George Wirt Playing Musical Instruments ® Spectacular Vernacular 114 Farm Tools For Efficiency 109 Negawatts/Water Efficiency 127 Music Animation Machine Richard Nilsen For Your Home ® Rising Sun Sampler LEARNING | 31. CASim 93 Wonderful Life ¢ A Synopsis And"
+    },
+    {
+      "line": 659,
+      "term": "learning",
+      "snippet": "114 Farm Tools For Efficiency 109 Negawatts/Water Efficiency 127 Music Animation Machine Richard Nilsen For Your Home ® Rising Sun Sampler LEARNING | 31. CASim 93 Wonderful Life ¢ A Synopsis And 112) Acupuncture For Pets Classification Of Living Organisms _ Jeanne Miriam Breen 118 The Playroom @ Kid Pix 133 Backscatter"
+    },
+    {
+      "line": 712,
+      "term": "tools",
+      "snippet": "means of acquiring it, is but a technologies is no longer an insurmountable prologue to a farce or a tragedy, barrier to citizens, but the arcane knowledge of or pethaps both. Knowledge how to use these tools to provide leverage for will forever govern ignorance, community organizing activities remains an and a people who mean to be obstacle. The purpose of this article, and those their own governors mustarm --cthat follow it, is to help demystify electronic"
+    },
+    {
+      "line": 713,
+      "term": "community",
+      "snippet": "prologue to a farce or a tragedy, barrier to citizens, but the arcane knowledge of or pethaps both. Knowledge how to use these tools to provide leverage for will forever govern ignorance, community organizing activities remains an and a people who mean to be obstacle. The purpose of this article, and those their own governors mustarm --cthat follow it, is to help demystify electronic themselves with the power mail, computer bulletin-board systems, com-"
+    },
+    {
+      "line": 717,
+      "term": "tools",
+      "snippet": "their own governors mustarm --cthat follow it, is to help demystify electronic themselves with the power mail, computer bulletin-board systems, com- which knowledge gives. puter conferencing, and other tools that can -James Madison help citizens gain some of the communication and persuasion power that has heretofore been limited to large institutions. -HR"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 7,
+      "text": "beea rea,"
+    },
+    {
+      "line": 10,
+      "text": "pea iesi,"
+    },
+    {
+      "line": 19,
+      "text": "7) uM we,"
+    },
+    {
+      "line": 21,
+      "text": "wv re) ; I"
+    },
+    {
+      "line": 22,
+      "text": "S oon i"
+    },
+    {
+      "line": 24,
+      "text": "~ Cc : 4"
+    },
+    {
+      "line": 25,
+      "text": "9 =s I]"
+    },
+    {
+      "line": 26,
+      "text": "mn = : I"
+    },
+    {
+      "line": 27,
+      "text": "O ~ |"
+    },
+    {
+      "line": 29,
+      "text": "= c :"
+    },
+    {
+      "line": 32,
+      "text": "ae |"
+    },
+    {
+      "line": 38,
+      "text": "‘a ee a ee a eee ae"
+    },
+    {
+      "line": 41,
+      "text": "THE PEOPLE OF MY RACE"
+    },
+    {
+      "line": 42,
+      "text": "| MUST LIVE IN A SYMBIOT-"
+    },
+    {
+      "line": 43,
+      "text": "IC RELATIONSHIP WITH A"
+    },
+    {
+      "line": 44,
+      "text": "HOST BEING IN ORDER To"
+    },
+    {
+      "line": 45,
+      "text": "SURVIVE! I HAVE BEEN AN"
+    },
+    {
+      "line": 46,
+      "text": "ADVANCE SCOUT STUDYING"
+    },
+    {
+      "line": 47,
+      "text": "YOUR RACE, AND AFTER"
+    },
+    {
+      "line": 48,
+      "text": "MANY YEARS, <I HAVE DE-"
+    },
+    {
+      "line": 49,
+      "text": "TERMINED THAT WE ARE"
+    },
+    {
+      "line": 50,
+      "text": "QUITE COMPATIBLE!"
+    },
+    {
+      "line": 54,
+      "text": "Son Pa Na Se fal Gy pe"
+    },
+    {
+      "line": 58,
+      "text": "FOR YEARS, MANY OF You"
+    },
+    {
+      "line": 59,
+      "text": "HAVE NOTICED SOMETHING"
+    },
+    {
+      "line": 60,
+      "text": "VAGUELY AMISS ABOUT TED’s"
+    },
+    {
+      "line": 61,
+      "text": "COIFFURE.. THERE HAS BEEN"
+    },
+    {
+      "line": 62,
+      "text": "MUCH SPECULATION. 1S IT"
+    },
+    {
+      "line": 64,
+      "text": "A WIG? DOES TED HAVE"
+    },
+    {
+      "line": 66,
+      "text": "NO MIRRORS JN HIS HOME?"
+    },
+    {
+      "line": 69,
+      "text": "| GOOD EVENING--I'M TED"
+    },
+    {
+      "line": 70,
+      "text": "| KOPPEL--"
+    },
+    {
+      "line": 73,
+      "text": "WELL ,THE TRUTH OF THE"
+    },
+    {
+      "line": 74,
+      "text": "MATTER JS THAT I --TED"
+    },
+    {
+      "line": 75,
+      "text": "KOPPEL’S HAIR-- AM AN"
+    },
+    {
+      "line": 76,
+      "text": "ALIEN BEING FROM A"
+    },
+    {
+      "line": 77,
+      "text": "DISTANT PLANET /"
+    },
+    {
+      "line": 80,
+      "text": "a ee"
+    },
+    {
+      "line": 83,
+      "text": "hg ke"
+    },
+    {
+      "line": 84,
+      "text": "Pale"
+    }
+  ]
+}

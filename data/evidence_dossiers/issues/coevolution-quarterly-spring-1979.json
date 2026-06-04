@@ -1,0 +1,686 @@
+{
+  "title": "CoEvolution Quarterly, Spring 1979",
+  "identifier": "coevolutionquart00unse_18",
+  "year": 1979,
+  "season": "Spring",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 167,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1979",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_18",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_18/coevolutionquart00unse_18.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_18/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_18_djvu.txt",
+  "ocr_chars": 721658,
+  "significant_line_count": 16951,
+  "theme_counts": {
+    "software_computing": 56,
+    "tools_craft": 294,
+    "ecology_place": 517,
+    "learning_media": 487,
+    "community_politics": 404
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 6117,
+      "page": 0,
+      "title": "HAVE NO KNOWLEDGE",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_18/page/n1_w500.jpg"
+    },
+    {
+      "line": 6817,
+      "page": 5,
+      "title": "B- LOLLY",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_18/page/n6_w500.jpg"
+    },
+    {
+      "line": 8038,
+      "page": 2,
+      "title": "KERMIT",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_18/page/n3_w500.jpg"
+    },
+    {
+      "line": 10397,
+      "page": 4,
+      "title": "REAL ESTATE",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_18/page/n5_w500.jpg"
+    },
+    {
+      "line": 29321,
+      "page": 8,
+      "title": "SPACE COLONIES",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_18/page/n9_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 6117,
+      "text": "0 HAVE NO KNOWLEDGE",
+      "score": 8
+    },
+    {
+      "line": 6817,
+      "text": "5 B- LOLLY",
+      "score": 8
+    },
+    {
+      "line": 8038,
+      "text": "2 KERMIT",
+      "score": 8
+    },
+    {
+      "line": 10397,
+      "text": "4 REAL ESTATE",
+      "score": 8
+    },
+    {
+      "line": 29321,
+      "text": "8 SPACE COLONIES",
+      "score": 8
+    },
+    {
+      "line": 6858,
+      "text": "Lock AND KEY THE PROGRAM STARTED: . OWN SEXUALITY THAT WAS RiGyeOeAayTy:",
+      "score": 6
+    },
+    {
+      "line": 25392,
+      "text": "SOLAR-ENERGY CONSERVING",
+      "score": 6
+    },
+    {
+      "line": 7270,
+      "text": "evolution, ecology, life, learning, and the like occur only in",
+      "score": 5
+    },
+    {
+      "line": 12648,
+      "text": "NY poetry world gossip, reviews, community notes,",
+      "score": 5
+    },
+    {
+      "line": 14222,
+      "text": "Communications, which also had been reviewed in COQ",
+      "score": 5
+    },
+    {
+      "line": 141,
+      "text": "42-45 . MOUSE LIBERATION FRONT COMMUNIQUE NO. 1 by Dan O'Neill",
+      "score": 4
+    },
+    {
+      "line": 349,
+      "text": "py STEWART BRAND |",
+      "score": 4
+    },
+    {
+      "line": 352,
+      "text": "WITH EXTENSIVE QUOTES",
+      "score": 4
+    },
+    {
+      "line": 531,
+      "text": "MUTATION",
+      "score": 4
+    },
+    {
+      "line": 534,
+      "text": "TRANSFORMATION TO",
+      "score": 4
+    },
+    {
+      "line": 535,
+      "text": "PRECANCEROUS LESION",
+      "score": 4
+    },
+    {
+      "line": 540,
+      "text": "METASTASIS e @",
+      "score": 4
+    },
+    {
+      "line": 574,
+      "text": "THE AMES TEST",
+      "score": 4
+    },
+    {
+      "line": 783,
+      "text": "JARGON",
+      "score": 4
+    },
+    {
+      "line": 810,
+      "text": "EPIDEMIOLOGY",
+      "score": 4
+    },
+    {
+      "line": 913,
+      "text": "THE CHEMICAL TIDE",
+      "score": 4
+    },
+    {
+      "line": 973,
+      "text": "ANNUAL DEATHS FROM LUNG CANCER (PER 100,000 POPULATION) =",
+      "score": 4
+    },
+    {
+      "line": 980,
+      "text": "‘TUNG CANCER",
+      "score": 4
+    },
+    {
+      "line": 1059,
+      "text": "PRODUCTION/YEAR (U.S)",
+      "score": 4
+    },
+    {
+      "line": 1060,
+      "text": "BILLION POUNDS (10°)",
+      "score": 4
+    },
+    {
+      "line": 1212,
+      "text": "CANCER",
+      "score": 4
+    },
+    {
+      "line": 1322,
+      "text": "NUCLEAR RADIATION |",
+      "score": 4
+    },
+    {
+      "line": 1379,
+      "text": "H UMAN GENE POOL",
+      "score": 4
+    },
+    {
+      "line": 1506,
+      "text": "BIRTH DEFECTS",
+      "score": 4
+    },
+    {
+      "line": 1793,
+      "text": "GENETIC LOAD",
+      "score": 4
+    },
+    {
+      "line": 1888,
+      "text": "MUTATION PRESSURE",
+      "score": 4
+    },
+    {
+      "line": 1891,
+      "text": "STRONG SELECTION PRESSURE",
+      "score": 4
+    },
+    {
+      "line": 1894,
+      "text": "MIDDLING SELECTION PRESSURE",
+      "score": 4
+    },
+    {
+      "line": 1900,
+      "text": "WEAK SELECTION PRESSURE",
+      "score": 4
+    },
+    {
+      "line": 1903,
+      "text": "FROBABILITY’",
+      "score": 4
+    },
+    {
+      "line": 1904,
+      "text": "OF GENE",
+      "score": 4
+    },
+    {
+      "line": 1905,
+      "text": "FREQUENCY",
+      "score": 4
+    },
+    {
+      "line": 1911,
+      "text": "POPULATIONS",
+      "score": 4
+    },
+    {
+      "line": 1915,
+      "text": "FAVORABLE GENE FREQUENCY",
+      "score": 4
+    },
+    {
+      "line": 1933,
+      "text": "MUTATION RATE",
+      "score": 4
+    },
+    {
+      "line": 2224,
+      "text": "RESPONSIBILITY",
+      "score": 4
+    },
+    {
+      "line": 2359,
+      "text": "TIER 3",
+      "score": 4
+    },
+    {
+      "line": 2362,
+      "text": ". PASS -<t- NEGATIVE",
+      "score": 4
+    },
+    {
+      "line": 2375,
+      "text": "ACTION - PERSONAL",
+      "score": 4
+    },
+    {
+      "line": 2399,
+      "text": "QUANTIFICATION STEP",
+      "score": 4
+    },
+    {
+      "line": 2505,
+      "text": "GETTING INFORMATION & TESTS ON GENOTOXINS",
+      "score": 4
+    },
+    {
+      "line": 2645,
+      "text": "ACTION - GOVERNMENT",
+      "score": 4
+    },
+    {
+      "line": 2720,
+      "text": "ALLIES",
+      "score": 4
+    },
+    {
+      "line": 2769,
+      "text": "“SARE WE NOT MEN?”",
+      "score": 4
+    },
+    {
+      "line": 2776,
+      "text": "“WE ARE DEVO.”",
+      "score": 4
+    },
+    {
+      "line": 3065,
+      "text": "USA, 72, 4425 (1975).",
+      "score": 4
+    },
+    {
+      "line": 3120,
+      "text": "BY CAROL VAN STRUM",
+      "score": 4
+    },
+    {
+      "line": 3209,
+      "text": "RA Pe",
+      "score": 4
+    },
+    {
+      "line": 3513,
+      "text": "2,4,5-TCP 7 (64%) 14 (67%) 13 (52%) |",
+      "score": 4
+    },
+    {
+      "line": 3515,
+      "text": "2,4,5-T 1 (9%) 5 (24%) 9 (36%)",
+      "score": 4
+    },
+    {
+      "line": 3612,
+      "text": "REFERENCES",
+      "score": 4
+    },
+    {
+      "line": 3704,
+      "text": "BY SUSAN STERN",
+      "score": 4
+    },
+    {
+      "line": 3710,
+      "text": "T THE INTERNATIONAL CONGRESS",
+      "score": 4
+    },
+    {
+      "line": 4925,
+      "text": "| REFEREN CES",
+      "score": 4
+    },
+    {
+      "line": 5067,
+      "text": "BIOHAZARD ORGANIZATIONS AND BOOKS",
+      "score": 4
+    },
+    {
+      "line": 5495,
+      "text": "2000 P. St. N.W.",
+      "score": 4
+    },
+    {
+      "line": 5684,
+      "text": "NY 11530",
+      "score": 4
+    },
+    {
+      "line": 6101,
+      "text": "} f | GRANT :",
+      "score": 4
+    },
+    {
+      "line": 6106,
+      "text": "-- SSS Ss AREN'T THEY?",
+      "score": 4
+    },
+    {
+      "line": 6110,
+      "text": "y “THER PLANET WAS",
+      "score": 4
+    },
+    {
+      "line": 6111,
+      "text": "CLUTTERED WITH ANCIENT",
+      "score": 4
+    },
+    {
+      "line": 6112,
+      "text": "RUINED CITIES AND ROADWAYS -",
+      "score": 4
+    },
+    {
+      "line": 6113,
+      "text": "AND, RUSTING MACHINERY...",
+      "score": 4
+    },
+    {
+      "line": 6114,
+      "text": "THESE FOLKS COULDN'T TELL",
+      "score": 4
+    },
+    {
+      "line": 6115,
+      "text": "US ANYTHING ABOUT",
+      "score": 4
+    },
+    {
+      "line": 6116,
+      "text": "ANY OF IT... THEY SEEM",
+      "score": 4
+    },
+    {
+      "line": 6118,
+      "text": "oF THEIR OWN",
+      "score": 4
+    },
+    {
+      "line": 6119,
+      "text": ". HISTORY...",
+      "score": 4
+    },
+    {
+      "line": 6122,
+      "text": "P BUT ITWAS )-",
+      "score": 4
+    },
+    {
+      "line": 6123,
+      "text": "SIMPLE ENOUGH oe",
+      "score": 4
+    },
+    {
+      "line": 6125,
+      "text": "HAD HAPPENED |",
+      "score": 4
+    },
+    {
+      "line": 6129,
+      "text": "> WE PICKED THEM",
+      "score": 4
+    },
+    {
+      "line": 6130,
+      "text": "ye ON A GUTED PLANGT",
+      "score": 4
+    },
+    {
+      "line": 6131,
+      "text": "ABOUT 200 LIGHT YEARS",
+      "score": 4
+    },
+    {
+      "line": 6132,
+      "text": "FROM HERE...",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 142,
+      "term": "whole systems",
+      "snippet": "4] Dan O’Neill Defies U.S. Supreme Court 42-45 . MOUSE LIBERATION FRONT COMMUNIQUE NO. 1 by Dan O'Neill Understanding Whole Systems 46-47 The Times Atlas of World History ~ 48 Mind and Nature: A Necessary Unity 49 Dinosaurs whisper by B. Kliban ! |"
+    },
+    {
+      "line": 200,
+      "term": "interview",
+      "snippet": "_ Access to Magazines Research by Patty Phelan Reviewing Magazines = Magazines for Libraries Interview =» Human Nature f Games = Omni | aes | PA i i Nautical Quarterly | | Craft _"
+    },
+    {
+      "line": 226,
+      "term": "tools",
+      "snippet": "- Preservation News = Notches of All Kinds = The Log Cabin = Squangle = Pro val The $50 & Up Underground House Book = Dome Builder’s Handbook No.2 = Insect Proof Door = Makita Tools : Defiant and Vigilant parlor stoves » Stanley wood cookstove ~The Solar Decision Book = 1977 Solar Inventions & Patents = Solar Survival Frame Plans = Hot Air Engines » Canadian Renewable Energy News"
+    },
+    {
+      "line": 231,
+      "term": "energy",
+      "snippet": "Defiant and Vigilant parlor stoves » Stanley wood cookstove ~The Solar Decision Book = 1977 Solar Inventions & Patents = Solar Survival Frame Plans = Hot Air Engines » Canadian Renewable Energy News he Land Use Be Gas The Organic Movement Meets the Real World by Richard Nilsen a The Least Is Best ee Pesticide Strategy"
+    },
+    {
+      "line": 241,
+      "term": "community",
+      "snippet": "os 144 The New Farm » The IPM Practitioner a Propagate Your Own Plants a ete Living Off the Country for Fun and Profit | Community : Mi 45 The Holistic Health Handbook = Wholistic Dimensions in Healing = A Trapper’s Dog | 146-1 50 Insurance and the Abandonment of Responsibility by Jeff Kane, M.D. oe Nomadics : |"
+    },
+    {
+      "line": 252,
+      "term": "communications",
+      "snippet": "ise 152 Windsurfer = The Well-fed Backpacker m The Travel Catalog = Cherries and Lemons < or : : N How to Buy a Good Used Car for Less Than $1000. a Communications : : On Writing Well » Information Please Almanac = 1 The World Almanac «= Help Good Movies by Sheila Benson These Kids Today by R. Crumb"
+    },
+    {
+      "line": 258,
+      "term": "learning",
+      "snippet": "Good Movies by Sheila Benson These Kids Today by R. Crumb Learning | ie Inside Mom # The Family Bed «= Chom Two to Five as Business : ‘fet a Thank you # Masthead . | as vou"
+    },
+    {
+      "line": 285,
+      "term": "energy",
+      "snippet": "which are far more pervasive, far.less understood, far harder to control, and have probably already taken a greater human toll. At present nuclear energy is a less serious biohazard. So far most attention has been focused on “environmental” causes of cancer - chemical carcinogens. Here we will especially be looking at. mutagenic"
+    },
+    {
+      "line": 1326,
+      "term": "energy",
+      "snippet": "NUCLEAR RADIATION | Currently the most active war-on-something going. on in America is the guerrilla War on Nuclear Energy. It’s also the most successful - indeed pinching off the construction of new reactors and receiving the -_- acknowledgement and approval of even Herman Kahn. ;"
+    },
+    {
+      "line": 1341,
+      "term": "energy",
+      "snippet": "population overload and the chemical hazards dis- cussed in this article. That international encourage ment of nuclear energy feeds the proliferation of - nuclear weapons seems the strongest argument agal a plutonium economy, even thinking only i in terms radiation exposure."
+    },
+    {
+      "line": 1529,
+      "term": "community",
+      "snippet": "frequently shattering for the parents. The costs of _ special medical and educational care are immense, both for the family and the community at large. Though some of the children are cheerful, most suffer from their condition to degrees that can’t be quanti- fied - the constant fear of the hemophiliac (bleeder)"
+    },
+    {
+      "line": 1778,
+      "term": "interview",
+      "snippet": "Recognizable Patterns of Human Malformation Recognizable Patterns of Human Malformation Interview Mother and daughter with Marfan’s syndrome. Normal adult. Box 428, Sausalito, CA 94965"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Pee Rear ape ena"
+    },
+    {
+      "line": 8,
+      "text": "ewe yaseRetet"
+    },
+    {
+      "line": 14,
+      "text": "alr eady done m | :"
+    },
+    {
+      "line": 18,
+      "text": "pool than nude"
+    },
+    {
+      "line": 21,
+      "text": "Cookie and Steven"
+    },
+    {
+      "line": 24,
+      "text": "|” a ‘ ‘"
+    },
+    {
+      "line": 25,
+      "text": "W443 G6 aa Ba Bs"
+    },
+    {
+      "line": 26,
+      "text": "R38 ah BG RR ou KG"
+    },
+    {
+      "line": 27,
+      "text": "he Qh 60 KH aA Hs"
+    },
+    {
+      "line": 33,
+      "text": "Ké @ A & se & gs"
+    },
+    {
+      "line": 37,
+      "text": "8] <s 21 22"
+    },
+    {
+      "line": 40,
+      "text": "Gene complement of a human female with Down’s"
+    },
+    {
+      "line": 41,
+      "text": "Syndrome (mongolism) - showing three chrom-"
+    },
+    {
+      "line": 42,
+      "text": "osomes No. 2] instead of the normal two. About"
+    },
+    {
+      "line": 43,
+      "text": "half of the cases of mongolism are inherited and"
+    },
+    {
+      "line": 44,
+      "text": "half are caused during pregnancy. Illustration"
+    },
+    {
+      "line": 45,
+      "text": "from Evolution, Dobzhansky et al."
+    },
+    {
+      "line": 48,
+      "text": "Cookie, mother, Steven"
+    },
+    {
+      "line": 55,
+      "text": "eee ee ee ee"
+    },
+    {
+      "line": 58,
+      "text": "| Cookie is ne sister. She is a year anda half older than I. I was born on New Year’s Eve"
+    },
+    {
+      "line": 59,
+      "text": "of 1942. Three weeks after I was born, my father joined the Marine Corps and spent"
+    },
+    {
+      "line": 60,
+      "text": "es to three years fighting Japanese men in World War Two. He had left before"
+    },
+    {
+      "line": 61,
+      "text": "Cookie’ s condition had been diagnosed and confirmed. When he returned from the war"
+    },
+    {
+      "line": 62,
+      "text": "and found out the shape Cookie was in it was said to have broken his heart. Cookie was"
+    },
+    {
+      "line": 63,
+      "text": "ae AG to have been the favorite of my father’ S two children. It was never"
+    },
+    {
+      "line": 66,
+      "text": "the three years which he spent in the South Patific and some people think that it might"
+    },
+    {
+      "line": 67,
+      "text": "a been a result of Cookie’ S condition. I think that it might have been a combination"
+    },
+    {
+      "line": 70,
+      "text": "ee s condition never Bothered me. I was never bothered by the fact that many of"
+    },
+    {
+      "line": 71,
+      "text": "the children on the block wouldn’t play with us. Their parents were afraid that Cookie’s"
+    },
+    {
+      "line": 74,
+      "text": "Men would rather walk on the Moon,"
+    },
+    {
+      "line": 77,
+      "text": "| It also never bothered me that many of the other children tried to bully us. Cookie"
+    },
+    {
+      "line": 79,
+      "text": "‘| could beat them all up. She was my protector. It got to a point where nobody could"
+    },
+    {
+      "line": 80,
+      "text": "lay a hand on me when she was around. It didn’t matter to me that Cookie couldn’t"
+    },
+    {
+      "line": 82,
+      "text": "stay within the lines when drawing in a coloring book. I couldn’t either; but un ina-"
+    },
+    {
+      "line": 83,
+      "text": "bility to do so was never as pronounced as hers was."
+    },
+    {
+      "line": 86,
+      "text": "‘What did bother me was my waking up, one day, when I was eight years old and"
+    },
+    {
+      "line": 87,
+      "text": "discovering her gone. A doctor had advised my mother that placing Cookie in an insti-"
+    },
+    {
+      "line": 88,
+      "text": "tution in upstate New York would be the best thing for me, her “normal” child. My."
+    },
+    {
+      "line": 89,
+      "text": "mother placed Cookie in the Wassaic State School for the Mentally Retarded in upstate"
+    },
+    {
+      "line": 90,
+      "text": "New York. The doctor had advised my mother that Cookie’s being a hundred miles"
+    }
+  ]
+}

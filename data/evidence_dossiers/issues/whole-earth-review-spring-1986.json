@@ -1,0 +1,680 @@
+{
+  "title": "Whole Earth Review, Spring 1986",
+  "identifier": "wholeearthreview00unse_5",
+  "year": 1986,
+  "season": "Spring",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 163,
+  "url": "https://wholeearth.info/p/whole-earth-review-spring-1986",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_5",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_5/wholeearthreview00unse_5.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_5/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthreview00unse_5_djvu.txt",
+  "ocr_chars": 693568,
+  "significant_line_count": 17808,
+  "theme_counts": {
+    "software_computing": 377,
+    "tools_craft": 335,
+    "ecology_place": 569,
+    "learning_media": 476,
+    "community_politics": 524
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 611,
+      "page": 4,
+      "title": "WHOLE EARTH REVIEW SPRING 1986",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_5/page/n5_w500.jpg"
+    },
+    {
+      "line": 705,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO CA 94965",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_5/page/n28_w500.jpg"
+    },
+    {
+      "line": 5193,
+      "page": 7,
+      "title": "WHAT MATTERS THE LOSS OF",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_5/page/n8_w500.jpg"
+    },
+    {
+      "line": 14442,
+      "page": 3,
+      "title": "O'CLOCK",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_5/page/n4_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 611,
+      "text": "4 WHOLE EARTH REVIEW SPRING 1986",
+      "score": 10
+    },
+    {
+      "line": 705,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 2914,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA",
+      "score": 8
+    },
+    {
+      "line": 5048,
+      "text": "4 APIECE, IRMA",
+      "score": 8
+    },
+    {
+      "line": 5193,
+      "text": "7 WHAT MATTERS THE LOSS OF",
+      "score": 8
+    },
+    {
+      "line": 14442,
+      "text": "3 O'CLOCK",
+      "score": 8
+    },
+    {
+      "line": 14445,
+      "text": "7 O'CLOCK",
+      "score": 8
+    },
+    {
+      "line": 14548,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965 99",
+      "score": 8
+    },
+    {
+      "line": 14858,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965 I 03",
+      "score": 8
+    },
+    {
+      "line": 299,
+      "text": "DEPARTMENTS/REVIEWS",
+      "score": 6
+    },
+    {
+      "line": 364,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 448,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 461,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 936,
+      "text": "WHOLE EARTH REVIEW = SPRING 1986",
+      "score": 6
+    },
+    {
+      "line": 1177,
+      "text": "WHOLE EARTH REVIEW SPRING 1986",
+      "score": 6
+    },
+    {
+      "line": 1398,
+      "text": "4 t] WHOLE EARTH REVIEW = SPRING 1986",
+      "score": 6
+    },
+    {
+      "line": 1964,
+      "text": "WHOLE EARTH REVIEW - SPRING 1986 -",
+      "score": 6
+    },
+    {
+      "line": 3635,
+      "text": "WHOLE EARTH REVIEW _- SPRING 1986",
+      "score": 6
+    },
+    {
+      "line": 3956,
+      "text": "WHOLE EARTH REVIEW - SPRING 1986",
+      "score": 6
+    },
+    {
+      "line": 6365,
+      "text": "HOW TO USE SATELLITES TO DISTRIBUTE YOUR OWN PROGRAMS",
+      "score": 6
+    },
+    {
+      "line": 6645,
+      "text": "(GUY COM) (1.0.8. COMMUNICATIONS) : ee!",
+      "score": 6
+    },
+    {
+      "line": 8507,
+      "text": "5 6 WHOLE EARTH REVIEW SPRING 1986",
+      "score": 6
+    },
+    {
+      "line": 11375,
+      "text": "74 WHOLE EARTH REVIEW = SPRING 1986",
+      "score": 6
+    },
+    {
+      "line": 13794,
+      "text": "WHOLE EARTH REVIEW ° SPRING 1986",
+      "score": 6
+    },
+    {
+      "line": 14610,
+      "text": "| 00 WHOLE EARTH REVIEW - SPRING 1986",
+      "score": 6
+    },
+    {
+      "line": 16222,
+      "text": "WHOLE EARTH REVIEW . SPRING 1986",
+      "score": 6
+    },
+    {
+      "line": 18281,
+      "text": "j 26 5 WHOLE EARTH REVIEW SPRING 1986",
+      "score": 6
+    },
+    {
+      "line": 20578,
+      "text": "WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 20882,
+      "text": "THE EXECUTIVE CHALLENGE Program of",
+      "score": 6
+    },
+    {
+      "line": 23855,
+      "text": "PROGRAM 49:110",
+      "score": 6
+    },
+    {
+      "line": 24568,
+      "text": "| 52 WHOLE EARTH REVIEW SPRING 1986 é",
+      "score": 6
+    },
+    {
+      "line": 24622,
+      "text": "PROGRAM 46:102",
+      "score": 6
+    },
+    {
+      "line": 25800,
+      "text": "PROOF READER PROGRAM 45:93",
+      "score": 6
+    },
+    {
+      "line": 26010,
+      "text": "RUNNING PROGRAM 46:102",
+      "score": 6
+    },
+    {
+      "line": 27072,
+      "text": "SUBSCRIBE TO WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 27176,
+      "text": "REVIEW - ) .",
+      "score": 6
+    },
+    {
+      "line": 3464,
+      "text": "Interactive Telecommunications Program.",
+      "score": 5
+    },
+    {
+      "line": 4726,
+      "text": "of the MIT Program on Communications Policy Research.",
+      "score": 5
+    },
+    {
+      "line": 17653,
+      "text": "telecommunications programs are the",
+      "score": 5
+    },
+    {
+      "line": 17721,
+      "text": "commercial telecommunications program. Like NG",
+      "score": 5
+    },
+    {
+      "line": 1,
+      "text": "NO. 50 SPRING 1986 $4.50 (CANADIAN $5.50)",
+      "score": 4
+    },
+    {
+      "line": 4,
+      "text": "ACCESS TO TOOLS AND IDEAS",
+      "score": 4
+    },
+    {
+      "line": 7,
+      "text": "1 %OB",
+      "score": 4
+    },
+    {
+      "line": 32,
+      "text": "t WASHINGTON MOSCOW s",
+      "score": 4
+    },
+    {
+      "line": 45,
+      "text": "OREASY",
+      "score": 4
+    },
+    {
+      "line": 46,
+      "text": "DooRKNORS",
+      "score": 4
+    },
+    {
+      "line": 53,
+      "text": "LOWERCASE SIGNATURES |",
+      "score": 4
+    },
+    {
+      "line": 56,
+      "text": "BALLOON ANIMALS",
+      "score": 4
+    },
+    {
+      "line": 62,
+      "text": "NICKNAME; “COOKIE ”",
+      "score": 4
+    },
+    {
+      "line": 65,
+      "text": "INSTANT COFFEE",
+      "score": 4
+    },
+    {
+      "line": 69,
+      "text": "H T TOBE AN 0",
+      "score": 4
+    },
+    {
+      "line": 81,
+      "text": "GREASY FUR S THEORIES ©) Lower Back",
+      "score": 4
+    },
+    {
+      "line": 83,
+      "text": "SPLITTING WW) STue",
+      "score": 4
+    },
+    {
+      "line": 91,
+      "text": ", OREAN VACATIONS",
+      "score": 4
+    },
+    {
+      "line": 104,
+      "text": "BEme YNDERSTOoD",
+      "score": 4
+    },
+    {
+      "line": 114,
+      "text": "PERMANENT",
+      "score": 4
+    },
+    {
+      "line": 127,
+      "text": "3.GOO 4 FOREIGNERS",
+      "score": 4
+    },
+    {
+      "line": 130,
+      "text": "S. HIGH SCHOOL",
+      "score": 4
+    },
+    {
+      "line": 131,
+      "text": "A. THE TEACHERS",
+      "score": 4
+    },
+    {
+      "line": 134,
+      "text": "FRep FLNTSTOVE.",
+      "score": 4
+    },
+    {
+      "line": 137,
+      "text": "© IRKED OVEXKED",
+      "score": 4
+    },
+    {
+      "line": 138,
+      "text": "fo) CRABRED ¢ PeTURgED",
+      "score": 4
+    },
+    {
+      "line": 139,
+      "text": "©GLum 6 SURLY o SNAPPY",
+      "score": 4
+    },
+    {
+      "line": 153,
+      "text": "Re RIGHTFuLLYy MINE,",
+      "score": 4
+    },
+    {
+      "line": 154,
+      "text": "- Your FRIENDS",
+      "score": 4
+    },
+    {
+      "line": 158,
+      "text": "DON'T FORGET Your",
+      "score": 4
+    },
+    {
+      "line": 164,
+      "text": "RAWY. DAY GENIVS",
+      "score": 4
+    },
+    {
+      "line": 166,
+      "text": "DEFA E Py OGRAP SOF",
+      "score": 4
+    },
+    {
+      "line": 168,
+      "text": "SECRET PROJECT 4, -- mies MAGA2 WEG",
+      "score": 4
+    },
+    {
+      "line": 169,
+      "text": ".. OD AUT OGRAP",
+      "score": 4
+    },
+    {
+      "line": 176,
+      "text": "5. PRAw a PIRGRAmM. ~",
+      "score": 4
+    },
+    {
+      "line": 179,
+      "text": "THE SECRET y",
+      "score": 4
+    },
+    {
+      "line": 183,
+      "text": "OF THE SEcrer GENIUS",
+      "score": 4
+    },
+    {
+      "line": 184,
+      "text": "OC weire a FROTHWE * + (TATTOOED oy ASAHI",
+      "score": 4
+    },
+    {
+      "line": 190,
+      "text": "SPACED WITH DO MARGINg USING",
+      "score": 4
+    },
+    {
+      "line": 194,
+      "text": "C2) WA. out OF THE ART",
+      "score": 4
+    },
+    {
+      "line": 195,
+      "text": "YING IN A HUFF",
+      "score": 4
+    },
+    {
+      "line": 198,
+      "text": "DIE IN LATE:",
+      "score": 4
+    },
+    {
+      "line": 211,
+      "text": "CASSEROLES ACCORDIONS",
+      "score": 4
+    },
+    {
+      "line": 217,
+      "text": "RAMIC STATUETTE",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 4,
+      "term": "tools",
+      "snippet": "NO. 50 SPRING 1986 $4.50 (CANADIAN $5.50) ACCESS TO TOOLS AND IDEAS 1 %OB Public access to public mcmeceing tt from pusco P- 56 +s : sf Fs aa it - aa hs 5; - + Pee"
+    },
+    {
+      "line": 250,
+      "term": "interview",
+      "snippet": "by Holly Metz Providing Asylum Interview by Ruth Ross Soucy Before the Sanctuary by Will Baker Satellites: Extraterrestrial Tools"
+    },
+    {
+      "line": 257,
+      "term": "tools",
+      "snippet": "Before the Sanctuary by Will Baker Satellites: Extraterrestrial Tools Spring 1986 Etiquette for the Age of Transparency by Kevin Sanders"
+    },
+    {
+      "line": 290,
+      "term": "software",
+      "snippet": "Video Uplink bhi by Mail (or Modem) by Douglas Cruickshank & by John Bear, Ph.D. Radio Uplink 122 Free Software by Phil Catalfo by Alfred Glossbrenner WG: Packet Radio 126 When the Spirits Come Back _* _.-)g@ by Benn Kobb, KCS5CW, by Janet Dallett St Rae!"
+    },
+    {
+      "line": 309,
+      "term": "communications",
+      "snippet": "O Sanctuary O Technologies of Freedom ne otha Caaee bare e WS 42 Cellular Telephones 5 Personal Radio placa ubherh ahs caiman one Exchange 0 Personal Communications COMMUNICATIONS Technology. 24 Satellite TV Week 46 The Home Satellite TV Book 25 P-611 Satellite Antenna 0 Jake’s Discount o Hone Satellite TV"
+    },
+    {
+      "line": 310,
+      "term": "communications",
+      "snippet": "ne otha Caaee bare e WS 42 Cellular Telephones 5 Personal Radio placa ubherh ahs caiman one Exchange 0 Personal Communications COMMUNICATIONS Technology. 24 Satellite TV Week 46 The Home Satellite TV Book 25 P-611 Satellite Antenna 0 Jake’s Discount o Hone Satellite TV Center Oo The World of Satellite Television 48 Satellite ORBIT"
+    },
+    {
+      "line": 317,
+      "term": "communications",
+      "snippet": "25 P-611 Satellite Antenna 0 Jake’s Discount o Hone Satellite TV Center Oo The World of Satellite Television 48 Satellite ORBIT 29 World Satellite Almanac 49 Communications Satellites 30 The Video Schoolhouse 0 RTS Video 0 The Hidden Signals on Satellite TV Catalog 0 Video 55 The Body Electric Whole Earth Review 0 Issue No. 50 0) March 10, 1986 (ISSN 0749-5056) (USPS 077-150). Published quarterly by POINT, a California non-"
+    },
+    {
+      "line": 364,
+      "term": "whole systems",
+      "snippet": "issues will not be honored later than six months after publication. Back issues are available on microfilm and as xerographic reprints from POSTMASTER: Send address changes to Whole Earth Review, Box 15187, Santa Ana, CA 92705. WHOLE SYSTEMS te Vhs CE eee Pir, bl ee le ier Ee i ab Vid ears, 2 65 The Implications of Establishing an"
+    },
+    {
+      "line": 448,
+      "term": "community",
+      "snippet": "93 Changing Work © Guerrilla Marketing CO Employee Ownership COMMUNITY 98 Managing Incontinence 0 Hemorrhoids 116 Sears Early One Smoke Detector oO Brigade Quartermaster pouches"
+    },
+    {
+      "line": 461,
+      "term": "learning",
+      "snippet": "0 Safe Natural Remedies for Discomforts of Pregnancy LEARNING 120 Macworld 0 The MACazine O MacUser 0 MacBriefs 121 WillWriter GO VP-PLANNER 0 DIAGRAPH"
+    },
+    {
+      "line": 573,
+      "term": "community",
+      "snippet": "resistance? I agreed, and our correspondence sentence she had received after refusing proba- tion, restitution, fines, and community service. A year later, she was involved with three other Christians in another action at a missile silo. For this, her fourth action, she was sentenced"
+    },
+    {
+      "line": 606,
+      "term": "interview",
+      "snippet": "in Our witness we somehow illuminate the truth PHL aidpith lope iy 1 Mc AINRUAE Vie elebeal cae cade belt OLAS ta pCace. NAL IS ater ean Clem Eo This letter-interview came unsolicited in the mail. Nearly Pease e & as anonymous as the respondent, the interviewer lives in The term “resistance” as used by the Christian Hoboken, New Jersey. -Kevin Kelly peace movement is taken from the admonition 4 WHOLE EARTH REVIEW SPRING 1986"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "NO. 50 SPRING 1986 $4.50 (CANADIAN $5.50)"
+    },
+    {
+      "line": 4,
+      "text": "ACCESS TO TOOLS AND IDEAS"
+    },
+    {
+      "line": 7,
+      "text": "1 %OB"
+    },
+    {
+      "line": 17,
+      "text": "Public access to public mcmeceing tt from pusco P- 56"
+    },
+    {
+      "line": 20,
+      "text": "+s : sf Fs aa it - aa hs 5; - + Pee"
+    },
+    {
+      "line": 21,
+      "text": "a els a af me oe"
+    },
+    {
+      "line": 24,
+      "text": "ab ahs 7 i"
+    },
+    {
+      "line": 25,
+      "text": "pt shad Ji * ¢ ed) in ary: ad ry"
+    },
+    {
+      "line": 26,
+      "text": "y, a: -e a cy\": 3a i. Kj sm mh) e wey by ps © in at 4 :"
+    },
+    {
+      "line": 27,
+      "text": "re f e £ ie"
+    },
+    {
+      "line": 28,
+      "text": "aad \\ 7 tak i 1 7 Ps ™ nee yy aera fs Fy bARS: * a |"
+    },
+    {
+      "line": 29,
+      "text": "i a \\ 7) a sae ii, Ff ed"
+    },
+    {
+      "line": 32,
+      "text": "t WASHINGTON MOSCOW s"
+    },
+    {
+      "line": 40,
+      "text": "g Ps Ly"
+    },
+    {
+      "line": 45,
+      "text": "OREASY"
+    },
+    {
+      "line": 46,
+      "text": "DooRKNORS"
+    },
+    {
+      "line": 50,
+      "text": "honstine"
+    },
+    {
+      "line": 53,
+      "text": "LOWERCASE SIGNATURES |"
+    },
+    {
+      "line": 56,
+      "text": "BALLOON ANIMALS"
+    },
+    {
+      "line": 62,
+      "text": "NICKNAME; “COOKIE ”"
+    },
+    {
+      "line": 65,
+      "text": "INSTANT COFFEE"
+    },
+    {
+      "line": 69,
+      "text": "H T TOBE AN 0"
+    },
+    {
+      "line": 70,
+      "text": "ey WHAT kin og GEviv ov?"
+    },
+    {
+      "line": 71,
+      "text": "P ‘ CONSULT THIS anes CAR EER-Guipance CHaar"
+    },
+    {
+      "line": 72,
+      "text": "i IF You BUT Gov"
+    },
+    {
+      "line": 76,
+      "text": "THEN You cay"
+    },
+    {
+      "line": 77,
+      "text": "Like Con'T LIKE BECome"
+    },
+    {
+      "line": 80,
+      "text": "ONSPiRacY"
+    },
+    {
+      "line": 81,
+      "text": "GREASY FUR S THEORIES ©) Lower Back"
+    },
+    {
+      "line": 82,
+      "text": "Ain) HO"
+    },
+    {
+      "line": 83,
+      "text": "SPLITTING WW) STue"
+    },
+    {
+      "line": 84,
+      "text": "Pe And 0"
+    },
+    {
+      "line": 87,
+      "text": "DARK CIReLES ag How) THE DO Can)"
+    },
+    {
+      "line": 88,
+      "text": "EP YNDER Eves GO To HELL Rog ALL You cAR"
+    },
+    {
+      "line": 89,
+      "text": "NERvous"
+    },
+    {
+      "line": 90,
+      "text": "Lean ForT Ore, T"
+    },
+    {
+      "line": 91,
+      "text": ", OREAN VACATIONS"
+    },
+    {
+      "line": 94,
+      "text": "CHES"
+    },
+    {
+      "line": 100,
+      "text": "-~o HAv"
+    },
+    {
+      "line": 103,
+      "text": "Money"
+    }
+  ]
+}

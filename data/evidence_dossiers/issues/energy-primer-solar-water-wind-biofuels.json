@@ -1,0 +1,704 @@
+{
+  "title": "Energy Primer: Solar, Water, Wind, and BioFuels",
+  "identifier": "energyprimersola00unse",
+  "year": 1974,
+  "season": "",
+  "collection": "Special Publications",
+  "collection_zh": "专题出版物",
+  "pages": 204,
+  "url": "https://wholeearth.info/p/energy-primer-solar-water-wind-biofuels",
+  "archive_url": "https://archive.org/details/energyprimersola00unse",
+  "pdf_url": "https://archive.org/download/energyprimersola00unse/energyprimersola00unse.pdf",
+  "cover_url": "https://archive.org/download/energyprimersola00unse/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/energyprimersola00unse_djvu.txt",
+  "ocr_chars": 1245099,
+  "significant_line_count": 26751,
+  "theme_counts": {
+    "software_computing": 73,
+    "tools_craft": 1363,
+    "ecology_place": 4242,
+    "learning_media": 640,
+    "community_politics": 370
+  },
+  "top_themes": [
+    "ecology_place",
+    "tools_craft",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 8248,
+      "page": 2,
+      "title": "TRAYS",
+      "image_url": "https://archive.org/download/energyprimersola00unse/page/n3_w500.jpg"
+    },
+    {
+      "line": 12300,
+      "page": 4,
+      "title": "FT. AWAY",
+      "image_url": "https://archive.org/download/energyprimersola00unse/page/n5_w500.jpg"
+    },
+    {
+      "line": 16836,
+      "page": 12,
+      "title": "PA, 170 540 1360 2660 4600",
+      "image_url": "https://archive.org/download/energyprimersola00unse/page/n13_w500.jpg"
+    },
+    {
+      "line": 24383,
+      "page": 21,
+      "title": "TONS",
+      "image_url": "https://archive.org/download/energyprimersola00unse/page/n22_w500.jpg"
+    },
+    {
+      "line": 24393,
+      "page": 30,
+      "title": "BUSHELS",
+      "image_url": "https://archive.org/download/energyprimersola00unse/page/n31_w500.jpg"
+    },
+    {
+      "line": 27694,
+      "page": 1,
+      "title": "POUND OF PROTEIN FOR HUMAN CONSUMPTION. REDRAWN",
+      "image_url": "https://archive.org/download/energyprimersola00unse/page/n2_w500.jpg"
+    },
+    {
+      "line": 34265,
+      "page": 55,
+      "title": "GALLON DRUM SMOKE EXCHANGER",
+      "image_url": "https://archive.org/download/energyprimersola00unse/page/n56_w500.jpg"
+    },
+    {
+      "line": 38423,
+      "page": 8,
+      "title": "AGRI-",
+      "image_url": "https://archive.org/download/energyprimersola00unse/page/n9_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 8248,
+      "text": "2 TRAYS",
+      "score": 8
+    },
+    {
+      "line": 12300,
+      "text": "4 FT. AWAY",
+      "score": 8
+    },
+    {
+      "line": 16836,
+      "text": "12 PA, 170 540 1360 2660 4600",
+      "score": 8
+    },
+    {
+      "line": 24383,
+      "text": "21 TONS",
+      "score": 8
+    },
+    {
+      "line": 24393,
+      "text": "30 BUSHELS",
+      "score": 8
+    },
+    {
+      "line": 24485,
+      "text": "1Golley, F.B. 1961. ENERGY VALUES OF ECOLOGICAL MATERIALS. Ecology",
+      "score": 8
+    },
+    {
+      "line": 27694,
+      "text": "1 POUND OF PROTEIN FOR HUMAN CONSUMPTION. REDRAWN",
+      "score": 8
+    },
+    {
+      "line": 28467,
+      "text": "2 SURFACE",
+      "score": 8
+    },
+    {
+      "line": 31447,
+      "text": "4 AGRICULTURAL BENEFITS AND ENVIRONMENTAL CHANGES RESULTING",
+      "score": 8
+    },
+    {
+      "line": 34265,
+      "text": "55 GALLON DRUM SMOKE EXCHANGER",
+      "score": 8
+    },
+    {
+      "line": 38423,
+      "text": "8 AGRI-",
+      "score": 8
+    },
+    {
+      "line": 49,
+      "text": "ENERGY",
+      "score": 6
+    },
+    {
+      "line": 368,
+      "text": "SOLAR ENERGY UTILIZATION",
+      "score": 6
+    },
+    {
+      "line": 4673,
+      "text": "ATA ON SOLAR ENERGY",
+      "score": 6
+    },
+    {
+      "line": 4858,
+      "text": "] | RATIO OF TOTAL | FRACTION OF THE TOTAL ENERGY IN THE",
+      "score": 6
+    },
+    {
+      "line": 5042,
+      "text": "COMMUNITY COLLEGE OF DENVER. 50,000 SO. FT. OF SOLAR",
+      "score": 6
+    },
+    {
+      "line": 5140,
+      "text": "REVIEWS/SOLAR",
+      "score": 6
+    },
+    {
+      "line": 5143,
+      "text": "DIRECT USES OF THE SUN’S ENERGY",
+      "score": 6
+    },
+    {
+      "line": 5211,
+      "text": "NEW SOURCES OF ENERGY, ROME,",
+      "score": 6
+    },
+    {
+      "line": 5343,
+      "text": "UTILIZATION OF SOLAR ENERGY",
+      "score": 6
+    },
+    {
+      "line": 5555,
+      "text": "SOLAR ENERGY",
+      "score": 6
+    },
+    {
+      "line": 5605,
+      "text": "SOLAR ENERGY ASA",
+      "score": 6
+    },
+    {
+      "line": 5606,
+      "text": "NATIONAL ENERGY RESOURCE",
+      "score": 6
+    },
+    {
+      "line": 5710,
+      "text": "SOLAR ENERGY FOR MAN",
+      "score": 6
+    },
+    {
+      "line": 5772,
+      "text": "SOLAR ENERGY TECHNOLOGY",
+      "score": 6
+    },
+    {
+      "line": 5884,
+      "text": "APPLIED SOLAR ENERGY",
+      "score": 6
+    },
+    {
+      "line": 5948,
+      "text": "ENERGY TECHNOLOGY",
+      "score": 6
+    },
+    {
+      "line": 6100,
+      "text": "TABLE 2. EXAMPLE ENERGY STORAGE MEDIA",
+      "score": 6
+    },
+    {
+      "line": 6179,
+      "text": "OF SOLAR ENERGY",
+      "score": 6
+    },
+    {
+      "line": 6214,
+      "text": "SOLAR ENERGY RESEARCH",
+      "score": 6
+    },
+    {
+      "line": 6296,
+      "text": "ENERGY: THE SCIENTIFIC BASIS",
+      "score": 6
+    },
+    {
+      "line": 6408,
+      "text": "SOLAR ENERGY HANDBOOK",
+      "score": 6
+    },
+    {
+      "line": 6590,
+      "text": "WIND AND SOLAR ENERGY:",
+      "score": 6
+    },
+    {
+      "line": 6723,
+      "text": "SOLAR ENERGY WARM",
+      "score": 6
+    },
+    {
+      "line": 6925,
+      "text": "SOLAR ENERGY DIGEST",
+      "score": 6
+    },
+    {
+      "line": 7046,
+      "text": "SOLAR ENERGY RESEARCH AND",
+      "score": 6
+    },
+    {
+      "line": 7102,
+      "text": "A PRACTICAL SOLAR ENERGY",
+      "score": 6
+    },
+    {
+      "line": 7518,
+      "text": "SOLAR ENERGY JOURNAL",
+      "score": 6
+    },
+    {
+      "line": 7540,
+      "text": "ENERGY SOCIETY",
+      "score": 6
+    },
+    {
+      "line": 8797,
+      "text": "SOLAR ENERGY DEVELOPMENT",
+      "score": 6
+    },
+    {
+      "line": 9843,
+      "text": "ILLUSTRATED SOLAR ENERGY",
+      "score": 6
+    },
+    {
+      "line": 10089,
+      "text": "SOLAR ENERGY ENGINEERING",
+      "score": 6
+    },
+    {
+      "line": 14395,
+      "text": "REVIEWS/WATER",
+      "score": 6
+    },
+    {
+      "line": 15287,
+      "text": "COMMUNITY WATER SYSTEMS |",
+      "score": 6
+    },
+    {
+      "line": 16552,
+      "text": "CONSIDER WIND ENERGY",
+      "score": 6
+    },
+    {
+      "line": 17782,
+      "text": "WIND ENERGY INSTITUTE",
+      "score": 6
+    },
+    {
+      "line": 18816,
+      "text": "_ WIND ENERGY R&D",
+      "score": 6
+    },
+    {
+      "line": 19806,
+      "text": "BATTERIES AND ENERGY SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 19984,
+      "text": "WIND ENERGY FIRMING & STORAGE CONCEPTS",
+      "score": 6
+    },
+    {
+      "line": 20221,
+      "text": "DIRECT ENERGY CONVERSION",
+      "score": 6
+    },
+    {
+      "line": 20304,
+      "text": "PRESENT USE OF NATURAL ENERGY RESOURCES.",
+      "score": 6
+    },
+    {
+      "line": 22982,
+      "text": "BIOMASS ENERGY",
+      "score": 6
+    },
+    {
+      "line": 23095,
+      "text": "FIG. 1 AVERAGE DISPOSITION OF SOLAR ENERGY IN THE BIOSPHERE.",
+      "score": 6
+    },
+    {
+      "line": 23096,
+      "text": "EVERY DAY NEARLY 100 TIMES MORE ENERGY FALLS ON THE",
+      "score": 6
+    },
+    {
+      "line": 23198,
+      "text": "I. LIFE FORMS BY THE WAY THEY OBTAIN ENERGY",
+      "score": 6
+    },
+    {
+      "line": 23213,
+      "text": "Il. LIFE FORMS BY THE WAY THEY OBTAIN ENERGY AND CARBON",
+      "score": 6
+    },
+    {
+      "line": 23223,
+      "text": "THEY OBTAIN ENERGY AND CARBON. ONLY TWO SOURCES OF",
+      "score": 6
+    },
+    {
+      "line": 23224,
+      "text": "ENERGY ARE AVAILABLE: SOLAR ENERGY AND BIOMASS",
+      "score": 6
+    },
+    {
+      "line": 23225,
+      "text": "ENERGY. LIKEWISE ONLY TWO SOURCES OF CARBON ARE",
+      "score": 6
+    },
+    {
+      "line": 23366,
+      "text": "INCIDENT SOLAR ENERGY 2.043",
+      "score": 6
+    },
+    {
+      "line": 23375,
+      "text": "ING SEASON (100 DAYS). 76.6% OF THE SOLAR ENERGY ASSI-",
+      "score": 6
+    },
+    {
+      "line": 23391,
+      "text": "ENERGY BUDGET OF AN ACRE OF CORN DURING ONE GROW-",
+      "score": 6
+    },
+    {
+      "line": 23409,
+      "text": "A. STEAM > MECHANICAL ENERGY",
+      "score": 6
+    },
+    {
+      "line": 23543,
+      "text": "EFFICIENCIES OF SOLAR ENERGY CONVERSION SYSTEMS:",
+      "score": 6
+    },
+    {
+      "line": 23603,
+      "text": "FIG,2 THE RELATIONSHIP BETWEEN ENERGY GAINED IN",
+      "score": 6
+    },
+    {
+      "line": 23604,
+      "text": "NET PRIMARY PRODUCTIVITY AND ENERGY LOST TO",
+      "score": 6
+    },
+    {
+      "line": 23680,
+      "text": "FIG.3 RECYCLING OF NUTRIENTS AND FLOW OF ENERGY IN THE",
+      "score": 6
+    },
+    {
+      "line": 23683,
+      "text": "SOLAR ENERGY IS STORED AT ANY ONE TIME. EVENTUALLY",
+      "score": 6
+    },
+    {
+      "line": 23686,
+      "text": "ALL BIOMASS ENERGY DISSIPATES -INTO OUTER SPACE AS HEAT.",
+      "score": 6
+    },
+    {
+      "line": 23760,
+      "text": "PYRAMID OF ENERGY PYRAMID OF NUMBERS",
+      "score": 6
+    },
+    {
+      "line": 23765,
+      "text": "OF ENERGY AND BIOMASS ARE FROM GRASS/COW ECOSYSTEM",
+      "score": 6
+    },
+    {
+      "line": 23916,
+      "text": "TABLE VI ENERGY VALUES OF VARIOUS FOSSIL FUELS AND BIOFUELS",
+      "score": 6
+    },
+    {
+      "line": 24454,
+      "text": "1Golley, F.B. 1960. ENERGY DYNAMICS OF A FOOD CHAIN OF AN OLD-",
+      "score": 6
+    },
+    {
+      "line": 24461,
+      "text": "(Transeau, E.N. 1926. THE ACCUMULATION OF ENERGY BY PLANTS Ohio",
+      "score": 6
+    },
+    {
+      "line": 24468,
+      "text": "CONCEPT. !: ECOLOGICAL EFFICIENCIES. Ecology, 49:48-59.",
+      "score": 6
+    },
+    {
+      "line": 24480,
+      "text": "Fair, GM. & E.W. Moore. 1932. HEAT AND ENERGY RELATIONS IN THE",
+      "score": 6
+    },
+    {
+      "line": 24488,
+      "text": "2Merrill, A.L. and.B.K. Watt. 1955. ENERGY VALUE OF FOODS---BASIS AND",
+      "score": 6
+    },
+    {
+      "line": 24519,
+      "text": "20Anderson, L.L:; 1972. ENERGY POTENTIAL FROM ORGANIC WASTES: A",
+      "score": 6
+    },
+    {
+      "line": 24526,
+      "text": "22Szego, G.C. and C.C. Kemp. 1973. ENERGY FORESTS AND FUEL PLANTA-",
+      "score": 6
+    },
+    {
+      "line": 24529,
+      "text": "23Szetela, E.J. et al 1974. EVALUATION OF A MARINE ENERGY FARM CON-",
+      "score": 6
+    }
+  ],
+  "snippets": [
+    {
+      "line": 12,
+      "term": "energy",
+      "snippet": "In 2023 with funding from Gray Area | https://archive.org/details/energyprimersola00unse P ees Cer FRONT COVER Photo courtesy of the High Altitude Observatory and"
+    },
+    {
+      "line": 37,
+      "term": "energy",
+      "snippet": "Graphic courtesy of Sandicker Studios, Mountain View, California. served. For information, write Energy Primer, Portola Institute, 558 Santa Cruz Avenue, Menlo Park, Califor- nia 94025. Printed in the United States of America by Fricke-Parks Press, Inc., Fremont, California 94536."
+    },
+    {
+      "line": 49,
+      "term": "energy",
+      "snippet": "Fricke-Parks Press, Inc., Fremont, California 94536. LOC Catalog Card Number 74-81048 ENERGY PRIMER SOLAR, WATER, WIND, AND BIOFUELS"
+    },
+    {
+      "line": 81,
+      "term": "energy",
+      "snippet": "Information 200 los. Ba eo Ss ee I Abstract: The Energy Primer is a comprehensive, fairly technical book about renewable forms of energy - solar, water, wind, and biofuels. The biofuels section covers biomass energy, agriculture, aquacu/ture, alcohol, methane, and wood. The focus is on small-scale systems which can be applied to the needs of the individual, small group, or community. More than % of the book is devoted to reviews of books and hardware sources."
+    },
+    {
+      "line": 82,
+      "term": "energy",
+      "snippet": "los. Ba eo Ss ee I Abstract: The Energy Primer is a comprehensive, fairly technical book about renewable forms of energy - solar, water, wind, and biofuels. The biofuels section covers biomass energy, agriculture, aquacu/ture, alcohol, methane, and wood. The focus is on small-scale systems which can be applied to the needs of the individual, small group, or community. More than % of the book is devoted to reviews of books and hardware sources. Hundreds of illustrations and a dozen original articles are used to describe the workings of solar water heaters,"
+    },
+    {
+      "line": 84,
+      "term": "community",
+      "snippet": "solar, water, wind, and biofuels. The biofuels section covers biomass energy, agriculture, aquacu/ture, alcohol, methane, and wood. The focus is on small-scale systems which can be applied to the needs of the individual, small group, or community. More than % of the book is devoted to reviews of books and hardware sources. Hundreds of illustrations and a dozen original articles are used to describe the workings of solar water heaters, space heaters and dryers, waterwheels, windmills, wind generators, wood burning heaters, alcohol stills, and methane digesters. The final section of the book focuses on the need for energy conservation and some of the"
+    },
+    {
+      "line": 87,
+      "term": "energy",
+      "snippet": "Hundreds of illustrations and a dozen original articles are used to describe the workings of solar water heaters, space heaters and dryers, waterwheels, windmills, wind generators, wood burning heaters, alcohol stills, and methane digesters. The final section of the book focuses on the need for energy conservation and some of the problems and potentials of integrated energy systems. This book was written to fill a void. The groups involved with the Energy Primer had been receiving numerous inquiries about methods"
+    },
+    {
+      "line": 90,
+      "term": "energy",
+      "snippet": "space heaters and dryers, waterwheels, windmills, wind generators, wood burning heaters, alcohol stills, and methane digesters. The final section of the book focuses on the need for energy conservation and some of the problems and potentials of integrated energy systems. This book was written to fill a void. The groups involved with the Energy Primer had been receiving numerous inquiries about methods of supplying energy needs that could be implemented by individuals and"
+    },
+    {
+      "line": 94,
+      "term": "energy",
+      "snippet": "problems and potentials of integrated energy systems. This book was written to fill a void. The groups involved with the Energy Primer had been receiving numerous inquiries about methods of supplying energy needs that could be implemented by individuals and small groups. Solar/wind devices and methane digesters seemed to be particularly popular, but there were also the inevitable questions about"
+    },
+    {
+      "line": 95,
+      "term": "energy",
+      "snippet": "This book was written to fill a void. The groups involved with the Energy Primer had been receiving numerous inquiries about methods of supplying energy needs that could be implemented by individuals and small groups. Solar/wind devices and methane digesters seemed to be particularly popular, but there were also the inevitable questions about “organic” gardening and farming, water power, wood and alcohol. There"
+    },
+    {
+      "line": 102,
+      "term": "energy",
+      "snippet": "without relying so much on outside power sources that pollute and that are rising in cost and dwindling in supply?’’ People wanted to know about food and fuel supplies that came from renewable sources of energy rather than non-renewable oil wells and nuclear reactors. But it seemed that people were asking much more than just: ‘“How can | build a solar collector,’ or, “Should | build a solar collector?’’ Most"
+    },
+    {
+      "line": 112,
+      "term": "energy",
+      "snippet": "everyday needs. The supermarket and the wall plug are still the major sup- ply sources and there seems no end to it. So we set out to write a book about renewable energy systems that people could use for themselves; a description of how they work, their limitations and potentials and the hardware and techniques necessary to grow, build and maintain them. But we soon realized that there were"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 8,
+      "text": "In 2023 with funding from"
+    },
+    {
+      "line": 9,
+      "text": "Gray Area"
+    },
+    {
+      "line": 12,
+      "text": "| https://archive.org/details/energyprimersola00unse"
+    },
+    {
+      "line": 16,
+      "text": "P ees Cer"
+    },
+    {
+      "line": 19,
+      "text": "FRONT COVER"
+    },
+    {
+      "line": 21,
+      "text": "Photo courtesy of the High Altitude Observatory and"
+    },
+    {
+      "line": 22,
+      "text": "NASA. Sun’s hot outer atmosphere, or corona, color-"
+    },
+    {
+      "line": 23,
+      "text": "coded to distinguish levels of brightness, reaches out-"
+    },
+    {
+      "line": 24,
+      "text": "ward for millions of miles. A coronagraph, one of Sky-"
+    },
+    {
+      "line": 25,
+      "text": "lab’s eight telescopes, masked the sun’s disk, creating"
+    },
+    {
+      "line": 26,
+      "text": "artificial eclipses. It permitted 8% months of corona"
+    },
+    {
+      "line": 27,
+      "text": "observation, compared to less than 80 hours from all"
+    },
+    {
+      "line": 28,
+      "text": "natural eclipses since use of photography began in"
+    },
+    {
+      "line": 31,
+      "text": "BACK COVER"
+    },
+    {
+      "line": 33,
+      "text": "Graphic courtesy of Sandicker Studios, Mountain"
+    },
+    {
+      "line": 34,
+      "text": "View, California."
+    },
+    {
+      "line": 37,
+      "text": "served. For information, write Energy Primer, Portola"
+    },
+    {
+      "line": 38,
+      "text": "Institute, 558 Santa Cruz Avenue, Menlo Park, Califor-"
+    },
+    {
+      "line": 39,
+      "text": "nia 94025. Printed in the United States of America by"
+    },
+    {
+      "line": 40,
+      "text": "Fricke-Parks Press, Inc., Fremont, California 94536."
+    },
+    {
+      "line": 41,
+      "text": "LOC Catalog Card Number 74-81048"
+    },
+    {
+      "line": 49,
+      "text": "ENERGY"
+    },
+    {
+      "line": 50,
+      "text": "PRIMER"
+    },
+    {
+      "line": 53,
+      "text": "SOLAR, WATER, WIND,"
+    },
+    {
+      "line": 54,
+      "text": "AND BIOFUELS"
+    },
+    {
+      "line": 60,
+      "text": "Introduction 2"
+    },
+    {
+      "line": 61,
+      "text": "Solar 4"
+    },
+    {
+      "line": 62,
+      "text": "Water Syd"
+    },
+    {
+      "line": 63,
+      "text": "Wind 74"
+    },
+    {
+      "line": 64,
+      "text": "Biofuels"
+    },
+    {
+      "line": 65,
+      "text": "Biomass 106"
+    },
+    {
+      "line": 66,
+      "text": "Agriculture 114"
+    },
+    {
+      "line": 67,
+      "text": "Aquaculture 129"
+    },
+    {
+      "line": 68,
+      "text": "Methane 142"
+    },
+    {
+      "line": 69,
+      "text": "Alcohol 148"
+    },
+    {
+      "line": 70,
+      "text": "Wood 154"
+    },
+    {
+      "line": 71,
+      "text": "Architecture 167"
+    },
+    {
+      "line": 72,
+      "text": "Integrated Systems 178"
+    },
+    {
+      "line": 73,
+      "text": "Conversion Factors 194"
+    },
+    {
+      "line": 75,
+      "text": "Credits 200"
+    }
+  ]
+}

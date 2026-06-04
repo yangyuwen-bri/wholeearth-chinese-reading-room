@@ -1,0 +1,662 @@
+{
+  "title": "CoEvolution Quarterly, Fall 1983",
+  "identifier": "coevolutionquart00unse_35",
+  "year": 1983,
+  "season": "Fall",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1983",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_35",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_35/coevolutionquart00unse_35.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_35/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_35_djvu.txt",
+  "ocr_chars": 644142,
+  "significant_line_count": 16555,
+  "theme_counts": {
+    "software_computing": 85,
+    "tools_craft": 249,
+    "ecology_place": 519,
+    "learning_media": 455,
+    "community_politics": 575
+  },
+  "top_themes": [
+    "community_politics",
+    "ecology_place",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 17848,
+      "page": 1,
+      "title": "JUST",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_35/page/n2_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 17848,
+      "text": "1 JUST",
+      "score": 8
+    },
+    {
+      "line": 225,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 263,
+      "text": "~ DEPARTMENTS/REVIEWS",
+      "score": 6
+    },
+    {
+      "line": 266,
+      "text": "| WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 294,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 319,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 4,
+      "text": "By / POLITICS \\&| RELIGION /.4p",
+      "score": 4
+    },
+    {
+      "line": 12,
+      "text": "a SSS",
+      "score": 4
+    },
+    {
+      "line": 32,
+      "text": "ONE DNA MOLECULE",
+      "score": 4
+    },
+    {
+      "line": 113,
+      "text": "FEATURES __ |",
+      "score": 4
+    },
+    {
+      "line": 116,
+      "text": "ARTICLES",
+      "score": 4
+    },
+    {
+      "line": 127,
+      "text": "68 MOTHER TERESA’S FIRST LOVE",
+      "score": 4
+    },
+    {
+      "line": 138,
+      "text": "AN ACID RAIN PREVENTION",
+      "score": 4
+    },
+    {
+      "line": 148,
+      "text": "ATMOSPHILE NOTES",
+      "score": 4
+    },
+    {
+      "line": 162,
+      "text": "FICTION",
+      "score": 4
+    },
+    {
+      "line": 172,
+      "text": "“LITE”/“BOLD”",
+      "score": 4
+    },
+    {
+      "line": 206,
+      "text": "POLITICS & RELIGION",
+      "score": 4
+    },
+    {
+      "line": 219,
+      "text": "POLITICS",
+      "score": 4
+    },
+    {
+      "line": 238,
+      "text": "NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 246,
+      "text": "CRAFT",
+      "score": 4
+    },
+    {
+      "line": 250,
+      "text": "SOFT TECH",
+      "score": 4
+    },
+    {
+      "line": 285,
+      "text": "LAND USE",
+      "score": 4
+    },
+    {
+      "line": 333,
+      "text": "BACKSCATTER",
+      "score": 4
+    },
+    {
+      "line": 337,
+      "text": "BUSINESS",
+      "score": 4
+    },
+    {
+      "line": 346,
+      "text": "COVERS",
+      "score": 4
+    },
+    {
+      "line": 367,
+      "text": "POLITICS &RELIGION =-(i‘( Ow",
+      "score": 4
+    },
+    {
+      "line": 370,
+      "text": "EDITOR TELLS ALL:",
+      "score": 4
+    },
+    {
+      "line": 386,
+      "text": "JAY KINNEY",
+      "score": 4
+    },
+    {
+      "line": 464,
+      "text": "THE CoEVOLUTION QUARTERLY - FALL 1983",
+      "score": 4
+    },
+    {
+      "line": 550,
+      "text": "BOX 428 SAUSALITO CA 94966",
+      "score": 4
+    },
+    {
+      "line": 622,
+      "text": "A NEW LIFE",
+      "score": 4
+    },
+    {
+      "line": 625,
+      "text": "RAPTURE OF",
+      "score": 4
+    },
+    {
+      "line": 626,
+      "text": "THE SAVED",
+      "score": 4
+    },
+    {
+      "line": 629,
+      "text": "SEALS",
+      "score": 4
+    },
+    {
+      "line": 632,
+      "text": "“TRIBULATION JUDGMENT CHRIST IN",
+      "score": 4
+    },
+    {
+      "line": 644,
+      "text": "ew TERBGRARY PEACE. JEWISH",
+      "score": 4
+    },
+    {
+      "line": 647,
+      "text": "TEMPLE REBUT BY --o",
+      "score": 4
+    },
+    {
+      "line": 652,
+      "text": "ato, Fa JUDGHENT CONTENT",
+      "score": 4
+    },
+    {
+      "line": 653,
+      "text": "‘ ONLY, NOT SEQUENCE",
+      "score": 4
+    },
+    {
+      "line": 654,
+      "text": "OR TIME OF OCCURRENCE,",
+      "score": 4
+    },
+    {
+      "line": 764,
+      "text": "THE CoEVOLUTION QUARTERLY",
+      "score": 4
+    },
+    {
+      "line": 767,
+      "text": "FALL 1983 ©",
+      "score": 4
+    },
+    {
+      "line": 944,
+      "text": "LIVE ON LAND IN THE SIERRA",
+      "score": 4
+    },
+    {
+      "line": 967,
+      "text": "THE CoEVOLUTION QUARTERLY FALL 1983",
+      "score": 4
+    },
+    {
+      "line": 1077,
+      "text": "a}N NORTH AMERICA AND",
+      "score": 4
+    },
+    {
+      "line": 1143,
+      "text": "Kee 3 1 ace N THE HUNTING AND GATHER-",
+      "score": 4
+    },
+    {
+      "line": 1145,
+      "text": "POD i",
+      "score": 4
+    },
+    {
+      "line": 1306,
+      "text": "O THE NATURE OF THE",
+      "score": 4
+    },
+    {
+      "line": 1420,
+      "text": "SESSILIS",
+      "score": 4
+    },
+    {
+      "line": 1465,
+      "text": "| HE ORIGINAL INHABITANTS OF",
+      "score": 4
+    },
+    {
+      "line": 1535,
+      "text": "xy } HE AINU WERE PROBABLY THE",
+      "score": 4
+    },
+    {
+      "line": 1676,
+      "text": "Cie IS OF COURSE NOT EVIL, to, as",
+      "score": 4
+    },
+    {
+      "line": 1778,
+      "text": "ET THERE IS SUCH A THING AS",
+      "score": 4
+    },
+    {
+      "line": 1862,
+      "text": "OWADAYS SOME PRESENT-DAY",
+      "score": 4
+    },
+    {
+      "line": 1894,
+      "text": "r VULVA WAG AN OPAL",
+      "score": 4
+    },
+    {
+      "line": 1902,
+      "text": "mM TONTOTT",
+      "score": 4
+    },
+    {
+      "line": 1964,
+      "text": "O TO RETURN TO MY OWN",
+      "score": 4
+    },
+    {
+      "line": 1973,
+      "text": "THE CoEVOLWTION QUARTERLY = FALL 1983",
+      "score": 4
+    },
+    {
+      "line": 2088,
+      "text": "A REBIRTH",
+      "score": 4
+    },
+    {
+      "line": 2091,
+      "text": "RELIGION AND LIBERAL RENEWAL",
+      "score": 4
+    },
+    {
+      "line": 2094,
+      "text": "OF VIRTUE",
+      "score": 4
+    },
+    {
+      "line": 2192,
+      "text": "THE CoEVOLUTION QUARTERLY = FALL 1983",
+      "score": 4
+    },
+    {
+      "line": 3180,
+      "text": "SYMPOSIUM",
+      "score": 4
+    },
+    {
+      "line": 3183,
+      "text": "BOB GALE / SOJOURNERS",
+      "score": 4
+    },
+    {
+      "line": 3348,
+      "text": "ARDON ALGER/RELUCTANT RESISTER",
+      "score": 4
+    },
+    {
+      "line": 4136,
+      "text": "THE CoEVOLWTION QUARTERLY - FALLI983",
+      "score": 4
+    },
+    {
+      "line": 4213,
+      "text": "“SYMPOSIUM.",
+      "score": 4
+    },
+    {
+      "line": 4289,
+      "text": "LAROUSSE WORLD MYTHOLOGY",
+      "score": 4
+    },
+    {
+      "line": 4353,
+      "text": "SYMPOSIUM:",
+      "score": 4
+    },
+    {
+      "line": 4655,
+      "text": "PAM ISHERWOOD/WRL NEWS",
+      "score": 4
+    },
+    {
+      "line": 4766,
+      "text": "SYMPOSIUM?",
+      "score": 4
+    },
+    {
+      "line": 5200,
+      "text": "36 THE CoEVOLUTION QUARTERLY FALL 1983",
+      "score": 4
+    },
+    {
+      "line": 5280,
+      "text": "BOX 428 SAUSALITO .CA 94966",
+      "score": 4
+    },
+    {
+      "line": 5555,
+      "text": "= <= IBERATION",
+      "score": 4
+    },
+    {
+      "line": 6090,
+      "text": "N OUR GENERATION,",
+      "score": 4
+    },
+    {
+      "line": 6117,
+      "text": "A RELIGIOUS APPROACH",
+      "score": 4
+    },
+    {
+      "line": 6123,
+      "text": "TO PREVENTING",
+      "score": 4
+    },
+    {
+      "line": 6129,
+      "text": "\"MASTERY",
+      "score": 4
+    },
+    {
+      "line": 6132,
+      "text": "NUCLEAR HOLOCAUST",
+      "score": 4
+    },
+    {
+      "line": 6251,
+      "text": "EWISH TRADITION",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 196,
+      "term": "energy",
+      "snippet": "Second-class postage paid at Sausalito, California, and at additional mailing offices. Claims for missing issues will not be honored later than six months after publication. Back issues are available from CQ or on microfilm and as xerographic reprints from University Microfilms International, Serials Bid Coordinator, 300 Zeeb Recent CQ mailing list renters: People’s Medical Society, Common Cause, New Alchemy Institute, Golden Gate Energy Center, Bio-Intensive Farms, American Civil Liberties Union, Environmental Task Force, Wilderness Society, The Nation, Sierra Club, Ben Ruhe/Boomerang, Modern Times, SANE, The Ojai Foundation, World Policy Institute, International Physicians for the Prevention of Nuclear War, Amnesty International, American Friends Service Committee, Clergy & Laity Concerned, The Animal Town Game Co."
+    },
+    {
+      "line": 225,
+      "term": "community",
+      "snippet": "61 When the Wind Blows g Who Really Gives COMMUNITY 66 Triathlon m Tri-Athlete 67 Chocolate to Morphine m Better Beer and How to Brew It"
+    },
+    {
+      "line": 254,
+      "term": "tools",
+      "snippet": "Manual @ Takilma Forge & Wagon Works 95 Down to Earth m Chainsaw Savvy 98 Tools for the Soft Path m Zomeworks Little Plate m Goulds Pumps . 99 Passive Solar Journal m Practical Photovoltaics m International Solar Pond"
+    },
+    {
+      "line": 266,
+      "term": "whole systems",
+      "snippet": "Letters m Snorkel hot tub stove ~ DEPARTMENTS/REVIEWS | WHOLE SYSTEMS 104 Maps and Dreams @ Seismicity of the Earth Map 1960-1980 110 The Rhythms of Life m African Wildlife"
+    },
+    {
+      "line": 277,
+      "term": "ecology",
+      "snippet": "110 The Rhythms of Life m African Wildlife Leadership Foundation m Wildlife News 111. +=Nature Watch m Wildlife Ecology Handbooks m Endangered Species Technical Bulletin 112 Powers of Ten"
+    },
+    {
+      "line": 294,
+      "term": "communications",
+      "snippet": "113. Gardens For All m The Youth Gardening Book COMMUNICATIONS 116 USA Today mg The Media Monopoly 120 The Personal Computer Book mg The Word Processing Book m The Personal"
+    },
+    {
+      "line": 319,
+      "term": "learning",
+      "snippet": "Archives How to Make and Use Private Radio Codes LEARNING 128 The Great Sundial Cutout Book # Woodworking with Kids 129 Airflite Juggling Clubs m IJA Juggler’s"
+    },
+    {
+      "line": 428,
+      "term": "community",
+      "snippet": "the testimonials from an impressive cross-section of local and national liberals, progressives, civil- rights leaders, and community activists; and the strong emphasis on practical programs of self-help for the urban poor. Hindsight shows how much of this was propa-"
+    },
+    {
+      "line": 936,
+      "term": "ecology",
+      "snippet": "United Kingdom. It will also appear in an anthology, Voices from Deep Ecology, to be edited by Bill Devall and published by Earth First! this coming winter. (For more of Snyder’s voice, see The Real Work, NWEC p. 47.)"
+    },
+    {
+      "line": 1552,
+      "term": "energy",
+      "snippet": "ty waterfalls. Anomalies and beauties of the land- scape are all signs of Kami - spirit power, spirit presence, energy. The greatest of all the kami, or spirit forces of Japan, is Mt. Fuji. The name Fu- ji is now thought to be an old Ainu placename meaning “fire goddess.” All of Mt. Fuji is a Shin-"
+    },
+    {
+      "line": 1566,
+      "term": "energy",
+      "snippet": "expression of Neolithic village culture. Even in the midst of the enormous onrushing industrial energy of the current system, shrine lands remain untouchable. It would make your hair stand up to see how the Japanese will take bulldozers to a nice slope of pines and level it for a new"
+    },
+    {
+      "line": 1772,
+      "term": "ecology",
+      "snippet": "The anthropocentrism of some New Age thinkers is countered by the radical critique of the deep ecology movement. ET THERE IS SUCH A THING AS training. The natural world moves by process, and by complemen-"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "ee Se | 9 Oe Ds"
+    },
+    {
+      "line": 4,
+      "text": "By / POLITICS \\&| RELIGION /.4p"
+    },
+    {
+      "line": 12,
+      "text": "a SSS"
+    },
+    {
+      "line": 13,
+      "text": "---- == a »"
+    },
+    {
+      "line": 18,
+      "text": "oe walt ad) fe Tel oe oe eC y Mat oe es oe b * 4"
+    },
+    {
+      "line": 19,
+      "text": "a hes De OR RE Me mean oe hig th coe Lm"
+    },
+    {
+      "line": 20,
+      "text": "Ste a Ai Pl SPAR EN i DM fe a"
+    },
+    {
+      "line": 32,
+      "text": "ONE DNA MOLECULE"
+    },
+    {
+      "line": 39,
+      "text": "by Ruth Kavenoff, Ph.D."
+    },
+    {
+      "line": 42,
+      "text": "he AM A CELL BIOLOGIST who uses the electron microscope to study the structure of"
+    },
+    {
+      "line": 43,
+      "text": "be chromosomes. On the facing page is a photograph of a purified bacterial chromosome, my favorite"
+    },
+    {
+      "line": 44,
+      "text": "out of several thousand pictures."
+    },
+    {
+      "line": 47,
+      "text": "For some time I have wanted to make this photograph into a poster because I thought it would be a nice"
+    },
+    {
+      "line": 49,
+      "text": "reminder of the beauty associated with science. The image is intrinsically pleasing. But the photograph"
+    },
+    {
+      "line": 51,
+      "text": "is also beautiful because it represents an accord between theory and experiment which yields a refined"
+    },
+    {
+      "line": 53,
+      "text": "view of the world. In 1972 a separate-loops model of DNA was deduced logically from a series of experiments"
+    },
+    {
+      "line": 55,
+      "text": "___ which didn't involve any direct microscopic observations. (Abraham Worcel and Elizabeth Burgi, “On the"
+    },
+    {
+      "line": 57,
+      "text": "C i Structure of the Folded Chromosome of Escherichia coli,” in Journal of Molecular Biology, Vol. 71, pp."
+    },
+    {
+      "line": 61,
+      "text": "The photograph confirmed the theoretical model. One long molecule of DNA is twisted like a rubber band"
+    },
+    {
+      "line": 62,
+      "text": "into many highly coiled loops which radiate from a central core composed of RNA (and protein). Each"
+    },
+    {
+      "line": 68,
+      "text": "loop is a portion of the one bacterial double-helix DNA molecule, wound back on itself. This organization"
+    },
+    {
+      "line": 69,
+      "text": "is important because the DNA molecule is about a thousand times longer than the bacterial cell in which"
+    },
+    {
+      "line": 70,
+      "text": "it fits. The curly appearance of the DNA in most of the loops probably reflects the way the DNA is packed,"
+    },
+    {
+      "line": 71,
+      "text": "though how that is done is not known."
+    },
+    {
+      "line": 74,
+      "text": "This chromosome was purified from the common intestinal bacterium Escherichia coli. Purifying a chromosome"
+    },
+    {
+      "line": 77,
+      "text": "is rather like obtaining an egg yolk from an egg, i.e., cracking the cell with an enzyme and separating the"
+    },
+    {
+      "line": 78,
+      "text": "chromosome. E. coli has been studied exhaustively by several generations of biologists with the belief that"
+    },
+    {
+      "line": 79,
+      "text": "“if it’s true for E. coli, it’s true for elephants, only more so.” Virtually all genetic engineering employs E. coli."
+    },
+    {
+      "line": 82,
+      "text": "Uncoiled, the DNA molecule in this chromosome is about one millimeter long and 20 angstroms wide"
+    },
+    {
+      "line": 83,
+      "text": "(one angstrom is 1/10,000,000 millimeter). Twenty angstroms is so small that it can’t be seen even with"
+    },
+    {
+      "line": 84,
+      "text": "an electron microscope. Therefore in order for the molecule to be seen, it must be coated. To make this"
+    },
+    {
+      "line": 85,
+      "text": "photograph the DNA was coated with protein (to make it thicker and spread it out) and uranium salt (to"
+    },
+    {
+      "line": 86,
+      "text": "give it contrast in the electron beam). It was also “spray painted” with platinum and palladium metal to"
+    },
+    {
+      "line": 87,
+      "text": "give additional contrast and thickness. The photograph has a magnification of about 20,000 times. Large"
+    },
+    {
+      "line": 88,
+      "text": "as it is, this bacterial DNA molecule is only about one-tenth the length of the DNA molecule in the smallest"
+    },
+    {
+      "line": 89,
+      "text": "human chromosome."
+    },
+    {
+      "line": 95,
+      "text": "This image (without text) is available as a high-quality lithograph suitable for framing. The poster is 22x28\", giving"
+    },
+    {
+      "line": 96,
+      "text": "the DNA a final magnification of 35,000X. It is printed in a dark blue, the same color as the dye Anthrabis used"
+    },
+    {
+      "line": 97,
+      "text": "in visualizing DNA in electron microscopy, hence the title “Bluegenes #1.” T-shirts with the same design are available"
+    },
+    {
+      "line": 98,
+      "text": "in 100 percent cotton, sizes S, M, L, XL. Both Tshirts and posters are signed by the designer, E. coli. Posters are"
+    }
+  ]
+}

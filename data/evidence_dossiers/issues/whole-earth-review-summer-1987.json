@@ -1,0 +1,800 @@
+{
+  "title": "Whole Earth Review, Summer 1987",
+  "identifier": "wholeearthreview00unse_10",
+  "year": 1987,
+  "season": "Summer",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 147,
+  "url": "https://wholeearth.info/p/whole-earth-review-summer-1987",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_10",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_10/wholeearthreview00unse_10.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_10/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthreview00unse_10_djvu.txt",
+  "ocr_chars": 646136,
+  "significant_line_count": 15522,
+  "theme_counts": {
+    "software_computing": 124,
+    "tools_craft": 157,
+    "ecology_place": 389,
+    "learning_media": 380,
+    "community_politics": 306
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 454,
+      "page": 2,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n3_w500.jpg"
+    },
+    {
+      "line": 612,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO, CA 94965. 3",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n28_w500.jpg"
+    },
+    {
+      "line": 684,
+      "page": 4,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n5_w500.jpg"
+    },
+    {
+      "line": 922,
+      "page": 6,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n7_w500.jpg"
+    },
+    {
+      "line": 1147,
+      "page": 8,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n9_w500.jpg"
+    },
+    {
+      "line": 1441,
+      "page": 10,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n11_w500.jpg"
+    },
+    {
+      "line": 1731,
+      "page": 12,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n13_w500.jpg"
+    },
+    {
+      "line": 2035,
+      "page": 14,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n15_w500.jpg"
+    },
+    {
+      "line": 2306,
+      "page": 16,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n17_w500.jpg"
+    },
+    {
+      "line": 2803,
+      "page": 20,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n21_w500.jpg"
+    },
+    {
+      "line": 3012,
+      "page": 22,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n23_w500.jpg"
+    },
+    {
+      "line": 3307,
+      "page": 24,
+      "title": "WHOLE EARTH-REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n25_w500.jpg"
+    },
+    {
+      "line": 3652,
+      "page": 26,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n27_w500.jpg"
+    },
+    {
+      "line": 4004,
+      "page": 28,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n29_w500.jpg"
+    },
+    {
+      "line": 4250,
+      "page": 30,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n31_w500.jpg"
+    },
+    {
+      "line": 4458,
+      "page": 32,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n33_w500.jpg"
+    },
+    {
+      "line": 4725,
+      "page": 34,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n35_w500.jpg"
+    },
+    {
+      "line": 4886,
+      "page": 36,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n37_w500.jpg"
+    },
+    {
+      "line": 5159,
+      "page": 38,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n39_w500.jpg"
+    },
+    {
+      "line": 5462,
+      "page": 40,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n41_w500.jpg"
+    },
+    {
+      "line": 5781,
+      "page": 42,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n43_w500.jpg"
+    },
+    {
+      "line": 6302,
+      "page": 46,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n47_w500.jpg"
+    },
+    {
+      "line": 6845,
+      "page": 50,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n51_w500.jpg"
+    },
+    {
+      "line": 7113,
+      "page": 52,
+      "title": "WHOLE EARTH REVIEW SUMMER 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_10/page/n53_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 454,
+      "text": "2 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 684,
+      "text": "4 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 922,
+      "text": "6 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 1147,
+      "text": "8 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 1441,
+      "text": "10 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 1731,
+      "text": "12 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 2035,
+      "text": "14 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 2306,
+      "text": "16 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 2803,
+      "text": "20 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 3012,
+      "text": "22 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 3307,
+      "text": "24 WHOLE EARTH-REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 3652,
+      "text": "26 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 4004,
+      "text": "28 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 4250,
+      "text": "30 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 4458,
+      "text": "32 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 4725,
+      "text": "34 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 4886,
+      "text": "36 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 5159,
+      "text": "38 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 5462,
+      "text": "40 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 5781,
+      "text": "42 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 6302,
+      "text": "46 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 6845,
+      "text": "50 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 7113,
+      "text": "52 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 7399,
+      "text": "54 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 7776,
+      "text": "56 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 8194,
+      "text": "58 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 8330,
+      "text": "60 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 8550,
+      "text": "62 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 8745,
+      "text": "64 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 9044,
+      "text": "66 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 9302,
+      "text": "68 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 9688,
+      "text": "70 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 10106,
+      "text": "72 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 10209,
+      "text": "74 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 10461,
+      "text": "76 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 11160,
+      "text": "80 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 11860,
+      "text": "86 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 12130,
+      "text": "88 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 12461,
+      "text": "90 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 12728,
+      "text": "92 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 13632,
+      "text": "96 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 13903,
+      "text": "98 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 14675,
+      "text": "102 WHOLE EARTH REVIEW",
+      "score": 10
+    },
+    {
+      "line": 14983,
+      "text": "104 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 15235,
+      "text": "106 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 15541,
+      "text": "108 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 17165,
+      "text": "120 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 17855,
+      "text": "124 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 18865,
+      "text": "130 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 19621,
+      "text": "134 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 21067,
+      "text": "140 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 21581,
+      "text": "142 WHOLE EARTH REVIEW SUMMER 1987",
+      "score": 10
+    },
+    {
+      "line": 612,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965. 3",
+      "score": 8
+    },
+    {
+      "line": 1063,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 7",
+      "score": 8
+    },
+    {
+      "line": 1368,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 9",
+      "score": 8
+    },
+    {
+      "line": 2229,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 I 5",
+      "score": 8
+    },
+    {
+      "line": 3247,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 23",
+      "score": 8
+    },
+    {
+      "line": 3595,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 25",
+      "score": 8
+    },
+    {
+      "line": 3946,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 27",
+      "score": 8
+    },
+    {
+      "line": 4609,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 3 3",
+      "score": 8
+    },
+    {
+      "line": 4813,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 3 5",
+      "score": 8
+    },
+    {
+      "line": 5079,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 3 7",
+      "score": 8
+    },
+    {
+      "line": 5382,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 39",
+      "score": 8
+    },
+    {
+      "line": 6152,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 43",
+      "score": 8
+    },
+    {
+      "line": 6224,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 45",
+      "score": 8
+    },
+    {
+      "line": 6542,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 47",
+      "score": 8
+    },
+    {
+      "line": 6784,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 49",
+      "score": 8
+    },
+    {
+      "line": 7347,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 53",
+      "score": 8
+    },
+    {
+      "line": 7723,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5 5",
+      "score": 8
+    },
+    {
+      "line": 8106,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5 7",
+      "score": 8
+    },
+    {
+      "line": 8257,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 59",
+      "score": 8
+    },
+    {
+      "line": 8481,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 & 4",
+      "score": 8
+    },
+    {
+      "line": 8699,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 63",
+      "score": 8
+    },
+    {
+      "line": 8940,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 65",
+      "score": 8
+    },
+    {
+      "line": 9230,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 67",
+      "score": 8
+    },
+    {
+      "line": 9610,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 69",
+      "score": 8
+    },
+    {
+      "line": 9988,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 7 H",
+      "score": 8
+    },
+    {
+      "line": 10170,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 73",
+      "score": 8
+    },
+    {
+      "line": 10409,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 75",
+      "score": 8
+    },
+    {
+      "line": 11013,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 79",
+      "score": 8
+    }
+  ],
+  "snippets": [
+    {
+      "line": 5,
+      "term": "tools",
+      "snippet": "No. 55 Summer 1987 $4.50 ($5.50 Canadian) » ACCESS TO | TOOLS & IDEAS i Sa ee j | &Zon’t Teach i Kids Math! eit RS"
+    },
+    {
+      "line": 80,
+      "term": "whole systems",
+      "snippet": "Number 55 DEPART MENTS/REVIEWS WHOLE SYSTEMS 78 A Fuller Explanation 0 Tensegritoy O Synergetics Dictionary 79 The Self-Organizing Universe"
+    },
+    {
+      "line": 122,
+      "term": "community",
+      "snippet": "97 Hypothermia, Frostbite and Other Cold Injuries 0 Bayley Cold Water Immersion Suit COMMUNITY 100 Appropriate Technology Sourcebook 0 Earth at Night 101 From Debt to Development"
+    },
+    {
+      "line": 147,
+      "term": "energy",
+      "snippet": "110 The Secret House 0 Radon Testing Service /Radon Reduction Methods 111 Ceramic Houses 0 Natural Energy and Vernacular Architecture CRAFTS 116 fischertechnik Modeling System"
+    },
+    {
+      "line": 168,
+      "term": "communications",
+      "snippet": "Summer 1987 117 Micro-Mark 0 Friendly Plastic COMMUNICATIONS 118 Amusing Ourselves to Death O Cahill & Company 119 Good Movies by Sheila Benson"
+    },
+    {
+      "line": 187,
+      "term": "learning",
+      "snippet": "O The Corporate Scriptwriting Book O Script City 0 Scriptor LEARNING 122 The Desolate City/Christianity and the World Religions 123 The Rapids of Change"
+    },
+    {
+      "line": 408,
+      "term": "interview",
+      "snippet": "But Brockman also has a much less well-known distinction - he is founder of the Reality Club, a unique forum for challenging ideas such as those featured in this issue. John thought he could best explain the group in interview format, so as a fellow Reality Club member and WER contributor, I got together with him on a cold February night at the Knicker- bocker Restaurant in Greenwich Village. There, my tape recorder sat beside his steak dinner and my plate of pasta and recorded the following conversation."
+    },
+    {
+      "line": 461,
+      "term": "energy",
+      "snippet": "-Steven Levy chael McClure, essayist Annie Dillard, poet Gerd Stern, energy experts Amory and Hunter Lovins, Ellen Burstyn, Betty Friedan, computer scientist Edward Feigenbaum, plant physiologist Rupert Sheldrake, physicist Fritjof Capra, religious histor-"
+    },
+    {
+      "line": 538,
+      "term": "tools",
+      "snippet": "way of thinking. I was turned on to J. Z. Young by McLuhan. Young’s idea was that man creates tools and then molds himself in their image. To me, this indicated that reality is manmade. The uni- verse is an invention, a metaphor. ‘SL: It’s rare to have a forum to consider these"
+    },
+    {
+      "line": 839,
+      "term": "communications",
+      "snippet": "‘answered. Those, to me, are the least successful presentations. JB: In communications theory, information is not defined as data or input but rather as “a difference that makes a difference.” It’s this level | hope the ~ speakers will achieve. You know the evening is a"
+    },
+    {
+      "line": 915,
+      "term": "energy",
+      "snippet": "27'GATE FIVE ROAD SAUSALITO, CA 94965 5 Heinz R. Pagels talked to the Reality Club about “Perfect Symmetry” at The New York Academy of Sciences on March 19, 1981. Heinz is a high energy physicist, adjunct Professor of Physics, Rockefeller University, and executive director, The New York Academy of Sciences. He is also the publisher of The Sciences magazine, in which this article first appeared. -John Brockman 6 WHOLE EARTH REVIEW SUMMER 1987"
+    },
+    {
+      "line": 2311,
+      "term": "energy",
+      "snippet": "A kitchen-sink garbage disposal is but one of Gaia's new forms of energy use and the recycling of her wastes. equally immense death rates, photosynthetic food production, and the intricacies of food sharing. For"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "No. 55 Summer 1987 $4.50 ($5.50 Canadian)"
+    },
+    {
+      "line": 4,
+      "text": "» ACCESS TO |"
+    },
+    {
+      "line": 5,
+      "text": "TOOLS & IDEAS i Sa ee j"
+    },
+    {
+      "line": 8,
+      "text": "| &Zon’t Teach"
+    },
+    {
+      "line": 9,
+      "text": "i Kids Math!"
+    },
+    {
+      "line": 12,
+      "text": "eit RS"
+    },
+    {
+      "line": 15,
+      "text": "* T = i |"
+    },
+    {
+      "line": 16,
+      "text": "No-Cash"
+    },
+    {
+      "line": 19,
+      "text": "| Economy That"
+    },
+    {
+      "line": 20,
+      "text": "| Works"
+    },
+    {
+      "line": 25,
+      "text": "| P. 104"
+    },
+    {
+      "line": 31,
+      "text": "| of the"
+    },
+    {
+      "line": 35,
+      "text": "Wishes are"
+    },
+    {
+      "line": 38,
+      "text": "r 6 ey, *"
+    },
+    {
+      "line": 41,
+      "text": "Knowledge?"
+    },
+    {
+      "line": 42,
+      "text": "P. 66"
+    },
+    {
+      "line": 49,
+      "text": "i Humans ma"
+    },
+    {
+      "line": 50,
+      "text": "be obsolete"
+    },
+    {
+      "line": 51,
+      "text": "P. 15"
+    },
+    {
+      "line": 61,
+      "text": "Bee ."
+    },
+    {
+      "line": 62,
+      "text": "| What Is Real?"
+    },
+    {
+      "line": 68,
+      "text": "Reality is an agreement, and the Reality Club"
+    },
+    {
+      "line": 71,
+      "text": "GCL O1 cbs 1S framing the next version. Special section begins on p. 2"
+    },
+    {
+      "line": 74,
+      "text": "Number 55"
+    },
+    {
+      "line": 77,
+      "text": "DEPART MENTS/REVIEWS"
+    },
+    {
+      "line": 80,
+      "text": "WHOLE SYSTEMS"
+    },
+    {
+      "line": 83,
+      "text": "78 A Fuller Explanation 0 Tensegritoy"
+    },
+    {
+      "line": 84,
+      "text": "O Synergetics Dictionary"
+    },
+    {
+      "line": 87,
+      "text": "79 The Self-Organizing Universe"
+    },
+    {
+      "line": 88,
+      "text": "O The Dialectical Biologist"
+    },
+    {
+      "line": 91,
+      "text": "80 Reflections on Gender and Science OMilitary"
+    },
+    {
+      "line": 92,
+      "text": "Enterprise and Technological Change"
+    },
+    {
+      "line": 95,
+      "text": "81 The Beaches Are Moving/Living With"
+    },
+    {
+      "line": 96,
+      "text": "the Shore Series 0 DeLorme Atlases"
+    },
+    {
+      "line": 97,
+      "text": "and Gazetteers"
+    },
+    {
+      "line": 100,
+      "text": "93 The Serpent and the Rainbow"
+    },
+    {
+      "line": 103,
+      "text": "NOMADICS"
+    },
+    {
+      "line": 106,
+      "text": "94 El Volkswagen"
+    },
+    {
+      "line": 107,
+      "text": "O National Parks Trade Journal"
+    },
+    {
+      "line": 110,
+      "text": "95 Classic Walks of the World"
+    }
+  ]
+}

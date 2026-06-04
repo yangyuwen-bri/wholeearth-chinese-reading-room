@@ -1,0 +1,674 @@
+{
+  "title": "CoEvolution Quarterly, Winter 1982",
+  "identifier": "coevolutionquart00unse_32",
+  "year": 1982,
+  "season": "Winter",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 157,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1982",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_32",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_32/coevolutionquart00unse_32.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_32/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_32_djvu.txt",
+  "ocr_chars": 695528,
+  "significant_line_count": 16577,
+  "theme_counts": {
+    "software_computing": 230,
+    "tools_craft": 371,
+    "ecology_place": 553,
+    "learning_media": 508,
+    "community_politics": 461
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 14370,
+      "page": 2,
+      "title": "ILLEGAL THIS ELF EATS THE",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_32/page/n3_w500.jpg"
+    },
+    {
+      "line": 22654,
+      "page": 8,
+      "title": "PAID CIRCULATION",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_32/page/n9_w500.jpg"
+    },
+    {
+      "line": 22674,
+      "page": 1,
+      "title": "OFFICE USE. LEFT OVER, UNACCOUNTED, SPOILED",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_32/page/n2_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 14370,
+      "text": "2 ILLEGAL THIS ELF EATS THE",
+      "score": 8
+    },
+    {
+      "line": 22654,
+      "text": "8 PAID CIRCULATION",
+      "score": 8
+    },
+    {
+      "line": 22659,
+      "text": "2 MAIL SUBSCRIPTION",
+      "score": 8
+    },
+    {
+      "line": 22674,
+      "text": "1 OFFICE USE. LEFT OVER, UNACCOUNTED, SPOILED",
+      "score": 8
+    },
+    {
+      "line": 23575,
+      "text": "interviews, program and book reviews, practical",
+      "score": 7
+    },
+    {
+      "line": 283,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 370,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 7222,
+      "text": "__WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 24535,
+      "text": "WHOLE SYSTEMS BIBLIOGRAPHY. Please",
+      "score": 6
+    },
+    {
+      "line": 24637,
+      "text": "PROGRAM YOUR OWN COMPUTER. Want to",
+      "score": 6
+    },
+    {
+      "line": 343,
+      "text": "Earth Sheltered Community Design ™ Fox",
+      "score": 5
+    },
+    {
+      "line": 9839,
+      "text": "Earth Sheltered Community Design",
+      "score": 5
+    },
+    {
+      "line": 16026,
+      "text": "of a successful community gardens program organized",
+      "score": 5
+    },
+    {
+      "line": 18585,
+      "text": "ting income for community programs, art pro-",
+      "score": 5
+    },
+    {
+      "line": 24501,
+      "text": "living/learning community for thirty-five junior",
+      "score": 5
+    },
+    {
+      "line": 24528,
+      "text": "a learning exchange to a community in the",
+      "score": 5
+    },
+    {
+      "line": 39,
+      "text": "THE WORST SHIP",
+      "score": 4
+    },
+    {
+      "line": 69,
+      "text": "THE ART OF BEING WRONG",
+      "score": 4
+    },
+    {
+      "line": 104,
+      "text": "THE MOST INACCURATE VALUE OF PI",
+      "score": 4
+    },
+    {
+      "line": 113,
+      "text": "THE MOST BORING LECTURE",
+      "score": 4
+    },
+    {
+      "line": 149,
+      "text": "MAN WHO ALMOST INVENTED THE VACUUM CLEANER",
+      "score": 4
+    },
+    {
+      "line": 164,
+      "text": "SS ” MG, . P",
+      "score": 4
+    },
+    {
+      "line": 193,
+      "text": "WHEN THINGS GO WRONG",
+      "score": 4
+    },
+    {
+      "line": 213,
+      "text": "TOWARD A COMMON COVENANT:",
+      "score": 4
+    },
+    {
+      "line": 312,
+      "text": "SOFT TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 350,
+      "text": "CRAFT",
+      "score": 4
+    },
+    {
+      "line": 420,
+      "text": "LAND USE |",
+      "score": 4
+    },
+    {
+      "line": 484,
+      "text": "NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 489,
+      "text": ". BUSINESS",
+      "score": 4
+    },
+    {
+      "line": 497,
+      "text": "COVERS",
+      "score": 4
+    },
+    {
+      "line": 518,
+      "text": "WHEN THINGS",
+      "score": 4
+    },
+    {
+      "line": 519,
+      "text": "GO WRONG",
+      "score": 4
+    },
+    {
+      "line": 522,
+      "text": "FAILURE AND MISFORTUNE",
+      "score": 4
+    },
+    {
+      "line": 551,
+      "text": "NCE I FOUND a",
+      "score": 4
+    },
+    {
+      "line": 578,
+      "text": "ON DEATH’S DOOR",
+      "score": 4
+    },
+    {
+      "line": 651,
+      "text": "THE CoEVOLUTION QUARTERLY WINTER 1982",
+      "score": 4
+    },
+    {
+      "line": 688,
+      "text": "TOWARD A",
+      "score": 4
+    },
+    {
+      "line": 689,
+      "text": "COMMON COVENANT",
+      "score": 4
+    },
+    {
+      "line": 692,
+      "text": "LANDSCAPES AND MIND",
+      "score": 4
+    },
+    {
+      "line": 775,
+      "text": "BOX 428 SAUSALITO CA 94966",
+      "score": 4
+    },
+    {
+      "line": 831,
+      "text": "DESIRE AND ENGINEERING",
+      "score": 4
+    },
+    {
+      "line": 987,
+      "text": "FRAGMENTED VISIONS",
+      "score": 4
+    },
+    {
+      "line": 1106,
+      "text": "AWARENESS AND PENANCE",
+      "score": 4
+    },
+    {
+      "line": 1273,
+      "text": "PRP PP PIPEPPPPPPPPPPEPE PPP PPP",
+      "score": 4
+    },
+    {
+      "line": 1274,
+      "text": "WATER",
+      "score": 4
+    },
+    {
+      "line": 1347,
+      "text": "« OBE",
+      "score": 4
+    },
+    {
+      "line": 1363,
+      "text": "~ WW. So WON \\ SNS",
+      "score": 4
+    },
+    {
+      "line": 1364,
+      "text": "HNIC TT AAA",
+      "score": 4
+    },
+    {
+      "line": 1367,
+      "text": "i ENN ~",
+      "score": 4
+    },
+    {
+      "line": 1441,
+      "text": "FAIRCHILD AERIAL SURVEYS IN FEININGER’S THE ANATOMY OF NATURE",
+      "score": 4
+    },
+    {
+      "line": 1472,
+      "text": "~ SOME NOTES ON A METHOD -",
+      "score": 4
+    },
+    {
+      "line": 1473,
+      "text": "TO STAY THE HAND OF THE",
+      "score": 4
+    },
+    {
+      "line": 1589,
+      "text": "MADNESS NETWORK NEWS READER",
+      "score": 4
+    },
+    {
+      "line": 1622,
+      "text": "aS SZ ESE PY",
+      "score": 4
+    },
+    {
+      "line": 1709,
+      "text": "12 THE CoEVOLUTION QUARTERLY WINTER 1982",
+      "score": 4
+    },
+    {
+      "line": 1762,
+      "text": "HE LAWS OF PROBABILITY explain",
+      "score": 4
+    },
+    {
+      "line": 1848,
+      "text": "ROBERT WEISS AND ASSOCIATES",
+      "score": 4
+    },
+    {
+      "line": 1863,
+      "text": "ORGANIZING FOR SURVIVAL",
+      "score": 4
+    },
+    {
+      "line": 1866,
+      "text": "HE EMERGENCY STORES were",
+      "score": 4
+    },
+    {
+      "line": 2014,
+      "text": "A GRIM TURN",
+      "score": 4
+    },
+    {
+      "line": 2142,
+      "text": "RETAKING STOCK",
+      "score": 4
+    },
+    {
+      "line": 2288,
+      "text": "THE SHIP",
+      "score": 4
+    },
+    {
+      "line": 2368,
+      "text": "MAJOR GUNKEL",
+      "score": 4
+    },
+    {
+      "line": 2510,
+      "text": "VISITORS",
+      "score": 4
+    },
+    {
+      "line": 2609,
+      "text": "TRIALS AND DELIVERANCE",
+      "score": 4
+    },
+    {
+      "line": 2750,
+      "text": "EVERAL HOURS AFTER NOON visi-",
+      "score": 4
+    },
+    {
+      "line": 2795,
+      "text": "LIEUTENANT ED CHEESEMAN._ US NAVY",
+      "score": 4
+    },
+    {
+      "line": 2974,
+      "text": "ON NOT",
+      "score": 4
+    },
+    {
+      "line": 2975,
+      "text": "BECOMING",
+      "score": 4
+    },
+    {
+      "line": 2978,
+      "text": "A LAWYER",
+      "score": 4
+    },
+    {
+      "line": 3090,
+      "text": "‘BOX 428 SAUSALITO CA 94966",
+      "score": 4
+    },
+    {
+      "line": 3137,
+      "text": "CENTRAL SQUARE",
+      "score": 4
+    },
+    {
+      "line": 3138,
+      "text": "MY PART IN URBAN DECAY",
+      "score": 4
+    },
+    {
+      "line": 3166,
+      "text": "22 j THE CoEVOLUTION QUARTERLY WINTER 1982",
+      "score": 4
+    },
+    {
+      "line": 3185,
+      "text": "| HE WINDOW IN MY OFFICE above",
+      "score": 4
+    },
+    {
+      "line": 3455,
+      "text": "THE CoEVOLUTION QUARTERLY WINTER1I982 id",
+      "score": 4
+    },
+    {
+      "line": 3458,
+      "text": "CAMBRIDGE HISTORICAL COMMISSION",
+      "score": 4
+    },
+    {
+      "line": 3516,
+      "text": "iF SI",
+      "score": 4
+    },
+    {
+      "line": 3533,
+      "text": "SR INASE",
+      "score": 4
+    },
+    {
+      "line": 3539,
+      "text": "BOX 428 SAUSALITO CA 94966 : 25",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 237,
+      "term": "interview",
+      "snippet": "rural El Salvador Male Failure, Female Success: from an interview with Fred Hapgood APOLOGY by Livia Linden An artist who collects anonymous confessions of crime and misfortune"
+    },
+    {
+      "line": 283,
+      "term": "whole systems",
+      "snippet": "entirely of one’s own making. To Tanya by Wendell Berry WHOLE SYSTEMS Before You Put on the Thumbscrews of Comfort: Ballades by Steven Nightingale The Triggering Town ® The Voice That Is"
+    },
+    {
+      "line": 330,
+      "term": "energy",
+      "snippet": "Smithsonian Time Line SOFT TECHNOLOGY Energy at the Surface of the Earth ® Sun Rhythm Form Understanding and Using Electricity = How to Build & Operate Your Own Small"
+    },
+    {
+      "line": 343,
+      "term": "community",
+      "snippet": "Ken Kern’s Homestead Workshop ® Better ~ Woodworking Catalog and Guide Earth Sheltered Community Design ™ Fox Maple Tools ® Solid Fuel Furnaces & Boilers The Warming Trend ® The Durability Factor CRAFT"
+    },
+    {
+      "line": 344,
+      "term": "tools",
+      "snippet": "Woodworking Catalog and Guide Earth Sheltered Community Design ™ Fox Maple Tools ® Solid Fuel Furnaces & Boilers The Warming Trend ® The Durability Factor CRAFT Architectural Crafts # Working in Wood"
+    },
+    {
+      "line": 363,
+      "term": "energy",
+      "snippet": "CRAFT Architectural Crafts # Working in Wood The Energy-Efficient Potter = The Thames and Hudson Manual of Silversmithing ® Bookbinding & Conservation by Hand Quilted Clothing = Olfa Rotary Cutter ="
+    },
+    {
+      "line": 370,
+      "term": "communications",
+      "snippet": "Quilted Clothing = Olfa Rotary Cutter = Native American Crafts Source Directory COMMUNICATIONS The “Party Line” by Avery Johnson Good Books ® Free Spirits National Geographic Photographer’s Field"
+    },
+    {
+      "line": 467,
+      "term": "learning",
+      "snippet": "120 Womancare ® Not a butterfly; a whale, maybe _ 121 Don’t Get Burned! = The Entrepreneur’s Manual 99 Earth Ponds # Green Thoughts LEARNING 100 Gardening with Native Plants of the Pacific Wren Ver ea) pa ete ee Northwest ® Growing California Native Plants 122, CREATIVE PHILANTHROPY: Voices from = Lancaster Farming an Uncommon Courtesy Conference,"
+    },
+    {
+      "line": 479,
+      "term": "community",
+      "snippet": "102 DOW 2000 OR CREDIT COLLAPSE, 133 Audubon Expedition Institute = Taking the MAYBE BOTH arguing with Paul Hawken Path of Zen ® The Lore and Language 108 The Community Land Trust Handbook # of Schoolchildren Progress and Privilege 134 My Voice Will Go with You & The Thaler 109 Displacement = Shutdown ® L.L. Bean’s method #™ Toughlove nuclear change of heart ’ 135 Sassy Seat # Lookabout Baby Carrier = Baby"
+    },
+    {
+      "line": 494,
+      "term": "community",
+      "snippet": "= Helping Out in the Outdoors Earth Catalog Access Update 144 Statement of Ownership = Or Whole Earth COMMUNITY Bookstore # Masthead 115 Kotatsu ™ Bissell Multi-Vac electric broom = 145 Financial Report \" Thank you The Thompson Shirt 146 Unclassifieds COVERS"
+    },
+    {
+      "line": 503,
+      "term": "community",
+      "snippet": "Conn Nugent, who has seen a /ot of failure and misfortune as administrator of the Vingo Trust, an urban community foundation in Cambridge, Massachusetts. Conn assembled just about every- thing through page 52. The back cover’s painting started as a waterco/or"
+    },
+    {
+      "line": 819,
+      "term": "tools",
+      "snippet": "nail home. The hammer is held by a clasping hand, first shaped to grasp limbs and, only later, stone tools and weapons. The forest which gave us that fine shoulder, and much of the hand, is the same forest which perfected our stereoscopic vision, the depth perception which grants us the justifiable"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "No. 36 Winter1982 $4"
+    },
+    {
+      "line": 4,
+      "text": "Wendell Berry page 44"
+    },
+    {
+      "line": 7,
+      "text": "Gregory Bateson page 62"
+    },
+    {
+      "line": 10,
+      "text": "Paul Hawken page 102"
+    },
+    {
+      "line": 16,
+      "text": "z 2A in a . ‘ . ci ’ “ »"
+    },
+    {
+      "line": 17,
+      "text": "y > = - Z at ae oa: oh t"
+    },
+    {
+      "line": 18,
+      "text": ". gas eae tie ee 3 Sa ea asi or :"
+    },
+    {
+      "line": 19,
+      "text": "i : + Sea Ble Pee soe i ky"
+    },
+    {
+      "line": 20,
+      "text": ", aD a"
+    },
+    {
+      "line": 24,
+      "text": "1 Re q"
+    },
+    {
+      "line": 25,
+      "text": "my ald os"
+    },
+    {
+      "line": 27,
+      "text": "2 gi"
+    },
+    {
+      "line": 30,
+      "text": "Selections from ‘The Incomplete -"
+    },
+    {
+      "line": 33,
+      "text": "Book of Failures’ ’"
+    },
+    {
+      "line": 36,
+      "text": "by Stephen Pile Illustrations by Don Ryan"
+    },
+    {
+      "line": 39,
+      "text": "THE WORST SHIP"
+    },
+    {
+      "line": 42,
+      "text": "the ship’s movements because steering and engine"
+    },
+    {
+      "line": 43,
+      "text": "Between 1953, when it was built, and 1976, when had failed. She was banned from Philadelphia,"
+    },
+    {
+      "line": 44,
+      "text": "it sank, the Argo Merchant suffered every known Boston, and the Panama Canal."
+    },
+    {
+      "line": 47,
+      "text": "EOD sari TTT ee To round off a perfect year she ran aground and"
+    },
+    {
+      "line": 50,
+      "text": "In 1967 the ship took eight months to sail from sank off Cape Cod, depositing the country’s largest"
+    },
+    {
+      "line": 51,
+      "text": "Japan to America. It collided with a Japanese oil slick on the doorstep of Massachusetts."
+    },
+    {
+      "line": 54,
+      "text": "ship, caught fire three times, and had to stop for At the time of the final grounding, the ship had"
+    },
+    {
+      "line": 55,
+      "text": "repairs five times. been ‘lost’ for 15 hours. The crew was 18 miles"
+    },
+    {
+      "line": 56,
+      "text": "In 1968 there was a mutiny and in 1969 she went _ off course and navigating by the stars, because"
+    },
+    {
+      "line": 57,
+      "text": "aground off Borneo for 34 hours. In the next five modern equipment had broken down. What is"
+    },
+    {
+      "line": 60,
+      "text": "years she was laid up in Curagao, grounded off more, the West Indian helmsman could not read"
+    },
+    {
+      "line": 61,
+      "text": "Sicily, and towed to New York. the Greek handwriting showing the course to"
+    },
+    {
+      "line": 63,
+      "text": "In 1976 her boilers broke down six times and she _€ steered."
+    },
+    {
+      "line": 65,
+      "text": "once had to travel with two red lights displayed, ° A naval expert afterwards described the ship as"
+    },
+    {
+      "line": 66,
+      "text": "indicating that the crew could no longer control ‘a disaster looking for somewhere to happen.’"
+    },
+    {
+      "line": 69,
+      "text": "THE ART OF BEING WRONG"
+    },
+    {
+      "line": 72,
+      "text": "a. “Heaven and Earth were created all together c. “Rembrandt is not to be compared in the paint-"
+    },
+    {
+      "line": 73,
+      "text": "in the same instant, on October 23, 4004 B.C., at ing of character with our extraordinarily gifted"
+    },
+    {
+      "line": 74,
+      "text": "nine o’clock in the morning.”” -Dr. John Light- English artist, Mr. Rippingille.” -John Hunt."
+    },
+    {
+      "line": 75,
+      "text": "foot, Vice Chancellor of Cambridge University. d. “They couldn’t hit an elephant at this dist .. .”"
+    },
+    {
+      "line": 76,
+      "text": "b. “Far too noisy, my dear Mozart. Far toomany -The last words of General John Sedgwick, spoken"
+    },
+    {
+      "line": 77,
+      "text": "notes.” -The Emperor Ferdinand after the first while looking over the parapet at enemy lines dur-"
+    },
+    {
+      "line": 78,
+      "text": "performance of The Marriage of Figaro. ing the Battle of Spotsylvania."
+    },
+    {
+      "line": 84,
+      "text": "wees iis i"
+    }
+  ]
+}

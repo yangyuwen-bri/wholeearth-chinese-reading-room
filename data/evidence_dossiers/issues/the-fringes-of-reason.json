@@ -1,0 +1,668 @@
+{
+  "title": "The Fringes of Reason: Whole Earth Catalog",
+  "identifier": "fringesofreasonw00unse",
+  "year": 1989,
+  "season": "",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 228,
+  "url": "https://wholeearth.info/p/the-fringes-of-reason",
+  "archive_url": "https://archive.org/details/fringesofreasonw00unse",
+  "pdf_url": "https://archive.org/download/fringesofreasonw00unse/fringesofreasonw00unse.pdf",
+  "cover_url": "https://archive.org/download/fringesofreasonw00unse/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/fringesofreasonw00unse_djvu.txt",
+  "ocr_chars": 1098248,
+  "significant_line_count": 23306,
+  "theme_counts": {
+    "software_computing": 59,
+    "tools_craft": 154,
+    "ecology_place": 534,
+    "learning_media": 768,
+    "community_politics": 413
+  },
+  "top_themes": [
+    "learning_media",
+    "ecology_place",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 16737,
+      "page": 14,
+      "title": "NEUTRAL CENTRE",
+      "image_url": "https://archive.org/download/fringesofreasonw00unse/page/n15_w500.jpg"
+    },
+    {
+      "line": 16740,
+      "page": 15,
+      "title": "VIBRATORY",
+      "image_url": "https://archive.org/download/fringesofreasonw00unse/page/n16_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 16737,
+      "text": "14 NEUTRAL CENTRE",
+      "score": 8
+    },
+    {
+      "line": 16740,
+      "text": "15 VIBRATORY",
+      "score": 8
+    },
+    {
+      "line": 17065,
+      "text": "ONE OF THE FARMING COMMUNITY'S BIGGEST PROBLEMS IS THE COST",
+      "score": 6
+    },
+    {
+      "line": 17066,
+      "text": "OF FUEL . STEWART ENERGY SYSTEMS OF IDAHO WILL SOON BE SELLING",
+      "score": 6
+    },
+    {
+      "line": 17074,
+      "text": "STEWART ENERGY SYSTEMS OF IDAHO, INC.",
+      "score": 6
+    },
+    {
+      "line": 28789,
+      "text": "PHENONENA OF EARTH ELECTRICAL ENERGY",
+      "score": 6
+    },
+    {
+      "line": 31501,
+      "text": "WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 1,
+      "text": "THE FRINGE",
+      "score": 4
+    },
+    {
+      "line": 7,
+      "text": "F REASON ~",
+      "score": 4
+    },
+    {
+      "line": 10,
+      "text": "STEWART",
+      "score": 4
+    },
+    {
+      "line": 11,
+      "text": "BR A N",
+      "score": 4
+    },
+    {
+      "line": 27,
+      "text": "EARTH",
+      "score": 4
+    },
+    {
+      "line": 30,
+      "text": "CATALOG",
+      "score": 4
+    },
+    {
+      "line": 40,
+      "text": "HARMONY BOOKS/NEW YORK",
+      "score": 4
+    },
+    {
+      "line": 127,
+      "text": "BF1999.F75 1989 133 88-24505",
+      "score": 4
+    },
+    {
+      "line": 137,
+      "text": "FOREWOR",
+      "score": 4
+    },
+    {
+      "line": 234,
+      "text": "ENTERING",
+      "score": 4
+    },
+    {
+      "line": 239,
+      "text": "ZONE...",
+      "score": 4
+    },
+    {
+      "line": 242,
+      "text": "GMT ENTS",
+      "score": 4
+    },
+    {
+      "line": 308,
+      "text": "THE NEW, IMPROVED AGE",
+      "score": 4
+    },
+    {
+      "line": 338,
+      "text": "INNER FRONTIERS",
+      "score": 4
+    },
+    {
+      "line": 364,
+      "text": "EVERYTHING YOU KNOW IS WRONG!",
+      "score": 4
+    },
+    {
+      "line": 416,
+      "text": "WEIRD SCIENCE",
+      "score": 4
+    },
+    {
+      "line": 451,
+      "text": "NOT OF THIS EARTH",
+      "score": 4
+    },
+    {
+      "line": 475,
+      "text": "WHAT IS REALITY?",
+      "score": 4
+    },
+    {
+      "line": 535,
+      "text": "INTRODUCTION",
+      "score": 4
+    },
+    {
+      "line": 615,
+      "text": "- IMPROVED",
+      "score": 4
+    },
+    {
+      "line": 648,
+      "text": "EOPLE HAVE ALWAYS PONDERED THE END, SINCE",
+      "score": 4
+    },
+    {
+      "line": 669,
+      "text": "~ GOOD TIMES, BAD TIMES, END TIMES",
+      "score": 4
+    },
+    {
+      "line": 831,
+      "text": "ARMAGEDDON: THE SEQUEL __",
+      "score": 4
+    },
+    {
+      "line": 878,
+      "text": "PRE-TRIBULATION RAPTURE",
+      "score": 4
+    },
+    {
+      "line": 881,
+      "text": "CHRIST'S",
+      "score": 4
+    },
+    {
+      "line": 882,
+      "text": "SECOND",
+      "score": 4
+    },
+    {
+      "line": 885,
+      "text": "-* COMING",
+      "score": 4
+    },
+    {
+      "line": 887,
+      "text": "DEATH",
+      "score": 4
+    },
+    {
+      "line": 890,
+      "text": "TRIBULATION",
+      "score": 4
+    },
+    {
+      "line": 891,
+      "text": "CHURCH, _ TRIBUL MILLENNIUM [ ereenrry",
+      "score": 4
+    },
+    {
+      "line": 895,
+      "text": "MID-TRIBULATION RAPTURE",
+      "score": 4
+    },
+    {
+      "line": 900,
+      "text": "COMING",
+      "score": 4
+    },
+    {
+      "line": 906,
+      "text": "CHURCH, UL | MILLENNIUM I eoneae",
+      "score": 4
+    },
+    {
+      "line": 910,
+      "text": "POST-TRIBULATION RAPTURE",
+      "score": 4
+    },
+    {
+      "line": 915,
+      "text": "| (~) COMING",
+      "score": 4
+    },
+    {
+      "line": 918,
+      "text": "DEATH |",
+      "score": 4
+    },
+    {
+      "line": 922,
+      "text": "CHURCH ? TRIBULATION",
+      "score": 4
+    },
+    {
+      "line": 930,
+      "text": "PARTIAL RAPTURE THEORY",
+      "score": 4
+    },
+    {
+      "line": 932,
+      "text": "RAPTURES SECOND",
+      "score": 4
+    },
+    {
+      "line": 938,
+      "text": "| U |",
+      "score": 4
+    },
+    {
+      "line": 939,
+      "text": "CHURCH f TRIBULATION",
+      "score": 4
+    },
+    {
+      "line": 943,
+      "text": "MILLENNIUM",
+      "score": 4
+    },
+    {
+      "line": 946,
+      "text": "{ ETERNITY",
+      "score": 4
+    },
+    {
+      "line": 952,
+      "text": "TRIBULATIONS TRIVIA",
+      "score": 4
+    },
+    {
+      "line": 1090,
+      "text": "MILLERITES AND MESSIAHS",
+      "score": 4
+    },
+    {
+      "line": 1142,
+      "text": "THe MYTHOLOGY OF THE END OF THE WORLD",
+      "score": 4
+    },
+    {
+      "line": 1323,
+      "text": "THE GHOST DANCE",
+      "score": 4
+    },
+    {
+      "line": 1669,
+      "text": "SAUCER SAVIORS FROM OUTER SPACE",
+      "score": 4
+    },
+    {
+      "line": 1862,
+      "text": "PROPHECIES THAT FAILED",
+      "score": 4
+    },
+    {
+      "line": 1934,
+      "text": "NORTH",
+      "score": 4
+    },
+    {
+      "line": 1935,
+      "text": "AMERICA",
+      "score": 4
+    },
+    {
+      "line": 2145,
+      "text": "THE HARMONIC CONVERGENCE:",
+      "score": 4
+    },
+    {
+      "line": 2146,
+      "text": "ESCHATOLOGY, '80S STYLE",
+      "score": 4
+    },
+    {
+      "line": 2377,
+      "text": "=) EVM MW TE",
+      "score": 4
+    },
+    {
+      "line": 2380,
+      "text": "REPTILE BRAIN",
+      "score": 4
+    },
+    {
+      "line": 2383,
+      "text": "GALACTIC CHANNEL,",
+      "score": 4
+    },
+    {
+      "line": 2384,
+      "text": "RESONANT FIELD MODEL",
+      "score": 4
+    },
+    {
+      "line": 2606,
+      "text": "2000 A.D.: SHAKE AND BAKE",
+      "score": 4
+    },
+    {
+      "line": 2640,
+      "text": "APOCALYPSE NOW!",
+      "score": 4
+    },
+    {
+      "line": 2685,
+      "text": "THE END?",
+      "score": 4
+    },
+    {
+      "line": 2688,
+      "text": "... AND ALWAYS",
+      "score": 4
+    },
+    {
+      "line": 2781,
+      "text": "ROM CHANNELERS TO CRYSTALS TO",
+      "score": 4
+    },
+    {
+      "line": 2869,
+      "text": "ef MAGAZINE",
+      "score": 4
+    },
+    {
+      "line": 3235,
+      "text": "CLAIRVOYANTLY PERCEIVED",
+      "score": 4
+    },
+    {
+      "line": 3236,
+      "text": "HYDROGEN \"ATOM\"",
+      "score": 4
+    },
+    {
+      "line": 3239,
+      "text": "DIABARYON THEORIZED",
+      "score": 4
+    },
+    {
+      "line": 3240,
+      "text": "BY MODERN PHYSICS",
+      "score": 4
+    },
+    {
+      "line": 3341,
+      "text": "-T.S.",
+      "score": 4
+    },
+    {
+      "line": 3986,
+      "text": "BIBLIOGRAPHY",
+      "score": 4
+    },
+    {
+      "line": 4042,
+      "text": "CRYSTAL",
+      "score": 4
+    },
+    {
+      "line": 4043,
+      "text": "POWER:",
+      "score": 4
+    },
+    {
+      "line": 4052,
+      "text": "RE CRYSTALS ALIVE?",
+      "score": 4
+    },
+    {
+      "line": 4232,
+      "text": "CLAIMS",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 95,
+      "term": "software",
+      "snippet": "This book was produced on Macintosh II and Macintosh SE computers and an Apple Laserwriter IINTX, using Microsoft Word 3.01, Aldus Pagemaker 3.0, and Adobe Illustrator 88 software. The final copy was generated on a Linotronic 100 Imagesetter at Desktop Composition in Petaluma, California. Camera-ready pages were delivered by Whole Earth to Harmony Books. Portions of this book were previously published in Whole Earth Review."
+    },
+    {
+      "line": 154,
+      "term": "tools",
+      "snippet": "The answer is provided by Ted Schultz and cohorts. You look into the strange beliefs with all the tools and skepticism of science, and you look into the strange believers with the tools of science and the sympathy of a good anthropolo- gist or psychologist, seeking not the insult of"
+    },
+    {
+      "line": 155,
+      "term": "tools",
+      "snippet": "cohorts. You look into the strange beliefs with all the tools and skepticism of science, and you look into the strange believers with the tools of science and the sympathy of a good anthropolo- gist or psychologist, seeking not the insult of cure but the compliment of understanding."
+    },
+    {
+      "line": 1034,
+      "term": "community",
+      "snippet": "ing again. Certain historical events, such as the founda- ° tion of the state of Israel, the unification of Jerusalem, and the founding of the European Economic Community, presage the imminent beginning of the final seven-year period left on the clock. We are heading to the final countdown to Armageddon with its beasts, disasters, an-"
+    },
+    {
+      "line": 1299,
+      "term": "community",
+      "snippet": "acles, portents, and so on. When these did not occur, his messiahhood was not discredited. On the contrary, when he disclosed his identity to the community at large, he was expelled from Smyrna but his following swelled. The date of his miraculous messianic revelation was pushed off to 1666, and by 1665 his following among the Jewish"
+    },
+    {
+      "line": 1345,
+      "term": "tools",
+      "snippet": "peared among the Paiute. He claimed that within a few moons there would be a great upheaval: whites would be swallowed up, but their artifacts (houses, tools, etc.) would remain untouched. His gospel claimed few adher- ents, so Tavibo undertook a second vision quest. The prophecy was altered. Both whites and Indians would be"
+    },
+    {
+      "line": 2270,
+      "term": "interview",
+      "snippet": "the inception of a new era of history; it was Childhood’s End. In an interview in Magical Blend, Arguelles had this to say about the coming years: “By the summer of 1992 the resistance of the collapsing old mental house will pretty much come to an end. At this point, we enter an-"
+    },
+    {
+      "line": 2660,
+      "term": "interview",
+      "snippet": "someone who can see into the future. “I think that earth- quakes are geological events on the planet whose time has come,” she explained to an interviewer from the Whole Life Times. “The probability is there, the prophecies are there, the scientific statements are there.” Her church or- ganization, which she had developed at its Malibu head-"
+    },
+    {
+      "line": 2670,
+      "term": "interview",
+      "snippet": "We’ve done that with our mantras and our Violet Flame decrees,” she explained. Be prepared for more interviews with prophets of dire events such as these appearing with increasing frequency in the near future. Whether you believe there is a divinity which shapes our ends, rough-hewn though they may be,"
+    },
+    {
+      "line": 3857,
+      "term": "learning",
+      "snippet": "Wu Li Masters] said, we may be approaching “the end of sci- ence.” Even as we continue to seek understanding, we are learning to accept the limits of our reductionist methods. Only direct experience can give a sense of this nonlocal universe, this realm of connectedness. Enlarged awareness-as in med- itation-may carry us past limits of our logic to more complete"
+    },
+    {
+      "line": 4069,
+      "term": "energy",
+      "snippet": "and machines, control the earth’s electromagnetic field, and serve as the energy sources for the legendary civilizations of Atlantis and Le- muria. In the last few years, dozens of books have been written"
+    },
+    {
+      "line": 4137,
+      "term": "interview",
+      "snippet": "consultant in the field. But he’s also qualified to comment on the less scientific side of the coin- the current “crystal power” craze - because he’s spent over a year researching the subject for a book. In fact, in the past months Jerome has slept with crystals under his pillow, attached a crystal to his car’s carburetor (to see if it improved gas mileage), and interviewed crystal-power proponents from all over the country. If you’ re intrigued by what he’s written here, you might want to check out his book from Prometheus Press (see page 200). -TS. the idea that crystal power is indeed an ancient esoteric art,"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "THE FRINGE"
+    },
+    {
+      "line": 7,
+      "text": "F REASON ~"
+    },
+    {
+      "line": 10,
+      "text": "STEWART"
+    },
+    {
+      "line": 11,
+      "text": "BR A N"
+    },
+    {
+      "line": 14,
+      "text": "IB ‘"
+    },
+    {
+      "line": 18,
+      "text": "pmsl"
+    },
+    {
+      "line": 24,
+      "text": "\"tty"
+    },
+    {
+      "line": 27,
+      "text": "EARTH"
+    },
+    {
+      "line": 30,
+      "text": "CATALOG"
+    },
+    {
+      "line": 33,
+      "text": "Edited by Ted Schultz"
+    },
+    {
+      "line": 34,
+      "text": "Foreword by Stewart Brand"
+    },
+    {
+      "line": 40,
+      "text": "HARMONY BOOKS/NEW YORK"
+    },
+    {
+      "line": 43,
+      "text": "nl, |"
+    },
+    {
+      "line": 45,
+      "text": "ON ;"
+    },
+    {
+      "line": 51,
+      "text": "Ted Schultz: Editor"
+    },
+    {
+      "line": 53,
+      "text": "Rebecca Wilson: Designer"
+    },
+    {
+      "line": 55,
+      "text": "Alex Grey: Cover Painting"
+    },
+    {
+      "line": 57,
+      "text": "Susan Erkel Ryan: Production Manager"
+    },
+    {
+      "line": 59,
+      "text": "Don Ryan, Spencer Ewert: Photography"
+    },
+    {
+      "line": 61,
+      "text": "Bill Ryan, Dixon Wragg, Jeff Brody, Hank Roberts: Proofreaders"
+    },
+    {
+      "line": 62,
+      "text": "Elaine Karsevar: Typist"
+    },
+    {
+      "line": 64,
+      "text": "James Donnelly, Joan Gill: Typesetting"
+    },
+    {
+      "line": 66,
+      "text": "Elaine Olson, Jay Kinney, Giovanni Bacigalupi: Electronic Pasteup"
+    },
+    {
+      "line": 67,
+      "text": "Jay Cornell, Gail Miller: Mechanical Pasteup"
+    },
+    {
+      "line": 71,
+      "text": "Kevin Kelly: Inspirational Adviser"
+    },
+    {
+      "line": 73,
+      "text": "John Brockman Associates: Literary Agent"
+    },
+    {
+      "line": 75,
+      "text": "Michael Pietsch: Senior Editor, Harmony Books"
+    },
+    {
+      "line": 78,
+      "text": "Point Foundation Staff: Jeanne Carstensen, Paul Davis, Richard Ditzler,"
+    },
+    {
+      "line": 80,
+      "text": "Cindy Fugett, Dick Fugett, Corinne Cullen Hawkins, Keith Jordan, Richard Nilsen,"
+    },
+    {
+      "line": 81,
+      "text": "Kathleen O'Neill, Susan Rosberg, Richard Schauffler, Lori Woolpert"
+    },
+    {
+      "line": 83,
+      "text": "Point Foundation Board: Stewart Brand, Doug Carlston, Robert Fuller,"
+    },
+    {
+      "line": 85,
+      "text": "Huey Johnson, Kevin Kelly"
+    },
+    {
+      "line": 88,
+      "text": "Special thanks to Wendell Debele, Deborah Nudelman, Paula Romich,"
+    },
+    {
+      "line": 89,
+      "text": "Janet Butcher, Lesley Davis, Valentine Typesetting, Gary Moring, Al Seckel,"
+    },
+    {
+      "line": 90,
+      "text": "and the ant entities from Beta Galactose."
+    },
+    {
+      "line": 93,
+      "text": "This book was produced on Macintosh II and Macintosh SE computers and an"
+    },
+    {
+      "line": 94,
+      "text": "Apple Laserwriter IINTX, using Microsoft Word 3.01, Aldus Pagemaker 3.0, and"
+    },
+    {
+      "line": 95,
+      "text": "Adobe Illustrator 88 software. The final copy was generated on a Linotronic 100"
+    },
+    {
+      "line": 96,
+      "text": "Imagesetter at Desktop Composition in Petaluma, California. Camera-ready"
+    },
+    {
+      "line": 97,
+      "text": "pages were delivered by Whole Earth to Harmony Books."
+    }
+  ]
+}

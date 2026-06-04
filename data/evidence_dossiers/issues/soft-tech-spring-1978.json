@@ -1,0 +1,692 @@
+{
+  "title": "Soft-Tech, Spring 1978",
+  "identifier": "softtechspring1900unse",
+  "year": 1978,
+  "season": "Spring",
+  "collection": "Special Publications",
+  "collection_zh": "专题出版物",
+  "pages": 183,
+  "url": "https://wholeearth.info/p/soft-tech-spring-1978",
+  "archive_url": "https://archive.org/details/softtechspring1900unse",
+  "pdf_url": "https://archive.org/download/softtechspring1900unse/softtechspring1900unse.pdf",
+  "cover_url": "https://archive.org/download/softtechspring1900unse/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/softtechspring1900unse_djvu.txt",
+  "ocr_chars": 690867,
+  "significant_line_count": 15830,
+  "theme_counts": {
+    "software_computing": 27,
+    "tools_craft": 1163,
+    "ecology_place": 1531,
+    "learning_media": 411,
+    "community_politics": 336
+  },
+  "top_themes": [
+    "ecology_place",
+    "tools_craft",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 364,
+      "page": 169,
+      "title": "END OF THE BOOK",
+      "image_url": "https://archive.org/download/softtechspring1900unse/page/n170_w500.jpg"
+    },
+    {
+      "line": 1524,
+      "page": 4,
+      "title": "FOOT RULER",
+      "image_url": "https://archive.org/download/softtechspring1900unse/page/n5_w500.jpg"
+    },
+    {
+      "line": 4832,
+      "page": 70,
+      "title": "RPM.",
+      "image_url": "https://archive.org/download/softtechspring1900unse/page/n71_w500.jpg"
+    },
+    {
+      "line": 7402,
+      "page": 125,
+      "title": "S. BROADWAY",
+      "image_url": "https://archive.org/download/softtechspring1900unse/page/n126_w500.jpg"
+    },
+    {
+      "line": 7416,
+      "page": 118,
+      "title": "EAST THIRD STREET.",
+      "image_url": "https://archive.org/download/softtechspring1900unse/page/n119_w500.jpg"
+    },
+    {
+      "line": 8819,
+      "page": 21,
+      "title": "FEB 1976 BY DYNA PAC, SAN DIEGO",
+      "image_url": "https://archive.org/download/softtechspring1900unse/page/n22_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 364,
+      "text": "169 END OF THE BOOK",
+      "score": 8
+    },
+    {
+      "line": 1524,
+      "text": "4 FOOT RULER",
+      "score": 8
+    },
+    {
+      "line": 4832,
+      "text": "70 RPM.",
+      "score": 8
+    },
+    {
+      "line": 7402,
+      "text": "125 S. BROADWAY",
+      "score": 8
+    },
+    {
+      "line": 8819,
+      "text": "21 FEB 1976 BY DYNA PAC, SAN DIEGO",
+      "score": 8
+    },
+    {
+      "line": 24934,
+      "text": "4 WORLD BIOGEOGRAPHICAL PROVINCES WHOLE EARTH CATALOG WHOLE EARTH EPILOG",
+      "score": 8
+    },
+    {
+      "line": 11994,
+      "text": "ENERGY SOURCE SECTION IN THE EPILOGUE -",
+      "score": 6
+    },
+    {
+      "line": 12010,
+      "text": "UNITS OF ENERGY (BY KEEPING ITWARMED VIA",
+      "score": 6
+    },
+    {
+      "line": 12068,
+      "text": "b) WHERE DOES REALLY METHANE ENERGY ORIGI-",
+      "score": 6
+    },
+    {
+      "line": 12081,
+      "text": "ENERGY INTENSIVE - PITFALL LIES OVER Western",
+      "score": 6
+    },
+    {
+      "line": 12273,
+      "text": "REVIEWING THIS LETTER ... SEEMS AS THOUGH",
+      "score": 6
+    },
+    {
+      "line": 14793,
+      "text": "EARTH-SHELTER",
+      "score": 6
+    },
+    {
+      "line": 14938,
+      "text": "SHELTER PAVILION",
+      "score": 6
+    },
+    {
+      "line": 1098,
+      "text": "Energy and Conservation Book Reviews",
+      "score": 5
+    },
+    {
+      "line": 6397,
+      "text": "c/o Solar Energy Program",
+      "score": 5
+    },
+    {
+      "line": 7416,
+      "text": "118 EAST THIRD STREET.",
+      "score": 5
+    },
+    {
+      "line": 9385,
+      "text": "Danish wind energy program for the Danish government.",
+      "score": 5
+    },
+    {
+      "line": 18725,
+      "text": "energy conserving community",
+      "score": 5
+    },
+    {
+      "line": 18968,
+      "text": "Low cost energy-conserving shelter has been around",
+      "score": 5
+    },
+    {
+      "line": 19429,
+      "text": "for many other community energy codes.",
+      "score": 5
+    },
+    {
+      "line": 20910,
+      "text": "energy, Shelter and manufacture were given serious",
+      "score": 5
+    },
+    {
+      "line": 21,
+      "text": "PREROF AG PRORPRRIRERT ERG CRETE ~ | ; RRPRORP RRA OTA",
+      "score": 4
+    },
+    {
+      "line": 56,
+      "text": "SSS SIGS SGI",
+      "score": 4
+    },
+    {
+      "line": 59,
+      "text": "NS . WZ LS",
+      "score": 4
+    },
+    {
+      "line": 62,
+      "text": "SNe (ENN",
+      "score": 4
+    },
+    {
+      "line": 163,
+      "text": "OF T-TEC",
+      "score": 4
+    },
+    {
+      "line": 184,
+      "text": "@NTENTS",
+      "score": 4
+    },
+    {
+      "line": 195,
+      "text": "8-17 ONE HIGHLY-EVOLVED TOOLBOX by J. Baldwin",
+      "score": 4
+    },
+    {
+      "line": 214,
+      "text": "30-32 THE DOUBLE BUBBLE WHEEL ENGINE by Steve Baer",
+      "score": 4
+    },
+    {
+      "line": 241,
+      "text": "66-69 SUNLIGHT CONVERGENCE/SOLAR BURN by Charles Ross",
+      "score": 4
+    },
+    {
+      "line": 262,
+      "text": "80-81 HOMESTEAD BICYCLE TECHNOLOGY by Jim Burgel",
+      "score": 4
+    },
+    {
+      "line": 322,
+      "text": "98-101 THE UNDERGROUND WORLD OF BALDASARE FORESTIERE by Joseph Torchia",
+      "score": 4
+    },
+    {
+      "line": 346,
+      "text": "energy conserving community s Building Value » Concrete and Energy s The Food and Heat Producing",
+      "score": 4
+    },
+    {
+      "line": 427,
+      "text": "INTRODUCTIONS",
+      "score": 4
+    },
+    {
+      "line": 1149,
+      "text": "RAINBOOK iH oe",
+      "score": 4
+    },
+    {
+      "line": 1236,
+      "text": "BY J. BALDWIN",
+      "score": 4
+    },
+    {
+      "line": 1362,
+      "text": "BOSCH TOOLS",
+      "score": 4
+    },
+    {
+      "line": 1381,
+      "text": "COME-ALONG",
+      "score": 4
+    },
+    {
+      "line": 1435,
+      "text": "AUTO-PUNCH",
+      "score": 4
+    },
+    {
+      "line": 1442,
+      "text": "WHITNEY PUNCH",
+      "score": 4
+    },
+    {
+      "line": 1450,
+      "text": "MILLERS FALLS HACKSAW #300",
+      "score": 4
+    },
+    {
+      "line": 1458,
+      "text": "POPRIVETS",
+      "score": 4
+    },
+    {
+      "line": 1533,
+      "text": "STEEL HANDLED HAMMERS",
+      "score": 4
+    },
+    {
+      "line": 1545,
+      "text": "VISEGRIPS",
+      "score": 4
+    },
+    {
+      "line": 1554,
+      "text": "“BERNARDS”",
+      "score": 4
+    },
+    {
+      "line": 1604,
+      "text": "BANDIT",
+      "score": 4
+    },
+    {
+      "line": 1615,
+      "text": "NEEDLENOSE PLIERS WITH SPRING (left)",
+      "score": 4
+    },
+    {
+      "line": 1636,
+      "text": "FAT SCREWDRIVERS",
+      "score": 4
+    },
+    {
+      "line": 1648,
+      "text": "GLOVES & GOGGLES",
+      "score": 4
+    },
+    {
+      "line": 1657,
+      "text": "TEFLON COATED SAW",
+      "score": 4
+    },
+    {
+      "line": 1688,
+      "text": "ROCKWELL RADIAL DRILL PRESS",
+      "score": 4
+    },
+    {
+      "line": 1706,
+      "text": "VERSA VISE",
+      "score": 4
+    },
+    {
+      "line": 1883,
+      "text": "CATALOG, p. 142.)",
+      "score": 4
+    },
+    {
+      "line": 2059,
+      "text": "ASSORTED UNSORTABLE DEPARTMENT.",
+      "score": 4
+    },
+    {
+      "line": 2484,
+      "text": "SEALING TAPE",
+      "score": 4
+    },
+    {
+      "line": 2717,
+      "text": "IMPROVED STAGE SCREW",
+      "score": 4
+    },
+    {
+      "line": 2739,
+      "text": "IMPROVED STAGE",
+      "score": 4
+    },
+    {
+      "line": 2740,
+      "text": "SCREW PLUG",
+      "score": 4
+    },
+    {
+      "line": 2910,
+      "text": "CONE PULLEY HEADSTOCK FACE TOOL SADDLE TAILSTOCK",
+      "score": 4
+    },
+    {
+      "line": 2912,
+      "text": "COVER ye PLATE POST, /, ’",
+      "score": 4
+    },
+    {
+      "line": 2926,
+      "text": "By RICHARD NILSEN",
+      "score": 4
+    },
+    {
+      "line": 3182,
+      "text": "ZUNNERS",
+      "score": 4
+    },
+    {
+      "line": 3218,
+      "text": "CENTRAL TRACTOR’S JUMBO FOLDING CANOPY",
+      "score": 4
+    },
+    {
+      "line": 3249,
+      "text": "HEAVY-DUTY CAST-IRON PITCHER PUMP",
+      "score": 4
+    },
+    {
+      "line": 3353,
+      "text": "RD No. 2",
+      "score": 4
+    },
+    {
+      "line": 3369,
+      "text": "(323AD) $28.00",
+      "score": 4
+    },
+    {
+      "line": 3372,
+      "text": "(35793AD40) $36.00",
+      "score": 4
+    },
+    {
+      "line": 3376,
+      "text": "aD DARAAAAH",
+      "score": 4
+    },
+    {
+      "line": 3437,
+      "text": "MAKING LYE",
+      "score": 4
+    },
+    {
+      "line": 3518,
+      "text": "12 Ib. H53-1TC-$ 33.00.",
+      "score": 4
+    },
+    {
+      "line": 3673,
+      "text": "NJ 07632",
+      "score": 4
+    },
+    {
+      "line": 3740,
+      "text": "FLUE TO CHIMNEY.",
+      "score": 4
+    },
+    {
+      "line": 3744,
+      "text": "HOT WATER",
+      "score": 4
+    },
+    {
+      "line": 3745,
+      "text": "OUTLET",
+      "score": 4
+    },
+    {
+      "line": 3748,
+      "text": "OUTER JACKET -",
+      "score": 4
+    },
+    {
+      "line": 3788,
+      "text": "a AUTEO OD LU REGS LSUI LS OUIRR IDEA OO RINS REOSEBS DBA LEY,",
+      "score": 4
+    },
+    {
+      "line": 3791,
+      "text": "CUT-AWAY",
+      "score": 4
+    },
+    {
+      "line": 3793,
+      "text": "WATER HEATER",
+      "score": 4
+    },
+    {
+      "line": 3810,
+      "text": "If INSULATION",
+      "score": 4
+    },
+    {
+      "line": 3844,
+      "text": "~ FLAT IRON",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 173,
+      "term": "energy",
+      "snippet": "& Stewart Brand A Penguin Book I didn’t believe in the alternate-energy future until I saw how dull it was gonna be and how stupid the slogans were gonna be and how much I wasn’t gonna like it."
+    },
+    {
+      "line": 189,
+      "term": "energy",
+      "snippet": "4-6 INTRODUCTIONS by J. Baldwin (JB) and by Stewart Brand (SB) 5 LOCAL DEPENDENCY by Stewart Brand 7 RAIN (Journal of Appropriate Technology) = Rainbook « Energy Primer (Revised and Updated) Tools 8-17 ONE HIGHLY-EVOLVED TOOLBOX by J. Baldwin 17-21 Whole Earth Access Company » More toolbox s» Experiences in Visual Thinking = Pump Flashlights? «"
+    },
+    {
+      "line": 192,
+      "term": "tools",
+      "snippet": "5 LOCAL DEPENDENCY by Stewart Brand 7 RAIN (Journal of Appropriate Technology) = Rainbook « Energy Primer (Revised and Updated) Tools 8-17 ONE HIGHLY-EVOLVED TOOLBOX by J. Baldwin 17-21 Whole Earth Access Company » More toolbox s» Experiences in Visual Thinking = Pump Flashlights? « Do-It-Yourself Plumbing » Aushalser » Garrett Wade Company » Devcon » New Equipment Digest «"
+    },
+    {
+      "line": 206,
+      "term": "tools",
+      "snippet": "22-23 SMALL TRACTORS by Richard Nilsen 24-29 The Marugg Company s» Farm and Ranch Supplies » Hopperdozer » Central Tractor Parts Company us Dictionary of Tools = The Good Neighbor Heritage Catalog » Iron Horse Antiques = The Living BASICS from the UN » The Cumberland General Store = Ways of the Sierra Madre » Guide to Hand-Operated and Animal-Drawn Equipment = Garden Way Cart » Appliance Service Handbook « An alternative technology equipment directory » Cloudburst 2 « Marks’ Standard Handbook for Mechanical Engineers = Australian"
+    },
+    {
+      "line": 230,
+      "term": "energy",
+      "snippet": "Solar 46-49 A-Z Solar Products s Solar Age Catalog = Solar Components «= Solar hardware =» Tuffak-Twinwall » Grumman Sunstream solar hotwater system «m Serrande Shutters » Ecosol 101 Energy Recovery System a Solar Directory o Shurcliff’s last catalog » Sun Earth » Solar Energy Society 50-51 THE CLOTHESLINE PARADOX by Steve Baer 52-63 SOLAR WATER HEATERS IN CALIFORNIA, 1891-1930 by Ken Butti and John Perlin"
+    },
+    {
+      "line": 231,
+      "term": "energy",
+      "snippet": "46-49 A-Z Solar Products s Solar Age Catalog = Solar Components «= Solar hardware =» Tuffak-Twinwall » Grumman Sunstream solar hotwater system «m Serrande Shutters » Ecosol 101 Energy Recovery System a Solar Directory o Shurcliff’s last catalog » Sun Earth » Solar Energy Society 50-51 THE CLOTHESLINE PARADOX by Steve Baer 52-63 SOLAR WATER HEATERS IN CALIFORNIA, 1891-1930 by Ken Butti and John Perlin 64-65 Solar Energy Thermal Processes » Enhanced Solar Collection =» Pocket Solar Meter =» Thermic Diode Solar Panel s"
+    },
+    {
+      "line": 237,
+      "term": "energy",
+      "snippet": "50-51 THE CLOTHESLINE PARADOX by Steve Baer 52-63 SOLAR WATER HEATERS IN CALIFORNIA, 1891-1930 by Ken Butti and John Perlin 64-65 Solar Energy Thermal Processes » Enhanced Solar Collection =» Pocket Solar Meter =» Thermic Diode Solar Panel s California Solar Information Packet » Solar Age » Solar Energy Digest « Little arctic solar trackers = Alternative Sources of Energy 66-69 SUNLIGHT CONVERGENCE/SOLAR BURN by Charles Ross"
+    },
+    {
+      "line": 238,
+      "term": "energy",
+      "snippet": "52-63 SOLAR WATER HEATERS IN CALIFORNIA, 1891-1930 by Ken Butti and John Perlin 64-65 Solar Energy Thermal Processes » Enhanced Solar Collection =» Pocket Solar Meter =» Thermic Diode Solar Panel s California Solar Information Packet » Solar Age » Solar Energy Digest « Little arctic solar trackers = Alternative Sources of Energy 66-69 SUNLIGHT CONVERGENCE/SOLAR BURN by Charles Ross Wind"
+    },
+    {
+      "line": 239,
+      "term": "energy",
+      "snippet": "64-65 Solar Energy Thermal Processes » Enhanced Solar Collection =» Pocket Solar Meter =» Thermic Diode Solar Panel s California Solar Information Packet » Solar Age » Solar Energy Digest « Little arctic solar trackers = Alternative Sources of Energy 66-69 SUNLIGHT CONVERGENCE/SOLAR BURN by Charles Ross Wind 70-75 Windcatchers » Wind Workshop 2 » Wind Power Access Catalog = Wind Energy Utilization = Here’s an interesting"
+    },
+    {
+      "line": 247,
+      "term": "energy",
+      "snippet": "66-69 SUNLIGHT CONVERGENCE/SOLAR BURN by Charles Ross Wind 70-75 Windcatchers » Wind Workshop 2 » Wind Power Access Catalog = Wind Energy Utilization = Here’s an interesting bit of news from our Department of Energy (DOE) » Wooden wind-generator blades « North Wind Power Co. « Energy from the Wind a Wind Technology Journal » Simplified Wind Power Systems for Experimenters » This Is How You Can Heat Your Home With a Little Windmill » Gemini Synchronous Inverter =» Design With Wind a"
+    },
+    {
+      "line": 248,
+      "term": "energy",
+      "snippet": "Wind 70-75 Windcatchers » Wind Workshop 2 » Wind Power Access Catalog = Wind Energy Utilization = Here’s an interesting bit of news from our Department of Energy (DOE) » Wooden wind-generator blades « North Wind Power Co. « Energy from the Wind a Wind Technology Journal » Simplified Wind Power Systems for Experimenters » This Is How You Can Heat Your Home With a Little Windmill » Gemini Synchronous Inverter =» Design With Wind a Storage Batteries » Homemade Windmills of Nebraska = The battle axe =» Food from Windmills » Windmills"
+    },
+    {
+      "line": 249,
+      "term": "energy",
+      "snippet": "70-75 Windcatchers » Wind Workshop 2 » Wind Power Access Catalog = Wind Energy Utilization = Here’s an interesting bit of news from our Department of Energy (DOE) » Wooden wind-generator blades « North Wind Power Co. « Energy from the Wind a Wind Technology Journal » Simplified Wind Power Systems for Experimenters » This Is How You Can Heat Your Home With a Little Windmill » Gemini Synchronous Inverter =» Design With Wind a Storage Batteries » Homemade Windmills of Nebraska = The battle axe =» Food from Windmills » Windmills Transport"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 6,
+      "text": "M4 y > \\"
+    },
+    {
+      "line": 7,
+      "text": "f / Y ¥ y 4"
+    },
+    {
+      "line": 8,
+      "text": "mY > mY YA coy You) 1 she \\ +> [-"
+    },
+    {
+      "line": 9,
+      "text": "N) iG h) ig y ACA! \\G Ae \\ ae"
+    },
+    {
+      "line": 10,
+      "text": "%, 4 Cedi i eA, 4 fi ¢"
+    },
+    {
+      "line": 11,
+      "text": "3 A 5 e. , :"
+    },
+    {
+      "line": 20,
+      "text": "SS aa Sa a ee ee : ee 2555S an"
+    },
+    {
+      "line": 21,
+      "text": "PREROF AG PRORPRRIRERT ERG CRETE ~ | ; RRPRORP RRA OTA"
+    },
+    {
+      "line": 27,
+      "text": "SE EPP oy"
+    },
+    {
+      "line": 28,
+      "text": "Meret oan aunt teas oma worse"
+    },
+    {
+      "line": 29,
+      "text": "te :"
+    },
+    {
+      "line": 38,
+      "text": "wet TORT"
+    },
+    {
+      "line": 50,
+      "text": "Se eo"
+    },
+    {
+      "line": 56,
+      "text": "SSS SIGS SGI"
+    },
+    {
+      "line": 59,
+      "text": "NS . WZ LS"
+    },
+    {
+      "line": 62,
+      "text": "SNe (ENN"
+    },
+    {
+      "line": 63,
+      "text": "is I) GYD"
+    },
+    {
+      "line": 64,
+      "text": "moh q LN }"
+    },
+    {
+      "line": 67,
+      "text": "“Appropriate Technology"
+    },
+    {
+      "line": 70,
+      "text": "A copy from a Spanish postcard of about 1915, shows a mill for grinding olives. The two gentlemen are Berbers"
+    },
+    {
+      "line": 71,
+      "text": "who live in the Riff, in north Morocco, at that time under Spanish “protection.”’ It is my opinion that the"
+    },
+    {
+      "line": 74,
+      "text": "underdeveloped countries see Appropriate Technology as in fact a “mill-stone.”"
+    },
+    {
+      "line": 77,
+      "text": "It may seem quaint to us, as it"
+    },
+    {
+      "line": 80,
+      "text": "obviously did to the Spaniards who sold, and bought, this postcard, but you have only to look at the face of the"
+    },
+    {
+      "line": 81,
+      "text": "Berber on the right to see the truth. In fact the Riffs were engaged in insurrection against the Spanish from 1921"
+    },
+    {
+      "line": 82,
+      "text": "on. Only the intervention of the French postponed the inevitable date of independence till 1956."
+    },
+    {
+      "line": 85,
+      "text": "HE OTHER DAY it hit me. The key. They always"
+    },
+    {
+      "line": 86,
+      "text": "refer to it not as an appropriate technology, but as Appropriate"
+    },
+    {
+      "line": 87,
+      "text": "Technology. The big A and the big T, sometimes AT. In"
+    },
+    {
+      "line": 88,
+      "text": "simply altering a lower case to an upper case, we go from"
+    },
+    {
+      "line": 89,
+      "text": "experience to belief."
+    },
+    {
+      "line": 92,
+      "text": "The realization is not as obvious as it appears; it eluded me"
+    },
+    {
+      "line": 93,
+      "text": "for some time. I was attending a meeting in Mexico City last"
+    },
+    {
+      "line": 94,
+      "text": "year to discuss the role of appropriate technologies in the"
+    },
+    {
+      "line": 95,
+      "text": "development of the poorer nations. About thirty people had"
+    },
+    {
+      "line": 96,
+      "text": "been invited, and it soon became clear to me that, if not a"
+    },
+    {
+      "line": 97,
+      "text": "schism, at least a serious division, was apparent among"
+    },
+    {
+      "line": 99,
+      "text": "the participants."
+    },
+    {
+      "line": 102,
+      "text": "An American, obviously taken with the Appropriate Tech-"
+    },
+    {
+      "line": 103,
+      "text": "nology argument if not himself an active member, described"
+    }
+  ]
+}

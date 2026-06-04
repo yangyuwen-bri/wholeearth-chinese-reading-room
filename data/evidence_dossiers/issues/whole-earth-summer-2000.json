@@ -1,0 +1,674 @@
+{
+  "title": "Whole Earth, Summer 2000",
+  "identifier": "wholeearthsummer00unse_2",
+  "year": 2000,
+  "season": "Summer",
+  "collection": "Whole Earth Magazine",
+  "collection_zh": "Whole Earth Magazine",
+  "pages": 113,
+  "url": "https://wholeearth.info/p/whole-earth-summer-2000",
+  "archive_url": "https://archive.org/details/wholeearthsummer00unse_2",
+  "pdf_url": "https://archive.org/download/wholeearthsummer00unse_2/wholeearthsummer00unse_2.pdf",
+  "cover_url": "https://archive.org/download/wholeearthsummer00unse_2/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthsummer00unse_2_djvu.txt",
+  "ocr_chars": 473920,
+  "significant_line_count": 12641,
+  "theme_counts": {
+    "software_computing": 67,
+    "tools_craft": 123,
+    "ecology_place": 308,
+    "learning_media": 225,
+    "community_politics": 514
+  },
+  "top_themes": [
+    "community_politics",
+    "ecology_place",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 13977,
+      "page": 47,
+      "title": "RISE",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_2/page/n48_w500.jpg"
+    },
+    {
+      "line": 14143,
+      "page": 8,
+      "title": "INLET",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_2/page/n9_w500.jpg"
+    },
+    {
+      "line": 14147,
+      "page": 24,
+      "title": "MESH",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_2/page/n25_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 13977,
+      "text": "47 RISE",
+      "score": 8
+    },
+    {
+      "line": 14143,
+      "text": "8 INLET",
+      "score": 8
+    },
+    {
+      "line": 14147,
+      "text": "24 MESH",
+      "score": 8
+    },
+    {
+      "line": 126,
+      "text": "AN INTERVIEW WITH RACHEL NAOMI REMEN, M.D.",
+      "score": 6
+    },
+    {
+      "line": 11849,
+      "text": "EMPOIIER LOVE AN INTERVIEW WITH STEVE HEILIG",
+      "score": 6
+    },
+    {
+      "line": 15331,
+      "text": "THE AMBASSADORS PROGRAM OF",
+      "score": 6
+    },
+    {
+      "line": 15482,
+      "text": "ECOLOGY OF",
+      "score": 6
+    },
+    {
+      "line": 17465,
+      "text": "CONTROLLED ENERGY CORPORATION",
+      "score": 6
+    },
+    {
+      "line": 49,
+      "text": "WHOLEPEOPLE.com”",
+      "score": 4
+    },
+    {
+      "line": 52,
+      "text": "A WHOLE FoopsS MARKET® COMPANY",
+      "score": 4
+    },
+    {
+      "line": 73,
+      "text": "12 ACRES OF SOLAR & WIND-POWERED GARDENS. . : aA",
+      "score": 4
+    },
+    {
+      "line": 115,
+      "text": "Cover: CHILD STANDING",
+      "score": 4
+    },
+    {
+      "line": 116,
+      "text": "UNDER FALLEN STATUE OF LENIN, ETHIOPIA.",
+      "score": 4
+    },
+    {
+      "line": 117,
+      "text": "PHOTO © 1991 By DARIO MITIDIERI.",
+      "score": 4
+    },
+    {
+      "line": 120,
+      "text": "BEYORn DD",
+      "score": 4
+    },
+    {
+      "line": 127,
+      "text": "SPECIAL SECTION: GUEST EDITOR JAY KINNEY",
+      "score": 4
+    },
+    {
+      "line": 207,
+      "text": "MICHAEL STOCKER",
+      "score": 4
+    },
+    {
+      "line": 217,
+      "text": "LYNNE HULL,",
+      "score": 4
+    },
+    {
+      "line": 219,
+      "text": "NATALIE JEREMIJENKO,",
+      "score": 4
+    },
+    {
+      "line": 222,
+      "text": "AND KATHRYN MILLER",
+      "score": 4
+    },
+    {
+      "line": 350,
+      "text": "SUMMER: 2000",
+      "score": 4
+    },
+    {
+      "line": 424,
+      "text": "SUBSCRIPTIONS: In US $24;",
+      "score": 4
+    },
+    {
+      "line": 531,
+      "text": "SUMMER 2000 WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 616,
+      "text": "BLESSINGS.",
+      "score": 4
+    },
+    {
+      "line": 626,
+      "text": "EL NAOMI REMEN, M.",
+      "score": 4
+    },
+    {
+      "line": 635,
+      "text": "My GRANDFATHER’S BLESSINGS",
+      "score": 4
+    },
+    {
+      "line": 650,
+      "text": "WHOLE EARTH SUMMER 2000",
+      "score": 4
+    },
+    {
+      "line": 1074,
+      "text": "1950S.",
+      "score": 4
+    },
+    {
+      "line": 1449,
+      "text": "DEATH OF THE GOOD DOCTOR",
+      "score": 4
+    },
+    {
+      "line": 1547,
+      "text": "THE ULTIMATE",
+      "score": 4
+    },
+    {
+      "line": 1550,
+      "text": "JOURNEY",
+      "score": 4
+    },
+    {
+      "line": 1596,
+      "text": "-FENTON JOHNSON, “THE WEIGHT OF",
+      "score": 4
+    },
+    {
+      "line": 1597,
+      "text": "MEMORY”",
+      "score": 4
+    },
+    {
+      "line": 1600,
+      "text": "DR. REMEN’S RECOMMENDED READING",
+      "score": 4
+    },
+    {
+      "line": 1603,
+      "text": "ON SERVICE, HEALING, AND RELATIONSHIP",
+      "score": 4
+    },
+    {
+      "line": 1606,
+      "text": "BEING WITH DYING",
+      "score": 4
+    },
+    {
+      "line": 1616,
+      "text": "THE HEALER’S ART",
+      "score": 4
+    },
+    {
+      "line": 1621,
+      "text": "THE NATURE OF",
+      "score": 4
+    },
+    {
+      "line": 1624,
+      "text": "SUFFERING AND THE",
+      "score": 4
+    },
+    {
+      "line": 1627,
+      "text": "GOALS OF MEDICINE ©",
+      "score": 4
+    },
+    {
+      "line": 1646,
+      "text": "PRAYERS FOR HEALING",
+      "score": 4
+    },
+    {
+      "line": 1657,
+      "text": "WISE AND WONDERFUL;",
+      "score": 4
+    },
+    {
+      "line": 1658,
+      "text": "THE LORD Gop MADE",
+      "score": 4
+    },
+    {
+      "line": 1763,
+      "text": "AP/WiDE",
+      "score": 4
+    },
+    {
+      "line": 1789,
+      "text": "ORLD PHOTOS",
+      "score": 4
+    },
+    {
+      "line": 1801,
+      "text": "EGGS AND SPERM FROM THE DIVORCED,",
+      "score": 4
+    },
+    {
+      "line": 1802,
+      "text": "THE “STERILE,” AND THE DEAD",
+      "score": 4
+    },
+    {
+      "line": 1859,
+      "text": "THREE PARENTS",
+      "score": 4
+    },
+    {
+      "line": 1883,
+      "text": "ANY-AGE PREGNANCIES",
+      "score": 4
+    },
+    {
+      "line": 1914,
+      "text": "EMBRYO RIGHTS",
+      "score": 4
+    },
+    {
+      "line": 1941,
+      "text": "HIGH-TECH",
+      "score": 4
+    },
+    {
+      "line": 1942,
+      "text": "CONCEPTION",
+      "score": 4
+    },
+    {
+      "line": 1948,
+      "text": "CHROMOSOMAL ABNORMALITIES",
+      "score": 4
+    },
+    {
+      "line": 2004,
+      "text": "GEORGIA INSTITUTE OF TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 2014,
+      "text": "JEFF MILLER/UNIVERSITY OF WISCONSIN-MADISON",
+      "score": 4
+    },
+    {
+      "line": 2103,
+      "text": "LIFE 1S INHERENTLY IMMORTAL",
+      "score": 4
+    },
+    {
+      "line": 2198,
+      "text": "Courtesy GBN NEXTMED2 CONFERENCE.",
+      "score": 4
+    },
+    {
+      "line": 2205,
+      "text": "© CURY",
+      "score": 4
+    },
+    {
+      "line": 2208,
+      "text": "WELCOME TO THE",
+      "score": 4
+    },
+    {
+      "line": 2209,
+      "text": "MONKEY HOUSE",
+      "score": 4
+    },
+    {
+      "line": 2215,
+      "text": "HOLY FIRE",
+      "score": 4
+    },
+    {
+      "line": 2226,
+      "text": "MOLECULAR GEODESICS, INC.",
+      "score": 4
+    },
+    {
+      "line": 2263,
+      "text": "VIVIANE Moos",
+      "score": 4
+    },
+    {
+      "line": 2266,
+      "text": "THIS ARTICLE FIRST",
+      "score": 4
+    },
+    {
+      "line": 2269,
+      "text": "APPEARED IN SLIGHT-",
+      "score": 4
+    },
+    {
+      "line": 2270,
+      "text": "LY DIFFERENT FORM",
+      "score": 4
+    },
+    {
+      "line": 2273,
+      "text": "IN THE APRIL 1998",
+      "score": 4
+    },
+    {
+      "line": 2274,
+      "text": "ISSUE OF THE NEW",
+      "score": 4
+    },
+    {
+      "line": 2275,
+      "text": "INTERNATIONALIST",
+      "score": 4
+    },
+    {
+      "line": 2276,
+      "text": "(SEE ACCESS,",
+      "score": 4
+    },
+    {
+      "line": 2278,
+      "text": "PAGE 55). USED",
+      "score": 4
+    },
+    {
+      "line": 2279,
+      "text": "WITH PERMISSION.",
+      "score": 4
+    },
+    {
+      "line": 2344,
+      "text": "CHINA’S “KILLING-MACHINE”",
+      "score": 4
+    },
+    {
+      "line": 2436,
+      "text": "ORGANS BAZAAR",
+      "score": 4
+    },
+    {
+      "line": 2518,
+      "text": "“COMPENSATED GIFTING”",
+      "score": 4
+    },
+    {
+      "line": 2672,
+      "text": "*SOME PATIENTS ARE AWAITING MORE THAN ONE ORGAN,",
+      "score": 4
+    },
+    {
+      "line": 2673,
+      "text": "THEREFORE THE TOTAL NUMBER OF PATIENTS IS LESS THAN",
+      "score": 4
+    },
+    {
+      "line": 2674,
+      "text": "THE SUM OF PATIENTS WAITING FOR EACH ORGAN.",
+      "score": 4
+    },
+    {
+      "line": 2677,
+      "text": "FROM THE UNOS NATIONAL PATIENT WAITING LIST.",
+      "score": 4
+    },
+    {
+      "line": 2746,
+      "text": "TRANSPLANT ACCESS | |",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 76,
+      "term": "energy",
+      "snippet": "LARGEST STRAW BALE BUILDING IN THE WORLD. SEE THE FUTURE! © august 26 & 2 q, 2000 : Entertainment for All Ages ¢ Tours © Yummy Food & Drink Renewable Energy Vendors @ Cool Stuff to Buy ¢ Great Music Ralph Nader & Julia Butterfly invited. Ed Begley, Jr. & Wendie Malick on “greening up” Hollywood Huge Children’s Mural, Hula & Storytelling for Kids and the Kid in You"
+    },
+    {
+      "line": 126,
+      "term": "interview",
+      "snippet": "BEYORn DD nM LEE’T ann RiGHT AN INTERVIEW WITH RACHEL NAOMI REMEN, M.D. SPECIAL SECTION: GUEST EDITOR JAY KINNEY With the managed-care and hi-tech assault on medicine, can physicians"
+    },
+    {
+      "line": 146,
+      "term": "tools",
+      "snippet": "“a M EH. Dp An inside account of one man’s journey through radical politics. ae The Way of Love ¢ Birt Kaurrman 38 Futur: istic dr ugs, tools, Organs 16 Dorothy Day and the American Right and engineering Organ Transplants in Mixing up categories and stirring up trouble with the Catholic plunge our bodies and the Globalocal Market Workers. babies into a bloody NANCY SCHEPER-"
+    },
+    {
+      "line": 199,
+      "term": "interview",
+      "snippet": "Features Carlos Santana _ 72 An interview with STEVE HEILIG Submarine Song and the Naval Boom Box 81"
+    },
+    {
+      "line": 330,
+      "term": "ecology",
+      "snippet": "Full Circles, Overlapping Lives 100 Steps to an Ecology of Mind 100 The Apache Diaries IOI Backmatter Gossip 102"
+    },
+    {
+      "line": 457,
+      "term": "interview",
+      "snippet": "RETURNING: SERVIGE, GRACE, AND WEAN IN G tGs tee tRR Cre Ei Easiness Rachel Naomi Remen, M.D. An interview with Peter Warshall Rachel Naomi Remen is one of my closest friends. She is a life partner in our work at Commonweal, a small health and environ-"
+    },
+    {
+      "line": 728,
+      "term": "tools",
+      "snippet": "The doctors of generations ago would have been awed by our science and our tools, but they would have understood our commitment perfectly, because they shared it with us. It is an unbro- ken lineage."
+    },
+    {
+      "line": 737,
+      "term": "tools",
+      "snippet": "threatened by the technological-the techniques for long life, for fertility. Their tools change so rapidly. RNR: And the tools are so seductive and so powerful. PW: Are we messing with the natural"
+    },
+    {
+      "line": 740,
+      "term": "tools",
+      "snippet": "techniques for long life, for fertility. Their tools change so rapidly. RNR: And the tools are so seductive and so powerful. PW: Are we messing with the natural law of things?"
+    },
+    {
+      "line": 937,
+      "term": "community",
+      "snippet": "represses. So this class might be considered such a subculture, a community that helps those who participate to heal the shadow of medicine. It’s not didactic or theoretical. It’s experiential. It’s a"
+    },
+    {
+      "line": 973,
+      "term": "community",
+      "snippet": "just spend five min- utes in supportive community. If I am the doctor in the group, I ask the person on my"
+    },
+    {
+      "line": 1972,
+      "term": "community",
+      "snippet": "66 Whether or not ovulation induction causes ovarian cancer, 200 its other risks cannot be ignored. Recently, some distinguished [] Hutterites members of the fertility community have called for a reassessment ee MM ench Village of current practices....The group charges that too many doctors a a : Hl U.S. 1998 seem to place too high an emphasis on sheer numbers of eggs and AGE 20-24 25:29 30-34 35-39 40-44 45-49 embryos as a sign of a successful stimulation....For most cases, the FERTILITY RATES"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 10,
+      "text": "Atene"
+    },
+    {
+      "line": 13,
+      "text": "mmer 200"
+    },
+    {
+      "line": 16,
+      "text": "A Special Section"
+    },
+    {
+      "line": 17,
+      "text": "BEYOND on Political"
+    },
+    {
+      "line": 18,
+      "text": "Left & Right | Alternatives"
+    },
+    {
+      "line": 24,
+      "text": "a8 you wan( {o All| anything"
+    },
+    {
+      "line": 25,
+      "text": "(c heaven. All| (Cc the a"
+    },
+    {
+      "line": 28,
+      "text": "- West African saying"
+    },
+    {
+      "line": 31,
+      "text": "Hand-forged RY chimes"
+    },
+    {
+      "line": 37,
+      "text": "{o hear eaven’s answer,"
+    },
+    {
+      "line": 40,
+      "text": "- WholePeople.com"
+    },
+    {
+      "line": 43,
+      "text": "Bring more harmony into your life with WholePeople.com. It’s a whole world of ideas for body and soul, for"
+    },
+    {
+      "line": 44,
+      "text": "home and planet, for your travels inward and your travels abroad. You’ll find thousands of natural products,"
+    },
+    {
+      "line": 45,
+      "text": "plus wise advice and helpful information. WholePeople.com. It could be the answer you've been searching for."
+    },
+    {
+      "line": 46,
+      "text": "Get $10 off your first order of $30 or more before 12/31/00. Simply enter special offer code WPS116 at purchase."
+    },
+    {
+      "line": 49,
+      "text": "WHOLEPEOPLE.com”"
+    },
+    {
+      "line": 52,
+      "text": "A WHOLE FoopsS MARKET® COMPANY"
+    },
+    {
+      "line": 55,
+      "text": "Home Health Travel food Heart"
+    },
+    {
+      "line": 58,
+      "text": "Soi & Good :"
+    },
+    {
+      "line": 59,
+      "text": "Living Festival -"
+    },
+    {
+      "line": 60,
+      "text": "A sun-filled weekends"
+    },
+    {
+      "line": 62,
+      "text": "for the entire family!"
+    },
+    {
+      "line": 65,
+      "text": "Real Goods Solar Living"
+    },
+    {
+      "line": 66,
+      "text": "Center, Hopland, CA"
+    },
+    {
+      "line": 69,
+      "text": "(Less than two hours north of SF)"
+    },
+    {
+      "line": 72,
+      "text": "Largest solar event in the West!"
+    },
+    {
+      "line": 73,
+      "text": "12 ACRES OF SOLAR & WIND-POWERED GARDENS. . : aA"
+    },
+    {
+      "line": 74,
+      "text": "LARGEST STRAW BALE BUILDING IN THE WORLD. SEE THE FUTURE! © august 26 & 2 q, 2000 :"
+    },
+    {
+      "line": 75,
+      "text": "Entertainment for All Ages ¢ Tours © Yummy Food & Drink"
+    },
+    {
+      "line": 76,
+      "text": "Renewable Energy Vendors @ Cool Stuff to Buy ¢ Great Music"
+    },
+    {
+      "line": 79,
+      "text": "Ralph Nader & Julia Butterfly invited. Ed Begley, Jr. & Wendie Malick on “greening up” Hollywood"
+    },
+    {
+      "line": 82,
+      "text": "Huge Children’s Mural, Hula &"
+    },
+    {
+      "line": 83,
+      "text": "Storytelling for Kids and the Kid in You"
+    },
+    {
+      "line": 86,
+      "text": "Sponsored by Natural Home:"
+    },
+    {
+      "line": 87,
+      "text": "e Eco-Kitsch Kitchens/Baths”"
+    },
+    {
+      "line": 88,
+      "text": "¢ Tips for Greening Your Office"
+    },
+    {
+      "line": 89,
+      "text": "¢ 3.R’s of Redecorating"
+    },
+    {
+      "line": 91,
+      "text": "° * Kid “Safe & Kid-Smart"
+    },
+    {
+      "line": 93,
+      "text": "e Straw Bale, Cob*& Bamboo Building"
+    },
+    {
+      "line": 94,
+      "text": "° Solar, Wind & Hydro Power"
+    }
+  ]
+}

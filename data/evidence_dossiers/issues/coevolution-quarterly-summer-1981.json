@@ -1,0 +1,674 @@
+{
+  "title": "CoEvolution Quarterly, Summer 1981",
+  "identifier": "coevolutionquart00unse_26",
+  "year": 1981,
+  "season": "Summer",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 153,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1981",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_26",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_26/coevolutionquart00unse_26.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_26/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_26_djvu.txt",
+  "ocr_chars": 647323,
+  "significant_line_count": 14798,
+  "theme_counts": {
+    "software_computing": 96,
+    "tools_craft": 358,
+    "ecology_place": 699,
+    "learning_media": 453,
+    "community_politics": 464
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 1161,
+      "page": 3,
+      "title": "IT DOES TO 4E.. LT DROVE",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_26/page/n4_w500.jpg"
+    },
+    {
+      "line": 9335,
+      "page": 4,
+      "title": "FENCE ROW",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_26/page/n5_w500.jpg"
+    },
+    {
+      "line": 16870,
+      "page": 10,
+      "title": "WHERE ARTHRITIS ATTACKS",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_26/page/n11_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 1161,
+      "text": "3 IT DOES TO 4E.. LT DROVE",
+      "score": 8
+    },
+    {
+      "line": 9335,
+      "text": "4 FENCE ROW",
+      "score": 8
+    },
+    {
+      "line": 16870,
+      "text": "10 WHERE ARTHRITIS ATTACKS",
+      "score": 8
+    },
+    {
+      "line": 167,
+      "text": "UNDERSTANDING WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 308,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 425,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 476,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 5684,
+      "text": "WHOLE SYSTEMS ©",
+      "score": 6
+    },
+    {
+      "line": 4,
+      "text": "HOW NOTTO” |.",
+      "score": 4
+    },
+    {
+      "line": 5,
+      "text": "COMMIT SUICIDE",
+      "score": 4
+    },
+    {
+      "line": 6,
+      "text": "« BY ART KLEINER P. 88",
+      "score": 4
+    },
+    {
+      "line": 18,
+      "text": "(GUT 1 CONT KNOW WHERE To GEGIN =)",
+      "score": 4
+    },
+    {
+      "line": 33,
+      "text": "(OPVOLULLION",
+      "score": 4
+    },
+    {
+      "line": 42,
+      "text": "COVERS",
+      "score": 4
+    },
+    {
+      "line": 126,
+      "text": "POLITICS |",
+      "score": 4
+    },
+    {
+      "line": 191,
+      "text": "Sn 2 SESSA AGS SORTASE 1 “OE",
+      "score": 4
+    },
+    {
+      "line": 192,
+      "text": "LAND USE i",
+      "score": 4
+    },
+    {
+      "line": 235,
+      "text": "THE CoEVOLUTION QUARTERLY SUMMER 198)",
+      "score": 4
+    },
+    {
+      "line": 248,
+      "text": "COPPICING-WITH-STANDARDS",
+      "score": 4
+    },
+    {
+      "line": 266,
+      "text": "SOFT TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 359,
+      "text": "HOW NOT TO COMMIT SUICIDE",
+      "score": 4
+    },
+    {
+      "line": 379,
+      "text": "BOX 428 SAUSALITO CA 94966",
+      "score": 4
+    },
+    {
+      "line": 408,
+      "text": "NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 493,
+      "text": "BUSINESS",
+      "score": 4
+    },
+    {
+      "line": 530,
+      "text": "POLITICS",
+      "score": 4
+    },
+    {
+      "line": 660,
+      "text": "THE CoEVOLUTION QUARTERLY SUMMERI98) =",
+      "score": 4
+    },
+    {
+      "line": 663,
+      "text": "HEY! Tus 15 ) -AND AWAY FROM & NEIGHBORS.",
+      "score": 4
+    },
+    {
+      "line": 666,
+      "text": "INSTEAD WE",
+      "score": 4
+    },
+    {
+      "line": 669,
+      "text": "THE FIFTH THE BIG CITY AND HAVE HERE THE WORK... INIG..",
+      "score": 4
+    },
+    {
+      "line": 670,
+      "text": "ANNIVERSARY SOUNDS OF mn UVH.. TO.. GETHER.",
+      "score": 4
+    },
+    {
+      "line": 671,
+      "text": "OF OUR MOVE AND ATURE. -TO BUILD... UW.",
+      "score": 4
+    },
+    {
+      "line": 672,
+      "text": "TO THE COUNTRY.",
+      "score": 4
+    },
+    {
+      "line": 675,
+      "text": "WORKING (N",
+      "score": 4
+    },
+    {
+      "line": 678,
+      "text": "SOON To",
+      "score": 4
+    },
+    {
+      "line": 679,
+      "text": "BUILT _HE RE",
+      "score": 4
+    },
+    {
+      "line": 682,
+      "text": "A STATE",
+      "score": 4
+    },
+    {
+      "line": 740,
+      "text": "BOX 428 SAUSALITO CA 94966 5",
+      "score": 4
+    },
+    {
+      "line": 798,
+      "text": "ITLL PROBABLY MAYBE THECLL I THINK ITLL ;",
+      "score": 4
+    },
+    {
+      "line": 800,
+      "text": "JUST BE HEDGE JUST WANT TO. BE SOMETHING ae",
+      "score": 4
+    },
+    {
+      "line": 801,
+      "text": "CLIPPINGS OR BURY BARRELS HARMLESS -- |",
+      "score": 4
+    },
+    {
+      "line": 802,
+      "text": "TREE STUMPS. THERE..",
+      "score": 4
+    },
+    {
+      "line": 803,
+      "text": "OR OTILIT? 3",
+      "score": 4
+    },
+    {
+      "line": 806,
+      "text": "A WASTE",
+      "score": 4
+    },
+    {
+      "line": 807,
+      "text": "DISPOSAL SITE",
+      "score": 4
+    },
+    {
+      "line": 808,
+      "text": "RIGHT NEXT DOOR.",
+      "score": 4
+    },
+    {
+      "line": 809,
+      "text": "T WONDER",
+      "score": 4
+    },
+    {
+      "line": 810,
+      "text": "WHAT THE STATE",
+      "score": 4
+    },
+    {
+      "line": 812,
+      "text": "WitL DUUP",
+      "score": 4
+    },
+    {
+      "line": 834,
+      "text": "1 SS SSSNRNe -",
+      "score": 4
+    },
+    {
+      "line": 852,
+      "text": "THE CoEVOLUTION QUARTERLY SUMMERI986",
+      "score": 4
+    },
+    {
+      "line": 935,
+      "text": "BOX 428 SAUSALITO CA 94966 7",
+      "score": 4
+    },
+    {
+      "line": 995,
+      "text": "I'D LOVE To HELP BUT",
+      "score": 4
+    },
+    {
+      "line": 996,
+      "text": "SAVING THE WHALES HAS.",
+      "score": 4
+    },
+    {
+      "line": 997,
+      "text": "BECOME 4 FULL TME JO8.",
+      "score": 4
+    },
+    {
+      "line": 1000,
+      "text": "A NE GOT. HEY, I'D REALLY JF IT ADDS ONE",
+      "score": 4
+    },
+    {
+      "line": 1004,
+      "text": "| Bur, LIKE, GOTTA | \\ INCLUDE ME OUT!",
+      "score": 4
+    },
+    {
+      "line": 1008,
+      "text": "THE CoEVOLUTION QUARTERLY SUMMERI981",
+      "score": 4
+    },
+    {
+      "line": 1092,
+      "text": "GEE, I WAS FORGET IT, MAN! BUT WHAT CAN HMM! (F IT GETS INTO THE",
+      "score": 4
+    },
+    {
+      "line": 1094,
+      "text": "I Do ABour WATERTABLE WELL ALL BE",
+      "score": 4
+    },
+    {
+      "line": 1095,
+      "text": "IN TROUBLE... WHEN DID",
+      "score": 4
+    },
+    {
+      "line": 1096,
+      "text": "GOU WANT To GET TOGETHER?",
+      "score": 4
+    },
+    {
+      "line": 1158,
+      "text": "WHAT HAVE WE my THE COUNTYS By I TALKED fo",
+      "score": 4
+    },
+    {
+      "line": 1162,
+      "text": "q FOUND OUT Sem =ALL FOR \\T gi OUR MATOR.",
+      "score": 4
+    },
+    {
+      "line": 1166,
+      "text": "UP TO THE SIATE CAPITOL",
+      "score": 4
+    },
+    {
+      "line": 1168,
+      "text": "TO LOOK AT HE DisRPOSAL BF",
+      "score": 4
+    },
+    {
+      "line": 1169,
+      "text": "SITE BUILDING PERMIT..",
+      "score": 4
+    },
+    {
+      "line": 1170,
+      "text": ", GUES$ WHOSE CONSTRUCTION",
+      "score": 4
+    },
+    {
+      "line": 1173,
+      "text": ": HE'S ALL FOR",
+      "score": 4
+    },
+    {
+      "line": 1175,
+      "text": "’ 6A9S WE NEED |",
+      "score": 4
+    },
+    {
+      "line": 1176,
+      "text": "THIS DISPOSAL",
+      "score": 4
+    },
+    {
+      "line": 1178,
+      "text": "SITE FOR WASTES",
+      "score": 4
+    },
+    {
+      "line": 1180,
+      "text": "CREATED BY THE",
+      "score": 4
+    },
+    {
+      "line": 1182,
+      "text": "TANNERY IN TOWN.",
+      "score": 4
+    },
+    {
+      "line": 1185,
+      "text": "FIRM HAS THE BO/LDING",
+      "score": 4
+    },
+    {
+      "line": 1186,
+      "text": "CONTRACT. ?",
+      "score": 4
+    },
+    {
+      "line": 1190,
+      "text": "AN? CHANCE?) at",
+      "score": 4
+    },
+    {
+      "line": 1193,
+      "text": "_ THE CoEVOLUTION QUARTERLY SUMMER 1981",
+      "score": 4
+    },
+    {
+      "line": 1330,
+      "text": "BEFORE if CERTHNLTY LUN",
+      "score": 4
+    },
+    {
+      "line": 1331,
+      "text": "TOU LEANE, i] Alums GLAD TO “",
+      "score": 4
+    },
+    {
+      "line": 1332,
+      "text": "OO TAKE PART N",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 53,
+      "term": "community",
+      "snippet": "of local politics: protecting the nuisance of freedom. Which also means protecting a community’s uniqueness. The gent on the front cover is a specimen of our town’s - Sausalito’s - uniqueness and freedom. He’s Captain Tom Rockford, in his late ‘50s, lives"
+    },
+    {
+      "line": 144,
+      "term": "community",
+      "snippet": "by Robin Clarke The Backyard Revolution ® Livable Cities = Know Your Community #® Yes We Can! A Spawning Run of Ecological Ideas Upstream, Against the Current by Jan Wojcik Local social work"
+    },
+    {
+      "line": 167,
+      "term": "whole systems",
+      "snippet": "39 ~ Metric Madness ® Biological damage stan ene SSSR UNDERSTANDING WHOLE SYSTEMS The State of the World Atlas ™ Circle of Poison Who Owns the Earth ® Weapons A People’s History of the United States s"
+    },
+    {
+      "line": 280,
+      "term": "tools",
+      "snippet": "Fine Homebuilding New Shelter ™ Drafting The Very Best Tools - Finding, Marketing, ~ Preserving by Paul Hawken Abbeon Industrial Laboratory and Plant Buying Catalog ™ Little Giant Ladder Systems"
+    },
+    {
+      "line": 301,
+      "term": "energy",
+      "snippet": "= American Working Women’s Supply Co. Fireplace bellows ™ Soapstone stoves ® Active Solar Energy System - Design Practice Manual ® Cogeneration Those Ugly Solar Buildings by Malcolm Wells | COMMUNITY"
+    },
+    {
+      "line": 308,
+      "term": "community",
+      "snippet": "Manual ® Cogeneration Those Ugly Solar Buildings by Malcolm Wells | COMMUNITY ‘Where’ve You Been, Stranger?” Disintermediation in the Maritimes by Bryce and Margaret Muir"
+    },
+    {
+      "line": 372,
+      "term": "tools",
+      "snippet": "Home Care ® Arthritis = Cystitis Back to Basics ™ Future Harvest ® Life Tools Co-op Williams-Sonoma Catalog for Cooks 8 Moosewood Cookbook ® Clothcrafters BOX 428 SAUSALITO CA 94966"
+    },
+    {
+      "line": 425,
+      "term": "communications",
+      "snippet": "Beaches and Recreation #® Fat Tire Flyer = Burger King boogie COMMUNICATIONS Odds and Ends from Dan ONeill The Darkroom Handbook ® Sell Your Photographs ® Calumet"
+    },
+    {
+      "line": 476,
+      "term": "learning",
+      "snippet": "Making Home Video ® The Tuning of the World ® Contact Quarterly LEARNING Lifelong Learner ™ Parent’s Guide to Teenage Sex ® Cure for psychosis ™ Cheap libraries Gadabouts and Stick-at-Homes ™ Duncraft"
+    },
+    {
+      "line": 575,
+      "term": "community",
+      "snippet": "enhance the diverse life of the Adams-Morgan neighborhood in Washington, DC are splendidly chronicled in his Community Technology (NWEC Pp. 300). Now based in rural West Virginia, his recent activities include editing the new periodical Survival Tomorrow (reviewed on p. 38), and the"
+    },
+    {
+      "line": 591,
+      "term": "community",
+      "snippet": "active in Sausalito politics, serving especially as a diplomatic reducer of tension in this some- - times polarized community. Since I commissioned this article you might be interested a little bit in why. Having worked in national politics (Pentagon, Department of the"
+    },
+    {
+      "line": 867,
+      "term": "energy",
+      "snippet": "fight out many causes other than the one immediately involved. On reason is that the cooperating groups, by and large, have been groups which are based upon debatable ideological points. Thus, people who oppose nuclear energy but also espouse state socialism may be offended, and become offensive, when antinuke folk who are, say, libertarian refuse to applaud tactics calling for state intervention in the nuclear industry. | | The point is that both the opposition to nuclear energy and the espousal of any particular"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "ae ila"
+    },
+    {
+      "line": 4,
+      "text": "HOW NOTTO” |."
+    },
+    {
+      "line": 5,
+      "text": "COMMIT SUICIDE"
+    },
+    {
+      "line": 6,
+      "text": "« BY ART KLEINER P. 88"
+    },
+    {
+      "line": 9,
+      "text": "tet Se"
+    },
+    {
+      "line": 15,
+      "text": "Include it all...,.."
+    },
+    {
+      "line": 18,
+      "text": "(GUT 1 CONT KNOW WHERE To GEGIN =)"
+    },
+    {
+      "line": 30,
+      "text": "| | I'm Scared..."
+    },
+    {
+      "line": 33,
+      "text": "(OPVOLULLION"
+    },
+    {
+      "line": 36,
+      "text": "No.30 Summer 1981"
+    },
+    {
+      "line": 39,
+      "text": "Quarterly"
+    },
+    {
+      "line": 42,
+      "text": "COVERS"
+    },
+    {
+      "line": 45,
+      "text": "For the front cover the task was to illustrate"
+    },
+    {
+      "line": 47,
+      "text": "Karl Hess’ lead article on “‘The Politics of Place.’"
+    },
+    {
+      "line": 48,
+      "text": "The political process itself usually looks pretty"
+    },
+    {
+      "line": 49,
+      "text": "dumb, however gripping it may be to do, so"
+    },
+    {
+      "line": 50,
+      "text": "instead we wound up with a picture of one goal"
+    },
+    {
+      "line": 51,
+      "text": "of local politics: protecting the nuisance of"
+    },
+    {
+      "line": 52,
+      "text": "freedom. Which also means protecting a"
+    },
+    {
+      "line": 53,
+      "text": "community’s uniqueness."
+    },
+    {
+      "line": 56,
+      "text": "The gent on the front cover is a specimen of our"
+    },
+    {
+      "line": 57,
+      "text": "town’s - Sausalito’s - uniqueness and freedom."
+    },
+    {
+      "line": 58,
+      "text": "He’s Captain Tom Rockford, in his late ‘50s, lives"
+    },
+    {
+      "line": 59,
+      "text": "anchored out on his lateen-rigged ferro-cement"
+    },
+    {
+      "line": 60,
+      "text": "Frisco Felucca //1, has cruised the Pacific, and"
+    },
+    {
+      "line": 61,
+      "text": "plays dixieland cornet with the Captain’s Band."
+    },
+    {
+      "line": 62,
+      "text": "His impromptu cornet solo concerts from his deck"
+    },
+    {
+      "line": 63,
+      "text": "are one of the delights of living and working"
+    },
+    {
+      "line": 64,
+      "text": "around this neighborhood. The photographer,"
+    },
+    {
+      "line": 65,
+      "text": "Matt Herron, also lives on a sailboat hereabouts."
+    },
+    {
+      "line": 68,
+      "text": "Captain Rockford is endangered; hundreds of other"
+    },
+    {
+      "line": 69,
+      "text": "people equally unique to themselves and to this"
+    },
+    {
+      "line": 70,
+      "text": "area are endangered. The problem is local politics,"
+    },
+    {
+      "line": 71,
+      "text": "and so Is the solution, if any. The trick will be,"
+    },
+    {
+      "line": 73,
+      "text": "can the instruments of regulation be used to"
+    },
+    {
+      "line": 74,
+      "text": "preserve an environment of irregular behavior?"
+    },
+    {
+      "line": 76,
+      "text": "! would say probably, depending somewhat on the"
+    },
+    {
+      "line": 77,
+      "text": "regulations but mostly on the people."
+    },
+    {
+      "line": 80,
+      "text": "Typical. Typical issue, typical town. Your town"
+    },
+    {
+      "line": 81,
+      "text": "is peculiar in other ways, and the pressures on it to"
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+{
+  "title": "Whole Earth Review, July 1985",
+  "identifier": "wholeearthreview00unse_2",
+  "year": 1985,
+  "season": "July",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 123,
+  "url": "https://wholeearth.info/p/whole-earth-review-july-1985",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_2",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_2/wholeearthreview00unse_2.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_2/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthreview00unse_2_djvu.txt",
+  "ocr_chars": 552747,
+  "significant_line_count": 14701,
+  "theme_counts": {
+    "software_computing": 691,
+    "tools_craft": 376,
+    "ecology_place": 448,
+    "learning_media": 655,
+    "community_politics": 592
+  },
+  "top_themes": [
+    "software_computing",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 469,
+      "page": 90,
+      "title": "TYCOON 0 MINDWHEEL",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_2/page/n91_w500.jpg"
+    },
+    {
+      "line": 472,
+      "page": 30,
+      "title": "BACK-TO-BASICS",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_2/page/n31_w500.jpg"
+    },
+    {
+      "line": 474,
+      "page": 31,
+      "title": "ONE-WRITE PLUS",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_2/page/n32_w500.jpg"
+    },
+    {
+      "line": 485,
+      "page": 32,
+      "title": "LIGHTYEAR",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_2/page/n33_w500.jpg"
+    },
+    {
+      "line": 487,
+      "page": 33,
+      "title": "HIGGINS",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_2/page/n34_w500.jpg"
+    },
+    {
+      "line": 509,
+      "page": 53,
+      "title": "MACPUBLISHER",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_2/page/n54_w500.jpg"
+    },
+    {
+      "line": 518,
+      "page": 59,
+      "title": "PLAYNET",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_2/page/n60_w500.jpg"
+    },
+    {
+      "line": 682,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO CA 94965",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_2/page/n28_w500.jpg"
+    },
+    {
+      "line": 12548,
+      "page": 2,
+      "title": "ORR EB SN RARE ARETE STURT",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_2/page/n3_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 469,
+      "text": "90 TYCOON 0 MINDWHEEL",
+      "score": 8
+    },
+    {
+      "line": 472,
+      "text": "30 BACK-TO-BASICS",
+      "score": 8
+    },
+    {
+      "line": 474,
+      "text": "31 ONE-WRITE PLUS",
+      "score": 8
+    },
+    {
+      "line": 483,
+      "text": "30 MAC-BARCODE",
+      "score": 8
+    },
+    {
+      "line": 485,
+      "text": "32 LIGHTYEAR",
+      "score": 8
+    },
+    {
+      "line": 487,
+      "text": "33 HIGGINS",
+      "score": 8
+    },
+    {
+      "line": 491,
+      "text": "31 THE WHATSIT CORPORATION",
+      "score": 8
+    },
+    {
+      "line": 509,
+      "text": "53 MACPUBLISHER",
+      "score": 8
+    },
+    {
+      "line": 518,
+      "text": "59 PLAYNET",
+      "score": 8
+    },
+    {
+      "line": 682,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 9242,
+      "text": "27 GATE FIVE ROAD SAUSALITO. CA 94965",
+      "score": 8
+    },
+    {
+      "line": 12548,
+      "text": "2 ORR EB SN RARE ARETE STURT",
+      "score": 8
+    },
+    {
+      "line": 14432,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA",
+      "score": 8
+    },
+    {
+      "line": 15377,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965 95",
+      "score": 8
+    },
+    {
+      "line": 401,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 438,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 1078,
+      "text": "WHOLE EARTH REVIEW =‘ JULY ‘1985",
+      "score": 6
+    },
+    {
+      "line": 1329,
+      "text": "WHOLE EARTH REVIEW =‘ JULY 1985",
+      "score": 6
+    },
+    {
+      "line": 1570,
+      "text": "WHOLE EARTH REVIEW = JULY 1985",
+      "score": 6
+    },
+    {
+      "line": 3187,
+      "text": "WHOLE SYSTEMS |",
+      "score": 6
+    },
+    {
+      "line": 4045,
+      "text": "WHOLE EARTH REVIEW JULY 1985",
+      "score": 6
+    },
+    {
+      "line": 5123,
+      "text": "34 WHOLE EARTH REVIEW = JULY 1985",
+      "score": 6
+    },
+    {
+      "line": 5332,
+      "text": "WHOLE EARTH REVIEW ‘JULY 1985",
+      "score": 6
+    },
+    {
+      "line": 5823,
+      "text": "COMMUNICATIONS _",
+      "score": 6
+    },
+    {
+      "line": 6226,
+      "text": "42 , WHOLE EARTH REVIEW JULY 1985",
+      "score": 6
+    },
+    {
+      "line": 9381,
+      "text": "60 ‘ j WHOLE EARTH REVIEW = JULY ‘1985",
+      "score": 6
+    },
+    {
+      "line": 10116,
+      "text": "64 WHOLE EARTH REVIEW =‘ JULY 1985",
+      "score": 6
+    },
+    {
+      "line": 12334,
+      "text": "716 WHOLE EARTH REVIEW = JULY 1985",
+      "score": 6
+    },
+    {
+      "line": 12993,
+      "text": "‘COMMUNITY -",
+      "score": 6
+    },
+    {
+      "line": 15001,
+      "text": "92 WHOLE EARTH REVIEW = JULY 1985",
+      "score": 6
+    },
+    {
+      "line": 15466,
+      "text": "96 WHOLE EARTH REVIEW =‘ JULY 1985",
+      "score": 6
+    },
+    {
+      "line": 21455,
+      "text": "PERSONAL COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 21949,
+      "text": "RUNNING PROGRAM |.",
+      "score": 6
+    },
+    {
+      "line": 22646,
+      "text": "PROGRAM SR2:17",
+      "score": 6
+    },
+    {
+      "line": 23483,
+      "text": "REVIEW",
+      "score": 6
+    },
+    {
+      "line": 5415,
+      "text": "sities like food, shelter, energy, and trans-",
+      "score": 5
+    },
+    {
+      "line": 7669,
+      "text": "reviews by subject area (a bunch on renewable energy, a",
+      "score": 5
+    },
+    {
+      "line": 9930,
+      "text": "LD-700 videodisc player to review all of these programs,",
+      "score": 5
+    },
+    {
+      "line": 10440,
+      "text": "carries up-to-date news, reviews, and interviews on African",
+      "score": 5
+    },
+    {
+      "line": 17226,
+      "text": "Alternative Energy - Periodical Review",
+      "score": 5
+    },
+    {
+      "line": 18111,
+      "text": "Communications - Periodical Reviews",
+      "score": 5
+    },
+    {
+      "line": 18356,
+      "text": "Computer Programming - Book Review",
+      "score": 5
+    },
+    {
+      "line": 19109,
+      "text": "Energy Conservation - Book Review",
+      "score": 5
+    },
+    {
+      "line": 20452,
+      "text": "Learning - Software Reviews",
+      "score": 5
+    },
+    {
+      "line": 22295,
+      "text": "Solar Energy - Software Review",
+      "score": 5
+    },
+    {
+      "line": 22588,
+      "text": "Telecommunications - Book Review",
+      "score": 5
+    },
+    {
+      "line": 22592,
+      "text": "Telecommunications - Periodical Review",
+      "score": 5
+    },
+    {
+      "line": 22596,
+      "text": "Telecommunications - Software Reviews",
+      "score": 5
+    },
+    {
+      "line": 4,
+      "text": "O4E: *",
+      "score": 4
+    },
+    {
+      "line": 42,
+      "text": "“DIGITAL RETOUCHING, (>",
+      "score": 4
+    },
+    {
+      "line": 314,
+      "text": "LAND USE SMALL BUSINESS",
+      "score": 4
+    },
+    {
+      "line": 385,
+      "text": "SOFT TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 440,
+      "text": "BACKSCATTER",
+      "score": 4
+    },
+    {
+      "line": 447,
+      "text": "GATE FIVE ROAD",
+      "score": 4
+    },
+    {
+      "line": 461,
+      "text": "WHOLE EARTH SOFTWARE CATALOG",
+      "score": 4
+    },
+    {
+      "line": 462,
+      "text": "VERSION 1.4",
+      "score": 4
+    },
+    {
+      "line": 465,
+      "text": "PLAYING",
+      "score": 4
+    },
+    {
+      "line": 470,
+      "text": "ACCOUNTING",
+      "score": 4
+    },
+    {
+      "line": 481,
+      "text": "MANAGING",
+      "score": 4
+    },
+    {
+      "line": 494,
+      "text": "91 PUZZLE TANKS [1] PARIS EN METRO",
+      "score": 4
+    },
+    {
+      "line": 497,
+      "text": "ANALYZING",
+      "score": 4
+    },
+    {
+      "line": 499,
+      "text": "32 PC-CALC 1] EQUATE",
+      "score": 4
+    },
+    {
+      "line": 500,
+      "text": "HARDWARE",
+      "score": 4
+    },
+    {
+      "line": 505,
+      "text": "DRAWING",
+      "score": 4
+    },
+    {
+      "line": 510,
+      "text": "WRITING",
+      "score": 4
+    },
+    {
+      "line": 517,
+      "text": "TELECOMMUNICATING",
+      "score": 4
+    },
+    {
+      "line": 528,
+      "text": "OF THE VE",
+      "score": 4
+    },
+    {
+      "line": 531,
+      "text": "IN WHICH A YANK ENCOUNTERS",
+      "score": 4
+    },
+    {
+      "line": 532,
+      "text": "CANADIAN BABY SEAL HUNTS",
+      "score": 4
+    },
+    {
+      "line": 538,
+      "text": "JANUARY 1975",
+      "score": 4
+    },
+    {
+      "line": 749,
+      "text": "FEBRUARY",
+      "score": 4
+    },
+    {
+      "line": 817,
+      "text": "JULY 1985",
+      "score": 4
+    },
+    {
+      "line": 820,
+      "text": "LATE FEBRUARY",
+      "score": 4
+    },
+    {
+      "line": 994,
+      "text": "LATE MARCH",
+      "score": 4
+    },
+    {
+      "line": 1130,
+      "text": "7S 2 =",
+      "score": 4
+    },
+    {
+      "line": 1208,
+      "text": "EARLY APRIL",
+      "score": 4
+    },
+    {
+      "line": 1372,
+      "text": "LATE APRIL",
+      "score": 4
+    },
+    {
+      "line": 1515,
+      "text": ": JUNE",
+      "score": 4
+    },
+    {
+      "line": 1707,
+      "text": "THREE-LEGGED RABBIT FIGHTS THE SUN :",
+      "score": 4
+    },
+    {
+      "line": 1766,
+      "text": "LAND USE",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 316,
+      "term": "communications",
+      "snippet": "LAND USE SMALL BUSINESS 13. Handbook of North American Indians 39 Past Due 1) American Indian Myths and Legends COMMUNICATIONS 14. The Monkey Wrench Gang C) Ecodefense 50) Cinefex 16 Beautiful Swimmers C1 The Video Production Guide [1 Life in the Chesapeake Bay 51 Good Movies by Sheila Benson"
+    },
+    {
+      "line": 329,
+      "term": "whole systems",
+      "snippet": "“19 Native Seeds/SEARCH 1 Natural Pest 67 Access to Nicaragua by Dick Fugett Control 1 Big Wheeler Carts 71 Designing and Building Your Own WHOLE SYSTEMS Frameset () Bike Nashbar/Performance Bike 0) Mirrycl 24 The Comet Book 1 Dark Skies for Mee ee Comet Halley 0 The Bedrock Geology 72 How Professionals Find"
+    },
+    {
+      "line": 401,
+      "term": "community",
+      "snippet": "(1) The Progress Drum Stovepipe Oven (1) Natural Cycle Cooling System COMMUNITY 82 The Small Community 83 WIN News LC Sisterhood is Global 84 Child Life Play Specialties, Inc."
+    },
+    {
+      "line": 402,
+      "term": "community",
+      "snippet": "(1) Natural Cycle Cooling System COMMUNITY 82 The Small Community 83 WIN News LC Sisterhood is Global 84 Child Life Play Specialties, Inc. C1 Creative Publications"
+    },
+    {
+      "line": 438,
+      "term": "learning",
+      "snippet": "89 Designer’s Guide to Color C1 Theatre Craft How-To LEARNING 99 Beyond the Hotline BACKSCATTER 100 Echoes from readers"
+    },
+    {
+      "line": 461,
+      "term": "software",
+      "snippet": "O “Or Computer Literacy” 121 Point Puzzle 0 Thank You WHOLE EARTH SOFTWARE CATALOG VERSION 1.4 PLAYING 25 LIFE C1 The Recursive Universe"
+    },
+    {
+      "line": 478,
+      "term": "software",
+      "snippet": "31 ONE-WRITE PLUS 39 The Journal of Financial Software and Hardware MANAGING 30 MAC-BARCODE 32 LIGHTYEAR"
+    },
+    {
+      "line": 489,
+      "term": "learning",
+      "snippet": "32 LIGHTYEAR 33 HIGGINS LEARNING 31 THE WHATSIT CORPORATION 91 PUZZLE TANKS [1] PARIS EN METRO ANALYZING"
+    },
+    {
+      "line": 579,
+      "term": "learning",
+      "snippet": "They've settled down, down east in Maine. -Kevin Kelly “When I asked if I could work with him for the learning, he said: “Yes. But I'll pay you wages and found, same as anyone else.” So here I am spiking on plank with Louis’ old forge hammer."
+    },
+    {
+      "line": 589,
+      "term": "tools",
+      "snippet": "astounded that anyone can build a rugged seagoing fishboat from a rough carved half- model with only a handful of tools. No lofting, no band saw, no sophisticated la-de-da: just a sure hand, a keen eye, and traditional know- ledge. I’m learning more than boatbuilding,"
+    },
+    {
+      "line": 592,
+      "term": "learning",
+      "snippet": "no band saw, no sophisticated la-de-da: just a sure hand, a keen eye, and traditional know- ledge. I’m learning more than boatbuilding, however. Louis is turning my intellectual self-assurance on its ear. Louis asks dangerously innocent questions."
+    },
+    {
+      "line": 1498,
+      "term": "ecology",
+      "snippet": "The seal hunt protest was good medicine. It brought the hunt into balance with the gulf’s ecology and economy. Now we've had too much of a good thing. The formula is guar- anteed: circulate pictures of “baby” seals being slaughtered, and see how the money"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "en hl"
+    },
+    {
+      "line": 4,
+      "text": "O4E: *"
+    },
+    {
+      "line": 9,
+      "text": "Pavwavse"
+    },
+    {
+      "line": 10,
+      "text": "pers]"
+    },
+    {
+      "line": 13,
+      "text": "; Some"
+    },
+    {
+      "line": 18,
+      "text": "SI amen"
+    },
+    {
+      "line": 21,
+      "text": "peed"
+    },
+    {
+      "line": 30,
+      "text": "Hees"
+    },
+    {
+      "line": 33,
+      "text": "reer"
+    },
+    {
+      "line": 36,
+      "text": "e end of photography as evidence o"
+    },
+    {
+      "line": 42,
+      "text": "“DIGITAL RETOUCHING, (>"
+    },
+    {
+      "line": 43,
+      "text": "f anything"
+    },
+    {
+      "line": 46,
+      "text": "Face Reality. (Ri)"
+    },
+    {
+      "line": 49,
+      "text": "TAKE A pe"
+    },
+    {
+      "line": 50,
+      "text": "Goop Look /"
+    },
+    {
+      "line": 53,
+      "text": "A Juvenile Democracy"
+    },
+    {
+      "line": 56,
+      "text": "by Robert Gnaizda"
+    },
+    {
+      "line": 59,
+      "text": "drawings by R. Crumb"
+    },
+    {
+      "line": 62,
+      "text": "Only 1 in every 100 people on this planet has a sufficiently"
+    },
+    {
+      "line": 63,
+      "text": "solid democratic culture that he or she can feel secure about"
+    },
+    {
+      "line": 64,
+      "text": "attempting to transmit it to other environments."
+    },
+    {
+      "line": 67,
+      "text": "The United States does not qualify as such a democracy."
+    },
+    {
+      "line": 70,
+      "text": "No stranger to the character of democracy, public advocate Bob Gnaizda conducted a 1965 congressional hearing in"
+    },
+    {
+      "line": 71,
+      "text": "Mississippi to investigate why no blacks voted in black-majority Clay County. Answer: because our country was not"
+    },
+    {
+      "line": 72,
+      "text": "what we claimed to be. Bob Gnaizda later argued that we could use a little realism where democracy hits our checkbooks"
+    },
+    {
+      "line": 73,
+      "text": "in “The Simple Tax: Common Sense Government” for CQ #38. The San Jose Mercury News first printed this scrutiny"
+    },
+    {
+      "line": 74,
+      "text": "of democracy last year July 1. -Kevin Kelly"
+    },
+    {
+      "line": 77,
+      "text": "Peers re"
+    },
+    {
+      "line": 80,
+      "text": "\"| v"
+    },
+    {
+      "line": 81,
+      "text": "(eas"
+    },
+    {
+      "line": 82,
+      "text": "_ so we like to think."
+    },
+    {
+      "line": 85,
+      "text": "HIS JULY FOURTH marks 209 years of in-"
+    },
+    {
+      "line": 87,
+      "text": "dependence from Great Britain and the 196th year"
+    },
+    {
+      "line": 88,
+      "text": "of our republic under the present Constitution. So"
+    },
+    {
+      "line": 89,
+      "text": "we've been at the democracy game a long time, or"
+    },
+    {
+      "line": 92,
+      "text": "Then why did Congress kill a bill to provide 15 cents per American"
+    },
+    {
+      "line": 93,
+      "text": "for the National Endowment for Democracy, to lend aid and comfort"
+    },
+    {
+      "line": 94,
+      "text": "to freedom’s brave and isolated friends?"
+    },
+    {
+      "line": 97,
+      "text": "Think of all the fine places to which we could export democracy. In"
+    },
+    {
+      "line": 98,
+      "text": "China, President Reagan found that one billion people with a con-"
+    }
+  ]
+}

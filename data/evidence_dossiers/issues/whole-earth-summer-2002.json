@@ -1,0 +1,770 @@
+{
+  "title": "Whole Earth, Summer 2002",
+  "identifier": "wholeearthsummer00unse_4",
+  "year": 2002,
+  "season": "Summer",
+  "collection": "Whole Earth Magazine",
+  "collection_zh": "Whole Earth Magazine",
+  "pages": 109,
+  "url": "https://wholeearth.info/p/whole-earth-summer-2002",
+  "archive_url": "https://archive.org/details/wholeearthsummer00unse_4",
+  "pdf_url": "https://archive.org/download/wholeearthsummer00unse_4/wholeearthsummer00unse_4.pdf",
+  "cover_url": "https://archive.org/download/wholeearthsummer00unse_4/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthsummer00unse_4_djvu.txt",
+  "ocr_chars": 415201,
+  "significant_line_count": 11560,
+  "theme_counts": {
+    "software_computing": 66,
+    "tools_craft": 247,
+    "ecology_place": 637,
+    "learning_media": 281,
+    "community_politics": 212
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 1690,
+      "page": 12,
+      "title": "WHOLE EARTH SUMMER 2002",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n13_w500.jpg"
+    },
+    {
+      "line": 2056,
+      "page": 14,
+      "title": "WHOLE EARTH SUMMER 2002",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n15_w500.jpg"
+    },
+    {
+      "line": 3698,
+      "page": 26,
+      "title": "WHOLE EARTH",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n27_w500.jpg"
+    },
+    {
+      "line": 5233,
+      "page": 34,
+      "title": "WHOLE EARTH SUMMER 2002",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n35_w500.jpg"
+    },
+    {
+      "line": 7878,
+      "page": 54,
+      "title": "WHOLE EARTH SUMMER 2002",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n55_w500.jpg"
+    },
+    {
+      "line": 8431,
+      "page": 58,
+      "title": "WHOLE EARTH SUMMER 2002",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n59_w500.jpg"
+    },
+    {
+      "line": 8720,
+      "page": 60,
+      "title": "WHOLE EARTH SUMMER 2002",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n61_w500.jpg"
+    },
+    {
+      "line": 10352,
+      "page": 70,
+      "title": "WHOLE EARTH SUMMER 2002",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n71_w500.jpg"
+    },
+    {
+      "line": 11252,
+      "page": 76,
+      "title": "WHOLE EARTH SUMMER 2002",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n77_w500.jpg"
+    },
+    {
+      "line": 11546,
+      "page": 78,
+      "title": "WHOLE EARTH",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n79_w500.jpg"
+    },
+    {
+      "line": 11786,
+      "page": 80,
+      "title": "WHOLE EARTH SUMMER 2002",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n81_w500.jpg"
+    },
+    {
+      "line": 12116,
+      "page": 82,
+      "title": "WHOLE EARTH",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n83_w500.jpg"
+    },
+    {
+      "line": 12481,
+      "page": 84,
+      "title": "WHOLE EARTH SUMMER 2002",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n85_w500.jpg"
+    },
+    {
+      "line": 12624,
+      "page": 86,
+      "title": "WHOLE EARTH SUMMER 2002",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n87_w500.jpg"
+    },
+    {
+      "line": 13839,
+      "page": 94,
+      "title": "WHOLE EARTH",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n95_w500.jpg"
+    },
+    {
+      "line": 14270,
+      "page": 96,
+      "title": "WHOLE EARTH",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n97_w500.jpg"
+    },
+    {
+      "line": 14678,
+      "page": 98,
+      "title": "WHOLE EARTH",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n99_w500.jpg"
+    },
+    {
+      "line": 15066,
+      "page": 100,
+      "title": "WHOLE EARTH",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n101_w500.jpg"
+    },
+    {
+      "line": 15583,
+      "page": 102,
+      "title": "WHOLE EARTH SUMMER 2002",
+      "image_url": "https://archive.org/download/wholeearthsummer00unse_4/page/n103_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 1690,
+      "text": "12 WHOLE EARTH SUMMER 2002",
+      "score": 8
+    },
+    {
+      "line": 2056,
+      "text": "14 WHOLE EARTH SUMMER 2002",
+      "score": 8
+    },
+    {
+      "line": 3698,
+      "text": "26 WHOLE EARTH",
+      "score": 8
+    },
+    {
+      "line": 5233,
+      "text": "34 WHOLE EARTH SUMMER 2002",
+      "score": 8
+    },
+    {
+      "line": 7878,
+      "text": "54 WHOLE EARTH SUMMER 2002",
+      "score": 8
+    },
+    {
+      "line": 8431,
+      "text": "58 WHOLE EARTH SUMMER 2002",
+      "score": 8
+    },
+    {
+      "line": 8720,
+      "text": "60 WHOLE EARTH SUMMER 2002",
+      "score": 8
+    },
+    {
+      "line": 10352,
+      "text": "70 WHOLE EARTH SUMMER 2002",
+      "score": 8
+    },
+    {
+      "line": 11252,
+      "text": "76 WHOLE EARTH SUMMER 2002",
+      "score": 8
+    },
+    {
+      "line": 11546,
+      "text": "78 WHOLE EARTH",
+      "score": 8
+    },
+    {
+      "line": 11786,
+      "text": "80 WHOLE EARTH SUMMER 2002",
+      "score": 8
+    },
+    {
+      "line": 12116,
+      "text": "82 WHOLE EARTH",
+      "score": 8
+    },
+    {
+      "line": 12481,
+      "text": "84 WHOLE EARTH SUMMER 2002",
+      "score": 8
+    },
+    {
+      "line": 12624,
+      "text": "86 WHOLE EARTH SUMMER 2002",
+      "score": 8
+    },
+    {
+      "line": 13839,
+      "text": "94 WHOLE EARTH",
+      "score": 8
+    },
+    {
+      "line": 14270,
+      "text": "96 WHOLE EARTH",
+      "score": 8
+    },
+    {
+      "line": 14678,
+      "text": "98 WHOLE EARTH",
+      "score": 8
+    },
+    {
+      "line": 15066,
+      "text": "100 WHOLE EARTH",
+      "score": 8
+    },
+    {
+      "line": 15583,
+      "text": "102 WHOLE EARTH SUMMER 2002",
+      "score": 8
+    },
+    {
+      "line": 28,
+      "text": "¢ DISTANCE LEARNING FORMAT",
+      "score": 6
+    },
+    {
+      "line": 1687,
+      "text": "DATA FROM THE COFFEE BOOK (SEE REVIEW PAGE 37).",
+      "score": 6
+    },
+    {
+      "line": 6845,
+      "text": "FROM MIGRATIONS, BY SEBASTIAO SALGADO (SEE REVIEW, PAGE 48).",
+      "score": 6
+    },
+    {
+      "line": 8295,
+      "text": "BRIAN GRADEN, TELEVISION PROGRAMMING EXECUTIVE: I",
+      "score": 6
+    },
+    {
+      "line": 8560,
+      "text": "ROBERT MCCHESNEY, COMMUNICATIONS PRO-",
+      "score": 6
+    },
+    {
+      "line": 8660,
+      "text": "BRIAN GRADEN, PRESIDENT OF PROGRAMMING,",
+      "score": 6
+    },
+    {
+      "line": 15689,
+      "text": "CELEBRATING 20 YEARS OF EXPERIENTIAL.LEARNING.",
+      "score": 6
+    },
+    {
+      "line": 9071,
+      "text": "culture, green energy, alternative shelter (including",
+      "score": 5
+    },
+    {
+      "line": 1,
+      "text": "COFFEE NATION",
+      "score": 4
+    },
+    {
+      "line": 20,
+      "text": "MASTER of",
+      "score": 4
+    },
+    {
+      "line": 22,
+      "text": "EARTH LITERACY",
+      "score": 4
+    },
+    {
+      "line": 29,
+      "text": "LIMITED TIME ON CAMPUS",
+      "score": 4
+    },
+    {
+      "line": 32,
+      "text": "¢ MULTI-DISCIPLINARY",
+      "score": 4
+    },
+    {
+      "line": 33,
+      "text": "COURSEWORK",
+      "score": 4
+    },
+    {
+      "line": 40,
+      "text": "* INTERNSHIPS AND ELECTIVES",
+      "score": 4
+    },
+    {
+      "line": 203,
+      "text": "PAGE 62",
+      "score": 4
+    },
+    {
+      "line": 240,
+      "text": "PAGE 79",
+      "score": 4
+    },
+    {
+      "line": 278,
+      "text": "PAGE 86",
+      "score": 4
+    },
+    {
+      "line": 301,
+      "text": "LTT TFS",
+      "score": 4
+    },
+    {
+      "line": 336,
+      "text": "SUMMER: 2002",
+      "score": 4
+    },
+    {
+      "line": 419,
+      "text": "SUBSCRIPTIONS: In US $24;",
+      "score": 4
+    },
+    {
+      "line": 558,
+      "text": "WHOLE EARTH SUMMER 2002",
+      "score": 4
+    },
+    {
+      "line": 561,
+      "text": "PHOTOS COURTESY JOHN C. RUSSELL.",
+      "score": 4
+    },
+    {
+      "line": 688,
+      "text": "SAN FRANCISCO, CA 94104",
+      "score": 4
+    },
+    {
+      "line": 689,
+      "text": "(415) 398-4404 | WWW.RAN.ORG",
+      "score": 4
+    },
+    {
+      "line": 750,
+      "text": "-PICANDER/J.S.BACH,",
+      "score": 4
+    },
+    {
+      "line": 751,
+      "text": "“COFFEE CANTATA,” 1735",
+      "score": 4
+    },
+    {
+      "line": 804,
+      "text": "-RUMI, THIRTEENTH CENTURY",
+      "score": 4
+    },
+    {
+      "line": 828,
+      "text": "WHOLE",
+      "score": 4
+    },
+    {
+      "line": 836,
+      "text": "-SHEIKH ANSARI DJERZERI HANBALL",
+      "score": 4
+    },
+    {
+      "line": 837,
+      "text": "ABD-AL-KADIR, SIXTEENTH CENTURY",
+      "score": 4
+    },
+    {
+      "line": 858,
+      "text": "EARTH SUMMER 2002 7",
+      "score": 4
+    },
+    {
+      "line": 1145,
+      "text": "WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 1210,
+      "text": "SUMMER 2002 9",
+      "score": 4
+    },
+    {
+      "line": 1307,
+      "text": "BE CAREFUL WHEN",
+      "score": 4
+    },
+    {
+      "line": 1308,
+      "text": "ORDERING LARGE COFFEE",
+      "score": 4
+    },
+    {
+      "line": 1309,
+      "text": "PRINKS, ‘Cause THEY ARE",
+      "score": 4
+    },
+    {
+      "line": 1310,
+      "text": "OFTEN ThE SIZE OF",
+      "score": 4
+    },
+    {
+      "line": 1311,
+      "text": "OLYMPIC Peos...",
+      "score": 4
+    },
+    {
+      "line": 1314,
+      "text": "“THE ATMOSPHERE OF",
+      "score": 4
+    },
+    {
+      "line": 1317,
+      "text": "FRENCH CAFES OF THE",
+      "score": 4
+    },
+    {
+      "line": 1319,
+      "text": "‘20s, WHEN ERNEST",
+      "score": 4
+    },
+    {
+      "line": 1322,
+      "text": "A TRIP TO AN S.F.",
+      "score": 4
+    },
+    {
+      "line": 1325,
+      "text": "COFFEE",
+      "score": 4
+    },
+    {
+      "line": 1329,
+      "text": "GREAT PLACES To",
+      "score": 4
+    },
+    {
+      "line": 1332,
+      "text": "REALLY SMART",
+      "score": 4
+    },
+    {
+      "line": 1335,
+      "text": "HEMiNGWay AND",
+      "score": 4
+    },
+    {
+      "line": 1337,
+      "text": "SPEAK OF MATTERS",
+      "score": 4
+    },
+    {
+      "line": 1344,
+      "text": "ALIENATED, DisiLLUSionED ) ,. INTELLECTUAL. .",
+      "score": 4
+    },
+    {
+      "line": 1346,
+      "text": "COUNTERPERSON . WATCH \"FRieNps”",
+      "score": 4
+    },
+    {
+      "line": 1378,
+      "text": "PEOPLE ...",
+      "score": 4
+    },
+    {
+      "line": 1379,
+      "text": "THE ToBACeo INDUSTRY",
+      "score": 4
+    },
+    {
+      "line": 1380,
+      "text": "PRACTICES GENoCipe /",
+      "score": 4
+    },
+    {
+      "line": 1381,
+      "text": "THEY UP THE NiCOTiNE",
+      "score": 4
+    },
+    {
+      "line": 1388,
+      "text": "OUR |62nb CUP",
+      "score": 4
+    },
+    {
+      "line": 1566,
+      "text": "WWW.COFFEERESEARCH.ORG",
+      "score": 4
+    },
+    {
+      "line": 1920,
+      "text": "2000 FIGURES:",
+      "score": 4
+    },
+    {
+      "line": 1921,
+      "text": "COFFEE RESEARCH INSTITUTE",
+      "score": 4
+    },
+    {
+      "line": 1924,
+      "text": "1988 FIGURES:",
+      "score": 4
+    },
+    {
+      "line": 1983,
+      "text": "ET, QUOTED IN UNCOMMON G",
+      "score": 4
+    },
+    {
+      "line": 1991,
+      "text": "WHOLE EARTH SUMMER 2002 13",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 28,
+      "term": "learning",
+      "snippet": "EARTH LITERACY Saint Mary-of-the-Woods College ¢ DISTANCE LEARNING FORMAT LIMITED TIME ON CAMPUS ¢ MULTI-DISCIPLINARY COURSEWORK"
+    },
+    {
+      "line": 248,
+      "term": "tools",
+      "snippet": "35 Royal Coffee Maker * The Great Coffee Book * 36 Fresh Roast Home Roaster « The Coffee Project » Home Coffee Roasting * 3'7 The Coffee Book * Uncommon Grounds Books & Tools Pharmako/Dynamis World Refugee Survey 2002 ¢ The State of the World’s Refugees ° The Age of Migration"
+    },
+    {
+      "line": 496,
+      "term": "community",
+      "snippet": "as eight who describe the world through a project called River of Words (page 51) that weaves education, nature, poetry, and art into a tapestry of global community. Their eloquence and insights may move you to a river of tears. The hallmark of Whole Earth and its readers has been to celebrate and give access to people taking small and"
+    },
+    {
+      "line": 527,
+      "term": "community",
+      "snippet": "Meanwhile we’re busy making Whole Earth a more sustainable, self-sufficient magazine, with a voice that reaches a vastly expanded community of readers. In two recent appeals we’ve asked for your help in that effort and you've come through brilliantly. Our winter appeal brought in more than $40,000, and our spring letter has"
+    },
+    {
+      "line": 575,
+      "term": "community",
+      "snippet": "the java joints of Seattle where it may be most successfully marketed, the ubiqui- tous bean creates a diverse community. It may be the most universally used legal drug on the planet, beloved by hundreds of millions of people whose shared con-"
+    },
+    {
+      "line": 596,
+      "term": "ecology",
+      "snippet": "As citizens of Coffee Nation, we found ourselves drawn to many questions about its social and natural ecology. This issue, under the direction of guest editor Stephanie Guyer-Stevens, is our effort to answer many of them."
+    },
+    {
+      "line": 648,
+      "term": "tools",
+      "snippet": "If you aren’t ready to renounce your Coffee Nation citizenship, who has the best tools for grinding and roasting your own? Drink up, and read on. - The Whole Earth Staff"
+    },
+    {
+      "line": 1400,
+      "term": "tools",
+      "snippet": "Starbucks. With enough fake ex- posed wood to hint at tradition; lots of glass; stools, sofas, tables, and chairs; and some notion of funki- ness; you have any one of the more than 4,200 Starbucks flecked all over"
+    },
+    {
+      "line": 2102,
+      "term": "community",
+      "snippet": "economic, human, market, and political resources to work with the smaller spe- cialty coffee community in a joint effort with farmers’ organizations to support sustainability at origin. Donald Schoenholt is CEO and master of coffee at"
+    },
+    {
+      "line": 2118,
+      "term": "community",
+      "snippet": "supporter of Grounds for Hope. o what is it about Starbucks? Megathreat to community diver- sity, or groundbreaker for specialty coffees? Symbol for everything wrong about globalization, or company with"
+    },
+    {
+      "line": 2181,
+      "term": "community",
+      "snippet": "labor and environmental standards. It supports national literacy pro- grams and community projects in places where it owns stores. It claims that it does not use any genetically modified materials in its coffees and"
+    },
+    {
+      "line": 2272,
+      "term": "community",
+      "snippet": "to buy a bit of the creator’s spirit. Starbucks is all the same, you don't feel it. It’s not a community center. It’s a good place for a quick fix.” -SGS, EP, MKS SUMMER 2002 ue)"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "COFFEE NATION"
+    },
+    {
+      "line": 7,
+      "text": "Eeonomy"
+    },
+    {
+      "line": 11,
+      "text": "of a Global Add"
+    },
+    {
+      "line": 14,
+      "text": "The Culture and"
+    },
+    {
+      "line": 17,
+      "text": "Cee. |"
+    },
+    {
+      "line": 20,
+      "text": "MASTER of"
+    },
+    {
+      "line": 21,
+      "text": "ARTS"
+    },
+    {
+      "line": 22,
+      "text": "EARTH LITERACY"
+    },
+    {
+      "line": 25,
+      "text": "Saint Mary-of-the-Woods College"
+    },
+    {
+      "line": 28,
+      "text": "¢ DISTANCE LEARNING FORMAT"
+    },
+    {
+      "line": 29,
+      "text": "LIMITED TIME ON CAMPUS"
+    },
+    {
+      "line": 32,
+      "text": "¢ MULTI-DISCIPLINARY"
+    },
+    {
+      "line": 33,
+      "text": "COURSEWORK"
+    },
+    {
+      "line": 34,
+      "text": "Natural and Social Sciences,"
+    },
+    {
+      "line": 37,
+      "text": "Humanities, Spirituality & the Arts"
+    },
+    {
+      "line": 40,
+      "text": "* INTERNSHIPS AND ELECTIVES"
+    },
+    {
+      "line": 41,
+      "text": "Options for emphasis in Business,"
+    },
+    {
+      "line": 42,
+      "text": "Environmental Work, Political Organizing,"
+    },
+    {
+      "line": 43,
+      "text": "Education or Spiritual Ministry."
+    },
+    {
+      "line": 46,
+      "text": "“I went to the woods because I wished to live deliberately, to front only the"
+    },
+    {
+      "line": 47,
+      "text": "essential facts of life, and see if I could not learn what it had to teach.”"
+    },
+    {
+      "line": 50,
+      "text": "-Henry David Thoreau"
+    },
+    {
+      "line": 53,
+      "text": "For more information, contact:"
+    },
+    {
+      "line": 54,
+      "text": "Mary Lou Dolan, CSJ"
+    },
+    {
+      "line": 55,
+      "text": "Saint Mary-of-the-Woods College"
+    },
+    {
+      "line": 56,
+      "text": "Saint Mary-of-the-Woods, IN 47876"
+    },
+    {
+      "line": 57,
+      "text": "elm@smwc.edu °* (812) 535-5160 * www.smwc.edu"
+    },
+    {
+      "line": 63,
+      "text": "Coffee Nation"
+    },
+    {
+      "line": 104,
+      "text": "Other Features"
+    },
+    {
+      "line": 122,
+      "text": "Summer 2002"
+    },
+    {
+      "line": 125,
+      "text": "Publisher’s Statement ¢ David Bolling"
+    },
+    {
+      "line": 126,
+      "text": "Coffee Nation * Whole Earth staff"
+    },
+    {
+      "line": 129,
+      "text": "Goatherds, Smugglers, and Revolutionaries * Dale Pendell"
+    },
+    {
+      "line": 130,
+      "text": "A history of coffee."
+    },
+    {
+      "line": 133,
+      "text": "Café Culture * Buzz Poole"
+    },
+    {
+      "line": 135,
+      "text": "The allure of the coffeehouse."
+    },
+    {
+      "line": 137,
+      "text": "Cupping: Don’t Try This at Home, Kids * David Bolling"
+    },
+    {
+      "line": 138,
+      "text": "Slurping and spitting with the Whole Earth staff"
+    },
+    {
+      "line": 141,
+      "text": "The Economy of Coffee * Donald N. Schoenholt"
+    },
+    {
+      "line": 142,
+      "text": "Supply glut, crashing prices, desperate farmers: what’s the solution?"
+    }
+  ]
+}

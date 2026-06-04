@@ -1,0 +1,674 @@
+{
+  "title": "Difficult But Possible Supplement to the Whole Earth Catalog, July 1969",
+  "identifier": "difficultbutposs00unse",
+  "year": 1969,
+  "season": "July",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 32,
+  "url": "https://wholeearth.info/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1969",
+  "archive_url": "https://archive.org/details/difficultbutposs00unse",
+  "pdf_url": "https://archive.org/download/difficultbutposs00unse/difficultbutposs00unse.pdf",
+  "cover_url": "https://archive.org/download/difficultbutposs00unse/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/difficultbutposs00unse_djvu.txt",
+  "ocr_chars": 245772,
+  "significant_line_count": 5141,
+  "theme_counts": {
+    "software_computing": 17,
+    "tools_craft": 145,
+    "ecology_place": 248,
+    "learning_media": 284,
+    "community_politics": 110
+  },
+  "top_themes": [
+    "learning_media",
+    "ecology_place",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 5536,
+      "page": 212,
+      "title": "IDEAS FOR MAKING LOW-COST PHYSICAL EDUCATION",
+      "image_url": "https://archive.org/download/difficultbutposs00unse/page/n213_w500.jpg"
+    },
+    {
+      "line": 5661,
+      "page": 1,
+      "title": "COMPARATIVE POLITICS: A DEVELOPMENTAL APPROACH.",
+      "image_url": "https://archive.org/download/difficultbutposs00unse/page/n2_w500.jpg"
+    },
+    {
+      "line": 6529,
+      "page": 165,
+      "title": "NORTH CANAL STREET - CHICAGO, ILLINOIS 60606",
+      "image_url": "https://archive.org/download/difficultbutposs00unse/page/n166_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 5536,
+      "text": "212 IDEAS FOR MAKING LOW-COST PHYSICAL EDUCATION",
+      "score": 8
+    },
+    {
+      "line": 5661,
+      "text": "1 COMPARATIVE POLITICS: A DEVELOPMENTAL APPROACH.",
+      "score": 8
+    },
+    {
+      "line": 3920,
+      "text": "TECHNOLOGY REVIEW",
+      "score": 6
+    },
+    {
+      "line": 4977,
+      "text": "IS WILLING TO DO FOR THE COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 4998,
+      "text": "IT 1S UP TO US TO MAINTAIN CALM & PURE ENERGY",
+      "score": 6
+    },
+    {
+      "line": 5104,
+      "text": "SAFETY MATCHES/KWIK START ENERGY",
+      "score": 6
+    },
+    {
+      "line": 5294,
+      "text": "TECHNICAL BOOK PROGRAM TITLE LIST*",
+      "score": 6
+    },
+    {
+      "line": 5327,
+      "text": "COMMUNITY DEVELOPMENT: AN INTRODUCTION TO CD FOR",
+      "score": 6
+    },
+    {
+      "line": 5330,
+      "text": "COMMUNITY DEVELOPMENT AND ECONOMIC DEVELOPMENT",
+      "score": 6
+    },
+    {
+      "line": 5334,
+      "text": "COMMUNITY DEVELOPMENT HANDBOOK. Hernandez. PC/DVS.",
+      "score": 6
+    },
+    {
+      "line": 5381,
+      "text": "FRANKLIN BOOK PROGRAMS TITLE LIST OF TRANSLATIONS.",
+      "score": 6
+    },
+    {
+      "line": 5387,
+      "text": "GAMES FOR SECOND LANGUAGE LEARNING. Nye-Dorry.",
+      "score": 6
+    },
+    {
+      "line": 5419,
+      "text": ". HEALTH, CULTURE, AND COMMUNITY. Paul. 2.25.",
+      "score": 6
+    },
+    {
+      "line": 5445,
+      "text": "LITERATURE OF COMMUNITY DEVELOPMENT. Mazirow.",
+      "score": 6
+    },
+    {
+      "line": 5492,
+      "text": "REMOTE AREAS DEVELOPMENT MANUAL. Community",
+      "score": 6
+    },
+    {
+      "line": 5498,
+      "text": "REVIEW EXERCISES FOR ENGLISH AS A FOREIGN LANGUAGE.",
+      "score": 6
+    },
+    {
+      "line": 5515,
+      "text": "SCHOOL AND COMMUNITY IN THE TROPICS. Batten. 2.90.",
+      "score": 6
+    },
+    {
+      "line": 5565,
+      "text": "TECHNICAL BOOK PROGRAM SUPPLEMENT TITLE LIST",
+      "score": 6
+    },
+    {
+      "line": 5631,
+      "text": "AFRICAN PRIMARY SCIENCE PROGRAM. OVS/PIC.",
+      "score": 6
+    },
+    {
+      "line": 6529,
+      "text": "165 NORTH CANAL STREET - CHICAGO, ILLINOIS 60606",
+      "score": 5
+    },
+    {
+      "line": 17,
+      "text": "THE GREAT BUS RACE",
+      "score": 4
+    },
+    {
+      "line": 117,
+      "text": "WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 120,
+      "text": "FUNCTION",
+      "score": 4
+    },
+    {
+      "line": 141,
+      "text": "PURPOSE",
+      "score": 4
+    },
+    {
+      "line": 157,
+      "text": "SUPPLEMENT",
+      "score": 4
+    },
+    {
+      "line": 167,
+      "text": "SUSTAINING SUBSCRIBER",
+      "score": 4
+    },
+    {
+      "line": 173,
+      "text": "RETAINING SUBSCRIBERS",
+      "score": 4
+    },
+    {
+      "line": 268,
+      "text": "“CATALOG",
+      "score": 4
+    },
+    {
+      "line": 598,
+      "text": "CARPENTRY",
+      "score": 4
+    },
+    {
+      "line": 601,
+      "text": "ESTIMATING",
+      "score": 4
+    },
+    {
+      "line": 604,
+      "text": "By 4, DOUGLAS WILSON",
+      "score": 4
+    },
+    {
+      "line": 607,
+      "text": "ond CLELL M. BOGERS",
+      "score": 4
+    },
+    {
+      "line": 712,
+      "text": "GEODESICS",
+      "score": 4
+    },
+    {
+      "line": 757,
+      "text": "NAA : e",
+      "score": 4
+    },
+    {
+      "line": 760,
+      "text": "EDWARD POPKO",
+      "score": 4
+    },
+    {
+      "line": 778,
+      "text": "EXPO'70",
+      "score": 4
+    },
+    {
+      "line": 1180,
+      "text": "AND STICKS, 1T W",
+      "score": 4
+    },
+    {
+      "line": 1181,
+      "text": "AND AN ASSORTMENT OF STONED-OUT OPERATORS. ;",
+      "score": 4
+    },
+    {
+      "line": 1182,
+      "text": "FOR GUITAR AND/OR MICROPHONE Bur SPECIAL WARNING *",
+      "score": 4
+    },
+    {
+      "line": 1183,
+      "text": "ITS EFFECTINENESS AS A PUBLIC ADDRESS UNIT MAY BE LESSENED BY",
+      "score": 4
+    },
+    {
+      "line": 1184,
+      "text": "ZEALOUS GUITARISTS WHO LIKE TO BLOW OUT THE SPEAKER. DoinG",
+      "score": 4
+    },
+    {
+      "line": 1185,
+      "text": "THIS PRODUCES THE BEST FUZZ-TONE EFFECT ON THE MARKET.",
+      "score": 4
+    },
+    {
+      "line": 1186,
+      "text": "THE BATTERIES LAST LONGER THAN YOU THINK, THE SEPARATE VOL-",
+      "score": 4
+    },
+    {
+      "line": 1187,
+      "text": "DME CONTROLS ARE HANDY THOUGH THE TONE SwitcH HAS A NEGLI-",
+      "score": 4
+    },
+    {
+      "line": 1188,
+      "text": "GIBLE EFFECT AND THE MIKE (A NEW EXTRA) WE HAVENT TRIED.",
+      "score": 4
+    },
+    {
+      "line": 1200,
+      "text": "ANVTRING YOU SAY INTO IT SUDDENLY BECOMes REAL BIG anpd",
+      "score": 4
+    },
+    {
+      "line": 1203,
+      "text": "VERY \\MPORTANT. Tits BATTERW- POWERED AMPLIFIER WAS THE",
+      "score": 4
+    },
+    {
+      "line": 1204,
+      "text": "PEST LOVED AND MOST USED PIECE OF ELECTRONICKRY IN THE YEAR",
+      "score": 4
+    },
+    {
+      "line": 1207,
+      "text": "OF ROAD SHOWS PUT ON BY THE Hoo FARM. Ea@uacly HANDY IN CITIES",
+      "score": 4
+    },
+    {
+      "line": 1362,
+      "text": "CONSTPUCTION,",
+      "score": 4
+    },
+    {
+      "line": 1391,
+      "text": "AS PROVED AGAINST MUD, SNOW, ROUGH HANDLING",
+      "score": 4
+    },
+    {
+      "line": 1415,
+      "text": "REALISTIC:",
+      "score": 4
+    },
+    {
+      "line": 1816,
+      "text": "RIERCAAMLOTTE T= PAMCDATA 474.75)",
+      "score": 4
+    },
+    {
+      "line": 2043,
+      "text": "that DEER HUNTER’S GUIDE",
+      "score": 4
+    },
+    {
+      "line": 2119,
+      "text": "R.R. 1",
+      "score": 4
+    },
+    {
+      "line": 2259,
+      "text": "KITCHEN",
+      "score": 4
+    },
+    {
+      "line": 2886,
+      "text": "exposing ADVANCED, COMMUNALLY SCALED IN-",
+      "score": 4
+    },
+    {
+      "line": 2935,
+      "text": "IMPORTANT HORIZON",
+      "score": 4
+    },
+    {
+      "line": 2954,
+      "text": "CBS-EVR",
+      "score": 4
+    },
+    {
+      "line": 2958,
+      "text": "N. Y., N. Y. 10019",
+      "score": 4
+    },
+    {
+      "line": 3077,
+      "text": "406E83",
+      "score": 4
+    },
+    {
+      "line": 3078,
+      "text": "NYC10028USA",
+      "score": 4
+    },
+    {
+      "line": 3377,
+      "text": "SAN FRANCISCO CHRONICLE",
+      "score": 4
+    },
+    {
+      "line": 3928,
+      "text": "AD-684 092 -- LEADERSHIP EXPERIENCE AND LEADER PERFOR-",
+      "score": 4
+    },
+    {
+      "line": 3929,
+      "text": "MANCE - ANOTHER HYPOTHESIS SHOT TO HELL, F. E, Fiedler, Univ.",
+      "score": 4
+    },
+    {
+      "line": 4059,
+      "text": "WHERE AND HOW",
+      "score": 4
+    },
+    {
+      "line": 4060,
+      "text": "TO GET FREELAND",
+      "score": 4
+    },
+    {
+      "line": 4082,
+      "text": "AREA ADDRESS",
+      "score": 4
+    },
+    {
+      "line": 4124,
+      "text": "ViG3dO1DAINA SDILSV1d NYSGOW 896T",
+      "score": 4
+    },
+    {
+      "line": 4127,
+      "text": "LYVHS SIILSV1d GANVOS",
+      "score": 4
+    },
+    {
+      "line": 4155,
+      "text": "Foamed POLYURETHANE FOAMS",
+      "score": 4
+    },
+    {
+      "line": 4156,
+      "text": "= CELLULOSE",
+      "score": 4
+    },
+    {
+      "line": 4163,
+      "text": "FORMAL-",
+      "score": 4
+    },
+    {
+      "line": 4164,
+      "text": "DEHYDE",
+      "score": 4
+    },
+    {
+      "line": 4225,
+      "text": "D1692-59T",
+      "score": 4
+    },
+    {
+      "line": 4253,
+      "text": "1-4 @ 50% R. 1-5 @ 50%",
+      "score": 4
+    },
+    {
+      "line": 4260,
+      "text": "POLYETHYLENE",
+      "score": 4
+    },
+    {
+      "line": 4261,
+      "text": "j POLY-",
+      "score": 4
+    },
+    {
+      "line": 4262,
+      "text": "STYRENE | PROPYLENE",
+      "score": 4
+    },
+    {
+      "line": 4263,
+      "text": "POLYSTYRENE ACRYLO- he HIGH",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 150,
+      "term": "tools",
+      "snippet": "personal power is developing--power of the individual to conduct his own education, find his own inspiration, shape his own environment, and share his adventure with whoever is interested. Tools that aid this process are sought and promoted by the WHOLE EARTH CATALOG. a an neers ai 2 ae Sr neal Aaas Aca aR het or aia SUPPLEMENT"
+    },
+    {
+      "line": 164,
+      "term": "tools",
+      "snippet": "CATALOG, carries on-going research toward the next CATALOG, and publishes what doesn’t fit in the CATALOG but does relate to the use of tools. SUSTAINING SUBSCRIBER Julia Brand Rockford, Illinois ° RETAINING SUBSCRIBERS"
+    },
+    {
+      "line": 204,
+      "term": "energy",
+      "snippet": "S ioya Martin says 6 outdoor Supply Advice GPO Access Geodesics Fuller New Sources of Energy CW u o ge St 10 DO y T want to go to Japan for Expo 70? Ed Rosenfeld suggests New Schools Exchange Qhterbivore’s Guide Canadian Tax Land for Sale Handbook for Building Homes of Earth Roger Knights suggests"
+    },
+    {
+      "line": 229,
+      "term": "ecology",
+      "snippet": "13 Moving On 14 Space Law Concerning Seniority 15 Famed Plastics Chart Hark the Park We Have Met the Enemy God sez Ecology and Our Dirt Clod It Takes a Bug 16 Making It With Rock Revolutionary Thought Intensive Course in Small Craft Design Where and How to Get Free Land Lindberg Crosses the Great Water Inflated Plastic Greenhouses An Interview With Dick Baker k : xtr - | y"
+    },
+    {
+      "line": 231,
+      "term": "interview",
+      "snippet": "Ecology and Our Dirt Clod It Takes a Bug 16 Making It With Rock Revolutionary Thought Intensive Course in Small Craft Design Where and How to Get Free Land Lindberg Crosses the Great Water Inflated Plastic Greenhouses An Interview With Dick Baker k : xtr - | y 17 the Cowboy From Ant Farm 19 Legal Dope Making 1 E.A.T. BMW Motorcycle Libre Legal Dope Making 2 Planet"
+    },
+    {
+      "line": 430,
+      "term": "tools",
+      "snippet": "accurate information exchange to suppliers, but not favors, Our obligation is to CATALOG users and to ourselves to be gccad tools for ene another. Th 1 Ss 1S sue of the Supplement was prepared in the living room of Steve and Holly Baer near Albuquerque, New Mexico. /t was put together by:"
+    },
+    {
+      "line": 626,
+      "term": "tools",
+      "snippet": "Item - related Information Lloyd Martin says Fuller That Snap-On Tools are no better than Sears By now you probably have copies of Bucky Fuiler’s new book: The Fuller Dymaxion Sky-Ocean World folding globe kits are according to half the mechanics he’s talked to. Operating Manual for Spaceship Earth ($4.25, hardcovers, So. available to the educational market for $1.95 per kit from Ill. U. Press). I’ve been doing some work recently with Jerry Creative Education Society, Inc. For distribution arrange- That Meccano sets are available at Sears. Agel. His Books which you reviewed in the CATALOG is ments contact Mr. George R. Peterson, Jr., President, 515"
+    },
+    {
+      "line": 654,
+      "term": "energy",
+      "snippet": "I can. | see no reason why | couldnt function as expediter Marc Estrin for GPO stuff to Catalogue users. Outdoor Supply Advice New Sources of Energy Well, they aren’t new sources; they‘re the oldest: sun, wind, earth heat (geothermal). But OK, to us they’re new, and indeed they’re exciting. The prospect of truly self- contained habitable energy systems is romantic country. There you are with your"
+    },
+    {
+      "line": 659,
+      "term": "energy",
+      "snippet": "Well, they aren’t new sources; they‘re the oldest: sun, wind, earth heat (geothermal). But OK, to us they’re new, and indeed they’re exciting. The prospect of truly self- contained habitable energy systems is romantic country. There you are with your friends on your hill putting sun and wind through useful changes that are not only apparent to you but an integral part of your living. [This kind of thing is easy to understand and write about here at Steve Baer’s.]"
+    },
+    {
+      "line": 684,
+      "term": "energy",
+      "snippet": "I’ll do the very best | can to make a personal and honest Michael Rosenthal first hipped us to this remarkable set of U.N. documents which arose from a conference in Rome in 1961. If you’re deeply into solar or wind energy there’s lots of stuff here unfindable elsewhere. Japanese solar pillows-simple elegant water heaters up on the roofs, thoroughly described in Vol. 5. Traditional Dutch drainage windmills with suggested adaptations for other early-technology applications"
+    },
+    {
+      "line": 743,
+      "term": "energy",
+      "snippet": "Vol. 2 Geothermal | - $5.00 Vol.3 | Geothermal II ~ $5.50 Vol. 4 Solar Energy | - $7.50 Vol. 5 Solar Energy 11 ~ $4.50 Vol.6 - Solar Energy II! ~ $5.00 Vol. 7 Wind Power ="
+    },
+    {
+      "line": 744,
+      "term": "energy",
+      "snippet": "Vol.3 | Geothermal II ~ $5.50 Vol. 4 Solar Energy | - $7.50 Vol. 5 Solar Energy 11 ~ $4.50 Vol.6 - Solar Energy II! ~ $5.00 Vol. 7 Wind Power = vaav Ewen"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Winning Time 2:32. Who Won Is Debated."
+    },
+    {
+      "line": 4,
+      "text": "Aspen Meadows, New Mexico. Summer Solstice, 1969"
+    },
+    {
+      "line": 7,
+      "text": "Hugh Romney, who mustered this 1000 in this mountain"
+    },
+    {
+      "line": 8,
+      "text": "pasture, is announcing the start of the Bus Race and that a"
+    },
+    {
+      "line": 11,
+      "text": "At the starting line Hugh Romney mounts his bus."
+    },
+    {
+      "line": 14,
+      "text": "Feverish last minute preparations aboard Further."
+    },
+    {
+      "line": 17,
+      "text": "THE GREAT BUS RACE"
+    },
+    {
+      "line": 20,
+      "text": "Everyone will go one trial run around the course: % mile up"
+    },
+    {
+      "line": 21,
+      "text": "the meadow, around the flag, and back downhill to the starting"
+    },
+    {
+      "line": 24,
+      "text": "line. Majestically the line of buses staggers up the course. ‘‘I"
+    },
+    {
+      "line": 27,
+      "text": "couple named John and Mary are somewhere around and"
+    },
+    {
+      "line": 28,
+      "text": "be found because they have the bubonic plague and The survivors of the trial run line up. They’re immense,"
+    },
+    {
+      "line": 31,
+      "text": "must"
+    },
+    {
+      "line": 34,
+      "text": "require innoculation immediately. Everybody’s pretty"
+    },
+    {
+      "line": 35,
+      "text": "innoculated already; it’s the spaciest part of the afternoon."
+    },
+    {
+      "line": 36,
+      "text": "The race was going to be one bus at a time against the clock,"
+    },
+    {
+      "line": 39,
+      "text": "but Ken Kesey and others are maintaining that’s a chickenshit"
+    },
+    {
+      "line": 40,
+      "text": "It’s got to be all at once. And it’s begun. Road Hog gets off first. Further is dragging."
+    },
+    {
+      "line": 41,
+      "text": "The air is filled with buses and exhaust and din. They wallow"
+    },
+    {
+      "line": 44,
+      "text": "race."
+    },
+    {
+      "line": 47,
+      "text": "_The buses are Kesey’s renowned Further, with a skeleton"
+    },
+    {
+      "line": 48,
+      "text": "crew of Farmsters aboard, and the Hog Farm’s fleet: Road"
+    },
+    {
+      "line": 51,
+      "text": "Hog,"
+    },
+    {
+      "line": 52,
+      "text": "tight"
+    },
+    {
+      "line": 55,
+      "text": "don't know about this,”” says Mike Hagen, ‘’Further ain't got"
+    },
+    {
+      "line": 56,
+      "text": "much brakes.’’ The Hospital Bus is stalled half-way up the"
+    },
+    {
+      "line": 57,
+      "text": "hill right where :t’s almost impossible to get around."
+    },
+    {
+      "line": 58,
+      "text": "Reportedly it also ran over a pup tent (unoccupied)."
+    },
+    {
+      "line": 61,
+      "text": "these faded colorful wrecks filled with folly. People are"
+    },
+    {
+      "line": 62,
+      "text": "climbing off, others are climbing on. It’s a test of passengers"
+    },
+    {
+      "line": 63,
+      "text": "as much as drivers. The mood is pure: fatalistic optimism."
+    },
+    {
+      "line": 66,
+      "text": "up the pasture like berserk pigs. As Further sways past the"
+    },
+    {
+      "line": 67,
+      "text": "grounded Hospital Bus Kesey disappears over the windshield"
+    },
+    {
+      "line": 70,
+      "text": "Hospital Bus, Kitchen Bus, etc. The Motherfuckers’ shouting orders to driver Bucavich. Over there in the bushes"
+    },
+    {
+      "line": 73,
+      "text": "little bus is around but not in the race."
+    },
+    {
+      "line": 76,
+      "text": "poveane toward the first turn Kesey has an excellent view of the rear of the Hog Farm"
+    },
+    {
+      "line": 77,
+      "text": "eet."
+    },
+    {
+      "line": 80,
+      "text": "the Foot Swami from India is watching it all go by."
+    },
+    {
+      "line": 83,
+      "text": "Tied up at the flag, Romney"
+    },
+    {
+      "line": 84,
+      "text": "is visible on the track below."
+    }
+  ]
+}

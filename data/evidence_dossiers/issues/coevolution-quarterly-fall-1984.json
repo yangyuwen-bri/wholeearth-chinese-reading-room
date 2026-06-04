@@ -1,0 +1,674 @@
+{
+  "title": "CoEvolution Quarterly, Fall 1984",
+  "identifier": "coevolutionquart00unse_39",
+  "year": 1984,
+  "season": "Fall",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1984",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_39",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_39/coevolutionquart00unse_39.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_39/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/coevolutionquart00unse_39_djvu.txt",
+  "ocr_chars": 636610,
+  "significant_line_count": 15783,
+  "theme_counts": {
+    "software_computing": 90,
+    "tools_craft": 273,
+    "ecology_place": 628,
+    "learning_media": 344,
+    "community_politics": 355
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 603,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO CA 94965",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_39/page/n28_w500.jpg"
+    },
+    {
+      "line": 2905,
+      "page": 300,
+      "title": "BASE PAIRS",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_39/page/n301_w500.jpg"
+    },
+    {
+      "line": 21664,
+      "page": 7,
+      "title": "GATE FIVE ROAD SAUSALITO CA 94965",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_39/page/n8_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 603,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 2746,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA",
+      "score": 8
+    },
+    {
+      "line": 2905,
+      "text": "300 BASE PAIRS",
+      "score": 8
+    },
+    {
+      "line": 12688,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965 85",
+      "score": 8
+    },
+    {
+      "line": 21664,
+      "text": "7 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 449,
+      "text": "DEPART MENTS/REVIEWS",
+      "score": 6
+    },
+    {
+      "line": 452,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 467,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 543,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 573,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 3206,
+      "text": "COMMUNITY __..",
+      "score": 6
+    },
+    {
+      "line": 16357,
+      "text": "THE COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 18450,
+      "text": "_LEARNING",
+      "score": 6
+    },
+    {
+      "line": 22661,
+      "text": "COMMUNICATIONS FF",
+      "score": 6
+    },
+    {
+      "line": 23015,
+      "text": "NEW SHELTER",
+      "score": 6
+    },
+    {
+      "line": 23057,
+      "text": "WORLP PRESS REVIEW",
+      "score": 6
+    },
+    {
+      "line": 23607,
+      "text": "WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 23634,
+      "text": "WHOLE EARTH SOFTWARE CATALOG WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 1,
+      "text": "THE WHOLE E",
+      "score": 4
+    },
+    {
+      "line": 12,
+      "text": "BECOMING",
+      "score": 4
+    },
+    {
+      "line": 13,
+      "text": "PART OF GAIA",
+      "score": 4
+    },
+    {
+      "line": 16,
+      "text": "PLAYS WITHOUT",
+      "score": 4
+    },
+    {
+      "line": 17,
+      "text": "ACTORS",
+      "score": 4
+    },
+    {
+      "line": 20,
+      "text": "LIFE AS STREAM |",
+      "score": 4
+    },
+    {
+      "line": 22,
+      "text": "ALZHEIMER’S DISEASE",
+      "score": 4
+    },
+    {
+      "line": 37,
+      "text": "SONG OF THE TASTE",
+      "score": 4
+    },
+    {
+      "line": 79,
+      "text": "GRACE",
+      "score": 4
+    },
+    {
+      "line": 85,
+      "text": "HE PRIMARY ETHICAL TEACHING",
+      "score": 4
+    },
+    {
+      "line": 213,
+      "text": "ARTICLES",
+      "score": 4
+    },
+    {
+      "line": 312,
+      "text": "QEOTION",
+      "score": 4
+    },
+    {
+      "line": 315,
+      "text": "FEATURES",
+      "score": 4
+    },
+    {
+      "line": 383,
+      "text": "FICTION",
+      "score": 4
+    },
+    {
+      "line": 436,
+      "text": "THE CoEVOLUTION QUARTERLY FALL 1984",
+      "score": 4
+    },
+    {
+      "line": 481,
+      "text": "LAND USE",
+      "score": 4
+    },
+    {
+      "line": 498,
+      "text": "POLITICS",
+      "score": 4
+    },
+    {
+      "line": 509,
+      "text": "SOFT TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 526,
+      "text": "NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 578,
+      "text": "BACKSCATTER",
+      "score": 4
+    },
+    {
+      "line": 585,
+      "text": "BUSINESS",
+      "score": 4
+    },
+    {
+      "line": 718,
+      "text": "THE CoEVOLUTION QUARTERLY - FALL 1984",
+      "score": 4
+    },
+    {
+      "line": 965,
+      "text": "6 THE CoEVOLUTION QUARTERLY - FALL 1984",
+      "score": 4
+    },
+    {
+      "line": 1215,
+      "text": "THE CoEVOLUTION QUARTERLY",
+      "score": 4
+    },
+    {
+      "line": 1218,
+      "text": "FALL 1984",
+      "score": 4
+    },
+    {
+      "line": 1679,
+      "text": "ENDANGERED -",
+      "score": 4
+    },
+    {
+      "line": 1680,
+      "text": "NIGHT SKIES",
+      "score": 4
+    },
+    {
+      "line": 1742,
+      "text": "» Sei a AA DITA) BUR EALIGCET DA LLL oS ss ae",
+      "score": 4
+    },
+    {
+      "line": 1748,
+      "text": "! 2 THE CoEVOLUTION QUARTERLY - FALL 1984",
+      "score": 4
+    },
+    {
+      "line": 1778,
+      "text": "NIGHTWATCH FROM SPACE",
+      "score": 4
+    },
+    {
+      "line": 1885,
+      "text": "SKY POLLUTION",
+      "score": 4
+    },
+    {
+      "line": 1914,
+      "text": "LIGHT POLLUTION ISSUES BROUGHT",
+      "score": 4
+    },
+    {
+      "line": 1915,
+      "text": "DOWN TO EARTH",
+      "score": 4
+    },
+    {
+      "line": 2035,
+      "text": "WHAT WE HAVE LOST",
+      "score": 4
+    },
+    {
+      "line": 2066,
+      "text": "SOURCES",
+      "score": 4
+    },
+    {
+      "line": 2073,
+      "text": "AZ 85726.",
+      "score": 4
+    },
+    {
+      "line": 2273,
+      "text": "THE CoEVOLUTION QUARTERLY FALL 1984 p",
+      "score": 4
+    },
+    {
+      "line": 2889,
+      "text": "OF EUCARYOTIC GENES = THEY",
+      "score": 4
+    },
+    {
+      "line": 2892,
+      "text": "HARBOR LOTS OF SO-CALLED",
+      "score": 4
+    },
+    {
+      "line": 2894,
+      "text": "REPETITIVE DN A.-. THESE PRE",
+      "score": 4
+    },
+    {
+      "line": 2895,
+      "text": "$ CES OF NUCLEOTIDES WHICH -",
+      "score": 4
+    },
+    {
+      "line": 2896,
+      "text": "AT THEMSELVES MANY TIMES.",
+      "score": 4
+    },
+    {
+      "line": 2899,
+      "text": "UMAWS, FOR",
+      "score": 4
+    },
+    {
+      "line": 2900,
+      "text": "PRAMple,, HAVE CHE",
+      "score": 4
+    },
+    {
+      "line": 2907,
+      "text": "WAICH APPEARS NEARLY",
+      "score": 4
+    },
+    {
+      "line": 2908,
+      "text": "A MILLION TIMES.",
+      "score": 4
+    },
+    {
+      "line": 2909,
+      "text": "Ts (6 A SUBSTADTIAL",
+      "score": 4
+    },
+    {
+      "line": 2910,
+      "text": "CHUNK OF OUR ToTAL /",
+      "score": 4
+    },
+    {
+      "line": 2911,
+      "text": "WAAT CAW IT",
+      "score": 4
+    },
+    {
+      "line": 2919,
+      "text": "NZYmeS AND",
+      "score": 4
+    },
+    {
+      "line": 2921,
+      "text": "OTHER PROTEINS",
+      "score": 4
+    },
+    {
+      "line": 2922,
+      "text": "COME |) MAWY",
+      "score": 4
+    },
+    {
+      "line": 2923,
+      "text": "SHAPES, BUT IN",
+      "score": 4
+    },
+    {
+      "line": 2924,
+      "text": "AW IMPORTAPT",
+      "score": 4
+    },
+    {
+      "line": 2927,
+      "text": "RESPECT THEY ARE",
+      "score": 4
+    },
+    {
+      "line": 2928,
+      "text": "ALL ALIKE ie",
+      "score": 4
+    },
+    {
+      "line": 2951,
+      "text": "The MOLECULE 4, MESSAGE",
+      "score": 4
+    },
+    {
+      "line": 3209,
+      "text": "LIFE AS A",
+      "score": 4
+    },
+    {
+      "line": 3210,
+      "text": "STREAM OF CONSCIOUSNESS:",
+      "score": 4
+    },
+    {
+      "line": 3324,
+      "text": "COURTESY OF STAN PULLIAM",
+      "score": 4
+    },
+    {
+      "line": 3546,
+      "text": "EWIS THOMAS CALLED IT “THE DISEASE OF THE",
+      "score": 4
+    },
+    {
+      "line": 3881,
+      "text": "COURTESY OF STEVEN SCH REIBMAN",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 452,
+      "term": "whole systems",
+      "snippet": "-Kevin Kelly DEPART MENTS/REVIEWS WHOLE SYSTEMS 11 Ground Water m Future Water 16 Astronomy with Binoculars w A Field Guide to the Stars and Planets"
+    },
+    {
+      "line": 467,
+      "term": "community",
+      "snippet": "21 Fire In The Valley « Hackers w The Cold and the Dark COMMUNITY 33 The Alzheimer’s Family Care Guide @ Alzheimer’s Disease 37 Health and Healing"
+    },
+    {
+      "line": 482,
+      "term": "ecology",
+      "snippet": "w The Rights of Employees LAND USE 61 Agroecology w Experiments in Bioregionalism 62 The Granite Garden m Ponds and Pools 63 Mushroom: The Journal of Wild Mush-"
+    },
+    {
+      "line": 543,
+      "term": "communications",
+      "snippet": "m Techniques and Equipment for Wilderness Horse Travel COMMUNICATIONS 108 Theaterwork « We are Strong m The Independent Film & Videomakers Guide The Oxford-Duden Pictorial English"
+    },
+    {
+      "line": 573,
+      "term": "learning",
+      "snippet": "Shortwave Listener’s Program Guide 118 Good Movies: Fall by Sheila Benson LEARNING 128 Opal @ Folk Art Finder 129 The Other Bible m Meetings at the Edge BACKSCATTER"
+    },
+    {
+      "line": 679,
+      "term": "energy",
+      "snippet": "ficult, for her ways are wrapped in paradox. When wind buffets a tree, we readily see the: wind’s energy acting upon the tree. What we don’t notice is the tree’s energy acting upon the wind. For every action, there is an op- . posite and equal reaction. This equal reaction,"
+    },
+    {
+      "line": 680,
+      "term": "energy",
+      "snippet": "When wind buffets a tree, we readily see the: wind’s energy acting upon the tree. What we don’t notice is the tree’s energy acting upon the wind. For every action, there is an op- . posite and equal reaction. This equal reaction, however, is often not obvious. The wind-tossed"
+    },
+    {
+      "line": 684,
+      "term": "energy",
+      "snippet": "posite and equal reaction. This equal reaction, however, is often not obvious. The wind-tossed tree is continually absorbing the wind’s energy. The force of the wind is finite. By absorbing some of that energy, a tree diminishes the. wind’s energy. This might appear inconsequen-"
+    },
+    {
+      "line": 686,
+      "term": "energy",
+      "snippet": "tree is continually absorbing the wind’s energy. The force of the wind is finite. By absorbing some of that energy, a tree diminishes the. wind’s energy. This might appear inconsequen- tial with one tree, but if we stand in a forest during a windstorm, we hear the wind howling"
+    },
+    {
+      "line": 687,
+      "term": "energy",
+      "snippet": "The force of the wind is finite. By absorbing some of that energy, a tree diminishes the. wind’s energy. This might appear inconsequen- tial with one tree, but if we stand in a forest during a windstorm, we hear the wind howling overhead while only feeling breezes around us."
+    },
+    {
+      "line": 692,
+      "term": "energy",
+      "snippet": "overhead while only feeling breezes around us. Life pries and wedges the atmosphere’s turbu- lent energy away from the Earth’s surface, allow- ing fragilely complex soil structures to develop over time. Even grass absorbs all wind energy - close to the ground. If winds are allowed to"
+    },
+    {
+      "line": 694,
+      "term": "energy",
+      "snippet": "lent energy away from the Earth’s surface, allow- ing fragilely complex soil structures to develop over time. Even grass absorbs all wind energy - close to the ground. If winds are allowed to touch the actual earth, as they did in the Dust Bowl, the foundation for life is swept away."
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "THE WHOLE E"
+    },
+    {
+      "line": 4,
+      "text": "Civilization’s glow"
+    },
+    {
+      "line": 5,
+      "text": "eloyciatiasts its"
+    },
+    {
+      "line": 6,
+      "text": "vision of the stars"
+    },
+    {
+      "line": 9,
+      "text": "More on back cover"
+    },
+    {
+      "line": 12,
+      "text": "BECOMING"
+    },
+    {
+      "line": 13,
+      "text": "PART OF GAIA"
+    },
+    {
+      "line": 16,
+      "text": "PLAYS WITHOUT"
+    },
+    {
+      "line": 17,
+      "text": "ACTORS"
+    },
+    {
+      "line": 20,
+      "text": "LIFE AS STREAM |"
+    },
+    {
+      "line": 21,
+      "text": "£0) GO) iSO] ER er"
+    },
+    {
+      "line": 22,
+      "text": "ALZHEIMER’S DISEASE"
+    },
+    {
+      "line": 25,
+      "text": "ARTH At NicH"
+    },
+    {
+      "line": 37,
+      "text": "SONG OF THE TASTE"
+    },
+    {
+      "line": 40,
+      "text": "by Gary Snyder"
+    },
+    {
+      "line": 43,
+      "text": "Eating the living germs of grasses"
+    },
+    {
+      "line": 44,
+      "text": "Eating the ova of large birds"
+    },
+    {
+      "line": 47,
+      "text": "the fleshy sweetness packed"
+    },
+    {
+      "line": 48,
+      "text": "around the sperm of swaying trees"
+    },
+    {
+      "line": 51,
+      "text": "The muscles of the flanks and thighs of"
+    },
+    {
+      "line": 52,
+      "text": "soft-voiced cows"
+    },
+    {
+      "line": 53,
+      "text": "the bounce in the lamb’s leap"
+    },
+    {
+      "line": 54,
+      "text": "the swish in the ox’s tail"
+    },
+    {
+      "line": 57,
+      "text": "Eating roots grown swoll"
+    },
+    {
+      "line": 58,
+      "text": "inside the soil"
+    },
+    {
+      "line": 61,
+      "text": "Drawing on life of living"
+    },
+    {
+      "line": 62,
+      "text": "clustered points of light spun"
+    },
+    {
+      "line": 63,
+      "text": "out of space"
+    },
+    {
+      "line": 64,
+      "text": "hidden in the grape."
+    },
+    {
+      "line": 67,
+      "text": "Eating each other’s seed"
+    },
+    {
+      "line": 68,
+      "text": "eating"
+    },
+    {
+      "line": 69,
+      "text": "ah, each other."
+    },
+    {
+      "line": 72,
+      "text": "Kissing the lover in the mouth of bread:"
+    },
+    {
+      "line": 73,
+      "text": "lip to lip."
+    },
+    {
+      "line": 76,
+      "text": "from Regarding Wave"
+    },
+    {
+      "line": 79,
+      "text": "GRACE"
+    },
+    {
+      "line": 82,
+      "text": "by Gary Snyder"
+    },
+    {
+      "line": 85,
+      "text": "HE PRIMARY ETHICAL TEACHING"
+    },
+    {
+      "line": 86,
+      "text": "of all times and places is “cause no"
+    },
+    {
+      "line": 87,
+      "text": "unnecessary harm.” The Hindus,"
+    }
+  ]
+}

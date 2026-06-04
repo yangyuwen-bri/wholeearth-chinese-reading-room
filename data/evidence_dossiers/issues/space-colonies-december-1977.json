@@ -1,0 +1,674 @@
+{
+  "title": "Space Colonies, December 1977",
+  "identifier": "spacecoloniesdec00unse",
+  "year": 1977,
+  "season": "December",
+  "collection": "Special Publications",
+  "collection_zh": "专题出版物",
+  "pages": 167,
+  "url": "https://wholeearth.info/p/space-colonies-december-1977",
+  "archive_url": "https://archive.org/details/spacecoloniesdec00unse",
+  "pdf_url": "https://archive.org/download/spacecoloniesdec00unse/spacecoloniesdec00unse.pdf",
+  "cover_url": "https://archive.org/download/spacecoloniesdec00unse/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/spacecoloniesdec00unse_djvu.txt",
+  "ocr_chars": 906882,
+  "significant_line_count": 18310,
+  "theme_counts": {
+    "software_computing": 208,
+    "tools_craft": 447,
+    "ecology_place": 906,
+    "learning_media": 242,
+    "community_politics": 493
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 392,
+      "page": 7,
+      "title": "PNOWER COLONY.",
+      "image_url": "https://archive.org/download/spacecoloniesdec00unse/page/n8_w500.jpg"
+    },
+    {
+      "line": 1698,
+      "page": 1,
+      "title": "GRAV.",
+      "image_url": "https://archive.org/download/spacecoloniesdec00unse/page/n2_w500.jpg"
+    },
+    {
+      "line": 2578,
+      "page": 20,
+      "title": "POWER COST",
+      "image_url": "https://archive.org/download/spacecoloniesdec00unse/page/n21_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 392,
+      "text": "7 PNOWER COLONY.",
+      "score": 8
+    },
+    {
+      "line": 425,
+      "text": "7 MIRRORS 10 FRING",
+      "score": 8
+    },
+    {
+      "line": 1698,
+      "text": "1 GRAV.",
+      "score": 8
+    },
+    {
+      "line": 2578,
+      "text": "20 POWER COST",
+      "score": 8
+    },
+    {
+      "line": 1349,
+      "text": "ENERGY WITHOUT GUILT",
+      "score": 6
+    },
+    {
+      "line": 1568,
+      "text": "ENERGY a ; RECUPERATOR",
+      "score": 6
+    },
+    {
+      "line": 1971,
+      "text": "ENERGY FOR THE EARTH",
+      "score": 6
+    },
+    {
+      "line": 2274,
+      "text": "@ PRIMARY THERMAL ENERGY SOURCE",
+      "score": 6
+    },
+    {
+      "line": 2279,
+      "text": "@ ENERGY CONVERSION MACHINERY",
+      "score": 6
+    },
+    {
+      "line": 2373,
+      "text": "THE U.S. AS ENERGY EXPORTER",
+      "score": 6
+    },
+    {
+      "line": 2603,
+      "text": "YEARS FROM START OF PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 2887,
+      "text": "ENERGY = TOTAL",
+      "score": 6
+    },
+    {
+      "line": 2924,
+      "text": "PRIOR TO START OF COLONY PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 3160,
+      "text": "INTERVIEWING GERARD O'NEILL",
+      "score": 6
+    },
+    {
+      "line": 14119,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 14192,
+      "text": "RSONAL COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 14239,
+      "text": "PERSONAL COMMUNICATIONS - 150 ft. DIA. ANTENNA we, S ;",
+      "score": 6
+    },
+    {
+      "line": 14242,
+      "text": "ENERGY GENERATION - SOLAR/MICROWAVE - 7.3% 2.6 NMI. . .",
+      "score": 6
+    },
+    {
+      "line": 16689,
+      "text": "1000-ACRE OCEAN FOOD AND ENERGY FARM UNIT",
+      "score": 6
+    },
+    {
+      "line": 18829,
+      "text": "INTERVIEWING CARL SAGAN ano LYNN MARGULIS",
+      "score": 6
+    },
+    {
+      "line": 1387,
+      "text": "Electrical energy for a space community could be obtained",
+      "score": 5
+    },
+    {
+      "line": 2914,
+      "text": "from the start of the program the energy flow to the",
+      "score": 5
+    },
+    {
+      "line": 7163,
+      "text": "colonies, after due energy accountancy and review of the",
+      "score": 5
+    },
+    {
+      "line": 26716,
+      "text": "community, shelter, craft,",
+      "score": 5
+    },
+    {
+      "line": 13,
+      "text": "OA OL NON Ol. Ge",
+      "score": 4
+    },
+    {
+      "line": 31,
+      "text": "GOOD BYE.",
+      "score": 4
+    },
+    {
+      "line": 32,
+      "text": "GOOD LEB.",
+      "score": 4
+    },
+    {
+      "line": 39,
+      "text": "RIDDANCE.",
+      "score": 4
+    },
+    {
+      "line": 42,
+      "text": "(ONTENTS",
+      "score": 4
+    },
+    {
+      "line": 50,
+      "text": "22-30 “IS THE SURFACE OF A PLANET REALLY THE RIGHT PLACE FOR AN EXPANDING",
+      "score": 4
+    },
+    {
+      "line": 69,
+      "text": "COMMENTS ON O’NEILL’S SPACE COLONIES",
+      "score": 4
+    },
+    {
+      "line": 113,
+      "text": "OSS 2 SELES TT FE ETS SO TT OSG SS",
+      "score": 4
+    },
+    {
+      "line": 179,
+      "text": "SPACE COLONIES SHOULD KEEP AWAY FROM THE GOVERNMENT FOR A WHILE",
+      "score": 4
+    },
+    {
+      "line": 192,
+      "text": "ECOLOGICAL CONSIDERATIONS FOR SPACE COLONIES",
+      "score": 4
+    },
+    {
+      "line": 199,
+      "text": "JACQUES COUSTEAU AT NASA HEADQUARTERS",
+      "score": 4
+    },
+    {
+      "line": 247,
+      "text": "JERRY BROWN - FROM LIMITS ON EARTH TO POSSIBILITIES IN SPACE",
+      "score": 4
+    },
+    {
+      "line": 261,
+      "text": "A@ EVOLUTION BORK",
+      "score": 4
+    },
+    {
+      "line": 393,
+      "text": "/ PIFFERENT CLIMATE",
+      "score": 4
+    },
+    {
+      "line": 396,
+      "text": "SEASONS, PERUAPS LANGUAGE ()",
+      "score": 4
+    },
+    {
+      "line": 399,
+      "text": "SHUTTLE 5",
+      "score": 4
+    },
+    {
+      "line": 404,
+      "text": "TWIN CYLINPER To",
+      "score": 4
+    },
+    {
+      "line": 405,
+      "text": "COMPENSATE FOK",
+      "score": 4
+    },
+    {
+      "line": 407,
+      "text": "GYROSCOFIL ACTION",
+      "score": 4
+    },
+    {
+      "line": 410,
+      "text": "ZERO -QRAVITY",
+      "score": 4
+    },
+    {
+      "line": 411,
+      "text": "/ WYUARIES",
+      "score": 4
+    },
+    {
+      "line": 416,
+      "text": "LIVINGs",
+      "score": 4
+    },
+    {
+      "line": 417,
+      "text": "ae HABITAT",
+      "score": 4
+    },
+    {
+      "line": 420,
+      "text": "ALTERNATING “VALLE y5”",
+      "score": 4
+    },
+    {
+      "line": 421,
+      "text": "SKYUGUT?,",
+      "score": 4
+    },
+    {
+      "line": 422,
+      "text": "THREE OF EACH",
+      "score": 4
+    },
+    {
+      "line": 426,
+      "text": "NATURAL SUNLIGHT",
+      "score": 4
+    },
+    {
+      "line": 427,
+      "text": "IND HABITAT",
+      "score": 4
+    },
+    {
+      "line": 430,
+      "text": "CC AARICULTURAL CYLINDERS",
+      "score": 4
+    },
+    {
+      "line": 431,
+      "text": "APJUSTABLE CLIMATES",
+      "score": 4
+    },
+    {
+      "line": 434,
+      "text": "ANU YAY LENATH",
+      "score": 4
+    },
+    {
+      "line": 601,
+      "text": "WRECK THE WORLD/",
+      "score": 4
+    },
+    {
+      "line": 602,
+      "text": "AND THEYRE TOO BiG",
+      "score": 4
+    },
+    {
+      "line": 603,
+      "text": "5 TOO MANY OF EM/",
+      "score": 4
+    },
+    {
+      "line": 606,
+      "text": "HAT CAN ONE",
+      "score": 4
+    },
+    {
+      "line": 607,
+      "text": "MAN DO? WHAT",
+      "score": 4
+    },
+    {
+      "line": 610,
+      "text": "“CAN RUN BUT .",
+      "score": 4
+    },
+    {
+      "line": 611,
+      "text": "uy CANT HIDE!",
+      "score": 4
+    },
+    {
+      "line": 614,
+      "text": "AHA! | KNOW! ILL BUILD A",
+      "score": 4
+    },
+    {
+      "line": 615,
+      "text": "SPACESHIPAND TOHELL %",
+      "score": 4
+    },
+    {
+      "line": 1163,
+      "text": "DR. GERARD K. O'NEILL",
+      "score": 4
+    },
+    {
+      "line": 1166,
+      "text": "BEFORE THE",
+      "score": 4
+    },
+    {
+      "line": 1167,
+      "text": "SUB-COMMITTEE ON",
+      "score": 4
+    },
+    {
+      "line": 1168,
+      "text": "SPACE SCIENCE AND APPLICATIONS",
+      "score": 4
+    },
+    {
+      "line": 1169,
+      "text": "OF THE",
+      "score": 4
+    },
+    {
+      "line": 1170,
+      "text": "COMMITTEE ON SCIENCE AND TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 1171,
+      "text": "UNITED STATES HOUSE OF REPRESENTATIVES",
+      "score": 4
+    },
+    {
+      "line": 1172,
+      "text": "JULY 23, 1975",
+      "score": 4
+    },
+    {
+      "line": 1175,
+      "text": "INTRODUCTION",
+      "score": 4
+    },
+    {
+      "line": 1222,
+      "text": "THE SPACE COLONY CONCEPT",
+      "score": 4
+    },
+    {
+      "line": 1264,
+      "text": "GEOMETRIES",
+      "score": 4
+    },
+    {
+      "line": 1301,
+      "text": "INDUSTRY",
+      "score": 4
+    },
+    {
+      "line": 1323,
+      "text": "LIMITS OF GROWTH",
+      "score": 4
+    },
+    {
+      "line": 1409,
+      "text": "THE BOOTSTRAP METHOD",
+      "score": 4
+    },
+    {
+      "line": 1496,
+      "text": "LUNAR MATERIALS",
+      "score": 4
+    },
+    {
+      "line": 1514,
+      "text": "TABLE 1",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 49,
+      "term": "energy",
+      "snippet": "5-7 The sky starts at your feet 8-11 THE HIGH FRONTIER by Gerard O'Neill | 12-21 TESTIMONY OF GERARD K. O’NEILL: Space Colonization and Energy Supply to Earth 22-30 “IS THE SURFACE OF A PLANET REALLY THE RIGHT PLACE FOR AN EXPANDING TECHNOLOGICAL CIVILIZATION?” Jnterviewing Gerard O'Neill 30-32 3-D Universe » The High Frontier =» L-5 News a National Space Institute"
+    },
+    {
+      "line": 78,
+      "term": "energy",
+      "snippet": "Dean Fleming = Wendell Berry Wilson Clark m Space for peace m E. F. Schumacher a Stephanie Mills = Steve Durkee = Extra energy Steve Baer a The SF vote » Dennis Meadows « Hazel Henderson Allure = Daughter = Carl Sagan « Rather Paul and Anne Ehrlich a Pioneer = Down the road"
+    },
+    {
+      "line": 233,
+      "term": "interview",
+      "snippet": "“WHERE!?” by Carl Sagan = Steel asteroids = A House in Space THERE AIN’T NO GRACEFUL WAY Astronaut Russell Schweickart talking to Peter Warshall CONTROVERSY IS RIFE ON MARS interviewing Carl Sagan and Lynn Margulis Education for Space Work # The Directory of Aerospace Education Colonies in Space m Space Age Review m# Earth/Space News Space Settlements # Space Manufacturing Facilities = Spaceflight & JBIS"
+    },
+    {
+      "line": 350,
+      "term": "interview",
+      "snippet": "(photo prints) two Eric Drexler articles, and the two most recent interviews with Space Colony designer Gerard O'Neill and astronaut Russell Schweickart. The book is organized into three sections - Vision, Debate, and Space. The Vision is Gerard O’Neill’s"
+    },
+    {
+      "line": 378,
+      "term": "community",
+      "snippet": "co-evolves with life. That includes us. So as you study your work, your yard, your watershed, your bio-community and human community, your weather, your access to tools, your night sky, and your prospects in Space, be aware that they are studying you."
+    },
+    {
+      "line": 379,
+      "term": "community",
+      "snippet": "That includes us. So as you study your work, your yard, your watershed, your bio-community and human community, your weather, your access to tools, your night sky, and your prospects in Space, be aware that they are studying you. Gy /"
+    },
+    {
+      "line": 380,
+      "term": "tools",
+      "snippet": "yard, your watershed, your bio-community and human community, your weather, your access to tools, your night sky, and your prospects in Space, be aware that they are studying you. Gy / OS |"
+    },
+    {
+      "line": 633,
+      "term": "energy",
+      "snippet": "sa \\ Wrong attitude in order, the Energy Crisis, the Food Crisis, the Arms Race, the Population Problem, and maybe even the Climatic Shift. Liberals and environmentalists hoot in derision."
+    },
+    {
+      "line": 703,
+      "term": "energy",
+      "snippet": "significant human activity must be confined to the surface of the earth. 2) That the material and energy resources of the human race are just those of our planet. 3) That any realistic solutions to our"
+    },
+    {
+      "line": 709,
+      "term": "energy",
+      "snippet": "planet. 3) That any realistic solutions to our problems of food, population, energy and materials must be based on a kind of zero- sum game, in which no resources can be obtained by one nation or group without"
+    },
+    {
+      "line": 720,
+      "term": "energy",
+      "snippet": "Given those premises, logic has driven most observers to the conclusion that long-term peace and stability Dr. Gerard O'Neill, 50, is a high-energy physicist best known in his field for originating the colliding-beam storage ring, which has been adopted in nuclear accelerators throughout the"
+    },
+    {
+      "line": 799,
+      "term": "community",
+      "snippet": "necessary to have a technical background to appreciate these facts. Indeed, one of the most Figure 3. Possible interior design of a first, small-size space community. It could be large enough to provide comfortable apartments, shops, parks, small rivers and lush vegetation. ‘““Settlers in Space’’ by Gerard O’Neill in Science Year - The World Book Science Annual - The book costs $8.95 from: Science Year, Box 3131, Merchandise Mart, Chicago, IL 60654. Our"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": ", : Oe. ee pee es"
+    },
+    {
+      "line": 3,
+      "text": "“ es e Ce % f Kyat. OF gl gl Satie Be Sees"
+    },
+    {
+      "line": 5,
+      "text": "nside O 972) ‘““M Space Colony"
+    },
+    {
+      "line": 7,
+      "text": "-a cylinder 6.2 miles long, 1.25 miles in diameter, housing 1,000,000 people."
+    },
+    {
+      "line": 10,
+      "text": "Edited by Stewart Brand ee."
+    },
+    {
+      "line": 13,
+      "text": "OA OL NON Ol. Ge"
+    },
+    {
+      "line": 16,
+      "text": "Published by the Whole Earth Catalog"
+    },
+    {
+      "line": 20,
+      "text": "The most recent (1976) configuration for Space Colonies - the ‘‘Bernal Sphere.” It is intended to"
+    },
+    {
+      "line": 21,
+      "text": "house 10,000 people. A major design difference from the early O’Neill cylinders is the attention"
+    },
+    {
+      "line": 22,
+      "text": "given to shielding the inhabitants from cosmic rays."
+    },
+    {
+      "line": 25,
+      "text": "$111ND ‘S paobmpgy"
+    },
+    {
+      "line": 28,
+      "text": "a Penguin Book"
+    },
+    {
+      "line": 31,
+      "text": "GOOD BYE."
+    },
+    {
+      "line": 32,
+      "text": "GOOD LEB."
+    },
+    {
+      "line": 35,
+      "text": "Edited by Stewart Brand"
+    },
+    {
+      "line": 38,
+      "text": "GOOD"
+    },
+    {
+      "line": 39,
+      "text": "RIDDANCE."
+    },
+    {
+      "line": 42,
+      "text": "(ONTENTS"
+    },
+    {
+      "line": 45,
+      "text": "Vision"
+    },
+    {
+      "line": 46,
+      "text": "4 A CoEvolution Book"
+    },
+    {
+      "line": 47,
+      "text": "5-7 The sky starts at your feet"
+    },
+    {
+      "line": 48,
+      "text": "8-11 THE HIGH FRONTIER by Gerard O'Neill |"
+    },
+    {
+      "line": 49,
+      "text": "12-21 TESTIMONY OF GERARD K. O’NEILL: Space Colonization and Energy Supply to Earth"
+    },
+    {
+      "line": 50,
+      "text": "22-30 “IS THE SURFACE OF A PLANET REALLY THE RIGHT PLACE FOR AN EXPANDING"
+    },
+    {
+      "line": 51,
+      "text": "TECHNOLOGICAL CIVILIZATION?” Jnterviewing Gerard O'Neill"
+    },
+    {
+      "line": 52,
+      "text": "30-32 3-D Universe » The High Frontier =» L-5 News a National Space Institute"
+    },
+    {
+      "line": 55,
+      "text": "Debate"
+    },
+    {
+      "line": 69,
+      "text": "COMMENTS ON O’NEILL’S SPACE COLONIES"
+    },
+    {
+      "line": 71,
+      "text": "Ken Kesey «# Russell Schweickart = Lewis Mumford"
+    },
+    {
+      "line": 73,
+      "text": "Lynn Margulis = Richard Raymond « The real backers"
+    },
+    {
+      "line": 75,
+      "text": "Dean Fleming = Wendell Berry"
+    },
+    {
+      "line": 77,
+      "text": "Wilson Clark m Space for peace m E. F. Schumacher a Stephanie Mills = Steve Durkee ="
+    },
+    {
+      "line": 78,
+      "text": "Extra energy"
+    },
+    {
+      "line": 80,
+      "text": "Steve Baer a The SF vote » Dennis Meadows « Hazel Henderson"
+    },
+    {
+      "line": 82,
+      "text": "Allure = Daughter = Carl Sagan « Rather"
+    },
+    {
+      "line": 84,
+      "text": "Paul and Anne Ehrlich a Pioneer = Down the road"
+    },
+    {
+      "line": 86,
+      "text": "William Irwin Thompson « The rest of it = George Wald = David Brower"
+    },
+    {
+      "line": 88,
+      "text": "Michael Phillips = Ant Farm « John Todd"
+    },
+    {
+      "line": 90,
+      "text": "Brother David Steindl-Rast = Info isn’t heavy m# Planet parenthood # Richard Brautigan ="
+    },
+    {
+      "line": 91,
+      "text": "Juvenile space"
+    }
+  ]
+}

@@ -1,0 +1,746 @@
+{
+  "title": "Whole Earth, Winter 2000",
+  "identifier": "wholeearthwinter00unse_1",
+  "year": 2000,
+  "season": "Winter",
+  "collection": "Whole Earth Magazine",
+  "collection_zh": "Whole Earth Magazine",
+  "pages": 103,
+  "url": "https://wholeearth.info/p/whole-earth-winter-2000",
+  "archive_url": "https://archive.org/details/wholeearthwinter00unse_1",
+  "pdf_url": "https://archive.org/download/wholeearthwinter00unse_1/wholeearthwinter00unse_1.pdf",
+  "cover_url": "https://archive.org/download/wholeearthwinter00unse_1/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthwinter00unse_1_djvu.txt",
+  "ocr_chars": 442984,
+  "significant_line_count": 10446,
+  "theme_counts": {
+    "software_computing": 124,
+    "tools_craft": 388,
+    "ecology_place": 236,
+    "learning_media": 373,
+    "community_politics": 255
+  },
+  "top_themes": [
+    "tools_craft",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 518,
+      "page": 4,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n5_w500.jpg"
+    },
+    {
+      "line": 766,
+      "page": 6,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n7_w500.jpg"
+    },
+    {
+      "line": 1062,
+      "page": 8,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n9_w500.jpg"
+    },
+    {
+      "line": 1286,
+      "page": 1,
+      "title": "O WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n2_w500.jpg"
+    },
+    {
+      "line": 2886,
+      "page": 20,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n21_w500.jpg"
+    },
+    {
+      "line": 3133,
+      "page": 22,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n23_w500.jpg"
+    },
+    {
+      "line": 4090,
+      "page": 28,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n29_w500.jpg"
+    },
+    {
+      "line": 4579,
+      "page": 32,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n33_w500.jpg"
+    },
+    {
+      "line": 7463,
+      "page": 46,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n47_w500.jpg"
+    },
+    {
+      "line": 9508,
+      "page": 58,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n59_w500.jpg"
+    },
+    {
+      "line": 9866,
+      "page": 60,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n61_w500.jpg"
+    },
+    {
+      "line": 10247,
+      "page": 62,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n63_w500.jpg"
+    },
+    {
+      "line": 10797,
+      "page": 66,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n67_w500.jpg"
+    },
+    {
+      "line": 11130,
+      "page": 68,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n69_w500.jpg"
+    },
+    {
+      "line": 13982,
+      "page": 86,
+      "title": "WINTER 2000",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_1/page/n87_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 518,
+      "text": "4 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 766,
+      "text": "6 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 1062,
+      "text": "8 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 1286,
+      "text": "1 O WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 2886,
+      "text": "20 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 3133,
+      "text": "22 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 4090,
+      "text": "28 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 4579,
+      "text": "32 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 7463,
+      "text": "46 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 9508,
+      "text": "58 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 9866,
+      "text": "60 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 10247,
+      "text": "62 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 10797,
+      "text": "66 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 11130,
+      "text": "68 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 13982,
+      "text": "86 WINTER 2000",
+      "score": 8
+    },
+    {
+      "line": 259,
+      "text": "SHELTER AND",
+      "score": 6
+    },
+    {
+      "line": 15375,
+      "text": "yar gator. CONTROLLED ENERGY CORPORATION",
+      "score": 6
+    },
+    {
+      "line": 539,
+      "text": "simple and maximize learning I was the major reviewer, fact-",
+      "score": 5
+    },
+    {
+      "line": 15260,
+      "text": "reviewed his salient text On Learning",
+      "score": 5
+    },
+    {
+      "line": 15351,
+      "text": "community using our Mary Dzieweczynski only uses energy when hot",
+      "score": 5
+    },
+    {
+      "line": 1,
+      "text": "GUEST EDITOR KEVIN KELLY’S MINI-CATALOG",
+      "score": 4
+    },
+    {
+      "line": 2,
+      "text": "MAYA LIN: THINKING WITH HER HANDS",
+      "score": 4
+    },
+    {
+      "line": 11,
+      "text": "TOOLS ARE",
+      "score": 4
+    },
+    {
+      "line": 12,
+      "text": "~ REVOLUTION",
+      "score": 4
+    },
+    {
+      "line": 18,
+      "text": "$6.95/$8.50 CDN",
+      "score": 4
+    },
+    {
+      "line": 21,
+      "text": "AL RRR QZ",
+      "score": 4
+    },
+    {
+      "line": 30,
+      "text": "(MAGAZINE OFTHE ©",
+      "score": 4
+    },
+    {
+      "line": 31,
+      "text": "“WHOLE EARTH TALOG",
+      "score": 4
+    },
+    {
+      "line": 120,
+      "text": "GUEST EDITOR:",
+      "score": 4
+    },
+    {
+      "line": 227,
+      "text": "| NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 266,
+      "text": "WINTER: 2000",
+      "score": 4
+    },
+    {
+      "line": 319,
+      "text": "TOOLS AND",
+      "score": 4
+    },
+    {
+      "line": 320,
+      "text": "TECHNOLOGY _",
+      "score": 4
+    },
+    {
+      "line": 408,
+      "text": "SUBSCRIPTIONS: In US $24;",
+      "score": 4
+    },
+    {
+      "line": 519,
+      "text": "WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 695,
+      "text": "WINTER 2000 5",
+      "score": 4
+    },
+    {
+      "line": 909,
+      "text": "WINTER 2000 Y/",
+      "score": 4
+    },
+    {
+      "line": 1053,
+      "text": "CC ---",
+      "score": 4
+    },
+    {
+      "line": 1235,
+      "text": "WINTER 2000 9",
+      "score": 4
+    },
+    {
+      "line": 1239,
+      "text": "THE ROSETTA DISK",
+      "score": 4
+    },
+    {
+      "line": 1245,
+      "text": "Pay IT FORWARD",
+      "score": 4
+    },
+    {
+      "line": 1505,
+      "text": "WINTER 2000 1 1",
+      "score": 4
+    },
+    {
+      "line": 1590,
+      "text": "1 2 WINTER 2000",
+      "score": 4
+    },
+    {
+      "line": 1971,
+      "text": "WINTER 2000",
+      "score": 4
+    },
+    {
+      "line": 2056,
+      "text": "INDIAN OCEAN",
+      "score": 4
+    },
+    {
+      "line": 2059,
+      "text": "1 4 WINTER 2000",
+      "score": 4
+    },
+    {
+      "line": 2247,
+      "text": "VHS, $29.95",
+      "score": 4
+    },
+    {
+      "line": 2248,
+      "text": "DVD, $44.95",
+      "score": 4
+    },
+    {
+      "line": 2378,
+      "text": "j.§. HOLLIDAY",
+      "score": 4
+    },
+    {
+      "line": 2476,
+      "text": "1 6 WINTER 2000",
+      "score": 4
+    },
+    {
+      "line": 2507,
+      "text": "NSG # 602011",
+      "score": 4
+    },
+    {
+      "line": 2554,
+      "text": "BINS SEE SBIR",
+      "score": 4
+    },
+    {
+      "line": 2560,
+      "text": "FTAOQGEV INO TILEY",
+      "score": 4
+    },
+    {
+      "line": 2566,
+      "text": "WINTER 2000 1 W/",
+      "score": 4
+    },
+    {
+      "line": 2610,
+      "text": "1 8 WINTER 2000",
+      "score": 4
+    },
+    {
+      "line": 2642,
+      "text": ": 1a EES! P4",
+      "score": 4
+    },
+    {
+      "line": 2651,
+      "text": "Se . RS",
+      "score": 4
+    },
+    {
+      "line": 2692,
+      "text": "LIBERATING",
+      "score": 4
+    },
+    {
+      "line": 2793,
+      "text": "WINTER 2000 1 9",
+      "score": 4
+    },
+    {
+      "line": 3022,
+      "text": "-KkKK",
+      "score": 4
+    },
+    {
+      "line": 3064,
+      "text": "WINTER 2000 2 1",
+      "score": 4
+    },
+    {
+      "line": 3440,
+      "text": "a4 WINTER 2000",
+      "score": 4
+    },
+    {
+      "line": 3728,
+      "text": "WHOLE EARTH |",
+      "score": 4
+    },
+    {
+      "line": 3928,
+      "text": "1995, CD",
+      "score": 4
+    },
+    {
+      "line": 3938,
+      "text": "ee eT MUSEUM ANKD",
+      "score": 4
+    },
+    {
+      "line": 4421,
+      "text": "FMC NNISOM IMIETT",
+      "score": 4
+    },
+    {
+      "line": 4437,
+      "text": "CD, $16.97",
+      "score": 4
+    },
+    {
+      "line": 4838,
+      "text": "BPS RENEE te)",
+      "score": 4
+    },
+    {
+      "line": 5101,
+      "text": "I TEMPERATE |",
+      "score": 4
+    },
+    {
+      "line": 5102,
+      "text": "RAMBOOS",
+      "score": 4
+    },
+    {
+      "line": 5140,
+      "text": "PLATE IV =",
+      "score": 4
+    },
+    {
+      "line": 5215,
+      "text": "SOMITE OO MELEL SEER",
+      "score": 4
+    },
+    {
+      "line": 5859,
+      "text": "WHOLE EARTH 39",
+      "score": 4
+    },
+    {
+      "line": 6192,
+      "text": "THE FORMAL-REGISTER STORY STRUCTURE STARTS AT THE",
+      "score": 4
+    },
+    {
+      "line": 6193,
+      "text": "BEGINNING OF THE STORY AND GOES TO THE END IN A",
+      "score": 4
+    },
+    {
+      "line": 6194,
+      "text": "CHRONOLOGICAL OR ACCEPTED NARRATIVE PATTERN. THE",
+      "score": 4
+    },
+    {
+      "line": 6195,
+      "text": "MOST IMPORTANT PART OF THE STORY IS THE PLOT.",
+      "score": 4
+    },
+    {
+      "line": 6207,
+      "text": "THE CASUAL-REGISTER STORY STRUCTURE BEGINS WITH THE",
+      "score": 4
+    },
+    {
+      "line": 6208,
+      "text": "END OF THE STORY FIRST OR THE PART WITH THE GREATEST",
+      "score": 4
+    },
+    {
+      "line": 6209,
+      "text": "EMOTIONAL INTENSITY. THE STORY IS TOLD IN VIGNETTES,",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 11,
+      "term": "tools",
+      "snippet": "mols, Ideas, and Practices Access to Winter 2000 TOOLS ARE ~ REVOLUTION eyo | FR say $6.95/$8.50 CDN"
+    },
+    {
+      "line": 39,
+      "term": "tools",
+      "snippet": ": Nine mal : se ‘ ; ; af Ceremonies Are Tools Ceremonies are the meta-tools for reaffirming com- . munity They combine ay life’s tools into a grand - echite Biber danc fear ae and: wiit their turn. OSes our ©"
+    },
+    {
+      "line": 40,
+      "term": "tools",
+      "snippet": ": se ‘ ; ; af Ceremonies Are Tools Ceremonies are the meta-tools for reaffirming com- . munity They combine ay life’s tools into a grand - echite Biber danc fear ae and: wiit their turn. OSes our © gelloles of “best book, e ee Capua pape @"
+    },
+    {
+      "line": 41,
+      "term": "tools",
+      "snippet": "Ceremonies Are Tools Ceremonies are the meta-tools for reaffirming com- . munity They combine ay life’s tools into a grand - echite Biber danc fear ae and: wiit their turn. OSes our © gelloles of “best book, e ee Capua pape @ Discover"
+    },
+    {
+      "line": 59,
+      "term": "learning",
+      "snippet": "revitalizing ec ucation ANY (ins WAP ~~ arents and educators are Creating Learning Communities exploring new ways to hirty authors nourish young people’s dp and activists in creativity, compassion, and critical progressive"
+    },
+    {
+      "line": 71,
+      "term": "community",
+      "snippet": "mechanized by rigid standardsand sustainable commu- high stakes testing, these demo- nity development cratic, community-based models describe successful offer vital alternatives. Doe ae eons learning resource centers. This Paths of Learning unique volume is packed with stirring obser-"
+    },
+    {
+      "line": 75,
+      "term": "learning",
+      "snippet": "cratic, community-based models describe successful offer vital alternatives. Doe ae eons learning resource centers. This Paths of Learning unique volume is packed with stirring obser- vations on the possibilities of education, practical suggestions and guides to resources."
+    },
+    {
+      "line": 78,
+      "term": "learning",
+      "snippet": "offer vital alternatives. Doe ae eons learning resource centers. This Paths of Learning unique volume is packed with stirring obser- vations on the possibilities of education, practical suggestions and guides to resources. nly one maga-"
+    },
+    {
+      "line": 95,
+      "term": "learning",
+      "snippet": "on diverse non-trad- other inspiring works, calls this “a wonderful, itional approaches to fe | extremely useful book illustrating how cre- teaching andlearn- £7, Seam ative partnership-oriented learning commu- ing. Paths of Learn- ~~<«@ nities are springing up all over the world.” Boar ae a Whial goes | Published July, 2000 - 378 pages - $21.95 on in holistic and progressive ante"
+    },
+    {
+      "line": 106,
+      "term": "learning",
+      "snippet": "there is a growing popular movement Educational Renewal opposed to standardized testing, andmuch PO. Box 328, Brandon, VI 05733 more. Paths of Learning also features (800) 639-4122 insightful interviews with educational innovators, book reviews, and a resource directory. Send for a free sample issue."
+    },
+    {
+      "line": 109,
+      "term": "interview",
+      "snippet": "opposed to standardized testing, andmuch PO. Box 328, Brandon, VI 05733 more. Paths of Learning also features (800) 639-4122 insightful interviews with educational innovators, book reviews, and a resource directory. Send for a free sample issue. visit www. PathsOfLearning.net, a free"
+    },
+    {
+      "line": 114,
+      "term": "learning",
+      "snippet": "innovators, book reviews, and a resource directory. Send for a free sample issue. visit www. PathsOfLearning.net, a free online database and guide to our publications, including the new book series Foundations of Quarterly - $19.95/yr. Holistic Education."
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "GUEST EDITOR KEVIN KELLY’S MINI-CATALOG"
+    },
+    {
+      "line": 2,
+      "text": "MAYA LIN: THINKING WITH HER HANDS"
+    },
+    {
+      "line": 5,
+      "text": "mols, Ideas, and Practices"
+    },
+    {
+      "line": 8,
+      "text": "Access to Winter 2000"
+    },
+    {
+      "line": 11,
+      "text": "TOOLS ARE"
+    },
+    {
+      "line": 12,
+      "text": "~ REVOLUTION"
+    },
+    {
+      "line": 15,
+      "text": "eyo | FR say"
+    },
+    {
+      "line": 18,
+      "text": "$6.95/$8.50 CDN"
+    },
+    {
+      "line": 21,
+      "text": "AL RRR QZ"
+    },
+    {
+      "line": 27,
+      "text": "74851\"64582ll ll,"
+    },
+    {
+      "line": 30,
+      "text": "(MAGAZINE OFTHE ©"
+    },
+    {
+      "line": 31,
+      "text": "“WHOLE EARTH TALOG"
+    },
+    {
+      "line": 34,
+      "text": "# ee oe"
+    },
+    {
+      "line": 35,
+      "text": ": Nine mal"
+    },
+    {
+      "line": 38,
+      "text": ": se ‘ ; ; af"
+    },
+    {
+      "line": 39,
+      "text": "Ceremonies Are Tools"
+    },
+    {
+      "line": 40,
+      "text": "Ceremonies are the meta-tools for reaffirming com-"
+    },
+    {
+      "line": 41,
+      "text": ". munity They combine ay life’s tools into a grand -"
+    },
+    {
+      "line": 44,
+      "text": "echite Biber danc fear ae and: wiit their turn. OSes our ©"
+    },
+    {
+      "line": 47,
+      "text": "gelloles of “best book, e ee Capua pape @"
+    },
+    {
+      "line": 50,
+      "text": "Discover"
+    },
+    {
+      "line": 51,
+      "text": "the grassroots"
+    },
+    {
+      "line": 52,
+      "text": "movements that are"
+    },
+    {
+      "line": 53,
+      "text": "revitalizing ec ucation"
+    },
+    {
+      "line": 56,
+      "text": "ANY (ins WAP ~~"
+    },
+    {
+      "line": 59,
+      "text": "arents and educators are Creating Learning Communities"
+    },
+    {
+      "line": 60,
+      "text": "exploring new ways to hirty authors"
+    },
+    {
+      "line": 61,
+      "text": "nourish young people’s dp and activists in"
+    },
+    {
+      "line": 63,
+      "text": "creativity, compassion, and critical progressive"
+    },
+    {
+      "line": 66,
+      "text": "intelligence. With our schools being Sree at"
+    },
+    {
+      "line": 69,
+      "text": "mechanized by rigid standardsand sustainable commu-"
+    },
+    {
+      "line": 70,
+      "text": "high stakes testing, these demo- nity development"
+    },
+    {
+      "line": 71,
+      "text": "cratic, community-based models describe successful"
+    },
+    {
+      "line": 74,
+      "text": "offer vital alternatives. Doe ae eons"
+    },
+    {
+      "line": 75,
+      "text": "learning resource centers. This"
+    },
+    {
+      "line": 78,
+      "text": "Paths of Learning unique volume is packed with stirring obser-"
+    },
+    {
+      "line": 79,
+      "text": "vations on the possibilities of education,"
+    },
+    {
+      "line": 80,
+      "text": "practical suggestions and guides to resources."
+    },
+    {
+      "line": 83,
+      "text": "nly one maga-"
+    },
+    {
+      "line": 84,
+      "text": "zine gives you"
+    }
+  ]
+}

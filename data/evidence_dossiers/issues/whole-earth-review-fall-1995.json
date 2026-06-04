@@ -1,0 +1,698 @@
+{
+  "title": "Whole Earth Review, Fall 1995",
+  "identifier": "wholeearthreview00unse_42",
+  "year": 1995,
+  "season": "Fall",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 133,
+  "url": "https://wholeearth.info/p/whole-earth-review-fall-1995",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_42",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_42/wholeearthreview00unse_42.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_42/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthreview00unse_42_djvu.txt",
+  "ocr_chars": 518011,
+  "significant_line_count": 13306,
+  "theme_counts": {
+    "software_computing": 80,
+    "tools_craft": 236,
+    "ecology_place": 584,
+    "learning_media": 327,
+    "community_politics": 523
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 3561,
+      "page": 3,
+      "title": "WHOLE EARTH REVIEW FALL 1995",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_42/page/n4_w500.jpg"
+    },
+    {
+      "line": 4774,
+      "page": 432,
+      "title": "WHOLE EARTH REVIEW FALL 1995",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_42/page/n433_w500.jpg"
+    },
+    {
+      "line": 5647,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSA'",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_42/page/n28_w500.jpg"
+    },
+    {
+      "line": 5732,
+      "page": 1,
+      "title": "KEPT TELLING YOU IT",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_42/page/n2_w500.jpg"
+    },
+    {
+      "line": 6074,
+      "page": 7,
+      "title": "I-70",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_42/page/n8_w500.jpg"
+    },
+    {
+      "line": 6458,
+      "page": 56,
+      "title": "WHOLE EARTH REVIEW FALL 1995",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_42/page/n57_w500.jpg"
+    },
+    {
+      "line": 9067,
+      "page": 260,
+      "title": "WHOLE EARTH REVIEW FALL 1995",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_42/page/n261_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 3561,
+      "text": "3 WHOLE EARTH REVIEW FALL 1995",
+      "score": 10
+    },
+    {
+      "line": 4774,
+      "text": "432 WHOLE EARTH REVIEW FALL 1995",
+      "score": 10
+    },
+    {
+      "line": 6458,
+      "text": "56 WHOLE EARTH REVIEW FALL 1995",
+      "score": 10
+    },
+    {
+      "line": 9067,
+      "text": "260 WHOLE EARTH REVIEW FALL 1995",
+      "score": 10
+    },
+    {
+      "line": 5647,
+      "text": "27 GATE FIVE ROAD SAUSA'",
+      "score": 8
+    },
+    {
+      "line": 5732,
+      "text": "1 KEPT TELLING YOU IT",
+      "score": 8
+    },
+    {
+      "line": 6074,
+      "text": "7 I-70",
+      "score": 8
+    },
+    {
+      "line": 179,
+      "text": "WHOLE EARTH REVIEW NUMBER 87",
+      "score": 6
+    },
+    {
+      "line": 546,
+      "text": "aa WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 667,
+      "text": "WHOLE EARTH REVIEW FALL 1995 58",
+      "score": 6
+    },
+    {
+      "line": 740,
+      "text": "WHOLE EARTH REVIEW FALL 199",
+      "score": 6
+    },
+    {
+      "line": 1005,
+      "text": "WHOLE EARTH REVIEW FALL 1995 ye)",
+      "score": 6
+    },
+    {
+      "line": 1170,
+      "text": "WHOLE EARTH REVIEW FALL 1995 98",
+      "score": 6
+    },
+    {
+      "line": 1244,
+      "text": "WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 1516,
+      "text": "a4)2 WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 2226,
+      "text": "WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 2463,
+      "text": "aq) WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 2565,
+      "text": "WHOLE EARTH REVIEW FALL 1995 J Q%",
+      "score": 6
+    },
+    {
+      "line": 3093,
+      "text": "WHOLE EARTH REVIEW FALL 1995 238",
+      "score": 6
+    },
+    {
+      "line": 3264,
+      "text": "Se WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 4267,
+      "text": "£30 HOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 4654,
+      "text": "WHOLE EARTH REVIEW FALL 1995 3 e",
+      "score": 6
+    },
+    {
+      "line": 4778,
+      "text": "“LEARNING",
+      "score": 6
+    },
+    {
+      "line": 4825,
+      "text": "WHOLE EARTH REVIEW FALL 1995 339",
+      "score": 6
+    },
+    {
+      "line": 4860,
+      "text": "ag WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 5107,
+      "text": "£36 WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 5748,
+      "text": "WHOLE EARTH REVIEW FALL 1995 : -",
+      "score": 6
+    },
+    {
+      "line": 6335,
+      "text": "WHOLE EARTH REVIEW FALL 1995 43°",
+      "score": 6
+    },
+    {
+      "line": 6348,
+      "text": "2 44 WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 6426,
+      "text": "WHOLE EARTH REVIEW FALL 1995 454",
+      "score": 6
+    },
+    {
+      "line": 7134,
+      "text": "2450 WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 7377,
+      "text": "WHOLE EARTH REVIEW FALL 1995 5 eS",
+      "score": 6
+    },
+    {
+      "line": 7486,
+      "text": "a WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 8006,
+      "text": "ee WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 8162,
+      "text": "WHOLE EARTH REVIEW FALL 1995 558",
+      "score": 6
+    },
+    {
+      "line": 8364,
+      "text": "PeLt 4 EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 8562,
+      "text": "WHOLE EARTH REVIEW FALL 1995 579",
+      "score": 6
+    },
+    {
+      "line": 8678,
+      "text": "as WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 9948,
+      "text": "WHOLE EARTH REVIEW FALL 1995 65:",
+      "score": 6
+    },
+    {
+      "line": 10130,
+      "text": "5566 WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 10313,
+      "text": "WHOLE EARTH REVIEW FALL 1995 678",
+      "score": 6
+    },
+    {
+      "line": 10572,
+      "text": "a, WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 10833,
+      "text": "4990 WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 10840,
+      "text": "AN INTERVIEW WITH",
+      "score": 6
+    },
+    {
+      "line": 11082,
+      "text": "ae WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 11371,
+      "text": "WHOLE EARTH REVIEW FALL 1995 739",
+      "score": 6
+    },
+    {
+      "line": 11457,
+      "text": "4994 WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 12421,
+      "text": "WHOLE EARTH REVIEW FALL 1995 798",
+      "score": 6
+    },
+    {
+      "line": 12498,
+      "text": "Se WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 13286,
+      "text": "oy WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 13977,
+      "text": "WHOLE EARTH REVIEW FALL 1995 898",
+      "score": 6
+    },
+    {
+      "line": 14310,
+      "text": "WHOLE EARTH REVIEW FALL 1995 9 eS",
+      "score": 6
+    },
+    {
+      "line": 14822,
+      "text": "WHOLE EARTH REVIEW FALL 1995 954",
+      "score": 6
+    },
+    {
+      "line": 14882,
+      "text": "£96 WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 14954,
+      "text": "/HOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 15012,
+      "text": "WHOLE EARTH REVIEW!",
+      "score": 6
+    },
+    {
+      "line": 15203,
+      "text": "a9 WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 15634,
+      "text": "COMMERCIAL ENERGY CONSUMPTION",
+      "score": 6
+    },
+    {
+      "line": 15662,
+      "text": "E00 WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 16287,
+      "text": "WHOLE EARTH REVIEW FALL 1995 ] 038",
+      "score": 6
+    },
+    {
+      "line": 16851,
+      "text": "£908 WHOLE EARTH REVIEW 5",
+      "score": 6
+    },
+    {
+      "line": 18347,
+      "text": "aa) | WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 18422,
+      "text": "WHOLE EARTH REVIEW FALL 1995 i j 7",
+      "score": 6
+    },
+    {
+      "line": 18492,
+      "text": "ad i8 WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 19059,
+      "text": "44922 WHOLE EARTH REVIEW FALL 1995",
+      "score": 6
+    },
+    {
+      "line": 19952,
+      "text": "WHOLE EARTH REVIEW FALL | i 25:",
+      "score": 6
+    },
+    {
+      "line": 20316,
+      "text": "49)28 WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 15,
+      "text": "PHOTOGRAPHY BY ROSAMOND WOLFF PURCELL",
+      "score": 4
+    },
+    {
+      "line": 19,
+      "text": "NUMBER 87",
+      "score": 4
+    },
+    {
+      "line": 22,
+      "text": "ECOLOGICAL DESIGN",
+      "score": 4
+    },
+    {
+      "line": 35,
+      "text": "COVERS.",
+      "score": 4
+    },
+    {
+      "line": 44,
+      "text": "94110. 800/848-4277. -RK",
+      "score": 4
+    },
+    {
+      "line": 82,
+      "text": "FALL 1995",
+      "score": 4
+    },
+    {
+      "line": 182,
+      "text": "SEPTEMBER 21, 1995",
+      "score": 4
+    },
+    {
+      "line": 185,
+      "text": "ISSN 0749-5056; USPS 077-150.",
+      "score": 4
+    },
+    {
+      "line": 198,
+      "text": "PRINTED IN USA",
+      "score": 4
+    },
+    {
+      "line": 362,
+      "text": "GATE FIVE ROAD",
+      "score": 4
+    },
+    {
+      "line": 374,
+      "text": "SUSTAINABILITY",
+      "score": 4
+    },
+    {
+      "line": 547,
+      "text": "ag 27 GATE FIVE ROAD SAUSALITO, CA 94965 415/332-1716",
+      "score": 4
+    },
+    {
+      "line": 668,
+      "text": "217 GATE FIVE ROAD SAUSALITO, CA 94965 415/332-1716 Deo",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 117,
+      "term": "interview",
+      "snippet": "22 To Stitch the World Back Together Again David Kupfer interviews Hazel Henderson 24 Creating Ecological Economics With"
+    },
+    {
+      "line": 132,
+      "term": "learning",
+      "snippet": "Neighborhood Olaf Egeberg 33 On Learning George Leonard 34 Luck Disguised as Ordinary Life"
+    },
+    {
+      "line": 174,
+      "term": "community",
+      "snippet": "* Living With Prozac Towards a Global Village * Rebuilding Community in America * America Calling Down the Asphalt Path WHOLE EARTH REVIEW NUMBER 87"
+    },
+    {
+      "line": 240,
+      "term": "interview",
+      "snippet": "70 Land and Life, Just Enough An Interview with Nanao Sakaki Peter Warshall 84 Lord of the Highway"
+    },
+    {
+      "line": 580,
+      "term": "energy",
+      "snippet": "is going to be a new auto mall anyway, why not work with us to make it energy-efficient? We'll put in solar panels, lots of trees, and a kiddie playground with a big plastic whale. It will be an"
+    },
+    {
+      "line": 681,
+      "term": "ecology",
+      "snippet": "not because of unbendable envi- ronmental ethics (at the time, the words ecology and environment were seldom heard), but because Thad found that working on the schlocky “Coop” nine-to-five left"
+    },
+    {
+      "line": 690,
+      "term": "energy",
+      "snippet": "Thad found that designing junk required the same imagination, energy, and focus as my own exploratory design experiments. Moreover, as a “Coop” designer I wouldn’t be able to retain the"
+    },
+    {
+      "line": 1040,
+      "term": "energy",
+      "snippet": "the Antarctic ice at one thousand kilometers. Nature’s processes are inherently scale linking, for they inti- mately depend on the flow of energy and materials across scales. Waste oxygen from blue-green algae is absorbed by a blue whale, whose waste carbon dioxide feeds an oak tree. Global cycles link organ-"
+    },
+    {
+      "line": 1061,
+      "term": "energy",
+      "snippet": "interacting with everything else.” Nature is infused with the dynamical interpenetration fa of the vast and minute. Matter and energy continually flow across scales, the small informing the large, and the large informing the small."
+    },
+    {
+      "line": 1070,
+      "term": "tools",
+      "snippet": "a single scale, refracted through a single discipline’s language, metaphors, and tools. In practice, this kind of perception is insufficient to capture the underlying phe- nomena. Suppose we were to determine the characteristic scale of acid rain. Is it"
+    },
+    {
+      "line": 1108,
+      "term": "energy",
+      "snippet": "some validity and some institutional support. Legions of experts study, respectively, pollution control for power plants, energy-efficient homes, the ecology of lakes undergoing acidification, the atmospheric dynamics of pollution, the international legal implications of acid rain, and the chemistry of"
+    },
+    {
+      "line": 1109,
+      "term": "ecology",
+      "snippet": "Legions of experts study, respectively, pollution control for power plants, energy-efficient homes, the ecology of lakes undergoing acidification, the atmospheric dynamics of pollution, the international legal implications of acid rain, and the chemistry of coal combustion. Acid rain involves the flow of con-"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "The Netherlands’ Radical, Practical Green Plan"
+    },
+    {
+      "line": 4,
+      "text": "Nature’s Scale-Linking Geometry"
+    },
+    {
+      "line": 5,
+      "text": "Economics for Humans"
+    },
+    {
+      "line": 6,
+      "text": "Slinging Hash With Carlos Castaneda"
+    },
+    {
+      "line": 9,
+      "text": "European moles"
+    },
+    {
+      "line": 12,
+      "text": "Selection of deformed eggs."
+    },
+    {
+      "line": 15,
+      "text": "PHOTOGRAPHY BY ROSAMOND WOLFF PURCELL"
+    },
+    {
+      "line": 16,
+      "text": "from Finders Keepers, reviewed on p. 115."
+    },
+    {
+      "line": 19,
+      "text": "NUMBER 87"
+    },
+    {
+      "line": 22,
+      "text": "ECOLOGICAL DESIGN"
+    },
+    {
+      "line": 25,
+      "text": "4 Making Things Right"
+    },
+    {
+      "line": 26,
+      "text": "J. Baldwin"
+    },
+    {
+      "line": 29,
+      "text": "8 Ecological Design:"
+    },
+    {
+      "line": 30,
+      "text": "Nature’s Geometry"
+    },
+    {
+      "line": 31,
+      "text": "Sim Van Der Ryn"
+    },
+    {
+      "line": 32,
+      "text": "and Stuart Cowan"
+    },
+    {
+      "line": 35,
+      "text": "COVERS."
+    },
+    {
+      "line": 38,
+      "text": "The cover image, \"Bringing the War"
+    },
+    {
+      "line": 39,
+      "text": "Home,\" is by Winston Smith. Check out"
+    },
+    {
+      "line": 40,
+      "text": "his new book, Act Like Nothing's Wrong, a"
+    },
+    {
+      "line": 41,
+      "text": "96-page full-color collection of his collage"
+    },
+    {
+      "line": 42,
+      "text": "work. It's $27.45 postpaid from Last Gasp,"
+    },
+    {
+      "line": 43,
+      "text": "777 Florida Street, San Francisco, CA"
+    },
+    {
+      "line": 44,
+      "text": "94110. 800/848-4277. -RK"
+    },
+    {
+      "line": 47,
+      "text": "WER designer/photographer Winslow"
+    },
+    {
+      "line": 48,
+      "text": "Colwell got the back-cover shot of a"
+    },
+    {
+      "line": 49,
+      "text": "rare 360° sunbow (created by refraction"
+    },
+    {
+      "line": 50,
+      "text": "through high-atmosphere ice crystals)."
+    },
+    {
+      "line": 51,
+      "text": "Oddly, Winslow had just downloaded"
+    },
+    {
+      "line": 52,
+      "text": "information from the World Wide Web"
+    },
+    {
+      "line": 53,
+      "text": "about the Sunbow 5 Walk for the Earth."
+    },
+    {
+      "line": 56,
+      "text": "The people making this journey"
+    },
+    {
+      "line": 58,
+      "text": "represent all of humanity’s colors and"
+    },
+    {
+      "line": 59,
+      "text": "spiritual traditions. The walk began in June"
+    },
+    {
+      "line": 60,
+      "text": "in Massachusetts and will end in February"
+    },
+    {
+      "line": 61,
+      "text": "in Santa Barbara, California. All people"
+    },
+    {
+      "line": 62,
+      "text": "are welcome to join in for however"
+    },
+    {
+      "line": 64,
+      "text": "long or briefly they wish."
+    },
+    {
+      "line": 67,
+      "text": "For information and updates, contact:"
+    },
+    {
+      "line": 68,
+      "text": "Steven McFadden, Coordinator, Sunbow"
+    }
+  ]
+}

@@ -1,0 +1,710 @@
+{
+  "title": "Whole Earth Catalog 30th Anniversary, Winter 1998",
+  "identifier": "wholeearthcatalo00unse",
+  "year": 1998,
+  "season": "Winter",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 108,
+  "url": "https://wholeearth.info/p/whole-earth-catalog-30th-anniversary-winter-1998",
+  "archive_url": "https://archive.org/details/wholeearthcatalo00unse",
+  "pdf_url": "https://archive.org/download/wholeearthcatalo00unse/wholeearthcatalo00unse.pdf",
+  "cover_url": "https://archive.org/download/wholeearthcatalo00unse/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthcatalo00unse_djvu.txt",
+  "ocr_chars": 719692,
+  "significant_line_count": 15298,
+  "theme_counts": {
+    "software_computing": 222,
+    "tools_craft": 489,
+    "ecology_place": 608,
+    "learning_media": 642,
+    "community_politics": 470
+  },
+  "top_themes": [
+    "learning_media",
+    "ecology_place",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 5874,
+      "page": 2,
+      "title": "SCIENTIFIC",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse/page/n3_w500.jpg"
+    },
+    {
+      "line": 9689,
+      "page": 15,
+      "title": "UF TRUER",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse/page/n16_w500.jpg"
+    },
+    {
+      "line": 17259,
+      "page": 6,
+      "title": "LEARNING",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse/page/n7_w500.jpg"
+    },
+    {
+      "line": 17268,
+      "page": 12,
+      "title": "PLANTS",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse/page/n13_w500.jpg"
+    },
+    {
+      "line": 17283,
+      "page": 16,
+      "title": "PATHS",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse/page/n17_w500.jpg"
+    },
+    {
+      "line": 17288,
+      "page": 20,
+      "title": "MAKING STUFF",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse/page/n21_w500.jpg"
+    },
+    {
+      "line": 17291,
+      "page": 22,
+      "title": "WILOERNESS & CIVILIZATION",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse/page/n23_w500.jpg"
+    },
+    {
+      "line": 17305,
+      "page": 34,
+      "title": "BEAUTY",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse/page/n35_w500.jpg"
+    },
+    {
+      "line": 17312,
+      "page": 36,
+      "title": "BACKMATTER",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse/page/n37_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 17259,
+      "text": "6 LEARNING",
+      "score": 10
+    },
+    {
+      "line": 5874,
+      "text": "2 SCIENTIFIC",
+      "score": 8
+    },
+    {
+      "line": 9689,
+      "text": "15 UF TRUER",
+      "score": 8
+    },
+    {
+      "line": 17230,
+      "text": "2 DANCING PATTERNS",
+      "score": 8
+    },
+    {
+      "line": 17268,
+      "text": "12 PLANTS",
+      "score": 8
+    },
+    {
+      "line": 17280,
+      "text": "15 ANIMALS",
+      "score": 8
+    },
+    {
+      "line": 17283,
+      "text": "16 PATHS",
+      "score": 8
+    },
+    {
+      "line": 17288,
+      "text": "20 MAKING STUFF",
+      "score": 8
+    },
+    {
+      "line": 17291,
+      "text": "22 WILOERNESS & CIVILIZATION",
+      "score": 8
+    },
+    {
+      "line": 17305,
+      "text": "34 BEAUTY",
+      "score": 8
+    },
+    {
+      "line": 17312,
+      "text": "36 BACKMATTER",
+      "score": 8
+    },
+    {
+      "line": 8203,
+      "text": "X SUPRA-SELF-METAPROGRAM",
+      "score": 6
+    },
+    {
+      "line": 8204,
+      "text": "IX SELF-METAPROGRAM",
+      "score": 6
+    },
+    {
+      "line": 8205,
+      "text": "vil METAPROGRAMS",
+      "score": 6
+    },
+    {
+      "line": 8206,
+      "text": "Vil METAPROGRAM STORAGE",
+      "score": 6
+    },
+    {
+      "line": 8207,
+      "text": "Vi PROGRAMS",
+      "score": 6
+    },
+    {
+      "line": 8208,
+      "text": "Vv PROGRAM STORAGE",
+      "score": 6
+    },
+    {
+      "line": 13672,
+      "text": "{A BETTER INFORMED REVIEW OF THIS SUBJECT IS NEEDED]",
+      "score": 6
+    },
+    {
+      "line": 23643,
+      "text": "ENERGY LESSONS LEARNED ANO TO BE LEARNED:",
+      "score": 6
+    },
+    {
+      "line": 11699,
+      "text": "niques, community techniques, secure communications, and",
+      "score": 5
+    },
+    {
+      "line": 7,
+      "text": "‘RICK FIELDS",
+      "score": 4
+    },
+    {
+      "line": 12,
+      "text": "CELEBRATION",
+      "score": 4
+    },
+    {
+      "line": 15,
+      "text": "WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 28,
+      "text": "STEWART BRAND ce ;",
+      "score": 4
+    },
+    {
+      "line": 30,
+      "text": "JANE JACOBS .",
+      "score": 4
+    },
+    {
+      "line": 31,
+      "text": "ANDREW WEIL, MD",
+      "score": 4
+    },
+    {
+      "line": 32,
+      "text": "JARON LANIER",
+      "score": 4
+    },
+    {
+      "line": 34,
+      "text": "LYNN MARGULIS",
+      "score": 4
+    },
+    {
+      "line": 35,
+      "text": "GARY SNYDER",
+      "score": 4
+    },
+    {
+      "line": 36,
+      "text": "ORVILLE SCHELL",
+      "score": 4
+    },
+    {
+      "line": 37,
+      "text": "Miss MANNERS",
+      "score": 4
+    },
+    {
+      "line": 38,
+      "text": "BRIAN ENO",
+      "score": 4
+    },
+    {
+      "line": 40,
+      "text": "KEVIN KELLY",
+      "score": 4
+    },
+    {
+      "line": 41,
+      "text": "DONELLA MEADOWS",
+      "score": 4
+    },
+    {
+      "line": 42,
+      "text": "PETER COYOTE",
+      "score": 4
+    },
+    {
+      "line": 44,
+      "text": "WES JACKSON",
+      "score": 4
+    },
+    {
+      "line": 45,
+      "text": "TERRY TEMPEST WILLIAMS",
+      "score": 4
+    },
+    {
+      "line": 46,
+      "text": "VINE DELORIA, JR.",
+      "score": 4
+    },
+    {
+      "line": 49,
+      "text": "MARY CATHERINE BATESON",
+      "score": 4
+    },
+    {
+      "line": 52,
+      "text": "WENDELL BERRY",
+      "score": 4
+    },
+    {
+      "line": 53,
+      "text": "ANNE WALDMAN",
+      "score": 4
+    },
+    {
+      "line": 73,
+      "text": "PROLOG: ANNIVERSARIES TO COME _.",
+      "score": 4
+    },
+    {
+      "line": 76,
+      "text": "by PETER WARSHALL",
+      "score": 4
+    },
+    {
+      "line": 163,
+      "text": "CHIP WITH EARTH © RON BROWN PHOTOGRAPHICS, HEAT FLOW ON EARTH’S SURFACE.",
+      "score": 4
+    },
+    {
+      "line": 170,
+      "text": "POINT. PRINTED IN USA.",
+      "score": 4
+    },
+    {
+      "line": 272,
+      "text": "WE ARE AS GOdS by STEWART BRAND . .NEXT PACE",
+      "score": 4
+    },
+    {
+      "line": 275,
+      "text": "1968 WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 279,
+      "text": "1998 WINTER WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 287,
+      "text": "$39 (US FUNDS). FOR",
+      "score": 4
+    },
+    {
+      "line": 291,
+      "text": "WE ARE AS CGOOS",
+      "score": 4
+    },
+    {
+      "line": 294,
+      "text": "by STEWART BRAND, FOUNOER",
+      "score": 4
+    },
+    {
+      "line": 461,
+      "text": "WHOLE EARTH CATALOG 1968",
+      "score": 4
+    },
+    {
+      "line": 713,
+      "text": "WFF ‘N PROOF",
+      "score": 4
+    },
+    {
+      "line": 741,
+      "text": "PURPOSE",
+      "score": 4
+    },
+    {
+      "line": 754,
+      "text": "FUNCTION",
+      "score": 4
+    },
+    {
+      "line": 774,
+      "text": "USING THE 1968 CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1024,
+      "text": "ARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1107,
+      "text": "WH¢ - _ARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1287,
+      "text": "CLOSED ECOLOGICAL SYSTEM",
+      "score": 4
+    },
+    {
+      "line": 1290,
+      "text": "WATER AND AIR RECIRCULATION SYSTEM",
+      "score": 4
+    },
+    {
+      "line": 1294,
+      "text": "ACTIVATED CHAR-",
+      "score": 4
+    },
+    {
+      "line": 1295,
+      "text": "COAL FILTER",
+      "score": 4
+    },
+    {
+      "line": 1304,
+      "text": "CATALYTIC",
+      "score": 4
+    },
+    {
+      "line": 1307,
+      "text": "WATER RE-",
+      "score": 4
+    },
+    {
+      "line": 1308,
+      "text": "COVERY UNIT",
+      "score": 4
+    },
+    {
+      "line": 1311,
+      "text": "BURNER",
+      "score": 4
+    },
+    {
+      "line": 1329,
+      "text": "CARBON DIOXIDE",
+      "score": 4
+    },
+    {
+      "line": 1330,
+      "text": "CONCENTRATOR",
+      "score": 4
+    },
+    {
+      "line": 1333,
+      "text": "WATER ELECTRO-- CARBON DIOXIDE",
+      "score": 4
+    },
+    {
+      "line": 1334,
+      "text": "LYSIS UNIT REDUCTION UNIT",
+      "score": 4
+    },
+    {
+      "line": 1340,
+      "text": "METABOLIC REQUIREMENTS & RESULTANT WASTES IN POUNDS",
+      "score": 4
+    },
+    {
+      "line": 1341,
+      "text": "FOR A 160 1b. MAN",
+      "score": 4
+    },
+    {
+      "line": 1363,
+      "text": "10,000 BTU",
+      "score": 4
+    },
+    {
+      "line": 1366,
+      "text": "| TOTAL INPUT i t TOTAL OUTPUT i",
+      "score": 4
+    },
+    {
+      "line": 1407,
+      "text": "HUMAN DAILY METABOLIC TURNOVER",
+      "score": 4
+    },
+    {
+      "line": 1410,
+      "text": "INPUT = 100% OUTPUT =",
+      "score": 4
+    },
+    {
+      "line": 1453,
+      "text": "P¢ 09",
+      "score": 4
+    },
+    {
+      "line": 1553,
+      "text": "or ‘4'r “ARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1638,
+      "text": "COSMIC VIEW",
+      "score": 4
+    },
+    {
+      "line": 1641,
+      "text": "THE UNIVERSE IN 40 JUMPS",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 18,
+      "term": "tools",
+      "snippet": "CELEBRATION WHOLE EARTH CATALOG The access to tools Complete Whole Earth Catalog"
+    },
+    {
+      "line": 149,
+      "term": "learning",
+      "snippet": "Kahn. That’s a major reason why we’ve reprinted the real first edition here. The impact of first encounter (in mem- ory, at least) was a sigh of relief. Learning is not for grades. Mistakes are a fine part of learning. The doctor doesn’t always have to be the authority. You can help yourself heal. Sometimes it’s best to think not what your"
+    },
+    {
+      "line": 150,
+      "term": "learning",
+      "snippet": "first edition here. The impact of first encounter (in mem- ory, at least) was a sigh of relief. Learning is not for grades. Mistakes are a fine part of learning. The doctor doesn’t always have to be the authority. You can help yourself heal. Sometimes it’s best to think not what your philosophy is, but how what you think or feel fits into a"
+    },
+    {
+      "line": 155,
+      "term": "ecology",
+      "snippet": "philosophy is, but how what you think or feel fits into a bigger, more voluminous system: a shelter in its environ- ment, an ecology of mind, a new techno-tool in a INSIDE COVER: imaces OF THE EARTH. CENTER: SUN X-RAYED (ISAS/NASA). UPPER RIGHT: ATMOSPHERIC MOISTURE CONTENT OVER ATLANTIC (ESA). PLUGGED EARTH © MICHAEL AGLIOLO PHOTO NETWORK. M/DDLE: MAGNETIC FIELD. EARTH'S INTERIOR. MEDIEVAL EARTH MAP. OZONE HOLES ABOVE ANTARCTICA (NASA). TECTONIC PLATES. LOWER: R. CRUMB'S EARTH (WER NO. 79). NITRIC ACID IN ATMOSPHERE (NOAA)."
+    },
+    {
+      "line": 208,
+      "term": "tools",
+      "snippet": "Other media reported the news. Whole Earth scouted the fringes and reported mindful and manual experi- ments, books, and tools that might alter future large- scale history. The Gaia hypothesis, voluntary simplicity, virtual communities, negawatts, watershed restoration, hacking computer codes, etc. etc. People, anywhere,"
+    },
+    {
+      "line": 242,
+      "term": "ecology",
+      "snippet": "drunken world spinning out-of-control. And Whole Earth’s talents still seem robust and resilient (to use the new lingo of ecology) in navigating through contem- porary history. Experimental and fun; a scout for depth and fringes; intimate and pragmatic; soulful but not sen- timental; a sleuth of intelligent crafting; open to new"
+    },
+    {
+      "line": 246,
+      "term": "community",
+      "snippet": "and fringes; intimate and pragmatic; soulful but not sen- timental; a sleuth of intelligent crafting; open to new voices; and, thank you, a community of goodwill. Peter Warshall Current editor Whole Mars"
+    },
+    {
+      "line": 303,
+      "term": "software",
+      "snippet": "CoEvolution Quarterly as a supplement to the Catalog, originally with articles from the technical literature that he felt should have wider circulation. The Gaia Hypothesis was one such (see winter, 1998 issue, p. 4). Stewart co-founded the computer conferencing system known as the WELL and the annual Hacker's Conference. CoEv evolved into the Whole Earth Review when it combined with the short-lived Whole Earth Software Review. Even after Stewart left as editor (1985), his publication patterning and attitudes (e.g, only review good stuff, let the bad fade) guided the Catalogs and magazine. Though readers steadfastly refuse to allow Stewart his independence after seventeen years of editing Whole Earth (I'm always asked: “Is Stewart still editor?\"), he has been thor- oughly independent, writing The Media Lab: Inventing the Future at MIT (1987) and his well-regarded book, How Buildings Lear"
+    },
+    {
+      "line": 313,
+      "term": "community",
+      "snippet": "oughly independent, writing The Media Lab: Inventing the Future at MIT (1987) and his well-regarded book, How Buildings Learn (1994). He also co-founded and is managing director of the Global Business Network, a consulting firm specializing in scenarios for the future. That doesn’t mean that he isn't “family” or part of that indefinable presence called the Whole Earth commu- nity. Many of GBN's Network members overlap with Whole Earth writers/contributors. Stewart kindly showed up at the Marin Community Foundation to help us say: thirty years in Marin County is enough to be considered part of local cultural heritage and worthy of local philanthropic support. He's enthusiastic about getting Whole Earth's library out of containers and available to the public. He allows us to pirate book choices from his GBN selections. Stewart has just finished a new book on time and is co-founder of the L"
+    },
+    {
+      "line": 321,
+      "term": "tools",
+      "snippet": "so that it can cruise the Bay, and he keeps in shape with a veteran's group that treks and exercises near Mt. Tamalpais. He's definitely been my educational mentor, asking, like all great teachers, specific and directed questions that need attention but seem buried in the subconscious-until asked. While my talents reside in scouting nature, Stewart's genius is as a great scout of culture and history. His keen senses hunt down the most interesting experiments, ideas (and their spokespeople) and celebrations. | always check out the tools on his belt and his current mind-tools for building robust and resilient deeper structures. Along the way, his tool kits have changed America in ways from which it cannot go back. - Peter Warshall As unexpected and ungrammatical as a clap of thunder on a sunny day was"
+    },
+    {
+      "line": 424,
+      "term": "tools",
+      "snippet": "calling for grass-roots political (i.e referred) power, Whole Earth eschewed politics and pushed grass- roots direct power-tools and skills. At a time when New Age hippies were deploring the intellec- tual world of arid abstractions, Whole Earth pushed science, intellectual endeavor, and new"
+    },
+    {
+      "line": 464,
+      "term": "whole systems",
+      "snippet": "IBM Selectric “golf balls.” WHOLE EARTH CATALOG 1968 Understanding Whole Systems Buckminster Fuller Cosmic View Full Earth"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 4,
+      "text": "' Amory B. LovINS"
+    },
+    {
+      "line": 7,
+      "text": "‘RICK FIELDS"
+    },
+    {
+      "line": 10,
+      "text": "om - Whole Earth"
+    },
+    {
+      "line": 11,
+      "text": "NNIVERSARY > Winter 1998"
+    },
+    {
+      "line": 12,
+      "text": "CELEBRATION"
+    },
+    {
+      "line": 15,
+      "text": "WHOLE EARTH CATALOG"
+    },
+    {
+      "line": 18,
+      "text": "The access to tools"
+    },
+    {
+      "line": 19,
+      "text": "Complete"
+    },
+    {
+      "line": 23,
+      "text": "Whole Earth"
+    },
+    {
+      "line": 24,
+      "text": "Catalog"
+    },
+    {
+      "line": 27,
+      "text": "New writing by"
+    },
+    {
+      "line": 28,
+      "text": "STEWART BRAND ce ;"
+    },
+    {
+      "line": 29,
+      "text": "WALTER MOSLEY £ IF Wir nw 4 s oan ~ 4 \") oN Pe"
+    },
+    {
+      "line": 30,
+      "text": "JANE JACOBS ."
+    },
+    {
+      "line": 31,
+      "text": "ANDREW WEIL, MD"
+    },
+    {
+      "line": 32,
+      "text": "JARON LANIER"
+    },
+    {
+      "line": 34,
+      "text": "LYNN MARGULIS"
+    },
+    {
+      "line": 35,
+      "text": "GARY SNYDER"
+    },
+    {
+      "line": 36,
+      "text": "ORVILLE SCHELL"
+    },
+    {
+      "line": 37,
+      "text": "Miss MANNERS"
+    },
+    {
+      "line": 38,
+      "text": "BRIAN ENO"
+    },
+    {
+      "line": 40,
+      "text": "KEVIN KELLY"
+    },
+    {
+      "line": 41,
+      "text": "DONELLA MEADOWS"
+    },
+    {
+      "line": 42,
+      "text": "PETER COYOTE"
+    },
+    {
+      "line": 44,
+      "text": "WES JACKSON"
+    },
+    {
+      "line": 45,
+      "text": "TERRY TEMPEST WILLIAMS"
+    },
+    {
+      "line": 46,
+      "text": "VINE DELORIA, JR."
+    },
+    {
+      "line": 49,
+      "text": "MARY CATHERINE BATESON"
+    },
+    {
+      "line": 52,
+      "text": "WENDELL BERRY"
+    },
+    {
+      "line": 53,
+      "text": "ANNE WALDMAN"
+    },
+    {
+      "line": 56,
+      "text": "- Fall 1968"
+    },
+    {
+      "line": 63,
+      "text": "$8.00/$9.50 con"
+    },
+    {
+      "line": 66,
+      "text": "| 84 > “ih ae"
+    },
+    {
+      "line": 67,
+      "text": "Se ee a"
+    },
+    {
+      "line": 73,
+      "text": "PROLOG: ANNIVERSARIES TO COME _."
+    },
+    {
+      "line": 76,
+      "text": "by PETER WARSHALL"
+    },
+    {
+      "line": 79,
+      "text": "| sit at my editor’s window watching"
+    },
+    {
+      "line": 80,
+      "text": "deer eating fallen rosehips on the"
+    },
+    {
+      "line": 81,
+      "text": "disabled-access ramp to our"
+    },
+    {
+      "line": 82,
+      "text": "office. Last night, a homeless"
+    }
+  ]
+}

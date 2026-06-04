@@ -1,0 +1,800 @@
+{
+  "title": "Whole Earth Review, Fall 1990",
+  "identifier": "wholeearthreview00unse_23",
+  "year": 1990,
+  "season": "Fall",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 147,
+  "url": "https://wholeearth.info/p/whole-earth-review-fall-1990",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_23",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_23/wholeearthreview00unse_23.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_23/page/cover_w500.jpg",
+  "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthreview00unse_23_djvu.txt",
+  "ocr_chars": 661983,
+  "significant_line_count": 14728,
+  "theme_counts": {
+    "software_computing": 252,
+    "tools_craft": 412,
+    "ecology_place": 445,
+    "learning_media": 275,
+    "community_politics": 414
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 576,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO, CA 94965 3",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n28_w500.jpg"
+    },
+    {
+      "line": 891,
+      "page": 6,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n7_w500.jpg"
+    },
+    {
+      "line": 1165,
+      "page": 8,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n9_w500.jpg"
+    },
+    {
+      "line": 2687,
+      "page": 20,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n21_w500.jpg"
+    },
+    {
+      "line": 2931,
+      "page": 22,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n23_w500.jpg"
+    },
+    {
+      "line": 3178,
+      "page": 24,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n25_w500.jpg"
+    },
+    {
+      "line": 3658,
+      "page": 26,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n27_w500.jpg"
+    },
+    {
+      "line": 3879,
+      "page": 28,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n29_w500.jpg"
+    },
+    {
+      "line": 4209,
+      "page": 30,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n31_w500.jpg"
+    },
+    {
+      "line": 4463,
+      "page": 32,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n33_w500.jpg"
+    },
+    {
+      "line": 4835,
+      "page": 34,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n35_w500.jpg"
+    },
+    {
+      "line": 5196,
+      "page": 36,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n37_w500.jpg"
+    },
+    {
+      "line": 5511,
+      "page": 38,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n39_w500.jpg"
+    },
+    {
+      "line": 5642,
+      "page": 40,
+      "title": "WHOLE EARTH REVIEW FALL.1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n41_w500.jpg"
+    },
+    {
+      "line": 6286,
+      "page": 46,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n47_w500.jpg"
+    },
+    {
+      "line": 6595,
+      "page": 48,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n49_w500.jpg"
+    },
+    {
+      "line": 6874,
+      "page": 50,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n51_w500.jpg"
+    },
+    {
+      "line": 7195,
+      "page": 52,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n53_w500.jpg"
+    },
+    {
+      "line": 7472,
+      "page": 54,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n55_w500.jpg"
+    },
+    {
+      "line": 7778,
+      "page": 56,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n57_w500.jpg"
+    },
+    {
+      "line": 8006,
+      "page": 58,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n59_w500.jpg"
+    },
+    {
+      "line": 8372,
+      "page": 60,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n61_w500.jpg"
+    },
+    {
+      "line": 8731,
+      "page": 62,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n63_w500.jpg"
+    },
+    {
+      "line": 8975,
+      "page": 64,
+      "title": "WHOLE EARTH REVIEW FALL 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_23/page/n65_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 891,
+      "text": "6 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 1165,
+      "text": "8 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 2687,
+      "text": "20 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 2931,
+      "text": "22 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 3178,
+      "text": "24 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 3658,
+      "text": "26 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 3879,
+      "text": "28 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 4209,
+      "text": "30 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 4463,
+      "text": "32 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 4835,
+      "text": "34 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 5196,
+      "text": "36 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 5511,
+      "text": "38 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 5642,
+      "text": "40 WHOLE EARTH REVIEW FALL.1990",
+      "score": 10
+    },
+    {
+      "line": 6286,
+      "text": "46 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 6595,
+      "text": "48 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 6874,
+      "text": "50 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 7195,
+      "text": "52 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 7472,
+      "text": "54 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 7778,
+      "text": "56 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 8006,
+      "text": "58 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 8372,
+      "text": "60 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 8731,
+      "text": "62 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 8975,
+      "text": "64 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 9281,
+      "text": "66 WHOLE EARTH REVIEW. FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 9613,
+      "text": "68 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 10024,
+      "text": "70 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 10469,
+      "text": "72 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 10685,
+      "text": "74 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 10886,
+      "text": "76 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 11110,
+      "text": "78 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 11432,
+      "text": "80 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 12002,
+      "text": "84 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 12375,
+      "text": "86 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 12751,
+      "text": "88 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 12882,
+      "text": "90 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 13212,
+      "text": "92 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 13437,
+      "text": "94 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 13869,
+      "text": "98 WHOLE EARTH REVIEW FALL 1990",
+      "score": 10
+    },
+    {
+      "line": 576,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 3",
+      "score": 8
+    },
+    {
+      "line": 851,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5",
+      "score": 8
+    },
+    {
+      "line": 1084,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 7",
+      "score": 8
+    },
+    {
+      "line": 1368,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 9",
+      "score": 8
+    },
+    {
+      "line": 2202,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : 5",
+      "score": 8
+    },
+    {
+      "line": 3077,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 23",
+      "score": 8
+    },
+    {
+      "line": 3539,
+      "text": "27 GATE FIVE ROAD: SAUSALITO, CA 94965 25",
+      "score": 8
+    },
+    {
+      "line": 3804,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 27",
+      "score": 8
+    },
+    {
+      "line": 4129,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 29 ,",
+      "score": 8
+    },
+    {
+      "line": 4700,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 33",
+      "score": 8
+    },
+    {
+      "line": 5467,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 37",
+      "score": 8
+    },
+    {
+      "line": 5604,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 39",
+      "score": 8
+    },
+    {
+      "line": 6110,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 43",
+      "score": 8
+    },
+    {
+      "line": 6206,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 45",
+      "score": 8
+    },
+    {
+      "line": 6516,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 47",
+      "score": 8
+    },
+    {
+      "line": 6802,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 49",
+      "score": 8
+    },
+    {
+      "line": 7106,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5 :",
+      "score": 8
+    },
+    {
+      "line": 7383,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 53",
+      "score": 8
+    },
+    {
+      "line": 7691,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5 5",
+      "score": 8
+    },
+    {
+      "line": 7982,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 57",
+      "score": 8
+    },
+    {
+      "line": 8314,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 59",
+      "score": 8
+    },
+    {
+      "line": 8913,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 63",
+      "score": 8
+    },
+    {
+      "line": 9193,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 65",
+      "score": 8
+    },
+    {
+      "line": 9513,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 67",
+      "score": 8
+    },
+    {
+      "line": 9929,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 69",
+      "score": 8
+    },
+    {
+      "line": 10606,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 73",
+      "score": 8
+    },
+    {
+      "line": 10847,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 75",
+      "score": 8
+    },
+    {
+      "line": 11059,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 77",
+      "score": 8
+    },
+    {
+      "line": 11385,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 79",
+      "score": 8
+    },
+    {
+      "line": 11837,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 83",
+      "score": 8
+    },
+    {
+      "line": 12254,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 85",
+      "score": 8
+    },
+    {
+      "line": 12665,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 87",
+      "score": 8
+    },
+    {
+      "line": 12854,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 89",
+      "score": 8
+    },
+    {
+      "line": 13078,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 9 :",
+      "score": 8
+    },
+    {
+      "line": 13360,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 93",
+      "score": 8
+    },
+    {
+      "line": 13613,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 95",
+      "score": 8
+    },
+    {
+      "line": 13808,
+      "text": "27 GATE FIVE ROAD. SAUSALITO, CA 94965 97",
+      "score": 8
+    },
+    {
+      "line": 14042,
+      "text": "27 GATE FIVE ROAD",
+      "score": 8
+    },
+    {
+      "line": 14068,
+      "text": "30 K 30 K",
+      "score": 8
+    },
+    {
+      "line": 14453,
+      "text": "15 MAY 1960",
+      "score": 8
+    },
+    {
+      "line": 14645,
+      "text": "27 GATE FIVE ROAD - SAUSALITO, CA 94965 : 03",
+      "score": 8
+    },
+    {
+      "line": 14950,
+      "text": "27 GATE FIVE ROAD. SAUSALITO, CA 94965 : 05",
+      "score": 8
+    }
+  ],
+  "snippets": [
+    {
+      "line": 20,
+      "term": "learning",
+      "snippet": "ee pees j e es Number 68 FEATURES Fall 1990 2 Learning From the Earthquake by Stewart Brand 16 The Epistemology"
+    },
+    {
+      "line": 257,
+      "term": "interview",
+      "snippet": "by Evelyn Messinger Black Box An interview with Pesti Laszlo by Morgan Russell Inhabiting the Electronic Environment"
+    },
+    {
+      "line": 558,
+      "term": "interview",
+      "snippet": "Back to 5:08 p.m., when I was walking from my car amid crumpled buildings. What is in the mind of a volunteer rescuer? Judging from my interviews, it’s both simple - just help someone - and compli- cated. In my case, walking up Divisadero toward a cloud of dust, | was three-minded. Part of my action was pure feline curiosity - “This has got to be interesting.” Part was garden-variety altruism."
+    },
+    {
+      "line": 569,
+      "term": "tools",
+      "snippet": "aid kit, a flashlight, the new Army bayonet (designed mainly as a tool), a folding shovel, and Vibram-soled boots. Lesson one: collect thoughts, then collect tools! Arriving at the corner of Beach street I gazed like a tourist upon two four-story apartment buildings collapsed to one-and-a-half stories and 27 GATE FIVE ROAD SAUSALITO, CA 94965 3"
+    },
+    {
+      "line": 679,
+      "term": "tools",
+      "snippet": "volunteers when I joined it was trying to tunnel a way in from the west side, but with almost nothing in the way of tools. I read later that one Bill McElroy spoke to a crowd of peo- ple gazing at the carnage on the Cypress Structure in Oakland, “We better get us organized. There's people up -"
+    },
+    {
+      "line": 691,
+      "term": "tools",
+      "snippet": "there that need us. Go home and get ladders and some rope. Bring me some wire cutters, jacks, power saws, any tools you've got.” So far as I know, no one gave that vital speech in the Marina. I know that I did not.-It could have done wonders, because all the garage doors of the neigh- borhood had been sprung open by the earthquake, and"
+    },
+    {
+      "line": 696,
+      "term": "tools",
+      "snippet": "borhood had been sprung open by the earthquake, and many of the renters of the tool-filled garages were stand- ing nearby in the street. Collect tools! One of the best tools is expertise. In our crew we had that at least. John Kaplanis, who had run to the scene from a nearby shopping street, recalled later, “I’m a carpenter"
+    },
+    {
+      "line": 699,
+      "term": "tools",
+      "snippet": "many of the renters of the tool-filled garages were stand- ing nearby in the street. Collect tools! One of the best tools is expertise. In our crew we had that at least. John Kaplanis, who had run to the scene from a nearby shopping street, recalled later, “I’m a carpenter by trade, and I remember telling the guys, ‘Hang on a"
+    },
+    {
+      "line": 752,
+      "term": "tools",
+      "snippet": "them with axes. Several volunteers joined them. I found a ladder that shortened the way into the building. Cap- tain Jabs leaned out the window to call for tools from his fire truck. : Of course it wasn’t as direct and purposeful as this brief account makes it seem. A real rescue is dreamy and hesi-"
+    },
+    {
+      "line": 794,
+      "term": "tools",
+      "snippet": "Volunteers were the message carriers all evening. Carpen- ter Kaplanis ran up to newly arrived Truck 10 to report on the need for rescue tools in the burning building. (Truck 16’s own power saws and jacks had already gone into 2090 Beach.) So Truck 10 was moved to the front of the fire building to provide tools for the increasingly desperate"
+    },
+    {
+      "line": 797,
+      "term": "tools",
+      "snippet": "16’s own power saws and jacks had already gone into 2090 Beach.) So Truck 10 was moved to the front of the fire building to provide tools for the increasingly desperate situation there. Jabs: “The volunteers were fantastic. If we didn’t have them, we wouldn't have gotten any of that equipment. I'd yell from the window for a tool, and they'd"
+    },
+    {
+      "line": 1035,
+      "term": "tools",
+      "snippet": "help. Have them describe exactly where they are and what their situation is. Ask their advice. Tell them what you're doing. Pass them tools and medical gear if you can. Treat them not as helpless victims but as an exceptionally mo- tivated part of the rescue team. At the conclusion of my interview with Bill Ray, he took"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "The FBI vs. eenash Guilaws’e on the Elodronlé Froittiers"
+    },
+    {
+      "line": 4,
+      "text": "4 Z i é = ;: Zi"
+    },
+    {
+      "line": 5,
+      "text": "ee pees j e es"
+    },
+    {
+      "line": 17,
+      "text": "Number 68 FEATURES Fall 1990"
+    },
+    {
+      "line": 20,
+      "text": "2 Learning From"
+    },
+    {
+      "line": 21,
+      "text": "the Earthquake"
+    },
+    {
+      "line": 22,
+      "text": "by Stewart Brand"
+    },
+    {
+      "line": 25,
+      "text": "16 The Epistemology"
+    },
+    {
+      "line": 26,
+      "text": "of Disaster"
+    },
+    {
+      "line": 27,
+      "text": "A physician’s lessons from the"
+    },
+    {
+      "line": 28,
+      "text": "Bay Area’s October 1989 quake"
+    },
+    {
+      "line": 29,
+      "text": "by Mark Renneker, M.D."
+    },
+    {
+      "line": 32,
+      "text": "26 One World Scenario"
+    },
+    {
+      "line": 33,
+      "text": "From the late 20th into"
+    },
+    {
+      "line": 34,
+      "text": "the mid-21st century"
+    },
+    {
+      "line": 37,
+      "text": "by Robert Fuller"
+    },
+    {
+      "line": 40,
+      "text": "30 World Game"
+    },
+    {
+      "line": 41,
+      "text": "iy J) Bulan"
+    },
+    {
+      "line": 44,
+      "text": "32 Eco-Cars"
+    },
+    {
+      "line": 45,
+      "text": "by J. Baldwin"
+    },
+    {
+      "line": 48,
+      "text": "European Organic"
+    },
+    {
+      "line": 49,
+      "text": "Agriculture"
+    },
+    {
+      "line": 51,
+      "text": "The state of the art"
+    },
+    {
+      "line": 52,
+      "text": "by Richard Nilsen"
+    },
+    {
+      "line": 55,
+      "text": "Whole Earth Review U) Issue No. 68 L) September 5,"
+    },
+    {
+      "line": 58,
+      "text": "1990 (ISSN 0749-5056) (USPS 077-150). Published"
+    },
+    {
+      "line": 59,
+      "text": "quarterly by POINT, a California nonprofit corporation."
+    },
+    {
+      "line": 60,
+      "text": "Editorial office: 27 Gate Five Road, Sausalito, CA 94965;"
+    },
+    {
+      "line": 61,
+      "text": "415/332-1716. Subscriptions $20 per year; single copies"
+    },
+    {
+      "line": 62,
+      "text": "$6. Inquire for first class and international air rates."
+    },
+    {
+      "line": 63,
+      "text": "Second-class postage paid at Sausalito, California, and at"
+    },
+    {
+      "line": 64,
+      "text": "additional mailing offices. Claims for missing issues will"
+    },
+    {
+      "line": 65,
+      "text": "not be honored later than six months after publication."
+    },
+    {
+      "line": 66,
+      "text": "Back issues are available on microfilm and as xerographic"
+    },
+    {
+      "line": 67,
+      "text": "reprints from University Microfilms International, Serials"
+    },
+    {
+      "line": 68,
+      "text": "Bid Coordinator, 300 Zeeb Road, Ann Arbor, MI 48106."
+    },
+    {
+      "line": 78,
+      "text": "scription circulation: 21,227. Newsstand circulation: 33,395."
+    },
+    {
+      "line": 81,
+      "text": "POSTMASTER: Send address changes to Whole Earth"
+    },
+    {
+      "line": 82,
+      "text": "Review, P. O. Box 38, Sausalito, CA 94966."
+    },
+    {
+      "line": 103,
+      "text": "Crime and Puzzlement"
+    }
+  ]
+}
