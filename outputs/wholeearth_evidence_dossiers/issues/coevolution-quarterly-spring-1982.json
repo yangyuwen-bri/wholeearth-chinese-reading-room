@@ -1,0 +1,680 @@
+{
+  "title": "CoEvolution Quarterly, Spring 1982",
+  "identifier": "coevolutionquart00unse_29",
+  "year": 1982,
+  "season": "Spring",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 147,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1982",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_29",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_29/coevolutionquart00unse_29.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_29/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_29_djvu.txt",
+  "ocr_chars": 624055,
+  "significant_line_count": 16485,
+  "theme_counts": {
+    "software_computing": 265,
+    "tools_craft": 315,
+    "ecology_place": 378,
+    "learning_media": 362,
+    "community_politics": 589
+  },
+  "top_themes": [
+    "community_politics",
+    "ecology_place",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 189,
+      "page": 33,
+      "title": "FEMINISM AND SADOMASOCHISM",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_29/page/n34_w500.jpg"
+    },
+    {
+      "line": 266,
+      "page": 48,
+      "title": "THE LEGEND OF GREAT UNCLE JIM AND",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_29/page/n49_w500.jpg"
+    },
+    {
+      "line": 493,
+      "page": 130,
+      "title": "HOW I BECAME A HUMAN BEING",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_29/page/n131_w500.jpg"
+    },
+    {
+      "line": 9704,
+      "page": 2,
+      "title": "ALL SACRA.",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_29/page/n3_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 189,
+      "text": "33 FEMINISM AND SADOMASOCHISM",
+      "score": 8
+    },
+    {
+      "line": 266,
+      "text": "48 THE LEGEND OF GREAT UNCLE JIM AND",
+      "score": 8
+    },
+    {
+      "line": 493,
+      "text": "130 HOW I BECAME A HUMAN BEING",
+      "score": 8
+    },
+    {
+      "line": 9704,
+      "text": "2 ALL SACRA.",
+      "score": 8
+    },
+    {
+      "line": 263,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 328,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 429,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 492,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 15438,
+      "text": "“WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 21305,
+      "text": "comic reviews and interviews with various professional",
+      "score": 5
+    },
+    {
+      "line": 28,
+      "text": "“i PONY",
+      "score": 4
+    },
+    {
+      "line": 49,
+      "text": "SSS = --",
+      "score": 4
+    },
+    {
+      "line": 65,
+      "text": "UOTIVIISIUIFIG| YT, MoAp | ‘sada [eLIOIsTY 93110AeJ AU JO 9UO 9IVIOUIOWIUIOD OF,",
+      "score": 4
+    },
+    {
+      "line": 93,
+      "text": "0} UOTIIEIISIP SIY JO VdeIURAPE YOO} sjUvIS9I0Ig URIUIOYOY oy} pure",
+      "score": 4
+    },
+    {
+      "line": 105,
+      "text": "COVERS",
+      "score": 4
+    },
+    {
+      "line": 148,
+      "text": "JIM GREEN",
+      "score": 4
+    },
+    {
+      "line": 151,
+      "text": "DANE IN THE BIG’ CITY",
+      "score": 4
+    },
+    {
+      "line": 154,
+      "text": "PYOLUILION",
+      "score": 4
+    },
+    {
+      "line": 163,
+      "text": "GENDER",
+      "score": 4
+    },
+    {
+      "line": 196,
+      "text": "LAND USE",
+      "score": 4
+    },
+    {
+      "line": 254,
+      "text": "THE CoEVOLUTION QUARTERLY SPRING 1982",
+      "score": 4
+    },
+    {
+      "line": 279,
+      "text": "THE RISING SUN NEIGHBORHOOD",
+      "score": 4
+    },
+    {
+      "line": 312,
+      "text": "POLITICS",
+      "score": 4
+    },
+    {
+      "line": 319,
+      "text": "90 CAN THE POLICE BE REDEFINED?",
+      "score": 4
+    },
+    {
+      "line": 370,
+      "text": "SOFT TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 399,
+      "text": "BOX 428 SAUSALITO CA 94966",
+      "score": 4
+    },
+    {
+      "line": 402,
+      "text": "NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 501,
+      "text": "BUSINESS",
+      "score": 4
+    },
+    {
+      "line": 592,
+      "text": "I. SEXISM AND ECONOMIC GROWTH",
+      "score": 4
+    },
+    {
+      "line": 888,
+      "text": "Hf. ECONOMIC SEX ‘",
+      "score": 4
+    },
+    {
+      "line": 1708,
+      "text": "Ill. VERNACULAR GENDER",
+      "score": 4
+    },
+    {
+      "line": 2293,
+      "text": "NY 10016.",
+      "score": 4
+    },
+    {
+      "line": 2350,
+      "text": "TRAVAXO",
+      "score": 4
+    },
+    {
+      "line": 3876,
+      "text": "IV. THE ECONOMIC NEUTER AND SCARCITY",
+      "score": 4
+    },
+    {
+      "line": 3980,
+      "text": "AAR RIES A PE 7)",
+      "score": 4
+    },
+    {
+      "line": 4038,
+      "text": "FOOTNOTES",
+      "score": 4
+    },
+    {
+      "line": 4610,
+      "text": "EDWIN L, SHEPPARD IN NORTH AMERICAN BIRDS (1874)",
+      "score": 4
+    },
+    {
+      "line": 4697,
+      "text": "J. J, GRANDVILLE (1838)",
+      "score": 4
+    },
+    {
+      "line": 4848,
+      "text": "VIVA LA PHALAROPE",
+      "score": 4
+    },
+    {
+      "line": 4868,
+      "text": "FRANK H.: KNOWLTON, BIRDS OF THE WORLD (1909)",
+      "score": 4
+    },
+    {
+      "line": 4952,
+      "text": "THE WHY OF",
+      "score": 4
+    },
+    {
+      "line": 4953,
+      "text": "PHALAROPE LIFE",
+      "score": 4
+    },
+    {
+      "line": 5251,
+      "text": "COMCICILE a ACC",
+      "score": 4
+    },
+    {
+      "line": 5258,
+      "text": "HEROMONAL SEX-ATTRACTANT",
+      "score": 4
+    },
+    {
+      "line": 5521,
+      "text": "FEMINISM AND.",
+      "score": 4
+    },
+    {
+      "line": 5524,
+      "text": "PORNOGRAPHY",
+      "score": 4
+    },
+    {
+      "line": 5729,
+      "text": "PHOTOS BY HONEY LEE COTTRELL",
+      "score": 4
+    },
+    {
+      "line": 5773,
+      "text": "BOX 428 SAUSALITO CA 94966 3 3",
+      "score": 4
+    },
+    {
+      "line": 6912,
+      "text": "JH-217",
+      "score": 4
+    },
+    {
+      "line": 7029,
+      "text": "SPELK BASKET oak",
+      "score": 4
+    },
+    {
+      "line": 7033,
+      "text": "GATE HURDLE ash",
+      "score": 4
+    },
+    {
+      "line": 7045,
+      "text": "SCYTHE SNEAD ash",
+      "score": 4
+    },
+    {
+      "line": 7323,
+      "text": "PISS EE TREES SN Ee SE = a",
+      "score": 4
+    },
+    {
+      "line": 7576,
+      "text": "THROW IT AWAY!",
+      "score": 4
+    },
+    {
+      "line": 7963,
+      "text": "HE LADY IN RHINESTONE",
+      "score": 4
+    },
+    {
+      "line": 8474,
+      "text": "ANN Ry",
+      "score": 4
+    },
+    {
+      "line": 9024,
+      "text": "BN OE Sd TUE IN ANNE NET Sa TS 1a PN SNC AIL EE PONY SEENON NORTE I OE Nee LTTE)",
+      "score": 4
+    },
+    {
+      "line": 9482,
+      "text": "RONNIE WAS CAMPAIGVING",
+      "score": 4
+    },
+    {
+      "line": 9485,
+      "text": "\" GOO IN STRIPES ..",
+      "score": 4
+    },
+    {
+      "line": 9488,
+      "text": "ATRUE LIFE",
+      "score": 4
+    },
+    {
+      "line": 9492,
+      "text": "'S' yyy K TREK DUPANS * LOOKING YOUTHFUL +",
+      "score": 4
+    },
+    {
+      "line": 9494,
+      "text": "FRONTAL) Beal LB",
+      "score": 4
+    },
+    {
+      "line": 9498,
+      "text": "BS Px",
+      "score": 4
+    },
+    {
+      "line": 9501,
+      "text": "“HI, PARONERS .. Wey » E ONCE",
+      "score": 4
+    },
+    {
+      "line": 9502,
+      "text": "SHOOK HANDS WITH RONALS ay",
+      "score": 4
+    },
+    {
+      "line": 9503,
+      "text": "REAGEN .. MAGNE - OF COURSE. ;",
+      "score": 4
+    },
+    {
+      "line": 9504,
+      "text": "r WASN'T AS CHEERFUL THEN",
+      "score": 4
+    },
+    {
+      "line": 9507,
+      "text": "KS AM NOW. & LOOKED..| & SANFRANCISCO",
+      "score": 4
+    },
+    {
+      "line": 9513,
+      "text": "BILLY RUTAN WAS THE GUY HE WANTED TD",
+      "score": 4
+    },
+    {
+      "line": 9514,
+      "text": "WHO GOT ME TIKE Jos AT HEAR THE VOICE::",
+      "score": 4
+    },
+    {
+      "line": 9515,
+      "text": "We REP GARTER- YE THE REAL VOICE.",
+      "score": 4
+    },
+    {
+      "line": 9518,
+      "text": "NOT THE RECORDING..",
+      "score": 4
+    },
+    {
+      "line": 9519,
+      "text": "OF THAT FRENCH MAY",
+      "score": 4
+    },
+    {
+      "line": 9520,
+      "text": "MAVRICE CHEVALIER",
+      "score": 4
+    },
+    {
+      "line": 9521,
+      "text": "He WANTES TO HEAR THE",
+      "score": 4
+    },
+    {
+      "line": 9522,
+      "text": "OPERATOR SAY..",
+      "score": 4
+    },
+    {
+      "line": 9523,
+      "text": "“MR. SHAY VAHYAAH -",
+      "score": 4
+    },
+    {
+      "line": 9524,
+      "text": "WILL You ACCEPT A",
+      "score": 4
+    },
+    {
+      "line": 9525,
+      "text": "COLLECT CALL FROM",
+      "score": 4
+    },
+    {
+      "line": 9526,
+      "text": "MR. WiLL/AM RUTAN",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 118,
+      "term": "tools",
+      "snippet": "the painting on the front cover shows men and women in medieval Europe, working together with different tools and tasks to get the same necessary job done - in this case, haymaking. (Actually, the men are scything hay and the women are turning it with forks.) We chose"
+    },
+    {
+      "line": 203,
+      "term": "tools",
+      "snippet": "42 While you’re hugging the tree = Note ® Coltsfoot ™ Firewood Crops 43 Tools and Devices for Coppice Crafts = Maximum oxygen tree question 44 Introduction to Integrated Pest Management . ® Fishes in California Mosquito Control"
+    },
+    {
+      "line": 263,
+      "term": "community",
+      "snippet": "THE CoEVOLUTION QUARTERLY SPRING 1982 ae ee i COMMUNITY 48 THE LEGEND OF GREAT UNCLE JIM AND THE WOMAN BEHIND IT ALL by Will Baker I Shook Hands with Ronald Reagan"
+    },
+    {
+      "line": 328,
+      "term": "whole systems",
+      "snippet": "Safe and Alive Wha’ Happenin”? WHOLE SYSTEMS Life on Earth ® Biology ® Symbiosis in Cell Evolution The Doomsday Book of Animals"
+    },
+    {
+      "line": 386,
+      "term": "tools",
+      "snippet": "The Integral Passive Solar Water Heater Book # Housing Innovation Handbook 108 Bicknell stone working tools ® Murphy’s tool ® Lewis Winch and Mole How to Design an Independent Power System = Heat Pumps"
+    },
+    {
+      "line": 408,
+      "term": "learning",
+      "snippet": "110 Scrambles Amongst the Alps = Living in the U.S.A. Learning to Rock Climb ® Official Airlines Pocket Flight Guide ™ Travel Information by Walt Noiseux The Bike Bag Book ® Backcountry Bike-"
+    },
+    {
+      "line": 429,
+      "term": "communications",
+      "snippet": "113 Arctic Trading Company ® Sewing for the Outdoors COMMUNICATIONS Whole Earth Suckered by Personal Computer Hype by Ken Crossen 119 A classic of computer science: A Discipline"
+    },
+    {
+      "line": 442,
+      "term": "programming",
+      "snippet": "Computer Hype by Ken Crossen 119 A classic of computer science: A Discipline of Programming 120 Classics in Software Engineering ™ The Information Brokers ® Software Reliability ® The Art of Software Testing"
+    },
+    {
+      "line": 445,
+      "term": "software",
+      "snippet": "119 A classic of computer science: A Discipline of Programming 120 Classics in Software Engineering ™ The Information Brokers ® Software Reliability ® The Art of Software Testing Turtle Geometry ®™ Background Math for"
+    },
+    {
+      "line": 446,
+      "term": "software",
+      "snippet": "of Programming 120 Classics in Software Engineering ™ The Information Brokers ® Software Reliability ® The Art of Software Testing Turtle Geometry ®™ Background Math for a Computer World ® Video Swapper 8"
+    },
+    {
+      "line": 449,
+      "term": "software",
+      "snippet": "120 Classics in Software Engineering ™ The Information Brokers ® Software Reliability ® The Art of Software Testing Turtle Geometry ®™ Background Math for a Computer World ® Video Swapper 8 Trade-A-Tape Gazette"
+    },
+    {
+      "line": 492,
+      "term": "learning",
+      "snippet": "Comics Journal 129 Christopher Street ™ Callahan’s Irish Quarterly LEARNING 130 HOW I BECAME A HUMAN BEING by Mark O'Brien 140 Pathfinders =\" How the Swans Came to the"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "2S Cer rats = ne : ¢ a r"
+    },
+    {
+      "line": 2,
+      "text": "’ SO 0 ae"
+    },
+    {
+      "line": 5,
+      "text": "| Published by the Whole Earth Catalog No. 33 Spring 1982 $4"
+    },
+    {
+      "line": 8,
+      "text": "VERNACULAR GEMDER by Ivan Illi‘: Page 4"
+    },
+    {
+      "line": 20,
+      "text": "\\ My Wi"
+    },
+    {
+      "line": 24,
+      "text": "ye i i at"
+    },
+    {
+      "line": 25,
+      "text": ", ‘i ‘ mn i i Hy"
+    },
+    {
+      "line": 28,
+      "text": "“i PONY"
+    },
+    {
+      "line": 29,
+      "text": "my |"
+    },
+    {
+      "line": 35,
+      "text": "mae iit |"
+    },
+    {
+      "line": 40,
+      "text": "\\ fi"
+    },
+    {
+      "line": 49,
+      "text": "SSS = --"
+    },
+    {
+      "line": 52,
+      "text": "I’ . ot }"
+    },
+    {
+      "line": 53,
+      "text": "i iil li iil i) i |"
+    },
+    {
+      "line": 54,
+      "text": "| Mi } Wy"
+    },
+    {
+      "line": 55,
+      "text": "Ma i i Ml Hi"
+    },
+    {
+      "line": 58,
+      "text": "$$ or"
+    },
+    {
+      "line": 64,
+      "text": "Jaavag °S'gq- ‘anseiy jo"
+    },
+    {
+      "line": 65,
+      "text": "UOTIVIISIUIFIG| YT, MoAp | ‘sada [eLIOIsTY 93110AeJ AU JO 9UO 9IVIOUIOWIUIOD OF,"
+    },
+    {
+      "line": 68,
+      "text": "‘AemAue otaTyIe Os st ueBeay puy ‘drysuewsayeys"
+    },
+    {
+      "line": 70,
+      "text": "o1ysITeoi pue sueUINY szOUI Jo}F adoy pjnod aM uayi aqhep ‘satorjod 93¥Is Fo"
+    },
+    {
+      "line": 72,
+      "text": "y[Nsai v se uoTeptdas [euosied aouetsedxe 03 srapea] pue s1opessequie Jo sjnos ay)"
+    },
+    {
+      "line": 73,
+      "text": "IO} poos oq pynom 4 yuryi |] ‘Ajsepndod mou e Aofua ppnoo uonessouszjap ystM |"
+    },
+    {
+      "line": 76,
+      "text": "‘Suro3 day Jem ay} Ing ‘OZ9T Aq poyseuls sem I]OA0I"
+    },
+    {
+      "line": 78,
+      "text": "ueluayog ayy, (*yny Ajsnoties sem 9UO OU - MOPpUTM ay} JapUN sinueW jo afd"
+    },
+    {
+      "line": 79,
+      "text": "® sem oJay Aes S9dINOS BUIOS) ‘aTIsed B JO MOPUTM dy} FO INO O17} oY} MoIY} UdUT"
+    },
+    {
+      "line": 80,
+      "text": "-a]qou que\\sai0Ig jo dno & ‘gToT ‘ez Aew uc ‘dn adeys 03 squeqsaqo1g ay) [[93"
+    },
+    {
+      "line": 81,
+      "text": "0} onseig 01 ‘sntolsqe,j ‘Arej0I199S IIa) YIIM ‘eIeAR|S pue ITUTIIEY] ‘sLOT[IOuNOS"
+    },
+    {
+      "line": 82,
+      "text": "jeAor OM} Juas oF] “}OAeI uRTUTOYog & ZuTyOAOId ‘9aURIENS ay} UO pespny"
+    },
+    {
+      "line": 83,
+      "text": "Aypoyeodai seryz7epy “SUIMS ][N} UT sem UOTIeUIIOJIY-J9IUNOD vy} pue wWeaqoid"
+    },
+    {
+      "line": 85,
+      "text": "® JO sso] oJaM SyIN J, ay) ‘eq 03 dn owed ‘sery ep] ‘1OJoduIa }x9U 9Y} Udy"
+    },
+    {
+      "line": 88,
+      "text": "\"SyIN J, SITY YIM PpUdIUOD pynod sy yey? Os ‘UOTsITeI Jo WOpsedj"
+    },
+    {
+      "line": 90,
+      "text": "Ayreqnorsed “6091 ut satorjod mau ay} Jo awWOs payiqes ydjopny ‘woyd"
+    },
+    {
+      "line": 91,
+      "text": "petuep Aysnotaaid sa8ajtatid auinsse pue SuIOJaI pozOsse 93NI1}SUI"
+    },
+    {
+      "line": 93,
+      "text": "0} UOTIIEIISIP SIY JO VdeIURAPE YOO} sjUvIS9I0Ig URIUIOYOY oy} pure"
+    },
+    {
+      "line": 94,
+      "text": "“SyIN J, 94} YIM 9Ull} o[qusJs] & pey “]] ydjopny ‘eIwayog jo SuTy pue"
+    },
+    {
+      "line": 95,
+      "text": "iorodura Singsdey out, *(Sp9I-8T9T) FEM .Ste92A AUTYL, VY 02 yYoIeU"
+    },
+    {
+      "line": 96,
+      "text": "oY} HW] JeYI JUSplour ue sem ANOVUd dO NOLLVULSANAAAC 4H"
+    },
+    {
+      "line": 99,
+      "text": "anSe1y Jo UOHPISaUAZIq aU"
+    },
+    {
+      "line": 102,
+      "text": "No. 33 Spring 1982"
+    }
+  ]
+}

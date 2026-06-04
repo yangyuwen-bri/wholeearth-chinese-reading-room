@@ -1,0 +1,662 @@
+{
+  "title": "CoEvolution Quarterly, Summer 1984",
+  "identifier": "coevolutionquart00unse_38",
+  "year": 1984,
+  "season": "Summer",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1984",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_38",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_38/coevolutionquart00unse_38.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_38/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_38_djvu.txt",
+  "ocr_chars": 621771,
+  "significant_line_count": 14729,
+  "theme_counts": {
+    "software_computing": 98,
+    "tools_craft": 218,
+    "ecology_place": 474,
+    "learning_media": 576,
+    "community_politics": 441
+  },
+  "top_themes": [
+    "learning_media",
+    "ecology_place",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 591,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO CA 94965",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_38/page/n28_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 591,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 4632,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965 3 :",
+      "score": 8
+    },
+    {
+      "line": 4707,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965 33",
+      "score": 8
+    },
+    {
+      "line": 4727,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965 3 5",
+      "score": 8
+    },
+    {
+      "line": 5138,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA",
+      "score": 8
+    },
+    {
+      "line": 11034,
+      "text": "27 GATE FIVE ROAD SAUSALITO",
+      "score": 8
+    },
+    {
+      "line": 15539,
+      "text": "27 GATE. FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 403,
+      "text": "DEPARTMENTS/REVIEWS",
+      "score": 6
+    },
+    {
+      "line": 406,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 554,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 597,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 604,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 1,
+      "text": "CRIME AND CAPITALISM ‘",
+      "score": 4
+    },
+    {
+      "line": 2,
+      "text": "-IN CHINA |",
+      "score": 4
+    },
+    {
+      "line": 16,
+      "text": "RISING &",
+      "score": 4
+    },
+    {
+      "line": 19,
+      "text": "FALLING",
+      "score": 4
+    },
+    {
+      "line": 20,
+      "text": "BIRDS",
+      "score": 4
+    },
+    {
+      "line": 157,
+      "text": "TINY CH TOHNS-MANVILLE ASBESTOS KILLERS",
+      "score": 4
+    },
+    {
+      "line": 160,
+      "text": "TINY ON BUREAUCRATS WH Sit 6 LORITY, POB Dumps |",
+      "score": 4
+    },
+    {
+      "line": 169,
+      "text": "TT >I",
+      "score": 4
+    },
+    {
+      "line": 173,
+      "text": "TINK ON DEVELOPERS OF WoRLD's LARGEST Aacae",
+      "score": 4
+    },
+    {
+      "line": 187,
+      "text": "( TINY ON BUREAUCRATS WHO WeN'T PUT OUT",
+      "score": 4
+    },
+    {
+      "line": 188,
+      "text": "iy CENTRALIA 20-YEAR COAL FIRE",
+      "score": 4
+    },
+    {
+      "line": 190,
+      "text": "TINX ON SEABROOK NUKE ~ PA 1 oct. 83",
+      "score": 4
+    },
+    {
+      "line": 196,
+      "text": "CP sy 12 7. SAVE THE MONONGAHELA RIVER SYSTEM",
+      "score": 4
+    },
+    {
+      "line": 201,
+      "text": "HOMAGE TO THE MOHAWK TRAIL GOD i 4 FUER pa q oct-23",
+      "score": 4
+    },
+    {
+      "line": 209,
+      "text": "‘ Bese TINX ON WoRLD's LARGEST PARTICLE ACCELERATOR",
+      "score": 4
+    },
+    {
+      "line": 219,
+      "text": "TIX ON UPPER HUDSON INDUSTRIES THAT Fou THESE JINX ON UNNECESSARY HIGHWAYS",
+      "score": 4
+    },
+    {
+      "line": 235,
+      "text": "OLUTION",
+      "score": 4
+    },
+    {
+      "line": 238,
+      "text": "ARTICLES",
+      "score": 4
+    },
+    {
+      "line": 270,
+      "text": "BURYING JED KESEY",
+      "score": 4
+    },
+    {
+      "line": 285,
+      "text": "CRIME AND CAPITALISM",
+      "score": 4
+    },
+    {
+      "line": 287,
+      "text": "IN CHINA",
+      "score": 4
+    },
+    {
+      "line": 293,
+      "text": "NICARAGUA’S OTHER WAR:",
+      "score": 4
+    },
+    {
+      "line": 315,
+      "text": "FEATURES",
+      "score": 4
+    },
+    {
+      "line": 346,
+      "text": "IS ANYTHING SACRED?",
+      "score": 4
+    },
+    {
+      "line": 378,
+      "text": "FICTION",
+      "score": 4
+    },
+    {
+      "line": 487,
+      "text": "THE CoEVOLUTION QUARTERLY SUMMER 1984 _",
+      "score": 4
+    },
+    {
+      "line": 490,
+      "text": "POLITICS |",
+      "score": 4
+    },
+    {
+      "line": 512,
+      "text": "NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 531,
+      "text": "SOFT TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 574,
+      "text": "LAND USE",
+      "score": 4
+    },
+    {
+      "line": 594,
+      "text": "THE POLITICS OF RELIGION",
+      "score": 4
+    },
+    {
+      "line": 630,
+      "text": "BACKSCATTER",
+      "score": 4
+    },
+    {
+      "line": 634,
+      "text": "BUSINESS",
+      "score": 4
+    },
+    {
+      "line": 648,
+      "text": "COVERS",
+      "score": 4
+    },
+    {
+      "line": 795,
+      "text": "THE CoEVOLUTION QUARTERLY SUMMER 1984",
+      "score": 4
+    },
+    {
+      "line": 894,
+      "text": "THE KESEY FAMILY",
+      "score": 4
+    },
+    {
+      "line": 1056,
+      "text": "THE CoEVOLWTION QUARTERLY SUMMER 1984",
+      "score": 4
+    },
+    {
+      "line": 1169,
+      "text": "{ 27 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 4
+    },
+    {
+      "line": 1325,
+      "text": "THE CoEVOLUTION QUARTERLY SUMMER 1984 Pay",
+      "score": 4
+    },
+    {
+      "line": 1371,
+      "text": "(a RA ON INAAARANAARAADRRA ADAP CIN",
+      "score": 4
+    },
+    {
+      "line": 1419,
+      "text": "aanne: A OORARAAAARAAAAAAADAAAAAAAARAR AAA CEN",
+      "score": 4
+    },
+    {
+      "line": 1425,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965) __",
+      "score": 4
+    },
+    {
+      "line": 1428,
+      "text": "CARON RO AARRABAR AAA RARE",
+      "score": 4
+    },
+    {
+      "line": 1604,
+      "text": "BRIAN LANKER",
+      "score": 4
+    },
+    {
+      "line": 2134,
+      "text": "SHELVING BEACH :",
+      "score": 4
+    },
+    {
+      "line": 2315,
+      "text": "i 4 THE CoEVOLUTION QUARTERLY SUMMER 1984",
+      "score": 4
+    },
+    {
+      "line": 2851,
+      "text": "“IN THE ORDER OF HIPPOCRATES YOU ARE A PRIEST FOREVER.”",
+      "score": 4
+    },
+    {
+      "line": 3101,
+      "text": "27 GATE ig ROAD SAUSALITO CA 94965",
+      "score": 4
+    },
+    {
+      "line": 3488,
+      "text": "MENSTRUAL REGULATION FORMULATIONS",
+      "score": 4
+    },
+    {
+      "line": 3598,
+      "text": "NJ 07632",
+      "score": 4
+    },
+    {
+      "line": 3611,
+      "text": "DIANE CALLUM",
+      "score": 4
+    },
+    {
+      "line": 3684,
+      "text": "THE CoEVOLUTION QUARTERLY",
+      "score": 4
+    },
+    {
+      "line": 3687,
+      "text": "SUMMER 1984",
+      "score": 4
+    },
+    {
+      "line": 3993,
+      "text": "STAINS AND SPILLS",
+      "score": 4
+    },
+    {
+      "line": 4017,
+      "text": "“HOW DO | ACCOUNT FOR THAT YEAR",
+      "score": 4
+    },
+    {
+      "line": 4018,
+      "text": "WHEN | WASN’T EMPLOYED?”",
+      "score": 4
+    },
+    {
+      "line": 4081,
+      "text": "BASIC CLEANER",
+      "score": 4
+    },
+    {
+      "line": 4096,
+      "text": "MILDEW",
+      "score": 4
+    },
+    {
+      "line": 4117,
+      "text": "“CAN'T | JUST SKIP THE JOB OBJECTIVE?",
+      "score": 4
+    },
+    {
+      "line": 4119,
+      "text": "| DON’T WANT TO LIMIT MYSELF.’",
+      "score": 4
+    },
+    {
+      "line": 4128,
+      "text": "DAMN GOOD RESUME.",
+      "score": 4
+    },
+    {
+      "line": 4203,
+      "text": "CESS TEST a a GT I a I I LIE EE EIS",
+      "score": 4
+    },
+    {
+      "line": 4243,
+      "text": "IT IS BETTER TO GIVE... :",
+      "score": 4
+    },
+    {
+      "line": 4258,
+      "text": "WE AND OUR RV",
+      "score": 4
+    },
+    {
+      "line": 4351,
+      "text": "THE CoEVOLUTION QUARTERLY = SUMMER 1984",
+      "score": 4
+    },
+    {
+      "line": 4552,
+      "text": "LISM IN CHINA",
+      "score": 4
+    },
+    {
+      "line": 4680,
+      "text": "32 THE CoEVOLUTION QUARTERLY SUMMER 1984",
+      "score": 4
+    },
+    {
+      "line": 4710,
+      "text": "34 THE CoEVOLUTION QUARTERLY SUMMER 1984",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 63,
+      "term": "energy",
+      "snippet": "nature or human sanity has reas- ____ serted itself, such as fallen bridges, earthquakes, soft energy projects, i Be _and holistic institutions. Falling birds are painted where threats occur, at a military installations, toxic spills,"
+    },
+    {
+      "line": 406,
+      "term": "community",
+      "snippet": "No. 42 DEPARTMENTS/REVIEWS COMMUNITY The CoEvolution Quarterly (Issue No. 42 () June 21, 1984 (ISSN 0095-134X) (USPS 077-150). Published quarterly by POINT, a Cali- fornia nonprofit corporation. Office of publication (editorial): 27 Gate Five Road, Sausalito, CA 94965. Subscriptions: $18 per year. Inquire for international air rates. Second-class postage paid at Sausalito, California, and at additional mailing offices. Claims for"
+    },
+    {
+      "line": 470,
+      "term": "learning",
+      "snippet": "a The Damn Good Resume Guide Brigade Quartermaster @ Partnering - Resurgence, Friends of the Earth, Smith & Hawken, Kites Aweigh, Chinook Learning Center, Institute for Food and Development Policy, Population Institute, Nuclear Times, Institute for Study of Human Knowledge, Planned Parenthood, American Civil Liberties Union, Sierra Club, New York Open Center. POSTMASTER: Send address changes to CoEvolution Quarterly, 27 Gate Five Road, Sausalito, CA 94965."
+    },
+    {
+      "line": 534,
+      "term": "energy",
+      "snippet": "= From the Ground Up SOFT TECHNOLOGY 79 Alternative Sources of Energy w Renewable Energy News , 82 Sachs Hub Brakes w Micro Hydro b> = Summit Controls Wind Data Logger"
+    },
+    {
+      "line": 535,
+      "term": "energy",
+      "snippet": "SOFT TECHNOLOGY 79 Alternative Sources of Energy w Renewable Energy News , 82 Sachs Hub Brakes w Micro Hydro b> = Summit Controls Wind Data Logger . - 83> Human Power"
+    },
+    {
+      "line": 543,
+      "term": "tools",
+      "snippet": "b> = Summit Controls Wind Data Logger . - 83> Human Power ; wg Japanese Woodworking Tools 84 Kerosene Heaters a DSA Pejse Stoves wg Architecture and Community 85 The Superinsulated House"
+    },
+    {
+      "line": 548,
+      "term": "community",
+      "snippet": "; wg Japanese Woodworking Tools 84 Kerosene Heaters a DSA Pejse Stoves wg Architecture and Community 85 The Superinsulated House WHOLE SYSTEMS F 86 Hopi Voices"
+    },
+    {
+      "line": 554,
+      "term": "whole systems",
+      "snippet": "wg Architecture and Community 85 The Superinsulated House WHOLE SYSTEMS F 86 Hopi Voices e = Hopi Photographers/Hopi Images i 87 Elderberry Flute Song"
+    },
+    {
+      "line": 581,
+      "term": "community",
+      "snippet": "105 Women in Forestry w Soil Erosion 106 Mountain in the Clouds m The Community Garden Book 107 HortIdeas a The Complete Shade Gardener 108 Right Plant, Right Place"
+    },
+    {
+      "line": 597,
+      "term": "learning",
+      "snippet": "27 GATE FIVE ROAD SAUSALITO CA 94965 THE POLITICS OF RELIGION LEARNING 109 Katallagete mw Katimavik 113. Better Than School COMMUNICATIONS"
+    },
+    {
+      "line": 604,
+      "term": "communications",
+      "snippet": "109 Katallagete mw Katimavik 113. Better Than School COMMUNICATIONS 115 Popular Communications w State of the Art 116 The Letter Exchange"
+    },
+    {
+      "line": 605,
+      "term": "communications",
+      "snippet": "113. Better Than School COMMUNICATIONS 115 Popular Communications w State of the Art 116 The Letter Exchange mw Rhyme’s Reason"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "CRIME AND CAPITALISM ‘"
+    },
+    {
+      "line": 2,
+      "text": "-IN CHINA |"
+    },
+    {
+      "line": 5,
+      "text": "A Photo Essay by Orville Schell"
+    },
+    {
+      "line": 8,
+      "text": "ieee."
+    },
+    {
+      "line": 11,
+      "text": "The rise of a new class of petty hoodlums (top), and public parades of sentenced"
+    },
+    {
+      "line": 12,
+      "text": "criminals (bottom), mark China’s revival of private enterprise. For more glimpses _ |"
+    },
+    {
+      "line": 13,
+      "text": ": of a changing China, see page 30. ea 25 [ a"
+    },
+    {
+      "line": 16,
+      "text": "RISING &"
+    },
+    {
+      "line": 19,
+      "text": "FALLING"
+    },
+    {
+      "line": 20,
+      "text": "BIRDS"
+    },
+    {
+      "line": 23,
+      "text": "Message Art"
+    },
+    {
+      "line": 24,
+      "text": "Project"
+    },
+    {
+      "line": 27,
+      "text": "by Lee Nading"
+    },
+    {
+      "line": 30,
+      "text": "ina roadside art project. In"
+    },
+    {
+      "line": 33,
+      "text": "i f paintings and galleries, Nading is"
+    },
+    {
+      "line": 34,
+      "text": "taking his paintings out to his sub-"
+    },
+    {
+      "line": 35,
+      "text": "cts - in this case environmental"
+    },
+    {
+      "line": 37,
+      "text": "nd cultural sites where nature and"
+    },
+    {
+      "line": 38,
+      "text": "hnology are in contention."
+    },
+    {
+      "line": 41,
+      "text": "As Nading describes it: “I have a"
+    },
+    {
+      "line": 43,
+      "text": "_ master map of the U.S. with potential"
+    },
+    {
+      "line": 44,
+      "text": "sites marked, and I drive between"
+    },
+    {
+      "line": 45,
+      "text": "_them on a schedule that has me ar-"
+    },
+    {
+      "line": 46,
+      "text": "__ rive at each site after dark. I keep a"
+    },
+    {
+      "line": 47,
+      "text": "~ gallon can of white interior latex"
+    },
+    {
+      "line": 48,
+      "text": "paint on the front seat, and after"
+    },
+    {
+      "line": 50,
+      "text": "_ making sure the coast is clear, I"
+    },
+    {
+      "line": 52,
+      "text": "_ jump out with my three-inch brush"
+    },
+    {
+      "line": 53,
+      "text": "and do the painting posthaste. I"
+    },
+    {
+      "line": 55,
+      "text": "__ have to bypass some sites due to"
+    },
+    {
+      "line": 56,
+      "text": "rain or over-vigilant cops."
+    },
+    {
+      "line": 59,
+      "text": "“I paint rising birds at sites where"
+    },
+    {
+      "line": 60,
+      "text": "eta :"
+    },
+    {
+      "line": 61,
+      "text": "nature or human sanity has reas-"
+    },
+    {
+      "line": 62,
+      "text": "____ serted itself, such as fallen bridges,"
+    },
+    {
+      "line": 63,
+      "text": "earthquakes, soft energy projects,"
+    },
+    {
+      "line": 64,
+      "text": "i Be _and holistic institutions. Falling birds"
+    },
+    {
+      "line": 65,
+      "text": "are painted where threats occur, at"
+    },
+    {
+      "line": 68,
+      "text": "a military installations, toxic spills,"
+    },
+    {
+      "line": 69,
+      "text": "a __ assassination sites, nuclear plants,"
+    }
+  ]
+}

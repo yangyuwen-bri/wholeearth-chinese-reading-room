@@ -1,0 +1,686 @@
+{
+  "title": "CoEvolution Quarterly, Summer 1980",
+  "identifier": "coevolutionquart00unse_23",
+  "year": 1980,
+  "season": "Summer",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 153,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1980",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_23",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_23/coevolutionquart00unse_23.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_23/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_23_djvu.txt",
+  "ocr_chars": 645229,
+  "significant_line_count": 16325,
+  "theme_counts": {
+    "software_computing": 26,
+    "tools_craft": 213,
+    "ecology_place": 398,
+    "learning_media": 438,
+    "community_politics": 366
+  },
+  "top_themes": [
+    "learning_media",
+    "ecology_place",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 211,
+      "page": 125,
+      "title": "JUGGLING AS PERFORMING",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_23/page/n126_w500.jpg"
+    },
+    {
+      "line": 12923,
+      "page": 7,
+      "title": "FRENCH ANO",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_23/page/n8_w500.jpg"
+    },
+    {
+      "line": 13242,
+      "page": 200,
+      "title": "YEARS",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_23/page/n201_w500.jpg"
+    },
+    {
+      "line": 13917,
+      "page": 1,
+      "title": "MUST",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_23/page/n2_w500.jpg"
+    },
+    {
+      "line": 14112,
+      "page": 18,
+      "title": "JOURNEY COMPLETE, ONION HEAD",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_23/page/n19_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 211,
+      "text": "125 JUGGLING AS PERFORMING",
+      "score": 8
+    },
+    {
+      "line": 12923,
+      "text": "7 FRENCH ANO",
+      "score": 8
+    },
+    {
+      "line": 13242,
+      "text": "200 YEARS",
+      "score": 8
+    },
+    {
+      "line": 13265,
+      "text": "7 ROCKEFELLER",
+      "score": 8
+    },
+    {
+      "line": 13917,
+      "text": "1 MUST",
+      "score": 8
+    },
+    {
+      "line": 14112,
+      "text": "18 JOURNEY COMPLETE, ONION HEAD",
+      "score": 8
+    },
+    {
+      "line": 15643,
+      "text": "1 A RR SS SS SSS SSS SS SS",
+      "score": 8
+    },
+    {
+      "line": 6912,
+      "text": "VERNACULAR LEARNING AS",
+      "score": 6
+    },
+    {
+      "line": 13141,
+      "text": "Ir INTERVIEWED THE LOCAL o & Vip",
+      "score": 6
+    },
+    {
+      "line": 14729,
+      "text": "COOPER ENERGY",
+      "score": 6
+    },
+    {
+      "line": 1,
+      "text": ": NVAYS OF NATIVE AMERICAN RUNNING pp4-2:",
+      "score": 4
+    },
+    {
+      "line": 6,
+      "text": ": VERNACULAR VALUES pp. 22-49 $300",
+      "score": 4
+    },
+    {
+      "line": 85,
+      "text": "WAYS OF NATIVE AMERICAN",
+      "score": 4
+    },
+    {
+      "line": 95,
+      "text": "DOGMA AND ICONOCLAGM IN",
+      "score": 4
+    },
+    {
+      "line": 244,
+      "text": "i THERE'S AN OLO CALIFORNEA",
+      "score": 4
+    },
+    {
+      "line": 246,
+      "text": "To THE GENEALOGY OF THE LOCAL",
+      "score": 4
+    },
+    {
+      "line": 248,
+      "text": "V .oTHE MINERS CAME IN 49.",
+      "score": 4
+    },
+    {
+      "line": 249,
+      "text": "THE WHORES IN ‘S4¢",
+      "score": 4
+    },
+    {
+      "line": 252,
+      "text": "i : THUS YOU HANE THe",
+      "score": 4
+    },
+    {
+      "line": 256,
+      "text": "NATIVE",
+      "score": 4
+    },
+    {
+      "line": 281,
+      "text": "WATS OF",
+      "score": 4
+    },
+    {
+      "line": 2977,
+      "text": "XVIII. 1974.",
+      "score": 4
+    },
+    {
+      "line": 3200,
+      "text": "NY PS75:",
+      "score": 4
+    },
+    {
+      "line": 3239,
+      "text": "PA, 1975.",
+      "score": 4
+    },
+    {
+      "line": 3324,
+      "text": "VERNACULAR |,",
+      "score": 4
+    },
+    {
+      "line": 3429,
+      "text": "IST PART",
+      "score": 4
+    },
+    {
+      "line": 3430,
+      "text": "THE THREE DIMENSIONS OF",
+      "score": 4
+    },
+    {
+      "line": 3431,
+      "text": "SOCIAL CHOICE",
+      "score": 4
+    },
+    {
+      "line": 4595,
+      "text": "2ND PART",
+      "score": 4
+    },
+    {
+      "line": 4596,
+      "text": "THE WAR AGAINST SUBSISTENCE",
+      "score": 4
+    },
+    {
+      "line": 4784,
+      "text": "COLUMBUS FINDS THE",
+      "score": 4
+    },
+    {
+      "line": 4785,
+      "text": "NIGHTINGALE",
+      "score": 4
+    },
+    {
+      "line": 4892,
+      "text": "NEBRIJA ENGINEERS THE",
+      "score": 4
+    },
+    {
+      "line": 4893,
+      "text": "ARTIFACT: AUGUST I8, 1492",
+      "score": 4
+    },
+    {
+      "line": 4952,
+      "text": "EMPIRE NEEDS “‘LANGUAGE”’ AS",
+      "score": 4
+    },
+    {
+      "line": 4953,
+      "text": "CONSORT 7",
+      "score": 4
+    },
+    {
+      "line": 5045,
+      "text": "CASTILIAN PASSES THROUGH ITS",
+      "score": 4
+    },
+    {
+      "line": 5046,
+      "text": "INFANCY",
+      "score": 4
+    },
+    {
+      "line": 5151,
+      "text": "LANGUAGE NOW NEEDS TUTORS",
+      "score": 4
+    },
+    {
+      "line": 5200,
+      "text": "A LOOSE AND UNRULY",
+      "score": 4
+    },
+    {
+      "line": 5201,
+      "text": "LANGUAGE",
+      "score": 4
+    },
+    {
+      "line": 5278,
+      "text": "UNBOUND AND UNGOVERNED",
+      "score": 4
+    },
+    {
+      "line": 5279,
+      "text": "SPEECH FINDS A NEW ALLY IN",
+      "score": 4
+    },
+    {
+      "line": 5280,
+      "text": "PRINTING...",
+      "score": 4
+    },
+    {
+      "line": 5320,
+      "text": "...AND MUST BE REPRESSED",
+      "score": 4
+    },
+    {
+      "line": 5365,
+      "text": "VERNACULAR ALLIED TO",
+      "score": 4
+    },
+    {
+      "line": 5366,
+      "text": "PRINTING WOULD CHALLENGE",
+      "score": 4
+    },
+    {
+      "line": 5367,
+      "text": "THE NATION STATE",
+      "score": 4
+    },
+    {
+      "line": 5401,
+      "text": "ORNS HE 1 OR Re EL TEE © er UR Me BC",
+      "score": 4
+    },
+    {
+      "line": 5459,
+      "text": "BOOKS HENCEFORTH SHALL BE",
+      "score": 4
+    },
+    {
+      "line": 5460,
+      "text": "SEEN AND NOT HEARD",
+      "score": 4
+    },
+    {
+      "line": 5548,
+      "text": "AT THE QUEEN’S SERVICE, _",
+      "score": 4
+    },
+    {
+      "line": 5549,
+      "text": "SYNTHETIC CASTILIAN SHALL",
+      "score": 4
+    },
+    {
+      "line": 5550,
+      "text": "REPLACE THE PEOPLE’S SPEECH",
+      "score": 4
+    },
+    {
+      "line": 5595,
+      "text": "“SPEECH NURTURED FROM ROOTS",
+      "score": 4
+    },
+    {
+      "line": 5596,
+      "text": "IS REPLACED BY LANGUAGE",
+      "score": 4
+    },
+    {
+      "line": 5597,
+      "text": "DISPENSED FROM THE CROWN",
+      "score": 4
+    },
+    {
+      "line": 5664,
+      "text": "THE BOSOM OF ALMA MATER",
+      "score": 4
+    },
+    {
+      "line": 5806,
+      "text": "BUREAUCRATIC CONTROL AS",
+      "score": 4
+    },
+    {
+      "line": 5807,
+      "text": "THE STONE OF WISDOM",
+      "score": 4
+    },
+    {
+      "line": 5869,
+      "text": "THE EXPERT NEEDED BY THE",
+      "score": 4
+    },
+    {
+      "line": 5870,
+      "text": "CROWN",
+      "score": 4
+    },
+    {
+      "line": 5918,
+      "text": "SOCIAL STATUS FROM TAUGHT",
+      "score": 4
+    },
+    {
+      "line": 5919,
+      "text": "LANGUAGE RATHER THAN",
+      "score": 4
+    },
+    {
+      "line": 5920,
+      "text": "BLOOD",
+      "score": 4
+    },
+    {
+      "line": 5988,
+      "text": "THE EXPERT. AS: TUTOR OF THE",
+      "score": 4
+    },
+    {
+      "line": 5991,
+      "text": "SUBIEGCCES INTEREST",
+      "score": 4
+    },
+    {
+      "line": 6026,
+      "text": "aa ep SRE SS I OIE TEL EEL DELLE DL IED.",
+      "score": 4
+    },
+    {
+      "line": 6035,
+      "text": "NEBRIJA’S PROJECT",
+      "score": 4
+    },
+    {
+      "line": 6036,
+      "text": "SCANDALIZES HER MAJESTY",
+      "score": 4
+    },
+    {
+      "line": 6128,
+      "text": "3RD PART",
+      "score": 4
+    },
+    {
+      "line": 6129,
+      "text": "THE IMPOSITION OF TAUGHT",
+      "score": 4
+    },
+    {
+      "line": 6130,
+      "text": "MOTHER TONGUE",
+      "score": 4
+    },
+    {
+      "line": 6149,
+      "text": "THE RISE OF COMMODITY-",
+      "score": 4
+    },
+    {
+      "line": 6150,
+      "text": "INTENSIVE SOCIETY",
+      "score": 4
+    },
+    {
+      "line": 6259,
+      "text": "THE DECLINE OF VERNACULAR",
+      "score": 4
+    },
+    {
+      "line": 6260,
+      "text": "VALUES",
+      "score": 4
+    },
+    {
+      "line": 6387,
+      "text": "THE FIRST UNIVERSAL NEED FOR",
+      "score": 4
+    },
+    {
+      "line": 6388,
+      "text": "PROFESSIONAL SERVICE",
+      "score": 4
+    },
+    {
+      "line": 6504,
+      "text": "PROFESSIONAL CONTROL OVER",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 82,
+      "term": "whole systems",
+      "snippet": "eg) Oe? Oe OS 4 , > Summer 1980. No. 26 Whole Systems WAYS OF NATIVE AMERICAN RUNNING by Peter Nabokov and Margaret MacLean"
+    },
+    {
+      "line": 203,
+      "term": "learning",
+      "snippet": "issue. Maybe it’s a growing current in the real world, which swept us up lightly on its deepening flow. _-Stewart Brand (SB) Learning Community 124 Transitions = A Night of Serious Drinking = Kite Lines"
+    },
+    {
+      "line": 206,
+      "term": "community",
+      "snippet": "us up lightly on its deepening flow. _-Stewart Brand (SB) Learning Community 124 Transitions = A Night of Serious Drinking = Kite Lines 125 JUGGLING AS PERFORMING"
+    },
+    {
+      "line": 253,
+      "term": "communications",
+      "snippet": "THE WHORES IN ‘S4¢ i : THUS YOU HANE THe Communications GENESIS. OF YOUR NATIVE 118 By Design 119 Howto Love Your Flute m Selected"
+    },
+    {
+      "line": 946,
+      "term": "communications",
+      "snippet": "together the far-flung hamlets with news and dates of upcoming events, the Tarahumara preserve one- of the oldest communications systems in the Americas. In pre-Columbian times, runners and porters, hunters and warriors covered a tracery of paths which ultimately connected Hudson Bay to"
+    },
+    {
+      "line": 1145,
+      "term": "energy",
+      "snippet": "ecstasy, in the effort to gather into their souls more and more of the creative fire, the creative energy which will carry their tribe through the year, through the vicissitudes of the months. . . . As if hurled from a catapult, the Indian throws himself along the course, working his body"
+    },
+    {
+      "line": 1483,
+      "term": "learning",
+      "snippet": "out: “The sea shaman wants to see you.” He disappeared and for the next four years lived in a cave learning sacred songs. By the time he returned home, he had been given up for dead; his property had been destroyed after his funeral. But the running vision made him a sought-after"
+    },
+    {
+      "line": 1960,
+      "term": "community",
+      "snippet": "as young,.16 In 1975 journalist James Norman visited the Tara- humara and climbed up to an isolated community named Guagueybo and was passed by a runner who had already gone down the mountain and passed them on the way up. Norman compared"
+    },
+    {
+      "line": 2638,
+      "term": "interview",
+      "snippet": "Jan. 1972. Kabotie, Fred Interview: 18 March 1980, Santa Cruz, California. de Laguna, Frederica"
+    },
+    {
+      "line": 3338,
+      "term": "tools",
+      "snippet": "Dear Stewart, Three years ago you asked, what had become of my plan to write an epilogue to the industrial age. Indeed, that is what I had promised in 1973 in the introduction to Tools for Conviviality: During the next several years I intend to work on an epilogue to the industrial age. I want to trace the changes in language, myth, ritual and law which took place in the current epoch of packaging and of schooling. I want to describe the fading monopoly of the industrial mode of production and the"
+    },
+    {
+      "line": 3355,
+      "term": "energy",
+      "snippet": "The comments came. The readings which came with them led me in many directions I had never intended to go. To grapple with them, and to deepen my understanding of this late industrial age, I focused successively on Energy and Equity, Medical Nemesis and Disabling Professions. These were prolegomena towards a History of Needs that remains to be done. Iam now back to the study of history, the study of popular cultures, mentalities, practices and tools all too often overshadowed by the history of ideas, institutions and dominant styles. The promised epilogue is taking shape in a dozen"
+    },
+    {
+      "line": 3357,
+      "term": "tools",
+      "snippet": "focused successively on Energy and Equity, Medical Nemesis and Disabling Professions. These were prolegomena towards a History of Needs that remains to be done. Iam now back to the study of history, the study of popular cultures, mentalities, practices and tools all too often overshadowed by the history of ideas, institutions and dominant styles. The promised epilogue is taking shape in a dozen essays on the fate of Vernacular Values during the last five hundred years of warfare that has been waged by the modern State against all forms of Subsistence."
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": ": NVAYS OF NATIVE AMERICAN RUNNING pp4-2:"
+    },
+    {
+      "line": 4,
+      "text": "Also: Three new essays a (oe |"
+    },
+    {
+      "line": 5,
+      "text": "\\ ANEW en mel a | Summer 1980:"
+    },
+    {
+      "line": 6,
+      "text": ": VERNACULAR VALUES pp. 22-49 $300"
+    },
+    {
+      "line": 9,
+      "text": "San Geronimo Day Relay Races in September at Taos Pueblo,"
+    },
+    {
+      "line": 10,
+      "text": "New Mexico, 1907. Photo by Matilda Cox Stevenson."
+    },
+    {
+      "line": 16,
+      "text": "These ten-foot tall Shalako katchinas, couriers to the"
+    },
+    {
+      "line": 17,
+      "text": "Zuni Priests, run along a prescribed track on the sacred"
+    },
+    {
+      "line": 18,
+      "text": "grounds of Old Zuni in New Mexico during their festive"
+    },
+    {
+      "line": 19,
+      "text": "ceremony in late November or early December. Along"
+    },
+    {
+      "line": 20,
+      "text": "their course, they plant feathered prayer sticks for the"
+    },
+    {
+      "line": 21,
+      "text": "fertility of the soil and the general well-being of the"
+    },
+    {
+      "line": 22,
+      "text": "people. This 1920 photograph was by Ben Wittick."
+    },
+    {
+      "line": 25,
+      "text": "David Noble"
+    },
+    {
+      "line": 28,
+      "text": "Pecked into a cliff face in New Mexico’s Galisteo Basin is"
+    },
+    {
+      "line": 29,
+      "text": "this unrestrained, running figure. He is part of one of"
+    },
+    {
+      "line": 30,
+      "text": "the relatively rare narrative petroglyphs in the area."
+    },
+    {
+      "line": 33,
+      "text": "MMBe was alone and running on. All of his being was"
+    },
+    {
+      "line": 34,
+      "text": "concentrated in the sheer motion of running on, and he was past caring about the pain."
+    },
+    {
+      "line": 35,
+      "text": "Pure exhaustion laid hold of his mind, and he could see at last without having to think."
+    },
+    {
+      "line": 38,
+      "text": "He could see the rain and the rivers and the fields beyond. He could see the dark hills at"
+    },
+    {
+      "line": 41,
+      "text": "dawn. He was running, and under his breath he began to sing. There was no sound, and"
+    },
+    {
+      "line": 42,
+      "text": "he had no voice; he had only the words of a song. And he went running on the rise of"
+    },
+    {
+      "line": 43,
+      "text": "the song. House made of pollen, house made of dawn. Qtsedaba."
+    },
+    {
+      "line": 46,
+      "text": "-N. Scott Momaday."
+    },
+    {
+      "line": 47,
+      "text": "House Made of Dawn, Harper and Row Publishers, 1966."
+    },
+    {
+      "line": 50,
+      "text": "Front Cover"
+    },
+    {
+      "line": 53,
+      "text": "Hopi, 1919"
+    },
+    {
+      "line": 56,
+      "text": "Before dawn during the Lakon Basket Dance Ceremony, runners are taken by two Warrior Society"
+    },
+    {
+      "line": 57,
+      "text": "members, whirling bullroarers to simulate thunder, to a point some distance from their Hopi village."
+    },
+    {
+      "line": 58,
+      "text": "When the sun appears on the horizon, the runners dash off, led by the water-gourd carrier. As another"
+    },
+    {
+      "line": 59,
+      "text": "runner overtakes the leader, the gourd is passed to the front runner. Thus, the fastest man reaching the"
+    },
+    {
+      "line": 60,
+      "text": "village with the water filled gourd symbolizes a cloud bringing rain. Photos by Emery Kopta from the"
+    },
+    {
+      "line": 61,
+      "text": "Museum of the American Indian, Heye Foundation."
+    },
+    {
+      "line": 64,
+      "text": "Back Cover"
+    },
+    {
+      "line": 65,
+      "text": "Chihuahua, Mexico, 1970’s"
+    },
+    {
+      "line": 68,
+      "text": "Tarahumara women run long distances, sometimes in pairs, tossing, rolling, and carrying small hoops on"
+    },
+    {
+      "line": 69,
+      "text": "their sticks. Women and men are trained from childhood for endurance. Photo by John P. Schaefer,"
+    },
+    {
+      "line": 70,
+      "text": "President of the University of Arizona."
+    },
+    {
+      "line": 76,
+      "text": "eg) Oe? Oe OS 4 , >"
+    }
+  ]
+}

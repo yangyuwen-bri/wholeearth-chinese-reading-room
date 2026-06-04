@@ -1,0 +1,692 @@
+{
+  "title": "Whole Earth Review, March 1985",
+  "identifier": "wholeearthreview00unse_0",
+  "year": 1985,
+  "season": "March",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 109,
+  "url": "https://wholeearth.info/p/whole-earth-review-march-1985",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_0",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_0/wholeearthreview00unse_0.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_0/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthreview00unse_0_djvu.txt",
+  "ocr_chars": 509555,
+  "significant_line_count": 12184,
+  "theme_counts": {
+    "software_computing": 510,
+    "tools_craft": 189,
+    "ecology_place": 359,
+    "learning_media": 265,
+    "community_politics": 416
+  },
+  "top_themes": [
+    "software_computing",
+    "community_politics",
+    "ecology_place"
+  ],
+  "page_markers": [
+    {
+      "line": 594,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO CA 94965 5",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_0/page/n28_w500.jpg"
+    },
+    {
+      "line": 4605,
+      "page": 4,
+      "title": "FAAS TV EE",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_0/page/n5_w500.jpg"
+    },
+    {
+      "line": 11141,
+      "page": 68,
+      "title": "WHOLE EARTH REVIEW MARCH 1985",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_0/page/n69_w500.jpg"
+    },
+    {
+      "line": 11439,
+      "page": 70,
+      "title": "WHOLE EARTH REVIEW MARCH 1985",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_0/page/n71_w500.jpg"
+    },
+    {
+      "line": 11718,
+      "page": 72,
+      "title": "WHOLE EARTH REVIEW MARCH 1985",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_0/page/n73_w500.jpg"
+    },
+    {
+      "line": 14312,
+      "page": 86,
+      "title": "WHOLE EARTH REVIEW MARCH 1985 :",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_0/page/n87_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 11141,
+      "text": "68 WHOLE EARTH REVIEW MARCH 1985",
+      "score": 10
+    },
+    {
+      "line": 11439,
+      "text": "70 WHOLE EARTH REVIEW MARCH 1985",
+      "score": 10
+    },
+    {
+      "line": 11718,
+      "text": "72 WHOLE EARTH REVIEW MARCH 1985",
+      "score": 10
+    },
+    {
+      "line": 14312,
+      "text": "86 WHOLE EARTH REVIEW MARCH 1985 :",
+      "score": 10
+    },
+    {
+      "line": 594,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965 5",
+      "score": 8
+    },
+    {
+      "line": 807,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 4605,
+      "text": "4 FAAS TV EE",
+      "score": 8
+    },
+    {
+      "line": 6670,
+      "text": "27 GATE FIVE ROAD SAUSALITO",
+      "score": 8
+    },
+    {
+      "line": 10995,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965 67",
+      "score": 8
+    },
+    {
+      "line": 11293,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965 . 69",
+      "score": 8
+    },
+    {
+      "line": 11918,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965 73",
+      "score": 8
+    },
+    {
+      "line": 326,
+      "text": "DEPART MENTS/REVIEWS",
+      "score": 6
+    },
+    {
+      "line": 408,
+      "text": "MAGAZINES PROGRAMMING",
+      "score": 6
+    },
+    {
+      "line": 420,
+      "text": "CL] BAKUP CL] PROOF READER PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 725,
+      "text": "WHOLE EARTH REVIEW MARCH 1985",
+      "score": 6
+    },
+    {
+      "line": 3570,
+      "text": "WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 4542,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 5293,
+      "text": "Rea G THROUGH A SIZEABLE GATHERING OF REVIEWS OF",
+      "score": 6
+    },
+    {
+      "line": 6112,
+      "text": "WHOLE EARTH REVIEW = MARCH 1985",
+      "score": 6
+    },
+    {
+      "line": 7450,
+      "text": "THE MISKITO INDIAN CASE IN NICARAGUA: A REVIEW",
+      "score": 6
+    },
+    {
+      "line": 10210,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 12065,
+      "text": ": 74 ‘ WHOLE EARTH REVIEW MARCH 1985",
+      "score": 6
+    },
+    {
+      "line": 15032,
+      "text": "PROGRAMMING",
+      "score": 6
+    },
+    {
+      "line": 15072,
+      "text": "PROOF READER PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 15129,
+      "text": "COPY PROGRAMS",
+      "score": 6
+    },
+    {
+      "line": 15986,
+      "text": "THIS PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 16328,
+      "text": "LEARNING UPDATE ACCESS",
+      "score": 6
+    },
+    {
+      "line": 17923,
+      "text": "REVIEW",
+      "score": 6
+    },
+    {
+      "line": 13783,
+      "text": "with a clipping of our review of the program (WESC p. 36)...",
+      "score": 5
+    },
+    {
+      "line": 16763,
+      "text": "reviews, utility programs, and ideas on computing.",
+      "score": 5
+    },
+    {
+      "line": 1,
+      "text": "RAGE aN RCH",
+      "score": 4
+    },
+    {
+      "line": 81,
+      "text": "FINING",
+      "score": 4
+    },
+    {
+      "line": 128,
+      "text": "COMMERCE",
+      "score": 4
+    },
+    {
+      "line": 211,
+      "text": "MINIMA 4",
+      "score": 4
+    },
+    {
+      "line": 274,
+      "text": "C Q M",
+      "score": 4
+    },
+    {
+      "line": 277,
+      "text": "| STREETS",
+      "score": 4
+    },
+    {
+      "line": 284,
+      "text": "4 . 10 MINUTES",
+      "score": 4
+    },
+    {
+      "line": 385,
+      "text": "“ A oe | BACKSCATTER",
+      "score": 4
+    },
+    {
+      "line": 406,
+      "text": "WHOLE EARTH SOFTWARE CATALOG",
+      "score": 4
+    },
+    {
+      "line": 407,
+      "text": "VERSION 1.2",
+      "score": 4
+    },
+    {
+      "line": 409,
+      "text": "78 IEEE Spectrum 0 A+ 91 THE GREAT UTILITIES",
+      "score": 4
+    },
+    {
+      "line": 411,
+      "text": "HARDWARE 91 COPY II PLUS, COPY II PC, ULTRA COPY",
+      "score": 4
+    },
+    {
+      "line": 414,
+      "text": "TRACKER (J DIRE-TREE 1) DM II U",
+      "score": 4
+    },
+    {
+      "line": 415,
+      "text": "PLAYING DIVERSI-DOS [1 1DIR [1] POWER!, SWEEP",
+      "score": 4
+    },
+    {
+      "line": 416,
+      "text": "80 SUMMER GAMES ( Update 93 THE CIA 0 THE NORTON UTILITIES",
+      "score": 4
+    },
+    {
+      "line": 417,
+      "text": "WRITING LL) EXTENDED BATCH LANGUAGE",
+      "score": 4
+    },
+    {
+      "line": 421,
+      "text": "81 SKIWRITER C Update Cl PC/SIG LIBRARY",
+      "score": 4
+    },
+    {
+      "line": 437,
+      "text": "MANAGING 95 ROBOT ODYSSEY I",
+      "score": 4
+    },
+    {
+      "line": 439,
+      "text": "85 Update 96 PRINTSHOP (1 AQUARIUM",
+      "score": 4
+    },
+    {
+      "line": 450,
+      "text": "TELECOMMUNICATING 99 The Decillionix DX-1/ THE INTERPO-",
+      "score": 4
+    },
+    {
+      "line": 457,
+      "text": "ENVIRONMENTALISM",
+      "score": 4
+    },
+    {
+      "line": 458,
+      "text": "AS POISON?",
+      "score": 4
+    },
+    {
+      "line": 512,
+      "text": "coming from Peregrine Smith Books. We'll review it properly next issue. Deep Ecology",
+      "score": 4
+    },
+    {
+      "line": 1155,
+      "text": "LOOK! ORWERS LICENSE,",
+      "score": 4
+    },
+    {
+      "line": 1156,
+      "text": "SHELL.... BLUE COR... PASSRORT!",
+      "score": 4
+    },
+    {
+      "line": 1162,
+      "text": "VISA,",
+      "score": 4
+    },
+    {
+      "line": 1173,
+      "text": "MIGHT DO...",
+      "score": 4
+    },
+    {
+      "line": 1229,
+      "text": "VOTER'S REGISTRATION",
+      "score": 4
+    },
+    {
+      "line": 1309,
+      "text": "“ALL NATURAL ENTITIES (INCLUDING",
+      "score": 4
+    },
+    {
+      "line": 1310,
+      "text": "HUMANS) HAVE INTRINSIC WORTH",
+      "score": 4
+    },
+    {
+      "line": 1311,
+      "text": "SIMPLY BY VIRTUE OF BEING AND BEING",
+      "score": 4
+    },
+    {
+      "line": 1339,
+      "text": "MODELS AVAILABLE IN 1985",
+      "score": 4
+    },
+    {
+      "line": 1342,
+      "text": "WHIMPERING PINES",
+      "score": 4
+    },
+    {
+      "line": 1345,
+      "text": "CHALET-VIEW) VILLAGE CLOISTERS",
+      "score": 4
+    },
+    {
+      "line": 2364,
+      "text": "_27 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 4
+    },
+    {
+      "line": 2479,
+      "text": "THE USE AND MISUSE 45 >¢724",
+      "score": 4
+    },
+    {
+      "line": 2482,
+      "text": "“ WY, 4 3",
+      "score": 4
+    },
+    {
+      "line": 2489,
+      "text": "WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 2547,
+      "text": "CAMILLE FLAMMARION, 1888",
+      "score": 4
+    },
+    {
+      "line": 2581,
+      "text": "EARTHSCAPE: THE EARTH AS LANDSCAPE",
+      "score": 4
+    },
+    {
+      "line": 2627,
+      "text": "LEAVING THE CATHEDRAL",
+      "score": 4
+    },
+    {
+      "line": 2705,
+      "text": "‘ EXTRATERRESTRIALISM",
+      "score": 4
+    },
+    {
+      "line": 2781,
+      "text": "HOMELESS IN INFINITUDE",
+      "score": 4
+    },
+    {
+      "line": 2838,
+      "text": "THE FLAT EARTH",
+      "score": 4
+    },
+    {
+      "line": 3009,
+      "text": "DEATH OF NATURE",
+      "score": 4
+    },
+    {
+      "line": 3070,
+      "text": "CONTROL AND CONQUEST",
+      "score": 4
+    },
+    {
+      "line": 3095,
+      "text": "THE EARTH ENCOMPASSED AND CONTAINED",
+      "score": 4
+    },
+    {
+      "line": 3168,
+      "text": "QMPUTER OUTLEL",
+      "score": 4
+    },
+    {
+      "line": 3176,
+      "text": "THE TOKEN EARTH AND ITS TRIVIALIZATION",
+      "score": 4
+    },
+    {
+      "line": 3200,
+      "text": "CARTESIAN FANTASIES",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 66,
+      "term": "energy",
+      "snippet": "Ideally, the city is the most environmentally benign form of human settlement. Each city-dweller consumes less land, less energy, less water, and produces less pollution than his counterpart in settlements of lower densities. Housing densities of suburban subdivisions range from 4 to 6 units per"
+    },
+    {
+      "line": 98,
+      "term": "energy",
+      "snippet": "in the U.S. dedicates nearly 50 percent of its land area to storing and moving automobiles. The city consumes less energy for several inter- active reasons. First, its more compact buildings have more shared walls, less exterior surface, and therefore smaller heating demands. In a"
+    },
+    {
+      "line": 121,
+      "term": "energy",
+      "snippet": "travel 12,200 miles per year, while a typical family living outside the city limits travels 23 percent more, burning nearly the same amount of energy it would take to heat a townhouse for that year. ial O COMMERCE"
+    },
+    {
+      "line": 146,
+      "term": "energy",
+      "snippet": "unpleasant ones breed wide environmental ruin. ‘The accumulated effects of these aspects can be seen by comparing the per capita energy con- sumption in an urbanized culture to our own suburbanized pattern. A citizen of Sweden, a country with a similar industrial profile, a higher"
+    },
+    {
+      "line": 221,
+      "term": "energy",
+      "snippet": "2 “My, MINIMA 4 consumes only 55 percent as much energy as the ~ Parion OF Drawing by Leon Krier, in Lotus International. Further work in Counterprojects, Archives D'’Architecture Moderne, 14 Rue Defacqz, 1050 Bruxelles, Belgium. down into traditional “‘quarters,’’ each with a"
+    },
+    {
+      "line": 268,
+      "term": "learning",
+      "snippet": "this neglect can be considered one contribution to suburban growth. Environmentalists must accept cities and participate in redefining them, learning to operate the steering wheel as well as the brakes. Growth must be directed - not blindly shifted. ="
+    },
+    {
+      "line": 329,
+      "term": "whole systems",
+      "snippet": "by Steve Sorensen DEPART MENTS/REVIEWS WHOLE SYSTEMS 33 Winter Gardening in the Maritime | 14 Environmental Ethics 0 The Fallacy Northwest (] In One Barn of Wildlife Conservation L] Ethics COMMUNITY & Animals 45 Living Wonders LJ The International"
+    },
+    {
+      "line": 336,
+      "term": "community",
+      "snippet": "WHOLE SYSTEMS 33 Winter Gardening in the Maritime | 14 Environmental Ethics 0 The Fallacy Northwest (] In One Barn of Wildlife Conservation L] Ethics COMMUNITY & Animals 45 Living Wonders LJ The International 15 The Resourceful Earth Society of Cryptozoology Name 46 The Natural Cat LD) The Cat Yellow Pages"
+    },
+    {
+      "line": 346,
+      "term": "energy",
+      "snippet": "48 Working Pregnant LJ The Fit-or-Fat LAND USE Target Diet L] The Helper 27 Grow Your Own Energy 49 The Minds of Billy Milligan (1) Every- L] The Book of Bamboo body’s Guide to Homeopathic Medicines Whole Earth Review (J Issue No. 45 UO) February 4, 1985 (ISSN 0749-5056) (USPS 077-150). Published bimonthly by POINT, a Cali- fornia nonprofit corporation. Editorial office: 27 Gate Five Road, Sausalito, CA 94965. Subscriptions: $18 per year, single copies: $3."
+    },
+    {
+      "line": 382,
+      "term": "communications",
+      "snippet": "to previous Miskito articles 7] a ee re vast et Alr- planes utz Enterprises Flying COMMUNICATIONS Apparatus L] Aerobie 62 Books on Tape L) The Cassette Book 100 Good Movies by Sheila Benson Library L) The Mind’s Eye L] Tape-W “ A oe | BACKSCATTER"
+    },
+    {
+      "line": 406,
+      "term": "software",
+      "snippet": "76 AM/FM Crank Recharging Radio 104 Financial Report 1) Thank You CL} Zomeworks Track Rack ea L] Whole Earth Review Update WHOLE EARTH SOFTWARE CATALOG VERSION 1.2 MAGAZINES PROGRAMMING 78 IEEE Spectrum 0 A+ 91 THE GREAT UTILITIES"
+    },
+    {
+      "line": 408,
+      "term": "programming",
+      "snippet": "WHOLE EARTH SOFTWARE CATALOG VERSION 1.2 MAGAZINES PROGRAMMING 78 IEEE Spectrum 0 A+ 91 THE GREAT UTILITIES 79 Update edited by James Stockford HARDWARE 91 COPY II PLUS, COPY II PC, ULTRA COPY"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "RAGE aN RCH"
+    },
+    {
+      "line": 2,
+      "text": "RA a No. 45 MARCH 1985 $3 (No Advertising) ”"
+    },
+    {
+      "line": 5,
+      "text": "4 gi"
+    },
+    {
+      "line": 8,
+      "text": "ge ooo"
+    },
+    {
+      "line": 9,
+      "text": "gone"
+    },
+    {
+      "line": 20,
+      "text": "-- aa."
+    },
+    {
+      "line": 26,
+      "text": "ee! mee Oe ea od"
+    },
+    {
+      "line": 29,
+      "text": "REDE"
+    },
+    {
+      "line": 32,
+      "text": "| by Peter Calthorpe"
+    },
+    {
+      "line": 35,
+      "text": "LIVE in a town of environmentalists. They care"
+    },
+    {
+      "line": 36,
+      "text": "about saving the Bay, they care about the open"
+    },
+    {
+      "line": 37,
+      "text": "hills nearby, they have a recycling program, they"
+    },
+    {
+      "line": 38,
+      "text": "want to preserve the small-town quality of their"
+    },
+    {
+      "line": 39,
+      "text": "home, and they care a lot about auto congestion"
+    },
+    {
+      "line": 40,
+      "text": "on their streets. They support slow or no growth."
+    },
+    {
+      "line": 41,
+      "text": "In our culture, growth means urbanization, con-"
+    },
+    {
+      "line": 42,
+      "text": "gestion, homogenization, destruction of wildlife,"
+    },
+    {
+      "line": 43,
+      "text": "reductions of open space, and pollution of all"
+    },
+    {
+      "line": 44,
+      "text": "types. Growth is what developers want, ordinary"
+    },
+    {
+      "line": 45,
+      "text": "people bear, and environmentalists battle."
+    },
+    {
+      "line": 48,
+      "text": "Underlying these simplistic confrontations, many"
+    },
+    {
+      "line": 49,
+      "text": "unquestioned assumptions and entrenched para-"
+    },
+    {
+      "line": 50,
+      "text": "digms cloud the issues. Our image of the city as a"
+    },
+    {
+      "line": 51,
+      "text": "cancerous lesion oozing with pollution and"
+    },
+    {
+      "line": 52,
+      "text": "destroying the environment as its relentless growth"
+    },
+    {
+      "line": 53,
+      "text": "paves the Earth is born of nineteenth-century"
+    },
+    {
+      "line": 54,
+      "text": "industry. Our image of suburbia is born of the"
+    },
+    {
+      "line": 55,
+      "text": "fifties: the placeless strip, franchise businesses,"
+    },
+    {
+      "line": 56,
+      "text": "relentless subdivisions and freeways. These"
+    },
+    {
+      "line": 57,
+      "text": "images, no longer grounded in social needs or"
+    },
+    {
+      "line": 58,
+      "text": "technical necessity, linger as a demon polarizing"
+    },
+    {
+      "line": 59,
+      "text": "interest groups and traumatizing conservationists."
+    },
+    {
+      "line": 60,
+      "text": "Given these alternatives, no growth is the best"
+    },
+    {
+      "line": 61,
+      "text": "localized solution."
+    },
+    {
+      "line": 64,
+      "text": "Ideally, the city is the most environmentally benign"
+    },
+    {
+      "line": 65,
+      "text": "form of human settlement. Each city-dweller"
+    },
+    {
+      "line": 66,
+      "text": "consumes less land, less energy, less water, and"
+    },
+    {
+      "line": 67,
+      "text": "produces less pollution than his counterpart in"
+    },
+    {
+      "line": 68,
+      "text": "settlements of lower densities. Housing densities of"
+    },
+    {
+      "line": 69,
+      "text": "suburban subdivisions range from 4 to 6 units per"
+    }
+  ]
+}

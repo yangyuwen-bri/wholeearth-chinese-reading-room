@@ -1,0 +1,87 @@
+[
+  {
+    "title": "How to Use This Book",
+    "start_page": 2,
+    "end_page": 3
+  },
+  {
+    "title": "Shopping",
+    "start_page": 4,
+    "end_page": 9
+  },
+  {
+    "title": "Computer Magazines",
+    "start_page": 10,
+    "end_page": 13
+  },
+  {
+    "title": "Hardware",
+    "start_page": 14,
+    "end_page": 21
+  },
+  {
+    "title": "Buying",
+    "start_page": 22,
+    "end_page": 27
+  },
+  {
+    "title": "Playing",
+    "start_page": 28,
+    "end_page": 45
+  },
+  {
+    "title": "Writing",
+    "start_page": 46,
+    "end_page": 63
+  },
+  {
+    "title": "Analyzing",
+    "start_page": 64,
+    "end_page": 77
+  },
+  {
+    "title": "Organizing",
+    "start_page": 78,
+    "end_page": 93
+  },
+  {
+    "title": "Accounting",
+    "start_page": 94,
+    "end_page": 105
+  },
+  {
+    "title": "Managing",
+    "start_page": 106,
+    "end_page": 121
+  },
+  {
+    "title": "Drawing",
+    "start_page": 122,
+    "end_page": 137
+  },
+  {
+    "title": "Telecommunicating",
+    "start_page": 138,
+    "end_page": 157
+  },
+  {
+    "title": "Programming",
+    "start_page": 158,
+    "end_page": 174
+  },
+  {
+    "title": "Learning",
+    "start_page": 175,
+    "end_page": 191
+  },
+  {
+    "title": "Etc.",
+    "start_page": 192,
+    "end_page": 199
+  },
+  {
+    "title": "Point Foundation / Indexes / Last-Minute Supplement",
+    "start_page": 200,
+    "end_page": 224
+  }
+]

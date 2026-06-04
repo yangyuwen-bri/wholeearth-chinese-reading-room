@@ -1,0 +1,445 @@
+{
+  "title": "CoEvolution Catalog, October 1982",
+  "identifier": "coevolutioncatal00unse",
+  "year": 1982,
+  "season": "October",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 17,
+  "url": "https://wholeearth.info/p/coevolution-catalog-october-1982",
+  "archive_url": "https://archive.org/details/coevolutioncatal00unse",
+  "pdf_url": "https://archive.org/download/coevolutioncatal00unse/coevolutioncatal00unse.pdf",
+  "cover_url": "https://archive.org/download/coevolutioncatal00unse/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutioncatal00unse_djvu.txt",
+  "ocr_chars": 31245,
+  "significant_line_count": 907,
+  "theme_counts": {
+    "software_computing": 4,
+    "tools_craft": 5,
+    "ecology_place": 17,
+    "learning_media": 12,
+    "community_politics": 22
+  },
+  "top_themes": [
+    "community_politics",
+    "ecology_place",
+    "learning_media"
+  ],
+  "page_markers": [],
+  "candidate_headings": [
+    {
+      "line": 19,
+      "text": "LLLLLILLLL ALLL fp Ap L",
+      "score": 4
+    },
+    {
+      "line": 51,
+      "text": "WE OWNS WINE WBN",
+      "score": 4
+    },
+    {
+      "line": 330,
+      "text": "SAWRE BER",
+      "score": 4
+    },
+    {
+      "line": 336,
+      "text": "ESE NEE MERE A RAE IAEA",
+      "score": 4
+    },
+    {
+      "line": 358,
+      "text": "a M (38-40), L (42-44), XL (46-48)",
+      "score": 4
+    },
+    {
+      "line": 980,
+      "text": "ONE MILLION GALAXIES",
+      "score": 4
+    },
+    {
+      "line": 1044,
+      "text": "NGC 1232-3 NGC 5303 -»",
+      "score": 4
+    },
+    {
+      "line": 1134,
+      "text": "SELF ORDER FORM ON BACK COVER",
+      "score": 4
+    },
+    {
+      "line": 1137,
+      "text": "(OUOTION",
+      "score": 4
+    },
+    {
+      "line": 1146,
+      "text": "‘ORDER FORM",
+      "score": 4
+    },
+    {
+      "line": 1149,
+      "text": "‘9SE9",
+      "score": 4
+    },
+    {
+      "line": 1176,
+      "text": "NOA Y¥O4",
+      "score": 4
+    },
+    {
+      "line": 1183,
+      "text": "GNV¥YSD",
+      "score": 4
+    },
+    {
+      "line": 1197,
+      "text": "-UENH",
+      "score": 4
+    },
+    {
+      "line": 1203,
+      "text": "SLONGOUd OD",
+      "score": 4
+    },
+    {
+      "line": 1222,
+      "text": "ZLG BopereD yUeX OYUN IXON I] SNOILdIYOSENS",
+      "score": 4
+    },
+    {
+      "line": 1228,
+      "text": "UOIINJOAQOD 4eaA [",
+      "score": 4
+    },
+    {
+      "line": 1258,
+      "text": "$ SLONGOYd OD",
+      "score": 4
+    },
+    {
+      "line": 1275,
+      "text": "CLS Boyexeg YHeR 9/OUM IXENT | SNOILdIYOSENS",
+      "score": 4
+    },
+    {
+      "line": 1278,
+      "text": "UOIINJOAROD 1ea,A | C]",
+      "score": 4
+    },
+    {
+      "line": 1287,
+      "text": "19941S",
+      "score": 4
+    },
+    {
+      "line": 1296,
+      "text": "LAID |",
+      "score": 4
+    },
+    {
+      "line": 1306,
+      "text": "CA 94966",
+      "score": 4
+    },
+    {
+      "line": 1336,
+      "text": "SLONGOUYd OD",
+      "score": 4
+    },
+    {
+      "line": 1360,
+      "text": "UOI}NJOAROD sea, |",
+      "score": 4
+    },
+    {
+      "line": 1376,
+      "text": "SEE PAGE 15 FOR CREDIT CARD ORDER INFORMATION",
+      "score": 4
+    },
+    {
+      "line": 46,
+      "text": "AAU,",
+      "score": 3
+    },
+    {
+      "line": 119,
+      "text": "energy prices were forcing it into a less expansive and more conservative mode.",
+      "score": 3
+    },
+    {
+      "line": 246,
+      "text": "reviews of new stuff,",
+      "score": 3
+    },
+    {
+      "line": 263,
+      "text": "reviewed - 3907 items in",
+      "score": 3
+    },
+    {
+      "line": 450,
+      "text": "Ecology of Freedom;",
+      "score": 3
+    },
+    {
+      "line": 524,
+      "text": "and ‘‘Learning to Live",
+      "score": 3
+    },
+    {
+      "line": 566,
+      "text": "human energy; the life and",
+      "score": 3
+    },
+    {
+      "line": 602,
+      "text": "Plus 30 pages of reviews",
+      "score": 3
+    },
+    {
+      "line": 635,
+      "text": "reviewed by Nicholas Von",
+      "score": 3
+    },
+    {
+      "line": 700,
+      "text": "programs, space business,",
+      "score": 3
+    },
+    {
+      "line": 814,
+      "text": "music and an interview",
+      "score": 3
+    },
+    {
+      "line": 825,
+      "text": "as an energy-saving, eco-",
+      "score": 3
+    },
+    {
+      "line": 912,
+      "text": "the energy drain and the",
+      "score": 3
+    },
+    {
+      "line": 929,
+      "text": "relevance. Community",
+      "score": 3
+    },
+    {
+      "line": 1177,
+      "text": "WLOL",
+      "score": 3
+    },
+    {
+      "line": 1240,
+      "text": "LAID",
+      "score": 3
+    }
+  ],
+  "snippets": [
+    {
+      "line": 119,
+      "term": "energy",
+      "snippet": "in particular the extraordinary build-up of debt since 1973. Why was this debt incurred? To float the economy, to maintain its solvency during a period when energy prices were forcing it into a less expansive and more conservative mode. Both the Democrats and the Republicans have rejected this new mode. A long series of expansionary, deficit-ridden budgets was begun by Presidents Ford and Carter, starting in 1974 with Ford’s $75 billion deficit. In the six years"
+    },
+    {
+      "line": 450,
+      "term": "ecology",
+      "snippet": "Navajo Indians; a chapter from Murray Bookchin’s Ecology of Freedom; regional bibliographies; and contributions by Jan Morris, Gary Snyder, Molly"
+    },
+    {
+      "line": 524,
+      "term": "learning",
+      "snippet": "dangers of feeding anti- biotics to livestock; and ‘‘Learning to Live with Ambiguity’’ by Stephanie Mills. 7No. 26, Summer 1980."
+    },
+    {
+      "line": 566,
+      "term": "energy",
+      "snippet": "munity projects in Sri Lanka through sharing human energy; the life and opinions of Nepali Aama, a sensational old lady of the hills of Nepal."
+    },
+    {
+      "line": 814,
+      "term": "interview",
+      "snippet": "with asides on Christo's running fence, interspecies music and an interview with Taj Mahal plus a report on the New Alchemy Institute and the first part"
+    },
+    {
+      "line": 825,
+      "term": "energy",
+      "snippet": "No. 11, Fall 1976, $10. Underground architecture as an energy-saving, eco- nomic and very pleasant life style, arguments over whether the new data from"
+    },
+    {
+      "line": 912,
+      "term": "energy",
+      "snippet": "No. 4, Winter 1974, $25. Lewis Mumford lectures on the energy drain and the next transformation of man, scattered thoughts and a reading list from"
+    },
+    {
+      "line": 929,
+      "term": "community",
+      "snippet": "versial issue with historical value and contemporary relevance. Community organizing and running for public office, a proposal to eliminate the presidency,"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Oceanic azure."
+    },
+    {
+      "line": 2,
+      "text": "Plicmelacee"
+    },
+    {
+      "line": 3,
+      "text": "stratus white."
+    },
+    {
+      "line": 4,
+      "text": "on interstel ie"
+    },
+    {
+      "line": 5,
+      "text": "Adar black this"
+    },
+    {
+      "line": 6,
+      "text": "vaee) sweat"
+    },
+    {
+      "line": 7,
+      "text": "shirt is no-"
+    },
+    {
+      "line": 8,
+      "text": "shrink 5050"
+    },
+    {
+      "line": 9,
+      "text": "’ cotton blend."
+    },
+    {
+      "line": 10,
+      "text": "Small (34- 36),"
+    },
+    {
+      "line": 11,
+      "text": "medium (38-"
+    },
+    {
+      "line": 12,
+      "text": "40) ashe co"
+    },
+    {
+      "line": 15,
+      "text": "Differences from CQ this"
+    },
+    {
+      "line": 18,
+      "text": "TL CSL LA pti ft 6"
+    },
+    {
+      "line": 19,
+      "text": "LLLLLILLLL ALLL fp Ap L"
+    },
+    {
+      "line": 22,
+      "text": "4 Differences"
+    },
+    {
+      "line": 25,
+      "text": "from CQ"
+    },
+    {
+      "line": 26,
+      "text": "this Winter"
+    },
+    {
+      "line": 29,
+      "text": "25% off the 1982 Next Whole Earth"
+    },
+    {
+      "line": 30,
+      "text": "Catalog (2d Edition). Till January 1,"
+    },
+    {
+      "line": 31,
+      "text": "1983, instead of $16, only $12 postpaid."
+    },
+    {
+      "line": 37,
+      "text": "NK ay a Shs aN:"
+    },
+    {
+      "line": 38,
+      "text": "ve . S § X) 3"
+    },
+    {
+      "line": 39,
+      "text": "a we : -- aes 3"
+    },
+    {
+      "line": 42,
+      "text": "ioe “e"
+    },
+    {
+      "line": 43,
+      "text": "pranen™ <7"
+    },
+    {
+      "line": 46,
+      "text": "AAU,"
+    },
+    {
+      "line": 47,
+      "text": "rater"
+    },
+    {
+      "line": 51,
+      "text": "WE OWNS WINE WBN"
+    },
+    {
+      "line": 52,
+      "text": "EuBunwae"
+    },
+    {
+      "line": 61,
+      "text": "CoEvolution for a// tastes - a choice of"
+    },
+    {
+      "line": 62,
+      "text": "subscribing to CQ Lite or CO Dark."
+    },
+    {
+      "line": 63,
+      "text": "“Lite” is the usual 144 pages/issue of the"
+    },
+    {
+      "line": 64,
+      "text": "usual panoply minus articles that some"
+    },
+    {
+      "line": 65,
+      "text": "find offensive due to sexual explicitness."
+    },
+    {
+      "line": 66,
+      "text": "“Dark” is the usual ale including bo/der"
+    },
+    {
+      "line": 67,
+      "text": "material (and so frequently more than"
+    },
+    {
+      "line": 68,
+      "text": "144 pages). New subscriptions begin"
+    },
+    {
+      "line": 69,
+      "text": "with the Winter 82/83 issue, which is"
+    },
+    {
+      "line": 70,
+      "text": "standard size and, as it happens, offense-"
+    }
+  ]
+}

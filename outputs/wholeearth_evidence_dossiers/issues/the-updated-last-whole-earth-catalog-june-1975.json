@@ -1,0 +1,740 @@
+{
+  "title": "The (updated) Last Whole Earth Catalog, June 1975",
+  "identifier": "updatedlastwhole00unse",
+  "year": 1975,
+  "season": "June",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 458,
+  "url": "https://wholeearth.info/p/the-updated-last-whole-earth-catalog-june-1975",
+  "archive_url": "https://archive.org/details/updatedlastwhole00unse",
+  "pdf_url": "https://archive.org/download/updatedlastwhole00unse/updatedlastwhole00unse.pdf",
+  "cover_url": "https://archive.org/download/updatedlastwhole00unse/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/updatedlastwhole00unse_djvu.txt",
+  "ocr_chars": 4616266,
+  "significant_line_count": 99477,
+  "theme_counts": {
+    "software_computing": 404,
+    "tools_craft": 3361,
+    "ecology_place": 4631,
+    "learning_media": 4436,
+    "community_politics": 2124
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 15041,
+      "page": 4,
+      "title": "CHANGES -",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n5_w500.jpg"
+    },
+    {
+      "line": 16594,
+      "page": 2,
+      "title": "STORAGE BAG",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n3_w500.jpg"
+    },
+    {
+      "line": 20994,
+      "page": 5,
+      "title": "GAL. CAN OF",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n6_w500.jpg"
+    },
+    {
+      "line": 22907,
+      "page": 7,
+      "title": "PP BRISKET",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n8_w500.jpg"
+    },
+    {
+      "line": 24019,
+      "page": 0,
+      "title": "PSS.",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n1_w500.jpg"
+    },
+    {
+      "line": 24364,
+      "page": 3,
+      "title": "BITATIO,,",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n4_w500.jpg"
+    },
+    {
+      "line": 28724,
+      "page": 8,
+      "title": "FLOOD PLAIN",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n9_w500.jpg"
+    },
+    {
+      "line": 32611,
+      "page": 1,
+      "title": "ON A SQUARE, OR",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n2_w500.jpg"
+    },
+    {
+      "line": 55855,
+      "page": 10,
+      "title": "PIECE CERAMIC TOOL KIT",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n11_w500.jpg"
+    },
+    {
+      "line": 104726,
+      "page": 150,
+      "title": "WATT",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n151_w500.jpg"
+    },
+    {
+      "line": 105572,
+      "page": 185,
+      "title": "AMPHIBIAN",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n186_w500.jpg"
+    },
+    {
+      "line": 131044,
+      "page": 412,
+      "title": "TOUCH TO LEARN",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n413_w500.jpg"
+    },
+    {
+      "line": 131099,
+      "page": 413,
+      "title": "SET OF SIX ADDITIONAL TOUCH TO LEARN CASSETTES.",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n414_w500.jpg"
+    },
+    {
+      "line": 137117,
+      "page": 50,
+      "title": "FOOT MONORAIL",
+      "image_url": "https://archive.org/download/updatedlastwhole00unse/page/n51_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 15041,
+      "text": "4 CHANGES -",
+      "score": 8
+    },
+    {
+      "line": 16594,
+      "text": "2 STORAGE BAG",
+      "score": 8
+    },
+    {
+      "line": 20994,
+      "text": "5 GAL. CAN OF",
+      "score": 8
+    },
+    {
+      "line": 22907,
+      "text": "7 PP BRISKET",
+      "score": 8
+    },
+    {
+      "line": 24019,
+      "text": "0 PSS.",
+      "score": 8
+    },
+    {
+      "line": 24364,
+      "text": "3 BITATIO,,",
+      "score": 8
+    },
+    {
+      "line": 28724,
+      "text": "8 FLOOD PLAIN",
+      "score": 8
+    },
+    {
+      "line": 32611,
+      "text": "1 ON A SQUARE, OR",
+      "score": 8
+    },
+    {
+      "line": 32615,
+      "text": "3 DRIVE TWO BRADS",
+      "score": 8
+    },
+    {
+      "line": 32626,
+      "text": "5 WITH LOOP ON BRADS,",
+      "score": 8
+    },
+    {
+      "line": 32631,
+      "text": "2 MARK LENGTH OF MAJOR AXIS",
+      "score": 8
+    },
+    {
+      "line": 33511,
+      "text": "3 TEMPORARY",
+      "score": 8
+    },
+    {
+      "line": 55855,
+      "text": "10 PIECE CERAMIC TOOL KIT",
+      "score": 8
+    },
+    {
+      "line": 60082,
+      "text": "1 DRAW GAUGE",
+      "score": 8
+    },
+    {
+      "line": 62051,
+      "text": "ALSO LEARNING ABOUT NAKED COMMUNITY & RELATIONS",
+      "score": 8
+    },
+    {
+      "line": 65654,
+      "text": "1 DAY METHOD",
+      "score": 8
+    },
+    {
+      "line": 82398,
+      "text": "5 BOOTS",
+      "score": 8
+    },
+    {
+      "line": 92666,
+      "text": "4 C 8-14, D 6-15, E 6-14,",
+      "score": 8
+    },
+    {
+      "line": 97252,
+      "text": "3 E 70",
+      "score": 8
+    },
+    {
+      "line": 100391,
+      "text": "5 STEAN ECE.",
+      "score": 8
+    },
+    {
+      "line": 104239,
+      "text": "1 DOUBLE BUNK",
+      "score": 8
+    },
+    {
+      "line": 104726,
+      "text": "150 WATT",
+      "score": 8
+    },
+    {
+      "line": 105572,
+      "text": "185 AMPHIBIAN",
+      "score": 8
+    },
+    {
+      "line": 128066,
+      "text": "7 PAIN. AT",
+      "score": 8
+    },
+    {
+      "line": 129561,
+      "text": "4 MARAARARAMMS",
+      "score": 8
+    },
+    {
+      "line": 131044,
+      "text": "412 TOUCH TO LEARN",
+      "score": 8
+    },
+    {
+      "line": 131099,
+      "text": "413 SET OF SIX ADDITIONAL TOUCH TO LEARN CASSETTES.",
+      "score": 8
+    },
+    {
+      "line": 137117,
+      "text": "50 FOOT MONORAIL",
+      "score": 8
+    },
+    {
+      "line": 162868,
+      "text": "ENERGY, ECOLOGY &",
+      "score": 8
+    },
+    {
+      "line": 2551,
+      "text": "DARWIN-LOTKA ENERGY LAW",
+      "score": 6
+    },
+    {
+      "line": 44583,
+      "text": "” ENERGY",
+      "score": 6
+    },
+    {
+      "line": 62050,
+      "text": "LEARNING MUCH ABOUT OUR NAKED SELVES. WE ARE",
+      "score": 6
+    },
+    {
+      "line": 62081,
+      "text": "TREMELY RICH IN LEARNING POTENTIAL. ASHRAM",
+      "score": 6
+    },
+    {
+      "line": 62094,
+      "text": "THE BABY! LEARNING TO SKIN DIVE, TRIBESMAN SATAN",
+      "score": 6
+    },
+    {
+      "line": 62102,
+      "text": "SUN, GETTING CLEAR, LEARNING ABOUT LIBRE! HOLD",
+      "score": 6
+    },
+    {
+      "line": 63022,
+      "text": "problem is: STABILITY LEADS TO A FEELING OF COMMUNITY.",
+      "score": 6
+    },
+    {
+      "line": 65795,
+      "text": "REVIEW:",
+      "score": 6
+    },
+    {
+      "line": 65813,
+      "text": "SHORTER REVIEW:",
+      "score": 6
+    },
+    {
+      "line": 72481,
+      "text": "IS WILLING TO DO FOR THE COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 72502,
+      "text": "IT 1S UP TO US TO MAINTAIN CALM & PURE ENERGY",
+      "score": 6
+    },
+    {
+      "line": 74659,
+      "text": "RUNNING EXERCISE PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 94766,
+      "text": "6-5428 PONCHO/SHELTER, Large. :",
+      "score": 6
+    },
+    {
+      "line": 111197,
+      "text": "> PROGRAMMING AND",
+      "score": 6
+    },
+    {
+      "line": 111198,
+      "text": "_METAPROGRAMMING",
+      "score": 6
+    },
+    {
+      "line": 113723,
+      "text": "STUDY/REVIEW DECKS @ $9.75",
+      "score": 6
+    },
+    {
+      "line": 113727,
+      "text": "STUDY/REVIEW REFILL PACKS (50 cards) @ $1.95",
+      "score": 6
+    },
+    {
+      "line": 129859,
+      "text": "621.47 SOLAR ENERGY ENGINEERING.",
+      "score": 6
+    },
+    {
+      "line": 130328,
+      "text": "fX) TEACHING AND LEARNING AS PERFORMING",
+      "score": 6
+    },
+    {
+      "line": 139305,
+      "text": "PROGRAM SHEET",
+      "score": 6
+    },
+    {
+      "line": 150657,
+      "text": "“LEARNING FROM DOLPHINS",
+      "score": 6
+    },
+    {
+      "line": 160269,
+      "text": "ALTERNATIVE ENERGY",
+      "score": 6
+    },
+    {
+      "line": 161808,
+      "text": "COMMUNICATIONS 306-365,",
+      "score": 6
+    },
+    {
+      "line": 161819,
+      "text": "COMMUNITY. 177-244,",
+      "score": 6
+    },
+    {
+      "line": 161826,
+      "text": "COMMUNITY HISTORY 584",
+      "score": 6
+    },
+    {
+      "line": 161834,
+      "text": "COMMUNITY RADIO 324",
+      "score": 6
+    },
+    {
+      "line": 161930,
+      "text": "COMPUTER PROGRAMMING",
+      "score": 6
+    },
+    {
+      "line": 162281,
+      "text": "~ DESPERATE ECOLOGY",
+      "score": 6
+    },
+    {
+      "line": 162677,
+      "text": "ECOLOGY 32, 461",
+      "score": 6
+    },
+    {
+      "line": 162685,
+      "text": "ECOLOGY ACTION 40",
+      "score": 6
+    },
+    {
+      "line": 162699,
+      "text": "ECOLOGY ISSUES 33",
+      "score": 6
+    },
+    {
+      "line": 162704,
+      "text": "ECOLOGY PERIODICALS 41",
+      "score": 6
+    },
+    {
+      "line": 162858,
+      "text": "ENERGY 8, 68, 468",
+      "score": 6
+    },
+    {
+      "line": 162861,
+      "text": "ENERGY BY THE PEOPLE--",
+      "score": 6
+    },
+    {
+      "line": 162876,
+      "text": "ENERGY PERIODICALS",
+      "score": 6
+    },
+    {
+      "line": 162997,
+      "text": "LEARNING 387-390, 401, 731",
+      "score": 6
+    },
+    {
+      "line": 165099,
+      "text": "LEARNING 366-433, 710-749",
+      "score": 6
+    },
+    {
+      "line": 165101,
+      "text": "LEARNING ARCHITECTURE",
+      "score": 6
+    },
+    {
+      "line": 165104,
+      "text": "LEARNING BOOKS 373",
+      "score": 6
+    },
+    {
+      "line": 165920,
+      "text": "MORE ECOLOGY 42",
+      "score": 6
+    },
+    {
+      "line": 167057,
+      "text": "POLITICAL ECOLOGY 467",
+      "score": 6
+    },
+    {
+      "line": 167150,
+      "text": "POWER FROM SOLAR ENERGY",
+      "score": 6
+    },
+    {
+      "line": 168131,
+      "text": "SHELTER 507 :",
+      "score": 6
+    },
+    {
+      "line": 168132,
+      "text": "SHELTER 84-110, 506-525",
+      "score": 6
+    },
+    {
+      "line": 168410,
+      "text": "SOLAR ENERGY FOR",
+      "score": 6
+    },
+    {
+      "line": 170122,
+      "text": "WHOLE SYSTEMS 3-45, 452-473",
+      "score": 6
+    },
+    {
+      "line": 170170,
+      "text": "- WIND ENERGY",
+      "score": 6
+    },
+    {
+      "line": 2375,
+      "text": "/ Energy Ecology & Economics”",
+      "score": 5
+    },
+    {
+      "line": 30274,
+      "text": "energy lean on human affairs. The community dies,",
+      "score": 5
+    },
+    {
+      "line": 36044,
+      "text": "First off, thanks for a lovely review of my book, Stone Shelters in",
+      "score": 5
+    },
+    {
+      "line": 86936,
+      "text": "be so much better ecology if some of the mental energy",
+      "score": 5
+    }
+  ],
+  "snippets": [
+    {
+      "line": 8,
+      "term": "tools",
+      "snippet": "Whole I Catalog access to tools Meg h 16th Edition a eee June, 1975 Canada $8 - U.K. £3.95- ah"
+    },
+    {
+      "line": 18,
+      "term": "energy",
+      "snippet": "a eee June, 1975 Canada $8 - U.K. £3.95- ah “The flow of energy through a system acts to organize that system.”"
+    },
+    {
+      "line": 58,
+      "term": "tools",
+      "snippet": "a personal power is developing - power of the individual to conduct his own education, find his own inspiration, shape his own environment, and share his adventure with whoever is interested. Tools that aid this _ process are sought and promoted by the WHOLE EARTH CATALOG. Procedure Page 2 Whole Systems 3"
+    },
+    {
+      "line": 68,
+      "term": "whole systems",
+      "snippet": "_ process are sought and promoted by the WHOLE EARTH CATALOG. Procedure Page 2 Whole Systems 3 Divine Right’s Trip 9 Land Use ee 40 Shelter | 84"
+    },
+    {
+      "line": 76,
+      "term": "community",
+      "snippet": "Industry 111 Craft 146 Community 177 Nomadics - 245 Communications 306 Learning 366"
+    },
+    {
+      "line": 80,
+      "term": "communications",
+      "snippet": "Community 177 Nomadics - 245 Communications 306 Learning 366 Credits 434, How to Do a Whole Earth Catalog 435"
+    },
+    {
+      "line": 81,
+      "term": "learning",
+      "snippet": "Nomadics - 245 Communications 306 Learning 366 Credits 434, How to Do a Whole Earth Catalog 435 INT COVER"
+    },
+    {
+      "line": 125,
+      "term": "energy",
+      "snippet": "and beauty and rareness (dry moon, barren space) and began to bend human consciousness. The quote is from Energy Flow in Biology, by Harold Morowitz, $9.50 from Academic Press, 111 Fifth . Avenue, New York, NY 10003. INSIDE BACK COVER"
+    },
+    {
+      "line": 178,
+      "term": "tools",
+      "snippet": "Whole Earth Catalog secess te tools 16th Edition dune i978 The (updated) Last Whole Earth Catalog - it was"
+    },
+    {
+      "line": 287,
+      "term": "tools",
+      "snippet": "Box 428, Sausalito, CA 94965. Whole Earth Epilog access to tools Whole Earth Epilog - researched 1973-1974. 320 pages, $4 paperback ($9.25 hardcover). EPILOG"
+    },
+    {
+      "line": 320,
+      "term": "tools",
+      "snippet": "This is the on-going WHOLE EARTH CATALOG. Started in 1974, the CO-EVOLUTION QUARTERLY carries reviews of books, tools, and techniques we have learned of since the CATALOG and EPILOG were researched. These reviews make up maybe 40 pages of each 144-page issue of the magazine (we carry no advertising) - the rest is given to articles of what we"
+    },
+    {
+      "line": 391,
+      "term": "tools",
+      "snippet": "exchange to suppliers, but not favors. Our obligation is to CATALOG users and to ourselves to be sae | tools for one another. ss | The judgments in the reviews are wholly sincere. They are hee 4 only partially informed, often biased, very often wishful, occasion ally reflecting a temporary enthusiasm. Many are simply hasty."
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "The (updated) Last"
+    },
+    {
+      "line": 4,
+      "text": "Whole I"
+    },
+    {
+      "line": 5,
+      "text": "Catalog"
+    },
+    {
+      "line": 8,
+      "text": "access to tools"
+    },
+    {
+      "line": 11,
+      "text": "Meg h 16th Edition"
+    },
+    {
+      "line": 12,
+      "text": "a eee June, 1975"
+    },
+    {
+      "line": 15,
+      "text": "Canada $8 - U.K. £3.95- ah"
+    },
+    {
+      "line": 18,
+      "text": "“The flow of energy"
+    },
+    {
+      "line": 19,
+      "text": "through a system"
+    },
+    {
+      "line": 20,
+      "text": "acts to organize"
+    },
+    {
+      "line": 21,
+      "text": "that system.”"
+    },
+    {
+      "line": 24,
+      "text": "FUNCTION"
+    },
+    {
+      "line": 27,
+      "text": "Barge The WHOLE EARTH CATALOG functions as an evaluation and access"
+    },
+    {
+      "line": 28,
+      "text": "eae device. With it, the user should know better what is worth getting and"
+    },
+    {
+      "line": 29,
+      "text": "_- where and how to do the getting."
+    },
+    {
+      "line": 30,
+      "text": "_ An item is listed in the CATALOG if it is deemed:"
+    },
+    {
+      "line": 33,
+      "text": "1) Bsetil as a tool,"
+    },
+    {
+      "line": 36,
+      "text": "2) Relevant to independent education,"
+    },
+    {
+      "line": 39,
+      "text": "3) High quality or low cost,"
+    },
+    {
+      "line": 40,
+      "text": "4) Easily available by mail."
+    },
+    {
+      "line": 43,
+      "text": ": : CATALOG listings are continually re vised according to the experience"
+    },
+    {
+      "line": 44,
+      "text": "and suggestions of CATALOG users and staff."
+    },
+    {
+      "line": 47,
+      "text": "PURPOSE |"
+    },
+    {
+      "line": 49,
+      "text": "- We are as gods and might.as well get good at it. So far remotely done"
+    },
+    {
+      "line": 50,
+      "text": "power and glory - as via government, big business, formal education,"
+    },
+    {
+      "line": 52,
+      "text": "as church - has succeeded to the point where gross defects obscure actual"
+    },
+    {
+      "line": 53,
+      "text": "gains. In response to this dilemma and to these gains a realm of intimate,"
+    },
+    {
+      "line": 54,
+      "text": "a personal power is developing - power of the individual to conduct his"
+    },
+    {
+      "line": 55,
+      "text": "own education, find his own inspiration, shape his own environment,"
+    },
+    {
+      "line": 58,
+      "text": "and share his adventure with whoever is interested. Tools that aid this"
+    },
+    {
+      "line": 59,
+      "text": "_ process are sought and promoted by the WHOLE EARTH CATALOG."
+    },
+    {
+      "line": 65,
+      "text": "Procedure Page 2"
+    },
+    {
+      "line": 68,
+      "text": "Whole Systems 3"
+    },
+    {
+      "line": 69,
+      "text": "Divine Right’s Trip 9"
+    },
+    {
+      "line": 70,
+      "text": "Land Use ee 40"
+    },
+    {
+      "line": 71,
+      "text": "Shelter | 84"
+    },
+    {
+      "line": 74,
+      "text": "Industry 111"
+    },
+    {
+      "line": 75,
+      "text": "Craft 146"
+    },
+    {
+      "line": 76,
+      "text": "Community 177"
+    },
+    {
+      "line": 77,
+      "text": "Nomadics - 245"
+    }
+  ]
+}

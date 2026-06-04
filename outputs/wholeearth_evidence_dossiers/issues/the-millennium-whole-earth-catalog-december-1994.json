@@ -1,0 +1,800 @@
+{
+  "title": "The Millennium Whole Earth Catalog, December 1994",
+  "identifier": "millenniumwholee00unse",
+  "year": 1994,
+  "season": "December",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 412,
+  "url": "https://wholeearth.info/p/the-millennium-whole-earth-catalog-december-1994",
+  "archive_url": "https://archive.org/details/millenniumwholee00unse",
+  "pdf_url": "https://archive.org/download/millenniumwholee00unse/millenniumwholee00unse.pdf",
+  "cover_url": "https://archive.org/download/millenniumwholee00unse/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/millenniumwholee00unse_djvu.txt",
+  "ocr_chars": 3065160,
+  "significant_line_count": 80974,
+  "theme_counts": {
+    "software_computing": 1646,
+    "tools_craft": 2008,
+    "ecology_place": 3691,
+    "learning_media": 3403,
+    "community_politics": 2661
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 3191,
+      "page": 3,
+      "title": "INCREASE IN",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n4_w500.jpg"
+    },
+    {
+      "line": 5316,
+      "page": 5,
+      "title": "MILES PER HOUR",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n6_w500.jpg"
+    },
+    {
+      "line": 12114,
+      "page": 1,
+      "title": "CHLOROPHYTA",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n2_w500.jpg"
+    },
+    {
+      "line": 19540,
+      "page": 64,
+      "title": "SUSTAINABILITY",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n65_w500.jpg"
+    },
+    {
+      "line": 25087,
+      "page": 80,
+      "title": "WATER",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n81_w500.jpg"
+    },
+    {
+      "line": 45396,
+      "page": 4,
+      "title": "BIOR",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n5_w500.jpg"
+    },
+    {
+      "line": 47161,
+      "page": 72,
+      "title": "PREVENT",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n73_w500.jpg"
+    },
+    {
+      "line": 48836,
+      "page": 156,
+      "title": "TOOLS",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n157_w500.jpg"
+    },
+    {
+      "line": 49368,
+      "page": 58,
+      "title": "HOME SHOP",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n59_w500.jpg"
+    },
+    {
+      "line": 63514,
+      "page": 204,
+      "title": "NEW PARENTS",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n205_w500.jpg"
+    },
+    {
+      "line": 66787,
+      "page": 214,
+      "title": "BEYOND OZZIE & HARRIET",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n215_w500.jpg"
+    },
+    {
+      "line": 71865,
+      "page": 230,
+      "title": "DESIGN",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n231_w500.jpg"
+    },
+    {
+      "line": 79661,
+      "page": 256,
+      "title": "DESKTOP VIDEO",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n257_w500.jpg"
+    },
+    {
+      "line": 80895,
+      "page": 260,
+      "title": "GETTING STARTED IN TELECOMMUNICATIONS",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n261_w500.jpg"
+    },
+    {
+      "line": 91428,
+      "page": 294,
+      "title": "EFFECTIVE CITIZEN ACTION",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n295_w500.jpg"
+    },
+    {
+      "line": 97801,
+      "page": 312,
+      "title": "RETIREMENT",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n313_w500.jpg"
+    },
+    {
+      "line": 98294,
+      "page": 314,
+      "title": "SMALL BUSINESS",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n315_w500.jpg"
+    },
+    {
+      "line": 99655,
+      "page": 318,
+      "title": "UNDERSTANDING CORPORATIONS",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n319_w500.jpg"
+    },
+    {
+      "line": 100400,
+      "page": 320,
+      "title": "CORPORATE CHANGE",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n321_w500.jpg"
+    },
+    {
+      "line": 100943,
+      "page": 322,
+      "title": "WORLD TRAVEL",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n323_w500.jpg"
+    },
+    {
+      "line": 101664,
+      "page": 324,
+      "title": "GETTING THERE",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n325_w500.jpg"
+    },
+    {
+      "line": 109336,
+      "page": 6,
+      "title": "MOUNTAIN LAKE LOOP",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n7_w500.jpg"
+    },
+    {
+      "line": 114264,
+      "page": 368,
+      "title": "MEDITATION",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n369_w500.jpg"
+    },
+    {
+      "line": 122210,
+      "page": 384,
+      "title": "SHAMELESS SELF-PROMOTION",
+      "image_url": "https://archive.org/download/millenniumwholee00unse/page/n385_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 80895,
+      "text": "260 GETTING STARTED IN TELECOMMUNICATIONS",
+      "score": 10
+    },
+    {
+      "line": 3191,
+      "text": "3 INCREASE IN",
+      "score": 8
+    },
+    {
+      "line": 5316,
+      "text": "5 MILES PER HOUR",
+      "score": 8
+    },
+    {
+      "line": 12114,
+      "text": "1 CHLOROPHYTA",
+      "score": 8
+    },
+    {
+      "line": 19540,
+      "text": "64 SUSTAINABILITY",
+      "score": 8
+    },
+    {
+      "line": 25087,
+      "text": "80 WATER",
+      "score": 8
+    },
+    {
+      "line": 27469,
+      "text": "1 BEFORE THE WALL",
+      "score": 8
+    },
+    {
+      "line": 45396,
+      "text": "4 BIOR",
+      "score": 8
+    },
+    {
+      "line": 47161,
+      "text": "72 PREVENT",
+      "score": 8
+    },
+    {
+      "line": 48836,
+      "text": "156 TOOLS",
+      "score": 8
+    },
+    {
+      "line": 49368,
+      "text": "58 HOME SHOP",
+      "score": 8
+    },
+    {
+      "line": 63514,
+      "text": "204 NEW PARENTS",
+      "score": 8
+    },
+    {
+      "line": 66787,
+      "text": "214 BEYOND OZZIE & HARRIET",
+      "score": 8
+    },
+    {
+      "line": 71865,
+      "text": "230 DESIGN",
+      "score": 8
+    },
+    {
+      "line": 79661,
+      "text": "256 DESKTOP VIDEO",
+      "score": 8
+    },
+    {
+      "line": 91428,
+      "text": "294 EFFECTIVE CITIZEN ACTION",
+      "score": 8
+    },
+    {
+      "line": 94239,
+      "text": "1 WONG SOUGIT NH CORMELTION WITH THE MUROESS OF TWOUNTED STATES:",
+      "score": 8
+    },
+    {
+      "line": 97801,
+      "text": "312 RETIREMENT",
+      "score": 8
+    },
+    {
+      "line": 98294,
+      "text": "314 SMALL BUSINESS",
+      "score": 8
+    },
+    {
+      "line": 99655,
+      "text": "318 UNDERSTANDING CORPORATIONS",
+      "score": 8
+    },
+    {
+      "line": 100400,
+      "text": "320 CORPORATE CHANGE",
+      "score": 8
+    },
+    {
+      "line": 100943,
+      "text": "322 WORLD TRAVEL",
+      "score": 8
+    },
+    {
+      "line": 101664,
+      "text": "324 GETTING THERE",
+      "score": 8
+    },
+    {
+      "line": 109336,
+      "text": "6 MOUNTAIN LAKE LOOP",
+      "score": 8
+    },
+    {
+      "line": 114264,
+      "text": "368 MEDITATION",
+      "score": 8
+    },
+    {
+      "line": 122210,
+      "text": "384 SHAMELESS SELF-PROMOTION",
+      "score": 8
+    },
+    {
+      "line": 122443,
+      "text": "6 WORLD WIDE WEB",
+      "score": 8
+    },
+    {
+      "line": 122505,
+      "text": "16 SHAMELESS SELF-PROMOTION",
+      "score": 8
+    },
+    {
+      "line": 123718,
+      "text": "8 WORLD WIDE WEB",
+      "score": 8
+    },
+    {
+      "line": 37049,
+      "text": "ENERGY-EFFICIENT",
+      "score": 6
+    },
+    {
+      "line": 37237,
+      "text": "HATEVER COMMUNITY IS, WE HANKER FOR IT ANYWHERE AND SOMEHOW.",
+      "score": 6
+    },
+    {
+      "line": 37244,
+      "text": "COMMUNITY !2I",
+      "score": 6
+    },
+    {
+      "line": 81713,
+      "text": "WHERE TO FIND ONLINE COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 90216,
+      "text": "COMMUNITY POWER",
+      "score": 6
+    },
+    {
+      "line": 90318,
+      "text": "COMMUNITY NETWORKS",
+      "score": 6
+    },
+    {
+      "line": 112975,
+      "text": "LEARNING SOFTWARE FOR KIDS",
+      "score": 6
+    },
+    {
+      "line": 13492,
+      "text": "and shelter, as grove and community",
+      "score": 5
+    },
+    {
+      "line": 19970,
+      "text": "Ecology, Community and Lifestyle (Outline",
+      "score": 5
+    },
+    {
+      "line": 36564,
+      "text": "The Community Energy Workbook offers",
+      "score": 5
+    },
+    {
+      "line": 36619,
+      "text": "The Community Energy Workbook:",
+      "score": 5
+    },
+    {
+      "line": 39745,
+      "text": "Community Greening Review), 325 Walnut",
+      "score": 5
+    },
+    {
+      "line": 43508,
+      "text": "Both from The Community Board Program,",
+      "score": 5
+    },
+    {
+      "line": 44624,
+      "text": "$40 postpaid from Program for Community",
+      "score": 5
+    },
+    {
+      "line": 53321,
+      "text": "The Therapeutic Learning Program:",
+      "score": 5
+    },
+    {
+      "line": 79572,
+      "text": "_~, | Community Television Review (National",
+      "score": 5
+    },
+    {
+      "line": 80944,
+      "text": "programs, small businesses, community",
+      "score": 5
+    },
+    {
+      "line": 81140,
+      "text": "All communications software programs al-",
+      "score": 5
+    },
+    {
+      "line": 81532,
+      "text": "that support community. They all contain reviews and contact information for",
+      "score": 5
+    },
+    {
+      "line": 85779,
+      "text": "(features, interviews, reviews, discogra-",
+      "score": 5
+    },
+    {
+      "line": 90847,
+      "text": "Communications anaes es tion). Community network planners",
+      "score": 5
+    },
+    {
+      "line": 98758,
+      "text": "The Ecology of Commerce, is reviewed",
+      "score": 5
+    },
+    {
+      "line": 116824,
+      "text": "Community Board Program, 139",
+      "score": 5
+    },
+    {
+      "line": 116825,
+      "text": "Community Energy Workbook, | 17",
+      "score": 5
+    },
+    {
+      "line": 116827,
+      "text": "Community Greening Review, 128",
+      "score": 5
+    },
+    {
+      "line": 116831,
+      "text": "Community Television Review, 255",
+      "score": 5
+    },
+    {
+      "line": 117337,
+      "text": "Ecology, Community",
+      "score": 5
+    },
+    {
+      "line": 120053,
+      "text": "Program for Community",
+      "score": 5
+    },
+    {
+      "line": 1,
+      "text": "ACCESS to TOOLS & IDEAS for the TWENTY-FIRST CENTURY",
+      "score": 4
+    },
+    {
+      "line": 7,
+      "text": "F YOU WANT TO",
+      "score": 4
+    },
+    {
+      "line": 142,
+      "text": "Pw) . WHERE ARE",
+      "score": 4
+    },
+    {
+      "line": 281,
+      "text": "ACCESS TO TOOLS AND IDEAS FOR THE TWENTY-FIRST CENTURY",
+      "score": 4
+    },
+    {
+      "line": 295,
+      "text": "THE MILLENNIUM WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 335,
+      "text": "14 GIS",
+      "score": 4
+    },
+    {
+      "line": 399,
+      "text": "TS199.M54 1994",
+      "score": 4
+    },
+    {
+      "line": 914,
+      "text": "EACH MED/UM (THE",
+      "score": 4
+    },
+    {
+      "line": 916,
+      "text": "FROM THE LATIN WORD Me MEANING",
+      "score": 4
+    },
+    {
+      "line": 918,
+      "text": "MIDDLE ) SERVES p AS A BRIDGE",
+      "score": 4
+    },
+    {
+      "line": 919,
+      "text": "BETWEEN MINDS.",
+      "score": 4
+    },
+    {
+      "line": 1245,
+      "text": "SIM WooDRING",
+      "score": 4
+    },
+    {
+      "line": 1250,
+      "text": "HOW TO USE THIS BOOK",
+      "score": 4
+    },
+    {
+      "line": 1615,
+      "text": "- FAST, CHEAP, AND OUT OF CONTROL. (It came from",
+      "score": 4
+    },
+    {
+      "line": 1637,
+      "text": "BY STEWART BRAND",
+      "score": 4
+    },
+    {
+      "line": 1638,
+      "text": "WHOLE EARTH EDITOR 1968-1984",
+      "score": 4
+    },
+    {
+      "line": 1678,
+      "text": "ANCIENT UNDERSTANDINGS",
+      "score": 4
+    },
+    {
+      "line": 1830,
+      "text": "UMAN MINDS",
+      "score": 4
+    },
+    {
+      "line": 2106,
+      "text": "THE COSMOS",
+      "score": 4
+    },
+    {
+      "line": 2181,
+      "text": "FRANK'S.",
+      "score": 4
+    },
+    {
+      "line": 2182,
+      "text": "REAL PA",
+      "score": 4
+    },
+    {
+      "line": 2212,
+      "text": "THE UNIVERSE",
+      "score": 4
+    },
+    {
+      "line": 2371,
+      "text": "ROCKER",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 1,
+      "term": "tools",
+      "snippet": "ACCESS to TOOLS & IDEAS for the TWENTY-FIRST CENTURY Edited by Howard Rheingold A Point Foundation Book Foreword by Stewart Brand F YOU WANT TO maintain indepen-"
+    },
+    {
+      "line": 13,
+      "term": "tools",
+      "snippet": "large institutions you are going to need good M8 tools. Since 1968, Whole Earth Catalogs have transformed the world, one per- son at a time, by introducing"
+    },
+    {
+      "line": 18,
+      "term": "tools",
+      "snippet": "son at a time, by introducing world-changers to world-chang- ing tools. well as new categories of resources such as backyard biodiversity, electronic mail,"
+    },
+    {
+      "line": 31,
+      "term": "software",
+      "snippet": "Ancient forests are still impor- tant. Technology policies and telecommunication software are important too, these days. Some people who are taking the world in their hands are out in"
+    },
+    {
+      "line": 49,
+      "term": "tools",
+      "snippet": "Whole Earth is a network of ex- perts who find, evaluate, and share tools and ideas. Over the past twenty-five years, we have coevolved a worldwide commu- nity of information hunters and"
+    },
+    {
+      "line": 53,
+      "term": "community",
+      "snippet": "coevolved a worldwide commu- nity of information hunters and gatherers. This community now focuses upon what we need to know to build our own practical utopias in the 1990s and beyond."
+    },
+    {
+      "line": 60,
+      "term": "tools",
+      "snippet": "utopias in the 1990s and beyond. The Millennium Whole Earth Catalog integrates the best tools from the past twenty-five years with the best tools for the next twenty-five years, including old"
+    },
+    {
+      "line": 62,
+      "term": "tools",
+      "snippet": "Catalog integrates the best tools from the past twenty-five years with the best tools for the next twenty-five years, including old Whole Earth Catalog standards such as environmental restora-"
+    },
+    {
+      "line": 66,
+      "term": "community",
+      "snippet": "Whole Earth Catalog standards such as environmental restora- tion, community-building, whole systems think- ing, and medical self-care"
+    },
+    {
+      "line": 67,
+      "term": "whole systems",
+      "snippet": "such as environmental restora- tion, community-building, whole systems think- ing, and medical self-care Given the tools we show you"
+    },
+    {
+      "line": 76,
+      "term": "tools",
+      "snippet": "ing, and medical self-care Given the tools we show you here, you (or your family, vil- lage, community) have the power to influence the thoughts"
+    },
+    {
+      "line": 78,
+      "term": "community",
+      "snippet": "Given the tools we show you here, you (or your family, vil- lage, community) have the power to influence the thoughts and beliefs of others. The price of computing power has dropped"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "ACCESS to TOOLS & IDEAS for the TWENTY-FIRST CENTURY"
+    },
+    {
+      "line": 4,
+      "text": "Edited by Howard Rheingold A Point Foundation Book Foreword by Stewart Brand"
+    },
+    {
+      "line": 7,
+      "text": "F YOU WANT TO"
+    },
+    {
+      "line": 8,
+      "text": "maintain indepen-"
+    },
+    {
+      "line": 9,
+      "text": "dence in the era of"
+    },
+    {
+      "line": 10,
+      "text": "large institutions you"
+    },
+    {
+      "line": 11,
+      "text": "are going to need good"
+    },
+    {
+      "line": 13,
+      "text": "M8 tools. Since 1968,"
+    },
+    {
+      "line": 14,
+      "text": "Whole Earth Catalogs have"
+    },
+    {
+      "line": 15,
+      "text": "transformed the world, one per-"
+    },
+    {
+      "line": 16,
+      "text": "son at a time, by introducing"
+    },
+    {
+      "line": 17,
+      "text": "world-changers to world-chang-"
+    },
+    {
+      "line": 18,
+      "text": "ing tools."
+    },
+    {
+      "line": 21,
+      "text": "well as new categories of"
+    },
+    {
+      "line": 22,
+      "text": "resources such as backyard"
+    },
+    {
+      "line": 23,
+      "text": "biodiversity, electronic mail,"
+    },
+    {
+      "line": 24,
+      "text": "eco-tourism, and green"
+    },
+    {
+      "line": 25,
+      "text": "investing."
+    },
+    {
+      "line": 28,
+      "text": "Watersheds are still important."
+    },
+    {
+      "line": 29,
+      "text": "Ancient forests are still impor-"
+    },
+    {
+      "line": 30,
+      "text": "tant. Technology policies and"
+    },
+    {
+      "line": 31,
+      "text": "telecommunication software are"
+    },
+    {
+      "line": 32,
+      "text": "important too, these days."
+    },
+    {
+      "line": 35,
+      "text": "Some people who are taking the"
+    },
+    {
+      "line": 36,
+      "text": "world in their hands are out in"
+    },
+    {
+      "line": 37,
+      "text": "the rainforests. Many world-"
+    },
+    {
+      "line": 38,
+      "text": "changers are in cities and sub-"
+    },
+    {
+      "line": 39,
+      "text": "urbs. Others are in cyberspace."
+    },
+    {
+      "line": 40,
+      "text": "Here are the field reports, rec-"
+    },
+    {
+      "line": 41,
+      "text": "ommendations, and reviews"
+    },
+    {
+      "line": 42,
+      "text": "from the ethnobotanists in the"
+    },
+    {
+      "line": 43,
+      "text": "Amazon and the cybernauts of"
+    },
+    {
+      "line": 44,
+      "text": "the Internet."
+    },
+    {
+      "line": 47,
+      "text": "Whole Earth is a network of ex-"
+    },
+    {
+      "line": 48,
+      "text": "perts who find, evaluate, and"
+    },
+    {
+      "line": 49,
+      "text": "share tools and ideas. Over the"
+    },
+    {
+      "line": 50,
+      "text": "past twenty-five years, we have"
+    },
+    {
+      "line": 51,
+      "text": "coevolved a worldwide commu-"
+    },
+    {
+      "line": 52,
+      "text": "nity of information hunters and"
+    },
+    {
+      "line": 53,
+      "text": "gatherers. This community now"
+    }
+  ]
+}

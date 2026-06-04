@@ -1,0 +1,752 @@
+{
+  "title": "Whole Earth Epilog, October 1974",
+  "identifier": "wholeearthepilog00unse",
+  "year": 1974,
+  "season": "October",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 322,
+  "url": "https://wholeearth.info/p/whole-earth-epilog-october-1974",
+  "archive_url": "https://archive.org/details/wholeearthepilog00unse",
+  "pdf_url": "https://archive.org/download/wholeearthepilog00unse/wholeearthepilog00unse.pdf",
+  "cover_url": "https://archive.org/download/wholeearthepilog00unse/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthepilog00unse_djvu.txt",
+  "ocr_chars": 2643421,
+  "significant_line_count": 63858,
+  "theme_counts": {
+    "software_computing": 393,
+    "tools_craft": 2278,
+    "ecology_place": 3333,
+    "learning_media": 3373,
+    "community_politics": 1367
+  },
+  "top_themes": [
+    "learning_media",
+    "ecology_place",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 2350,
+      "page": 1,
+      "title": "EUGENE AVERY",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n2_w500.jpg"
+    },
+    {
+      "line": 13452,
+      "page": 22,
+      "title": "OCTOBER 1969",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n23_w500.jpg"
+    },
+    {
+      "line": 21773,
+      "page": 3,
+      "title": "MEASURES MORTAR SANO",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n4_w500.jpg"
+    },
+    {
+      "line": 21792,
+      "page": 6,
+      "title": "MEASURES MORTAR SAND",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n7_w500.jpg"
+    },
+    {
+      "line": 24481,
+      "page": 4,
+      "title": "QUEEN ANSE",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n5_w500.jpg"
+    },
+    {
+      "line": 30187,
+      "page": 7,
+      "title": "SPLIT G.R.P. FEMALE MOULD",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n8_w500.jpg"
+    },
+    {
+      "line": 36111,
+      "page": 562,
+      "title": "WEAVING",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n563_w500.jpg"
+    },
+    {
+      "line": 49458,
+      "page": 55,
+      "title": "E. 300 S.",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n56_w500.jpg"
+    },
+    {
+      "line": 69594,
+      "page": 660,
+      "title": "CAMPING",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n661_w500.jpg"
+    },
+    {
+      "line": 76726,
+      "page": 35,
+      "title": "LBS.",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n36_w500.jpg"
+    },
+    {
+      "line": 84836,
+      "page": 120,
+      "title": "INPUT P",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n121_w500.jpg"
+    },
+    {
+      "line": 84840,
+      "page": 140,
+      "title": "INPUT R",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n141_w500.jpg"
+    },
+    {
+      "line": 84844,
+      "page": 160,
+      "title": "INPUT N",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n161_w500.jpg"
+    },
+    {
+      "line": 84848,
+      "page": 180,
+      "title": "PRINT",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n181_w500.jpg"
+    },
+    {
+      "line": 89902,
+      "page": 15,
+      "title": "BUS DIREC",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n16_w500.jpg"
+    },
+    {
+      "line": 102353,
+      "page": 2,
+      "title": "BD-4 298",
+      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n3_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 2350,
+      "text": "1 EUGENE AVERY",
+      "score": 8
+    },
+    {
+      "line": 13452,
+      "text": "22 OCTOBER 1969",
+      "score": 8
+    },
+    {
+      "line": 21773,
+      "text": "3 MEASURES MORTAR SANO",
+      "score": 8
+    },
+    {
+      "line": 21789,
+      "text": "1 MEASURE PORTLAND CEMENT",
+      "score": 8
+    },
+    {
+      "line": 21792,
+      "text": "6 MEASURES MORTAR SAND",
+      "score": 8
+    },
+    {
+      "line": 21810,
+      "text": "3 MEASURES MORTAR SAND PLUS WATER",
+      "score": 8
+    },
+    {
+      "line": 22809,
+      "text": "1 MARSHALL",
+      "score": 8
+    },
+    {
+      "line": 24481,
+      "text": "4 QUEEN ANSE",
+      "score": 8
+    },
+    {
+      "line": 30187,
+      "text": "7 SPLIT G.R.P. FEMALE MOULD",
+      "score": 8
+    },
+    {
+      "line": 36111,
+      "text": "562 WEAVING",
+      "score": 8
+    },
+    {
+      "line": 49458,
+      "text": "55 E. 300 S.",
+      "score": 8
+    },
+    {
+      "line": 64793,
+      "text": "4 RUDDER PEDAL",
+      "score": 8
+    },
+    {
+      "line": 69594,
+      "text": "660 CAMPING",
+      "score": 8
+    },
+    {
+      "line": 76726,
+      "text": "35 LBS.",
+      "score": 8
+    },
+    {
+      "line": 84836,
+      "text": "120 INPUT P",
+      "score": 8
+    },
+    {
+      "line": 84840,
+      "text": "140 INPUT R",
+      "score": 8
+    },
+    {
+      "line": 84844,
+      "text": "160 INPUT N",
+      "score": 8
+    },
+    {
+      "line": 84848,
+      "text": "180 PRINT",
+      "score": 8
+    },
+    {
+      "line": 89902,
+      "text": "15 BUS DIREC",
+      "score": 8
+    },
+    {
+      "line": 102353,
+      "text": "2 BD-4 298",
+      "score": 8
+    },
+    {
+      "line": 104912,
+      "text": "4 CHANGES 44-45",
+      "score": 8
+    },
+    {
+      "line": 90,
+      "text": "eo WHOLE SYSTEMS _z.452",
+      "score": 6
+    },
+    {
+      "line": 96,
+      "text": "SHELTER Pg. 506",
+      "score": 6
+    },
+    {
+      "line": 128,
+      "text": "COMMUNITY Pg. 576",
+      "score": 6
+    },
+    {
+      "line": 149,
+      "text": "COMMUNICATIONS pz. 670",
+      "score": 6
+    },
+    {
+      "line": 152,
+      "text": "LEARNING Pg. 710",
+      "score": 6
+    },
+    {
+      "line": 191,
+      "text": "2 ECOLOGY i",
+      "score": 6
+    },
+    {
+      "line": 232,
+      "text": "POLITICAL ECOLOGY",
+      "score": 6
+    },
+    {
+      "line": 237,
+      "text": "ENERGY =",
+      "score": 6
+    },
+    {
+      "line": 2026,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 5275,
+      "text": "ICAL ECOLOGY",
+      "score": 6
+    },
+    {
+      "line": 5437,
+      "text": "ENERGY",
+      "score": 6
+    },
+    {
+      "line": 6050,
+      "text": "| 1, THE TRUE VALUE OF ENERGY TO SOCIETY",
+      "score": 6
+    },
+    {
+      "line": 6053,
+      "text": "IS THE NET ENERGY, WHICH IS THAT AFTER",
+      "score": 6
+    },
+    {
+      "line": 6054,
+      "text": "THE ENERGY COSTS OF GETTING AND",
+      "score": 6
+    },
+    {
+      "line": 6055,
+      "text": "CONCENTRATING THAT ENERGY ARE",
+      "score": 6
+    },
+    {
+      "line": 6150,
+      "text": "3. MANY CALCULATIONS OF ENERGY",
+      "score": 6
+    },
+    {
+      "line": 6152,
+      "text": "YEARS OF SUPPLY ARE AS GROSS ENERGY",
+      "score": 6
+    },
+    {
+      "line": 6153,
+      "text": "RATHER THAN NET ENERGY AND THUS MAY",
+      "score": 6
+    },
+    {
+      "line": 6224,
+      "text": "‘6. DURING TIMES WHEN ENERGY FLOWS",
+      "score": 6
+    },
+    {
+      "line": 6325,
+      "text": "QUALITY ENERGY FLOWS TO SUBSIDIZE THE",
+      "score": 6
+    },
+    {
+      "line": 6326,
+      "text": "POORER QUALITY ENERGY FLOW SO THAT",
+      "score": 6
+    },
+    {
+      "line": 6361,
+      "text": "9. ENERGY SOURCES WHICH ARE NOW Le",
+      "score": 6
+    },
+    {
+      "line": 6393,
+      "text": "SREASING ENERGY EFFICIENCY WITH",
+      "score": 6
+    },
+    {
+      "line": 6397,
+      "text": "M OF FANCY, ENERGY-EXPENSIVE",
+      "score": 6
+    },
+    {
+      "line": 6503,
+      "text": "13. SOLAR ENERGY IS VERY DILUTE AND",
+      "score": 6
+    },
+    {
+      "line": 6504,
+      "text": "THE INHERENT ENERGY COST OF",
+      "score": 6
+    },
+    {
+      "line": 6505,
+      "text": "CONCENTRATING SOLAR ENERGY INTO FORM",
+      "score": 6
+    },
+    {
+      "line": 6508,
+      "text": "PRODUCING PLANTS. WITHOUT ENERGY",
+      "score": 6
+    },
+    {
+      "line": 6580,
+      "text": "14. ENERGY IS MEASURED BY CALORIES,",
+      "score": 6
+    },
+    {
+      "line": 6582,
+      "text": "INTRACONVERTIBLE UNITS, BUT ENERGY",
+      "score": 6
+    },
+    {
+      "line": 6586,
+      "text": "ON THE ENERGY QUALITY AND QUANTITY,",
+      "score": 6
+    },
+    {
+      "line": 6588,
+      "text": "OF ENERGY OF A LOWER QUALITY GRADE",
+      "score": 6
+    },
+    {
+      "line": 6590,
+      "text": "GRADE. THE SCALE OF ENERGY GOES FROM",
+      "score": 6
+    },
+    {
+      "line": 6598,
+      "text": "15. NUCLEAR ENERGY IS NOW MAINLY",
+      "score": 6
+    },
+    {
+      "line": 6600,
+      "text": "BARELY YIELDS NET ENERGY.",
+      "score": 6
+    },
+    {
+      "line": 6659,
+      "text": "=\" SUBSTANTIAL ENERGY STORAGES ARE",
+      "score": 6
+    },
+    {
+      "line": 6689,
+      "text": "ON THE RELATIVE NET ENERGY OF THAT",
+      "score": 6
+    },
+    {
+      "line": 6692,
+      "text": "AND NONPRODUCTIVE ENERGY USES.",
+      "score": 6
+    },
+    {
+      "line": 6737,
+      "text": "ENERGY AVAILABILITIES, MANY KINDS OF",
+      "score": 6
+    },
+    {
+      "line": 6742,
+      "text": "ACCELERATING ENERGY CONSUMPTION IN",
+      "score": 6
+    },
+    {
+      "line": 6767,
+      "text": "ENERGY SOURCES IS NOT POSSIBLE, THEN -",
+      "score": 6
+    },
+    {
+      "line": 6774,
+      "text": "BECOME AN ENERGY LIABILITY BECAUSE",
+      "score": 6
+    },
+    {
+      "line": 6775,
+      "text": "THEIR HIGH ENERGY COST IS NO LONGER",
+      "score": 6
+    },
+    {
+      "line": 6776,
+      "text": "ACCELERATING ENERGY YIELD.",
+      "score": 6
+    },
+    {
+      "line": 6805,
+      "text": "STATE GRADUALLY WITH PROGRAMMATIC",
+      "score": 6
+    },
+    {
+      "line": 7093,
+      "text": "3. ENERGY COST OF SOME ACTIVITY MUST",
+      "score": 6
+    },
+    {
+      "line": 7166,
+      "text": "DURING ENERGY DECLINE.",
+      "score": 6
+    },
+    {
+      "line": 7310,
+      "text": "ASSISTANCE PROGRAMS 485",
+      "score": 6
+    },
+    {
+      "line": 18825,
+      "text": "SHELTER -",
+      "score": 6
+    },
+    {
+      "line": 19460,
+      "text": "LEARNING ARCHITECTURE",
+      "score": 6
+    },
+    {
+      "line": 24582,
+      "text": "ALTERNATIVE ENERGY",
+      "score": 6
+    },
+    {
+      "line": 24658,
+      "text": "ENERGY PERIODICALS",
+      "score": 6
+    },
+    {
+      "line": 25134,
+      "text": "ENERGY BY THE PEOPLE--",
+      "score": 6
+    },
+    {
+      "line": 25711,
+      "text": "IVE ENERGY -",
+      "score": 6
+    },
+    {
+      "line": 27526,
+      "text": "WIND ENERGY BIBLIOGRAPHY",
+      "score": 6
+    },
+    {
+      "line": 28589,
+      "text": "U. S. ENERGY FLOW PATTERNS, 1970",
+      "score": 6
+    },
+    {
+      "line": 28595,
+      "text": "CHARACTERISTICS OF FORECASTING ENERGY",
+      "score": 6
+    },
+    {
+      "line": 28694,
+      "text": "CONSERVATION, ENERGY-- RESIDENTIAL",
+      "score": 6
+    },
+    {
+      "line": 28697,
+      "text": "HOW TO CUT FAT OUT OF YOUR HOME ENERGY -",
+      "score": 6
+    }
+  ],
+  "snippets": [
+    {
+      "line": 21,
+      "term": "tools",
+      "snippet": "- First Edition September 1974 access to tools } Then the Lord answered Job out of the : whirlwind, and said, Who is this that darkeneth counsel by words without"
+    },
+    {
+      "line": 90,
+      "term": "whole systems",
+      "snippet": "z i 39:26-30 Wh | E , | Procedure Pg. 450 E eo WHOLE SYSTEMS _z.452 LAND USE Pg. 474 SHELTER Pg. 506 FUNCTION"
+    },
+    {
+      "line": 128,
+      "term": "community",
+      "snippet": "EPI/LOG listings are continually revised according to the experience and suggestions of EP/LOG users and staff. COMMUNITY Pg. 576 PURPOSE We are as gods, and may as well get good at it. This might include losing the pride that went before the fall"
+    },
+    {
+      "line": 143,
+      "term": "learning",
+      "snippet": "NOMADICS Pg. 634 we are in the process of taking. Rolling with such a fall is our present lesson-- learning whatever resilience, ingenuity, basic skills, and enthused detachment that survival requires. And learning perhaps to reverence some Gods who are not as us. COMMUNICATIONS pz. 670"
+    },
+    {
+      "line": 146,
+      "term": "learning",
+      "snippet": "is our present lesson-- learning whatever resilience, ingenuity, basic skills, and enthused detachment that survival requires. And learning perhaps to reverence some Gods who are not as us. COMMUNICATIONS pz. 670 LEARNING Pg. 710 FRONT COVER INSIDE FRONT COVER"
+    },
+    {
+      "line": 149,
+      "term": "communications",
+      "snippet": "ingenuity, basic skills, and enthused detachment that survival requires. And learning perhaps to reverence some Gods who are not as us. COMMUNICATIONS pz. 670 LEARNING Pg. 710 FRONT COVER INSIDE FRONT COVER The “unearthly” blue (well?) in the lunar foreground is in Everyone says, “Oh, the moon!” Except it’s the Earth-- Business Pg. 750"
+    },
+    {
+      "line": 152,
+      "term": "learning",
+      "snippet": "And learning perhaps to reverence some Gods who are not as us. COMMUNICATIONS pz. 670 LEARNING Pg. 710 FRONT COVER INSIDE FRONT COVER The “unearthly” blue (well?) in the lunar foreground is in Everyone says, “Oh, the moon!” Except it’s the Earth-- Business Pg. 750 the original NASA transparency-- | don’t know why it’s photo by Apollo 12. That’s not Nevada in the foreground."
+    },
+    {
+      "line": 175,
+      "term": "ecology",
+      "snippet": "g. 754 CYBERNETICS ; Steps to an Ecology of Mind - A Third Chameleon Hypothesis 453 System and Structure - Pigs for the Ancestors - Stalking the Wild Taboo 454 Patterns in Nature - Only Two Can Play This Game - Two Cybernetic Frontiers - Cybernetic Problems in Bionics 455 PHILOSOPHY"
+    },
+    {
+      "line": 191,
+      "term": "ecology",
+      "snippet": "The Atlas of World Wildlife - Fascinating World of Animals - Planet/Drum - Biogeography 460 2 ECOLOGY i = Ecology + Fundamentals of Ecology - “Ecology” - Basic Ecology - Animal Ecology 461 Life Beyond Earth & The Mind of Man - The Myth of the Continents Adrift -"
+    },
+    {
+      "line": 192,
+      "term": "ecology",
+      "snippet": "Planet/Drum - Biogeography 460 2 ECOLOGY i = Ecology + Fundamentals of Ecology - “Ecology” - Basic Ecology - Animal Ecology 461 Life Beyond Earth & The Mind of Man - The Myth of the Continents Adrift - “The universe begins to look more like a"
+    },
+    {
+      "line": 230,
+      "term": "tools",
+      "snippet": "PLANET ECONOMICS Toward a Steady-State Economy - Toward Global Equilibrium ~- Civilized Man’s Eight Deadly Sins - ““Armageddon” 465. Tools for Conviviality - Small is Beautiful - 3 for Survival 466 POLITICAL ECOLOGY The Ecologist - Not Man Apart - Should Trees Have Standing? - Ecotage -"
+    },
+    {
+      "line": 232,
+      "term": "ecology",
+      "snippet": "Deadly Sins - ““Armageddon” 465. Tools for Conviviality - Small is Beautiful - 3 for Survival 466 POLITICAL ECOLOGY The Ecologist - Not Man Apart - Should Trees Have Standing? - Ecotage - THE BIG STRANGE PICTURE 467 ENERGY ="
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 5,
+      "text": "Whole Earth Epil;"
+    },
+    {
+      "line": 8,
+      "text": "U.S.A. $4"
+    },
+    {
+      "line": 10,
+      "text": "Canada $5"
+    },
+    {
+      "line": 12,
+      "text": "United Kingdom £1.75"
+    },
+    {
+      "line": 13,
+      "text": "Australia $4 (recommended)"
+    },
+    {
+      "line": 14,
+      "text": "New Zealand $4"
+    },
+    {
+      "line": 17,
+      "text": "- First Edition"
+    },
+    {
+      "line": 18,
+      "text": "September 1974"
+    },
+    {
+      "line": 21,
+      "text": "access to tools"
+    },
+    {
+      "line": 24,
+      "text": "} Then the Lord answered Job out of the"
+    },
+    {
+      "line": 25,
+      "text": ": whirlwind, and said, Who is this that"
+    },
+    {
+      "line": 26,
+      "text": "darkeneth counsel by words without"
+    },
+    {
+      "line": 27,
+      "text": "knowledge? ..."
+    },
+    {
+      "line": 30,
+      "text": "Where was thou when | laid the"
+    },
+    {
+      "line": 31,
+      "text": "foundations of the earth? declare if"
+    },
+    {
+      "line": 32,
+      "text": "thou hast understanding. Who hath"
+    },
+    {
+      "line": 33,
+      "text": "laid the measures thereof, if thou"
+    },
+    {
+      "line": 34,
+      "text": "knowest? or who hath stretched the"
+    },
+    {
+      "line": 35,
+      "text": "line upon it? Whereupon are the"
+    },
+    {
+      "line": 36,
+      "text": "foundations thereof fastened? or who"
+    },
+    {
+      "line": 37,
+      "text": "faid the corner-stone thereof: when the"
+    },
+    {
+      "line": 38,
+      "text": "morning stars sang together, and all the"
+    },
+    {
+      "line": 39,
+      "text": "sons of God shouted for joy? .. ."
+    },
+    {
+      "line": 42,
+      "text": "Hast thou entered into the springs of the"
+    },
+    {
+      "line": 43,
+      "text": "sea? or hast thou walked in the search"
+    },
+    {
+      "line": 44,
+      "text": "of the depth? Have the gates of death"
+    },
+    {
+      "line": 45,
+      "text": "been opened unto thee? or hast thou"
+    },
+    {
+      "line": 46,
+      "text": "seen the doors of the shadow of death?"
+    },
+    {
+      "line": 48,
+      "text": "' Hast thou perceived the breadth of the"
+    },
+    {
+      "line": 49,
+      "text": "earth? declare if thou knowest it all... ."
+    },
+    {
+      "line": 52,
+      "text": "~ Canst thou bind the sweet influences of"
+    },
+    {
+      "line": 53,
+      "text": "Pleiades, gr loose the bands of Orion?"
+    },
+    {
+      "line": 56,
+      "text": "Canst thou bring forth Mazzarcth in his - Doth the hawk fly by thy wisdom, and"
+    },
+    {
+      "line": 57,
+      "text": "season? or canst thou guide Arcturus ‘stretch her wings toward the south?"
+    },
+    {
+      "line": 59,
+      "text": "with his sons? Knowest thou the . Doth the eagle mount up at thy command,"
+    },
+    {
+      "line": 60,
+      "text": "ordinances of heaven? canst thou set and make her nest on high? She"
+    },
+    {
+      "line": 62,
+      "text": "the dominion thereof in the earth? _ dwelleth and abideth on the rock, upon"
+    },
+    {
+      "line": 63,
+      "text": "Canst thou lift up thy voice to the the crag of the rock, and the strong"
+    },
+    {
+      "line": 64,
+      "text": "clouds, that abundance of waters may place. From thence she seeketh the"
+    },
+    {
+      "line": 66,
+      "text": "cover thee? Canst thou send lightnings, prey, and her eyes behold afar off. ..."
+    }
+  ]
+}

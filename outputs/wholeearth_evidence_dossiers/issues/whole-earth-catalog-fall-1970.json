@@ -1,0 +1,668 @@
+{
+  "title": "Whole Earth Catalog, Fall 1970",
+  "identifier": "wholeearthcatalo00unse_0",
+  "year": 1970,
+  "season": "Fall",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 148,
+  "url": "https://wholeearth.info/p/whole-earth-catalog-fall-1970",
+  "archive_url": "https://archive.org/details/wholeearthcatalo00unse_0",
+  "pdf_url": "https://archive.org/download/wholeearthcatalo00unse_0/wholeearthcatalo00unse_0.pdf",
+  "cover_url": "https://archive.org/download/wholeearthcatalo00unse_0/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthcatalo00unse_0_djvu.txt",
+  "ocr_chars": 961162,
+  "significant_line_count": 22557,
+  "theme_counts": {
+    "software_computing": 59,
+    "tools_craft": 709,
+    "ecology_place": 999,
+    "learning_media": 819,
+    "community_politics": 379
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 9105,
+      "page": 7,
+      "title": "WINTERGREEN",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_0/page/n8_w500.jpg"
+    },
+    {
+      "line": 10984,
+      "page": 5,
+      "title": "GAL. CAN OF",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_0/page/n6_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 9105,
+      "text": "7 WINTERGREEN",
+      "score": 8
+    },
+    {
+      "line": 10984,
+      "text": "5 GAL. CAN OF",
+      "score": 8
+    },
+    {
+      "line": 32627,
+      "text": "7 PRS SO:",
+      "score": 8
+    },
+    {
+      "line": 764,
+      "text": "SUGGESTING & REVIEWING",
+      "score": 6
+    },
+    {
+      "line": 3408,
+      "text": "SOLAR ENERGY SOCIETY",
+      "score": 6
+    },
+    {
+      "line": 18777,
+      "text": "METAPROGRAMMING",
+      "score": 6
+    },
+    {
+      "line": 19931,
+      "text": "_LNS BOOK REVIEW: JERRY RUBIN’S DOIT!",
+      "score": 6
+    },
+    {
+      "line": 35995,
+      "text": "AXLE SUPPORT PROGRAM SHEET",
+      "score": 6
+    },
+    {
+      "line": 40079,
+      "text": "A LEARNING TO LEARN CATALOG:",
+      "score": 6
+    },
+    {
+      "line": 8,
+      "text": "THE UNIVERSE",
+      "score": 4
+    },
+    {
+      "line": 23,
+      "text": "RA AN a",
+      "score": 4
+    },
+    {
+      "line": 29,
+      "text": "FUNCTION",
+      "score": 4
+    },
+    {
+      "line": 52,
+      "text": "PURPOSE",
+      "score": 4
+    },
+    {
+      "line": 65,
+      "text": "SUSTAINING SUBSCRIBERS",
+      "score": 4
+    },
+    {
+      "line": 89,
+      "text": "RETAINING SUBSCRIBERS",
+      "score": 4
+    },
+    {
+      "line": 638,
+      "text": "THE COVER",
+      "score": 4
+    },
+    {
+      "line": 656,
+      "text": "CORRESPONDING",
+      "score": 4
+    },
+    {
+      "line": 663,
+      "text": "ADVERTISING",
+      "score": 4
+    },
+    {
+      "line": 675,
+      "text": "DONATING",
+      "score": 4
+    },
+    {
+      "line": 690,
+      "text": "THE FAMILY",
+      "score": 4
+    },
+    {
+      "line": 700,
+      "text": "ORDERING FROM THE CATALOG",
+      "score": 4
+    },
+    {
+      "line": 731,
+      "text": "SUBSCRIBING",
+      "score": 4
+    },
+    {
+      "line": 747,
+      "text": "THE STAR",
+      "score": 4
+    },
+    {
+      "line": 1660,
+      "text": "or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 2180,
+      "text": "TECHNOLOGICAL",
+      "score": 4
+    },
+    {
+      "line": 2183,
+      "text": "SOCIETY",
+      "score": 4
+    },
+    {
+      "line": 2186,
+      "text": "JACQUES ELLUL",
+      "score": 4
+    },
+    {
+      "line": 2567,
+      "text": "=! -SB",
+      "score": 4
+    },
+    {
+      "line": 2568,
+      "text": ". | OLOGY",
+      "score": 4
+    },
+    {
+      "line": 2569,
+      "text": "i THE FUTURE",
+      "score": 4
+    },
+    {
+      "line": 2581,
+      "text": "or WHOLE EARTH CATALOG 3",
+      "score": 4
+    },
+    {
+      "line": 2584,
+      "text": "OQ 200 400 600 800 1000 1200 1400 1600",
+      "score": 4
+    },
+    {
+      "line": 2649,
+      "text": "=-J.D.",
+      "score": 4
+    },
+    {
+      "line": 3143,
+      "text": "or WHOLE EARTH CATALOG. ax",
+      "score": 4
+    },
+    {
+      "line": 3493,
+      "text": "LOS ANGELES COUNTY AIR POLLUTION",
+      "score": 4
+    },
+    {
+      "line": 3494,
+      "text": "CONTROL DISTRICT",
+      "score": 4
+    },
+    {
+      "line": 3516,
+      "text": "LABORATORY OF TREE RING RESEARCH",
+      "score": 4
+    },
+    {
+      "line": 3947,
+      "text": "Te ECOLOGICAL",
+      "score": 4
+    },
+    {
+      "line": 3948,
+      "text": "SURVEYS",
+      "score": 4
+    },
+    {
+      "line": 3954,
+      "text": "FROM SPACE",
+      "score": 4
+    },
+    {
+      "line": 3976,
+      "text": "AREND-ROLAND COMET:",
+      "score": 4
+    },
+    {
+      "line": 3993,
+      "text": "NGC. TYPE NGC TYPE",
+      "score": 4
+    },
+    {
+      "line": 4026,
+      "text": "WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 4067,
+      "text": "=. -SB",
+      "score": 4
+    },
+    {
+      "line": 4079,
+      "text": ": CANADA - or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 4108,
+      "text": "MAKING",
+      "score": 4
+    },
+    {
+      "line": 4166,
+      "text": "_ or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 4210,
+      "text": "APPARENT FIELD,",
+      "score": 4
+    },
+    {
+      "line": 4216,
+      "text": "YARDSTICK",
+      "score": 4
+    },
+    {
+      "line": 4314,
+      "text": "BUT PUPIL,",
+      "score": 4
+    },
+    {
+      "line": 4330,
+      "text": "TRUNK SNAP LATCH OR SCREW",
+      "score": 4
+    },
+    {
+      "line": 4331,
+      "text": "FOR TIGHTENING",
+      "score": 4
+    },
+    {
+      "line": 4334,
+      "text": "2 1/2\" PIPE CONCRETE “p # rt",
+      "score": 4
+    },
+    {
+      "line": 4335,
+      "text": "COUNTERWEIGHT",
+      "score": 4
+    },
+    {
+      "line": 4338,
+      "text": "BRACKET.",
+      "score": 4
+    },
+    {
+      "line": 4435,
+      "text": "° Ho E EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 4714,
+      "text": "VOLUME L",
+      "score": 4
+    },
+    {
+      "line": 4787,
+      "text": "MARCH 1964",
+      "score": 4
+    },
+    {
+      "line": 4806,
+      "text": "PERPETUAL MOTION",
+      "score": 4
+    },
+    {
+      "line": 4809,
+      "text": "JOURNAL",
+      "score": 4
+    },
+    {
+      "line": 4933,
+      "text": "G. SPENCER BROWN",
+      "score": 4
+    },
+    {
+      "line": 4939,
+      "text": "CONSTRUCTION",
+      "score": 4
+    },
+    {
+      "line": 4943,
+      "text": "CONTENT",
+      "score": 4
+    },
+    {
+      "line": 4954,
+      "text": "INTENT",
+      "score": 4
+    },
+    {
+      "line": 5210,
+      "text": "THE HERO",
+      "score": 4
+    },
+    {
+      "line": 5273,
+      "text": "REVOLUTION IN THE REVOLUTION",
+      "score": 4
+    },
+    {
+      "line": 5274,
+      "text": "IN THE REVOLUTION",
+      "score": 4
+    },
+    {
+      "line": 5321,
+      "text": "& POWER",
+      "score": 4
+    },
+    {
+      "line": 5386,
+      "text": "CROSS THE SNOWY MOUNTAIN -",
+      "score": 4
+    },
+    {
+      "line": 5387,
+      "text": "WE SHALL SEE CHAIRMAN MAO!",
+      "score": 4
+    },
+    {
+      "line": 5487,
+      "text": "SONG OF THE TASTE",
+      "score": 4
+    },
+    {
+      "line": 5618,
+      "text": "ENER HENTHY!!",
+      "score": 4
+    },
+    {
+      "line": 5625,
+      "text": "DON'T KNOW",
+      "score": 4
+    },
+    {
+      "line": 5627,
+      "text": "WHAT THEY RE",
+      "score": 4
+    },
+    {
+      "line": 5628,
+      "text": "MISSING",
+      "score": 4
+    },
+    {
+      "line": 5636,
+      "text": "THOSE RABBITS ;",
+      "score": 4
+    },
+    {
+      "line": 5637,
+      "text": "TA IW HERE!",
+      "score": 4
+    },
+    {
+      "line": 5647,
+      "text": "KNOCKED To HY",
+      "score": 4
+    },
+    {
+      "line": 5648,
+      "text": "KNEECHPS BY A",
+      "score": 4
+    },
+    {
+      "line": 5651,
+      "text": "HAMBORGER FROM",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 5,
+      "term": "tools",
+      "snippet": "Whole Earth Catalog access to tools THE UNIVERSE linenale)i-la\\cial =t-lata ola: Telalanvare f-NVZ"
+    },
+    {
+      "line": 427,
+      "term": "tools",
+      "snippet": "San Jose, California New York, New York interested. Tools that aid this Frank Millspaugh Jay A. Richardson, President, Consumer's Grass Co,"
+    },
+    {
+      "line": 808,
+      "term": "whole systems",
+      "snippet": "and we forgot you, get in touch. Whole Systems Shelter and Land Use 18 Community Communications"
+    },
+    {
+      "line": 810,
+      "term": "community",
+      "snippet": "Whole Systems Shelter and Land Use 18 Community Communications Industry and Craft Nomadics"
+    },
+    {
+      "line": 813,
+      "term": "communications",
+      "snippet": "Shelter and Land Use 18 Community Communications Industry and Craft Nomadics Learning"
+    },
+    {
+      "line": 818,
+      "term": "learning",
+      "snippet": "Industry and Craft Nomadics Learning AAA Adding Machine Company 62 ABC and XYZ of Bee Culture 34 Acoustical Foundations of Music 78"
+    },
+    {
+      "line": 980,
+      "term": "tools",
+      "snippet": "Construction Bargaineer 29 Consumer Reports 54 Cooperage Tools 131 Counter Culture 57 Countryside 60 Crazy Comics 122"
+    },
+    {
+      "line": 1121,
+      "term": "tools",
+      "snippet": "Handbook of Prescription Drugs 49 Handweaver & Craftsman 96 Hand Woodworking Tools 83 Harpsicord Kits and Supplies 78 Hear the Sound of My Feet Walking... 17 Heller-Aller 30"
+    },
+    {
+      "line": 1339,
+      "term": "energy",
+      "snippet": "New Key to Weaving 97 -New Religions 139 New Sources of Energy 24 New Schools Exchange 137 New World of the Oceans 110 Nine Chains to the Moon 8"
+    },
+    {
+      "line": 1387,
+      "term": "tools",
+      "snippet": "Order of the Universe Magazine 6 Organic Gardening and Farming Magazine 39 Osborne Tools 94 Outdoor Survival Skills 103 Owner-Built Home 27 Oxford Book of Food Plants 44"
+    },
+    {
+      "line": 1681,
+      "term": "whole systems",
+      "snippet": "The rain cells are replaced with money cells while only the amazed cat licks this holy water from the earth. Whole Systems beware of whole systemitis. its the lonliness awareness. imagine you are a near sighted, bucktoothed, kid, doing"
+    },
+    {
+      "line": 2546,
+      "term": "ecology",
+      "snippet": "considerable havoc and promise. Now we’re in for biology, says everybody, probably right. Molecular biology, already mature, has only begun to hit the fan. Ecology, though in great demand, has short supply so far. The glamour /ight, long in molecular biology, may now be migrating into brain science, the very heart of darkness. Still waiting for"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Whole Earth"
+    },
+    {
+      "line": 2,
+      "text": "Catalog"
+    },
+    {
+      "line": 5,
+      "text": "access to tools"
+    },
+    {
+      "line": 8,
+      "text": "THE UNIVERSE"
+    },
+    {
+      "line": 11,
+      "text": "linenale)i-la\\cial =t-lata"
+    },
+    {
+      "line": 12,
+      "text": "ola: Telalanvare f-NVZ"
+    },
+    {
+      "line": 15,
+      "text": "Fall 1970"
+    },
+    {
+      "line": 22,
+      "text": "IN il i a"
+    },
+    {
+      "line": 23,
+      "text": "RA AN a"
+    },
+    {
+      "line": 29,
+      "text": "FUNCTION"
+    },
+    {
+      "line": 32,
+      "text": "The WHOLE EARTH CATALOG functions as an evaluation and access"
+    },
+    {
+      "line": 35,
+      "text": "device. With it, the user should know better what is worth getting and"
+    },
+    {
+      "line": 36,
+      "text": "where and how to do the getting."
+    },
+    {
+      "line": 39,
+      "text": "An item is listed in the CATALOG if it is deemed:"
+    },
+    {
+      "line": 40,
+      "text": "1) Useful as a tool,"
+    },
+    {
+      "line": 43,
+      "text": "2) Relevant to independent education,"
+    },
+    {
+      "line": 44,
+      "text": "3) High quality or low cost,"
+    },
+    {
+      "line": 45,
+      "text": "4) Easily available by mail."
+    },
+    {
+      "line": 48,
+      "text": "CATALOG listings are continually revised according to the experience"
+    },
+    {
+      "line": 49,
+      "text": "and suggestions of CATALOG users and staff."
+    },
+    {
+      "line": 52,
+      "text": "PURPOSE"
+    },
+    {
+      "line": 55,
+      "text": "We are as gods and might as well get good at it. So far remotely done"
+    },
+    {
+      "line": 56,
+      "text": "power and glory--as via government, big business, formal education,"
+    },
+    {
+      "line": 57,
+      "text": "church--has succeeded to point where gross defects obscure actual"
+    },
+    {
+      "line": 58,
+      "text": "gains. In response to this dilemma and to these gains a realm of intimate,"
+    },
+    {
+      "line": 59,
+      "text": "personal power is developing--power of the individual to conduct his"
+    },
+    {
+      "line": 60,
+      "text": "own education, find his own inspiration, shape his own environment, and"
+    },
+    {
+      "line": 61,
+      "text": "share his adventure with whoever"
+    },
+    {
+      "line": 62,
+      "text": "process are sought and promoted by the WHOLE EARTH CATALOG."
+    },
+    {
+      "line": 65,
+      "text": "SUSTAINING SUBSCRIBERS"
+    },
+    {
+      "line": 68,
+      "text": "Julia Brand"
+    },
+    {
+      "line": 70,
+      "text": "Forrest A. Richey, Jr."
+    },
+    {
+      "line": 71,
+      "text": "Frederick W. Davis"
+    },
+    {
+      "line": 72,
+      "text": "Clark Gesner"
+    },
+    {
+      "line": 74,
+      "text": "John E. Clay"
+    },
+    {
+      "line": 76,
+      "text": "Daniel M. Beach"
+    },
+    {
+      "line": 78,
+      "text": "Pat Canavan"
+    },
+    {
+      "line": 80,
+      "text": "Mrs. Alan Rosenthal"
+    },
+    {
+      "line": 81,
+      "text": "Edward Voynow, Jr."
+    },
+    {
+      "line": 82,
+      "text": "Mr. & Mrs. Henry Abuza"
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+{
+  "title": "CoEvolution Quarterly, Summer 1974",
+  "identifier": "coevolutionquart00unse",
+  "year": 1974,
+  "season": "Summer",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 179,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1974",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse/coevolutionquart00unse.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_djvu.txt",
+  "ocr_chars": 773815,
+  "significant_line_count": 15960,
+  "theme_counts": {
+    "software_computing": 77,
+    "tools_craft": 202,
+    "ecology_place": 1267,
+    "learning_media": 388,
+    "community_politics": 356
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 10823,
+      "page": 216,
+      "title": "EERL",
+      "image_url": "https://archive.org/download/coevolutionquart00unse/page/n217_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 10823,
+      "text": "216 EERL",
+      "score": 8
+    },
+    {
+      "line": 3762,
+      "text": "THE ENERGY SUBSIDY",
+      "score": 6
+    },
+    {
+      "line": 6716,
+      "text": "few seconds before a program on the energy shortage",
+      "score": 5
+    },
+    {
+      "line": 25356,
+      "text": "Beverly Coleman - Community Health Workers Training Program",
+      "score": 5
+    },
+    {
+      "line": 27,
+      "text": "COVER ARTIST",
+      "score": 4
+    },
+    {
+      "line": 218,
+      "text": "a HARNESS TR",
+      "score": 4
+    },
+    {
+      "line": 406,
+      "text": "AFRICARE INC.",
+      "score": 4
+    },
+    {
+      "line": 407,
+      "text": "2204 R St NW",
+      "score": 4
+    },
+    {
+      "line": 631,
+      "text": "BY DORIS HERRICK",
+      "score": 4
+    },
+    {
+      "line": 649,
+      "text": "WHY STORE FOOD?",
+      "score": 4
+    },
+    {
+      "line": 890,
+      "text": "ETHICS OF FOOD STORAGE",
+      "score": 4
+    },
+    {
+      "line": 997,
+      "text": "SURVIVAL KIT",
+      "score": 4
+    },
+    {
+      "line": 1518,
+      "text": "WATER",
+      "score": 4
+    },
+    {
+      "line": 1873,
+      "text": "KH | ;",
+      "score": 4
+    },
+    {
+      "line": 1929,
+      "text": "THE PROPER ROOM",
+      "score": 4
+    },
+    {
+      "line": 1948,
+      "text": "CRITICAL TEMPERATURES",
+      "score": 4
+    },
+    {
+      "line": 1980,
+      "text": "ROTATION",
+      "score": 4
+    },
+    {
+      "line": 2082,
+      "text": "GROWING YOUR OWN VEGETABLES---Backyards",
+      "score": 4
+    },
+    {
+      "line": 2245,
+      "text": "THE CHURCH OF JESUS CHRIST",
+      "score": 4
+    },
+    {
+      "line": 2246,
+      "text": "OF LATTER-DAY SAINTS",
+      "score": 4
+    },
+    {
+      "line": 2258,
+      "text": "THE MEMBERS OF THE MARIN STAKE",
+      "score": 4
+    },
+    {
+      "line": 2537,
+      "text": "EVERY 2-3000 MILES.",
+      "score": 4
+    },
+    {
+      "line": 2568,
+      "text": "py ANNE H. EHRLICH anp PAUL R. EHRLICH",
+      "score": 4
+    },
+    {
+      "line": 2577,
+      "text": "TURKEY LURKEY!”",
+      "score": 4
+    },
+    {
+      "line": 2692,
+      "text": "THE FOOD CRUNCH",
+      "score": 4
+    },
+    {
+      "line": 2895,
+      "text": "OE | =",
+      "score": 4
+    },
+    {
+      "line": 2899,
+      "text": "<< SS",
+      "score": 4
+    },
+    {
+      "line": 2902,
+      "text": "THE NEW FAMINES",
+      "score": 4
+    },
+    {
+      "line": 2973,
+      "text": "CZESSE*",
+      "score": 4
+    },
+    {
+      "line": 2980,
+      "text": "Ss ZS SSE",
+      "score": 4
+    },
+    {
+      "line": 3134,
+      "text": "A.D. 900 NOO 1300 1500 » 1900",
+      "score": 4
+    },
+    {
+      "line": 3226,
+      "text": "THE AMERICAN CORNUCOPIA",
+      "score": 4
+    },
+    {
+      "line": 3328,
+      "text": "WHAT'S NEXT?",
+      "score": 4
+    },
+    {
+      "line": 3566,
+      "text": "A NAL ZN,",
+      "score": 4
+    },
+    {
+      "line": 3572,
+      "text": "SS STS",
+      "score": 4
+    },
+    {
+      "line": 3599,
+      "text": "FEEDING THE AFFLUENT AMERICAN",
+      "score": 4
+    },
+    {
+      "line": 3643,
+      "text": "PSK ASE)",
+      "score": 4
+    },
+    {
+      "line": 3769,
+      "text": "WORLD: MEAT CONSUMPTION",
+      "score": 4
+    },
+    {
+      "line": 3773,
+      "text": "MEAT CONSUMPTION - KILOGRAMS PER CAPITA,",
+      "score": 4
+    },
+    {
+      "line": 3777,
+      "text": "COMMUNIST ASIA",
+      "score": 4
+    },
+    {
+      "line": 3779,
+      "text": "@ NORTH AFRICA",
+      "score": 4
+    },
+    {
+      "line": 3780,
+      "text": "WEST AFRICA",
+      "score": 4
+    },
+    {
+      "line": 3783,
+      "text": "EAST ASIA PACIFIC ISLANDS”",
+      "score": 4
+    },
+    {
+      "line": 3784,
+      "text": "@ SOUTHEAST ASIA TAPAN",
+      "score": 4
+    },
+    {
+      "line": 3787,
+      "text": "SOUTH ASIA:",
+      "score": 4
+    },
+    {
+      "line": 3792,
+      "text": "3k THE AREAS OF CIRCLES ARE PROPORTIONAL TO POPULATION ee Je",
+      "score": 4
+    },
+    {
+      "line": 3793,
+      "text": "US DEARRTMENT OF AGRICULTURE",
+      "score": 4
+    },
+    {
+      "line": 3796,
+      "text": ". FIGURE II. : as",
+      "score": 4
+    },
+    {
+      "line": 3831,
+      "text": "ERG PAAR EEE RSL Ee",
+      "score": 4
+    },
+    {
+      "line": 3884,
+      "text": "TABLE |",
+      "score": 4
+    },
+    {
+      "line": 3997,
+      "text": "= CANADA",
+      "score": 4
+    },
+    {
+      "line": 4020,
+      "text": "S 1,000 ® UNITED KINGDOM",
+      "score": 4
+    },
+    {
+      "line": 4032,
+      "text": "S @ W. GERMANY pee",
+      "score": 4
+    },
+    {
+      "line": 4036,
+      "text": "& oS INDIRECT -",
+      "score": 4
+    },
+    {
+      "line": 4037,
+      "text": "CONSUMPTION",
+      "score": 4
+    },
+    {
+      "line": 4040,
+      "text": "@CHINA MEXICO x",
+      "score": 4
+    },
+    {
+      "line": 4042,
+      "text": "NOS ARGENTINA",
+      "score": 4
+    },
+    {
+      "line": 4051,
+      "text": "FIGURE IIL.",
+      "score": 4
+    },
+    {
+      "line": 4066,
+      "text": "STREAMLINING THE SYSTEM",
+      "score": 4
+    },
+    {
+      "line": 4291,
+      "text": "t : GROW YOUR OWN FOOD",
+      "score": 4
+    },
+    {
+      "line": 4311,
+      "text": "ZZ PIE",
+      "score": 4
+    },
+    {
+      "line": 4364,
+      "text": "MAXIMIZING YOUR NUTRITION",
+      "score": 4
+    },
+    {
+      "line": 4523,
+      "text": "TABLE II",
+      "score": 4
+    },
+    {
+      "line": 4783,
+      "text": "Be [PE =",
+      "score": 4
+    },
+    {
+      "line": 4788,
+      "text": "DRAENOR SSIS",
+      "score": 4
+    },
+    {
+      "line": 4834,
+      "text": "TABLE Ill",
+      "score": 4
+    },
+    {
+      "line": 4892,
+      "text": "TABLE IV",
+      "score": 4
+    },
+    {
+      "line": 5333,
+      "text": "HOW IS YOUR SELF-SUF FICIENCY?",
+      "score": 4
+    },
+    {
+      "line": 5436,
+      "text": "1) WA",
+      "score": 4
+    },
+    {
+      "line": 5547,
+      "text": "FOOTNOTES",
+      "score": 4
+    },
+    {
+      "line": 5931,
+      "text": "CONSEQUENCES",
+      "score": 4
+    },
+    {
+      "line": 6015,
+      "text": "P = f(C,L)",
+      "score": 4
+    },
+    {
+      "line": 6049,
+      "text": "MA 02139).",
+      "score": 4
+    },
+    {
+      "line": 6176,
+      "text": "SSG, MM",
+      "score": 4
+    },
+    {
+      "line": 6232,
+      "text": "== = SS",
+      "score": 4
+    },
+    {
+      "line": 6273,
+      "text": "ROY LE De",
+      "score": 4
+    },
+    {
+      "line": 6341,
+      "text": "{ « MY",
+      "score": 4
+    },
+    {
+      "line": 6349,
+      "text": "PART TWO",
+      "score": 4
+    },
+    {
+      "line": 6355,
+      "text": "INTRODUCING ROSEBUD ZWALYIMEH",
+      "score": 4
+    },
+    {
+      "line": 6550,
+      "text": "WELCOME TO CAMP CRAP",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 97,
+      "term": "energy",
+      "snippet": "Diet for a Small Planet » Solar Garbage Grinder 40 . Reaching the Limit: P = f(N) #f(C,L) * The Market is Polar Bearish © - Energy and Equity 41 TONGUE FU sy Paut KrassneR 42 Interview 51 | Understanding Fast Motion e CoEvolutionary Tidbits e* Vital Question e"
+    },
+    {
+      "line": 103,
+      "term": "interview",
+      "snippet": "Energy and Equity 41 TONGUE FU sy Paut KrassneR 42 Interview 51 | Understanding Fast Motion e CoEvolutionary Tidbits e* Vital Question e ‘Whole Systems The Friends of the Earth T-Shirt ° The Average Age in the Yukon 53 Sanctity and Adaptation by Roy A. Rappaport 54"
+    },
+    {
+      "line": 108,
+      "term": "whole systems",
+      "snippet": "Interview 51 | Understanding Fast Motion e CoEvolutionary Tidbits e* Vital Question e ‘Whole Systems The Friends of the Earth T-Shirt ° The Average Age in the Yukon 53 Sanctity and Adaptation by Roy A. Rappaport 54 A Third Chameleon-Hypothesis 68 . | System and Structure « Some Cybernetic Words 69"
+    },
+    {
+      "line": 126,
+      "term": "tools",
+      "snippet": "J. Baldwin Writes 79 : Soft Technology Gravity Engines and the Diving Engine by Steve Baer 81 Craft - Catalogue d’Objets Introuvables e« Access to Neighborly Tools 87 ~ae ee he a 4 ey be ea a ess"
+    },
+    {
+      "line": 150,
+      "term": "community",
+      "snippet": "he * © » dn r¢ ao tst ys 7a v <a = 14 + - 5 a , - t Community Sexual Honesty 88 Sexual Honesty by Shere Hite 89 C-Film 92 Hitchhike Transit System e Libertarian Wit 93"
+    },
+    {
+      "line": 166,
+      "term": "communications",
+      "snippet": "Apple Picking by Rick Fields 114 Sun Shower « Simple Siphon 121 a ‘Communications Gold does not Glitter « Apocalyptic Financing 122 ee : Instant Hardcover e Cassette Rave * Cheapo Electronic Music 123 Bookmaking Access by Robin Rycraft 124 Making and Playing the Shakuhachi by Monty H. Levenson 126"
+    },
+    {
+      "line": 173,
+      "term": "learning",
+      "snippet": "Making and Playing the Shakuhachi by Monty H. Levenson 126 Higher Intelligence Returns « The Big Yellow Drawing Book 128 Learning Infant Readers » Sensible Medical School e Sensory Deprivation Tank Kit 129 , Vast Miniatures « The Boomerang Man e Lindisfarne 130 - | Readings in Sufism 131 GORF sy MicHaEL McCLuRE 132"
+    },
+    {
+      "line": 325,
+      "term": "energy",
+      "snippet": "PT en I ~The Famines __ Of the three (kno wn) looming scarcities--energy, materials, and food-- the most immediate is _ food. Famine. Those who starve and those who watch. ."
+    },
+    {
+      "line": 464,
+      "term": "energy",
+      "snippet": "grain runs out because: the requisite nitrogen fertilizer is expensive and 15% short because: remember the Energy Crisis? You may count on the price of canned foods being up 25% by Fall-- buy foods fresh when they‘re in season and can your own."
+    },
+    {
+      "line": 548,
+      "term": "energy",
+      "snippet": "and then swifter-than-expected adaptation managing - on their fat-- converting human diet from meat to grains, agriculture from energy-intensive to labor- intensive, technology from machine- intensive to information-intensive. 5) But. Alternating complacency and fear may"
+    },
+    {
+      "line": 714,
+      "term": "energy",
+      "snippet": "growth, crop failures caused by adverse climate con- ditions, a world-wide increase in protein consumption, exhaustion of food-producing ecosystems, the energy crisis, and insufficient fertilizer supplies, world food reserves have been drastically reduced. Global grain stocks fell to only about 100 million metric tons in"
+    },
+    {
+      "line": 804,
+      "term": "energy",
+      "snippet": "the distribution system are vulnerable to large-scale strikes, disruption of the transportation complex, energy cutbacks, failure to realize anticipated crops- the vulnerability has been there some while. The difference is that now we know it. Embarking on a well thought out plan of food"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Road Signs"
+    },
+    {
+      "line": 4,
+      "text": "Not “What can you do for me, life?’’,"
+    },
+    {
+      "line": 6,
+      "text": "But “What can I do for you?”’."
+    },
+    {
+      "line": 8,
+      "text": "Prayer’s for praising not asking,"
+    },
+    {
+      "line": 10,
+      "text": "Out with slovenly, slipshod and sloppy."
+    },
+    {
+      "line": 11,
+      "text": "Confusion wets the wings of spirit."
+    },
+    {
+      "line": 13,
+      "text": "Too much order makes it fly in a vacuum."
+    },
+    {
+      "line": 14,
+      "text": "Stand back and give life elbow room."
+    },
+    {
+      "line": 16,
+      "text": "If weather can be temperamental we can too."
+    },
+    {
+      "line": 19,
+      "text": "Point out what’s wrong for help not pleasure."
+    },
+    {
+      "line": 22,
+      "text": "Go out on limbs but don’t stay there."
+    },
+    {
+      "line": 23,
+      "text": "With children stop, sit down, take the time,"
+    },
+    {
+      "line": 24,
+      "text": "Go to the trouble, listen and play."
+    },
+    {
+      "line": 27,
+      "text": "COVER ARTIST"
+    },
+    {
+      "line": 30,
+      "text": "David Miller."
+    },
+    {
+      "line": 33,
+      "text": "The front and back covers and the poem “Road Signs”"
+    },
+    {
+      "line": 34,
+      "text": "were made in Mexico by David Miller for this issue of the"
+    },
+    {
+      "line": 37,
+      "text": "CoEvolution Quarterly."
+    },
+    {
+      "line": 40,
+      "text": "If you can’t be kind don’t bother."
+    },
+    {
+      "line": 42,
+      "text": "Nothing to excess, not even moderation."
+    },
+    {
+      "line": 44,
+      "text": "If life knew where it were going it wouldn’t go."
+    },
+    {
+      "line": 45,
+      "text": "Hurry spoils, dither ruins, recklessness destroys,"
+    },
+    {
+      "line": 46,
+      "text": "But over-caution stifles."
+    },
+    {
+      "line": 48,
+      "text": "Steer your life where it feels right,"
+    },
+    {
+      "line": 50,
+      "text": "Somewhere down the middle."
+    },
+    {
+      "line": 52,
+      "text": "Fight drowsiness, ever wakeful, alert, interested,"
+    },
+    {
+      "line": 53,
+      "text": "Willing, open, ready, curious, compassionate,"
+    },
+    {
+      "line": 54,
+      "text": "Inventive, creative, playful."
+    },
+    {
+      "line": 56,
+      "text": "Mind serene."
+    },
+    {
+      "line": 58,
+      "text": "Heart full of love."
+    },
+    {
+      "line": 60,
+      "text": "Grateful for light."
+    },
+    {
+      "line": 63,
+      "text": "The two line illustrations and “‘Dear Life’ on the inside"
+    },
+    {
+      "line": 64,
+      "text": "covers are from his extraordinary book, Windows, a feast"
+    },
+    {
+      "line": 65,
+      "text": "of color images like these covers. The book costs $6"
+    },
+    {
+      "line": 66,
+      "text": "postpaid from John Muir Publications, P.O. Box 613,"
+    },
+    {
+      "line": 67,
+      "text": "Santa Fe, NM 87501. (It is distributed to the book trade"
+    },
+    {
+      "line": 68,
+      "text": "through Book People, 2940 Seventh St., Berkeley, CA"
+    },
+    {
+      "line": 75,
+      "text": "Quarterly"
+    },
+    {
+      "line": 78,
+      "text": "ve ‘Apocalypse ~ Well-Founded Rumors"
+    },
+    {
+      "line": 80,
+      "text": "a _duggernaut, The Famines 5 Random Notes 6"
+    }
+  ]
+}

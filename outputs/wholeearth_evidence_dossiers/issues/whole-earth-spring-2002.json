@@ -1,0 +1,764 @@
+{
+  "title": "Whole Earth, Spring 2002",
+  "identifier": "wholeearthspring00unse_3",
+  "year": 2002,
+  "season": "Spring",
+  "collection": "Whole Earth Magazine",
+  "collection_zh": "Whole Earth Magazine",
+  "pages": 111,
+  "url": "https://wholeearth.info/p/whole-earth-spring-2002",
+  "archive_url": "https://archive.org/details/wholeearthspring00unse_3",
+  "pdf_url": "https://archive.org/download/wholeearthspring00unse_3/wholeearthspring00unse_3.pdf",
+  "cover_url": "https://archive.org/download/wholeearthspring00unse_3/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthspring00unse_3_djvu.txt",
+  "ocr_chars": 433683,
+  "significant_line_count": 11817,
+  "theme_counts": {
+    "software_computing": 113,
+    "tools_craft": 197,
+    "ecology_place": 636,
+    "learning_media": 473,
+    "community_politics": 296
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 2213,
+      "page": 14,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n15_w500.jpg"
+    },
+    {
+      "line": 4022,
+      "page": 24,
+      "title": "WHOLE EARTH. SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n25_w500.jpg"
+    },
+    {
+      "line": 4908,
+      "page": 28,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n29_w500.jpg"
+    },
+    {
+      "line": 5229,
+      "page": 30,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n31_w500.jpg"
+    },
+    {
+      "line": 5605,
+      "page": 32,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n33_w500.jpg"
+    },
+    {
+      "line": 6451,
+      "page": 36,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n37_w500.jpg"
+    },
+    {
+      "line": 6774,
+      "page": 38,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n39_w500.jpg"
+    },
+    {
+      "line": 7387,
+      "page": 42,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n43_w500.jpg"
+    },
+    {
+      "line": 8561,
+      "page": 52,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n53_w500.jpg"
+    },
+    {
+      "line": 8998,
+      "page": 60,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n61_w500.jpg"
+    },
+    {
+      "line": 12123,
+      "page": 78,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n79_w500.jpg"
+    },
+    {
+      "line": 12483,
+      "page": 80,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n81_w500.jpg"
+    },
+    {
+      "line": 12941,
+      "page": 84,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n85_w500.jpg"
+    },
+    {
+      "line": 13402,
+      "page": 88,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n89_w500.jpg"
+    },
+    {
+      "line": 13807,
+      "page": 90,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n91_w500.jpg"
+    },
+    {
+      "line": 15000,
+      "page": 96,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n97_w500.jpg"
+    },
+    {
+      "line": 15383,
+      "page": 98,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n99_w500.jpg"
+    },
+    {
+      "line": 16053,
+      "page": 102,
+      "title": "WHOLE EARTH SPRING 2002",
+      "image_url": "https://archive.org/download/wholeearthspring00unse_3/page/n103_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 2213,
+      "text": "14 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 4022,
+      "text": "24 WHOLE EARTH. SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 4908,
+      "text": "28 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 5229,
+      "text": "30 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 5605,
+      "text": "32 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 6451,
+      "text": "36 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 6774,
+      "text": "38 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 7387,
+      "text": "42 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 8561,
+      "text": "52 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 8998,
+      "text": "60 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 12123,
+      "text": "78 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 12483,
+      "text": "80 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 12941,
+      "text": "84 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 13402,
+      "text": "88 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 13807,
+      "text": "90 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 15000,
+      "text": "96 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 15383,
+      "text": "98 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 16053,
+      "text": "102 WHOLE EARTH SPRING 2002",
+      "score": 8
+    },
+    {
+      "line": 36,
+      "text": "EEN wane? CREATIVE CO) HW ECOLOGY.» FAKING NATURE > TOP RESTORATION TOOLS,",
+      "score": 6
+    },
+    {
+      "line": 6312,
+      "text": "607/272-1176 ARTISAN’S CENTER 505/867-0278 PRENATAL PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 8318,
+      "text": "COMMUNITY Foop",
+      "score": 6
+    },
+    {
+      "line": 8336,
+      "text": "AGRICULTURE COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 10923,
+      "text": "ALTERNATIVE ENERGY",
+      "score": 6
+    },
+    {
+      "line": 10925,
+      "text": "COMMUNICATIONS TECHNOLOGY",
+      "score": 6
+    },
+    {
+      "line": 10926,
+      "text": "COMMUNITY BUILDING",
+      "score": 6
+    },
+    {
+      "line": 10928,
+      "text": "ECOLOGY",
+      "score": 6
+    },
+    {
+      "line": 13863,
+      "text": "A COMMUNITY OF PEOPLE",
+      "score": 6
+    },
+    {
+      "line": 14429,
+      "text": "* DISTANCE LEARNING FORMAT - -",
+      "score": 6
+    },
+    {
+      "line": 14492,
+      "text": "CONTROLLED ENERGY CORPORATION",
+      "score": 6
+    },
+    {
+      "line": 7461,
+      "text": "Food Stamp Program, community",
+      "score": 5
+    },
+    {
+      "line": 7923,
+      "text": "“learning.” They offer tangible signs to the community that something is",
+      "score": 5
+    },
+    {
+      "line": 9749,
+      "text": "Reviewing the interview transcripts,",
+      "score": 5
+    },
+    {
+      "line": 14,
+      "text": "; $6.95/$8.50 CDN",
+      "score": 4
+    },
+    {
+      "line": 17,
+      "text": "TOOLS ARE",
+      "score": 4
+    },
+    {
+      "line": 18,
+      "text": "REVOLUTION",
+      "score": 4
+    },
+    {
+      "line": 35,
+      "text": "EARTH pacyans SRIENDS OR FOES? > SHRIMP THAT HEAL",
+      "score": 4
+    },
+    {
+      "line": 98,
+      "text": "A GALL TO INSERTORY ALL THE PLANET'S LIVING GR",
+      "score": 4
+    },
+    {
+      "line": 130,
+      "text": "- ARUNDAATE ROY = “NOT BEHAVING! + DONELLA MEADOWS = “DANCING WITH TEMS”",
+      "score": 4
+    },
+    {
+      "line": 137,
+      "text": "THE UNHOLY. TRIUMVIRATE",
+      "score": 4
+    },
+    {
+      "line": 141,
+      "text": "LOCAL MICROPOWER",
+      "score": 4
+    },
+    {
+      "line": 147,
+      "text": "WHOLE EARTHIing:",
+      "score": 4
+    },
+    {
+      "line": 221,
+      "text": "JOSHUA KINCH",
+      "score": 4
+    },
+    {
+      "line": 305,
+      "text": "WHOLE EARTH SPRING 2002",
+      "score": 4
+    },
+    {
+      "line": 369,
+      "text": "PAGE 38",
+      "score": 4
+    },
+    {
+      "line": 583,
+      "text": "PAGE 86",
+      "score": 4
+    },
+    {
+      "line": 586,
+      "text": "PAGE 95",
+      "score": 4
+    },
+    {
+      "line": 589,
+      "text": "PAGE 83",
+      "score": 4
+    },
+    {
+      "line": 592,
+      "text": "SPRING: 2002",
+      "score": 4
+    },
+    {
+      "line": 663,
+      "text": "SUBSCRIPTIONS: In US $24;",
+      "score": 4
+    },
+    {
+      "line": 856,
+      "text": "WOODCUT ILLUSTRATIONS BY KATHLEEN EDWARDS",
+      "score": 4
+    },
+    {
+      "line": 862,
+      "text": "SHEPHERD'S PURSE",
+      "score": 4
+    },
+    {
+      "line": 950,
+      "text": "ASTRINGENTS",
+      "score": 4
+    },
+    {
+      "line": 998,
+      "text": "WHOLE EARTH SPRING 2002 7",
+      "score": 4
+    },
+    {
+      "line": 1016,
+      "text": "ANT F-",
+      "score": 4
+    },
+    {
+      "line": 1017,
+      "text": "INFLAMMATORIES",
+      "score": 4
+    },
+    {
+      "line": 1052,
+      "text": "ANTIMICROBIAL",
+      "score": 4
+    },
+    {
+      "line": 1074,
+      "text": "ANTISPASMODICS",
+      "score": 4
+    },
+    {
+      "line": 1100,
+      "text": "ALDER",
+      "score": 4
+    },
+    {
+      "line": 1103,
+      "text": "ANTITUSSIVES",
+      "score": 4
+    },
+    {
+      "line": 1210,
+      "text": "NORTHEAST SCHOOL",
+      "score": 4
+    },
+    {
+      "line": 1213,
+      "text": "OF BOTANICAL MEDICINE",
+      "score": 4
+    },
+    {
+      "line": 1240,
+      "text": "PHARMACIST’S GUIDE",
+      "score": 4
+    },
+    {
+      "line": 1242,
+      "text": "TO MEDICINAL HERBS",
+      "score": 4
+    },
+    {
+      "line": 1264,
+      "text": "COMMON HERBS FOR",
+      "score": 4
+    },
+    {
+      "line": 1265,
+      "text": "NATURAL HEALTH",
+      "score": 4
+    },
+    {
+      "line": 1283,
+      "text": "THE HERBAL MEDICINE",
+      "score": 4
+    },
+    {
+      "line": 1285,
+      "text": "MAKER’S HANDBOOK",
+      "score": 4
+    },
+    {
+      "line": 1305,
+      "text": "A City HERBAL",
+      "score": 4
+    },
+    {
+      "line": 1323,
+      "text": "PLANTING THE FUTURE",
+      "score": 4
+    },
+    {
+      "line": 1354,
+      "text": "MEDICINAL PLANTS OF THE",
+      "score": 4
+    },
+    {
+      "line": 1357,
+      "text": "DESERT AND CANYON WEST",
+      "score": 4
+    },
+    {
+      "line": 1365,
+      "text": "MEDICINAL PLANTS OF",
+      "score": 4
+    },
+    {
+      "line": 1368,
+      "text": "THE MOUNTAIN WEST",
+      "score": 4
+    },
+    {
+      "line": 1376,
+      "text": "HEALING HERBS OF",
+      "score": 4
+    },
+    {
+      "line": 1378,
+      "text": "THE UPPER RIO GRANDE",
+      "score": 4
+    },
+    {
+      "line": 1394,
+      "text": "HERBAL HEALING",
+      "score": 4
+    },
+    {
+      "line": 1395,
+      "text": "FOR WOMEN",
+      "score": 4
+    },
+    {
+      "line": 1413,
+      "text": "WOMEN’S HERBS,",
+      "score": 4
+    },
+    {
+      "line": 1416,
+      "text": "WOMEN’S HEALTH",
+      "score": 4
+    },
+    {
+      "line": 1438,
+      "text": "HEALING WISE",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 4,
+      "term": "tools",
+      "snippet": "} Access to Tools, Ideas, and Practices Spring 2002 ; $6.95/$8.50 CDN TOOLS ARE REVOLUTION"
+    },
+    {
+      "line": 17,
+      "term": "tools",
+      "snippet": "} Access to Tools, Ideas, and Practices Spring 2002 ; $6.95/$8.50 CDN TOOLS ARE REVOLUTION #103. Winter 2000 - Tools Are Revolution: A celebration of Kevin Kelly’s (and friends’)"
+    },
+    {
+      "line": 21,
+      "term": "tools",
+      "snippet": "TOOLS ARE REVOLUTION #103. Winter 2000 - Tools Are Revolution: A celebration of Kevin Kelly’s (and friends’) current favorites, with Whole Earth Catalog- style reviews of nearly 200 books, tools, doc-"
+    },
+    {
+      "line": 26,
+      "term": "tools",
+      "snippet": "A celebration of Kevin Kelly’s (and friends’) current favorites, with Whole Earth Catalog- style reviews of nearly 200 books, tools, doc- umentary videos, “really useful websites,” books on tape, and more. It’s intensely per- sonal and not afraid to be controversial."
+    },
+    {
+      "line": 36,
+      "term": "ecology",
+      "snippet": "ing mindful art. $12 postpaid. EARTH pacyans SRIENDS OR FOES? > SHRIMP THAT HEAL EEN wane? CREATIVE CO) HW ECOLOGY.» FAKING NATURE > TOP RESTORATION TOOLS, chron) and Practices Spring 2003 salmon’ Sretura"
+    },
+    {
+      "line": 60,
+      "term": "ecology",
+      "snippet": "cess Stories (from saving shrimp to saving watersheds, cows as restoration allies, “resurrection ecology”), new resources and tools for restorationists, controversies (fak- ing nature, “Green Nazis”) arising as restoration becomes more sophisticated"
+    },
+    {
+      "line": 61,
+      "term": "tools",
+      "snippet": "watersheds, cows as restoration allies, “resurrection ecology”), new resources and tools for restorationists, controversies (fak- ing nature, “Green Nazis”) arising as restoration becomes more sophisticated and complex. Also: interview with Pete"
+    },
+    {
+      "line": 64,
+      "term": "interview",
+      "snippet": "ing nature, “Green Nazis”) arising as restoration becomes more sophisticated and complex. Also: interview with Pete Seeger, the “New, New Economy,” reviews of fine catalogs. $12 postpaid. reference materials that readers save for"
+    },
+    {
+      "line": 138,
+      "term": "energy",
+      "snippet": "Whole. THE UNHOLY. TRIUMVIRATE Energy, Water, Cash. LOCAL MICROPOWER Sotat, Wind, Hydrogen, Biomass, Geothermal,"
+    },
+    {
+      "line": 151,
+      "term": "energy",
+      "snippet": "WHOLE EARTHIing: Gift List #106. Winter 2001 - Energy/Water/Cash The Unholy Triumvirate, a new paradigm for understanding energy. Local power has become less costly, more reliable. The"
+    },
+    {
+      "line": 153,
+      "term": "energy",
+      "snippet": "#106. Winter 2001 - Energy/Water/Cash The Unholy Triumvirate, a new paradigm for understanding energy. Local power has become less costly, more reliable. The Renewables Era could transform your home or car into a power generator."
+    },
+    {
+      "line": 207,
+      "term": "energy",
+      "snippet": "We are Environmental Project Sponsors, at the most grassroots level possible. Founded in 1997. € Sweet Home Realty is a place for progressives to work towards their dream home, and explore alternative energy, building and land use options. We hope to become the alternative voice INSIDE the profession, to compliment the many alternatives outside of it. SEEKING A PATRON who could help us expand our vision to a larger community, and FRANCHISEES, to allow other Real Estate Professionals a more rich, meaningful"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 4,
+      "text": "} Access to Tools, Ideas, and Practices Spring 2002"
+    },
+    {
+      "line": 14,
+      "text": "; $6.95/$8.50 CDN"
+    },
+    {
+      "line": 17,
+      "text": "TOOLS ARE"
+    },
+    {
+      "line": 18,
+      "text": "REVOLUTION"
+    },
+    {
+      "line": 21,
+      "text": "#103. Winter 2000 - Tools Are Revolution:"
+    },
+    {
+      "line": 22,
+      "text": "A celebration of Kevin Kelly’s (and friends’)"
+    },
+    {
+      "line": 23,
+      "text": "current favorites, with Whole Earth Catalog-"
+    },
+    {
+      "line": 26,
+      "text": "style reviews of nearly 200 books, tools, doc-"
+    },
+    {
+      "line": 27,
+      "text": "umentary videos, “really useful websites,”"
+    },
+    {
+      "line": 28,
+      "text": "books on tape, and more. It’s intensely per-"
+    },
+    {
+      "line": 29,
+      "text": "sonal and not afraid to be controversial."
+    },
+    {
+      "line": 30,
+      "text": "Also: Maya Lin, creator of the Vietnam War"
+    },
+    {
+      "line": 31,
+      "text": "Memorial, on landscapes, history, and mak-"
+    },
+    {
+      "line": 32,
+      "text": "ing mindful art. $12 postpaid."
+    },
+    {
+      "line": 35,
+      "text": "EARTH pacyans SRIENDS OR FOES? > SHRIMP THAT HEAL"
+    },
+    {
+      "line": 36,
+      "text": "EEN wane? CREATIVE CO) HW ECOLOGY.» FAKING NATURE > TOP RESTORATION TOOLS,"
+    },
+    {
+      "line": 39,
+      "text": "chron)"
+    },
+    {
+      "line": 42,
+      "text": "and Practices Spring 2003"
+    },
+    {
+      "line": 45,
+      "text": "salmon’ Sretura"
+    },
+    {
+      "line": 48,
+      "text": "Samo the"
+    },
+    {
+      "line": 56,
+      "text": "#104. Spring 2001 - Healing Earth: The"
+    },
+    {
+      "line": 57,
+      "text": "state of ecological restoration today-suc-"
+    },
+    {
+      "line": 58,
+      "text": "cess Stories (from saving shrimp to saving"
+    },
+    {
+      "line": 59,
+      "text": "watersheds, cows as restoration allies,"
+    },
+    {
+      "line": 60,
+      "text": "“resurrection ecology”), new resources and"
+    },
+    {
+      "line": 61,
+      "text": "tools for restorationists, controversies (fak-"
+    },
+    {
+      "line": 62,
+      "text": "ing nature, “Green Nazis”) arising as"
+    },
+    {
+      "line": 63,
+      "text": "restoration becomes more sophisticated"
+    },
+    {
+      "line": 64,
+      "text": "and complex. Also: interview with Pete"
+    },
+    {
+      "line": 65,
+      "text": "Seeger, the “New, New Economy,” reviews"
+    },
+    {
+      "line": 66,
+      "text": "of fine catalogs. $12 postpaid."
+    },
+    {
+      "line": 69,
+      "text": "reference materials that readers save for"
+    },
+    {
+      "line": 70,
+      "text": "years, and teachers utilize as the best texts"
+    },
+    {
+      "line": 73,
+      "text": "for connecting the Big Picture with resources"
+    },
+    {
+      "line": 76,
+      "text": "for making a difference in the world."
+    },
+    {
+      "line": 79,
+      "text": "Complete your set of back issues while"
+    },
+    {
+      "line": 80,
+      "text": "they’re available. Give an extra copy of a"
+    },
+    {
+      "line": 81,
+      "text": "favorite issue to a colleague."
+    },
+    {
+      "line": 84,
+      "text": "Or buy 10-25 copies of these featured issues"
+    },
+    {
+      "line": 87,
+      "text": "for your class or organization and receive"
+    }
+  ]
+}

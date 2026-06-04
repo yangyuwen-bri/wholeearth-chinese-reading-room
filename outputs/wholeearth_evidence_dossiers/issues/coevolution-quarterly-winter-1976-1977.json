@@ -1,0 +1,662 @@
+{
+  "title": "CoEvolution Quarterly, Winter 1976/1977",
+  "identifier": "coevolutionquart00unse_9",
+  "year": 1976,
+  "season": "Winter",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 151,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1976-1977",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_9",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_9/coevolutionquart00unse_9.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_9/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_9_djvu.txt",
+  "ocr_chars": 667964,
+  "significant_line_count": 13750,
+  "theme_counts": {
+    "software_computing": 43,
+    "tools_craft": 282,
+    "ecology_place": 1884,
+    "learning_media": 286,
+    "community_politics": 320
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 6195,
+      "page": 100,
+      "title": "YEAR FLOOD PLAIN",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_9/page/n101_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 6195,
+      "text": "100 YEAR FLOOD PLAIN",
+      "score": 8
+    },
+    {
+      "line": 6225,
+      "text": "100 YEAR FLOOD",
+      "score": 8
+    },
+    {
+      "line": 12012,
+      "text": "6. SPECIAL PROGRAMS.",
+      "score": 6
+    },
+    {
+      "line": 2883,
+      "text": "community’‘s ability to trap and convert solar energy",
+      "score": 5
+    },
+    {
+      "line": 12230,
+      "text": "become an asset to the community are reviewed in a useful",
+      "score": 5
+    },
+    {
+      "line": 12320,
+      "text": "philosophy on energy, ecology and economics. The book: a",
+      "score": 5
+    },
+    {
+      "line": 63,
+      "text": "SS RQ SS",
+      "score": 4
+    },
+    {
+      "line": 91,
+      "text": "AND PINK i",
+      "score": 4
+    },
+    {
+      "line": 92,
+      "text": "TER! SESE gs OTe iat _ OF SKIES",
+      "score": 4
+    },
+    {
+      "line": 93,
+      "text": "REFLECTED IN AN EVENING MUDFLAT :",
+      "score": 4
+    },
+    {
+      "line": 114,
+      "text": "YELLOW PANSY",
+      "score": 4
+    },
+    {
+      "line": 122,
+      "text": "~ AMAMMAL-",
+      "score": 4
+    },
+    {
+      "line": 278,
+      "text": "WATERSHED CONSCIOUSNESS IN THE TWENTIETH CENTURY",
+      "score": 4
+    },
+    {
+      "line": 477,
+      "text": "CREST",
+      "score": 4
+    },
+    {
+      "line": 480,
+      "text": "a PS VALLEY",
+      "score": 4
+    },
+    {
+      "line": 507,
+      "text": "' BEDROCK",
+      "score": 4
+    },
+    {
+      "line": 513,
+      "text": "RIDGE:",
+      "score": 4
+    },
+    {
+      "line": 514,
+      "text": "WATERSHED DIVIDE",
+      "score": 4
+    },
+    {
+      "line": 533,
+      "text": "“TERRACE: Try OF Me. :",
+      "score": 4
+    },
+    {
+      "line": 537,
+      "text": "LE coin ie SCOLLUVIAL SLOPE: -",
+      "score": 4
+    },
+    {
+      "line": 538,
+      "text": "\"“ REGOLITH) -“ HILLSLOPE PE OaITS",
+      "score": 4
+    },
+    {
+      "line": 557,
+      "text": "<VALLEY FLOOR",
+      "score": 4
+    },
+    {
+      "line": 647,
+      "text": "tu, AAO [FS SG, JARED :",
+      "score": 4
+    },
+    {
+      "line": 925,
+      "text": "Veer - HYDROLOGIC a",
+      "score": 4
+    },
+    {
+      "line": 927,
+      "text": "WSs. CYCLE a",
+      "score": 4
+    },
+    {
+      "line": 1027,
+      "text": "| BIOGEOCHEMICAL ©: 2°\", Sy Mi",
+      "score": 4
+    },
+    {
+      "line": 1073,
+      "text": "SCT I PRUNES BIT AT RO",
+      "score": 4
+    },
+    {
+      "line": 1201,
+      "text": "PAUL KRASSNER |",
+      "score": 4
+    },
+    {
+      "line": 1268,
+      "text": "WENDELL BERRY",
+      "score": 4
+    },
+    {
+      "line": 1315,
+      "text": "YOUR WATE RSHED’S NAME:",
+      "score": 4
+    },
+    {
+      "line": 1325,
+      "text": "ARE THESE IMPORTANT QUESTIONS? You bet.",
+      "score": 4
+    },
+    {
+      "line": 1341,
+      "text": "LYNN MARGULIS",
+      "score": 4
+    },
+    {
+      "line": 1394,
+      "text": "ARE THESE IMPORTANT QUESTIONS? Yes. Wedoa",
+      "score": 4
+    },
+    {
+      "line": 1456,
+      "text": "STEWART BRAND",
+      "score": 4
+    },
+    {
+      "line": 1471,
+      "text": "YOUR WATERSHED’S NAME:",
+      "score": 4
+    },
+    {
+      "line": 1485,
+      "text": "GERARD O'NEILL",
+      "score": 4
+    },
+    {
+      "line": 1534,
+      "text": "JOHN HOLT .",
+      "score": 4
+    },
+    {
+      "line": 1560,
+      "text": "ARE THESE IMPORTANT QUESTIONS? Yeah. We have aN",
+      "score": 4
+    },
+    {
+      "line": 1569,
+      "text": "RUSSELL SCHWEICKART . a",
+      "score": 4
+    },
+    {
+      "line": 1600,
+      "text": "ARE THESE IMPORTANT QUESTIONS? Well, | think | :",
+      "score": 4
+    },
+    {
+      "line": 1612,
+      "text": "GREGORY BATESON . a",
+      "score": 4
+    },
+    {
+      "line": 1668,
+      "text": "ARE THESE IMPORTANT QUESTIONS? Ummm. Yes. |",
+      "score": 4
+    },
+    {
+      "line": 1755,
+      "text": "STEVE BAER",
+      "score": 4
+    },
+    {
+      "line": 1787,
+      "text": "ARE THESE IMPORTANT QUESTIONS? You're damn",
+      "score": 4
+    },
+    {
+      "line": 1823,
+      "text": "BY ROBERT R. CURRY",
+      "score": 4
+    },
+    {
+      "line": 1848,
+      "text": "STONEFLY",
+      "score": 4
+    },
+    {
+      "line": 1849,
+      "text": "(PERLA)",
+      "score": 4
+    },
+    {
+      "line": 1852,
+      "text": "(DINOCRAS)",
+      "score": 4
+    },
+    {
+      "line": 1855,
+      "text": "CADDIS",
+      "score": 4
+    },
+    {
+      "line": 1856,
+      "text": "- (RHYACOPHILA)",
+      "score": 4
+    },
+    {
+      "line": 1860,
+      "text": "STONEFLY MAYFLIES ECDYONURU",
+      "score": 4
+    },
+    {
+      "line": 1861,
+      "text": "(PROTONEMURA (BAETIS) eae et sé",
+      "score": 4
+    },
+    {
+      "line": 1862,
+      "text": "(EPHEMERELLA)",
+      "score": 4
+    },
+    {
+      "line": 1864,
+      "text": "MIDGES",
+      "score": 4
+    },
+    {
+      "line": 1867,
+      "text": "(CHIRONOMIDAE)",
+      "score": 4
+    },
+    {
+      "line": 1868,
+      "text": "BLACK FLY",
+      "score": 4
+    },
+    {
+      "line": 1869,
+      "text": "(SIMULIUM)",
+      "score": 4
+    },
+    {
+      "line": 1872,
+      "text": "GREEN ALGAE DIATOM Ss",
+      "score": 4
+    },
+    {
+      "line": 1875,
+      "text": "LEAF DETRITUS",
+      "score": 4
+    },
+    {
+      "line": 1876,
+      "text": "FRAGMENTS",
+      "score": 4
+    },
+    {
+      "line": 2230,
+      "text": "WATERSHED SHAPE",
+      "score": 4
+    },
+    {
+      "line": 2256,
+      "text": "DRAINAGE",
+      "score": 4
+    },
+    {
+      "line": 2257,
+      "text": "NETWORK",
+      "score": 4
+    },
+    {
+      "line": 2260,
+      "text": "WATERSHED",
+      "score": 4
+    },
+    {
+      "line": 2266,
+      "text": "MAIN,",
+      "score": 4
+    },
+    {
+      "line": 2267,
+      "text": "CHANNEL",
+      "score": 4
+    },
+    {
+      "line": 2268,
+      "text": "PATTERN.",
+      "score": 4
+    },
+    {
+      "line": 2401,
+      "text": "BEAVER DAM",
+      "score": 4
+    },
+    {
+      "line": 2404,
+      "text": "HUMAN DAM",
+      "score": 4
+    },
+    {
+      "line": 2536,
+      "text": "HELGUT/DEPTH",
+      "score": 4
+    },
+    {
+      "line": 2543,
+      "text": "MEANDER",
+      "score": 4
+    },
+    {
+      "line": 2648,
+      "text": "WORTZON TAL _",
+      "score": 4
+    },
+    {
+      "line": 2823,
+      "text": "YBSURFACE FLOW",
+      "score": 4
+    },
+    {
+      "line": 3074,
+      "text": "REFERENCES",
+      "score": 4
+    },
+    {
+      "line": 3130,
+      "text": "WESLEY POWELL",
+      "score": 4
+    },
+    {
+      "line": 3136,
+      "text": "E ARE NOW READY TO START ON OUR WAY DOWN THE GREAT UNKNOWN.",
+      "score": 4
+    },
+    {
+      "line": 3291,
+      "text": "AE ON",
+      "score": 4
+    },
+    {
+      "line": 3447,
+      "text": "A? _)",
+      "score": 4
+    },
+    {
+      "line": 3738,
+      "text": "BY THOMAS DUNNE ano LUNA B. LEOPOLD",
+      "score": 4
+    },
+    {
+      "line": 3741,
+      "text": "AMBOSELI NATIONAL PARK, KENYA",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 195,
+      "term": "energy",
+      "snippet": "74-77. Healing the Land: The Redwood Creek Renewal Project by Gerald Myers | re A Return to People Powered Resource Production | gp re rice a Ble 78 Wood ’n Energy = Protecting Creeksheds » Reprint this book 78 The Florida Experience » Housing for the Pequannock Watershed 79: Private Property and the Public Interest » The Town That Fought to Save ffecle Hse: 80-87 | That Which Makes You with A Conversation with Taj Mahal by Lewis MacAdams > * x"
+    },
+    {
+      "line": 218,
+      "term": "whole systems",
+      "snippet": "(27 Gase ej Roma Subscriptions: $8 per year. “Tdauite fe international air rates. Second: ihe postage pai 7 34965 Sah POSTMASTER: Forwarding postage guaranteed. ; ary tN hee ; ue ACs ) Understanding Whole Systems r= ee - ee oe Le ee ee 94-95 The Case against the Case for Mind/Body Dualism » The Promise of the Coming Dark Age"
+    },
+    {
+      "line": 237,
+      "term": "energy",
+      "snippet": "Beet 02-103 From Urgencies to Essentials speech by Canadian Prime Minister Pierre Elliott Trudeau 104-111 The New Alchemists by J. Baldwin 112-113 American Village Institute =» The Solar Home Book = A Floridian’s Guide to Solar Energy eta-115 - Rain « Total Home Protection » EARS «» Gaudi » Designing Houses » From the Ground Up 116 Geodesic Math and How to Use It = Fredson Trailer Supply = Bailey’s Catalog Craft ,"
+    },
+    {
+      "line": 242,
+      "term": "community",
+      "snippet": "Craft , 117 By Hand = Garrett Wade Company = Alfa Catalog ~ Community 118-126 The Acorn People by Ron Jones ~ | a Take Care of Yourself = A Consumer’s Guide to Successful Surgery =» “Good Things for Babies 128-130 I would like to write a silence by Anne Herbert"
+    },
+    {
+      "line": 252,
+      "term": "communications",
+      "snippet": "138 McClane’s New Standard Fishing Encyclopedia and International Angling Guide 138 Sherpa Snowshoes = Polarguard is fine Communications 139 The Photography Catalog = House of Musical Traditions 139 Scientific Analysis on the Pocket Calculator Learning"
+    },
+    {
+      "line": 255,
+      "term": "learning",
+      "snippet": "139 The Photography Catalog = House of Musical Traditions 139 Scientific Analysis on the Pocket Calculator Learning 140 oe to learn ‘hina « The Nature Company Business 141-142 Statement of onacetis » Thank you.» Profit/Loss = Subscription history"
+    },
+    {
+      "line": 340,
+      "term": "community",
+      "snippet": "the great oil spill crisis of January 1971 (see The Town That Fought to Save Itself, p. 79 in this CQ). Soon Peter found himself committed to, the community via its water. Studying the likely effects of a proposed sewer plant on the local lagoon he helped write one of the first Environmental Impact Reports for the new Environmental"
+    },
+    {
+      "line": 771,
+      "term": "energy",
+      "snippet": "beautiful Chinese villages and towns were designed by geomancers who set houses in places needed to concentrate energy or disperse it. _ Modern scientists interested in watersheds vary from regional planners, geologists, meteorologists, forestry experts, ecologists - but we still have not become"
+    },
+    {
+      "line": 786,
+      "term": "energy",
+      "snippet": "naturalists have tried to become more sophisticated about the watersheds we live in. : The Watershed Way has two energies: mine energy of gravity and the energy of the sun. Water and Land follow gravity down to the sea. The Sun returns the water to the Sky by heating it up and gravity returns"
+    },
+    {
+      "line": 787,
+      "term": "energy",
+      "snippet": "about the watersheds we live in. : The Watershed Way has two energies: mine energy of gravity and the energy of the sun. Water and Land follow gravity down to the sea. The Sun returns the water to the Sky by heating it up and gravity returns it to Earth. The Earth returns the soil back to the"
+    },
+    {
+      "line": 795,
+      "term": "energy",
+      "snippet": "land by uplifting and volcanoes. Water and soil are never lost as they cycle. They only - change position. Energy, though, is lost as friction of water and sediment shearing the river channel walls - or as heat used up to change liquid water to vapor and in other ways. [more >]"
+    },
+    {
+      "line": 969,
+      "term": "tools",
+      "snippet": "The CoEvolution Quarterly Winter 1976/77 trout that could lose their spawning grounds in it run underground or snaking the river shape. sediment. Bob was equipped with the tools of the Create lakes and bogs and marshes in the flood plain. twentieth century geomancer: Brunton compass Slow it down and hold so the hillslope can keep (pocket transit) and USGS topo maps. On the walk its shape. Water just does what it does and pays _. and in Bob’s presence, I began to understand that no mind."
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Published by the Whole Earth Catalog"
+    },
+    {
+      "line": 4,
+      "text": "“We have-an unknown distance yet to run, an-unknown river to-explore...What falls there are,"
+    },
+    {
+      "line": 5,
+      "text": "| we know not; what-rocks beset the channel, we know not; what. walls rise over-the river, we"
+    },
+    {
+      "line": 8,
+      "text": ": know not...Ah, well! We may conjecture many.things.”” -J. W. Powell"
+    },
+    {
+      "line": 12,
+      "text": "Winter 1976/77"
+    },
+    {
+      "line": 15,
+      "text": "Subscription price $8/year"
+    },
+    {
+      "line": 18,
+      "text": "es _ abel"
+    },
+    {
+      "line": 21,
+      "text": "5, sens ns ol"
+    },
+    {
+      "line": 24,
+      "text": "II uy us Wyatt by (! | uy"
+    },
+    {
+      "line": 25,
+      "text": "=<) ai a lk _ ) uns"
+    },
+    {
+      "line": 26,
+      "text": "tal wv \""
+    },
+    {
+      "line": 29,
+      "text": "ees ANY):"
+    },
+    {
+      "line": 32,
+      "text": "rr i Nici"
+    },
+    {
+      "line": 35,
+      "text": "\" “a \" - |"
+    },
+    {
+      "line": 38,
+      "text": "ll vi i"
+    },
+    {
+      "line": 50,
+      "text": "WA ~"
+    },
+    {
+      "line": 59,
+      "text": "| == Ve = ie. =< :"
+    },
+    {
+      "line": 63,
+      "text": "SS RQ SS"
+    },
+    {
+      "line": 66,
+      "text": "Gordon Baldwin"
+    },
+    {
+      "line": 69,
+      "text": "| | ee"
+    },
+    {
+      "line": 72,
+      "text": "Hh | iil a f a"
+    },
+    {
+      "line": 76,
+      "text": "a aes"
+    },
+    {
+      "line": 77,
+      "text": "i Wes:"
+    },
+    {
+      "line": 78,
+      "text": "LD Z"
+    },
+    {
+      "line": 88,
+      "text": "i eae"
+    },
+    {
+      "line": 91,
+      "text": "AND PINK i"
+    },
+    {
+      "line": 92,
+      "text": "TER! SESE gs OTe iat _ OF SKIES"
+    },
+    {
+      "line": 93,
+      "text": "REFLECTED IN AN EVENING MUDFLAT :"
+    },
+    {
+      "line": 96,
+      "text": "- ofakingfisher"
+    },
+    {
+      "line": 99,
+      "text": "flashing in"
+    },
+    {
+      "line": 100,
+      "text": "ne rhs ones two dark eves 9-9 -4.0) 7/3 oy Beg eS"
+    },
+    {
+      "line": 102,
+      "text": "| ean a : : aero a table ig UNE paw"
+    },
+    {
+      "line": 104,
+      "text": "pry ee sa) Ay and ‘fot aninstant"
+    },
+    {
+      "line": 106,
+      "text": "Com. eRe o. you forget <<."
+    },
+    {
+      "line": 107,
+      "text": "| gee Meta aa a dhe thing 6"
+    },
+    {
+      "line": 109,
+      "text": "arses a tae se een you are, 4"
+    },
+    {
+      "line": 111,
+      "text": "‘Cs Or ds."
+    },
+    {
+      "line": 113,
+      "text": "Bagdad hk"
+    },
+    {
+      "line": 114,
+      "text": "YELLOW PANSY"
+    },
+    {
+      "line": 120,
+      "text": "_ when you discover"
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "title": "CoEvolution Quarterly, Summer 1978",
+  "identifier": "coevolutionquart00unse_15",
+  "year": 1978,
+  "season": "Summer",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 151,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-summer-1978",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_15",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_15/coevolutionquart00unse_15.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_15/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_15_djvu.txt",
+  "ocr_chars": 668722,
+  "significant_line_count": 15359,
+  "theme_counts": {
+    "software_computing": 81,
+    "tools_craft": 208,
+    "ecology_place": 478,
+    "learning_media": 304,
+    "community_politics": 323
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 22844,
+      "page": 1,
+      "title": "PLAYED IN",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_15/page/n2_w500.jpg"
+    },
+    {
+      "line": 24628,
+      "page": 3,
+      "title": "PLEASE CHECK IF BIOGEOGRAPHICAL",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_15/page/n4_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 22844,
+      "text": "1 PLAYED IN",
+      "score": 8
+    },
+    {
+      "line": 24628,
+      "text": "3 PLEASE CHECK IF BIOGEOGRAPHICAL",
+      "score": 8
+    },
+    {
+      "line": 355,
+      "text": "20-25 EVERYBODY ELSE’S SPACE PROGRAMS by James Oberg",
+      "score": 6
+    },
+    {
+      "line": 5206,
+      "text": "SPACE COMMUNITY PLANNING",
+      "score": 6
+    },
+    {
+      "line": 15,
+      "text": "1OQOOQOQ,000 GALAXIES",
+      "score": 4
+    },
+    {
+      "line": 103,
+      "text": "NGC5383 NGC1232",
+      "score": 4
+    },
+    {
+      "line": 365,
+      "text": "52-55 I DECIDE WHO GOES TO THE MENTAL HOSPITAL by Chip Barker F",
+      "score": 4
+    },
+    {
+      "line": 366,
+      "text": "56-69 NOBODY SHOULD DECIDE WHO GOES TO THE MENTAL HOSPITAL Dr. Thomas Szasz :",
+      "score": 4
+    },
+    {
+      "line": 376,
+      "text": "88-93 GOOD WORK, GOOD REST: SOME IDEAS FROM WILLIAM MORRIS by Conn Nugent I",
+      "score": 4
+    },
+    {
+      "line": 435,
+      "text": "134-137 KANSAS CITY FRANK by R. Crumb",
+      "score": 4
+    },
+    {
+      "line": 973,
+      "text": "THAT REMINDS ME OF A STORY",
+      "score": 4
+    },
+    {
+      "line": 2358,
+      "text": "MINOW",
+      "score": 4
+    },
+    {
+      "line": 2622,
+      "text": "EVERYBODY ELSE'S :",
+      "score": 4
+    },
+    {
+      "line": 2955,
+      "text": "MATERIALS SCIENCE AND",
+      "score": 4
+    },
+    {
+      "line": 2956,
+      "text": "___ MANUFACTURING IN",
+      "score": 4
+    },
+    {
+      "line": 3148,
+      "text": "PANETHDIL uf Q",
+      "score": 4
+    },
+    {
+      "line": 3149,
+      "text": "ZIOAMFON, OT PAL",
+      "score": 4
+    },
+    {
+      "line": 3247,
+      "text": "SE len SREPTER",
+      "score": 4
+    },
+    {
+      "line": 3442,
+      "text": "PRIVATE ENTERPRISE",
+      "score": 4
+    },
+    {
+      "line": 3443,
+      "text": "IN SPACE VIA -",
+      "score": 4
+    },
+    {
+      "line": 3446,
+      "text": "STAGING COMPANY",
+      "score": 4
+    },
+    {
+      "line": 3498,
+      "text": "LIMITATIONS OF EXISTING",
+      "score": 4
+    },
+    {
+      "line": 3499,
+      "text": "PRIVATE ENTERPRISE . .",
+      "score": 4
+    },
+    {
+      "line": 3500,
+      "text": "BUSINESS STRUCTURES",
+      "score": 4
+    },
+    {
+      "line": 3515,
+      "text": "BY CHRISTIAN O. BASLER",
+      "score": 4
+    },
+    {
+      "line": 3559,
+      "text": "VESSIR FOLKS!",
+      "score": 4
+    },
+    {
+      "line": 3560,
+      "text": "MNS FRONTIER",
+      "score": 4
+    },
+    {
+      "line": 3562,
+      "text": "TELLING WHAT",
+      "score": 4
+    },
+    {
+      "line": 3564,
+      "text": "TO YouR DOORSTEP.",
+      "score": 4
+    },
+    {
+      "line": 3565,
+      "text": "NOW THIS LITTLE",
+      "score": 4
+    },
+    {
+      "line": 3573,
+      "text": "CAN'T LAND",
+      "score": 4
+    },
+    {
+      "line": 3576,
+      "text": "HAVEN'T SOLD :",
+      "score": 4
+    },
+    {
+      "line": 3577,
+      "text": "You A PERMIT. Yov'D LIKE",
+      "score": 4
+    },
+    {
+      "line": 3580,
+      "text": "HMMM +",
+      "score": 4
+    },
+    {
+      "line": 3583,
+      "text": "HONEY. E",
+      "score": 4
+    },
+    {
+      "line": 3584,
+      "text": "ALREADY HAVE",
+      "score": 4
+    },
+    {
+      "line": 3588,
+      "text": "| DIFFERENT 4",
+      "score": 4
+    },
+    {
+      "line": 3589,
+      "text": "=| PERMITS PLUS",
+      "score": 4
+    },
+    {
+      "line": 3593,
+      "text": "CASH OUTLAY.",
+      "score": 4
+    },
+    {
+      "line": 3596,
+      "text": "To TAKE OVT",
+      "score": 4
+    },
+    {
+      "line": 3598,
+      "text": "IN TRADE..",
+      "score": 4
+    },
+    {
+      "line": 3603,
+      "text": "OOWLZ",
+      "score": 4
+    },
+    {
+      "line": 3607,
+      "text": "A MARTIAN !",
+      "score": 4
+    },
+    {
+      "line": 3609,
+      "text": "A DERFECT",
+      "score": 4
+    },
+    {
+      "line": 3610,
+      "text": "CHANCE To",
+      "score": 4
+    },
+    {
+      "line": 3611,
+      "text": "TRY OVT THIS",
+      "score": 4
+    },
+    {
+      "line": 3612,
+      "text": "WEAPON (N THIS",
+      "score": 4
+    },
+    {
+      "line": 3628,
+      "text": "50..TART'S A",
+      "score": 4
+    },
+    {
+      "line": 3629,
+      "text": "MARTIAN +",
+      "score": 4
+    },
+    {
+      "line": 3633,
+      "text": "LIKE NEVADA... Bs",
+      "score": 4
+    },
+    {
+      "line": 3636,
+      "text": "TERRIFIC",
+      "score": 4
+    },
+    {
+      "line": 3637,
+      "text": "(MONDAY",
+      "score": 4
+    },
+    {
+      "line": 3638,
+      "text": "NIGUT SPECIAL!",
+      "score": 4
+    },
+    {
+      "line": 3761,
+      "text": "THE NEW BUSINESS STRUCTURE:",
+      "score": 4
+    },
+    {
+      "line": 3762,
+      "text": "A “STAGING COMPANY”",
+      "score": 4
+    },
+    {
+      "line": 3847,
+      "text": "THESE SECURITIES HAVE NOT",
+      "score": 4
+    },
+    {
+      "line": 3848,
+      "text": "BEEN APPROVED OR DISAP-",
+      "score": 4
+    },
+    {
+      "line": 3849,
+      "text": "PROVED BY THE SECURITIES",
+      "score": 4
+    },
+    {
+      "line": 3850,
+      "text": "AND EXCHANGE COMMISSION",
+      "score": 4
+    },
+    {
+      "line": 3851,
+      "text": "NOR HAS THE COMMISSION",
+      "score": 4
+    },
+    {
+      "line": 3852,
+      "text": "PASSED UPON THE ACCURACY",
+      "score": 4
+    },
+    {
+      "line": 3853,
+      "text": "OR ADEQUACY OF THIS PROS-",
+      "score": 4
+    },
+    {
+      "line": 3854,
+      "text": "PECTUS. ANY REPRESENTATION",
+      "score": 4
+    },
+    {
+      "line": 3855,
+      "text": "TO THE CONTRARY IS A",
+      "score": 4
+    },
+    {
+      "line": 3856,
+      "text": "CRIMINAL OFFENCE.",
+      "score": 4
+    },
+    {
+      "line": 4037,
+      "text": "IN CONNECTION WITH THIS OFFER-",
+      "score": 4
+    },
+    {
+      "line": 4038,
+      "text": "ING, THE UNDERWRITERS MAY. .",
+      "score": 4
+    },
+    {
+      "line": 4044,
+      "text": "OVER-ALLOT OR EFFECT TRANS-.",
+      "score": 4
+    },
+    {
+      "line": 4045,
+      "text": "ACTIONS WHICH STABILIZE OR",
+      "score": 4
+    },
+    {
+      "line": 4048,
+      "text": "~ MAINTAIN THE MARKET PRICE 1",
+      "score": 4
+    },
+    {
+      "line": 4051,
+      "text": "OF THE COMMON STOCK OFFERED |",
+      "score": 4
+    },
+    {
+      "line": 4052,
+      "text": "HEREBY AT A LEVEL ABOVE 4",
+      "score": 4
+    },
+    {
+      "line": 4053,
+      "text": "THAT WHICH MIGHT OTHERWISE",
+      "score": 4
+    },
+    {
+      "line": 4054,
+      "text": "PREVAIL IN THE OPEN MARKET.",
+      "score": 4
+    },
+    {
+      "line": 4055,
+      "text": "SUCH STABILIZING, IF COM-",
+      "score": 4
+    },
+    {
+      "line": 4058,
+      "text": "AT ANY TIME.",
+      "score": 4
+    },
+    {
+      "line": 4598,
+      "text": "CHORUS:",
+      "score": 4
+    },
+    {
+      "line": 4617,
+      "text": "CHORUS",
+      "score": 4
+    },
+    {
+      "line": 4998,
+      "text": "THIS 15 AbL",
+      "score": 4
+    },
+    {
+      "line": 4999,
+      "text": "Soe ERULT LORD!",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 384,
+      "term": "energy",
+      "snippet": "Edible Nuts of the World = Ethno-Pharmacology Society Soft Minit 98 Harnessing the Wind for Home Energy # Harnessing Water Power for Home Energy | phe The Toilet Papers = The Toilet Book # The Complete Biogas Handbook m# Sanitation Techuclosy Options » Methane Generation by Anaerobic Fermentation, An Annotated Bibliography 100-102 DON’T BUILD A HOUSE TILL YOU’VE LOOKED AT THIS by Michael Phillips"
+    },
+    {
+      "line": 395,
+      "term": "tools",
+      "snippet": "106 Mon Tricot » Howto Carve Totem Poles » Fiberarts = Collecting and Restoring Wicker Furniture 107 The Fine Art of Cabinetmaking = Fine Hardwoods Selectorama m= Carbide Cutting Tool Catalog’ =» The Care and Use of Japanese Woodworking Tools Ji bath : no.18 Q acy, Summer 1978 Community"
+    },
+    {
+      "line": 402,
+      "term": "community",
+      "snippet": "Ji bath : no.18 Q acy, Summer 1978 Community The Vegetarian Epicure, Book Two wm Laurel’s Kitchen » Multi Purpose Food m= Fern River Herbal Products 109 Six Stories by Sy Safransky"
+    },
+    {
+      "line": 432,
+      "term": "communications",
+      "snippet": "pow Watching Birds m= Water Birds of California = Birds of the Yosemite Sierra » The Audubon Society Field Guide to North American Birds: Western Region m# ... Eastern Region Communications 133 How to Produce a Small Newspaper » Lithographer 1 &C,3&2 m Warren Zevon a Excitable Boy 134-137 KANSAS CITY FRANK by R. Crumb"
+    },
+    {
+      "line": 438,
+      "term": "learning",
+      "snippet": "138 The true story of “Ladle Rat Rotten Hut” (Little Red Riding Hood) = Anguish Languish meets the Pledge of Allegiance m= Latter » How to Lie with Statistics Learning 139 Revisioning Psychology # Three Steps, One Bow # Growing Without Schooling Business : 140 Don’t Move!! m= Masthead # Thank you"
+    },
+    {
+      "line": 631,
+      "term": "learning",
+      "snippet": "my fellow Regents of the University of California, and the following phrase crept into my letter: “Break the pattern which connects the items of learning and you-necessarily destroy all quality.” “The pattern which connects.’’ Why do schools teach almost nothing of the pattern which connects? Is it that teachers know that they carry the kiss of death which will turn to tastelessness whatever they touch and therefore they are wisely unwilling to touch or teach"
+    },
+    {
+      "line": 1079,
+      "term": "learning",
+      "snippet": "Stes” = af OS See ie re Oe Sy ke did was outside his skin but, whatever it was that he learned, his learning happened within ree _ his experiential sequence of what those important others - his aunt, his father - did. Verte) oN # ; ae Now he comes to the analyst, this newly important other, who must be viewed as a father | ye"
+    },
+    {
+      "line": 1090,
+      "term": "learning",
+      "snippet": "a universal chracteristic of all interaction between persons, because, after all, the shape of , what happened between you and me yesterday carries over to shape how we respond to a each other today. And that shaping is, in principle, a transference from past learning. a I offer you this phenomenon of transference to exemplify the truth of the computer’s eo . perception that we think in stories. The analyst must be stretched or shrunk onto the ra Procrustean bed of the patient’s childhood stories. But also, by reference to psychoanalysis, os,"
+    },
+    {
+      "line": 1228,
+      "term": "learning",
+      "snippet": "that there is something wrong with the sentence ‘‘ ‘Go’ is a verb.”’ I remember the boredom of analyzing sentences and the boredom later, at Cambridge, of learning comparative anatomy. Both subjects, as taught, were torturously unreal. - We could have been told something about the pattern which connects: that all communica- tion necessitates context, and that without context there is no meaning. The teacher could have argued that growth and differentiation must be controlled by communication. The"
+    },
+    {
+      "line": 1288,
+      "term": "ecology",
+      "snippet": "tween man’s organization and that of the animals and plants. We have » lost even the Dying God. We are beginning to play with ideas of ecology, and, though we immediately trivialize these ideas into commerce or politics, there is at least an impulse still in the human breast to unify and thereby sanctify the total natural world, of which we are. Observe, however, that there have been - and still are - in the world many different and"
+    },
+    {
+      "line": 1441,
+      "term": "tools",
+      "snippet": "Throughout, the thesis of the book will be that it is possible and worthwhile to think about many problems of order and disorder in the biological universe, and that we have today a considerable supply of tools of thought which we do not use, partly because - professors _ and students alike - we are ignorant of many currently-available insights, and partly _ because we are unwilling to accept the necessities which _ follow from a clear view of the human dilemmas. s"
+    },
+    {
+      "line": 1766,
+      "term": "learning",
+      "snippet": "in a New Guinea culture. (! myself am an anthropologist.) More recently, | have tried to map something !ike Russell's Theory of Logical Types onto a theory of learning, assuming that all information whatsoever is necessarily logically typi- cal, no doubt in many different ways, and that the basic theory underlying the difference in logical types would be"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "oT waa a"
+    },
+    {
+      "line": 4,
+      "text": "Published by the Whole Earth Catalog ;"
+    },
+    {
+      "line": 7,
+      "text": "Gregory Bateson"
+    },
+    {
+      "line": 8,
+      "text": "The Pattern Which Connects"
+    },
+    {
+      "line": 12,
+      "text": "romp ts Summer 1978 Subscription price: $12 a year"
+    },
+    {
+      "line": 15,
+      "text": "1OQOOQOQ,000 GALAXIES"
+    },
+    {
+      "line": 18,
+      "text": "Computer Photo-Map of the Galaxies Brighter than 19th Magnitude Visible from Earth’s Northern Hemisphere"
+    },
+    {
+      "line": 21,
+      "text": "This map shows how the galaxies are distributed in our part"
+    },
+    {
+      "line": 22,
+      "text": "of the universe-the local one-billion-light-year neighbor-"
+    },
+    {
+      "line": 23,
+      "text": "hood,*"
+    },
+    {
+      "line": 26,
+      "text": "They are the one million brightest galaxies** visible by tele-"
+    },
+    {
+      "line": 27,
+      "text": "scope from Earth’s northern hemisphere and the northern"
+    },
+    {
+      "line": 28,
+      "text": "hemisphere of our own Milky Way galaxy. Only galaxies are"
+    },
+    {
+      "line": 29,
+      "text": "indicated here. Among the nearest is NGC 2403-6,000,000"
+    },
+    {
+      "line": 30,
+      "text": "light years away, The farthest are in the Serpens Virgo cloud"
+    },
+    {
+      "line": 31,
+      "text": "(made up of ten galaxy clusters) -1,000,000,000 light: years"
+    },
+    {
+      "line": 32,
+      "text": "away"
+    },
+    {
+      "line": 35,
+      "text": "Local debris such as Sun, Moon, planets, asteroids, and the"
+    },
+    {
+      "line": 36,
+      "text": "100,000,000,000 other stars of our galaxy are left out of the"
+    },
+    {
+      "line": 39,
+      "text": "*A Ingle"
+    },
+    {
+      "line": 42,
+      "text": "\"The ta"
+    },
+    {
+      "line": 45,
+      "text": "mer than «"
+    },
+    {
+      "line": 48,
+      "text": "year eqstals $,27%,000,000,000 miles"
+    },
+    {
+      "line": 51,
+      "text": "text galaxies oo the map- Ith magnitude -are 160,000 anies dim-"
+    },
+    {
+      "line": 54,
+      "text": "an be seen with the naked eve"
+    },
+    {
+      "line": 57,
+      "text": "The circle of the map shows a different perspective from what"
+    },
+    {
+      "line": 58,
+      "text": "we are used to. It is the northern hemisphere of our galaxy The"
+    },
+    {
+      "line": 59,
+      "text": "rim of the circle is looking along the thick of our galaxy -not"
+    },
+    {
+      "line": 60,
+      "text": "many other galaxies are visible through our dust. The center"
+    },
+    {
+      "line": 61,
+      "text": "of the circle is looking straight up from the plane of our"
+    },
+    {
+      "line": 62,
+      "text": "galaxy - with the clearer view of other galaxies you would"
+    },
+    {
+      "line": 63,
+      "text": "expect"
+    },
+    {
+      "line": 65,
+      "text": "a aoe teahe"
+    },
+    {
+      "line": 66,
+      "text": "galaxy, so the Earth's north pole"
+    },
+    {
+      "line": 67,
+      "text": "points 60° away from the galactic"
+    },
+    {
+      "line": 70,
+      "text": "north pole"
+    },
+    {
+      "line": 73,
+      "text": "The plane of the Earth's rotation is"
+    },
+    {
+      "line": 74,
+      "text": "at a 60° angle to the plane of the"
+    },
+    {
+      "line": 77,
+      "text": "There is an unsurveyed crescent on the lower right"
+    },
+    {
+      "line": 79,
+      "text": "of the map because the Earth’s horizon limited the"
+    }
+  ]
+}

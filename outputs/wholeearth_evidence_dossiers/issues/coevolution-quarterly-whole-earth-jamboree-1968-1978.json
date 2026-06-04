@@ -1,0 +1,680 @@
+{
+  "title": "CoEvolution Quarterly Whole Earth Jamboree, 1968-1978",
+  "identifier": "coevolutionquart00unse_40",
+  "year": 1978,
+  "season": "Winter",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 151,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-whole-earth-jamboree-1968-1978",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_40",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_40/coevolutionquart00unse_40.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_40/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_40_djvu.txt",
+  "ocr_chars": 648361,
+  "significant_line_count": 14317,
+  "theme_counts": {
+    "software_computing": 46,
+    "tools_craft": 257,
+    "ecology_place": 615,
+    "learning_media": 387,
+    "community_politics": 468
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 9522,
+      "page": 3,
+      "title": "JOE BACON CONTINUES",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_40/page/n4_w500.jpg"
+    },
+    {
+      "line": 13862,
+      "page": 7,
+      "title": "ROSS",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_40/page/n8_w500.jpg"
+    },
+    {
+      "line": 14117,
+      "page": 16,
+      "title": "HE DARED TO.",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_40/page/n17_w500.jpg"
+    },
+    {
+      "line": 23887,
+      "page": 15,
+      "title": "PROBABLY JUST 4 SCREAMING",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_40/page/n16_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 9522,
+      "text": "3 JOE BACON CONTINUES",
+      "score": 8
+    },
+    {
+      "line": 13862,
+      "text": "7 ROSS",
+      "score": 8
+    },
+    {
+      "line": 14117,
+      "text": "16 HE DARED TO.",
+      "score": 8
+    },
+    {
+      "line": 23873,
+      "text": "7 OUR CREDIT THAT WE WERE",
+      "score": 8
+    },
+    {
+      "line": 23887,
+      "text": "15 PROBABLY JUST 4 SCREAMING",
+      "score": 8
+    },
+    {
+      "line": 24272,
+      "text": "3 PLEASE CHECK IF BIOGEOGRAPHICAL",
+      "score": 8
+    },
+    {
+      "line": 9489,
+      "text": "WITH TH’ PROGRAM/",
+      "score": 6
+    },
+    {
+      "line": 6932,
+      "text": "your community want your program.",
+      "score": 5
+    },
+    {
+      "line": 109,
+      "text": "4-1] DRAFT OF A PROPOSED SPEECH BY THE PRESIDENT OF THE UNITED STATES |",
+      "score": 4
+    },
+    {
+      "line": 158,
+      "text": "46-55 THE RISING SUN NEIGHBORHOOD NEWSLETTER by Anne Herbert",
+      "score": 4
+    },
+    {
+      "line": 199,
+      "text": "THE TRUE STORY OF THE LONE RANGER by Dan O'Neill",
+      "score": 4
+    },
+    {
+      "line": 397,
+      "text": "WE MUST CREATE NEW HISTORY",
+      "score": 4
+    },
+    {
+      "line": 602,
+      "text": "THE SEARCH FOR ANSWERS",
+      "score": 4
+    },
+    {
+      "line": 823,
+      "text": "| WHAT WECANDO _ he",
+      "score": 4
+    },
+    {
+      "line": 922,
+      "text": "SECOND",
+      "score": 4
+    },
+    {
+      "line": 1001,
+      "text": "THIRD",
+      "score": 4
+    },
+    {
+      "line": 1360,
+      "text": "EL SS LE Ps DE LE SL Le ed EI Ts SO PNET Se Ee Ee",
+      "score": 4
+    },
+    {
+      "line": 1438,
+      "text": "_A PROPOSAL FOR THE MILITARY FORCE S",
+      "score": 4
+    },
+    {
+      "line": 1439,
+      "text": "STRATEGIC FORCES",
+      "score": 4
+    },
+    {
+      "line": 1448,
+      "text": "GENERAL PURPOSE FORCES",
+      "score": 4
+    },
+    {
+      "line": 1562,
+      "text": "THE Ha ..I'VE. GOT WELL. MR",
+      "score": 4
+    },
+    {
+      "line": 1564,
+      "text": "TH E COMPLUCATED/ eure LY VA PALES ne PRES IDENT, WE",
+      "score": 4
+    },
+    {
+      "line": 1567,
+      "text": "EATONaE: way VERGES ON |THE siITUATION MUSTN'T GIVE",
+      "score": 4
+    },
+    {
+      "line": 1570,
+      "text": "’ * E",
+      "score": 4
+    },
+    {
+      "line": 1571,
+      "text": "OUT OF S ouT OF 4m UP HoPe.. WEN",
+      "score": 4
+    },
+    {
+      "line": 1572,
+      "text": "F TO MANAGE THESE BEING ) apes",
+      "score": 4
+    },
+    {
+      "line": 1573,
+      "text": "INAL SN YMORE. Ts Sanat WORKING OW",
+      "score": 4
+    },
+    {
+      "line": 1578,
+      "text": "SOLUTION rie",
+      "score": 4
+    },
+    {
+      "line": 1581,
+      "text": "DON'T KNOW... ? ---_",
+      "score": 4
+    },
+    {
+      "line": 1582,
+      "text": "aa | TIRED... BURNED YES... YOU'RE",
+      "score": 4
+    },
+    {
+      "line": 1586,
+      "text": "sey... | Te TO WORK MIRACLES!",
+      "score": 4
+    },
+    {
+      "line": 1588,
+      "text": "Boe PRESSURE... cen THAT",
+      "score": 4
+    },
+    {
+      "line": 1589,
+      "text": "> DO THEY : VO, SOING ON... THE | SHOW THAT",
+      "score": 4
+    },
+    {
+      "line": 1590,
+      "text": "THINK | AM ?/ ge 4 STUPID SHEEP 4 NOS Ge",
+      "score": 4
+    },
+    {
+      "line": 1594,
+      "text": "YoU SHOULD TAKE LONGER CONCERNED",
+      "score": 4
+    },
+    {
+      "line": 1595,
+      "text": "M1 IMAGE... Ger avn “ROM TH ABOUT WHaT HISTORY",
+      "score": 4
+    },
+    {
+      "line": 1597,
+      "text": "_@UNCH y RUN IT INTO ‘Be",
+      "score": 4
+    },
+    {
+      "line": 1598,
+      "text": "ee y THE GROUND /",
+      "score": 4
+    },
+    {
+      "line": 1599,
+      "text": "IGNORANT",
+      "score": 4
+    },
+    {
+      "line": 1602,
+      "text": "IT CANT NO, OF COURSE",
+      "score": 4
+    },
+    {
+      "line": 1603,
+      "text": "BE THAT (M NOT TOTALLY",
+      "score": 4
+    },
+    {
+      "line": 1604,
+      "text": "HELPL",
+      "score": 4
+    },
+    {
+      "line": 1608,
+      "text": "vere BE RIGHT... _4 HELPLESS...",
+      "score": 4
+    },
+    {
+      "line": 1859,
+      "text": "BY STEWART BRAND",
+      "score": 4
+    },
+    {
+      "line": 2128,
+      "text": "BY BRIAN TOSS",
+      "score": 4
+    },
+    {
+      "line": 2182,
+      "text": "REFERENCES",
+      "score": 4
+    },
+    {
+      "line": 2206,
+      "text": "I'M Nor Sure RECOGNITION",
+      "score": 4
+    },
+    {
+      "line": 2209,
+      "text": "BY MICHAEL PHILLIPS -",
+      "score": 4
+    },
+    {
+      "line": 2309,
+      "text": "THE GLIDE FOUNDATION nies",
+      "score": 4
+    },
+    {
+      "line": 2340,
+      "text": "TDK 25,000 _",
+      "score": 4
+    },
+    {
+      "line": 2359,
+      "text": "CLUB, BUT WITH ALL",
+      "score": 4
+    },
+    {
+      "line": 2361,
+      "text": "NEVER TOOK CARE OF",
+      "score": 4
+    },
+    {
+      "line": 2363,
+      "text": "THEIR BUSINESSES",
+      "score": 4
+    },
+    {
+      "line": 2364,
+      "text": "FAILED They SOD",
+      "score": 4
+    },
+    {
+      "line": 2365,
+      "text": "THE CLug TO THE",
+      "score": 4
+    },
+    {
+      "line": 2366,
+      "text": "AMERICANS WHO",
+      "score": 4
+    },
+    {
+      "line": 2409,
+      "text": "GRAND TOTAL $810,000",
+      "score": 4
+    },
+    {
+      "line": 2416,
+      "text": ": - INCOME PLUS",
+      "score": 4
+    },
+    {
+      "line": 2417,
+      "text": "| + PRESENTATION OF CAPITAL",
+      "score": 4
+    },
+    {
+      "line": 2439,
+      "text": "AFTER 5 YEARS OF PENS ORET",
+      "score": 4
+    },
+    {
+      "line": 2440,
+      "text": "+o Meet THEIR 1977 POLLUT!",
+      "score": 4
+    },
+    {
+      "line": 2441,
+      "text": "STANDARDS, WE SUCCEEDED. THEN THEY",
+      "score": 4
+    },
+    {
+      "line": 2442,
+      "text": "MONED THE DATE To 1984 BECAUSE THEIR OWN",
+      "score": 4
+    },
+    {
+      "line": 2443,
+      "text": "MANUFACTURERS SPID (T COULDN'T BE DONE,",
+      "score": 4
+    },
+    {
+      "line": 2502,
+      "text": "GRAND TOTAL $768,000",
+      "score": 4
+    },
+    {
+      "line": 2687,
+      "text": "\"TO GET MAXIMUM +f s eo",
+      "score": 4
+    },
+    {
+      "line": 2688,
+      "text": "_ FOOD VALUE: TO AVOID PESTICIDES:",
+      "score": 4
+    },
+    {
+      "line": 2689,
+      "text": "MEAT F",
+      "score": 4
+    },
+    {
+      "line": 2695,
+      "text": "; DAIRY PRODUCTS a ee",
+      "score": 4
+    },
+    {
+      "line": 2703,
+      "text": "FRUITS & VEGETAB LES ‘ a E mA",
+      "score": 4
+    },
+    {
+      "line": 2743,
+      "text": "POLAR UNITY",
+      "score": 4
+    },
+    {
+      "line": 2746,
+      "text": "EVENTS AND ARTIFACTS BY ALEX GREY",
+      "score": 4
+    },
+    {
+      "line": 2772,
+      "text": "THE INNER EAR (1976)",
+      "score": 4
+    },
+    {
+      "line": 2796,
+      "text": "MONSTERS (1976)",
+      "score": 4
+    },
+    {
+      "line": 2856,
+      "text": "INIENCEPHALIC ANENCEPHALIC",
+      "score": 4
+    },
+    {
+      "line": 2968,
+      "text": "APPARITION",
+      "score": 4
+    },
+    {
+      "line": 2971,
+      "text": "THE OGRES GOT THE FAIRY ON THE TABLE AND",
+      "score": 4
+    },
+    {
+      "line": 2972,
+      "text": "7 THEY ARE DOING TORTURING! AND | GOTTA LOOK",
+      "score": 4
+    },
+    {
+      "line": 2973,
+      "text": "A, AT IT. AND THEY‘RE TOO BIGGGG - | CAN'T STOP :",
+      "score": 4
+    },
+    {
+      "line": 2978,
+      "text": "NOW THEY BITE THE FAIRY, AND THEY PINCH, AND",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 120,
+      "term": "whole systems",
+      "snippet": "17 Human Fahrenheit, Inhuman Celsius by Brian Toss 18-19 Time to Invest Overseas by Michael Phillips Understanding Whole Systems. 20 Reinhabiting a Separate Country m= Biogeography Workbook | s Guif of Main - 21-24 Polar Unity Events and artifacts by Alex Gray 25 In praise of pantheism ws World Map of Desertification = The Serie of the Fairy"
+    },
+    {
+      "line": 137,
+      "term": "energy",
+      "snippet": "Sun Angles for Design » Build Your Own Solar Water Heater 36 How to Buy Solar Heating Without Getting Burnt = A Solar Water Heater Workshop hepa 37 Fireplaces m People & Energy » Woodburning Water Heater’ = Masonry Stove Guild Newsletter _ 38 Shelter If = Shelter, Sign and Symbol 39 The Healthy House =-Chainsaw mills = Jet Tools = Acadia House 40 Animal Architecture » Institute for Local Self-Reliance ms No Heat, No Rent »"
+    },
+    {
+      "line": 139,
+      "term": "tools",
+      "snippet": "37 Fireplaces m People & Energy » Woodburning Water Heater’ = Masonry Stove Guild Newsletter _ 38 Shelter If = Shelter, Sign and Symbol 39 The Healthy House =-Chainsaw mills = Jet Tools = Acadia House 40 Animal Architecture » Institute for Local Self-Reliance ms No Heat, No Rent » Windmill Power for City People 4] Comment on “Pedal Power” = Underground architecture footnote m="
+    },
+    {
+      "line": 143,
+      "term": "energy",
+      "snippet": "Windmill Power for City People 4] Comment on “Pedal Power” = Underground architecture footnote m= ‘Transportation and Energy: Some Current ae Craft 42 ' Country Woodcraft = Poppy Shiki-buton (Japanese folding bed). = Step-by-Step ere e s Ornament"
+    },
+    {
+      "line": 153,
+      "term": "community",
+      "snippet": "42 ' Country Woodcraft = Poppy Shiki-buton (Japanese folding bed). = Step-by-Step ere e s Ornament Community 43 You Are Not Alone =» Common-Sense Suicide = Why S.O. B.’s Succeed and Nice Guys Fail in A Small Business 44-45 Tunnels by Peter Nabokov"
+    },
+    {
+      "line": 504,
+      "term": "learning",
+      "snippet": "for mankind because they have invested their human - and natural resources in massive mobilizations for the ie specific purpose of learning these secrets. a I say to every man, woman and child in every hationy oe: that the time has now come for a massive mobilization i of human and natural resources for the purpose of -"
+    },
+    {
+      "line": 510,
+      "term": "learning",
+      "snippet": "that the time has now come for a massive mobilization i of human and natural resources for the purpose of - learning the secrets of the power of safety and well- a ‘ being for the people of all nations. If we believe that the intention of creation is toward greater life for the family of mankind, then let us begin to direct the for-"
+    },
+    {
+      "line": 949,
+      "term": "interview",
+      "snippet": "a a over ee forces spread across more than . etch our inventiveness (another aie But how __ offices of government officials and dignitaries, into editorial rooms and onto occasional interview shows. He and Harriet totally dedicated themselves to this single goal. They had and still have no organization © to fund their efforts. For years they spent their perso-"
+    },
+    {
+      "line": 1248,
+      "term": "energy",
+      "snippet": "AOE toward pear any PLOspenity to a seta ln Particle Beam Weapons Also called “directed energy weapons,” they are a brand new major factor in the U_S.-U.S.S.R. counter- threat industry, A spin-off of nuclear fusion technology, the point of all new spying, arguing, legislating, and in-"
+    },
+    {
+      "line": 1262,
+      "term": "energy",
+      "snippet": "from all foreign enemies, and the scarce resources of ‘the Earth are redirected toward production of food, clothing, housing, energy, clean air & water, health, education and national security - a long-range stra- tegic objective deserving the support of the patriotic people of all nations. There is no need to first “nego-"
+    },
+    {
+      "line": 1631,
+      "term": "tools",
+      "snippet": "- Oatley’ ‘s finely-wrought argument is that the old battle of _ Man against Nature has been essentially won by Man thanks to the tools of Politics and Technology. Now Man’s battle is : with the uncontrolled wilderness of Politics and Technology, to be fought with tools yet to be invented. Ogilvy suggests _ paratechnology and parapolitics as the tools and portrays a"
+    },
+    {
+      "line": 1633,
+      "term": "tools",
+      "snippet": "to the tools of Politics and Technology. Now Man’s battle is : with the uncontrolled wilderness of Politics and Technology, to be fought with tools yet to be invented. Ogilvy suggests _ paratechnology and parapolitics as the tools and portrays a _ many-dimensional man who could sharpen and wield them. 3 Ay ™m thrilled by it. According to him, | would be."
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "AY. 7A aXe) (23"
+    },
+    {
+      "line": 7,
+      "text": "No. 20 Winter 1978"
+    },
+    {
+      "line": 10,
+      "text": "Sarit"
+    },
+    {
+      "line": 14,
+      "text": "ye é"
+    },
+    {
+      "line": 22,
+      "text": "t StF"
+    },
+    {
+      "line": 28,
+      "text": "arth Jamboree"
+    },
+    {
+      "line": 29,
+      "text": "pp.90-130"
+    },
+    {
+      "line": 32,
+      "text": "Subscription price: $12 a year $3.50 me |"
+    },
+    {
+      "line": 35,
+      "text": "The signature of any event with New Games going on, the Earth Ball, MC Brand on Talk Stage sagging into the realize"
+    },
+    {
+      "line": 36,
+      "text": "canvas-covered, 6-feet in diameter. Of innumerable games it has encour- introducing 60-some speakers in two endless brie,"
+    },
+    {
+      "line": 38,
+      "text": "_aged, the most popular is this one - one bunch of people on their backs noons is going to be a hard march. (“If / ask Wit"
+    },
+    {
+      "line": 39,
+      "text": "on the ground with their legs in the air try to kick the ball clear over the Rybczynski one more time how to say his name"
+    },
+    {
+      "line": 40,
+      "text": "circle of people standing around them, who try to keep the ball coming high 5 ee ioe mire itt get it wrong, he *"
+    },
+    {
+      "line": 41,
+      "text": "back on the kickers without having touched the ground. Lotsa cheers TRE TOKE SDROIEE Ss RE sore ok wy"
+    },
+    {
+      "line": 42,
+      "text": "and groans as it touches the ground; ditto when it just barely doesn’t."
+    },
+    {
+      "line": 45,
+      "text": "Awesome, soaring ball the rest of the time."
+    },
+    {
+      "line": 57,
+      "text": "Stephen Dunmore"
+    },
+    {
+      "line": 66,
+      "text": "Roger-Ressmeyer"
+    },
+    {
+      "line": 69,
+      "text": "len Ginsberg, Paolo Soleri"
+    },
+    {
+      "line": 72,
+      "text": "‘Mimi Farina doing a set on the Music Stage."
+    },
+    {
+      "line": 75,
+      "text": "ugust 26~28, 1978"
+    },
+    {
+      "line": 76,
+      "text": "Gerbode Valley, California"
+    },
+    {
+      "line": 82,
+      "text": "mboree"
+    },
+    {
+      "line": 88,
+      "text": "Fred Herter"
+    },
+    {
+      "line": 91,
+      "text": "Best thing on the Music Stage, the slapstick"
+    },
+    {
+      "line": 92,
+      "text": "‘musical group, The Brass Band. ."
+    },
+    {
+      "line": 95,
+      "text": "vy Gravy and client."
+    },
+    {
+      "line": 98,
+      "text": "~ Cover The most impressive booth at the Whole Earth Jam-"
+    },
+    {
+      "line": 99,
+      "text": "' boree was the glass furnace from Richard Marquis’ Deluxe"
+    },
+    {
+      "line": 101,
+      "text": "Studios, 1793 12th Street, Oakland, California 94607. Marbles . Ov"
+    },
+    {
+      "line": 102,
+      "text": "like the ones on the cover were crafted (by Captain Marble) : front cover is a detail of the beak cover. Photograph by tt"
+    },
+    {
+      "line": 105,
+      "text": "and sold on the spot to Standing Room Only customers. Harold Wood and Jim eS ‘"
+    },
+    {
+      "line": 106,
+      "text": "We learned of ores work and got these photographs from -sB ( Stewart Brand) is"
+    },
+    {
+      "line": 107,
+      "text": "Politics"
+    },
+    {
+      "line": 108,
+      "text": "0-1 Whole Earth Jamboree photos"
+    },
+    {
+      "line": 109,
+      "text": "4-1] DRAFT OF A PROPOSED SPEECH BY THE PRESIDENT OF THE UNITED STATES |"
+    },
+    {
+      "line": 110,
+      "text": "by War Control Planners, Inc."
+    },
+    {
+      "line": 111,
+      "text": "6-9 Winter 1978-79 Commentary by Russell Schweickart"
+    },
+    {
+      "line": 112,
+      "text": "10-12 1978 Postscript by Howard Kurtz"
+    },
+    {
+      "line": 113,
+      "text": "11-12 Particle Beam Weapons # “Technology Creep ‘"
+    }
+  ]
+}

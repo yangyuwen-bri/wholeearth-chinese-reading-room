@@ -1,0 +1,674 @@
+{
+  "title": "CoEvolution Quarterly, Fall 1976",
+  "identifier": "coevolutionquart00unse_8",
+  "year": 1976,
+  "season": "Fall",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 151,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1976",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_8",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_8/coevolutionquart00unse_8.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_8/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_8_djvu.txt",
+  "ocr_chars": 669547,
+  "significant_line_count": 14008,
+  "theme_counts": {
+    "software_computing": 105,
+    "tools_craft": 297,
+    "ecology_place": 854,
+    "learning_media": 354,
+    "community_politics": 337
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 3122,
+      "page": 25,
+      "title": "INVESTMENT",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_8/page/n26_w500.jpg"
+    },
+    {
+      "line": 7888,
+      "page": 1,
+      "title": "MARS.. SURROUNDED BY",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_8/page/n2_w500.jpg"
+    },
+    {
+      "line": 20209,
+      "page": 2,
+      "title": "CUSHION",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_8/page/n3_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 3122,
+      "text": "25 INVESTMENT",
+      "score": 8
+    },
+    {
+      "line": 7888,
+      "text": "1 MARS.. SURROUNDED BY",
+      "score": 8
+    },
+    {
+      "line": 20209,
+      "text": "2 CUSHION",
+      "score": 8
+    },
+    {
+      "line": 3099,
+      "text": "AGE AT BEGINNING OF PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 5639,
+      "text": "INTERVIEWING CARL SAGAN anno LYNN MARGULIS 2",
+      "score": 6
+    },
+    {
+      "line": 7873,
+      "text": "ROUR TeVe PROGRAMS WE HAVE",
+      "score": 6
+    },
+    {
+      "line": 14559,
+      "text": "EARTH-SHELTER",
+      "score": 6
+    },
+    {
+      "line": 3988,
+      "text": "guides, “ecology” articles, and CQ review books. THEN",
+      "score": 5
+    },
+    {
+      "line": 10971,
+      "text": "mental Assessment of the ERDA Solar Energy Program",
+      "score": 5
+    },
+    {
+      "line": 10987,
+      "text": "mental implications of the national solar energy program as",
+      "score": 5
+    },
+    {
+      "line": 11616,
+      "text": "Community gardening programs have grown rapidly in the",
+      "score": 5
+    },
+    {
+      "line": 11743,
+      "text": "The leaders of most of these community based programs have",
+      "score": 5
+    },
+    {
+      "line": 4,
+      "text": "OBNANPWN-",
+      "score": 4
+    },
+    {
+      "line": 11,
+      "text": "WORLD BIOGEOGRAPHICAL PROVINCES",
+      "score": 4
+    },
+    {
+      "line": 24,
+      "text": "NEARCTIC REALM",
+      "score": 4
+    },
+    {
+      "line": 76,
+      "text": "UNAWARE CITIZENS OF",
+      "score": 4
+    },
+    {
+      "line": 77,
+      "text": "BIOGEOGRAPHICAL PROVINCES",
+      "score": 4
+    },
+    {
+      "line": 131,
+      "text": "THE SHIFT FROM A MARKET ECONOMY TO A HOUSEHOLD ECONOMY by Scott Burns”",
+      "score": 4
+    },
+    {
+      "line": 148,
+      "text": "56-67 MIND/BODY DUALISM CONFERENCE POSITION PAPERS 1",
+      "score": 4
+    },
+    {
+      "line": 206,
+      "text": "108-114 EARTHSHOES & OTHER REMARKS by Ken Kesey",
+      "score": 4
+    },
+    {
+      "line": 212,
+      "text": "120-123 THE AMERICAN ANTI-WHALING MOVEMENT IS RACIST by Michael Phillips",
+      "score": 4
+    },
+    {
+      "line": 267,
+      "text": "BY HERMAN KAHN",
+      "score": 4
+    },
+    {
+      "line": 268,
+      "text": "WITH WILLIAM BROWN AND LEON MARTEL",
+      "score": 4
+    },
+    {
+      "line": 497,
+      "text": "WORLD",
+      "score": 4
+    },
+    {
+      "line": 500,
+      "text": "DEVELOPED",
+      "score": 4
+    },
+    {
+      "line": 501,
+      "text": "COMMUNIST ASIA",
+      "score": 4
+    },
+    {
+      "line": 504,
+      "text": "COPING",
+      "score": 4
+    },
+    {
+      "line": 505,
+      "text": "NONCOPING",
+      "score": 4
+    },
+    {
+      "line": 572,
+      "text": "TABLE 17. 1985 TECHNOLOGICAL CRISES",
+      "score": 4
+    },
+    {
+      "line": 766,
+      "text": "SARS SsS",
+      "score": 4
+    },
+    {
+      "line": 772,
+      "text": "TITAN AO SR",
+      "score": 4
+    },
+    {
+      "line": 1334,
+      "text": "THE EROSION OF TRADITIONAL",
+      "score": 4
+    },
+    {
+      "line": 1335,
+      "text": "SOCIETAL LEVERS",
+      "score": 4
+    },
+    {
+      "line": 1535,
+      "text": "HOW SAFE WILL THE WORLD BE?",
+      "score": 4
+    },
+    {
+      "line": 1611,
+      "text": "TRANSITIONAL PROBLEMS OF MORALE,",
+      "score": 4
+    },
+    {
+      "line": 1612,
+      "text": "ATTITUDES AND THE QUALITY OF LIFE",
+      "score": 4
+    },
+    {
+      "line": 1847,
+      "text": "PP TE:",
+      "score": 4
+    },
+    {
+      "line": 1853,
+      "text": "SO tS",
+      "score": 4
+    },
+    {
+      "line": 1921,
+      "text": "Table 18. SOME FAILURES OF SUCCESS",
+      "score": 4
+    },
+    {
+      "line": 2113,
+      "text": "HOW LIKELY ARE DEMOCRACY AND",
+      "score": 4
+    },
+    {
+      "line": 2114,
+      "text": "WORLD GOVERNMENT?",
+      "score": 4
+    },
+    {
+      "line": 2755,
+      "text": "BY SCOTT BURNS",
+      "score": 4
+    },
+    {
+      "line": 2804,
+      "text": "NY 11968.",
+      "score": 4
+    },
+    {
+      "line": 2913,
+      "text": "<= ~S :",
+      "score": 4
+    },
+    {
+      "line": 2918,
+      "text": "NS SS \\ M S",
+      "score": 4
+    },
+    {
+      "line": 2920,
+      "text": "> * ~ SSS",
+      "score": 4
+    },
+    {
+      "line": 3104,
+      "text": "NET 4 143 166 20.0 25.0",
+      "score": 4
+    },
+    {
+      "line": 3105,
+      "text": "RETURN 9) 17.0 “13.5 ° 16.6) 21:8",
+      "score": 4
+    },
+    {
+      "line": 3107,
+      "text": "730.82) B.8) CLG) 16k",
+      "score": 4
+    },
+    {
+      "line": 3112,
+      "text": "INVESTMENT",
+      "score": 4
+    },
+    {
+      "line": 3115,
+      "text": "SAVINGS REQUIRED AS % OF INCOME",
+      "score": 4
+    },
+    {
+      "line": 3119,
+      "text": "28 40 PROBABLE",
+      "score": 4
+    },
+    {
+      "line": 3120,
+      "text": "MAXIMUM",
+      "score": 4
+    },
+    {
+      "line": 3121,
+      "text": "FIXED DOLLAR",
+      "score": 4
+    },
+    {
+      "line": 3123,
+      "text": "AGE RETURN",
+      "score": 4
+    },
+    {
+      "line": 3133,
+      "text": "SAVINGS RATE",
+      "score": 4
+    },
+    {
+      "line": 3142,
+      "text": "80% OF ALL He",
+      "score": 4
+    },
+    {
+      "line": 3143,
+      "text": "AMERICAN FAMILIES 2:",
+      "score": 4
+    },
+    {
+      "line": 3146,
+      "text": "5.0 F",
+      "score": 4
+    },
+    {
+      "line": 3151,
+      "text": "NET RETURN ON INVESTMENT",
+      "score": 4
+    },
+    {
+      "line": 3754,
+      "text": "NY 11530",
+      "score": 4
+    },
+    {
+      "line": 3758,
+      "text": "Part One THE INVISIBLE ECONOMY",
+      "score": 4
+    },
+    {
+      "line": 3805,
+      "text": "Part Two THE PAST AND FUTURE OF THE",
+      "score": 4
+    },
+    {
+      "line": 3806,
+      "text": "HOUSEHOLD ECONOMY",
+      "score": 4
+    },
+    {
+      "line": 3864,
+      "text": "M } M",
+      "score": 4
+    },
+    {
+      "line": 3889,
+      "text": "Part Three WHY THE MARKET ECONOMY",
+      "score": 4
+    },
+    {
+      "line": 3890,
+      "text": "MUST DECLINE",
+      "score": 4
+    },
+    {
+      "line": 3948,
+      "text": "Part Four AN EXPEDITION IN THE",
+      "score": 4
+    },
+    {
+      "line": 3950,
+      "text": "CURRENT MYTHOLOGY",
+      "score": 4
+    },
+    {
+      "line": 4111,
+      "text": "By RAYMOND DASMANN",
+      "score": 4
+    },
+    {
+      "line": 4168,
+      "text": "THE SEARCH FOR PARADISE",
+      "score": 4
+    },
+    {
+      "line": 4257,
+      "text": "THE NATIONAL PARKS MOVEMENT",
+      "score": 4
+    },
+    {
+      "line": 4433,
+      "text": "ECOSYSTEM PEOPLE vs ¥",
+      "score": 4
+    },
+    {
+      "line": 4434,
+      "text": "_ BIOSPHERE PEOPLE .",
+      "score": 4
+    },
+    {
+      "line": 4515,
+      "text": "INDIGENOUS SOCIETIES DISPLACED",
+      "score": 4
+    },
+    {
+      "line": 4647,
+      "text": "OOOO,",
+      "score": 4
+    },
+    {
+      "line": 4687,
+      "text": "ESTABLISHING NATIONAL PARKS",
+      "score": 4
+    },
+    {
+      "line": 4688,
+      "text": "IN THE SOUTH PACIFIC",
+      "score": 4
+    },
+    {
+      "line": 4922,
+      "text": "LITERATURE CITED",
+      "score": 4
+    },
+    {
+      "line": 5289,
+      "text": "_iNDOMALAYAN REALM",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 95,
+      "term": "energy",
+      "snippet": "Biosphere people today are tied in with the global technological and economic system. This frees them from the restraints of any one particular ecosystem, since they can draw upon energy and resources from an economic network which extends throughout the entire biosphere. We need only examine the sources of the food consumed in any modern city to see that they come from virtually all of the continents and oceans of the world."
+    },
+    {
+      "line": 137,
+      "term": "whole systems",
+      "snippet": "Home Inc. = Homage to Dasmann FUTURE PRIMITIVE by Raymond Dasmann Understanding Whole Systems 32-37 BIOGEOGRAPHICAL PROVINCES by Raymond Dasmann ~~ 37 Institute for Bioregional Research . 7 : 38-45 CONTROVERSY IS RIFE ON MARS. interviewing Carl Sagan and Lynn Margulis 4"
+    },
+    {
+      "line": 142,
+      "term": "interview",
+      "snippet": "32-37 BIOGEOGRAPHICAL PROVINCES by Raymond Dasmann ~~ 37 Institute for Bioregional Research . 7 : 38-45 CONTROVERSY IS RIFE ON MARS. interviewing Carl Sagan and Lynn Margulis 4 46-48 Driving or driven to Space? =» John Holt on the case . 47-53 Odd Bodkins by Dan O'Neill : F 48-50 Space agriculture and Space cops = 8 am of the world"
+    },
+    {
+      "line": 153,
+      "term": "energy",
+      "snippet": "61 Position Paper for the Mind/Body Dualism Conference by Ramon Margalef | eh 62-67 Not One, Not Two by Francisco Varela : ne 68 The Case FOR Mind/Body Dualism =» Unusual Energy Report ) ome Bact % 69 Dolphin Embassy = The Genesis Strategy Land Use 70-71 The Family Cow = Food Drying booklets =» Building Stone Walls"
+    },
+    {
+      "line": 158,
+      "term": "community",
+      "snippet": "70-71 The Family Cow = Food Drying booklets =» Building Stone Walls i New dehydration method for vegetables and fruits » Central Tractor Parts Company 72-73 Community Gardening by Rosemary Menninger 3 74 Recreational Community Gardening » The Color Dictionary of Flowers and Plants 74 Beekeeping in the United States = Other good Government pamphlets 75 Farming » Garden Way Cart = Down to Earth Vegetable Gardening Know-How"
+    },
+    {
+      "line": 159,
+      "term": "community",
+      "snippet": "i New dehydration method for vegetables and fruits » Central Tractor Parts Company 72-73 Community Gardening by Rosemary Menninger 3 74 Recreational Community Gardening » The Color Dictionary of Flowers and Plants 74 Beekeeping in the United States = Other good Government pamphlets 75 Farming » Garden Way Cart = Down to Earth Vegetable Gardening Know-How 76-77 The Foredads by Gary Rurkun = Harrowsmith = Ideas for All Around the Farm |"
+    },
+    {
+      "line": 167,
+      "term": "energy",
+      "snippet": "Soft Technology 80-81 The Lange wood stove = A beautiful woodburning boiler » North Wind Power Co. - 81 The Nebraska Windmill book - too funktional? = Wind Workshop 2 = Wind Energy Utilization 82-83 Country Comforts » Cloudburst 2 » Building With Logs =» Modern Carpentry 83 Ferrocement: Applications in Developing Countries = Chinese Chain and Washer Pumps ie 84-93 UNDERGROUND ARCHITECTURE by Malcolm Wells ie | ay"
+    },
+    {
+      "line": 201,
+      "term": "community",
+      "snippet": "98 Choosing a spinning wheel 99 American Spinning Wheels = Spinning Wheel Plans » Making a Simple Violin and Viola Community -- 100 The New Games Book = New Games Newsletter 101 Seriatim = 99 Ways to a Simple Lifestyle » Home For Sale By Owner ee 102-106 CROSS-GENERATION MARRIAGE by Theodora Kroeber-Quinn"
+    },
+    {
+      "line": 217,
+      "term": "communications",
+      "snippet": "126 Instant Boats =» Questioning Polarguard & Fiberfill = Wilderness Survival Cards 127 Anybody’s Skateboard Book =» The Maya World Communications 128 The Big Dummy’s Guide to C.B. Radio = Verbatim = Grapevine 129 TV Typewriter Cookbook = The Italic Way to Beautiful Handwriting 120 Build Your Own Working Robot |"
+    },
+    {
+      "line": 222,
+      "term": "learning",
+      "snippet": "120 Build Your Own Working Robot | 130-133 ne s Blueprints by Lucy Burrows Morley and Christopher Thompson Learning | 7 134-135 Getting Skilled = College Degrees by Mail = The Flying Circus of Physics 136-140 Boone by Gurney Norman 140 Brain/Mind Bulletin = The Brown Paper School"
+    },
+    {
+      "line": 447,
+      "term": "community",
+      "snippet": "7. Worldwide industrialization and modernization; also growing concept and realization of a world ecumene (but. ecumene not community, “world city”’ not “global village,”’ and “world market” not “marketplace’’) - that is, impersonal © and businesslike interactions as opposed to the close human ties implied by the words “‘community,” “‘village’’ and"
+    },
+    {
+      "line": 454,
+      "term": "community",
+      "snippet": "and “world market” not “marketplace’’) - that is, impersonal © and businesslike interactions as opposed to the close human ties implied by the words “‘community,” “‘village’’ and “marketplace”; but also a growing, if still fragile, sense of “world public opinion” and of shared responsibility for all human beings."
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Fall 1976"
+    },
+    {
+      "line": 4,
+      "text": "OBNANPWN-"
+    },
+    {
+      "line": 11,
+      "text": "WORLD BIOGEOGRAPHICAL PROVINCES"
+    },
+    {
+      "line": 14,
+      "text": "Z2 X38 Based on recent theory and still-accumulating data of plant and"
+    },
+    {
+      "line": 15,
+      "text": "$3 postpaid from animal distributions the new map indicates the boundaries of a"
+    },
+    {
+      "line": 18,
+      "text": "The CoEvolution Quarterly"
+    },
+    {
+      "line": 24,
+      "text": "NEARCTIC REALM"
+    },
+    {
+      "line": 27,
+      "text": "Sitkan"
+    },
+    {
+      "line": 29,
+      "text": "Oregonian"
+    },
+    {
+      "line": 31,
+      "text": "Yukon Taiga"
+    },
+    {
+      "line": 32,
+      "text": "Canadian Taiga"
+    },
+    {
+      "line": 33,
+      "text": "Eastern Forest"
+    },
+    {
+      "line": 34,
+      "text": "Austroriparian"
+    },
+    {
+      "line": 35,
+      "text": "Californian"
+    },
+    {
+      "line": 36,
+      "text": "Sonoran"
+    },
+    {
+      "line": 37,
+      "text": "Chihuahuan"
+    },
+    {
+      "line": 38,
+      "text": "Tamaulipan"
+    },
+    {
+      "line": 40,
+      "text": "Great Basin"
+    },
+    {
+      "line": 41,
+      "text": "Aleutian Islands"
+    },
+    {
+      "line": 42,
+      "text": "Alaskan Tundra"
+    },
+    {
+      "line": 43,
+      "text": "Canadian Tundra"
+    },
+    {
+      "line": 44,
+      "text": "Arctic Archipelago"
+    },
+    {
+      "line": 45,
+      "text": "Greenland Tundra"
+    },
+    {
+      "line": 46,
+      "text": "Arctic Desert and Icecap"
+    },
+    {
+      "line": 47,
+      "text": "Grasslands"
+    },
+    {
+      "line": 49,
+      "text": "Rocky Mountains"
+    },
+    {
+      "line": 50,
+      "text": "Sierra-Cascade"
+    },
+    {
+      "line": 51,
+      "text": "Madrean-Cordilleran"
+    },
+    {
+      "line": 52,
+      "text": "Great Lakes"
+    },
+    {
+      "line": 55,
+      "text": "A portion of a new map:"
+    },
+    {
+      "line": 58,
+      "text": "deeper politics. It is a collaboration of geographers Raymond"
+    },
+    {
+      "line": 59,
+      "text": "Dasmann and Miklos Udvardy, cartographers Theodore"
+    },
+    {
+      "line": 62,
+      "text": "Box 428 Oberlander and Julia Odenweller, and The CoEvolution"
+    },
+    {
+      "line": 63,
+      "text": "Sausalito, CA 94965 Quarterly. More information on pp. 25-37."
+    },
+    {
+      "line": 69,
+      "text": "= es ed ~"
+    },
+    {
+      "line": 70,
+      "text": "= ee ee"
+    },
+    {
+      "line": 73,
+      "text": "Sore"
+    },
+    {
+      "line": 76,
+      "text": "UNAWARE CITIZENS OF"
+    },
+    {
+      "line": 77,
+      "text": "BIOGEOGRAPHICAL PROVINCES"
+    },
+    {
+      "line": 80,
+      "text": "It is possible to classify people into two groups: ecosystem people and bio-"
+    }
+  ]
+}

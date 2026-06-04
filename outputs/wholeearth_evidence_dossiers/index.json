@@ -1,0 +1,2220 @@
+{
+  "generated_at": "2026-06-04 19:42:15 CST",
+  "issues": 147,
+  "json_files": 147,
+  "markdown_files": 147,
+  "top_theme_distribution": {
+    "learning_media": 131,
+    "ecology_place": 134,
+    "tools_craft": 37,
+    "community_politics": 124,
+    "software_computing": 15
+  },
+  "index": [
+    {
+      "title": "Whole Earth Catalog, Fall 1968",
+      "identifier": "wholeearthcatalo00unse_8",
+      "year": 1968,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/whole-earth-catalog-fall-1968.json",
+      "markdown": "issues/whole-earth-catalog-fall-1968.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Difficult But Possible Supplement to the Whole Earth Catalog, July 1969",
+      "identifier": "difficultbutposs00unse",
+      "year": 1969,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1969.json",
+      "markdown": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1969.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Difficult But Possible Supplement to the Whole Earth Catalog, September 1969",
+      "identifier": "difficultbutposs00unse_0",
+      "year": 1969,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-september-1969.json",
+      "markdown": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-september-1969.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Catalog, Fall 1969",
+      "identifier": "wholeearthcatalo00unse_7",
+      "year": 1969,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/whole-earth-catalog-fall-1969.json",
+      "markdown": "issues/whole-earth-catalog-fall-1969.md",
+      "top_themes": [
+        "learning_media",
+        "tools_craft",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Catalog, Spring 1969",
+      "identifier": "wholeearthcatalo00unse_10",
+      "year": 1969,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/whole-earth-catalog-spring-1969.json",
+      "markdown": "issues/whole-earth-catalog-spring-1969.md",
+      "top_themes": [
+        "learning_media",
+        "tools_craft",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Difficult But Possible Supplement to the Whole Earth Catalog, January 1970",
+      "identifier": "wholeearthcatalo00unse_6",
+      "year": 1970,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-january-1970.json",
+      "markdown": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-january-1970.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Difficult But Possible Supplement to the Whole Earth Catalog, July 1970",
+      "identifier": "wholeearthcatalo00unse_9",
+      "year": 1970,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1970.json",
+      "markdown": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1970.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Difficult But Possible Supplement to the Whole Earth Catalog, March 1970",
+      "identifier": "wholeearthcatalo00unse_5",
+      "year": 1970,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-march-1970.json",
+      "markdown": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-march-1970.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Difficult But Possible Supplement to the Whole Earth Catalog, September 1970",
+      "identifier": "wholeearthcatalo00unse_4",
+      "year": 1970,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-september-1970.json",
+      "markdown": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-september-1970.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Catalog, Fall 1970",
+      "identifier": "wholeearthcatalo00unse_0",
+      "year": 1970,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/whole-earth-catalog-fall-1970.json",
+      "markdown": "issues/whole-earth-catalog-fall-1970.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Catalog, Spring 1970",
+      "identifier": "wholeearthcatalo00unse_1",
+      "year": 1970,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/whole-earth-catalog-spring-1970.json",
+      "markdown": "issues/whole-earth-catalog-spring-1970.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Big Rock Candy Mountain",
+      "identifier": "bigrockcandymoun00unse",
+      "year": 1970,
+      "collection_zh": "专题出版物",
+      "json": "issues/big-rock-candy-mountain.json",
+      "markdown": "issues/big-rock-candy-mountain.md",
+      "top_themes": [
+        "learning_media",
+        "tools_craft",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Domebook One",
+      "identifier": "domebook100unse",
+      "year": 1970,
+      "collection_zh": "专题出版物",
+      "json": "issues/domebook-1.json",
+      "markdown": "issues/domebook-1.md",
+      "top_themes": [
+        "tools_craft",
+        "ecology_place",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Difficult But Possible Supplement to the Whole Earth Catalog, January 1971",
+      "identifier": "wholeearthcatalo00unse_3",
+      "year": 1971,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-january-1971.json",
+      "markdown": "issues/difficult-but-possible-supplement-to-the-whole-earth-catalog-january-1971.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "The Last Supplement to The Whole Earth Catalog, March 1971",
+      "identifier": "lastsupplementto00unse",
+      "year": 1971,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/the-last-supplement-to-the-whole-earth-catalog-march-1971.json",
+      "markdown": "issues/the-last-supplement-to-the-whole-earth-catalog-march-1971.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "The Last Whole Earth Catalog, January 1971",
+      "identifier": "lastwholeearthca00unse",
+      "year": 1971,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/the-last-whole-earth-catalog-january-1971.json",
+      "markdown": "issues/the-last-whole-earth-catalog-january-1971.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Epilog Teaser",
+      "identifier": "wholeearthepilog00unse_0",
+      "year": 1974,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/whole-earth-epilog-teaser.json",
+      "markdown": "issues/whole-earth-epilog-teaser.md",
+      "top_themes": [
+        "ecology_place",
+        "tools_craft",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Epilog, October 1974",
+      "identifier": "wholeearthepilog00unse",
+      "year": 1974,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/whole-earth-epilog-october-1974.json",
+      "markdown": "issues/whole-earth-epilog-october-1974.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Energy Primer: Solar, Water, Wind, and BioFuels",
+      "identifier": "energyprimersola00unse",
+      "year": 1974,
+      "collection_zh": "专题出版物",
+      "json": "issues/energy-primer-solar-water-wind-biofuels.json",
+      "markdown": "issues/energy-primer-solar-water-wind-biofuels.md",
+      "top_themes": [
+        "ecology_place",
+        "tools_craft",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "II Cybernetic Frontiers, January 1974",
+      "identifier": "iicyberneticfron00unse",
+      "year": 1974,
+      "collection_zh": "专题出版物",
+      "json": "issues/ii-cybernetic-frontiers-january-1974.json",
+      "markdown": "issues/ii-cybernetic-frontiers-january-1974.md",
+      "top_themes": [
+        "software_computing",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Fall 1974",
+      "identifier": "coevolutionquart00unse_0",
+      "year": 1974,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-fall-1974.json",
+      "markdown": "issues/coevolution-quarterly-fall-1974.md",
+      "top_themes": [
+        "software_computing",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Spring 1974",
+      "identifier": "coevolutionquart00unse_41",
+      "year": 1974,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-spring-1974.json",
+      "markdown": "issues/coevolution-quarterly-spring-1974.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Summer 1974",
+      "identifier": "coevolutionquart00unse",
+      "year": 1974,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-summer-1974.json",
+      "markdown": "issues/coevolution-quarterly-summer-1974.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Winter 1974",
+      "identifier": "coevolutionquart00unse_1",
+      "year": 1974,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-winter-1974.json",
+      "markdown": "issues/coevolution-quarterly-winter-1974.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "The (updated) Last Whole Earth Catalog, June 1975",
+      "identifier": "updatedlastwhole00unse",
+      "year": 1975,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/the-updated-last-whole-earth-catalog-june-1975.json",
+      "markdown": "issues/the-updated-last-whole-earth-catalog-june-1975.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Fall 1975",
+      "identifier": "coevolutionquart00unse_4",
+      "year": 1975,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-fall-1975.json",
+      "markdown": "issues/coevolution-quarterly-fall-1975.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Spring 1975",
+      "identifier": "coevolutionquart00unse_2",
+      "year": 1975,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-spring-1975.json",
+      "markdown": "issues/coevolution-quarterly-spring-1975.md",
+      "top_themes": [
+        "ecology_place",
+        "tools_craft",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Summer 1975",
+      "identifier": "coevolutionquart00unse_3",
+      "year": 1975,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-summer-1975.json",
+      "markdown": "issues/coevolution-quarterly-summer-1975.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Winter 1975",
+      "identifier": "coevolutionquart00unse_5",
+      "year": 1975,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-winter-1975.json",
+      "markdown": "issues/coevolution-quarterly-winter-1975.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Fall 1976",
+      "identifier": "coevolutionquart00unse_8",
+      "year": 1976,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-fall-1976.json",
+      "markdown": "issues/coevolution-quarterly-fall-1976.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Spring 1976",
+      "identifier": "coevolutionquart00unse_6",
+      "year": 1976,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-spring-1976.json",
+      "markdown": "issues/coevolution-quarterly-spring-1976.md",
+      "top_themes": [
+        "ecology_place",
+        "tools_craft",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Summer 1976",
+      "identifier": "coevolutionquart00unse_7",
+      "year": 1976,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-summer-1976.json",
+      "markdown": "issues/coevolution-quarterly-summer-1976.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Winter 1976/1977",
+      "identifier": "coevolutionquart00unse_9",
+      "year": 1976,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-winter-1976-1977.json",
+      "markdown": "issues/coevolution-quarterly-winter-1976-1977.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Space Colonies, December 1977",
+      "identifier": "spacecoloniesdec00unse",
+      "year": 1977,
+      "collection_zh": "专题出版物",
+      "json": "issues/space-colonies-december-1977.json",
+      "markdown": "issues/space-colonies-december-1977.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Fall 1977",
+      "identifier": "coevolutionquart00unse_12",
+      "year": 1977,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-fall-1977.json",
+      "markdown": "issues/coevolution-quarterly-fall-1977.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Spring 1977",
+      "identifier": "coevolutionquart00unse_10",
+      "year": 1977,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-spring-1977.json",
+      "markdown": "issues/coevolution-quarterly-spring-1977.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Summer 1977",
+      "identifier": "coevolutionquart00unse_11",
+      "year": 1977,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-summer-1977.json",
+      "markdown": "issues/coevolution-quarterly-summer-1977.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Winter 1977/1978",
+      "identifier": "coevolutionquart00unse_17",
+      "year": 1977,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-winter-1978.json",
+      "markdown": "issues/coevolution-quarterly-winter-1978.md",
+      "top_themes": [
+        "community_politics",
+        "ecology_place",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Soft-Tech, Spring 1978",
+      "identifier": "softtechspring1900unse",
+      "year": 1978,
+      "collection_zh": "专题出版物",
+      "json": "issues/soft-tech-spring-1978.json",
+      "markdown": "issues/soft-tech-spring-1978.md",
+      "top_themes": [
+        "ecology_place",
+        "tools_craft",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly Whole Earth Jamboree, 1968-1978",
+      "identifier": "coevolutionquart00unse_40",
+      "year": 1978,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-whole-earth-jamboree-1968-1978.json",
+      "markdown": "issues/coevolution-quarterly-whole-earth-jamboree-1968-1978.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Fall 1978",
+      "identifier": "coevolutionquart00unse_16",
+      "year": 1978,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-fall-1978.json",
+      "markdown": "issues/coevolution-quarterly-fall-1978.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Spring 1978",
+      "identifier": "coevolutionquart00unse_14",
+      "year": 1978,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-spring-1978.json",
+      "markdown": "issues/coevolution-quarterly-spring-1978.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Summer 1978",
+      "identifier": "coevolutionquart00unse_15",
+      "year": 1978,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-summer-1978.json",
+      "markdown": "issues/coevolution-quarterly-summer-1978.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Fall 1979",
+      "identifier": "coevolutionquart00unse_20",
+      "year": 1979,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-fall-1979.json",
+      "markdown": "issues/coevolution-quarterly-fall-1979.md",
+      "top_themes": [
+        "ecology_place",
+        "tools_craft",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Spring 1979",
+      "identifier": "coevolutionquart00unse_18",
+      "year": 1979,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-spring-1979.json",
+      "markdown": "issues/coevolution-quarterly-spring-1979.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Summer 1979",
+      "identifier": "coevolutionquart00unse_19",
+      "year": 1979,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-summer-1979.json",
+      "markdown": "issues/coevolution-quarterly-summer-1979.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Winter 1979",
+      "identifier": "coevolutionquart00unse_21",
+      "year": 1979,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-winter-1979.json",
+      "markdown": "issues/coevolution-quarterly-winter-1979.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "The Next Whole Earth Catalog, Fall 1980",
+      "identifier": "nextwholeearthca00unse",
+      "year": 1980,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/the-next-whole-earth-catalog-fall-1980.json",
+      "markdown": "issues/the-next-whole-earth-catalog-fall-1980.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Spring 1980",
+      "identifier": "coevolutionquart00unse_22",
+      "year": 1980,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-spring-1980.json",
+      "markdown": "issues/coevolution-quarterly-spring-1980.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Summer 1980",
+      "identifier": "coevolutionquart00unse_23",
+      "year": 1980,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-summer-1980.json",
+      "markdown": "issues/coevolution-quarterly-summer-1980.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Winter 1980",
+      "identifier": "coevolutionquart00unse_24",
+      "year": 1980,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-winter-1980.json",
+      "markdown": "issues/coevolution-quarterly-winter-1980.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Fall 1981",
+      "identifier": "coevolutionquart00unse_27",
+      "year": 1981,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-fall-1981.json",
+      "markdown": "issues/coevolution-quarterly-fall-1981.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Spring 1981",
+      "identifier": "coevolutionquart00unse_25",
+      "year": 1981,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-spring-1981.json",
+      "markdown": "issues/coevolution-quarterly-spring-1981.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Summer 1981",
+      "identifier": "coevolutionquart00unse_26",
+      "year": 1981,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-summer-1981.json",
+      "markdown": "issues/coevolution-quarterly-summer-1981.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Winter 1981",
+      "identifier": "coevolutionquart00unse_28",
+      "year": 1981,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-winter-1981.json",
+      "markdown": "issues/coevolution-quarterly-winter-1981.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Catalog, October 1982",
+      "identifier": "coevolutioncatal00unse",
+      "year": 1982,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-catalog-october-1982.json",
+      "markdown": "issues/coevolution-catalog-october-1982.md",
+      "top_themes": [
+        "community_politics",
+        "ecology_place",
+        "learning_media"
+      ],
+      "heading_count": 42,
+      "snippet_count": 8
+    },
+    {
+      "title": "CoEvolution Quarterly, Fall 1982",
+      "identifier": "coevolutionquart00unse_31",
+      "year": 1982,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-fall-1982.json",
+      "markdown": "issues/coevolution-quarterly-fall-1982.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Spring 1982",
+      "identifier": "coevolutionquart00unse_29",
+      "year": 1982,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-spring-1982.json",
+      "markdown": "issues/coevolution-quarterly-spring-1982.md",
+      "top_themes": [
+        "community_politics",
+        "ecology_place",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Summer 1982",
+      "identifier": "coevolutionquart00unse_30",
+      "year": 1982,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-summer-1982.json",
+      "markdown": "issues/coevolution-quarterly-summer-1982.md",
+      "top_themes": [
+        "community_politics",
+        "ecology_place",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Winter 1982",
+      "identifier": "coevolutionquart00unse_32",
+      "year": 1982,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-winter-1982.json",
+      "markdown": "issues/coevolution-quarterly-winter-1982.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Fall 1983",
+      "identifier": "coevolutionquart00unse_35",
+      "year": 1983,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-fall-1983.json",
+      "markdown": "issues/coevolution-quarterly-fall-1983.md",
+      "top_themes": [
+        "community_politics",
+        "ecology_place",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Spring 1983",
+      "identifier": "coevolutionquart00unse_33",
+      "year": 1983,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-spring-1983.json",
+      "markdown": "issues/coevolution-quarterly-spring-1983.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Summer 1983",
+      "identifier": "coevolutionquart00unse_34",
+      "year": 1983,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-summer-1983.json",
+      "markdown": "issues/coevolution-quarterly-summer-1983.md",
+      "top_themes": [
+        "learning_media",
+        "community_politics",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Winter 1983",
+      "identifier": "coevolutionquart00unse_36",
+      "year": 1983,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-winter-1983.json",
+      "markdown": "issues/coevolution-quarterly-winter-1983.md",
+      "top_themes": [
+        "learning_media",
+        "community_politics",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Fall 1984",
+      "identifier": "coevolutionquart00unse_39",
+      "year": 1984,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-fall-1984.json",
+      "markdown": "issues/coevolution-quarterly-fall-1984.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Spring 1984",
+      "identifier": "coevolutionquart00unse_37",
+      "year": 1984,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-spring-1984.json",
+      "markdown": "issues/coevolution-quarterly-spring-1984.md",
+      "top_themes": [
+        "learning_media",
+        "community_politics",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "CoEvolution Quarterly, Summer 1984",
+      "identifier": "coevolutionquart00unse_38",
+      "year": 1984,
+      "collection_zh": "共同进化季刊",
+      "json": "issues/coevolution-quarterly-summer-1984.json",
+      "markdown": "issues/coevolution-quarterly-summer-1984.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Software Catalog, June 1984",
+      "identifier": "wholeearthsoftwa00unse_2",
+      "year": 1984,
+      "collection_zh": "软件目录与评论",
+      "json": "issues/whole-earth-software-catalog-june-1984.json",
+      "markdown": "issues/whole-earth-software-catalog-june-1984.md",
+      "top_themes": [
+        "software_computing",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Software Review No.1, Spring 1984",
+      "identifier": "wholeearthsoftwa00unse_0",
+      "year": 1984,
+      "collection_zh": "软件目录与评论",
+      "json": "issues/whole-earth-software-review-no-1-spring-1984.json",
+      "markdown": "issues/whole-earth-software-review-no-1-spring-1984.md",
+      "top_themes": [
+        "software_computing",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Software Review No.2, Summer 1984",
+      "identifier": "wholeearthsoftwa00unse_4",
+      "year": 1984,
+      "collection_zh": "软件目录与评论",
+      "json": "issues/whole-earth-software-review-no-2-summer-1984.json",
+      "markdown": "issues/whole-earth-software-review-no-2-summer-1984.md",
+      "top_themes": [
+        "software_computing",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Software Review No.3, Fall 1984",
+      "identifier": "wholeearthsoftwa00unse_1",
+      "year": 1984,
+      "collection_zh": "软件目录与评论",
+      "json": "issues/whole-earth-software-review-no-3-fall-1984.json",
+      "markdown": "issues/whole-earth-software-review-no-3-fall-1984.md",
+      "top_themes": [
+        "software_computing",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Fall 1985",
+      "identifier": "wholeearthreview00unse_3",
+      "year": 1985,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-fall-1985.json",
+      "markdown": "issues/whole-earth-review-fall-1985.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, January 1985",
+      "identifier": "wholeearthreview00unse",
+      "year": 1985,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-january-1985.json",
+      "markdown": "issues/whole-earth-review-january-1985.md",
+      "top_themes": [
+        "software_computing",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, July 1985",
+      "identifier": "wholeearthreview00unse_2",
+      "year": 1985,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-july-1985.json",
+      "markdown": "issues/whole-earth-review-july-1985.md",
+      "top_themes": [
+        "software_computing",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, March 1985",
+      "identifier": "wholeearthreview00unse_0",
+      "year": 1985,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-march-1985.json",
+      "markdown": "issues/whole-earth-review-march-1985.md",
+      "top_themes": [
+        "software_computing",
+        "community_politics",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, May 1985",
+      "identifier": "wholeearthreview00unse_1",
+      "year": 1985,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-may-1985.json",
+      "markdown": "issues/whole-earth-review-may-1985.md",
+      "top_themes": [
+        "software_computing",
+        "community_politics",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Winter 1985",
+      "identifier": "wholeearthreview00unse_4",
+      "year": 1985,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-winter-1985.json",
+      "markdown": "issues/whole-earth-review-winter-1985.md",
+      "top_themes": [
+        "community_politics",
+        "ecology_place",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Software Catalog 2.0, Fall 1985",
+      "identifier": "wholeearthsoftwa00unse_3",
+      "year": 1985,
+      "collection_zh": "软件目录与评论",
+      "json": "issues/whole-earth-software-catalog-2-0-fall-1985.json",
+      "markdown": "issues/whole-earth-software-catalog-2-0-fall-1985.md",
+      "top_themes": [
+        "software_computing",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Fall 1986",
+      "identifier": "wholeearthreview00unse_7",
+      "year": 1986,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-fall-1986.json",
+      "markdown": "issues/whole-earth-review-fall-1986.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Spring 1986",
+      "identifier": "wholeearthreview00unse_5",
+      "year": 1986,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-spring-1986.json",
+      "markdown": "issues/whole-earth-review-spring-1986.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Summer 1986",
+      "identifier": "wholeearthreview00unse_6",
+      "year": 1986,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-summer-1986.json",
+      "markdown": "issues/whole-earth-review-summer-1986.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Winter 1986",
+      "identifier": "wholeearthreview00unse_8",
+      "year": 1986,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-winter-1986.json",
+      "markdown": "issues/whole-earth-review-winter-1986.md",
+      "top_themes": [
+        "community_politics",
+        "ecology_place",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "The Essential Whole Earth Catalog, September 1986",
+      "identifier": "essentialwholeea00unse",
+      "year": 1986,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/the-essential-whole-earth-catalog-september-1968.json",
+      "markdown": "issues/the-essential-whole-earth-catalog-september-1968.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "10 Years of CoEvolution Quarterly: News That Stayed News, 1986",
+      "identifier": "10yearsofcoevolu00unse",
+      "year": 1986,
+      "collection_zh": "专题出版物",
+      "json": "issues/10-years-of-coevolution-quarterly-news-that-stayed-news-1986.json",
+      "markdown": "issues/10-years-of-coevolution-quarterly-news-that-stayed-news-1986.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Fall 1987",
+      "identifier": "wholeearthreview00unse_11",
+      "year": 1987,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-fall-1987.json",
+      "markdown": "issues/whole-earth-review-fall-1987.md",
+      "top_themes": [
+        "community_politics",
+        "learning_media",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Spring 1987",
+      "identifier": "wholeearthreview00unse_9",
+      "year": 1987,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-spring-1987.json",
+      "markdown": "issues/whole-earth-review-spring-1987.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Summer 1987",
+      "identifier": "wholeearthreview00unse_10",
+      "year": 1987,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-summer-1987.json",
+      "markdown": "issues/whole-earth-review-summer-1987.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Winter 1987",
+      "identifier": "wholeearthreview00unse_12",
+      "year": 1987,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-winter-1987.json",
+      "markdown": "issues/whole-earth-review-winter-1987.md",
+      "top_themes": [
+        "software_computing",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Fall 1988",
+      "identifier": "wholeearthreview00unse_15",
+      "year": 1988,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-fall-1988.json",
+      "markdown": "issues/whole-earth-review-fall-1988.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Spring 1988",
+      "identifier": "wholeearthreview00unse_13",
+      "year": 1988,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-spring-1988.json",
+      "markdown": "issues/whole-earth-review-spring-1988.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Summer 1988",
+      "identifier": "wholeearthreview00unse_14",
+      "year": 1988,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-summer-1988.json",
+      "markdown": "issues/whole-earth-review-summer-1988.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Winter 1988",
+      "identifier": "wholeearthreview00unse_16",
+      "year": 1988,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-winter-1988.json",
+      "markdown": "issues/whole-earth-review-winter-1988.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Signal: Communication Tools for the Information Age",
+      "identifier": "wholeearthcatalo00unse_2",
+      "year": 1988,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/signal-communication-tools-for-the-information-age.json",
+      "markdown": "issues/signal-communication-tools-for-the-information-age.md",
+      "top_themes": [
+        "software_computing",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Fall 1989",
+      "identifier": "wholeearthreview00unse_19",
+      "year": 1989,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-fall-1989.json",
+      "markdown": "issues/whole-earth-review-fall-1989.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Spring 1989",
+      "identifier": "wholeearthreview00unse_17",
+      "year": 1989,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-spring-1989.json",
+      "markdown": "issues/whole-earth-review-spring-1989.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Summer 1989",
+      "identifier": "wholeearthreview00unse_18",
+      "year": 1989,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-summer-1989.json",
+      "markdown": "issues/whole-earth-review-summer-1989.md",
+      "top_themes": [
+        "learning_media",
+        "community_politics",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Winter 1989",
+      "identifier": "wholeearthreview00unse_20",
+      "year": 1989,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-winter-1989.json",
+      "markdown": "issues/whole-earth-review-winter-1989.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "The Fringes of Reason: Whole Earth Catalog",
+      "identifier": "fringesofreasonw00unse",
+      "year": 1989,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/the-fringes-of-reason.json",
+      "markdown": "issues/the-fringes-of-reason.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Fall 1990",
+      "identifier": "wholeearthreview00unse_23",
+      "year": 1990,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-fall-1990.json",
+      "markdown": "issues/whole-earth-review-fall-1990.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Spring 1990",
+      "identifier": "wholeearthreview00unse_21",
+      "year": 1990,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-spring-1990.json",
+      "markdown": "issues/whole-earth-review-spring-1990.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Summer 1990",
+      "identifier": "wholeearthreview00unse_22",
+      "year": 1990,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-summer-1990.json",
+      "markdown": "issues/whole-earth-review-summer-1990.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Winter 1990",
+      "identifier": "wholeearthreview00unse_24",
+      "year": 1990,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-winter-1990.json",
+      "markdown": "issues/whole-earth-review-winter-1990.md",
+      "top_themes": [
+        "community_politics",
+        "ecology_place",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Ecolog",
+      "identifier": "wholeearthecolog00unse",
+      "year": 1990,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/whole-earth-ecolog.json",
+      "markdown": "issues/whole-earth-ecolog.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Fall 1991",
+      "identifier": "wholeearthreview00unse_27",
+      "year": 1991,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-fall-1991.json",
+      "markdown": "issues/whole-earth-review-fall-1991.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Spring 1991",
+      "identifier": "wholeearthreview00unse_25",
+      "year": 1991,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-spring-1991.json",
+      "markdown": "issues/whole-earth-review-spring-1991.md",
+      "top_themes": [
+        "community_politics",
+        "learning_media",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Summer 1991",
+      "identifier": "wholeearthreview00unse_26",
+      "year": 1991,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-summer-1991.json",
+      "markdown": "issues/whole-earth-review-summer-1991.md",
+      "top_themes": [
+        "software_computing",
+        "ecology_place",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Winter 1991",
+      "identifier": "wholeearthreview00unse_28",
+      "year": 1991,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-winter-1991.json",
+      "markdown": "issues/whole-earth-review-winter-1991.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Helping Nature Heal, Spring 1991",
+      "identifier": "helpingnaturehea00unse",
+      "year": 1991,
+      "collection_zh": "专题出版物",
+      "json": "issues/helping-nature-heal-spring-1991.json",
+      "markdown": "issues/helping-nature-heal-spring-1991.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Five-Year Index, 1988–1992",
+      "identifier": "wholeearth5yeari00unse",
+      "year": 1992,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-5-year-index-1988-1992.json",
+      "markdown": "issues/whole-earth-5-year-index-1988-1992.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Fall 1992",
+      "identifier": "wholeearthreview00unse_31",
+      "year": 1992,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-fall-1992.json",
+      "markdown": "issues/whole-earth-review-fall-1992.md",
+      "top_themes": [
+        "community_politics",
+        "software_computing",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Spring 1992",
+      "identifier": "wholeearthreview00unse_29",
+      "year": 1992,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-spring-1992.json",
+      "markdown": "issues/whole-earth-review-spring-1992.md",
+      "top_themes": [
+        "community_politics",
+        "ecology_place",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Summer 1992",
+      "identifier": "wholeearthreview00unse_30",
+      "year": 1992,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-summer-1992.json",
+      "markdown": "issues/whole-earth-review-summer-1992.md",
+      "top_themes": [
+        "community_politics",
+        "learning_media",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Winter 1992",
+      "identifier": "wholeearthreview00unse_32",
+      "year": 1992,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-winter-1992.json",
+      "markdown": "issues/whole-earth-review-winter-1992.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Fall 1993",
+      "identifier": "wholeearthreview00unse_35",
+      "year": 1993,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-fall-1993.json",
+      "markdown": "issues/whole-earth-review-fall-1993.md",
+      "top_themes": [
+        "learning_media",
+        "community_politics",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Spring 1993",
+      "identifier": "wholeearthreview00unse_33",
+      "year": 1993,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-spring-1993.json",
+      "markdown": "issues/whole-earth-review-spring-1993.md",
+      "top_themes": [
+        "community_politics",
+        "ecology_place",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Summer 1993",
+      "identifier": "wholeearthreview00unse_34",
+      "year": 1993,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-summer-1993.json",
+      "markdown": "issues/whole-earth-review-summer-1993.md",
+      "top_themes": [
+        "community_politics",
+        "learning_media",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Winter 1993",
+      "identifier": "wholeearthreview00unse_36",
+      "year": 1993,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-winter-1993.json",
+      "markdown": "issues/whole-earth-review-winter-1993.md",
+      "top_themes": [
+        "learning_media",
+        "community_politics",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Spring 1994",
+      "identifier": "wholeearthreview00unse_37",
+      "year": 1994,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-spring-1994.json",
+      "markdown": "issues/whole-earth-review-spring-1994.md",
+      "top_themes": [
+        "community_politics",
+        "learning_media",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Summer 1994",
+      "identifier": "wholeearthreview00unse_38",
+      "year": 1994,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-summer-1994.json",
+      "markdown": "issues/whole-earth-review-summer-1994.md",
+      "top_themes": [
+        "learning_media",
+        "community_politics",
+        "ecology_place"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Winter 1994",
+      "identifier": "wholeearthreview00unse_39",
+      "year": 1994,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-winter-1994.json",
+      "markdown": "issues/whole-earth-review-winter-1994.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "The Millennium Whole Earth Catalog, December 1994",
+      "identifier": "millenniumwholee00unse",
+      "year": 1994,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/the-millennium-whole-earth-catalog-december-1994.json",
+      "markdown": "issues/the-millennium-whole-earth-catalog-december-1994.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Fall 1995",
+      "identifier": "wholeearthreview00unse_42",
+      "year": 1995,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-fall-1995.json",
+      "markdown": "issues/whole-earth-review-fall-1995.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Spring 1995",
+      "identifier": "wholeearthreview00unse_40",
+      "year": 1995,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-spring-1995.json",
+      "markdown": "issues/whole-earth-review-spring-1995.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Summer 1995",
+      "identifier": "wholeearthreview00unse_41",
+      "year": 1995,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-summer-1995.json",
+      "markdown": "issues/whole-earth-review-summer-1995.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Winter 1995",
+      "identifier": "wholeearthreview00unse_43",
+      "year": 1995,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-winter-1995.json",
+      "markdown": "issues/whole-earth-review-winter-1995.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Review, Spring 1996",
+      "identifier": "wholeearthreview00unse_44",
+      "year": 1996,
+      "collection_zh": "Whole Earth Review",
+      "json": "issues/whole-earth-review-spring-1996.json",
+      "markdown": "issues/whole-earth-review-spring-1996.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Summer 1997",
+      "identifier": "wholeearthsummer00unse",
+      "year": 1997,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-summer-1997.json",
+      "markdown": "issues/whole-earth-summer-1997.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Winter 1997",
+      "identifier": "wholeearthwinter00unse",
+      "year": 1997,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-winter-1997.json",
+      "markdown": "issues/whole-earth-winter-1997.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Fall 1998",
+      "identifier": "wholeearthfall1900unse",
+      "year": 1998,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-fall-1998.json",
+      "markdown": "issues/whole-earth-fall-1998.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Spring 1998",
+      "identifier": "wholeearthspring00unse",
+      "year": 1998,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-spring-1998.json",
+      "markdown": "issues/whole-earth-spring-1998.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Summer 1998",
+      "identifier": "wholeearthsummer00unse_0",
+      "year": 1998,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-summer-1998.json",
+      "markdown": "issues/whole-earth-summer-1998.md",
+      "top_themes": [
+        "ecology_place",
+        "tools_craft",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth Catalog 30th Anniversary, Winter 1998",
+      "identifier": "wholeearthcatalo00unse",
+      "year": 1998,
+      "collection_zh": "Whole Earth 目录系列",
+      "json": "issues/whole-earth-catalog-30th-anniversary-winter-1998.json",
+      "markdown": "issues/whole-earth-catalog-30th-anniversary-winter-1998.md",
+      "top_themes": [
+        "learning_media",
+        "ecology_place",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Fall 1999",
+      "identifier": "wholeearthfall1900unse_0",
+      "year": 1999,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-fall-1999.json",
+      "markdown": "issues/whole-earth-fall-1999.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Spring 1999",
+      "identifier": "wholeearthspring00unse_0",
+      "year": 1999,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-spring-1999.json",
+      "markdown": "issues/whole-earth-spring-1999.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Summer 1999",
+      "identifier": "wholeearthsummer00unse_1",
+      "year": 1999,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-summer-1999.json",
+      "markdown": "issues/whole-earth-summer-1999.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Winter 1999",
+      "identifier": "wholeearthwinter00unse_0",
+      "year": 1999,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-winter-1999.json",
+      "markdown": "issues/whole-earth-winter-1999.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Fall 2000",
+      "identifier": "wholeearthfall2000unse",
+      "year": 2000,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-fall-2000.json",
+      "markdown": "issues/whole-earth-fall-2000.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Spring 2000",
+      "identifier": "wholeearthspring00unse_1",
+      "year": 2000,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-spring-2000.json",
+      "markdown": "issues/whole-earth-spring-2000.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Summer 2000",
+      "identifier": "wholeearthsummer00unse_2",
+      "year": 2000,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-summer-2000.json",
+      "markdown": "issues/whole-earth-summer-2000.md",
+      "top_themes": [
+        "community_politics",
+        "ecology_place",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Winter 2000",
+      "identifier": "wholeearthwinter00unse_1",
+      "year": 2000,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-winter-2000.json",
+      "markdown": "issues/whole-earth-winter-2000.md",
+      "top_themes": [
+        "tools_craft",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Spring 2001",
+      "identifier": "wholeearthspring00unse_2",
+      "year": 2001,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-spring-2001.json",
+      "markdown": "issues/whole-earth-spring-2001.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Summer 2001",
+      "identifier": "wholeearthsummer00unse_3",
+      "year": 2001,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-summer-2001.json",
+      "markdown": "issues/whole-earth-summer-2001.md",
+      "top_themes": [
+        "ecology_place",
+        "tools_craft",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Winter 2001",
+      "identifier": "wholeearthwinter00unse_2",
+      "year": 2001,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-winter-2001.json",
+      "markdown": "issues/whole-earth-winter-2001.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Fall 2002",
+      "identifier": "wholeearthfall2000unse_0",
+      "year": 2002,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-fall-2002.json",
+      "markdown": "issues/whole-earth-fall-2002.md",
+      "top_themes": [
+        "community_politics",
+        "ecology_place",
+        "learning_media"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Spring 2002",
+      "identifier": "wholeearthspring00unse_3",
+      "year": 2002,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-spring-2002.json",
+      "markdown": "issues/whole-earth-spring-2002.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "community_politics"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Summer 2002",
+      "identifier": "wholeearthsummer00unse_4",
+      "year": 2002,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-summer-2002.json",
+      "markdown": "issues/whole-earth-summer-2002.md",
+      "top_themes": [
+        "ecology_place",
+        "learning_media",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    },
+    {
+      "title": "Whole Earth, Winter 2002",
+      "identifier": "wholeearthwinter00unse_3",
+      "year": 2002,
+      "collection_zh": "Whole Earth Magazine",
+      "json": "issues/whole-earth-winter-2002.json",
+      "markdown": "issues/whole-earth-winter-2002.md",
+      "top_themes": [
+        "ecology_place",
+        "community_politics",
+        "tools_craft"
+      ],
+      "heading_count": 80,
+      "snippet_count": 12
+    }
+  ]
+}

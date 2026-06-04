@@ -1,0 +1,674 @@
+{
+  "title": "CoEvolution Quarterly, Spring 1981",
+  "identifier": "coevolutionquart00unse_25",
+  "year": 1981,
+  "season": "Spring",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 151,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1981",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_25",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_25/coevolutionquart00unse_25.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_25/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_25_djvu.txt",
+  "ocr_chars": 626398,
+  "significant_line_count": 15316,
+  "theme_counts": {
+    "software_computing": 301,
+    "tools_craft": 245,
+    "ecology_place": 476,
+    "learning_media": 421,
+    "community_politics": 428
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 343,
+      "page": 66,
+      "title": "PRINCIPLES OF HOMEOPATHY",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_25/page/n67_w500.jpg"
+    },
+    {
+      "line": 7374,
+      "page": 1,
+      "title": "WISH 1",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_25/page/n2_w500.jpg"
+    },
+    {
+      "line": 9691,
+      "page": 4,
+      "title": "OMEOPATHY ISA",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_25/page/n5_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 343,
+      "text": "66 PRINCIPLES OF HOMEOPATHY",
+      "score": 8
+    },
+    {
+      "line": 7374,
+      "text": "1 WISH 1",
+      "score": 8
+    },
+    {
+      "line": 9691,
+      "text": "4 OMEOPATHY ISA",
+      "score": 8
+    },
+    {
+      "line": 224,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 326,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 368,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 470,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 5575,
+      "text": "Keywords: ENERGY INDEPENDENT MACHINE ANTI NUCLEAR TECHNOLOGY",
+      "score": 6
+    },
+    {
+      "line": 5803,
+      "text": "BARTEQ COMMUNITY NDFECENTRALIZATION TRADE WORK NET WIRK 3",
+      "score": 6
+    },
+    {
+      "line": 5883,
+      "text": "BEAVER CONSERVATION WATER WATERSHED ECOLOGY WI LDERNESS",
+      "score": 6
+    },
+    {
+      "line": 7048,
+      "text": "ENERGY AND _",
+      "score": 6
+    },
+    {
+      "line": 4485,
+      "text": "learning the details of programming systems and",
+      "score": 5
+    },
+    {
+      "line": 10402,
+      "text": "learning about energy fields helps one predict how",
+      "score": 5
+    },
+    {
+      "line": 18,
+      "text": "TOPE COTO KOA f, Fe '",
+      "score": 4
+    },
+    {
+      "line": 35,
+      "text": "SEN ANZ",
+      "score": 4
+    },
+    {
+      "line": 36,
+      "text": "SEENENT NG",
+      "score": 4
+    },
+    {
+      "line": 54,
+      "text": ". VAN",
+      "score": 4
+    },
+    {
+      "line": 61,
+      "text": "r RANE KN SN",
+      "score": 4
+    },
+    {
+      "line": 68,
+      "text": "~ SACO GOUT 3",
+      "score": 4
+    },
+    {
+      "line": 99,
+      "text": "-CASMSdsK",
+      "score": 4
+    },
+    {
+      "line": 141,
+      "text": "COVERS",
+      "score": 4
+    },
+    {
+      "line": 195,
+      "text": "POLITICS",
+      "score": 4
+    },
+    {
+      "line": 198,
+      "text": "ON CHANGING INSTITUTIONS",
+      "score": 4
+    },
+    {
+      "line": 225,
+      "text": "COMPUTER SLANG",
+      "score": 4
+    },
+    {
+      "line": 332,
+      "text": "58 IS NATURE REALLY MOTHERLY?",
+      "score": 4
+    },
+    {
+      "line": 355,
+      "text": "LAND USE",
+      "score": 4
+    },
+    {
+      "line": 403,
+      "text": "SOFT TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 434,
+      "text": "CRAFT",
+      "score": 4
+    },
+    {
+      "line": 438,
+      "text": "NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 485,
+      "text": "132, EDUCATION AND SOLIPSISM",
+      "score": 4
+    },
+    {
+      "line": 493,
+      "text": "| BUSINESS",
+      "score": 4
+    },
+    {
+      "line": 543,
+      "text": "ON CHANGING",
+      "score": 4
+    },
+    {
+      "line": 544,
+      "text": "INSTITUTIONS",
+      "score": 4
+    },
+    {
+      "line": 577,
+      "text": "THE CoEVOLUTION QUARTERLY SPRING 198]",
+      "score": 4
+    },
+    {
+      "line": 669,
+      "text": "INDIVIDUAL APPROACH",
+      "score": 4
+    },
+    {
+      "line": 686,
+      "text": "BOX 428 SAUSALITO CA 94966 5",
+      "score": 4
+    },
+    {
+      "line": 722,
+      "text": ": | “SBE",
+      "score": 4
+    },
+    {
+      "line": 725,
+      "text": "6 THE CoEVOLUTION QUARTERLY SPRING 1981.",
+      "score": 4
+    },
+    {
+      "line": 745,
+      "text": "ECENTLY I HAVE BEEN USING",
+      "score": 4
+    },
+    {
+      "line": 802,
+      "text": "BOX 428 SAUSALITO CA 94966",
+      "score": 4
+    },
+    {
+      "line": 991,
+      "text": "THE CoEVOLUTION QUARTERLY SPRING 198! -",
+      "score": 4
+    },
+    {
+      "line": 1282,
+      "text": "THE CoEVOLUTION QUARTERLY SPRING 1981",
+      "score": 4
+    },
+    {
+      "line": 1359,
+      "text": ". BOX 428 SAUSALITO CA 94966",
+      "score": 4
+    },
+    {
+      "line": 1744,
+      "text": "-P.H.",
+      "score": 4
+    },
+    {
+      "line": 2273,
+      "text": "DAV!D WILLS",
+      "score": 4
+    },
+    {
+      "line": 2536,
+      "text": "BOX 428 SAUSALITO CA 94966 | 7",
+      "score": 4
+    },
+    {
+      "line": 2556,
+      "text": ", | THE CoEVOLUTION QUARTERLY SPRING 1981",
+      "score": 4
+    },
+    {
+      "line": 2679,
+      "text": "BOX 428 SAUSALITO CA 94966 ! 9",
+      "score": 4
+    },
+    {
+      "line": 2766,
+      "text": "3 LE ¥ |",
+      "score": 4
+    },
+    {
+      "line": 2792,
+      "text": "DON RYAN",
+      "score": 4
+    },
+    {
+      "line": 2847,
+      "text": "THE CoEVOLUTION QUARTERLY SPRING 1981 -",
+      "score": 4
+    },
+    {
+      "line": 2889,
+      "text": "/ OR A FEW DAYS IN THE CLOSING",
+      "score": 4
+    },
+    {
+      "line": 2965,
+      "text": "y HE COST OF REACHING SPACE can be",
+      "score": 4
+    },
+    {
+      "line": 3058,
+      "text": "PRESENTLY PLANNED MISSIONS?!?!",
+      "score": 4
+    },
+    {
+      "line": 3127,
+      "text": "SAVE THE RINGS!",
+      "score": 4
+    },
+    {
+      "line": 3305,
+      "text": "ee BLOOD BANK?",
+      "score": 4
+    },
+    {
+      "line": 3307,
+      "text": "BOREDOM?",
+      "score": 4
+    },
+    {
+      "line": 3308,
+      "text": "+7? 77” THE BORN-AGAIN?",
+      "score": 4
+    },
+    {
+      "line": 3312,
+      "text": "a . COUNTER-CULTURE?",
+      "score": 4
+    },
+    {
+      "line": 3314,
+      "text": "*? COUPLES?",
+      "score": 4
+    },
+    {
+      "line": 3316,
+      "text": "iS CYNICISM?",
+      "score": 4
+    },
+    {
+      "line": 3317,
+      "text": "DISCO?",
+      "score": 4
+    },
+    {
+      "line": 3318,
+      "text": "DISEASE?",
+      "score": 4
+    },
+    {
+      "line": 3319,
+      "text": "ELECTIONS?",
+      "score": 4
+    },
+    {
+      "line": 3320,
+      "text": "FAITH?",
+      "score": 4
+    },
+    {
+      "line": 3321,
+      "text": "THE FAMILY?",
+      "score": 4
+    },
+    {
+      "line": 3322,
+      "text": "FEMINISM?",
+      "score": 4
+    },
+    {
+      "line": 3323,
+      "text": "FREE TIME?",
+      "score": 4
+    },
+    {
+      "line": 3326,
+      "text": "FULL EMPLOYMENT?",
+      "score": 4
+    },
+    {
+      "line": 3327,
+      "text": "GAYS? JEWS?",
+      "score": 4
+    },
+    {
+      "line": 3328,
+      "text": "GOVERNMENT?",
+      "score": 4
+    },
+    {
+      "line": 3329,
+      "text": "GURUS?",
+      "score": 4
+    },
+    {
+      "line": 3330,
+      "text": "HIPPIES?",
+      "score": 4
+    },
+    {
+      "line": 3331,
+      "text": "THE HOSTAGES?",
+      "score": 4
+    },
+    {
+      "line": 3332,
+      "text": "JUDGES?",
+      "score": 4
+    },
+    {
+      "line": 3334,
+      "text": ": LAW?",
+      "score": 4
+    },
+    {
+      "line": 3335,
+      "text": "LAWYERS?",
+      "score": 4
+    },
+    {
+      "line": 3337,
+      "text": "THE LEFT?",
+      "score": 4
+    },
+    {
+      "line": 3339,
+      "text": "LEISURE?",
+      "score": 4
+    },
+    {
+      "line": 3341,
+      "text": "y ‘ ‘ b LIBERALS?",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 224,
+      "term": "communications",
+      "snippet": "The Air-Conditioned Nightmare ' Words of Power by Bob Black COMMUNICATIONS COMPUTER SLANG The Quest for “‘Freeorder” Leif Smith talking with Tom James"
+    },
+    {
+      "line": 244,
+      "term": "energy",
+      "snippet": "Telephone ® A History of Broadcasting in the United States Energy and How to Get It by Robert Frank, Gary Hill, and Rudy Wurlitzer From R. Crumb’s Sketch Book The Folio Society ® The List of Books ="
+    },
+    {
+      "line": 326,
+      "term": "whole systems",
+      "snippet": "ae al -s ew WHOLE SYSTEMS 57 The Real Work ® The Divine Woman 58 IS NATURE REALLY MOTHERLY? by W. Ford Doolittle"
+    },
+    {
+      "line": 351,
+      "term": "energy",
+      "snippet": "80 Report from the Novice by John Roberts 87 Why the moon shines brighter on snow ® Shadow Work #® World Energy Data Sheet ' a World Food System Data Sheet LAND USE 88 Permaculture Yarns by Bill Mollison"
+    },
+    {
+      "line": 364,
+      "term": "ecology",
+      "snippet": "92 Seafarm ® Horticultural Management of Solar Greenhouses in the Northeast = Ecology Action of Midpeninsula Self- Teaching Miniseries - COMMUNITY 93 Honest Business ™ Credit Where Credit."
+    },
+    {
+      "line": 368,
+      "term": "community",
+      "snippet": "= Ecology Action of Midpeninsula Self- Teaching Miniseries - COMMUNITY 93 Honest Business ™ Credit Where Credit. Is Due ® “Black Culture is getting a deserved rest...” ."
+    },
+    {
+      "line": 410,
+      "term": "energy",
+      "snippet": "112 Fireplace Stoves, Hearths and Inserts ® Heating with Coal = Cast iron match holder 113 Landscape Planning for Energy Conservation = Solar Information Series = Underground Plans Book ® Solar Energy Map 114 The Wind Power Book ® Cheap foam"
+    },
+    {
+      "line": 412,
+      "term": "energy",
+      "snippet": "113 Landscape Planning for Energy Conservation = Solar Information Series = Underground Plans Book ® Solar Energy Map 114 The Wind Power Book ® Cheap foam stripping ™ Compost Toilets 115 Carpentry ® Blackboard paint ® Triok ="
+    },
+    {
+      "line": 470,
+      "term": "learning",
+      "snippet": "Aircraft You Can Build ® Nice letter from a hero of ours LEARNING 129 Going to See the Guru by Mark Worden ® 11 Maxims by George Miller = Studying Buddhism in India"
+    },
+    {
+      "line": 610,
+      "term": "community",
+      "snippet": "_ opposition will stop Smith regardless of how much ~ money he puts into the project. Smith followed community leaders the approach that satisfies individual needs but to get some Opposing. not institutional needs. : | statem ents i INSTITUTIONAL APPROACH Here is the successful approach of Sam Redford."
+    },
+    {
+      "line": 624,
+      "term": "community",
+      "snippet": "he offers his time to help them. As the process grows, Redford gets this first group’s approval to use their names in talking to all community groups in Santa Rosa while the discussion is at its rudi- x mentary, formative stage. No time line is ever : discussed. All groups are encouraged to express"
+    },
+    {
+      "line": 779,
+      "term": "energy",
+      "snippet": "we have become of the fact of intermediation 1 in our economic lives. Up until the time that energy became expensive, the world economy was.expanding. Like a uni- verse, the expansion was in all directions simul- taneously, which meant that the distance between"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Published by the Whole Earth Catalog"
+    },
+    {
+      "line": 18,
+      "text": "TOPE COTO KOA f, Fe '"
+    },
+    {
+      "line": 21,
+      "text": "‘Robert Frank. returns to still photography"
+    },
+    {
+      "line": 24,
+      "text": "a eee"
+    },
+    {
+      "line": 25,
+      "text": "Phy Py"
+    },
+    {
+      "line": 30,
+      "text": "f- la"
+    },
+    {
+      "line": 33,
+      "text": "Se aay}"
+    },
+    {
+      "line": 34,
+      "text": "eMbe Dedede paps,"
+    },
+    {
+      "line": 35,
+      "text": "SEN ANZ"
+    },
+    {
+      "line": 36,
+      "text": "SEENENT NG"
+    },
+    {
+      "line": 39,
+      "text": "WER oare cial are"
+    },
+    {
+      "line": 42,
+      "text": "SaaS"
+    },
+    {
+      "line": 45,
+      "text": "wyery"
+    },
+    {
+      "line": 54,
+      "text": ". VAN"
+    },
+    {
+      "line": 57,
+      "text": "Nesene"
+    },
+    {
+      "line": 61,
+      "text": "r RANE KN SN"
+    },
+    {
+      "line": 62,
+      "text": "rrrrr7Ts"
+    },
+    {
+      "line": 68,
+      "text": "~ SACO GOUT 3"
+    },
+    {
+      "line": 75,
+      "text": "Opp set"
+    },
+    {
+      "line": 81,
+      "text": "ron Det ot"
+    },
+    {
+      "line": 98,
+      "text": "V7. yi ine"
+    },
+    {
+      "line": 99,
+      "text": "-CASMSdsK"
+    },
+    {
+      "line": 108,
+      "text": ". \\A"
+    },
+    {
+      "line": 109,
+      "text": "oe * BA XG x"
+    },
+    {
+      "line": 110,
+      "text": "% a Xu."
+    },
+    {
+      "line": 116,
+      "text": "3 ete"
+    },
+    {
+      "line": 117,
+      "text": "bes iT."
+    },
+    {
+      "line": 118,
+      "text": "A So RCte"
+    },
+    {
+      "line": 130,
+      "text": "Siac =< . = X¢"
+    },
+    {
+      "line": 131,
+      "text": ". ZY a Shaws,"
+    },
+    {
+      "line": 132,
+      "text": "A Pe Saar)"
+    },
+    {
+      "line": 135,
+      "text": "‘Two Drawings"
+    },
+    {
+      "line": 138,
+      "text": "Quarterly"
+    },
+    {
+      "line": 141,
+      "text": "COVERS"
+    },
+    {
+      "line": 144,
+      "text": "“Robert Frank, Swiss, unobtrusive, nice, with that little"
+    },
+    {
+      "line": 145,
+      "text": "camera that he raises and snaps with one hand he sucked"
+    },
+    {
+      "line": 146,
+      "text": "a sad poem right out of America onto film, taking rank"
+    },
+    {
+      "line": 147,
+      "text": "among the tragic poets of the world.” So wrote Jack"
+    },
+    {
+      "line": 148,
+      "text": "Kerouac, 1959, in his introduction to Fhe Americans,"
+    },
+    {
+      "line": 150,
+      "text": "83 black-and-white prints by Frank that changed the"
+    }
+  ]
+}

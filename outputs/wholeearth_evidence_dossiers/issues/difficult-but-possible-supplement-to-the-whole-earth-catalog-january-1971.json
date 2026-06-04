@@ -1,0 +1,655 @@
+{
+  "title": "Difficult But Possible Supplement to the Whole Earth Catalog, January 1971",
+  "identifier": "wholeearthcatalo00unse_3",
+  "year": 1971,
+  "season": "January",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 48,
+  "url": "https://wholeearth.info/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-january-1971",
+  "archive_url": "https://archive.org/details/wholeearthcatalo00unse_3",
+  "pdf_url": "https://archive.org/download/wholeearthcatalo00unse_3/wholeearthcatalo00unse_3.pdf",
+  "cover_url": "https://archive.org/download/wholeearthcatalo00unse_3/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthcatalo00unse_3_djvu.txt",
+  "ocr_chars": 449212,
+  "significant_line_count": 8858,
+  "theme_counts": {
+    "software_computing": 35,
+    "tools_craft": 190,
+    "ecology_place": 532,
+    "learning_media": 325,
+    "community_politics": 232
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [],
+  "candidate_headings": [
+    {
+      "line": 3464,
+      "text": "ECOLOGY NOW INC.",
+      "score": 6
+    },
+    {
+      "line": 3641,
+      "text": "ECOLOGY FORUM, INC.",
+      "score": 6
+    },
+    {
+      "line": 10302,
+      "text": "desperate for a place to spend their energy ina learning way that",
+      "score": 5
+    },
+    {
+      "line": 85,
+      "text": "PPPPPP HHA P HIF 4 > 44444444",
+      "score": 4
+    },
+    {
+      "line": 206,
+      "text": "© (SPEER-ARCHIV )",
+      "score": 4
+    },
+    {
+      "line": 456,
+      "text": "CONTENT",
+      "score": 4
+    },
+    {
+      "line": 926,
+      "text": "~ TOKENS",
+      "score": 4
+    },
+    {
+      "line": 970,
+      "text": "or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1155,
+      "text": "ECONOMIC$",
+      "score": 4
+    },
+    {
+      "line": 1354,
+      "text": "U.R. HOPE",
+      "score": 4
+    },
+    {
+      "line": 1357,
+      "text": "1039 OUR PLACE",
+      "score": 4
+    },
+    {
+      "line": 1368,
+      "text": "TOTAL AMOUNT DEPOSITED",
+      "score": 4
+    },
+    {
+      "line": 1461,
+      "text": "EPOSIT 2522 _",
+      "score": 4
+    },
+    {
+      "line": 1464,
+      "text": "FOR OD : 20-66",
+      "score": 4
+    },
+    {
+      "line": 1465,
+      "text": "DATE -_2°1/0-7/7 1B y,",
+      "score": 4
+    },
+    {
+      "line": 1576,
+      "text": "TRIBUNES ON THE MARCH",
+      "score": 4
+    },
+    {
+      "line": 1981,
+      "text": "INFLATION AND THE RETURN",
+      "score": 4
+    },
+    {
+      "line": 1982,
+      "text": "OF THE CRAFTSMAN",
+      "score": 4
+    },
+    {
+      "line": 2371,
+      "text": "SOME PRELIMINARY QUESTONS AND ANSWERS",
+      "score": 4
+    },
+    {
+      "line": 2374,
+      "text": "ABOUT NONPROFIT ESRC) ips INS",
+      "score": 4
+    },
+    {
+      "line": 2811,
+      "text": "CHICAGO (CDN) -",
+      "score": 4
+    },
+    {
+      "line": 2854,
+      "text": "ON BEHALF OF",
+      "score": 4
+    },
+    {
+      "line": 2855,
+      "text": "THE PUBLIC",
+      "score": 4
+    },
+    {
+      "line": 2856,
+      "text": "INTEREST",
+      "score": 4
+    },
+    {
+      "line": 2866,
+      "text": "HOUR A.M. HOUR P.M,",
+      "score": 4
+    },
+    {
+      "line": 2867,
+      "text": "CONTINUING FOR:",
+      "score": 4
+    },
+    {
+      "line": 2912,
+      "text": "CITIZEN’S COMPLAINT CITATION",
+      "score": 4
+    },
+    {
+      "line": 2918,
+      "text": "PI 16912160",
+      "score": 4
+    },
+    {
+      "line": 2982,
+      "text": "COMMEND",
+      "score": 4
+    },
+    {
+      "line": 2983,
+      "text": "THIS CITATION IS TO AND/OR",
+      "score": 4
+    },
+    {
+      "line": 2984,
+      "text": "CONGRATULATE",
+      "score": 4
+    },
+    {
+      "line": 2987,
+      "text": "IN THE MATTER OF (HIS, HER OR THEIR)",
+      "score": 4
+    },
+    {
+      "line": 2990,
+      "text": "COPIES SENT TO",
+      "score": 4
+    },
+    {
+      "line": 2996,
+      "text": "CITIZEN’S CITATION CERTIFICATE",
+      "score": 4
+    },
+    {
+      "line": 2999,
+      "text": "FURTHER ACTION RESPECTFULLY SUGGESTED",
+      "score": 4
+    },
+    {
+      "line": 3021,
+      "text": "CITIZEN OF THE UNITED STATES",
+      "score": 4
+    },
+    {
+      "line": 3024,
+      "text": "-SB ‘63",
+      "score": 4
+    },
+    {
+      "line": 3044,
+      "text": "D.R.B.",
+      "score": 4
+    },
+    {
+      "line": 3074,
+      "text": "By HAROLD BATE",
+      "score": 4
+    },
+    {
+      "line": 3146,
+      "text": "TQ 9.7 DN. 4",
+      "score": 4
+    },
+    {
+      "line": 3149,
+      "text": "ENGLAND",
+      "score": 4
+    },
+    {
+      "line": 3177,
+      "text": "' b HOME P",
+      "score": 4
+    },
+    {
+      "line": 3304,
+      "text": "INDIA .",
+      "score": 4
+    },
+    {
+      "line": 3348,
+      "text": "TRIUMPH:",
+      "score": 4
+    },
+    {
+      "line": 3643,
+      "text": "NEW YORK, NEW YORK 10017",
+      "score": 4
+    },
+    {
+      "line": 4067,
+      "text": "ce TANUNNN",
+      "score": 4
+    },
+    {
+      "line": 4179,
+      "text": "SS Ct",
+      "score": 4
+    },
+    {
+      "line": 4210,
+      "text": "-SB ‘71 1",
+      "score": 4
+    },
+    {
+      "line": 4362,
+      "text": "NOW! FOR THE THIRD OR FOURTH TIME THE SHAVING",
+      "score": 4
+    },
+    {
+      "line": 4363,
+      "text": "MUG AND BRUSH!!!",
+      "score": 4
+    },
+    {
+      "line": 4932,
+      "text": "JOHN HOLT",
+      "score": 4
+    },
+    {
+      "line": 4933,
+      "text": "BOSTON, MASS.",
+      "score": 4
+    },
+    {
+      "line": 5059,
+      "text": "(G (040) (2)",
+      "score": 4
+    },
+    {
+      "line": 5062,
+      "text": "JANOFES., 1970",
+      "score": 4
+    },
+    {
+      "line": 5305,
+      "text": "ANATAEUS BOOKS",
+      "score": 4
+    },
+    {
+      "line": 5306,
+      "text": "LAKESIDE‘ OREGON 97449 f",
+      "score": 4
+    },
+    {
+      "line": 5309,
+      "text": "“HOW TO” BOOKS AND PRACTICAL BOOKS FOR THE FARMER",
+      "score": 4
+    },
+    {
+      "line": 5310,
+      "text": "AND 1970 PIONEER",
+      "score": 4
+    },
+    {
+      "line": 5462,
+      "text": "ROCKBOTTOM FARM FORM LETTER LATE FALL 1970",
+      "score": 4
+    },
+    {
+      "line": 5688,
+      "text": "SEVETEs.",
+      "score": 4
+    },
+    {
+      "line": 5699,
+      "text": "Order from: ROCKBOTIOM FARM, STRAFFORD, VERMONT",
+      "score": 4
+    },
+    {
+      "line": 5717,
+      "text": "GENUINE",
+      "score": 4
+    },
+    {
+      "line": 5718,
+      "text": "DEERSKIN",
+      "score": 4
+    },
+    {
+      "line": 6360,
+      "text": "iF ES",
+      "score": 4
+    },
+    {
+      "line": 6441,
+      "text": "ANCHORAGE PORTLAND",
+      "score": 4
+    },
+    {
+      "line": 6548,
+      "text": "(for WHOLE EARTH CATALOG)",
+      "score": 4
+    },
+    {
+      "line": 7003,
+      "text": "N.Y., N.Y. 10013",
+      "score": 4
+    },
+    {
+      "line": 7004,
+      "text": "STEEL STRINGS",
+      "score": 4
+    },
+    {
+      "line": 7793,
+      "text": "AWARENESS: A CALL FOR INSTITUIONAL REVOLUTION.",
+      "score": 4
+    },
+    {
+      "line": 7880,
+      "text": "JOHNHOLT i",
+      "score": 4
+    },
+    {
+      "line": 7891,
+      "text": "CONSCIENTIOUS GUIDE TO DRUG ABUSE is a 32-page",
+      "score": 4
+    },
+    {
+      "line": 7935,
+      "text": "BUM TRIPS",
+      "score": 4
+    },
+    {
+      "line": 8045,
+      "text": "IN CASE OF SPEED OVERDOSE",
+      "score": 4
+    },
+    {
+      "line": 8058,
+      "text": "HEPATITIS",
+      "score": 4
+    },
+    {
+      "line": 8081,
+      "text": "ALCOHOL",
+      "score": 4
+    },
+    {
+      "line": 8268,
+      "text": "Sd £ T°ECOMTMENAE",
+      "score": 4
+    },
+    {
+      "line": 8303,
+      "text": "PUBLICATIONS TRADING Co, ING (znd a few",
+      "score": 4
+    },
+    {
+      "line": 8310,
+      "text": "JAPAN PUBLICATIONS TRADING co.,[NC,",
+      "score": 4
+    },
+    {
+      "line": 8484,
+      "text": "TOOT Ue",
+      "score": 4
+    },
+    {
+      "line": 8589,
+      "text": "IRON MOUNTAIN, MICH.",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 121,
+      "term": "community",
+      "snippet": "ae think love i is an enlajton. Love? is good sense. : Fic i Sherry and Jerry Brummel 1970 a they eit is Ken Kesey 3 L9GT uy oe ae a \"I ay, eS oe : g i False\" _ We don’t want a commune. We want a community. ma Wedience t to the tee is fesdotn’ ‘ ee . Ken Babbs 1969 +t E Tagen a\" Fr ae 20th Century” Tru = he “ i aes es yi ee Fal e a If you want something for nothing, go jerk off. a Od"
+    },
+    {
+      "line": 285,
+      "term": "interview",
+      "snippet": "_USA with the Hog Farm recently. The political paper Argus (708 Arch Street, Ann Arbor, Michigan 48104) caught up with him: Argus: You want to do an interview? Kesey: | hate interviews. I'll tell you about interviews, It's like, well, ~ there’s no such thing as an underground newspaper. Argus: That’s true. A revolutionary newspaper, though, how’s that?"
+    },
+    {
+      "line": 286,
+      "term": "interview",
+      "snippet": "Arch Street, Ann Arbor, Michigan 48104) caught up with him: Argus: You want to do an interview? Kesey: | hate interviews. I'll tell you about interviews, It's like, well, ~ there’s no such thing as an underground newspaper. Argus: That’s true. A revolutionary newspaper, though, how’s that? Kesey: It’s just that the whole form.. every time | get in the paper"
+    },
+    {
+      "line": 462,
+      "term": "ecology",
+      "snippet": "CONTENT Economics 5 Ecology Community British Columbia, Alaska, and"
+    },
+    {
+      "line": 466,
+      "term": "community",
+      "snippet": "Economics 5 Ecology Community British Columbia, Alaska, and New Zealand 20"
+    },
+    {
+      "line": 985,
+      "term": "community",
+      "snippet": "They gain a power in their formerly powerless environment. 1m grateful to Jay Baldwin for telling me of this book. !f a school or a community goes onto a token economy, they suddenly become much more of a single entity, more inter- related, and more distinct from the rest of the world. The closeness has little to do with space. One of the qualities"
+    },
+    {
+      "line": 995,
+      "term": "community",
+      "snippet": "Companies used to pay workers in tokens that were only good at the company store. The company profited twice. That system inside out might be a community co-op which sold at cost only to token holders, that is to sustainers of the community. Reportedly, schools that have gone in for simulation games have had considerable success with economic games involving"
+    },
+    {
+      "line": 998,
+      "term": "community",
+      "snippet": "at the company store. The company profited twice. That system inside out might be a community co-op which sold at cost only to token holders, that is to sustainers of the community. Reportedly, schools that have gone in for simulation games have had considerable success with economic games involving token money. They gradually expand from one class to"
+    },
+    {
+      "line": 1037,
+      "term": "community",
+      "snippet": "logical disorders, adolescent problems, employment problems, sexual difficulties, addiction, alcoholism, general disculturation, intellectual retardation, and neuroticism converge and interact in one community. To gaze upon this multiplicity of disorders and problems is to be over- whelmed by a sense cf hopelessness and helplessness. Any simple answer that one might consider for the problems of one patient seems"
+    },
+    {
+      "line": 1056,
+      "term": "learning",
+      "snippet": "of his hallucination when there is not even sufficient motivation for him to listen to the therapist? How can a vocational therapist pry a patient loose from his psychosis by interesting him in learning a vocational skill when it is not even possible to interest the patient in eating to stay alive? Where does one begin in imparting a sense of personal identity and worth to a patient that has been incontinent"
+    },
+    {
+      "line": 1151,
+      "term": "interview",
+      "snippet": "select that reinforcer. For example, at one time to encourage a mentally defective patient to have more interaction with the supervising ward psychologist, the usual cost of 20 tokens for an interview was reduced to one token. ECONOMIC$ Nineteenth Century Token Coinage"
+    },
+    {
+      "line": 1385,
+      "term": "energy",
+      "snippet": "directly influence the manner and direction that energies can flow. This fact is one of the strong arguments for why we must develop an energy economy. The “‘you fix my teeth and I'll make your shoes’ economy gets the energy in the needed places. Third thought---the Bank being directed by those whose ego"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "- E ae"
+    },
+    {
+      "line": 3,
+      "text": "ss vee ol ae ie 3 a ~"
+    },
+    {
+      "line": 4,
+      "text": "4 een Pre Pe se Se +> re"
+    },
+    {
+      "line": 5,
+      "text": "SS ae Sa See Sree Sees Paes a rad digs"
+    },
+    {
+      "line": 8,
+      "text": "ites ee woe Pa ee a eee ee"
+    },
+    {
+      "line": 9,
+      "text": "Be lore tee Sas Pm 5 a Wil 2 pe Sse Di RE irre ey ; ;"
+    },
+    {
+      "line": 10,
+      "text": "e s ., rH = €. © iis ae: ore ne = Bee ioe . Bc & 3"
+    },
+    {
+      "line": 12,
+      "text": "Th : : - ae ae d - Ne * ~ = nti - E - : ee sa ty :"
+    },
+    {
+      "line": 13,
+      "text": "af * & a + ae + < ® Boat oc ae ss"
+    },
+    {
+      "line": 15,
+      "text": "ase “ONE E DOLLAR ee: PE ot te ae hg"
+    },
+    {
+      "line": 16,
+      "text": "Phe : 4 # oie * x SF"
+    },
+    {
+      "line": 19,
+      "text": "diet a"
+    },
+    {
+      "line": 22,
+      "text": "eee a ee"
+    },
+    {
+      "line": 23,
+      "text": "te tee eee ee ee"
+    },
+    {
+      "line": 32,
+      "text": "= P for"
+    },
+    {
+      "line": 36,
+      "text": "< ae : eats"
+    },
+    {
+      "line": 37,
+      "text": "Le ae =e ees bil 74 ee i aes os ; tt |"
+    },
+    {
+      "line": 38,
+      "text": "If God i is One, What i is bad? e450\" ee : a Trite a nee’ au ‘see that the r rope is is ROt a snake, you can’t ‘make the. eee"
+    },
+    {
+      "line": 39,
+      "text": ": gh Charles Man son 10%, vgs Sar lg _ False) rope into a stake again. The illusion’s done for you. as SE"
+    },
+    {
+      "line": 40,
+      "text": "\" Boas e * us * Baba Ram Dass 1970 A \" es"
+    },
+    {
+      "line": 41,
+      "text": "1 To Goat a robot genocidal policeman i in the Moone of life i is eG SPs ez f , * At"
+    },
+    {
+      "line": 42,
+      "text": "_ asacred act. _ ‘ - ane. Real vetncan only increase, * = aes"
+    },
+    {
+      "line": 43,
+      "text": "ie 7 * we a es ATimothy Leary 1970 7 ~ ; 4 # q ig > ‘ Buckminster Fuller 199? a +"
+    },
+    {
+      "line": 44,
+      "text": "F “ Bia . te + * <3 a e. 3 ‘ i"
+    },
+    {
+      "line": 45,
+      "text": ". You can only do that which is called Pood: tye he, . ee aw You have to give up knowing you know in order to be it all. cae"
+    },
+    {
+      "line": 46,
+      "text": "id ls a his ae aes : ‘s Zz pe Smear pe a eo sp Biba Rom Duss 1970... oe \" r"
+    },
+    {
+      "line": 47,
+      "text": "! er _Bverybody is doing the best they can. 7 ay ingle True o Not to biilerstand 3 is iorbe: on the inside; to understand i is to be +"
+    },
+    {
+      "line": 48,
+      "text": "<i é Ken Kesey 1965 iz Mi False] on the outside. > . gy es >"
+    },
+    {
+      "line": 49,
+      "text": "lee ; ue Ce Xe \" Chas Tew 2708. C. : 1 ob"
+    },
+    {
+      "line": 50,
+      "text": "‘TrueLl Pari you, had when you admit that, you will be free. I < am is aay a i ae"
+    },
+    {
+      "line": 51,
+      "text": "False] just. eeenror. A ; =i * ae True | Ete I sa bit hard to butlthie the ocean. It’s not listening, you +4 &"
+    },
+    {
+      "line": 52,
+      "text": "Ue e Charles Manson 1970 Lae ~ False] - know what I mean? ;"
+    },
+    {
+      "line": 53,
+      "text": "; ; ae E David Coan 1970 aan"
+    },
+    {
+      "line": 54,
+      "text": "oo s PT stal paranoia is’total awareness. eS _ #"
+    },
+    {
+      "line": 55,
+      "text": "gISC * Charles Manson 1970."
+    },
+    {
+      "line": 58,
+      "text": "Bs . = ¢"
+    },
+    {
+      "line": 61,
+      "text": "TrueL] jf you resist Fak as soon as it’s gone you fold."
+    },
+    {
+      "line": 62,
+      "text": "Falsel] Ken Kesey 1970"
+    },
+    {
+      "line": 65,
+      "text": "~ ' ri"
+    },
+    {
+      "line": 68,
+      "text": "if he ee gore de cf"
+    }
+  ]
+}

@@ -1,0 +1,686 @@
+{
+  "title": "Whole Earth, Winter 2002",
+  "identifier": "wholeearthwinter00unse_3",
+  "year": 2002,
+  "season": "Winter",
+  "collection": "Whole Earth Magazine",
+  "collection_zh": "Whole Earth Magazine",
+  "pages": 119,
+  "url": "https://wholeearth.info/p/whole-earth-winter-2002",
+  "archive_url": "https://archive.org/details/wholeearthwinter00unse_3",
+  "pdf_url": "https://archive.org/download/wholeearthwinter00unse_3/wholeearthwinter00unse_3.pdf",
+  "cover_url": "https://archive.org/download/wholeearthwinter00unse_3/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthwinter00unse_3_djvu.txt",
+  "ocr_chars": 422346,
+  "significant_line_count": 10365,
+  "theme_counts": {
+    "software_computing": 98,
+    "tools_craft": 254,
+    "ecology_place": 442,
+    "learning_media": 244,
+    "community_politics": 263
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 2200,
+      "page": 18,
+      "title": "WHOLE EARTH WINTER 2002",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_3/page/n19_w500.jpg"
+    },
+    {
+      "line": 7079,
+      "page": 5,
+      "title": "AD WINTER 2002",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_3/page/n6_w500.jpg"
+    },
+    {
+      "line": 8262,
+      "page": 62,
+      "title": "WINTER 2002",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_3/page/n63_w500.jpg"
+    },
+    {
+      "line": 12056,
+      "page": 82,
+      "title": "WHOLE EARTH WINTER 2002",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_3/page/n83_w500.jpg"
+    },
+    {
+      "line": 13943,
+      "page": 98,
+      "title": "WHOLE EARTH WINTER 2002",
+      "image_url": "https://archive.org/download/wholeearthwinter00unse_3/page/n99_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 2200,
+      "text": "18 WHOLE EARTH WINTER 2002",
+      "score": 8
+    },
+    {
+      "line": 7079,
+      "text": "5 AD WINTER 2002",
+      "score": 8
+    },
+    {
+      "line": 8262,
+      "text": "62 WINTER 2002",
+      "score": 8
+    },
+    {
+      "line": 12056,
+      "text": "82 WHOLE EARTH WINTER 2002",
+      "score": 8
+    },
+    {
+      "line": 13943,
+      "text": "98 WHOLE EARTH WINTER 2002",
+      "score": 8
+    },
+    {
+      "line": 134,
+      "text": "¢ DISTANCE LEARNING FORMAT",
+      "score": 6
+    },
+    {
+      "line": 574,
+      "text": "REVIEWS",
+      "score": 6
+    },
+    {
+      "line": 596,
+      "text": "\"WHOLE SYSTEMS -",
+      "score": 6
+    },
+    {
+      "line": 631,
+      "text": "LEARNING:",
+      "score": 6
+    },
+    {
+      "line": 14471,
+      "text": "REVIEWS ). .",
+      "score": 6
+    },
+    {
+      "line": 15120,
+      "text": "MONEY, ENERGY, WATER",
+      "score": 6
+    },
+    {
+      "line": 15171,
+      "text": "MORE ENERGY, BUT",
+      "score": 6
+    },
+    {
+      "line": 15275,
+      "text": "EARTH COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 4,
+      "text": "| 24> F 53",
+      "score": 4
+    },
+    {
+      "line": 89,
+      "text": "WORLDSTOCK",
+      "score": 4
+    },
+    {
+      "line": 115,
+      "text": "aT REST eT ITE LETTE IEE",
+      "score": 4
+    },
+    {
+      "line": 130,
+      "text": "MASTER of",
+      "score": 4
+    },
+    {
+      "line": 135,
+      "text": "LIMITED TIME ON CAMPUS",
+      "score": 4
+    },
+    {
+      "line": 138,
+      "text": "¢ MULTI-DISCIPLINARY",
+      "score": 4
+    },
+    {
+      "line": 139,
+      "text": "COURSEWORK",
+      "score": 4
+    },
+    {
+      "line": 144,
+      "text": "¢ INTERNSHIPS AND ELECTIVES",
+      "score": 4
+    },
+    {
+      "line": 213,
+      "text": "PUBLISHER’S STATEMENT",
+      "score": 4
+    },
+    {
+      "line": 216,
+      "text": "BABIES, BOXES, AND CooL TOOLS",
+      "score": 4
+    },
+    {
+      "line": 278,
+      "text": "COHO SALMON DO EXACTLY",
+      "score": 4
+    },
+    {
+      "line": 279,
+      "text": "WHAT YOU WOULD",
+      "score": 4
+    },
+    {
+      "line": 280,
+      "text": "IF YOU WERE IN TROUBLE.",
+      "score": 4
+    },
+    {
+      "line": 283,
+      "text": "HIRE A",
+      "score": 4
+    },
+    {
+      "line": 284,
+      "text": "GOOD LAWYER.",
+      "score": 4
+    },
+    {
+      "line": 313,
+      "text": "© EARTHJUSTICE",
+      "score": 4
+    },
+    {
+      "line": 321,
+      "text": "WHOLE EARTH WINTER 2002 3",
+      "score": 4
+    },
+    {
+      "line": 373,
+      "text": "VAWANVANYASI A AALe]ALUFMWA ye [6",
+      "score": 4
+    },
+    {
+      "line": 376,
+      "text": "WHOLE EARTH WINTER 2002",
+      "score": 4
+    },
+    {
+      "line": 407,
+      "text": "WINTER: 2002",
+      "score": 4
+    },
+    {
+      "line": 481,
+      "text": "SUBSCRIPTIONS: US $24; Canada $32",
+      "score": 4
+    },
+    {
+      "line": 548,
+      "text": "PACKAGING",
+      "score": 4
+    },
+    {
+      "line": 561,
+      "text": "OTHER FEATURES",
+      "score": 4
+    },
+    {
+      "line": 636,
+      "text": "Toots AND TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 651,
+      "text": "BACKMATTER",
+      "score": 4
+    },
+    {
+      "line": 683,
+      "text": "GET THE CREDIT YOU DESERVE FOR CARING ABOUT THE PLANET!",
+      "score": 4
+    },
+    {
+      "line": 684,
+      "text": "NOW MAKING LOANS IN CALIFORNIA",
+      "score": 4
+    },
+    {
+      "line": 698,
+      "text": "PERMACULTURE CREDIT UNION",
+      "score": 4
+    },
+    {
+      "line": 752,
+      "text": "WHOLE EARTH WINTER 2002 9",
+      "score": 4
+    },
+    {
+      "line": 772,
+      "text": "MEASURING A PACKAGE’S",
+      "score": 4
+    },
+    {
+      "line": 773,
+      "text": "FOOTPRINTS",
+      "score": 4
+    },
+    {
+      "line": 844,
+      "text": "THE SYSTEMS",
+      "score": 4
+    },
+    {
+      "line": 845,
+      "text": "PERSPECTIVE",
+      "score": 4
+    },
+    {
+      "line": 894,
+      "text": "HOW PACKAGING",
+      "score": 4
+    },
+    {
+      "line": 895,
+      "text": "CHANGES OUR LIVES",
+      "score": 4
+    },
+    {
+      "line": 942,
+      "text": "MATERIAL MATTERS",
+      "score": 4
+    },
+    {
+      "line": 970,
+      "text": "PAPER",
+      "score": 4
+    },
+    {
+      "line": 987,
+      "text": "ALUMINUM",
+      "score": 4
+    },
+    {
+      "line": 1009,
+      "text": "GLASS",
+      "score": 4
+    },
+    {
+      "line": 1026,
+      "text": "STEEL",
+      "score": 4
+    },
+    {
+      "line": 1049,
+      "text": "PLASTIC",
+      "score": 4
+    },
+    {
+      "line": 1171,
+      "text": "WASTE PACKAGING TO",
+      "score": 4
+    },
+    {
+      "line": 1172,
+      "text": "WASTE LESS FOOD?",
+      "score": 4
+    },
+    {
+      "line": 1239,
+      "text": "ACCEPTABLE LEVELS",
+      "score": 4
+    },
+    {
+      "line": 1240,
+      "text": "OF WASTE",
+      "score": 4
+    },
+    {
+      "line": 1372,
+      "text": "EXTENDED PRODUCER RESPONSIBILITY (EPR) AND PRODUCT TAKE-BACK LAWS",
+      "score": 4
+    },
+    {
+      "line": 1386,
+      "text": "WHOLE EARTH WINTER 2002 13",
+      "score": 4
+    },
+    {
+      "line": 1511,
+      "text": "USING THE",
+      "score": 4
+    },
+    {
+      "line": 1512,
+      "text": "MARKETPLACE: THIRD-",
+      "score": 4
+    },
+    {
+      "line": 1513,
+      "text": "PARTY CERTIFICATION",
+      "score": 4
+    },
+    {
+      "line": 1514,
+      "text": "ORGANIZATIONS AND",
+      "score": 4
+    },
+    {
+      "line": 1515,
+      "text": "ECO-LABELS",
+      "score": 4
+    },
+    {
+      "line": 1702,
+      "text": "WHOLE",
+      "score": 4
+    },
+    {
+      "line": 1738,
+      "text": "EARTH WINTER 2002 15",
+      "score": 4
+    },
+    {
+      "line": 1772,
+      "text": "SOURCE REDUCTION:",
+      "score": 4
+    },
+    {
+      "line": 1773,
+      "text": "LIGHTWEIGHTING,",
+      "score": 4
+    },
+    {
+      "line": 1774,
+      "text": "DEMATERIALIZATION,",
+      "score": 4
+    },
+    {
+      "line": 1775,
+      "text": "DESIGN FOR REUSE",
+      "score": 4
+    },
+    {
+      "line": 1874,
+      "text": "NEW MATERIALS",
+      "score": 4
+    },
+    {
+      "line": 1946,
+      "text": "oO EAS",
+      "score": 4
+    },
+    {
+      "line": 1951,
+      "text": "LS J V £",
+      "score": 4
+    },
+    {
+      "line": 1957,
+      "text": "GET WHO!",
+      "score": 4
+    },
+    {
+      "line": 1970,
+      "text": "| | No POSTAGE",
+      "score": 4
+    },
+    {
+      "line": 1973,
+      "text": "NECESSARY IF",
+      "score": 4
+    },
+    {
+      "line": 1976,
+      "text": "MAILED IN THE",
+      "score": 4
+    },
+    {
+      "line": 1979,
+      "text": "BUSINESS REPLY MAIL|",
+      "score": 4
+    },
+    {
+      "line": 1982,
+      "text": "FirsT CLASS MAIL, PERMIT No. 292, DENVILLE, NJ",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 1,
+      "term": "tools",
+      "snippet": "Access to Tools, Ideas, and Practices Winter 2002 | 24> F 53 ll | | j : lL mo \"7485164582! Nill § :"
+    },
+    {
+      "line": 134,
+      "term": "learning",
+      "snippet": "MASTER of ARTS ¢ DISTANCE LEARNING FORMAT LIMITED TIME ON CAMPUS ¢ MULTI-DISCIPLINARY COURSEWORK"
+    },
+    {
+      "line": 216,
+      "term": "tools",
+      "snippet": "CDs were thrown away, which PUBLISHER’S STATEMENT BABIES, BOXES, AND CooL TOOLS amounts to a staggering waste of resources. We can assume a similar fate awaits most of the metal boxes"
+    },
+    {
+      "line": 241,
+      "term": "tools",
+      "snippet": "Having said all that, if you end up purchasing any of the roughly 200 Cool Tools guest editor Kevin Kelly has assembled in the 47 pages of his latest mini- Whole Earth Catalog, you will most likely find"
+    },
+    {
+      "line": 415,
+      "term": "tools",
+      "snippet": "Associate Editor Emily Polk Editor at Large Peter Warshall Guest Editor (Cool Tools Catalog) Kevin Kelly Contributing Editors J. Baldwin, Linda Connor, Dan Imhoff"
+    },
+    {
+      "line": 596,
+      "term": "whole systems",
+      "snippet": "You Are My I Love You, Little Rat Sets Sail, Enemy Pie Devdas \"WHOLE SYSTEMS - World Map Wallpaper, and Largest World Map, HourWorld Diagrammatic Chart of World ay Ancient Seton Centennia Atlas -"
+    },
+    {
+      "line": 631,
+      "term": "learning",
+      "snippet": "Tl -Autocamp- Me a Tent, Canopies. The Worst Case LEARNING: 72 oe - Scientific American The Amateur Biologist : 732. «G The Amateur Scientist, Science Hobbyist, The Brock -Magicscope, Science Toys You Can Make with Your Kids"
+    },
+    {
+      "line": 692,
+      "term": "energy",
+      "snippet": "competitive rates on conventional loans of all types. - Rainwater catchment systems - Home energy efficiency systems - Solar heating and electricity systems PERMACULTURE CREDIT UNION www. pcuonline.org"
+    },
+    {
+      "line": 707,
+      "term": "community",
+      "snippet": "4250 Cerrillos Road _- P.O. Box 29300 Santa Fe, NM 87592-9300 Do something nice for yourself, our community and the Earth-call the PCU today. Tamu Nes Eonpaeh (1 punk yr"
+    },
+    {
+      "line": 782,
+      "term": "energy",
+      "snippet": "technique called Life Cycle Analysis (LCA)-untangling intricate flows of energy, raw materials, pollution, transportation, and other factors, in hopes of accounting for all the environmental and social costs of"
+    },
+    {
+      "line": 824,
+      "term": "energy",
+      "snippet": "facturing with recycled materials almost always uses less water and energy, and results in fewer toxic by-products, than working with vir- gin materials; 2) totally chlorine-free bleaching technologies are superior"
+    },
+    {
+      "line": 830,
+      "term": "energy",
+      "snippet": "in nearly every category to chlorine- based techniques for papermaking; 3) from an energy perspective, single material, chlorine-free plastics win out over glass in the lightweight, single-use beverage container catego-"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Access to Tools, Ideas, and Practices Winter 2002"
+    },
+    {
+      "line": 4,
+      "text": "| 24> F 53"
+    },
+    {
+      "line": 5,
+      "text": "ll | | j : lL"
+    },
+    {
+      "line": 6,
+      "text": "mo \"7485164582! Nill § :"
+    },
+    {
+      "line": 12,
+      "text": "global goods."
+    },
+    {
+      "line": 13,
+      "text": "great prices."
+    },
+    {
+      "line": 16,
+      "text": "change the world."
+    },
+    {
+      "line": 19,
+      "text": "‘Good development"
+    },
+    {
+      "line": 20,
+      "text": "is good business,"
+    },
+    {
+      "line": 21,
+      "text": "and artisans with a"
+    },
+    {
+      "line": 22,
+      "text": "21st century opportunity"
+    },
+    {
+      "line": 25,
+      "text": "are powerful"
+    },
+    {
+      "line": 28,
+      "text": "Directing an NGO for Cambodian"
+    },
+    {
+      "line": 29,
+      "text": "artisans with disabilities, | saw"
+    },
+    {
+      "line": 30,
+      "text": "that our former child soldiers"
+    },
+    {
+      "line": 32,
+      "text": "or amputees did their hardest"
+    },
+    {
+      "line": 33,
+      "text": "work before reaching our"
+    },
+    {
+      "line": 34,
+      "text": "gateway. Once there they found"
+    },
+    {
+      "line": 35,
+      "text": "an organization designed to ‘"
+    },
+    {
+      "line": 36,
+      "text": "work for them. Artisans"
+    },
+    {
+      "line": 37,
+      "text": "reaching the global economy,"
+    },
+    {
+      "line": 38,
+      "text": "though, find not a gate buta"
+    },
+    {
+      "line": 39,
+      "text": "brick wall built from barriers of"
+    },
+    {
+      "line": 40,
+      "text": "technology, speed, volume and"
+    },
+    {
+      "line": 41,
+      "text": "power disparities."
+    },
+    {
+      "line": 44,
+      "text": "employment creators.’"
+    },
+    {
+      "line": 47,
+      "text": "Overstock is designed to place small"
+    },
+    {
+      "line": 48,
+      "text": "lots of excess inventory before a"
+    },
+    {
+      "line": 49,
+      "text": "large Internet audience. Last spring"
+    },
+    {
+      "line": 51,
+      "text": "* | met with an artisans’ organization"
+    },
+    {
+      "line": 52,
+      "text": "in Cambodia and realized the"
+    },
+    {
+      "line": 53,
+      "text": "same infrastructure would work"
+    },
+    {
+      "line": 54,
+      "text": "for them. | decided to devote"
+    },
+    {
+      "line": 55,
+      "text": "part of our site to them, with"
+    },
+    {
+      "line": 57,
+      "text": "an audited net-1% profit ceiling"
+    },
+    {
+      "line": 58,
+      "text": "to price goods for opportunity"
+    },
+    {
+      "line": 59,
+      "text": "creation rather than"
+    },
+    {
+      "line": 60,
+      "text": "profiteering."
+    },
+    {
+      "line": 63,
+      "text": "-- Patrick Byrne, CEO"
+    },
+    {
+      "line": 64,
+      "text": "Overstock.com"
+    }
+  ]
+}

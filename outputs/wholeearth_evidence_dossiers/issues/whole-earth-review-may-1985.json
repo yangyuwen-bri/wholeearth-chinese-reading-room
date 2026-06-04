@@ -1,0 +1,716 @@
+{
+  "title": "Whole Earth Review, May 1985",
+  "identifier": "wholeearthreview00unse_1",
+  "year": 1985,
+  "season": "May",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 117,
+  "url": "https://wholeearth.info/p/whole-earth-review-may-1985",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_1",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_1/wholeearthreview00unse_1.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_1/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthreview00unse_1_djvu.txt",
+  "ocr_chars": 561233,
+  "significant_line_count": 13554,
+  "theme_counts": {
+    "software_computing": 687,
+    "tools_craft": 256,
+    "ecology_place": 351,
+    "learning_media": 347,
+    "community_politics": 455
+  },
+  "top_themes": [
+    "software_computing",
+    "community_politics",
+    "ecology_place"
+  ],
+  "page_markers": [
+    {
+      "line": 392,
+      "page": 86,
+      "title": "WORDSTAR 2000 PLUS",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_1/page/n87_w500.jpg"
+    },
+    {
+      "line": 399,
+      "page": 88,
+      "title": "SUPERCALC 3",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_1/page/n89_w500.jpg"
+    },
+    {
+      "line": 414,
+      "page": 93,
+      "title": "MACPROJECT",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_1/page/n94_w500.jpg"
+    },
+    {
+      "line": 421,
+      "page": 95,
+      "title": "PROPERTY MANAGEMENT",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_1/page/n96_w500.jpg"
+    },
+    {
+      "line": 439,
+      "page": 99,
+      "title": "BETTERBASIC",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_1/page/n100_w500.jpg"
+    },
+    {
+      "line": 443,
+      "page": 100,
+      "title": "VOYAGE OF THE MIMI",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_1/page/n101_w500.jpg"
+    },
+    {
+      "line": 448,
+      "page": 102,
+      "title": "JAMES F. FIXX: THE RUNNING",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_1/page/n103_w500.jpg"
+    },
+    {
+      "line": 730,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO CA 94965",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_1/page/n28_w500.jpg"
+    },
+    {
+      "line": 3618,
+      "page": 2,
+      "title": "THIS POINT, DIDNT",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_1/page/n3_w500.jpg"
+    },
+    {
+      "line": 5775,
+      "page": 1,
+      "title": "I AEE TREE OC RS STR RINE,",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_1/page/n2_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 392,
+      "text": "86 WORDSTAR 2000 PLUS",
+      "score": 8
+    },
+    {
+      "line": 399,
+      "text": "88 SUPERCALC 3",
+      "score": 8
+    },
+    {
+      "line": 414,
+      "text": "93 MACPROJECT",
+      "score": 8
+    },
+    {
+      "line": 421,
+      "text": "95 PROPERTY MANAGEMENT",
+      "score": 8
+    },
+    {
+      "line": 439,
+      "text": "99 BETTERBASIC",
+      "score": 8
+    },
+    {
+      "line": 443,
+      "text": "100 VOYAGE OF THE MIMI",
+      "score": 8
+    },
+    {
+      "line": 448,
+      "text": "102 JAMES F. FIXX: THE RUNNING",
+      "score": 8
+    },
+    {
+      "line": 730,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 3618,
+      "text": "2 THIS POINT, DIDNT",
+      "score": 8
+    },
+    {
+      "line": 5355,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA",
+      "score": 8
+    },
+    {
+      "line": 5775,
+      "text": "1 I AEE TREE OC RS STR RINE,",
+      "score": 8
+    },
+    {
+      "line": 18736,
+      "text": "27 GATE-FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 283,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 341,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 432,
+      "text": "PROGRAMMING",
+      "score": 6
+    },
+    {
+      "line": 442,
+      "text": "LEARNING:",
+      "score": 6
+    },
+    {
+      "line": 449,
+      "text": "PROGRAM L) THE BOOK OF",
+      "score": 6
+    },
+    {
+      "line": 483,
+      "text": "4 i WHOLE EARTH REVIEW MAY 1985",
+      "score": 6
+    },
+    {
+      "line": 947,
+      "text": "WHOLE EARTH REVIEW MAY 1985",
+      "score": 6
+    },
+    {
+      "line": 2110,
+      "text": "WHOLE EARTH REVIEW MAY 1985 -",
+      "score": 6
+    },
+    {
+      "line": 2414,
+      "text": "WHOLE EARTH REVIEW = MAY 1985",
+      "score": 6
+    },
+    {
+      "line": 3199,
+      "text": "WHOLE EARTH REVIEW = MAY 1985 -",
+      "score": 6
+    },
+    {
+      "line": 3438,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 3819,
+      "text": "WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 4462,
+      "text": "E EARTH REVIEW MAY. 1985",
+      "score": 6
+    },
+    {
+      "line": 4636,
+      "text": "INTRODUCING AN EINSTEINIAN ECOLOGY",
+      "score": 6
+    },
+    {
+      "line": 4684,
+      "text": "28 : WHOLE EARTH REVIEW. | MAY 1985",
+      "score": 6
+    },
+    {
+      "line": 7382,
+      "text": "WHOLE EARTH REVIEW MAY. 1985",
+      "score": 6
+    },
+    {
+      "line": 8908,
+      "text": "WHOLE EARTH REVIEW 9 MAY 1985",
+      "score": 6
+    },
+    {
+      "line": 10758,
+      "text": "WHOLE EARTH REVIEW MAY i985",
+      "score": 6
+    },
+    {
+      "line": 12221,
+      "text": "WHOLE EARTH REVIEW MAY 1985 . |",
+      "score": 6
+    },
+    {
+      "line": 16827,
+      "text": "PROGRAMMING ~",
+      "score": 6
+    },
+    {
+      "line": 17100,
+      "text": "~ PROGRAMS.",
+      "score": 6
+    },
+    {
+      "line": 17230,
+      "text": "LEARNING -",
+      "score": 6
+    },
+    {
+      "line": 17549,
+      "text": "JAMES F. FIXX: THE RUNNING PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 17559,
+      "text": "THE RUNNING PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 17619,
+      "text": "THE RUNNING PROGRAM.",
+      "score": 6
+    },
+    {
+      "line": 19121,
+      "text": "WHOLE EARTH REVIEW =MAY 1985",
+      "score": 6
+    },
+    {
+      "line": 20079,
+      "text": "WHOLE EARTH REVIEW = MAY 1985 ea ‘",
+      "score": 6
+    },
+    {
+      "line": 20184,
+      "text": "EARTH WHOLE BARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 7505,
+      "text": "communications program for the Macintosh): It should be",
+      "score": 5
+    },
+    {
+      "line": 8376,
+      "text": "PC-TALK?, an excellent telecommunications program for",
+      "score": 5
+    },
+    {
+      "line": 15084,
+      "text": "mediocre. The best of the file programs reviewed here,",
+      "score": 5
+    },
+    {
+      "line": 15837,
+      "text": "PERT (Program Evaluation Review Technique) charts",
+      "score": 5
+    },
+    {
+      "line": 17336,
+      "text": "programs that not only attempts to reinforce learning",
+      "score": 5
+    },
+    {
+      "line": 18142,
+      "text": "table energy, portable programming,",
+      "score": 5
+    },
+    {
+      "line": 1,
+      "text": "| ECOSPHERE:",
+      "score": 4
+    },
+    {
+      "line": 2,
+      "text": "A SEALED GLOBE THAT LIVES FOREVER, P. 28",
+      "score": 4
+    },
+    {
+      "line": 3,
+      "text": "ANARCHY WILL BAKER THE",
+      "score": 4
+    },
+    {
+      "line": 4,
+      "text": "THAT WORKS: DEEPER HACKERS",
+      "score": 4
+    },
+    {
+      "line": 7,
+      "text": "ITALY IN NICARAGUA CONFERENCE",
+      "score": 4
+    },
+    {
+      "line": 13,
+      "text": "EARTH",
+      "score": 4
+    },
+    {
+      "line": 199,
+      "text": "WHOLE",
+      "score": 4
+    },
+    {
+      "line": 268,
+      "text": "ES POLE (LT IEE GEE NUE LG EE I",
+      "score": 4
+    },
+    {
+      "line": 299,
+      "text": "NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 314,
+      "text": "SOFT TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 345,
+      "text": "BACKSCATTER",
+      "score": 4
+    },
+    {
+      "line": 352,
+      "text": "GATE FIVE ROAD",
+      "score": 4
+    },
+    {
+      "line": 369,
+      "text": "WHOLE EARTH SOFTWARE CATALOG",
+      "score": 4
+    },
+    {
+      "line": 370,
+      "text": "VERSION 1.3",
+      "score": 4
+    },
+    {
+      "line": 373,
+      "text": "HARDWARE",
+      "score": 4
+    },
+    {
+      "line": 377,
+      "text": "MAGAZINES",
+      "score": 4
+    },
+    {
+      "line": 384,
+      "text": "PLAYING",
+      "score": 4
+    },
+    {
+      "line": 385,
+      "text": "84 GATO 0 UNIVERSE t",
+      "score": 4
+    },
+    {
+      "line": 391,
+      "text": "WRITING",
+      "score": 4
+    },
+    {
+      "line": 398,
+      "text": "ANALYZING",
+      "score": 4
+    },
+    {
+      "line": 402,
+      "text": "ORGANIZING |",
+      "score": 4
+    },
+    {
+      "line": 409,
+      "text": "ACCOUNTING",
+      "score": 4
+    },
+    {
+      "line": 412,
+      "text": "92 PC/TAXCUT",
+      "score": 4
+    },
+    {
+      "line": 413,
+      "text": "MANAGING",
+      "score": 4
+    },
+    {
+      "line": 418,
+      "text": "94 SUPERPROJECT UC) TIME LINE",
+      "score": 4
+    },
+    {
+      "line": 424,
+      "text": "DRAWING",
+      "score": 4
+    },
+    {
+      "line": 428,
+      "text": "TELECOMMUNICATING",
+      "score": 4
+    },
+    {
+      "line": 450,
+      "text": "CHANGE: I CHING",
+      "score": 4
+    },
+    {
+      "line": 453,
+      "text": "SKYTRAVEL: WINDOW ON OUR",
+      "score": 4
+    },
+    {
+      "line": 454,
+      "text": "GALAXY [) COINS",
+      "score": 4
+    },
+    {
+      "line": 475,
+      "text": "URING THE TEN DAYS I WAS IN THIS LITTLE COUNTRY THERE",
+      "score": 4
+    },
+    {
+      "line": 489,
+      "text": "ROLES SET OT",
+      "score": 4
+    },
+    {
+      "line": 504,
+      "text": "GEESE Ft. SRT =",
+      "score": 4
+    },
+    {
+      "line": 510,
+      "text": "PR, DRESS",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 216,
+      "term": "ecology",
+      "snippet": "28 The Ecosphere by Robert Fuller by Peter Warshall Notes on discussions regarding nuclear Introducing an Einsteinian ecology inside winter and space bridges with Chinese the small watershed of a sealed glass globe. and Soviet scientists. } 36 Anarchy that Works 74 Kommi-Punks by Szanto by Tom Starr and Norbert Haase"
+    },
+    {
+      "line": 227,
+      "term": "ecology",
+      "snippet": "25 The Historian’s Handbook 35 Identifying Diseases of Vegetables 1 Nearby History © Practicing History C1 Herbal Bounty! 26 Deep Ecology C1 The Satellite SMALL BUSINESS Experimenter’s Handbook 40 Starting on a Shoestring 0 Successful Small Business Management 27. Space Calendar / ("
+    },
+    {
+      "line": 244,
+      "term": "software",
+      "snippet": "11 How to Cope With the Corps Small Business (1) Scientific Event Alert Network Bulletin 43 Filofax C) The General Le toe 33 Probe Post (1 The Creekwalker’s Journal Software Consultant Whole Earth Review (1) Issue No. 46 _) April 1, 1985 (ISSN 0749 -5056) (USPS 077-150). Published bimonthly by POINT, a Cali- fornia nonprofit corporation. Editorial office: 27 Gate Five Road, Sausalito, CA 94965. Subscriptions; $18 per year; single copies: $3. Inquire for international air rates. Second-class postage paid at Sausalito, California, and at additional mailing offices. Claims for"
+    },
+    {
+      "line": 283,
+      "term": "communications",
+      "snippet": "can you do to get them front and center?). Don Ryan, our can-do photographer, eventually beckoned a pink one into the spotlight, shown on the cover just lower-left of dead center. COMMUNICATIONS 56 Powers of the Press 1) AudioCraft 57 Rock & Roll Confidential 0 Simplicity Cardboard Dulcimers"
+    },
+    {
+      "line": 337,
+      "term": "tools",
+      "snippet": "72 Timber Frame Construction 1) Haywire Klamper () Architect’s Drawing Kit 73 Masterpiece Tools (1 Wood Finisher’s Handbook COMMUNITY 78 Ylem 1) We Will Not Be Disappeared!"
+    },
+    {
+      "line": 341,
+      "term": "community",
+      "snippet": "73 Masterpiece Tools (1 Wood Finisher’s Handbook COMMUNITY 78 Ylem 1) We Will Not Be Disappeared! 79 Kaleidoscope 0 Yellow Silk 80 Good Movies by Sheila Benson"
+    },
+    {
+      "line": 369,
+      "term": "software",
+      "snippet": "112 How to submit things to Whole Earth Review WHOLE EARTH SOFTWARE CATALOG VERSION 1.3 HARDWARE MAGAZINES"
+    },
+    {
+      "line": 432,
+      "term": "programming",
+      "snippet": "TELECOMMUNICATING 96 FIDO OU Magazine ASAP PROGRAMMING 98 Running MS-DOS (J All About Applewriter Ile (J Enhancing Your Apple II (Vol. 1) () Assembly Cookbook"
+    },
+    {
+      "line": 442,
+      "term": "learning",
+      "snippet": "for the Apple II/Ile 99 BETTERBASIC LEARNING: 100 VOYAGE OF THE MIMI ETC. 102 JAMES F. FIXX: THE RUNNING"
+    },
+    {
+      "line": 1927,
+      "term": "tools",
+      "snippet": "the guerillas? Written permission? The mechanic under the boat begins packing up his tools. Look, I say, I just want to know what’s going on here. How it works. The truth."
+    },
+    {
+      "line": 2156,
+      "term": "energy",
+      "snippet": "icant compromise, probably because education is an area in which energy and personpower count more than money and equipment. The forty-odd students between"
+    },
+    {
+      "line": 2188,
+      "term": "interview",
+      "snippet": "conscious. After the photo session we get down to a cross-fire interview, dialectical materialism on one side, agri-hippy gonzo on the other. This works pretty well,"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "| ECOSPHERE:"
+    },
+    {
+      "line": 2,
+      "text": "A SEALED GLOBE THAT LIVES FOREVER, P. 28"
+    },
+    {
+      "line": 3,
+      "text": "ANARCHY WILL BAKER THE"
+    },
+    {
+      "line": 4,
+      "text": "THAT WORKS: DEEPER HACKERS"
+    },
+    {
+      "line": 7,
+      "text": "ITALY IN NICARAGUA CONFERENCE"
+    },
+    {
+      "line": 13,
+      "text": "EARTH"
+    },
+    {
+      "line": 16,
+      "text": "No. 46 MAY 1985 $3 (No Advertising)"
+    },
+    {
+      "line": 22,
+      "text": "by Charles Pappas"
+    },
+    {
+      "line": 25,
+      "text": "An otherwise pleasant Charles"
+    },
+    {
+      "line": 26,
+      "text": "Pappas insists on discussing hurt,"
+    },
+    {
+      "line": 27,
+      "text": "badness, evil, and our taboo"
+    },
+    {
+      "line": 28,
+      "text": "against discussing these. His"
+    },
+    {
+      "line": 29,
+      "text": "“Bad Seeds” (CQ Summer 1984,"
+    },
+    {
+      "line": 30,
+      "text": "p. 60) dragged us over to face"
+    },
+    {
+      "line": 31,
+      "text": "pure nastiness, and said we were"
+    },
+    {
+      "line": 32,
+      "text": "responsible. Now he’s hovering"
+    },
+    {
+      "line": 33,
+      "text": "over the dead. In between"
+    },
+    {
+      "line": 34,
+      "text": "Journeys to war-torn countries"
+    },
+    {
+      "line": 35,
+      "text": "he’s a counselor at a group home"
+    },
+    {
+      "line": 36,
+      "text": "for disabled adults in LaCrosse,"
+    },
+    {
+      "line": 37,
+      "text": "Wisconsin. -Kevin Kelly"
+    },
+    {
+      "line": 40,
+      "text": "Dear Stewart,"
+    },
+    {
+      "line": 43,
+      "text": "Before and after I traveled to Northern Ireland I read CQ’s"
+    },
+    {
+      "line": 44,
+      "text": "write-ups on death. Plenty more to add."
+    },
+    {
+      "line": 47,
+      "text": "Autopsies (CQ, Spring 1984, p. 4) and New Orleans funerals"
+    },
+    {
+      "line": 48,
+      "text": "(CQ, Fall 1984, p. 38) tell you a lot about death - death and"
+    },
+    {
+      "line": 49,
+      "text": "its attendants. So does war; I’ve had a look-see at two. I"
+    },
+    {
+      "line": 50,
+      "text": "learned there is little difference between my writing about"
+    },
+    {
+      "line": 51,
+      "text": "war and my ministering to the dying in a nursing home:"
+    },
+    {
+      "line": 53,
+      "text": "I attend what's left over. Tolstoy looked at the misery around"
+    },
+    {
+      "line": 54,
+      "text": "himself and asked, “What then must we do?” He should"
+    },
+    {
+      "line": 55,
+      "text": "have known better, the old geezer. Whether the bodies had"
+    },
+    {
+      "line": 56,
+      "text": "bullets or [Vs in them, the reader-over-my-shoulder kept"
+    },
+    {
+      "line": 57,
+      "text": "track of what it all meant. I wanted to know. I wanted to see."
+    },
+    {
+      "line": 60,
+      "text": "Camaraderie, intense experiences, the passion to witness . . ."
+    },
+    {
+      "line": 61,
+      "text": "these are dependable explanations for a curiosity about war,"
+    },
+    {
+      "line": 64,
+      "text": "Gustave Dore"
+    },
+    {
+      "line": 67,
+      "text": "There is a connection"
+    },
+    {
+      "line": 68,
+      "text": "between what we do with all"
+    },
+    {
+      "line": 71,
+      "text": "kinds of death and how we live."
+    }
+  ]
+}

@@ -1,0 +1,668 @@
+{
+  "title": "Difficult But Possible Supplement to the Whole Earth Catalog, July 1970",
+  "identifier": "wholeearthcatalo00unse_9",
+  "year": 1970,
+  "season": "July",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 58,
+  "url": "https://wholeearth.info/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-july-1970",
+  "archive_url": "https://archive.org/details/wholeearthcatalo00unse_9",
+  "pdf_url": "https://archive.org/download/wholeearthcatalo00unse_9/wholeearthcatalo00unse_9.pdf",
+  "cover_url": "https://archive.org/download/wholeearthcatalo00unse_9/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthcatalo00unse_9_djvu.txt",
+  "ocr_chars": 352113,
+  "significant_line_count": 7272,
+  "theme_counts": {
+    "software_computing": 34,
+    "tools_craft": 202,
+    "ecology_place": 481,
+    "learning_media": 225,
+    "community_politics": 158
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 3151,
+      "page": 810,
+      "title": "NORQUAY BUILDING, WINNIPEG 1, MANITOBA",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_9/page/n811_w500.jpg"
+    },
+    {
+      "line": 6449,
+      "page": 1,
+      "title": "AATION AMO 7H ER",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_9/page/n2_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 3151,
+      "text": "810 NORQUAY BUILDING, WINNIPEG 1, MANITOBA",
+      "score": 8
+    },
+    {
+      "line": 6449,
+      "text": "1 AATION AMO 7H ER",
+      "score": 8
+    },
+    {
+      "line": 4757,
+      "text": "at 700 psi. DON’T SHELTER IN RE-ENTRANT ANGLES!!!",
+      "score": 6
+    },
+    {
+      "line": 6269,
+      "text": "LEARNING snM",
+      "score": 6
+    },
+    {
+      "line": 6446,
+      "text": "« LEARNING /5 DEIRAGLE °°.",
+      "score": 6
+    },
+    {
+      "line": 6465,
+      "text": "THE PURPOSE OF LEARNING 1S TO GET FROM WHERE YOU ARE TO",
+      "score": 6
+    },
+    {
+      "line": 8379,
+      "text": "COMMUNITY & ARTS",
+      "score": 6
+    },
+    {
+      "line": 11965,
+      "text": "A LEARNING TO LEARN CATALOG:",
+      "score": 6
+    },
+    {
+      "line": 117,
+      "text": "PURPOSE",
+      "score": 4
+    },
+    {
+      "line": 150,
+      "text": "SUSTAINING SUBSCRIBERS",
+      "score": 4
+    },
+    {
+      "line": 169,
+      "text": "RETAINING SUBSCRIBERS",
+      "score": 4
+    },
+    {
+      "line": 896,
+      "text": "or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 934,
+      "text": ": | or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1059,
+      "text": ": e PMASTEL LINE",
+      "score": 4
+    },
+    {
+      "line": 1069,
+      "text": "FH AE RES",
+      "score": 4
+    },
+    {
+      "line": 1095,
+      "text": "CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1195,
+      "text": "DEFENSE SUPPLY AGENCY",
+      "score": 4
+    },
+    {
+      "line": 1198,
+      "text": "HOW “Wow TO BUY.. BUY...",
+      "score": 4
+    },
+    {
+      "line": 1201,
+      "text": "SURPLUS",
+      "score": 4
+    },
+    {
+      "line": 1202,
+      "text": "PERSONAL",
+      "score": 4
+    },
+    {
+      "line": 1203,
+      "text": "PROPERTY",
+      "score": 4
+    },
+    {
+      "line": 1207,
+      "text": "DEPARTMENT OF DEFENSE",
+      "score": 4
+    },
+    {
+      "line": 1210,
+      "text": "JUNE 1969",
+      "score": 4
+    },
+    {
+      "line": 1213,
+      "text": "------S------",
+      "score": 4
+    },
+    {
+      "line": 1214,
+      "text": "DEFENSE LOGISTICS SERVICES CENTER",
+      "score": 4
+    },
+    {
+      "line": 1215,
+      "text": "FEDERAL CENTER",
+      "score": 4
+    },
+    {
+      "line": 1216,
+      "text": "BATTLE CREEK, MICHIGAN 49016",
+      "score": 4
+    },
+    {
+      "line": 1233,
+      "text": "WEIGHT",
+      "score": 4
+    },
+    {
+      "line": 1234,
+      "text": "CAMPING",
+      "score": 4
+    },
+    {
+      "line": 1235,
+      "text": "EQUIPMENT",
+      "score": 4
+    },
+    {
+      "line": 1238,
+      "text": "FORE TEMION",
+      "score": 4
+    },
+    {
+      "line": 1296,
+      "text": "HERBERT R. KOHL",
+      "score": 4
+    },
+    {
+      "line": 1312,
+      "text": "A PRACTICAL GUIDE TO",
+      "score": 4
+    },
+    {
+      "line": 1313,
+      "text": "ANEW WAY OF TEACHING",
+      "score": 4
+    },
+    {
+      "line": 1451,
+      "text": "TETLE",
+      "score": 4
+    },
+    {
+      "line": 1465,
+      "text": "WHOLE EARTH TRUCK STORE",
+      "score": 4
+    },
+    {
+      "line": 1643,
+      "text": "ASHLEY STOVE WARNING",
+      "score": 4
+    },
+    {
+      "line": 1662,
+      "text": "WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1945,
+      "text": "¢ Fall 1969 CATALOG",
+      "score": 4
+    },
+    {
+      "line": 2120,
+      "text": "ALTERNATIVE ACTION",
+      "score": 4
+    },
+    {
+      "line": 2239,
+      "text": "REACTION",
+      "score": 4
+    },
+    {
+      "line": 2487,
+      "text": "UNFOWLING THE NEST",
+      "score": 4
+    },
+    {
+      "line": 2678,
+      "text": "THREE LAWS",
+      "score": 4
+    },
+    {
+      "line": 2679,
+      "text": "EVERYTHING IS CONNECTED TO EVERYTHING",
+      "score": 4
+    },
+    {
+      "line": 2680,
+      "text": "EVERYTHING'S GOT TO GO SOMEWHERE",
+      "score": 4
+    },
+    {
+      "line": 2681,
+      "text": "THERE’S NO SUCH THING AS A FREE LUNCH",
+      "score": 4
+    },
+    {
+      "line": 2684,
+      "text": "3 COS j",
+      "score": 4
+    },
+    {
+      "line": 2686,
+      "text": "SWEDISH COMPOSTER",
+      "score": 4
+    },
+    {
+      "line": 2710,
+      "text": "CLIVUS IS NOT TO BE CONNECTED TO WATER",
+      "score": 4
+    },
+    {
+      "line": 2773,
+      "text": ": a WT THIS OUT",
+      "score": 4
+    },
+    {
+      "line": 2774,
+      "text": "a SA AND USE [T=",
+      "score": 4
+    },
+    {
+      "line": 2801,
+      "text": "J--~_5,39 WAYS TO SAVE THE EARTH:",
+      "score": 4
+    },
+    {
+      "line": 2899,
+      "text": "DEPARTMENT OF AGRICULTURE",
+      "score": 4
+    },
+    {
+      "line": 2902,
+      "text": "LANDS BRANCH",
+      "score": 4
+    },
+    {
+      "line": 2908,
+      "text": "ADMINISTRATION BUILDING, REGINA",
+      "score": 4
+    },
+    {
+      "line": 2911,
+      "text": "OFFICIAL",
+      "score": 4
+    },
+    {
+      "line": 2949,
+      "text": "RUINED DINNER",
+      "score": 4
+    },
+    {
+      "line": 3025,
+      "text": "‘N CANADA LAND ACT",
+      "score": 4
+    },
+    {
+      "line": 3063,
+      "text": ": : ( GLEN RIVER, UTAH 1870)",
+      "score": 4
+    },
+    {
+      "line": 3085,
+      "text": "OZARK LAND HANDLERS",
+      "score": 4
+    },
+    {
+      "line": 3143,
+      "text": "PROVINCE OF MANITOBA",
+      "score": 4
+    },
+    {
+      "line": 3146,
+      "text": "DEPARTMENT OF",
+      "score": 4
+    },
+    {
+      "line": 3147,
+      "text": "MINES AND NATURAL RESOURCES",
+      "score": 4
+    },
+    {
+      "line": 3200,
+      "text": "® OPEN ¥ )",
+      "score": 4
+    },
+    {
+      "line": 3203,
+      "text": "LAND SURVEY",
+      "score": 4
+    },
+    {
+      "line": 3233,
+      "text": "HARDY TYPES",
+      "score": 4
+    },
+    {
+      "line": 3273,
+      "text": "WHAT IS A BIOSPHERE?",
+      "score": 4
+    },
+    {
+      "line": 3464,
+      "text": "ANNOUNCEMENT",
+      "score": 4
+    },
+    {
+      "line": 3487,
+      "text": "A PROPOSAL",
+      "score": 4
+    },
+    {
+      "line": 3596,
+      "text": "STONE WORKS",
+      "score": 4
+    },
+    {
+      "line": 3723,
+      "text": "ABORIGINAL SWEATING",
+      "score": 4
+    },
+    {
+      "line": 3774,
+      "text": "DIAGRAM #4",
+      "score": 4
+    },
+    {
+      "line": 3815,
+      "text": "DIAGRAM * 6%",
+      "score": 4
+    },
+    {
+      "line": 3899,
+      "text": "DIAGEAM * B",
+      "score": 4
+    },
+    {
+      "line": 3902,
+      "text": "WICKWP FRAME",
+      "score": 4
+    },
+    {
+      "line": 3905,
+      "text": "POLES",
+      "score": 4
+    },
+    {
+      "line": 3911,
+      "text": "ELEVATION",
+      "score": 4
+    },
+    {
+      "line": 3960,
+      "text": "WANTEDWANTED",
+      "score": 4
+    },
+    {
+      "line": 3966,
+      "text": "MOLASSES-MAN-HUNT",
+      "score": 4
+    },
+    {
+      "line": 3980,
+      "text": "ALNVMCSAIN",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 30,
+      "term": "ecology",
+      "snippet": "| am delighted by the spirit behind your Environmental Quality Education Act (H.R. 14753) and depressed by every measure in it. I'm a former ecology student, and | can report that ecology asa science is pretty boring. Definitely not for everyone. Ecology as a movement, as a religion, is tremendously exciting, and everyone can get a piece of the fervor. _ However, this voluntary mass education could be poisoned by Federal “help’’, as highly-intentional over-specialized application of fertilizers and perticides has damaged other natural growth processes."
+    },
+    {
+      "line": 31,
+      "term": "ecology",
+      "snippet": "measure in it. I'm a former ecology student, and | can report that ecology asa science is pretty boring. Definitely not for everyone. Ecology as a movement, as a religion, is tremendously exciting, and everyone can get a piece of the fervor. _ However, this voluntary mass education could be poisoned by Federal “help’’, as highly-intentional over-specialized application of fertilizers and perticides has damaged other natural growth processes. In my experience, the whole apparatus of application, approval, and funding commonly introduces a dishonesty into"
+    },
+    {
+      "line": 41,
+      "term": "communications",
+      "snippet": "an operation that can never be eradicated. And if the operation is educational, dishonesty is the death of it. | see that the bill provides for preparing information specifically for mass media use. Involvement of Government with mass communications in this manner strikes me as dangerous as re-joining Church and State. If Federal funds are to be spent on environmental matters, let them go to: 1) The space program which has given us the anti-environmental perspective to see our planet whole and alive and in hazard."
+    },
+    {
+      "line": 53,
+      "term": "ecology",
+      "snippet": "a great deal more power to act than the U.N. has.) 5) Rehabilitation for ecological disaster areas such as Lake Erie and Appalachian strip mine country. 6) Ecology Action-type groups, but only for services rendered. Do not fund them, do not tax them, do not pass laws about them. When they perform a service to Government, such as investigation of environmental crimes, pay them for the information. 7) Follow-up reports by independent groups of Federal actions affecting the environment. Do this as a built-in"
+    },
+    {
+      "line": 66,
+      "term": "ecology",
+      "snippet": "{ realize that practically none of the above are the province of an Education Subcommittee. John Holt has suggested that if we tried to teach infants to talk, they would never learn. | suspect it is the same with ecology. It must be learned. It is being learned. If you try to teach it to people, you will only teach them to hate it. Let it be. Gteva4 Brand Stewart Brand"
+    },
+    {
+      "line": 144,
+      "term": "tools",
+      "snippet": "In response to this dilemma and to these gains a realm of intimate, -power of the individua/ to conduct his Tools that atd this process are sought and promoted by the WHOLE EARTH CATALOG. SUSTAINING SUBSCRIBERS Julia Brand"
+    },
+    {
+      "line": 635,
+      "term": "ecology",
+      "snippet": "Corrections 8 Item related Information 10 Ecology 13 Land Ends 14 Shelter and Such 17 Tools and Techniques"
+    },
+    {
+      "line": 638,
+      "term": "tools",
+      "snippet": "13 Land Ends 14 Shelter and Such 17 Tools and Techniques 20 Food and Ways 23 The Whole Thing Catalog 31 Transformation Phase One 54 Whole Earth Truck Store"
+    },
+    {
+      "line": 824,
+      "term": "tools",
+      "snippet": "¢ Suggesting and Reviewing Production Our obligation is to CATALOG users and to ourselves to be good tools for one another. : Phyllis Grossman typographer The validity of the information in the CATALOG is only as Hal Hershey layout good as the transmitted experience of users. What would i sean aot"
+    },
+    {
+      "line": 1764,
+      "term": "tools",
+      "snippet": "cause we now perceive no way for our school to continue without Boffers; they have become indispensable. It is just plain NO FAIR to make indispensable tools that are not durable and/or cheap. Sara Miles Blauvelt, N.Y."
+    },
+    {
+      "line": 2064,
+      "term": "tools",
+      "snippet": "New York, N.Y. WHOLE EARTH CATALOG access [0 tools Burton D. Dolph, the signer of the form letter. Further: in the January 1969 issue of Consumers Reports, on page 48 Unity Buying Service is mentioned. A reader"
+    },
+    {
+      "line": 2123,
+      "term": "ecology",
+      "snippet": "See the subscription form (p. 54) for more on subscription rates. ALTERNATIVE ACTION Have heard a lot lately about ecology and pollution I offer you a few thoughts. A country pays out its ecology and resources in order to have industry and technology. An underdeveloped nation will generally"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "JULY"
+    },
+    {
+      "line": 2,
+      "text": "Pix. ?"
+    },
+    {
+      "line": 3,
+      "text": "Whole Earth Catalog"
+    },
+    {
+      "line": 5,
+      "text": "© & ro"
+    },
+    {
+      "line": 8,
+      "text": "Th pe EF BAR"
+    },
+    {
+      "line": 15,
+      "text": "Hon. John Brademas, Chairman"
+    },
+    {
+      "line": 16,
+      "text": "Committee on Education and Labor"
+    },
+    {
+      "line": 17,
+      "text": "Select Subcommittee on Education"
+    },
+    {
+      "line": 18,
+      "text": "U.S. House of Representatives"
+    },
+    {
+      "line": 19,
+      "text": "Washington, D.C. 20515"
+    },
+    {
+      "line": 22,
+      "text": "Sir:"
+    },
+    {
+      "line": 23,
+      "text": "Thank you for the opportunity to testify before your committee."
+    },
+    {
+      "line": 26,
+      "text": "| am delighted by the spirit behind your Environmental Quality Education Act (H.R. 14753) and depressed by every"
+    },
+    {
+      "line": 27,
+      "text": "measure in it."
+    },
+    {
+      "line": 30,
+      "text": "I'm a former ecology student, and | can report that ecology asa science is pretty boring. Definitely not for everyone."
+    },
+    {
+      "line": 31,
+      "text": "Ecology as a movement, as a religion, is tremendously exciting, and everyone can get a piece of the fervor."
+    },
+    {
+      "line": 34,
+      "text": "_ However, this voluntary mass education could be poisoned by Federal “help’’, as highly-intentional over-specialized"
+    },
+    {
+      "line": 35,
+      "text": "application of fertilizers and perticides has damaged other natural growth processes."
+    },
+    {
+      "line": 36,
+      "text": "In my experience, the whole apparatus of application, approval, and funding commonly introduces a dishonesty into"
+    },
+    {
+      "line": 37,
+      "text": "an operation that can never be eradicated. And if the operation is educational, dishonesty is the death of it."
+    },
+    {
+      "line": 40,
+      "text": "| see that the bill provides for preparing information specifically for mass media use. Involvement of Government"
+    },
+    {
+      "line": 41,
+      "text": "with mass communications in this manner strikes me as dangerous as re-joining Church and State."
+    },
+    {
+      "line": 42,
+      "text": "If Federal funds are to be spent on environmental matters, let them go to:"
+    },
+    {
+      "line": 43,
+      "text": "1) The space program which has given us the anti-environmental perspective to see our planet whole and"
+    },
+    {
+      "line": 44,
+      "text": "alive and in hazard."
+    },
+    {
+      "line": 45,
+      "text": "2) The World Game of Buckminster Fuller’s. This computer operation is planned to perform for the Earth"
+    },
+    {
+      "line": 46,
+      "text": "as NASA's computers did for Apollo 13. (Inventory resources, assess damage, compare alternative ‘’futures”"
+    },
+    {
+      "line": 47,
+      "text": "select the most promising, constantly.)"
+    },
+    {
+      "line": 48,
+      "text": "3) Contingency planning for environmental disasters comparable to long-range planning in the military."
+    },
+    {
+      "line": 49,
+      "text": "4) A “wet’’ NASA to investigate the sea and treat it like Antarctica, as a fragile, trans-national environment."
+    },
+    {
+      "line": 50,
+      "text": "(Use of the oceans must be governed from a strictly environmental standpoint by an international body with"
+    },
+    {
+      "line": 51,
+      "text": "a great deal more power to act than the U.N. has.)"
+    },
+    {
+      "line": 52,
+      "text": "5) Rehabilitation for ecological disaster areas such as Lake Erie and Appalachian strip mine country."
+    },
+    {
+      "line": 53,
+      "text": "6) Ecology Action-type groups, but only for services rendered. Do not fund them, do not tax them, do not"
+    },
+    {
+      "line": 54,
+      "text": "pass laws about them. When they perform a service to Government, such as investigation of environmental"
+    },
+    {
+      "line": 55,
+      "text": "crimes, pay them for the information."
+    },
+    {
+      "line": 56,
+      "text": "7) Follow-up reports by independent groups of Federal actions affecting the environment. Do this as a built-in"
+    },
+    {
+      "line": 57,
+      "text": "part of initia! funding. Appropriations for a dam or a war would include money to go the the National Science"
+    },
+    {
+      "line": 58,
+      "text": "Foundation or the Audubon Society or whoever to study the environmental effects of the project and report"
+    },
+    {
+      "line": 59,
+      "text": "on them."
+    }
+  ]
+}

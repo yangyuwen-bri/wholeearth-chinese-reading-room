@@ -1,0 +1,800 @@
+{
+  "title": "Signal: Communication Tools for the Information Age",
+  "identifier": "wholeearthcatalo00unse_2",
+  "year": 1988,
+  "season": "",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 236,
+  "url": "https://wholeearth.info/p/signal-communication-tools-for-the-information-age",
+  "archive_url": "https://archive.org/details/wholeearthcatalo00unse_2",
+  "pdf_url": "https://archive.org/download/wholeearthcatalo00unse_2/wholeearthcatalo00unse_2.pdf",
+  "cover_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthcatalo00unse_2_djvu.txt",
+  "ocr_chars": 1396420,
+  "significant_line_count": 34199,
+  "theme_counts": {
+    "software_computing": 1615,
+    "tools_craft": 606,
+    "ecology_place": 503,
+    "learning_media": 1611,
+    "community_politics": 1057
+  },
+  "top_themes": [
+    "software_computing",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 4312,
+      "page": 529,
+      "title": "HEM GET",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n530_w500.jpg"
+    },
+    {
+      "line": 4383,
+      "page": 389,
+      "title": "REM TRPUT WORDS",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n390_w500.jpg"
+    },
+    {
+      "line": 4389,
+      "page": 429,
+      "title": "BE CHECK BACH WORD",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n430_w500.jpg"
+    },
+    {
+      "line": 4424,
+      "page": 568,
+      "title": "REM END OF GAME",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n569_w500.jpg"
+    },
+    {
+      "line": 6021,
+      "page": 26,
+      "title": "WORDS",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n27_w500.jpg"
+    },
+    {
+      "line": 6458,
+      "page": 28,
+      "title": "WRITING",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n29_w500.jpg"
+    },
+    {
+      "line": 7057,
+      "page": 30,
+      "title": "WORD PROCESSORS",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n31_w500.jpg"
+    },
+    {
+      "line": 8694,
+      "page": 36,
+      "title": "OTHER LANGUAGES _",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n37_w500.jpg"
+    },
+    {
+      "line": 11415,
+      "page": 46,
+      "title": "INDEPENDENT SCHOLARSHIP",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n47_w500.jpg"
+    },
+    {
+      "line": 12114,
+      "page": 1,
+      "title": "ADV CANCER RES",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n2_w500.jpg"
+    },
+    {
+      "line": 12116,
+      "page": 2,
+      "title": "CANCER METAST REV",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n3_w500.jpg"
+    },
+    {
+      "line": 12132,
+      "page": 17,
+      "title": "CANCER IMMUNOL IMMUN",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n18_w500.jpg"
+    },
+    {
+      "line": 15099,
+      "page": 60,
+      "title": "BOOKMAKING",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n61_w500.jpg"
+    },
+    {
+      "line": 15650,
+      "page": 62,
+      "title": "INDEPENDENT PUBLISHING",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n63_w500.jpg"
+    },
+    {
+      "line": 16183,
+      "page": 64,
+      "title": "ALTERNATIVE PRINTING",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n65_w500.jpg"
+    },
+    {
+      "line": 17089,
+      "page": 68,
+      "title": "XEROX ART",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n69_w500.jpg"
+    },
+    {
+      "line": 18433,
+      "page": 74,
+      "title": "TELECONFERENCING",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n75_w500.jpg"
+    },
+    {
+      "line": 19518,
+      "page": 78,
+      "title": "SMART PHONES",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n79_w500.jpg"
+    },
+    {
+      "line": 20022,
+      "page": 80,
+      "title": "ON-LINE ACTIVISM",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n81_w500.jpg"
+    },
+    {
+      "line": 23160,
+      "page": 94,
+      "title": "VIDEO-BY-MAIL",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n95_w500.jpg"
+    },
+    {
+      "line": 23580,
+      "page": 96,
+      "title": "VIDEO MAKING",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n97_w500.jpg"
+    },
+    {
+      "line": 24037,
+      "page": 98,
+      "title": "CINEMATOGRAPHY",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n99_w500.jpg"
+    },
+    {
+      "line": 25738,
+      "page": 106,
+      "title": "ACTING",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n107_w500.jpg"
+    },
+    {
+      "line": 26221,
+      "page": 108,
+      "title": "DIRECTING",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_2/page/n109_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 4312,
+      "text": "529 HEM GET",
+      "score": 8
+    },
+    {
+      "line": 4383,
+      "text": "389 REM TRPUT WORDS",
+      "score": 8
+    },
+    {
+      "line": 4389,
+      "text": "429 BE CHECK BACH WORD",
+      "score": 8
+    },
+    {
+      "line": 4424,
+      "text": "568 REM END OF GAME",
+      "score": 8
+    },
+    {
+      "line": 6021,
+      "text": "26 WORDS",
+      "score": 8
+    },
+    {
+      "line": 6458,
+      "text": "28 WRITING",
+      "score": 8
+    },
+    {
+      "line": 7057,
+      "text": "30 WORD PROCESSORS",
+      "score": 8
+    },
+    {
+      "line": 11415,
+      "text": "46 INDEPENDENT SCHOLARSHIP",
+      "score": 8
+    },
+    {
+      "line": 12114,
+      "text": "1 ADV CANCER RES",
+      "score": 8
+    },
+    {
+      "line": 12116,
+      "text": "2 CANCER METAST REV",
+      "score": 8
+    },
+    {
+      "line": 12132,
+      "text": "17 CANCER IMMUNOL IMMUN",
+      "score": 8
+    },
+    {
+      "line": 14078,
+      "text": "36 NEWSLETTERS",
+      "score": 8
+    },
+    {
+      "line": 15099,
+      "text": "60 BOOKMAKING",
+      "score": 8
+    },
+    {
+      "line": 15650,
+      "text": "62 INDEPENDENT PUBLISHING",
+      "score": 8
+    },
+    {
+      "line": 16183,
+      "text": "64 ALTERNATIVE PRINTING",
+      "score": 8
+    },
+    {
+      "line": 17089,
+      "text": "68 XEROX ART",
+      "score": 8
+    },
+    {
+      "line": 18433,
+      "text": "74 TELECONFERENCING",
+      "score": 8
+    },
+    {
+      "line": 19518,
+      "text": "78 SMART PHONES",
+      "score": 8
+    },
+    {
+      "line": 20022,
+      "text": "80 ON-LINE ACTIVISM",
+      "score": 8
+    },
+    {
+      "line": 23160,
+      "text": "94 VIDEO-BY-MAIL",
+      "score": 8
+    },
+    {
+      "line": 23580,
+      "text": "96 VIDEO MAKING",
+      "score": 8
+    },
+    {
+      "line": 24037,
+      "text": "98 CINEMATOGRAPHY",
+      "score": 8
+    },
+    {
+      "line": 25738,
+      "text": "106 ACTING",
+      "score": 8
+    },
+    {
+      "line": 26221,
+      "text": "108 DIRECTING",
+      "score": 8
+    },
+    {
+      "line": 27904,
+      "text": "116 PUBLIC SPEAKING",
+      "score": 8
+    },
+    {
+      "line": 28993,
+      "text": "120 LISTENING SKILLS",
+      "score": 8
+    },
+    {
+      "line": 29561,
+      "text": "122 BOOKS ON TAPE",
+      "score": 8
+    },
+    {
+      "line": 30054,
+      "text": "124 MUSIC-BY-MAIL",
+      "score": 8
+    },
+    {
+      "line": 30555,
+      "text": "126 SAMPLERS",
+      "score": 8
+    },
+    {
+      "line": 31521,
+      "text": "130 EXPERIMENTAL MUSIC",
+      "score": 8
+    },
+    {
+      "line": 32358,
+      "text": "134 SOUND LIBRARIES",
+      "score": 8
+    },
+    {
+      "line": 32836,
+      "text": "136 VISUAL LANDSCAPE",
+      "score": 8
+    },
+    {
+      "line": 33983,
+      "text": "142 VISUAL THINKING",
+      "score": 8
+    },
+    {
+      "line": 35175,
+      "text": "148 COMPUTER GRAPHICS",
+      "score": 8
+    },
+    {
+      "line": 36228,
+      "text": "154 VISUAL HISTORY",
+      "score": 8
+    },
+    {
+      "line": 37410,
+      "text": "160 FINE PHOTOGRAPHY",
+      "score": 8
+    },
+    {
+      "line": 39334,
+      "text": "168 SOFTWARE",
+      "score": 8
+    },
+    {
+      "line": 39828,
+      "text": "170 COMPUTER NE",
+      "score": 8
+    },
+    {
+      "line": 41918,
+      "text": "178 ROBOTICS",
+      "score": 8
+    },
+    {
+      "line": 42452,
+      "text": "180 THE MEDIA LAB",
+      "score": 8
+    },
+    {
+      "line": 43562,
+      "text": "184 ELECTRONIC DEMOCRACY",
+      "score": 8
+    },
+    {
+      "line": 45475,
+      "text": "2 LEADERS DISCUSS",
+      "score": 8
+    },
+    {
+      "line": 45548,
+      "text": "50 CENTS",
+      "score": 8
+    },
+    {
+      "line": 46478,
+      "text": "196 COUNTERINTELLIGENCE METHODS",
+      "score": 8
+    },
+    {
+      "line": 47574,
+      "text": "200 INFORMATION TAKEOVER",
+      "score": 8
+    },
+    {
+      "line": 48713,
+      "text": "9 TELLIER TOLL",
+      "score": 8
+    },
+    {
+      "line": 50771,
+      "text": "212 CONSCIOUSNESS",
+      "score": 8
+    },
+    {
+      "line": 51141,
+      "text": "214 CREATIVITY",
+      "score": 8
+    },
+    {
+      "line": 51629,
+      "text": "216 DREAMWORK",
+      "score": 8
+    },
+    {
+      "line": 4799,
+      "text": "PROGRAMMING TOOLS 21",
+      "score": 6
+    },
+    {
+      "line": 10931,
+      "text": "ANCE PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 28275,
+      "text": "INTERVIEWING 117",
+      "score": 6
+    },
+    {
+      "line": 28918,
+      "text": "INTERVIEW INFORMATION FORM",
+      "score": 6
+    },
+    {
+      "line": 48879,
+      "text": "ECOLOGY OF MIND 205",
+      "score": 6
+    },
+    {
+      "line": 55125,
+      "text": "ISCIENCE/COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 4733,
+      "text": "interested in learning how to program for the",
+      "score": 5
+    },
+    {
+      "line": 8398,
+      "text": "TianMa program. Surrounding this review is the desktop screen of",
+      "score": 5
+    },
+    {
+      "line": 13633,
+      "text": "needed - just whatever communications program you",
+      "score": 5
+    },
+    {
+      "line": 16107,
+      "text": "in Broadcast Interview Source is now $135, there despite a bad review-f for",
+      "score": 5
+    },
+    {
+      "line": 39154,
+      "text": "communications program in one package.",
+      "score": 5
+    },
+    {
+      "line": 39625,
+      "text": "can print out and review the program itself and see how",
+      "score": 5
+    },
+    {
+      "line": 39681,
+      "text": "the program’s author. The 750 programs reviewed",
+      "score": 5
+    },
+    {
+      "line": 46,
+      "text": "SIGNAL",
+      "score": 4
+    },
+    {
+      "line": 55,
+      "text": "EDITED BY KEVIN KELLY",
+      "score": 4
+    },
+    {
+      "line": 61,
+      "text": "HARMONY BOOKS",
+      "score": 4
+    },
+    {
+      "line": 164,
+      "text": "POINT",
+      "score": 4
+    },
+    {
+      "line": 248,
+      "text": "TK5103.S49 1988 621.38'0294 = 88-13165",
+      "score": 4
+    },
+    {
+      "line": 265,
+      "text": "PRIME INFORMATION",
+      "score": 4
+    },
+    {
+      "line": 292,
+      "text": "THE ORDER OF",
+      "score": 4
+    },
+    {
+      "line": 293,
+      "text": "LANGUAGES",
+      "score": 4
+    },
+    {
+      "line": 328,
+      "text": "PUBLISHING FRONTIERS",
+      "score": 4
+    },
+    {
+      "line": 377,
+      "text": "NETWORK SOCIETIES",
+      "score": 4
+    },
+    {
+      "line": 430,
+      "text": "BODILY",
+      "score": 4
+    },
+    {
+      "line": 431,
+      "text": "COMMUNICATION",
+      "score": 4
+    },
+    {
+      "line": 472,
+      "text": "THE AUDIBLE SIGNAL",
+      "score": 4
+    },
+    {
+      "line": 529,
+      "text": "VISUAL KNOWLEDGE",
+      "score": 4
+    },
+    {
+      "line": 593,
+      "text": "DIGITAL THINKING",
+      "score": 4
+    },
+    {
+      "line": 604,
+      "text": "CD-ROM",
+      "score": 4
+    },
+    {
+      "line": 635,
+      "text": "INFORMATION CIVICS",
+      "score": 4
+    },
+    {
+      "line": 672,
+      "text": "MIND CIRCUITS",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 6,
+      "term": "software",
+      "snippet": "‘Shareware « Used Computg * Word Processors ¢ Paint Software | Comics Maps Pirate Radio"
+    },
+    {
+      "line": 49,
+      "term": "tools",
+      "snippet": "https://archive.org/details/wholeearthcatalo0Ounse_ 2 3 SIGNAL Communication Tools for the Information Age EDITED BY KEVIN KELLY A Whole Earth Cataldg"
+    },
+    {
+      "line": 213,
+      "term": "tools",
+      "snippet": "Kevin Kelly SIGNAL Communication Tools for the Information Age All rights reserved. No part of this book may be reproduced or transmitted in any form or by any means, electronic or mechanical, including"
+    },
+    {
+      "line": 272,
+      "term": "whole systems",
+      "snippet": "Information Theory Cybernetics Whole Systems Self-Organizing Systems Cellular Automata Chaos"
+    },
+    {
+      "line": 296,
+      "term": "programming",
+      "snippet": "THE ORDER OF LANGUAGES Programming Languages Programming Tools Software Architecture Hackers"
+    },
+    {
+      "line": 297,
+      "term": "programming",
+      "snippet": "LANGUAGES Programming Languages Programming Tools Software Architecture Hackers Math"
+    },
+    {
+      "line": 298,
+      "term": "software",
+      "snippet": "Programming Languages Programming Tools Software Architecture Hackers Math Statistics"
+    },
+    {
+      "line": 311,
+      "term": "tools",
+      "snippet": "Semantics Writing Writing Tools Word Processors Document Processors Typography"
+    },
+    {
+      "line": 344,
+      "term": "tools",
+      "snippet": "Investigative Journalism Independent Scholarship Reference Tools Specialty Libraries Information Brokering On-line Searching"
+    },
+    {
+      "line": 402,
+      "term": "communications",
+      "snippet": "On-line Activism Video-Teleconferencing Global Communications Information Highways World Information Economy Packet Radio"
+    },
+    {
+      "line": 501,
+      "term": "interview",
+      "snippet": "Voicing Public Speaking Interviewing Storytelling Oral History Listening Skills"
+    },
+    {
+      "line": 518,
+      "term": "software",
+      "snippet": "Samplers Synthesizers Music Software Home Recording Experimental Music Music Theory"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Home Recording « Sound Landsca"
+    },
+    {
+      "line": 2,
+      "text": "‘Shareware « Used Computg"
+    },
+    {
+      "line": 4,
+      "text": "* Word Processors ¢"
+    },
+    {
+      "line": 6,
+      "text": "Paint Software"
+    },
+    {
+      "line": 9,
+      "text": "| Comics"
+    },
+    {
+      "line": 12,
+      "text": "Maps"
+    },
+    {
+      "line": 13,
+      "text": "Pirate Radio"
+    },
+    {
+      "line": 14,
+      "text": "Xerox and Mail Art"
+    },
+    {
+      "line": 17,
+      "text": "Visual Thinking « Censors"
+    },
+    {
+      "line": 20,
+      "text": "¢ World Information Economy Zz . Media Rooms ¢ Urban Legend:"
+    },
+    {
+      "line": 23,
+      "text": "‘Cassette Culture"
+    },
+    {
+      "line": 29,
+      "text": "Hypercard @ Cybe"
+    },
+    {
+      "line": 32,
+      "text": "Artificial cid Drea"
+    },
+    {
+      "line": 35,
+      "text": "Life"
+    },
+    {
+      "line": 39,
+      "text": "in 2023 with funding trom"
+    },
+    {
+      "line": 40,
+      "text": "Gray Area"
+    },
+    {
+      "line": 43,
+      "text": "https://archive.org/details/wholeearthcatalo0Ounse_ 2 3"
+    },
+    {
+      "line": 46,
+      "text": "SIGNAL"
+    },
+    {
+      "line": 49,
+      "text": "Communication Tools for the"
+    },
+    {
+      "line": 52,
+      "text": "Information Age"
+    },
+    {
+      "line": 55,
+      "text": "EDITED BY KEVIN KELLY"
+    },
+    {
+      "line": 58,
+      "text": "A Whole Earth Cataldg"
+    },
+    {
+      "line": 61,
+      "text": "HARMONY BOOKS"
+    },
+    {
+      "line": 64,
+      "text": "Staff gathered on deck, with"
+    },
+    {
+      "line": 65,
+      "text": "two weeks to go ‘till deadline."
+    },
+    {
+      "line": 66,
+      "text": "Starting with the front row, left"
+    },
+    {
+      "line": 67,
+      "text": "to right: Sally, office dog; Don"
+    },
+    {
+      "line": 68,
+      "text": "Ryan, usually at the other end"
+    },
+    {
+      "line": 69,
+      "text": "of the camera; Susan Erke!"
+    },
+    {
+      "line": 70,
+      "text": "Ryan, resting for a change;"
+    },
+    {
+      "line": 71,
+      "text": "Laura Benne, paste-up"
+    },
+    {
+      "line": 72,
+      "text": "freelancer; Corinne Cullen"
+    },
+    {
+      "line": 73,
+      "text": "Hawkins, researcher on loan"
+    },
+    {
+      "line": 74,
+      "text": "from Whole Earth Review;"
+    },
+    {
+      "line": 75,
+      "text": "Richard Kadrey, with sun-"
+    },
+    {
+      "line": 76,
+      "text": "glasses and smirk. In the back"
+    },
+    {
+      "line": 77,
+      "text": "row, same direction: Kevin"
+    },
+    {
+      "line": 78,
+      "text": "Kelly, smiling foolishly (the"
+    },
+    {
+      "line": 79,
+      "text": "book is late); Sally, a.ka."
+    },
+    {
+      "line": 80,
+      "text": "Sarah, Vandershaf, smiling"
+    }
+  ]
+}

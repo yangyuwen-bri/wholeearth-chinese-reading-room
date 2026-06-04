@@ -1,0 +1,668 @@
+{
+  "title": "Whole Earth Review, Winter 1994",
+  "identifier": "wholeearthreview00unse_39",
+  "year": 1994,
+  "season": "Winter",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 133,
+  "url": "https://wholeearth.info/p/whole-earth-review-winter-1994",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_39",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_39/wholeearthreview00unse_39.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_39/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthreview00unse_39_djvu.txt",
+  "ocr_chars": 510750,
+  "significant_line_count": 13701,
+  "theme_counts": {
+    "software_computing": 87,
+    "tools_craft": 262,
+    "ecology_place": 482,
+    "learning_media": 350,
+    "community_politics": 300
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 1932,
+      "page": 596,
+      "title": "WHOLE EARTH REVIEW WINTER 1994",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_39/page/n597_w500.jpg"
+    },
+    {
+      "line": 3991,
+      "page": 78,
+      "title": "SELFSES TE RALOMA",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_39/page/n79_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 1932,
+      "text": "596 WHOLE EARTH REVIEW WINTER 1994",
+      "score": 10
+    },
+    {
+      "line": 3991,
+      "text": "78 SELFSES TE RALOMA",
+      "score": 8
+    },
+    {
+      "line": 121,
+      "text": "WHOLE SYSTEMS |",
+      "score": 6
+    },
+    {
+      "line": 131,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 152,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 303,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 5x8",
+      "score": 6
+    },
+    {
+      "line": 369,
+      "text": "WHOLE EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 644,
+      "text": "ae WHOLE EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 864,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 98",
+      "score": 6
+    },
+    {
+      "line": 1231,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 | BS",
+      "score": 6
+    },
+    {
+      "line": 1519,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 { 3a",
+      "score": 6
+    },
+    {
+      "line": 2126,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 i 79",
+      "score": 6
+    },
+    {
+      "line": 2186,
+      "text": "a wie EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 2500,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 : 98",
+      "score": 6
+    },
+    {
+      "line": 3533,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 259",
+      "score": 6
+    },
+    {
+      "line": 4040,
+      "text": "ae Bale EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 4398,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 3 Re)",
+      "score": 6
+    },
+    {
+      "line": 4697,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 339",
+      "score": 6
+    },
+    {
+      "line": 4811,
+      "text": "£3 WHOLE EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 4974,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 35:",
+      "score": 6
+    },
+    {
+      "line": 5058,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 379",
+      "score": 6
+    },
+    {
+      "line": 5953,
+      "text": "Ea , 2 WHOLE EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 6560,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 45:",
+      "score": 6
+    },
+    {
+      "line": 6722,
+      "text": "x ee EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 6863,
+      "text": "WHOLE EARTH REVIEW. WINTER 1994 ATS",
+      "score": 6
+    },
+    {
+      "line": 6984,
+      "text": "x, WHOLE EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 7137,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 4 ‘",
+      "score": 6
+    },
+    {
+      "line": 7238,
+      "text": "ee WHOLE EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 7836,
+      "text": "8H Wuoee EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 8138,
+      "text": "AN INTERVIEW WITH",
+      "score": 6
+    },
+    {
+      "line": 9369,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 6 [2",
+      "score": 6
+    },
+    {
+      "line": 10302,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 679",
+      "score": 6
+    },
+    {
+      "line": 10555,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 69:",
+      "score": 6
+    },
+    {
+      "line": 10581,
+      "text": "a WHOLE EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 10783,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 7 cs",
+      "score": 6
+    },
+    {
+      "line": 11240,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 73:",
+      "score": 6
+    },
+    {
+      "line": 11573,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 75:",
+      "score": 6
+    },
+    {
+      "line": 11679,
+      "text": "ay WHOLE EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 11800,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 73 y",
+      "score": 6
+    },
+    {
+      "line": 12414,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 8 [4",
+      "score": 6
+    },
+    {
+      "line": 12520,
+      "text": "ie WHOLE EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 12823,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 839",
+      "score": 6
+    },
+    {
+      "line": 12889,
+      "text": "ae yah EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 13106,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 8 7",
+      "score": 6
+    },
+    {
+      "line": 13438,
+      "text": ": 8 ners EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 13754,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 9 [i",
+      "score": 6
+    },
+    {
+      "line": 13855,
+      "text": "Re WHOLE EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 13949,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 939",
+      "score": 6
+    },
+    {
+      "line": 14068,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 95:",
+      "score": 6
+    },
+    {
+      "line": 14222,
+      "text": "ae 6 yes EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 14467,
+      "text": "WHOLE EARTH REVIEW. WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 14791,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 9 ‘",
+      "score": 6
+    },
+    {
+      "line": 14888,
+      "text": "ae 0 WHOLE EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 15844,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 | 074",
+      "score": 6
+    },
+    {
+      "line": 16081,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 | 0 ¥",
+      "score": 6
+    },
+    {
+      "line": 16445,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 { i ES",
+      "score": 6
+    },
+    {
+      "line": 16804,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 | i ¥",
+      "score": 6
+    },
+    {
+      "line": 16994,
+      "text": "i WHOLE EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 17409,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 i | F:",
+      "score": 6
+    },
+    {
+      "line": 17909,
+      "text": "MOLE EARTH REVIEW, WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 18503,
+      "text": "a ID? B Maetes EARTH REVIEW WINTER 1994",
+      "score": 6
+    },
+    {
+      "line": 19078,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 i 239",
+      "score": 6
+    },
+    {
+      "line": 19516,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 ; 2 y",
+      "score": 6
+    },
+    {
+      "line": 20094,
+      "text": "WHOLE EARTH REVIEW WINTER 1994 | 2 » »",
+      "score": 6
+    },
+    {
+      "line": 2473,
+      "text": "energy-efficiency programs.",
+      "score": 5
+    },
+    {
+      "line": 38,
+      "text": "PASSIONATE ue «",
+      "score": 4
+    },
+    {
+      "line": 74,
+      "text": "NUMBER 84 WINTER 1994",
+      "score": 4
+    },
+    {
+      "line": 118,
+      "text": "OF CON TEN Is",
+      "score": 4
+    },
+    {
+      "line": 141,
+      "text": "LIVELIHOOD",
+      "score": 4
+    },
+    {
+      "line": 158,
+      "text": "NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 172,
+      "text": "USING TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 182,
+      "text": "OTHERMATTER",
+      "score": 4
+    },
+    {
+      "line": 201,
+      "text": "ORGANISM",
+      "score": 4
+    },
+    {
+      "line": 218,
+      "text": "BY PETERIWARSHALD",
+      "score": 4
+    },
+    {
+      "line": 254,
+      "text": "PA ASTEE",
+      "score": 4
+    },
+    {
+      "line": 304,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 800/938-6657 Ra",
+      "score": 4
+    },
+    {
+      "line": 370,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 800/938-6657",
+      "score": 4
+    },
+    {
+      "line": 645,
+      "text": "ae 27 GATE FIVE ROAD SAUSALITO, CA 94965 800/938-6657",
+      "score": 4
+    },
+    {
+      "line": 648,
+      "text": "SURES",
+      "score": 4
+    },
+    {
+      "line": 865,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 800/938-6657 eae",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 88,
+      "term": "interview",
+      "snippet": "Boundaries and the love of edges. Plan For Improvisation SSCHSHSHSSSSHSSHSSSHSHSHSSSSSSHSHHSSSHSHSHSHSSHSSHSSHSSHSHSHSHSHSSHSHSHSHSHSSHSSHSSHHSSHSHSHSSSSSESSOOSES 36 Interview with Pete Seeger by Gaetano Kazuo Maida. oOmynwa CcCxHpmin The View Fromm Ninety 253iie.cco er eireccressveseperetscotenecunscencensnevscevsagecsnssonsusertsnnecsesaets 54 Interview with Helen Nearing by Tami Simon."
+    },
+    {
+      "line": 95,
+      "term": "interview",
+      "snippet": "oOmynwa CcCxHpmin The View Fromm Ninety 253iie.cco er eireccressveseperetscotenecunscencensnevscevsagecsnssonsusertsnnecsesaets 54 Interview with Helen Nearing by Tami Simon. Japan at Random °¢ David Chadwick ..0......ccscssssssesssssssssessssesssseessssessssees red. 70 A whirlwind tour with the Zen Failure. Whole Earth Review No. 84 * November |, 1994 * ISSN 0749-5056; USPS 077-150. Published by POINT, a California nonprofit corporation."
+    },
+    {
+      "line": 121,
+      "term": "whole systems",
+      "snippet": "POSTMASTER: Send address changes to Whole Earth Review, PO Box 38, Sausalito, CA 94966 PRINTED IN USA OF CON TEN Is WHOLE SYSTEMS | Complex interactions 4 Mutual Life by Peter Warshall 16 Greenhouse 101 by Ariel Sabar"
+    },
+    {
+      "line": 131,
+      "term": "learning",
+      "snippet": "4 Mutual Life by Peter Warshall 16 Greenhouse 101 by Ariel Sabar LEARNING Fd Challenging assumptions 22 Landing by Richard Strozzi Heckler 30 Is the Universe Alive? by John Gribbin |"
+    },
+    {
+      "line": 148,
+      "term": "interview",
+      "snippet": "Meaningful work 36 Plan for Improvisation: Interview with Pete Seeger by Gaetano Kazuo Maida COMMUNITY 54 The View From Ninety: -"
+    },
+    {
+      "line": 152,
+      "term": "community",
+      "snippet": "Interview with Pete Seeger by Gaetano Kazuo Maida COMMUNITY 54 The View From Ninety: - Interview with Helen Nearing by TamiSimor"
+    },
+    {
+      "line": 154,
+      "term": "interview",
+      "snippet": "COMMUNITY 54 The View From Ninety: - Interview with Helen Nearing by TamiSimor NOMADICS Japan at random!"
+    },
+    {
+      "line": 251,
+      "term": "whole systems",
+      "snippet": "(1993; $5 postpaid from Greenpeace, 568 Howard, San Francisco, CA 94105) for quotes and references. Whole Systems PA ASTEE EMEMBER THE GARDEN OF EDEN, a peaceable kingdom. The lion lived with the lamb. There were two forbid-"
+    },
+    {
+      "line": 918,
+      "term": "ecology",
+      "snippet": "a life has a non-consumptive-use value (be it from love or beauty or an understanding of ecology) are there any financial guidelines? Actually, your life value in today’s America is based on your dispos-"
+    },
+    {
+      "line": 1278,
+      "term": "learning",
+      "snippet": "sippi floods, government insurance programs are slowly going broke, slowly learning that rather than pay again and again, it might be less costly to move homes (and even whole towns) out of the floodplain"
+    },
+    {
+      "line": 1503,
+      "term": "ecology",
+      "snippet": "ous coasts, and lobby to eliminate home property damage insurance by public or private sector in geohazardous and coastal areas. Sensible bioregional land use planning will re- sult. Include ecology in the insurance policy regulations (e.g., preventative burns). * Change all policy contracts to include a “green audit.” Include an environmental-educa- tion pamphlet for all insurance policies. If the claim is based on poor planning for envi- ronmental hazards, then the policy can be cancelled. Educate investigators (on such"
+    },
+    {
+      "line": 1639,
+      "term": "tools",
+      "snippet": "With international relations as a conflict model, the authors provide checklists, analytic tools, and plans of action to help view disputes from new psychologi- cal vantage points. The book stresses process."
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Pete Seeger © Mayumi Oda *Howard Rheingold ¢ Helen Nearing © Peter Warsha"
+    },
+    {
+      "line": 4,
+      "text": "The compelling image on"
+    },
+    {
+      "line": 5,
+      "text": "the cover was created by a"
+    },
+    {
+      "line": 6,
+      "text": "company called IMAGIC,"
+    },
+    {
+      "line": 7,
+      "text": "using Quantel Graphic"
+    },
+    {
+      "line": 10,
+      "text": "Paintbox. These images show"
+    },
+    {
+      "line": 13,
+      "text": "the process of composing"
+    },
+    {
+      "line": 14,
+      "text": "with this innovative technol-"
+    },
+    {
+      "line": 15,
+      "text": "ogy. IMAGIC can be reached"
+    },
+    {
+      "line": 16,
+      "text": "at 415/834-9080 and"
+    },
+    {
+      "line": 20,
+      "text": "| hie ye got it in OuF crembling lircle hands. I C 3 AE) oo a 7 ,"
+    },
+    {
+      "line": 23,
+      "text": "And WE barns (0 pene it to you:"
+    },
+    {
+      "line": 32,
+      "text": "| isan athazils,"
+    },
+    {
+      "line": 35,
+      "text": "THE MILLENNIUM Wiel: EARTH a tiNloe"
+    },
+    {
+      "line": 38,
+      "text": "PASSIONATE ue «"
+    },
+    {
+      "line": 39,
+      "text": "a TOD iS PL ale ideas,"
+    },
+    {
+      "line": 43,
+      "text": "you'll need in the next |"
+    },
+    {
+      "line": 46,
+      "text": "tear"
+    },
+    {
+      "line": 49,
+      "text": "With nea 400 pages of"
+    },
+    {
+      "line": 52,
+      "text": "sractical knowledge"
+    },
+    {
+      "line": 55,
+      "text": "that you can use every day,"
+    },
+    {
+      "line": 58,
+      "text": "| it’s the latest and best ofa"
+    },
+    {
+      "line": 59,
+      "text": "| | | $30 poste :"
+    },
+    {
+      "line": 60,
+      "text": "at tradition. . With a one-year subscription :"
+    },
+    {
+      "line": 64,
+      "text": "| gre"
+    },
+    {
+      "line": 65,
+      "text": "‘to Whole Earth Review:"
+    },
+    {
+      "line": 66,
+      "text": "| $50 postpaid. * 4"
+    },
+    {
+      "line": 67,
+      "text": "_ * US orders only. CA residents: |"
+    },
+    {
+      "line": 68,
+      "text": "_ please add $2.18 tax."
+    },
+    {
+      "line": 74,
+      "text": "NUMBER 84 WINTER 1994"
+    },
+    {
+      "line": 77,
+      "text": "Mutual Life * Peter Warshall ......::"
+    },
+    {
+      "line": 80,
+      "text": "A biologist deconstructs the insurance industry."
+    },
+    {
+      "line": 81,
+      "text": "Greenhouse I01 ¢ Ariel Sabar ou... ccscseseseseseeees peat a Oe ae"
+    },
+    {
+      "line": 82,
+      "text": "Greenpeace drafts insurers to fight global warming."
+    },
+    {
+      "line": 83,
+      "text": "Landing ¢ Richard Strozzi Heckler ou. esssssssssssssssescsssssssssssessssssssssssesssnes 22"
+    },
+    {
+      "line": 84,
+      "text": "Boundaries and the love of edges."
+    },
+    {
+      "line": 87,
+      "text": "Plan For Improvisation SSCHSHSHSSSSHSSHSSSHSHSHSSSSSSHSHHSSSHSHSHSHSSHSSHSSHSSHSHSHSHSHSSHSHSHSHSHSSHSSHSSHHSSHSHSHSSSSSESSOOSES 36"
+    },
+    {
+      "line": 88,
+      "text": "Interview with Pete Seeger by Gaetano Kazuo Maida."
+    },
+    {
+      "line": 91,
+      "text": "oOmynwa CcCxHpmin"
+    },
+    {
+      "line": 94,
+      "text": "The View Fromm Ninety 253iie.cco er eireccressveseperetscotenecunscencensnevscevsagecsnssonsusertsnnecsesaets 54"
+    }
+  ]
+}

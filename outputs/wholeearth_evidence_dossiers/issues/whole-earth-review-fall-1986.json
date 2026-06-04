@@ -1,0 +1,680 @@
+{
+  "title": "Whole Earth Review, Fall 1986",
+  "identifier": "wholeearthreview00unse_7",
+  "year": 1986,
+  "season": "Fall",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/whole-earth-review-fall-1986",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_7",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_7/wholeearthreview00unse_7.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_7/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthreview00unse_7_djvu.txt",
+  "ocr_chars": 621205,
+  "significant_line_count": 14680,
+  "theme_counts": {
+    "software_computing": 101,
+    "tools_craft": 141,
+    "ecology_place": 364,
+    "learning_media": 422,
+    "community_politics": 315
+  },
+  "top_themes": [
+    "learning_media",
+    "ecology_place",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 491,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO CA 94965",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_7/page/n28_w500.jpg"
+    },
+    {
+      "line": 5742,
+      "page": 44,
+      "title": "WHOLE EARTH REVIEW FALL 1986",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_7/page/n45_w500.jpg"
+    },
+    {
+      "line": 12352,
+      "page": 90,
+      "title": "WHOLE EARTH REVIEW FALL 1986",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_7/page/n91_w500.jpg"
+    },
+    {
+      "line": 14029,
+      "page": 17,
+      "title": "GATE FIVE ROAD SAUSALITO CA 94965",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_7/page/n18_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 5742,
+      "text": "44 WHOLE EARTH REVIEW FALL 1986",
+      "score": 10
+    },
+    {
+      "line": 12352,
+      "text": "90 WHOLE EARTH REVIEW FALL 1986",
+      "score": 10
+    },
+    {
+      "line": 491,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 12015,
+      "text": "27 GATE FIVE ROAD SAUSALITO CA 94965 87",
+      "score": 8
+    },
+    {
+      "line": 14029,
+      "text": "17 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 193,
+      "text": "DEPARTMENTS/REVIEWS",
+      "score": 6
+    },
+    {
+      "line": 249,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 284,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 291,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 323,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 624,
+      "text": "WHOLE EARTH REVIEW FALL 1986",
+      "score": 6
+    },
+    {
+      "line": 1437,
+      "text": "WHOLE EARTH REVIEW FALL ‘1986",
+      "score": 6
+    },
+    {
+      "line": 2100,
+      "text": "WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 3550,
+      "text": "WHOLE EARTH REVIEW FALL -1986",
+      "score": 6
+    },
+    {
+      "line": 3759,
+      "text": "30 ; . WHOLE EARTH REVIEW FALL 1986",
+      "score": 6
+    },
+    {
+      "line": 4009,
+      "text": "WHOLE EARTH REVIEW = FALL ‘1986",
+      "score": 6
+    },
+    {
+      "line": 15399,
+      "text": "___COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 18178,
+      "text": "WHOLE EARTH REVIEW ~ FALL 1986",
+      "score": 6
+    },
+    {
+      "line": 20974,
+      "text": "DIRECTOR OF PROGRAMMING - New York",
+      "score": 6
+    },
+    {
+      "line": 21438,
+      "text": "Send to: WHOLE EARTH REVIEW",
+      "score": 6
+    },
+    {
+      "line": 1,
+      "text": "THE FRINGES",
+      "score": 4
+    },
+    {
+      "line": 28,
+      "text": "CTP POCkLx)",
+      "score": 4
+    },
+    {
+      "line": 32,
+      "text": "POOR DOP Pies «>",
+      "score": 4
+    },
+    {
+      "line": 35,
+      "text": "+ LOI",
+      "score": 4
+    },
+    {
+      "line": 38,
+      "text": "FRINGES",
+      "score": 4
+    },
+    {
+      "line": 41,
+      "text": "OF REASON",
+      "score": 4
+    },
+    {
+      "line": 87,
+      "text": "WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 196,
+      "text": "SPECIAL SECTION",
+      "score": 4
+    },
+    {
+      "line": 295,
+      "text": "POLITICS",
+      "score": 4
+    },
+    {
+      "line": 305,
+      "text": "HEALTH",
+      "score": 4
+    },
+    {
+      "line": 327,
+      "text": "LAND USE",
+      "score": 4
+    },
+    {
+      "line": 331,
+      "text": "BACKSCATTER",
+      "score": 4
+    },
+    {
+      "line": 335,
+      "text": "GATE FIVE ROAD",
+      "score": 4
+    },
+    {
+      "line": 746,
+      "text": "THE CASE OF ILGA K.",
+      "score": 4
+    },
+    {
+      "line": 988,
+      "text": "THE FACE ON MARS",
+      "score": 4
+    },
+    {
+      "line": 1068,
+      "text": "TAP Oe",
+      "score": 4
+    },
+    {
+      "line": 1298,
+      "text": "VON DANIKEN DEBUNKS VON DANIKEN",
+      "score": 4
+    },
+    {
+      "line": 1693,
+      "text": "REAGAN AND ASTROLOGY",
+      "score": 4
+    },
+    {
+      "line": 1782,
+      "text": "SCRUTINIZING",
+      "score": 4
+    },
+    {
+      "line": 1784,
+      "text": "PARANORMAL",
+      "score": 4
+    },
+    {
+      "line": 2097,
+      "text": "FALL 1986",
+      "score": 4
+    },
+    {
+      "line": 3253,
+      "text": "© EVEN CONE ar",
+      "score": 4
+    },
+    {
+      "line": 3715,
+      "text": "A CRITICAL LOOK AT CRITICAL MASS -",
+      "score": 4
+    },
+    {
+      "line": 3818,
+      "text": "PSEUDOSCIENCE, SCIENCE, AND",
+      "score": 4
+    },
+    {
+      "line": 3819,
+      "text": "AMBIVALENCE",
+      "score": 4
+    },
+    {
+      "line": 4057,
+      "text": "GOOD MYTHS AND BAD MYTHS",
+      "score": 4
+    },
+    {
+      "line": 4216,
+      "text": "THE HUNDREDTH MONKEY: A SELECTED BIBLIOGRAPHY",
+      "score": 4
+    },
+    {
+      "line": 4231,
+      "text": "CA 90042).",
+      "score": 4
+    },
+    {
+      "line": 4979,
+      "text": "La AW To BL",
+      "score": 4
+    },
+    {
+      "line": 5668,
+      "text": "SERENE OE EER",
+      "score": 4
+    },
+    {
+      "line": 6247,
+      "text": "Sy MeN ATI MEG,",
+      "score": 4
+    },
+    {
+      "line": 6284,
+      "text": "___ONE INCH",
+      "score": 4
+    },
+    {
+      "line": 6292,
+      "text": "(GWP4)",
+      "score": 4
+    },
+    {
+      "line": 6550,
+      "text": "U.K., 2:137, 1977.",
+      "score": 4
+    },
+    {
+      "line": 6572,
+      "text": "U.K., 4:58, 1979.",
+      "score": 4
+    },
+    {
+      "line": 7120,
+      "text": "SPT BROT >",
+      "score": 4
+    },
+    {
+      "line": 7163,
+      "text": "NORTH AMERICAS‘SS “BIGFOOT” WAS NOTHING",
+      "score": 4
+    },
+    {
+      "line": 7196,
+      "text": "ES Nf",
+      "score": 4
+    },
+    {
+      "line": 7260,
+      "text": "Hi, SE ° °",
+      "score": 4
+    },
+    {
+      "line": 7805,
+      "text": "| THEE WEN /",
+      "score": 4
+    },
+    {
+      "line": 8068,
+      "text": "FOLK CONCEPTS OF OUTER SPACE",
+      "score": 4
+    },
+    {
+      "line": 8724,
+      "text": "UFO’s:",
+      "score": 4
+    },
+    {
+      "line": 9310,
+      "text": "SORRY--",
+      "score": 4
+    },
+    {
+      "line": 9312,
+      "text": "Soy,( DO FORKS!",
+      "score": 4
+    },
+    {
+      "line": 9596,
+      "text": "COSMIC TRUTH",
+      "score": 4
+    },
+    {
+      "line": 9599,
+      "text": "-BY MAIL\"",
+      "score": 4
+    },
+    {
+      "line": 9603,
+      "text": "MYSTIC KNOWLEDGE, MIRACULOUS",
+      "score": 4
+    },
+    {
+      "line": 9604,
+      "text": "INVENTIONS & CONTACT WITH",
+      "score": 4
+    },
+    {
+      "line": 9605,
+      "text": "THE SPACE BROTHERS",
+      "score": 4
+    },
+    {
+      "line": 9627,
+      "text": "Then ... HAVE WE GOT A HOBBY FOR YOU!!",
+      "score": 4
+    },
+    {
+      "line": 9715,
+      "text": "COVERIES to an UNCOMPREHENDING, and,",
+      "score": 4
+    },
+    {
+      "line": 9740,
+      "text": "WEIRD",
+      "score": 4
+    },
+    {
+      "line": 9741,
+      "text": "SCIENCE",
+      "score": 4
+    },
+    {
+      "line": 9747,
+      "text": "... AND IT'S ALSO FLAT!",
+      "score": 4
+    },
+    {
+      "line": 9767,
+      "text": "HELPFUL HINTS:",
+      "score": 4
+    },
+    {
+      "line": 9798,
+      "text": "THE EARTH IS THE CENTER",
+      "score": 4
+    },
+    {
+      "line": 9799,
+      "text": "OF THE UNIVERSE!",
+      "score": 4
+    },
+    {
+      "line": 9848,
+      "text": "TIME CAMERAS!",
+      "score": 4
+    },
+    {
+      "line": 9849,
+      "text": "ANTIGRAVITY DEVICES!",
+      "score": 4
+    },
+    {
+      "line": 9850,
+      "text": "4 SALE CHEAP!",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 249,
+      "term": "communications",
+      "snippet": "The Book of the SubGenius O The Stark Fist of Removal COMMUNICATIONS 93 Do Tabloids Turn Housewives Into Zombies? by Michael H. Randall The New Comics"
+    },
+    {
+      "line": 284,
+      "term": "community",
+      "snippet": "O Arrows of Desire 105 Incredibly Strange Films 0 Talking Pictures COMMUNITY 113 In Celebration of Ourselves O Sustainable Communities WHOLE SYSTEMS"
+    },
+    {
+      "line": 291,
+      "term": "whole systems",
+      "snippet": "113 In Celebration of Ourselves O Sustainable Communities WHOLE SYSTEMS 114 Tropical Rainforests 0 Biophilia POLITICS 115 With the Contras"
+    },
+    {
+      "line": 323,
+      "term": "learning",
+      "snippet": "120 Self-Hypnosis Cassette Tapes by Rebecca Wilson LEARNING 121 The Shape of Space 0 Gnosis 122 Fireworks: Beyond the Spectator Sport by Peter J. Sabatini, Jr."
+    },
+    {
+      "line": 538,
+      "term": "interview",
+      "snippet": "provement on that of my grandfather's. Still, I'm ready for the day when UFO creatures land on the White House lawn and are interviewed by Dan Rather, or when one single psychic somewhere can predict the future or reliably levitate paper clips so that anyone can see it’s so. In the meantime,"
+    },
+    {
+      "line": 646,
+      "term": "community",
+      "snippet": "in many ways by New Age theorists. The Amazing Randi is strongly disliked by the modern parapsy- chological community, and quite unwelcome at psychic demonstrations because of this ‘skeptics effect.’’ A simpler explanation for why something isn’t there when you look carefully is that it isn’t"
+    },
+    {
+      "line": 1514,
+      "term": "energy",
+      "snippet": "In the New Age, the inventions of basement cranks can mean big money. The slick and glossy catalog from Supersensonic Energy Technologies of Boulder Creek, . California, reads like a ‘Sharper Image”’ for yuppie occultists. Their Pi-Ray Coffer (above left) is supposed to ‘amplify the Pi-Ray field and filter out the negative"
+    },
+    {
+      "line": 1529,
+      "term": "energy",
+      "snippet": "for you for only $99.95. The Supersensonic Extractor Sink (below) ‘‘amplifies the natural process of excreting residual toxic vibrations through your subtle energy field.’’ Price: $249.95. so?’’ more roundly attacked, and its replacement, “If it feels good, it must be right,’’ more self-"
+    },
+    {
+      "line": 1539,
+      "term": "energy",
+      "snippet": "| believe this paradigm has served us poorly. It has led countless good people to squander years of their brilliance and energy on shabby falsehoods. It has been responsible for trapping others in vicious cults. It may have even short-circuited just the sort of quantum leap in human thought that"
+    },
+    {
+      "line": 1656,
+      "term": "interview",
+      "snippet": "__ULS. President Ronald Reagan makes decisions based upon the ad- vice of astrologers. In an interview by reporter Angela Fox Dunn that appeared in the July 13, 1980, Washington Post, Reagan admitted _"
+    },
+    {
+      "line": 2374,
+      "term": "community",
+      "snippet": "presents her analysis of the current trend toward pseudoscience and superstition in the humanistic community. By combining the testimony of these four expert witnesses, we can begin to construct | a composite portrait of this literally mythic beast that has become one of the most enthusiastically"
+    },
+    {
+      "line": 2549,
+      "term": "learning",
+      "snippet": "among the monkeys, Watson tells us. It had developed suddenly, as a result of one last monkey’s learning potato washing by conven- tional means. The sudden learning of the rest of the Koshima troop was not attributable to the normal one-monkey-at-a-time methods of"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "THE FRINGES"
+    },
+    {
+      "line": 2,
+      "text": "ee Uatatiy"
+    },
+    {
+      "line": 5,
+      "text": "“ Strange Myths and"
+    },
+    {
+      "line": 8,
+      "text": "on Eccentric Science"
+    },
+    {
+      "line": 11,
+      "text": "METEORS: How folklore becomes fact sags x"
+    },
+    {
+      "line": 19,
+      "text": "a a f :"
+    },
+    {
+      "line": 20,
+      "text": "Sisk"
+    },
+    {
+      "line": 28,
+      "text": "CTP POCkLx)"
+    },
+    {
+      "line": 32,
+      "text": "POOR DOP Pies «>"
+    },
+    {
+      "line": 33,
+      "text": "5, VO Rare ras"
+    },
+    {
+      "line": 34,
+      "text": "Al lS ee: A:"
+    },
+    {
+      "line": 35,
+      "text": "+ LOI"
+    },
+    {
+      "line": 38,
+      "text": "FRINGES"
+    },
+    {
+      "line": 41,
+      "text": "OF REASON"
+    },
+    {
+      "line": 42,
+      "text": "Strange M ythologies Beyond the Edge of Science"
+    },
+    {
+      "line": 45,
+      "text": "In the past 200 years, scientific knowledge has succeeded in contradicting"
+    },
+    {
+      "line": 46,
+      "text": "many of the mythic teachings of traditional religion, but it has failed to take"
+    },
+    {
+      "line": 47,
+      "text": "on religion’s role of providing meaning and hope in what for many is a dreary"
+    },
+    {
+      "line": 48,
+      "text": "and mundane world. The new mythologies have emerged to fill this visionary"
+    },
+    {
+      "line": 49,
+      "text": "void. Despite homogeneous mass media and social standardization on a vast"
+    },
+    {
+      "line": 50,
+      "text": "scale, myriad strange beliefs spawn, fission, and multiply. Unusual religions."
+    },
+    {
+      "line": 51,
+      "text": "Space-age folklore. Pseudoscientific theories beyond counting."
+    },
+    {
+      "line": 54,
+      "text": "Illustration: Rebecca Wilson"
+    },
+    {
+      "line": 57,
+      "text": "If modern myths are cultural expressions, then their creators and adherents"
+    },
+    {
+      "line": 58,
+      "text": "are social experimenters - however misguided, erratic, or uneducated - who A"
+    },
+    {
+      "line": 59,
+      "text": "are attempting to bridge that chasm between the visionary and the scientific in MERE"
+    },
+    {
+      "line": 62,
+      "text": "order to build a new unifying myth. At worst, they show us dead ends that we ctl"
+    },
+    {
+      "line": 63,
+      "text": "need not traverse again. At best, they provide us with clues, puzzle pieces Ke :"
+    },
+    {
+      "line": 64,
+      "text": "for our Future Collective Myth, if such a thing is to be."
+    },
+    {
+      "line": 67,
+      "text": "If we can entertain possibilities while withholding belief, we can safely explore ¥:"
+    },
+    {
+      "line": 68,
+      "text": "this world of modern mythology for sheer pleasure. The myths can be appre-"
+    },
+    {
+      "line": 69,
+      "text": "ciated as art if not as actual reflections of reality, manifestations of human"
+    },
+    {
+      "line": 71,
+      "text": "creativity in spectacular diversity. The appreciator of the carnival of strange ee"
+    },
+    {
+      "line": 73,
+      "text": "beliefs can dip below the surface of superficial cultural homogeneity to enjoy \\"
+    },
+    {
+      "line": 74,
+      "text": "the wonders and the curiosities, the freaks and the aberrations, and especially et"
+    },
+    {
+      "line": 76,
+      "text": "the occasional dark-lustred pearl netted from the depths."
+    },
+    {
+      "line": 79,
+      "text": "As Stewart Brand observed at a recent public celebration (see page !27), ‘‘You've"
+    },
+    {
+      "line": 80,
+      "text": "got to explore the edges to see where the middle is going.”’ This special issue"
+    },
+    {
+      "line": 81,
+      "text": "of Whole Earth Review explores the edges. -Ted Schultz"
+    },
+    {
+      "line": 87,
+      "text": "WHOLE EARTH"
+    }
+  ]
+}

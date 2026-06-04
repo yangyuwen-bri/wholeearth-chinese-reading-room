@@ -1,0 +1,722 @@
+{
+  "title": "Whole Earth, Spring 1998",
+  "identifier": "wholeearthspring00unse",
+  "year": 1998,
+  "season": "Spring",
+  "collection": "Whole Earth Magazine",
+  "collection_zh": "Whole Earth Magazine",
+  "pages": 109,
+  "url": "https://wholeearth.info/p/whole-earth-spring-1998",
+  "archive_url": "https://archive.org/details/wholeearthspring00unse",
+  "pdf_url": "https://archive.org/download/wholeearthspring00unse/wholeearthspring00unse.pdf",
+  "cover_url": "https://archive.org/download/wholeearthspring00unse/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthspring00unse_djvu.txt",
+  "ocr_chars": 483222,
+  "significant_line_count": 13787,
+  "theme_counts": {
+    "software_computing": 105,
+    "tools_craft": 179,
+    "ecology_place": 580,
+    "learning_media": 223,
+    "community_politics": 398
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 191,
+      "page": 4,
+      "title": "ORGANIC",
+      "image_url": "https://archive.org/download/wholeearthspring00unse/page/n5_w500.jpg"
+    },
+    {
+      "line": 224,
+      "page": 14,
+      "title": "SANCTUARY FOR",
+      "image_url": "https://archive.org/download/wholeearthspring00unse/page/n15_w500.jpg"
+    },
+    {
+      "line": 440,
+      "page": 50,
+      "title": "IN EACH OTHER",
+      "image_url": "https://archive.org/download/wholeearthspring00unse/page/n51_w500.jpg"
+    },
+    {
+      "line": 475,
+      "page": 65,
+      "title": "BUYING BACK",
+      "image_url": "https://archive.org/download/wholeearthspring00unse/page/n66_w500.jpg"
+    },
+    {
+      "line": 484,
+      "page": 70,
+      "title": "DEMOCRATIC",
+      "image_url": "https://archive.org/download/wholeearthspring00unse/page/n71_w500.jpg"
+    },
+    {
+      "line": 499,
+      "page": 75,
+      "title": "STATE-BASED",
+      "image_url": "https://archive.org/download/wholeearthspring00unse/page/n76_w500.jpg"
+    },
+    {
+      "line": 506,
+      "page": 77,
+      "title": "SOUL INTO",
+      "image_url": "https://archive.org/download/wholeearthspring00unse/page/n78_w500.jpg"
+    },
+    {
+      "line": 521,
+      "page": 78,
+      "title": "MISSION",
+      "image_url": "https://archive.org/download/wholeearthspring00unse/page/n79_w500.jpg"
+    },
+    {
+      "line": 573,
+      "page": 881,
+      "title": "AINTED BONDS",
+      "image_url": "https://archive.org/download/wholeearthspring00unse/page/n882_w500.jpg"
+    },
+    {
+      "line": 583,
+      "page": 93,
+      "title": "BANKING ON",
+      "image_url": "https://archive.org/download/wholeearthspring00unse/page/n94_w500.jpg"
+    },
+    {
+      "line": 5376,
+      "page": 1,
+      "title": "MAKE",
+      "image_url": "https://archive.org/download/wholeearthspring00unse/page/n2_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 191,
+      "text": "4 ORGANIC",
+      "score": 8
+    },
+    {
+      "line": 224,
+      "text": "14 SANCTUARY FOR",
+      "score": 8
+    },
+    {
+      "line": 440,
+      "text": "50 IN EACH OTHER",
+      "score": 8
+    },
+    {
+      "line": 475,
+      "text": "65 BUYING BACK",
+      "score": 8
+    },
+    {
+      "line": 484,
+      "text": "70 DEMOCRATIC",
+      "score": 8
+    },
+    {
+      "line": 499,
+      "text": "75 STATE-BASED",
+      "score": 8
+    },
+    {
+      "line": 506,
+      "text": "77 SOUL INTO",
+      "score": 8
+    },
+    {
+      "line": 521,
+      "text": "78 MISSION",
+      "score": 8
+    },
+    {
+      "line": 573,
+      "text": "881 AINTED BONDS",
+      "score": 8
+    },
+    {
+      "line": 583,
+      "text": "93 BANKING ON",
+      "score": 8
+    },
+    {
+      "line": 4934,
+      "text": "4 STOOD FOR A LONG TIME ON THE",
+      "score": 8
+    },
+    {
+      "line": 5376,
+      "text": "1 MAKE",
+      "score": 8
+    },
+    {
+      "line": 3862,
+      "text": "ANNUAL REVIEW OF",
+      "score": 6
+    },
+    {
+      "line": 11647,
+      "text": "SEE REVIEW,",
+      "score": 6
+    },
+    {
+      "line": 12015,
+      "text": "MOoNEY-A HISTORY, SEE REVIEW ON P, 43.",
+      "score": 6
+    },
+    {
+      "line": 17699,
+      "text": "DANA WickWaRE/ UNITED NATIONS DEVELOPMENT PROGRAMME",
+      "score": 6
+    },
+    {
+      "line": 17980,
+      "text": "RADHIKA CHALASANI/UNITED NATIONS DEVELOPMENT PROGRAMME",
+      "score": 6
+    },
+    {
+      "line": 18122,
+      "text": "INTO COMMUNITY IMPROVEMENT",
+      "score": 6
+    },
+    {
+      "line": 1,
+      "text": "> AMOROUS SLUGS",
+      "score": 4
+    },
+    {
+      "line": 4,
+      "text": "IBLE NATIVES",
+      "score": 4
+    },
+    {
+      "line": 35,
+      "text": "; BANK ACCOUNTS",
+      "score": 4
+    },
+    {
+      "line": 48,
+      "text": "PORTF",
+      "score": 4
+    },
+    {
+      "line": 75,
+      "text": "50 CDN",
+      "score": 4
+    },
+    {
+      "line": 93,
+      "text": "SIUNIC, UIC Cit",
+      "score": 4
+    },
+    {
+      "line": 108,
+      "text": "aS EES",
+      "score": 4
+    },
+    {
+      "line": 130,
+      "text": "Sid, Ue! OF UIC WONnGCTIUL COODEI d=",
+      "score": 4
+    },
+    {
+      "line": 135,
+      "text": "GeVeLOD c SOTL",
+      "score": 4
+    },
+    {
+      "line": 138,
+      "text": "CY die MOMENT",
+      "score": 4
+    },
+    {
+      "line": 192,
+      "text": "INCORPORATED",
+      "score": 4
+    },
+    {
+      "line": 225,
+      "text": "THE RiGHT WHALE",
+      "score": 4
+    },
+    {
+      "line": 269,
+      "text": "DARK COMIX",
+      "score": 4
+    },
+    {
+      "line": 368,
+      "text": "CA 94901-1971 (415/256-2800).",
+      "score": 4
+    },
+    {
+      "line": 401,
+      "text": "MON EY",
+      "score": 4
+    },
+    {
+      "line": 404,
+      "text": "INTRODUCTION",
+      "score": 4
+    },
+    {
+      "line": 420,
+      "text": "aa | HE PRIVILEGEOF",
+      "score": 4
+    },
+    {
+      "line": 423,
+      "text": "PRINTING MONEY",
+      "score": 4
+    },
+    {
+      "line": 441,
+      "text": "We TRUST",
+      "score": 4
+    },
+    {
+      "line": 450,
+      "text": "54 WsTIVING",
+      "score": 4
+    },
+    {
+      "line": 468,
+      "text": "60 1O KEEP THE LIGHT",
+      "score": 4
+    },
+    {
+      "line": 469,
+      "text": "BURNING",
+      "score": 4
+    },
+    {
+      "line": 485,
+      "text": "FOUNDATIONS",
+      "score": 4
+    },
+    {
+      "line": 500,
+      "text": "PHILANTHROPY",
+      "score": 4
+    },
+    {
+      "line": 507,
+      "text": "MONEY:",
+      "score": 4
+    },
+    {
+      "line": 522,
+      "text": "I.ESPONSIBLE",
+      "score": 4
+    },
+    {
+      "line": 580,
+      "text": "9OBANKING ON",
+      "score": 4
+    },
+    {
+      "line": 595,
+      "text": "NATURAL CAPITAL",
+      "score": 4
+    },
+    {
+      "line": 606,
+      "text": "THE POOR",
+      "score": 4
+    },
+    {
+      "line": 642,
+      "text": "BACKMATIER",
+      "score": 4
+    },
+    {
+      "line": 654,
+      "text": "SOCIALLY RESPONSIBLE INVESTING",
+      "score": 4
+    },
+    {
+      "line": 693,
+      "text": "BSSCGSG SS GOSS . SS 9) sR RTPI",
+      "score": 4
+    },
+    {
+      "line": 701,
+      "text": "= UNIVERSITY OF",
+      "score": 4
+    },
+    {
+      "line": 702,
+      "text": "MANAGEMENT",
+      "score": 4
+    },
+    {
+      "line": 778,
+      "text": "SHOP 24 HOURS A DAY AT",
+      "score": 4
+    },
+    {
+      "line": 796,
+      "text": "\"VY\" ARREN WEBER’S STAR ROUTE FARM",
+      "score": 4
+    },
+    {
+      "line": 825,
+      "text": "DANIEL IMHOFF",
+      "score": 4
+    },
+    {
+      "line": 887,
+      "text": "SPRING 1998 ® WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 938,
+      "text": "THE BURDEN OF SUCCESS",
+      "score": 4
+    },
+    {
+      "line": 954,
+      "text": "WHOLE EaRTH ® SPRING 1998",
+      "score": 4
+    },
+    {
+      "line": 1091,
+      "text": "STRETCHING THE SEASONS",
+      "score": 4
+    },
+    {
+      "line": 1125,
+      "text": "MUTUAL FARMS",
+      "score": 4
+    },
+    {
+      "line": 1170,
+      "text": "THE NEW PLAYERS: BIOTECH, IRRADIATION,",
+      "score": 4
+    },
+    {
+      "line": 1171,
+      "text": "AND SEWAGE SLUDGE",
+      "score": 4
+    },
+    {
+      "line": 1300,
+      "text": "LABELING AND REGULATIONS",
+      "score": 4
+    },
+    {
+      "line": 1384,
+      "text": "‘SI “92 ‘93",
+      "score": 4
+    },
+    {
+      "line": 1463,
+      "text": "WATERSHED FARMING",
+      "score": 4
+    },
+    {
+      "line": 1464,
+      "text": "AND RARE SPECIES PROTECTION",
+      "score": 4
+    },
+    {
+      "line": 1525,
+      "text": "SPRING 1998 © WHOLE EARTH |",
+      "score": 4
+    },
+    {
+      "line": 1698,
+      "text": "WHOLE EARTH @ SPRING 1998",
+      "score": 4
+    },
+    {
+      "line": 1799,
+      "text": "SPRING 1998 @® WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 1837,
+      "text": "solids.” -RESTORING THE EARTH",
+      "score": 4
+    },
+    {
+      "line": 1840,
+      "text": "LONG-TERM ENVIRONMENTALISM @ 117 CONTRIBUTORS",
+      "score": 4
+    },
+    {
+      "line": 1841,
+      "text": "13. JAN 1998",
+      "score": 4
+    },
+    {
+      "line": 1847,
+      "text": "BRAK) NINCe",
+      "score": 4
+    },
+    {
+      "line": 1851,
+      "text": "EARTH",
+      "score": 4
+    },
+    {
+      "line": 1884,
+      "text": "-Eco-PIONEERS",
+      "score": 4
+    },
+    {
+      "line": 1903,
+      "text": "-RESTORING THE EARTH",
+      "score": 4
+    },
+    {
+      "line": 1941,
+      "text": "STEVE LERNER",
+      "score": 4
+    },
+    {
+      "line": 1944,
+      "text": "THAT'S OK.",
+      "score": 4
+    },
+    {
+      "line": 1945,
+      "text": "THE BACTERIA",
+      "score": 4
+    },
+    {
+      "line": 1946,
+      "text": "CAN TEACH THEM",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 198,
+      "term": "community",
+      "snippet": "INCORPORATED Dan Imhoff Community Supported Agriculture ¢ Organic: Know and Grow Natural Foods Merchandiser « The National Organic Directory"
+    },
+    {
+      "line": 609,
+      "term": "interview",
+      "snippet": "Credit Unions THE POOR Kristen Helmore Interviews Ela Bhatt Microfinance: The Self-Employed"
+    },
+    {
+      "line": 771,
+      "term": "energy",
+      "snippet": "ters to bat houses. Real Goods Renewables, the most complete, current, and essen- tial catalog for renewable energy users. Solar and wind electric systems are our specialty! SHOP 24 HOURS A DAY AT www.realgoods.com"
+    },
+    {
+      "line": 996,
+      "term": "community",
+      "snippet": "analysts ever dreamed. In certain markets, consumers called for a Community Supported Agriculture There are a number of : organizations you can call to : find out about Community"
+    },
+    {
+      "line": 1003,
+      "term": "community",
+      "snippet": "There are a number of : organizations you can call to : find out about Community : Supported Agriculture farms - : (CSAs) in your area. Before : signing on, study their poli-"
+    },
+    {
+      "line": 1060,
+      "term": "community",
+      "snippet": "- CSA West - CSA Reading : Davis, CA; : Dan Imhoff’s chapter, 916/756-8518. - “Community Supported - Mothers and Others : Agriculture: Farming with a CA; : Face on It,” in A Case Against : the Global Economy, Edward -"
+    },
+    {
+      "line": 1136,
+      "term": "community",
+      "snippet": "across the globe regardless of season still mean plummeting food values.” By the late 1990s, after a decade of experimentation, Community Supported Agriculture (referred to as CSA) is com- ing to the rescue of many small farmers. In this successful system, consumers become subscribers"
+    },
+    {
+      "line": 1166,
+      "term": "community",
+      "snippet": "new partnership paradigm, costs should also cover SPRING 1998 ® WHOLE EarTH environmental, fair labor, and other community considerations. Pi THE NEW PLAYERS: BIOTECH, IRRADIATION, AND SEWAGE SLUDGE"
+    },
+    {
+      "line": 1490,
+      "term": "ecology",
+      "snippet": "zoning definitions, in-stream flow requirements, and other aspects of watershed ecology. Governance failed and lawsuits erupted. In the near future, each organic farm could include a site-specific ecology, and a certification"
+    },
+    {
+      "line": 1494,
+      "term": "ecology",
+      "snippet": "and lawsuits erupted. In the near future, each organic farm could include a site-specific ecology, and a certification program that more closely resembles those devel- oped for sustainable forestry-ensuring that rela- tionships between the wild and the cultivated are"
+    },
+    {
+      "line": 1503,
+      "term": "energy",
+      "snippet": "are embedded in, rather than depending upon extracted materials, destructive cropping, and imported energy to support them. “We have to work more closely with ecologists and set goals to improve habitat that are both practi- cal and achievable,” admits Warren Weber. “It"
+    },
+    {
+      "line": 1580,
+      "term": "ecology",
+      "snippet": "‘ parency, equal price and income subsidies, water- shed ecology and habi- tat restoration, water effi- ciency in harmony with river flows, and caring employment practices."
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "> AMOROUS SLUGS"
+    },
+    {
+      "line": 4,
+      "text": "IBLE NATIVES"
+    },
+    {
+      "line": 35,
+      "text": "; BANK ACCOUNTS"
+    },
+    {
+      "line": 48,
+      "text": "PORTF"
+    },
+    {
+      "line": 75,
+      "text": "50 CDN"
+    },
+    {
+      "line": 84,
+      "text": "+3 4h"
+    },
+    {
+      "line": 85,
+      "text": "mMmerinidlG, thie"
+    },
+    {
+      "line": 86,
+      "text": "sate = tiled eat fil et"
+    },
+    {
+      "line": 92,
+      "text": "Pwo Tne Chin"
+    },
+    {
+      "line": 93,
+      "text": "SIUNIC, UIC Cit"
+    },
+    {
+      "line": 100,
+      "text": "on et"
+    },
+    {
+      "line": 103,
+      "text": "S eee FS = a F Ew: :"
+    },
+    {
+      "line": 104,
+      "text": "ACOMDALIDIC Dans tn Uncerts"
+    },
+    {
+      "line": 105,
+      "text": "_INCOMPAlIDle Pal, WILT UNCEItdall"
+    },
+    {
+      "line": 108,
+      "text": "aS EES"
+    },
+    {
+      "line": 111,
+      "text": "atita._ tha maonatic lada-"
+    },
+    {
+      "line": 112,
+      "text": "fe -the magnetic tode-"
+    },
+    {
+      "line": 119,
+      "text": "mist je ‘ct EC niion bd the"
+    },
+    {
+      "line": 120,
+      "text": "HIUOt Ve rete SS ao Ubi"
+    },
+    {
+      "line": 121,
+      "text": "laroa the ramamnar HA and"
+    },
+    {
+      "line": 122,
+      "text": "aise, tiey rememoer WilO alla"
+    },
+    {
+      "line": 123,
+      "text": "re snetic"
+    },
+    {
+      "line": 124,
+      "text": "on 2 fina macnatic noawde"
+    },
+    {
+      "line": 125,
+      "text": "Cd line MdSnetic DOwdel,"
+    },
+    {
+      "line": 126,
+      "text": "Sad Ladi"
+    },
+    {
+      "line": 127,
+      "text": "fron the pil it frhayv area THO"
+    },
+    {
+      "line": 128,
+      "text": "PUI CIR Vite Tt Livy Git (VU"
+    },
+    {
+      "line": 129,
+      "text": "small. the nf the onnderfiul cogners"
+    },
+    {
+      "line": 130,
+      "text": "Sid, Ue! OF UIC WONnGCTIUL COODEI d="
+    },
+    {
+      "line": 131,
+      "text": "I Rise fy ed ="
+    },
+    {
+      "line": 132,
+      "text": "red for maenet-"
+    },
+    {
+      "line": 133,
+      "text": "Wit gtr gece"
+    },
+    {
+      "line": 135,
+      "text": "GeVeLOD c SOTL"
+    },
+    {
+      "line": 136,
+      "text": "y GEVetOp a USCIUL"
+    },
+    {
+      "line": 137,
+      "text": "BY are NOn-mac-"
+    },
+    {
+      "line": 138,
+      "text": "CY die MOMENT"
+    },
+    {
+      "line": 142,
+      "text": "_ promise between the"
+    },
+    {
+      "line": 143,
+      "text": "ren call of gravity and"
+    },
+    {
+      "line": 144,
+      "text": "its own cautious cohe-"
+    },
+    {
+      "line": 146,
+      "text": "n. The results are"
+    }
+  ]
+}

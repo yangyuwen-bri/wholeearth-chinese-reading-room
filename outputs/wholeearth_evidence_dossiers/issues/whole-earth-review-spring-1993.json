@@ -1,0 +1,800 @@
+{
+  "title": "Whole Earth Review, Spring 1993",
+  "identifier": "wholeearthreview00unse_33",
+  "year": 1993,
+  "season": "Spring",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/whole-earth-review-spring-1993",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_33",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_33/wholeearthreview00unse_33.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_33/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthreview00unse_33_djvu.txt",
+  "ocr_chars": 696025,
+  "significant_line_count": 19137,
+  "theme_counts": {
+    "software_computing": 131,
+    "tools_craft": 195,
+    "ecology_place": 447,
+    "learning_media": 395,
+    "community_politics": 584
+  },
+  "top_themes": [
+    "community_politics",
+    "ecology_place",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 786,
+      "page": 27,
+      "title": "GATE5 ROAD SAUSALITO, CA 94965 5",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n28_w500.jpg"
+    },
+    {
+      "line": 3403,
+      "page": 20,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n21_w500.jpg"
+    },
+    {
+      "line": 3791,
+      "page": 22,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n23_w500.jpg"
+    },
+    {
+      "line": 4694,
+      "page": 28,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n29_w500.jpg"
+    },
+    {
+      "line": 5841,
+      "page": 34,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n35_w500.jpg"
+    },
+    {
+      "line": 6741,
+      "page": 40,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n41_w500.jpg"
+    },
+    {
+      "line": 7478,
+      "page": 46,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n47_w500.jpg"
+    },
+    {
+      "line": 7988,
+      "page": 50,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n51_w500.jpg"
+    },
+    {
+      "line": 8858,
+      "page": 56,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n57_w500.jpg"
+    },
+    {
+      "line": 9156,
+      "page": 58,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n59_w500.jpg"
+    },
+    {
+      "line": 9616,
+      "page": 62,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n63_w500.jpg"
+    },
+    {
+      "line": 9937,
+      "page": 64,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n65_w500.jpg"
+    },
+    {
+      "line": 10221,
+      "page": 66,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n67_w500.jpg"
+    },
+    {
+      "line": 10570,
+      "page": 68,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n69_w500.jpg"
+    },
+    {
+      "line": 10908,
+      "page": 70,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n71_w500.jpg"
+    },
+    {
+      "line": 11220,
+      "page": 72,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n73_w500.jpg"
+    },
+    {
+      "line": 11713,
+      "page": 76,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n77_w500.jpg"
+    },
+    {
+      "line": 12029,
+      "page": 78,
+      "title": "WHOLE EARTH REVIEW SPRING 1993 -",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n79_w500.jpg"
+    },
+    {
+      "line": 12512,
+      "page": 80,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n81_w500.jpg"
+    },
+    {
+      "line": 12900,
+      "page": 82,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n83_w500.jpg"
+    },
+    {
+      "line": 13360,
+      "page": 84,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n85_w500.jpg"
+    },
+    {
+      "line": 13833,
+      "page": 86,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n87_w500.jpg"
+    },
+    {
+      "line": 14167,
+      "page": 88,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n89_w500.jpg"
+    },
+    {
+      "line": 14525,
+      "page": 90,
+      "title": "WHOLE EARTH REVIEW SPRING 1993",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_33/page/n91_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 3403,
+      "text": "20 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 3791,
+      "text": "22 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 4694,
+      "text": "28 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 5841,
+      "text": "34 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 6741,
+      "text": "40 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 7478,
+      "text": "46 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 7988,
+      "text": "50 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 8858,
+      "text": "56 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 9156,
+      "text": "58 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 9616,
+      "text": "62 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 9937,
+      "text": "64 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 10221,
+      "text": "66 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 10570,
+      "text": "68 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 10908,
+      "text": "70 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 11220,
+      "text": "72 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 11713,
+      "text": "76 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 12029,
+      "text": "78 WHOLE EARTH REVIEW SPRING 1993 -",
+      "score": 10
+    },
+    {
+      "line": 12512,
+      "text": "80 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 12900,
+      "text": "82 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 13360,
+      "text": "84 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 13833,
+      "text": "86 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 14167,
+      "text": "88 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 14525,
+      "text": "90 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 14760,
+      "text": "92 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 15143,
+      "text": "94 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 15371,
+      "text": "96 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 10
+    },
+    {
+      "line": 786,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 5",
+      "score": 8
+    },
+    {
+      "line": 1153,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965 7",
+      "score": 8
+    },
+    {
+      "line": 1509,
+      "text": "27 GATES ROAD -- SAUSALITO, CA 94965 9",
+      "score": 8
+    },
+    {
+      "line": 2586,
+      "text": "27 GATE5 ROAD - SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 2956,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 4621,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965 2 7",
+      "score": 8
+    },
+    {
+      "line": 5029,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 29",
+      "score": 8
+    },
+    {
+      "line": 6039,
+      "text": "27 GATES ROAD -- SAUSALITO, CA 94965 3 5",
+      "score": 8
+    },
+    {
+      "line": 6284,
+      "text": "27 GATES ROAD -- SAUSALITO, CA 94965 3 7",
+      "score": 8
+    },
+    {
+      "line": 6676,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 3 9",
+      "score": 8
+    },
+    {
+      "line": 7208,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965 4 3",
+      "score": 8
+    },
+    {
+      "line": 7454,
+      "text": "27 GATE5 ROAD - -- SAUSALITO, CA 94965 4 5",
+      "score": 8
+    },
+    {
+      "line": 8492,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 5 3",
+      "score": 8
+    },
+    {
+      "line": 8792,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 5 5",
+      "score": 8
+    },
+    {
+      "line": 9080,
+      "text": "27 GATE5 ROAD - SAUSALITO, CA 94965 5 7",
+      "score": 8
+    },
+    {
+      "line": 9382,
+      "text": "27 GATE5 ROAD --- SAUSALITO, CA 94965 5 9",
+      "score": 8
+    },
+    {
+      "line": 9872,
+      "text": "27 GATE5 ROAD - SAUSALITO, CA 94965 63",
+      "score": 8
+    },
+    {
+      "line": 10156,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 6 5",
+      "score": 8
+    },
+    {
+      "line": 10488,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 6 7",
+      "score": 8
+    },
+    {
+      "line": 10855,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 69",
+      "score": 8
+    },
+    {
+      "line": 11649,
+      "text": "27 GATE 5 ROAD",
+      "score": 8
+    },
+    {
+      "line": 12423,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 79",
+      "score": 8
+    },
+    {
+      "line": 12819,
+      "text": "27 GATES ROAD - SAUSALITO, CA 94965 8 I",
+      "score": 8
+    },
+    {
+      "line": 13279,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965 8 3",
+      "score": 8
+    },
+    {
+      "line": 14104,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 8 7",
+      "score": 8
+    },
+    {
+      "line": 14596,
+      "text": "27 GATE5 ROAD --- SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 16236,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 23626,
+      "text": "27 GATE5 ROAD --- SAUSALITO, CA 94965 I 3 5",
+      "score": 8
+    },
+    {
+      "line": 25836,
+      "text": "27 GATES ROAD --- SAUSALITO, CA 94965 I 4 I",
+      "score": 8
+    },
+    {
+      "line": 26373,
+      "text": "0 POSTAGE WILL BE PAID BY ADDRESSEE AEA",
+      "score": 8
+    },
+    {
+      "line": 852,
+      "text": "6 WHOLE EARTH REVIEW = SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 1217,
+      "text": "8} WHOLE EARTH REVIEW SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 1569,
+      "text": "| 0 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 1909,
+      "text": "| 2 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 2263,
+      "text": "I 4 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 2650,
+      "text": "t 6 WHOLE EARTH REVIEW “SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 3015,
+      "text": "1 8 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 4127,
+      "text": "24 WHOLE EARTH REVIEW = SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 4428,
+      "text": "26 WHOLE EARTH REVIEW = SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 5090,
+      "text": "3 0 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 5560,
+      "text": "3 2 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 6069,
+      "text": "3 6 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 6353,
+      "text": "38 WHOLE EARTH REVIEW = SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 7010,
+      "text": "42 WHOLE EARTH REVIEW = SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 7288,
+      "text": "44 WHOLE EARTH REVIEW = SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 7698,
+      "text": "48 WHOLE EARTH REVIEW = SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 8278,
+      "text": "52 WHOLE EARTH REVIEW = SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 8599,
+      "text": "54 WHOLE EARTH REVIEW = SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 9421,
+      "text": "I HAD AN INTERVIEW WITH",
+      "score": 6
+    },
+    {
+      "line": 11558,
+      "text": "74 WHOLE EARTH REVIEW = SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 15693,
+      "text": "é 98 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 15991,
+      "text": "4 00 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 16301,
+      "text": "| 02 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 6
+    },
+    {
+      "line": 16660,
+      "text": "I 04 WHOLE EARTH REVIEW SPRING 1993",
+      "score": 6
+    }
+  ],
+  "snippets": [
+    {
+      "line": 992,
+      "term": "interview",
+      "snippet": "their mothers, grandmothers, great-grandmothers .. . ‘Tus SET of interviews, then, documents the birth of heroes as it also documents the | birth of their children. It is part"
+    },
+    {
+      "line": 1019,
+      "term": "interview",
+      "snippet": "a kind of paleolithic Venus of Wil- lendorf icon? I interviewed European-Amer- ican, African-American and Asian- American women. I interviewed advocates of natural childbirth"
+    },
+    {
+      "line": 1021,
+      "term": "interview",
+      "snippet": "I interviewed European-Amer- ican, African-American and Asian- American women. I interviewed advocates of natural childbirth and women who used crack cocaine until the onset (early!) of their labor."
+    },
+    {
+      "line": 1026,
+      "term": "interview",
+      "snippet": "and women who used crack cocaine until the onset (early!) of their labor. I interviewed women who had brought babies to term and women who had miscarried and women who had delivered babies many"
+    },
+    {
+      "line": 1030,
+      "term": "interview",
+      "snippet": "who had miscarried and women who had delivered babies many weeks prematurely. I interviewed women who had had abortions. I interviewed married women and single mothers, heterosexuals and"
+    },
+    {
+      "line": 1033,
+      "term": "interview",
+      "snippet": "weeks prematurely. I interviewed women who had had abortions. I interviewed married women and single mothers, heterosexuals and lesbians, Catholics, Protestants, Muslims and Jews. Eventually the"
+    },
+    {
+      "line": 1039,
+      "term": "interview",
+      "snippet": "questions I asked assumed a uni- form format and became a stand- ardized interview, recorded as I spoke with each woman and transcribed afterward. Very little has been written about"
+    },
+    {
+      "line": 1057,
+      "term": "interview",
+      "snippet": "world at large. To use sexuality as an example: many of the women I interviewed reported that their sexual respon- siveness changed when they were pregnant. The quality of their or-"
+    },
+    {
+      "line": 1107,
+      "term": "interview",
+      "snippet": "I also learned that, to a social an- thropologist from Mars who was * reading these interviews, there would be few clues that these women were reacting to the same experience. The process of birth is"
+    },
+    {
+      "line": 2253,
+      "term": "energy",
+      "snippet": "yogic experiences. But then as other people began to home in on me, I lost access to that energy and I be- gan to feel ill and uncomfortable and nauseous and quite miserable. I woke up at three. At about nine"
+    },
+    {
+      "line": 2386,
+      "term": "community",
+      "snippet": "asked them to recommend some- body and, of course, being in the medical community, they wouldn’t take sides so they gave me a list of about twelve names. I just had to take the luck of the draw."
+    },
+    {
+      "line": 5788,
+      "term": "software",
+      "snippet": "the earth’s people. 27 GATES ROAD _ -- SAUSALITO, CA 94965 3 3 N THE FACE OF IT, “software for women” seems as bizarre and repulsive a concept as, say, cigarettes for women. It smacks of condescension, hand-holding, pastel"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "BIR THTALES"
+    },
+    {
+      "line": 4,
+      "text": "» at"
+    },
+    {
+      "line": 12,
+      "text": "“That's not the remarkable part,”"
+    },
+    {
+      "line": 13,
+      "text": "said my friend. “The remarkable part is how"
+    },
+    {
+      "line": 14,
+      "text": "much time she spends not doing any of that"
+    },
+    {
+      "line": 15,
+      "text": "- time spent waiting for and riding on buses,"
+    },
+    {
+      "line": 16,
+      "text": "time spent standing in line at various agen-"
+    },
+    {
+      "line": 17,
+      "text": "cies on behalf of her mother or her child,"
+    },
+    {
+      "line": 18,
+      "text": "time spent looking for bargains on baby"
+    },
+    {
+      "line": 19,
+      "text": "clothes and Pampers - just wasted time."
+    },
+    {
+      "line": 20,
+      "text": "People don’t realize how much hard work"
+    },
+    {
+      "line": 21,
+      "text": "is involved in just preventing yourself"
+    },
+    {
+      "line": 22,
+      "text": "from slipping beneath the underclass.”"
+    },
+    {
+      "line": 25,
+      "text": "And J hadn’t realized; I was too busy on"
+    },
+    {
+      "line": 26,
+      "text": "another level of abstraction. I"
+    },
+    {
+      "line": 27,
+      "text": "had realized all sorts of stuff"
+    },
+    {
+      "line": 28,
+      "text": "about poverty, had all sorts of"
+    },
+    {
+      "line": 29,
+      "text": "opinions, had changed my mind"
+    },
+    {
+      "line": 30,
+      "text": "several times about causes and"
+    },
+    {
+      "line": 31,
+      "text": "cures, and it had not actually oc-"
+    },
+    {
+      "line": 32,
+      "text": "curred to me how hard it would"
+    },
+    {
+      "line": 33,
+      "text": "be to raise yourself out of that"
+    },
+    {
+      "line": 34,
+      "text": "cycle if you were always riding"
+    },
+    {
+      "line": 35,
+      "text": "buses and filling out forms."
+    },
+    {
+      "line": 38,
+      "text": "What we lack about each other"
+    },
+    {
+      "line": 39,
+      "text": "is information. We have lots"
+    },
+    {
+      "line": 41,
+      "text": "of theories and lots of rhetoric and lots"
+    },
+    {
+      "line": 43,
+      "text": "of paradigms; we have lots of surveys and"
+    },
+    {
+      "line": 44,
+      "text": "pie charts and large-sample studies. But"
+    },
+    {
+      "line": 46,
+      "text": "we don’t have people saying to each other,"
+    },
+    {
+      "line": 47,
+      "text": "“This is how it is for me. This is what my life"
+    },
+    {
+      "line": 48,
+      "text": "is like; this is what I am. I am not a trend; I"
+    },
+    {
+      "line": 49,
+      "text": "am a contradiction. Now tell me about you.”"
+    },
+    {
+      "line": 52,
+      "text": "I think this is particularly true for men and"
+    },
+    {
+      "line": 53,
+      "text": "women in America right now. We censor"
+    },
+    {
+      "line": 54,
+      "text": "ourselves. We are uncomfortable"
+    },
+    {
+      "line": 55,
+      "text": "with ambivalence, in ourselves and"
+    },
+    {
+      "line": 56,
+      "text": "in others; we are uncomfortable"
+    },
+    {
+      "line": 57,
+      "text": "with the multitudes we all contain."
+    },
+    {
+      "line": 58,
+      "text": "We confine ourselves to pieties or"
+    }
+  ]
+}

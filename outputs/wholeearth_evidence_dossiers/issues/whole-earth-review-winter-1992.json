@@ -1,0 +1,800 @@
+{
+  "title": "Whole Earth Review, Winter 1992",
+  "identifier": "wholeearthreview00unse_32",
+  "year": 1992,
+  "season": "Winter",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/whole-earth-review-winter-1992",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_32",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_32/wholeearthreview00unse_32.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_32/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthreview00unse_32_djvu.txt",
+  "ocr_chars": 676240,
+  "significant_line_count": 17670,
+  "theme_counts": {
+    "software_computing": 244,
+    "tools_craft": 273,
+    "ecology_place": 679,
+    "learning_media": 437,
+    "community_politics": 403
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 602,
+      "page": 4,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n5_w500.jpg"
+    },
+    {
+      "line": 780,
+      "page": 27,
+      "title": "GATE5 ROAD - SAUSALITO, CA 94965 5",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n28_w500.jpg"
+    },
+    {
+      "line": 1111,
+      "page": 8,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n9_w500.jpg"
+    },
+    {
+      "line": 2852,
+      "page": 20,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n21_w500.jpg"
+    },
+    {
+      "line": 3287,
+      "page": 22,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n23_w500.jpg"
+    },
+    {
+      "line": 4157,
+      "page": 26,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n27_w500.jpg"
+    },
+    {
+      "line": 4458,
+      "page": 28,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n29_w500.jpg"
+    },
+    {
+      "line": 4814,
+      "page": 30,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n31_w500.jpg"
+    },
+    {
+      "line": 5370,
+      "page": 34,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n35_w500.jpg"
+    },
+    {
+      "line": 5769,
+      "page": 36,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n37_w500.jpg"
+    },
+    {
+      "line": 6183,
+      "page": 38,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n39_w500.jpg"
+    },
+    {
+      "line": 6541,
+      "page": 40,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n41_w500.jpg"
+    },
+    {
+      "line": 6827,
+      "page": 42,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n43_w500.jpg"
+    },
+    {
+      "line": 7180,
+      "page": 44,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n45_w500.jpg"
+    },
+    {
+      "line": 7438,
+      "page": 46,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n47_w500.jpg"
+    },
+    {
+      "line": 7779,
+      "page": 48,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n49_w500.jpg"
+    },
+    {
+      "line": 8147,
+      "page": 50,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n51_w500.jpg"
+    },
+    {
+      "line": 8901,
+      "page": 54,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n55_w500.jpg"
+    },
+    {
+      "line": 9261,
+      "page": 56,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n57_w500.jpg"
+    },
+    {
+      "line": 9665,
+      "page": 58,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n59_w500.jpg"
+    },
+    {
+      "line": 9969,
+      "page": 60,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n61_w500.jpg"
+    },
+    {
+      "line": 10282,
+      "page": 62,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n63_w500.jpg"
+    },
+    {
+      "line": 10658,
+      "page": 64,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n65_w500.jpg"
+    },
+    {
+      "line": 10945,
+      "page": 66,
+      "title": "WHOLE EARTH REVIEW WINTER 1992",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_32/page/n67_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 602,
+      "text": "4 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 1111,
+      "text": "8 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 2852,
+      "text": "20 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 3287,
+      "text": "22 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 4157,
+      "text": "26 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 4458,
+      "text": "28 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 4814,
+      "text": "30 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 5370,
+      "text": "34 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 5769,
+      "text": "36 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 6183,
+      "text": "38 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 6541,
+      "text": "40 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 6827,
+      "text": "42 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 7180,
+      "text": "44 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 7438,
+      "text": "46 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 7779,
+      "text": "48 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 8147,
+      "text": "50 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 8901,
+      "text": "54 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 9261,
+      "text": "56 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 9665,
+      "text": "58 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 9969,
+      "text": "60 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 10282,
+      "text": "62 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 10658,
+      "text": "64 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 10945,
+      "text": "66 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 11186,
+      "text": "68 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 11416,
+      "text": "70 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 11724,
+      "text": "72 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 12000,
+      "text": "74 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 12819,
+      "text": "78 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 13127,
+      "text": "80 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 13628,
+      "text": "82 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 13943,
+      "text": "84 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 14316,
+      "text": "86 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 14836,
+      "text": "90 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 15017,
+      "text": "92 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 15322,
+      "text": "94 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 15668,
+      "text": "96 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 15805,
+      "text": "98 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 10
+    },
+    {
+      "line": 780,
+      "text": "27 GATE5 ROAD - SAUSALITO, CA 94965 5",
+      "score": 8
+    },
+    {
+      "line": 1335,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 9",
+      "score": 8
+    },
+    {
+      "line": 1862,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 2724,
+      "text": "27 GATE 5 ROAD",
+      "score": 8
+    },
+    {
+      "line": 3620,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 23",
+      "score": 8
+    },
+    {
+      "line": 4384,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 2 7",
+      "score": 8
+    },
+    {
+      "line": 4739,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 29",
+      "score": 8
+    },
+    {
+      "line": 5699,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 3 5",
+      "score": 8
+    },
+    {
+      "line": 6483,
+      "text": "27 GATE 5ROAD SAUSALITO, CA 94965 3 9",
+      "score": 8
+    },
+    {
+      "line": 7066,
+      "text": "27 GATE5 ROAD -- SAUSALITO, CA 94965 4 3",
+      "score": 8
+    },
+    {
+      "line": 7355,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 4 5",
+      "score": 8
+    },
+    {
+      "line": 7702,
+      "text": "27 GATE5 ROAD -- SAUSALITO, CA 94965 4 7",
+      "score": 8
+    },
+    {
+      "line": 8093,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965 49",
+      "score": 8
+    },
+    {
+      "line": 8836,
+      "text": "27 GATE5 ROAD -- SAUSALITO, CA 94965 5 3",
+      "score": 8
+    },
+    {
+      "line": 9193,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965 5 5",
+      "score": 8
+    },
+    {
+      "line": 9610,
+      "text": "27 GATE5 ROAD. SAUSALITO, CA 94965 5 7",
+      "score": 8
+    },
+    {
+      "line": 9921,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 5 9",
+      "score": 8
+    },
+    {
+      "line": 10595,
+      "text": "27 GATE5 ROAD - SAUSALITO, CA 94965 6 3",
+      "score": 8
+    },
+    {
+      "line": 10891,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965 6 5",
+      "score": 8
+    },
+    {
+      "line": 11120,
+      "text": "27 GATE5 ROAD --- SAUSALITO, CA 94965 4 7",
+      "score": 8
+    },
+    {
+      "line": 11372,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 6 9",
+      "score": 8
+    },
+    {
+      "line": 11627,
+      "text": "27 GATES ROAD SAUSALITO, CA 94965 7 I",
+      "score": 8
+    },
+    {
+      "line": 12275,
+      "text": "27 GATE5 ROAD --- SAUSALITO, CA 94965 7 5",
+      "score": 8
+    },
+    {
+      "line": 13060,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 7 9",
+      "score": 8
+    },
+    {
+      "line": 14246,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 8 5",
+      "score": 8
+    },
+    {
+      "line": 14627,
+      "text": "88 WHOLE EA",
+      "score": 8
+    },
+    {
+      "line": 14764,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 89",
+      "score": 8
+    },
+    {
+      "line": 15573,
+      "text": "27 GATE5 ROAD SAUSALITO, CA 94965 9 5",
+      "score": 8
+    },
+    {
+      "line": 16065,
+      "text": "27 GATE5 ROAD -- SAUSALITO, CA 94965 99",
+      "score": 8
+    },
+    {
+      "line": 19708,
+      "text": "27 GATE5 ROAD --- SAUSALITO, CA 94965",
+      "score": 8
+    },
+    {
+      "line": 23676,
+      "text": "27 GATES ROAD --- SAUSALITO, CA 94965 I 3 9",
+      "score": 8
+    },
+    {
+      "line": 85,
+      "text": "INDUSTRIAL ECOLOGY (p. 4) is the",
+      "score": 6
+    },
+    {
+      "line": 221,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 305,
+      "text": "ComMUNITY",
+      "score": 6
+    },
+    {
+      "line": 363,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 441,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 846,
+      "text": "6 WHOLE EARTH REVIEW WINTER ‘1992",
+      "score": 6
+    },
+    {
+      "line": 1417,
+      "text": "I 0 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 6
+    },
+    {
+      "line": 1692,
+      "text": "j 2 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 6
+    },
+    {
+      "line": 1937,
+      "text": "l 4 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 6
+    },
+    {
+      "line": 2224,
+      "text": "| & WHOLE EARTH REVIEW WINTER 1992",
+      "score": 6
+    },
+    {
+      "line": 2447,
+      "text": "I 8 WHOLE EARTH REVIEW WINTER 1992",
+      "score": 6
+    },
+    {
+      "line": 3705,
+      "text": "WHOLE EARTH REVIEW WINTER 1992",
+      "score": 6
+    }
+  ],
+  "snippets": [
+    {
+      "line": 1,
+      "term": "ecology",
+      "snippet": "Industrial Ecology e Why Public Radio Isn’t « Kill More Trees , Clowns Up The Amazon ¢ Guns? No. 77 Winter 1992 FARE Canadian) Biosphe"
+    },
+    {
+      "line": 67,
+      "term": "energy",
+      "snippet": "The problem must be ignorance, or cor- porations would already be cleaner and more energy- and resource-efficient. En- lightened (or coerced) companies often find increased profits from pollution pre- vention (it’s always cheaper than cleanup)"
+    },
+    {
+      "line": 80,
+      "term": "energy",
+      "snippet": "The Biospherians have been getting some hostile media coverage during their first year sequestered energy efficiency turns out to bea ina glassed-in world. Highhanded attempts to moneymaker as well as to reduce control Bio2 news have encouraged accusations of ecological degradation. cheating, commercialism, and poor science. INDUSTRIAL ECOLOGY (p. 4) is the"
+    },
+    {
+      "line": 85,
+      "term": "ecology",
+      "snippet": "moneymaker as well as to reduce control Bio2 news have encouraged accusations of ecological degradation. cheating, commercialism, and poor science. INDUSTRIAL ECOLOGY (p. 4) is the best basic guide to improving corporate environmental attitude and performance I’ve seen. It’s written in a language that"
+    },
+    {
+      "line": 209,
+      "term": "learning",
+      "snippet": "tive look (depending on your age) at how things went while young white middle-class kids were learning to think about race Issues in the fifties and sixties, Philip A. Rutter"
+    },
+    {
+      "line": 221,
+      "term": "whole systems",
+      "snippet": "and sixties, Philip A. Rutter WHOLE SYSTEMS Industrial Ecology Hardin B. C. Tibbs Between Economics"
+    },
+    {
+      "line": 236,
+      "term": "ecology",
+      "snippet": "Philip A. Rutter WHOLE SYSTEMS Industrial Ecology Hardin B. C. Tibbs Between Economics & Ecology"
+    },
+    {
+      "line": 243,
+      "term": "ecology",
+      "snippet": "Hardin B. C. Tibbs Between Economics & Ecology Debbie Mytels 50 Simple Things Your Business Can Do... * The Tightwad Gazette"
+    },
+    {
+      "line": 305,
+      "term": "community",
+      "snippet": "Understanding the Sky * Orion Telescope Center * Gazing Balls ComMUNITY 26 Clowns Up the River (The Amazon’s Health & Happiness Project)"
+    },
+    {
+      "line": 363,
+      "term": "learning",
+      "snippet": "¢ War Tax Resistance The Mismeasure of Women LEARNING 50 “Il Wander the Terrain, Playing Godzilla” Freddy Bosco"
+    },
+    {
+      "line": 441,
+      "term": "communications",
+      "snippet": "fellow Life photographer Hansel Mieth. -J. Baldwin COMMUNICATIONS 52 Why Public Radio Isn’t Rachel Anne Goodman 58 Access to"
+    },
+    {
+      "line": 562,
+      "term": "ecology",
+      "snippet": "109 Lancaster & Simpson * Drip Imation 141 Reader Services 142 Whole Earth Bookstore Industrial Ecology: Environmental Agenda for Industry"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "Industrial Ecology e Why Public Radio Isn’t « Kill More Trees"
+    },
+    {
+      "line": 2,
+      "text": ", Clowns Up The Amazon ¢ Guns?"
+    },
+    {
+      "line": 5,
+      "text": "No. 77 Winter 1992 FARE Canadian)"
+    },
+    {
+      "line": 8,
+      "text": "Biosphe"
+    },
+    {
+      "line": 9,
+      "text": "at One"
+    },
+    {
+      "line": 14,
+      "text": "BILE"
+    },
+    {
+      "line": 15,
+      "text": "BIOSPHEN:"
+    },
+    {
+      "line": 25,
+      "text": "/ \\ GUEST EDITOR usually has a thematic idea for an entire issue"
+    },
+    {
+      "line": 26,
+      "text": "_\\ and the time to develop it. I was out of town when my mandate was"
+    },
+    {
+      "line": 27,
+      "text": "bestowed, returning just in time to sit down at the editor’s desk."
+    },
+    {
+      "line": 28,
+      "text": "d On the desk was a pile of articles and reviews, mostly written by"
+    },
+    {
+      "line": 29,
+      "text": "all a. or brought in by our outrageously eclectic staff and close"
+    },
+    {
+      "line": 30,
+      "text": "friends. It’s not quite “inmates taking over the asylum” as threatened in"
+    },
+    {
+      "line": 31,
+      "text": "the last issue, but the crew as a whole has been more involved than usual"
+    },
+    {
+      "line": 32,
+      "text": "in the editorial and production process. Here goes..."
+    },
+    {
+      "line": 35,
+      "text": "_ ORPORATE"
+    },
+    {
+      "line": 37,
+      "text": "_ villainy is so"
+    },
+    {
+      "line": 38,
+      "text": "easy to attack:"
+    },
+    {
+      "line": 40,
+      "text": "> Polluting! Clear-"
+    },
+    {
+      "line": 41,
+      "text": "cutting and strip"
+    },
+    {
+      "line": 42,
+      "text": "mining! Dolphin"
+    },
+    {
+      "line": 43,
+      "text": "- murder! They"
+    },
+    {
+      "line": 45,
+      "text": "_ must be stopped!"
+    },
+    {
+      "line": 46,
+      "text": "But all of us - even the most extreme"
+    },
+    {
+      "line": 47,
+      "text": "environmental champions - use the"
+    },
+    {
+      "line": 48,
+      "text": "products of the corporations we decry."
+    },
+    {
+      "line": 49,
+      "text": "We don’t want (most) corporations"
+    },
+    {
+      "line": 50,
+      "text": "destroyed, we want them to be good"
+    },
+    {
+      "line": 51,
+      "text": "environmental citizens. But they"
+    },
+    {
+      "line": 53,
+      "text": "don’t know how."
+    },
+    {
+      "line": 56,
+      "text": "Abigail Alling"
+    },
+    {
+      "line": 59,
+      "text": "Experience shows that corporate mal-"
+    },
+    {
+      "line": 60,
+      "text": "feasance rarely derives from malignant"
+    },
+    {
+      "line": 61,
+      "text": "intent; it’s more often caused by a lack of"
+    },
+    {
+      "line": 62,
+      "text": "familiarity with ecological concepts and"
+    },
+    {
+      "line": 63,
+      "text": "their long-range importance. A business"
+    },
+    {
+      "line": 64,
+      "text": "education usually doesn’t include biology."
+    },
+    {
+      "line": 65,
+      "text": "The problem must be ignorance, or cor-"
+    },
+    {
+      "line": 66,
+      "text": "porations would already be cleaner and"
+    },
+    {
+      "line": 67,
+      "text": "more energy- and resource-efficient. En-"
+    }
+  ]
+}

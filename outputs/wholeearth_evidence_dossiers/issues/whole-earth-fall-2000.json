@@ -1,0 +1,680 @@
+{
+  "title": "Whole Earth, Fall 2000",
+  "identifier": "wholeearthfall2000unse",
+  "year": 2000,
+  "season": "Fall",
+  "collection": "Whole Earth Magazine",
+  "collection_zh": "Whole Earth Magazine",
+  "pages": 113,
+  "url": "https://wholeearth.info/p/whole-earth-fall-2000",
+  "archive_url": "https://archive.org/details/wholeearthfall2000unse",
+  "pdf_url": "https://archive.org/download/wholeearthfall2000unse/wholeearthfall2000unse.pdf",
+  "cover_url": "https://archive.org/download/wholeearthfall2000unse/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthfall2000unse_djvu.txt",
+  "ocr_chars": 464084,
+  "significant_line_count": 12234,
+  "theme_counts": {
+    "software_computing": 85,
+    "tools_craft": 147,
+    "ecology_place": 436,
+    "learning_media": 266,
+    "community_politics": 196
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 69,
+      "page": 1,
+      "title": "AFFIRMATIVE FIANANCIAL",
+      "image_url": "https://archive.org/download/wholeearthfall2000unse/page/n2_w500.jpg"
+    },
+    {
+      "line": 788,
+      "page": 3,
+      "title": "MILL.",
+      "image_url": "https://archive.org/download/wholeearthfall2000unse/page/n4_w500.jpg"
+    },
+    {
+      "line": 1197,
+      "page": 103,
+      "title": "MILL.",
+      "image_url": "https://archive.org/download/wholeearthfall2000unse/page/n104_w500.jpg"
+    },
+    {
+      "line": 11142,
+      "page": 177,
+      "title": "PP. 912.95,",
+      "image_url": "https://archive.org/download/wholeearthfall2000unse/page/n178_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 69,
+      "text": "1 AFFIRMATIVE FIANANCIAL",
+      "score": 8
+    },
+    {
+      "line": 788,
+      "text": "3 MILL.",
+      "score": 8
+    },
+    {
+      "line": 1197,
+      "text": "103 MILL.",
+      "score": 8
+    },
+    {
+      "line": 1289,
+      "text": "1 MILL.",
+      "score": 8
+    },
+    {
+      "line": 11142,
+      "text": "177 PP. 912.95,",
+      "score": 8
+    },
+    {
+      "line": 3676,
+      "text": "RAPID ASSESSMENT PROGRAM |",
+      "score": 6
+    },
+    {
+      "line": 3680,
+      "text": "PROGRAM (RAP)",
+      "score": 6
+    },
+    {
+      "line": 11240,
+      "text": "PROGRAMME (SPREP)",
+      "score": 6
+    },
+    {
+      "line": 16888,
+      "text": "CONTROLLED ENERGY CORPORATION",
+      "score": 6
+    },
+    {
+      "line": 14641,
+      "text": "and Paris Review interviews. ,",
+      "score": 5
+    },
+    {
+      "line": 1,
+      "text": "A CALL TO INVENTORY ALL THE PLANET’S LIVING CREATURES. LESS THAN 5% ARE KNOWN.",
+      "score": 4
+    },
+    {
+      "line": 4,
+      "text": "ACCESS TO TOOLS, IDEAS, AND PRACTICES",
+      "score": 4
+    },
+    {
+      "line": 10,
+      "text": "REVOLUTION FROM THE MAEART OF NATURE |",
+      "score": 4
+    },
+    {
+      "line": 11,
+      "text": "OCTOBER 20 - 22 °",
+      "score": 4
+    },
+    {
+      "line": 22,
+      "text": "\\FAEL, CALIFORNIA",
+      "score": 4
+    },
+    {
+      "line": 30,
+      "text": "JULIA BUTTERFLY HILL",
+      "score": 4
+    },
+    {
+      "line": 31,
+      "text": "DAVE FOREMAN",
+      "score": 4
+    },
+    {
+      "line": 32,
+      "text": "STEVEN FOSTER",
+      "score": 4
+    },
+    {
+      "line": 33,
+      "text": "WEs JACKSON",
+      "score": 4
+    },
+    {
+      "line": 34,
+      "text": "DAvID KORTE",
+      "score": 4
+    },
+    {
+      "line": 35,
+      "text": "_ JERRY MANDER",
+      "score": 4
+    },
+    {
+      "line": 38,
+      "text": "PauL STAMETS",
+      "score": 4
+    },
+    {
+      "line": 39,
+      "text": "ALICE JALKER",
+      "score": 4
+    },
+    {
+      "line": 41,
+      "text": "PETER V NARSHALL",
+      "score": 4
+    },
+    {
+      "line": 62,
+      "text": "NATURE & SPI",
+      "score": 4
+    },
+    {
+      "line": 63,
+      "text": "RESTORATION",
+      "score": 4
+    },
+    {
+      "line": 67,
+      "text": "_ AUBREY ORGANICS",
+      "score": 4
+    },
+    {
+      "line": 68,
+      "text": "Bopy SHOP ° BIRKENSTOCK",
+      "score": 4
+    },
+    {
+      "line": 71,
+      "text": "GREEN DESIGN ~",
+      "score": 4
+    },
+    {
+      "line": 72,
+      "text": "MepIA & SOCIAL C",
+      "score": 4
+    },
+    {
+      "line": 73,
+      "text": "NATURAL MEDICINE",
+      "score": 4
+    },
+    {
+      "line": 76,
+      "text": "Foop & FARMING",
+      "score": 4
+    },
+    {
+      "line": 79,
+      "text": "GREE) MARKETPLACE, COM ® ODWALLA",
+      "score": 4
+    },
+    {
+      "line": 83,
+      "text": "SPIRIT ® DIRT.COM * MOTHER JONES",
+      "score": 4
+    },
+    {
+      "line": 84,
+      "text": "NATURAL Home e New DIMENSIONS 15910) 6)",
+      "score": 4
+    },
+    {
+      "line": 87,
+      "text": "SHAMBHALA SUN ® UTNE READER © WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 179,
+      "text": "UJ 8 )",
+      "score": 4
+    },
+    {
+      "line": 186,
+      "text": "ALL SPECIES INVENTORY",
+      "score": 4
+    },
+    {
+      "line": 187,
+      "text": "KEVIN KELLY",
+      "score": 4
+    },
+    {
+      "line": 192,
+      "text": "PETER WARSHALL il",
+      "score": 4
+    },
+    {
+      "line": 201,
+      "text": "INVENTORY THE |",
+      "score": 4
+    },
+    {
+      "line": 202,
+      "text": "RICARDO GUERRERO, LYNN MARGULIS,",
+      "score": 4
+    },
+    {
+      "line": 204,
+      "text": "AND MICHAEL DOLAN 14",
+      "score": 4
+    },
+    {
+      "line": 215,
+      "text": "DAVID QUAMMEN 20",
+      "score": 4
+    },
+    {
+      "line": 229,
+      "text": "PARATAXONOMISTS",
+      "score": 4
+    },
+    {
+      "line": 232,
+      "text": "NANA NAISBITT 28",
+      "score": 4
+    },
+    {
+      "line": 239,
+      "text": "A BIRD FLEA NEW TO BRITAIN",
+      "score": 4
+    },
+    {
+      "line": 240,
+      "text": "Hon. MiIRIAM ROTHSCHILD 33",
+      "score": 4
+    },
+    {
+      "line": 244,
+      "text": ". TAKE ME, LORD, TO AN UNEXPLORED",
+      "score": 4
+    },
+    {
+      "line": 247,
+      "text": "PLANET TEEMING WITH NEW LIFE FORMS",
+      "score": 4
+    },
+    {
+      "line": 250,
+      "text": "E.O. WILSON 34.",
+      "score": 4
+    },
+    {
+      "line": 254,
+      "text": "NABOKOV’S BUTTERFLIES 36",
+      "score": 4
+    },
+    {
+      "line": 266,
+      "text": "(ICROCOSMOS!",
+      "score": 4
+    },
+    {
+      "line": 271,
+      "text": "STEPHEN JAY GOULD",
+      "score": 4
+    },
+    {
+      "line": 278,
+      "text": "PETER WARSHALL 43",
+      "score": 4
+    },
+    {
+      "line": 279,
+      "text": "WOLFF PURCELL 53",
+      "score": 4
+    },
+    {
+      "line": 286,
+      "text": "sere STEWART BRAND 58",
+      "score": 4
+    },
+    {
+      "line": 298,
+      "text": "WENDELL BERRY 61",
+      "score": 4
+    },
+    {
+      "line": 318,
+      "text": "\"RISE: IS LORE GION",
+      "score": 4
+    },
+    {
+      "line": 322,
+      "text": "LANAKILA BRANDT 64",
+      "score": 4
+    },
+    {
+      "line": 325,
+      "text": "‘THE UNADULTERATED ALOHA [TOUR",
+      "score": 4
+    },
+    {
+      "line": 327,
+      "text": "PAMELA FRIERSON 66",
+      "score": 4
+    },
+    {
+      "line": 336,
+      "text": "TOSECTION 69",
+      "score": 4
+    },
+    {
+      "line": 339,
+      "text": "HAWAIIAN NATIVES HOLDING ON",
+      "score": 4
+    },
+    {
+      "line": 340,
+      "text": "PHoTos By DAvID LIITTSCHWAGER AND SUSAN MIDDLETON",
+      "score": 4
+    },
+    {
+      "line": 341,
+      "text": "IN COLLABORATION WITH ENVIRONMENTAL DEFENSE",
+      "score": 4
+    },
+    {
+      "line": 349,
+      "text": "AS LO RRA TS SA ST I SR TES ET CSET ET BE TS",
+      "score": 4
+    },
+    {
+      "line": 357,
+      "text": "ANNA PoRTNOY",
+      "score": 4
+    },
+    {
+      "line": 366,
+      "text": "SXOLO) ck Cand CO SLO) OL O8 I)",
+      "score": 4
+    },
+    {
+      "line": 395,
+      "text": "BIOPAT 46",
+      "score": 4
+    },
+    {
+      "line": 504,
+      "text": "FALL: 2000",
+      "score": 4
+    },
+    {
+      "line": 577,
+      "text": "SUBSCRIPTIONS: In US $24;",
+      "score": 4
+    },
+    {
+      "line": 603,
+      "text": "A CALL FOR THE DISCOVERY OF ALL LIFE-FORMS ON EARTH",
+      "score": 4
+    },
+    {
+      "line": 604,
+      "text": "BY KEVIN KELLY",
+      "score": 4
+    },
+    {
+      "line": 653,
+      "text": "Fatt 2000 WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 737,
+      "text": "i PROKARYOTES",
+      "score": 4
+    },
+    {
+      "line": 742,
+      "text": "Kingdom: BACTERIA AND ARCHEA",
+      "score": 4
+    },
+    {
+      "line": 792,
+      "text": "WHOLE EARTH FALL 2000",
+      "score": 4
+    },
+    {
+      "line": 851,
+      "text": "1.2 MILL.",
+      "score": 4
+    },
+    {
+      "line": 930,
+      "text": "SEE KEY TO NUMBERS IN BOX FOR KINGDOM,",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 4,
+      "term": "tools",
+      "snippet": "A CALL TO INVENTORY ALL THE PLANET’S LIVING CREATURES. LESS THAN 5% ARE KNOWN. ACCESS TO TOOLS, IDEAS, AND PRACTICES Fall 2000 REVOLUTION FROM THE MAEART OF NATURE | OCTOBER 20 - 22 °"
+    },
+    {
+      "line": 113,
+      "term": "interview",
+      "snippet": "ja insightful Writings by teachers Parents and ACctiVists on diverse educational] alternatives Includes interviews With leading educational] innovators anda -| ©COMprehensive resource directory : $19.95/yr. Free Sample issue."
+    },
+    {
+      "line": 120,
+      "term": "learning",
+      "snippet": "-| ©COMprehensive resource directory : $19.95/yr. Free Sample issue. Learning hirty educators and parent activists pee in alternative schools collabor- ative homeschooling and Sustainable commu-"
+    },
+    {
+      "line": 126,
+      "term": "learning",
+      "snippet": "nity development describe their efforts to replace factory-mode| schooling With partic; pa- tory learning centers. Riane Eisler (author of Tomorrow's Children, The Chalice and the Blade & other books) calls this a Wwonderfi] extremely ; “Useful book ‘about ‘an important selforganizing"
+    },
+    {
+      "line": 143,
+      "term": "learning",
+      "snippet": "atthew Appleton lipdates and expands M UPONAS, Nejl|'s 8roundbreaking ideas about freedom in learning and 8rowing. According Co Willian Ayers ( distinguished Professor of education at the University of Illinois at Chicago) this book connects ys With"
+    },
+    {
+      "line": 260,
+      "term": "tools",
+      "snippet": "view of butterflies known as the Blues. * Describe 38 Tools and All Species 40 All Species (ICROCOSMOS! What’s in an Animal’s Name? A Taxonomist’s"
+    },
+    {
+      "line": 733,
+      "term": "ecology",
+      "snippet": "have an all species inventory first. Biocensus tallies can only follow inventory counts. 3) Ecology: The web of interactions between organisms and their environments, including other i PROKARYOTES (no nucleus in cell)"
+    },
+    {
+      "line": 978,
+      "term": "community",
+      "snippet": "collectors, backers, hosts, commercializers, and the global public? While the taxonomic and systematics community has evolved methods that work in many cases, it is not clear that these ways will scale up or withstand new technologies. The more successful this project is, the more visible the issues will be, and"
+    },
+    {
+      "line": 1300,
+      "term": "tools",
+      "snippet": "is that the private wealth generated by the New Economy-along with new tools such as the Internet, GPS for geo-location, and DNA analysis- may make the Linnaean task finally completable. And not a decade too"
+    },
+    {
+      "line": 1586,
+      "term": "community",
+      "snippet": "fifty pages to deliberating the first broad-based attempt (not located exclusively within the academ- ic/scientific community) to ferret out and describe life on Earth, without arrogance or possessiveness or sacrilege. Disclaimer: This issue does not necessarily"
+    },
+    {
+      "line": 1673,
+      "term": "ecology",
+      "snippet": "attract active fans to protect it and spread news about it to the world at large. The rallying cry: Meld the best of planetary ecology with the best of digital technology (page 50). Inspired by the all species inventory, we foretell new forms of globalocalism-decentralized academ-"
+    },
+    {
+      "line": 1765,
+      "term": "learning",
+      "snippet": "call “the perfection of being local’-knowing inti- mately whom you live among. Biologists call this learning “fine grain,” as opposed to “coarse grain.” Listening and naming, entering the local mysteries and enjoying individuals like the singer of the music coming from my backyard coyote bush. Very"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "A CALL TO INVENTORY ALL THE PLANET’S LIVING CREATURES. LESS THAN 5% ARE KNOWN."
+    },
+    {
+      "line": 4,
+      "text": "ACCESS TO TOOLS, IDEAS, AND PRACTICES"
+    },
+    {
+      "line": 7,
+      "text": "Fall 2000"
+    },
+    {
+      "line": 10,
+      "text": "REVOLUTION FROM THE MAEART OF NATURE |"
+    },
+    {
+      "line": 11,
+      "text": "OCTOBER 20 - 22 °"
+    },
+    {
+      "line": 14,
+      "text": "wok ope"
+    },
+    {
+      "line": 22,
+      "text": "\\FAEL, CALIFORNIA"
+    },
+    {
+      "line": 25,
+      "text": "celebratend more fully"
+    },
+    {
+      "line": 26,
+      "text": "Over 100 Presenters Including,"
+    },
+    {
+      "line": 29,
+      "text": "the possibilities of"
+    },
+    {
+      "line": 30,
+      "text": "JULIA BUTTERFLY HILL"
+    },
+    {
+      "line": 31,
+      "text": "DAVE FOREMAN"
+    },
+    {
+      "line": 32,
+      "text": "STEVEN FOSTER"
+    },
+    {
+      "line": 33,
+      "text": "WEs JACKSON"
+    },
+    {
+      "line": 34,
+      "text": "DAvID KORTE"
+    },
+    {
+      "line": 35,
+      "text": "_ JERRY MANDER"
+    },
+    {
+      "line": 36,
+      "text": "WILLIAM M cDono’"
+    },
+    {
+      "line": 37,
+      "text": "Anrta RopDIck"
+    },
+    {
+      "line": 38,
+      "text": "PauL STAMETS"
+    },
+    {
+      "line": 39,
+      "text": "ALICE JALKER"
+    },
+    {
+      "line": 41,
+      "text": "PETER V NARSHALL"
+    },
+    {
+      "line": 44,
+      "text": "creating a world"
+    },
+    {
+      "line": 45,
+      "text": "that is conducive"
+    },
+    {
+      "line": 46,
+      "text": "o life, Bioneers Ky"
+    },
+    {
+      "line": 47,
+      "text": "central to the"
+    },
+    {
+      "line": 50,
+      "text": "re-il agination"
+    },
+    {
+      "line": 53,
+      "text": "of wh at it means"
+    },
+    {
+      "line": 54,
+      "text": "to be | human.”"
+    },
+    {
+      "line": 57,
+      "text": "| ; Paul Hawken"
+    },
+    {
+      "line": 60,
+      "text": "Wy Colge lo a t :"
+    },
+    {
+      "line": 61,
+      "text": "GLOBALIZATION & Environ"
+    },
+    {
+      "line": 62,
+      "text": "NATURE & SPI"
+    },
+    {
+      "line": 63,
+      "text": "RESTORATION"
+    },
+    {
+      "line": 66,
+      "text": "Sponsors"
+    },
+    {
+      "line": 67,
+      "text": "_ AUBREY ORGANICS"
+    },
+    {
+      "line": 68,
+      "text": "Bopy SHOP ° BIRKENSTOCK"
+    },
+    {
+      "line": 69,
+      "text": "1 AFFIRMATIVE FIANANCIAL"
+    },
+    {
+      "line": 70,
+      "text": "In-depth Afterno ARTHBOUND FARM ° EcLectic INSTITUTE"
+    },
+    {
+      "line": 71,
+      "text": "GREEN DESIGN ~"
+    },
+    {
+      "line": 72,
+      "text": "MepIA & SOCIAL C"
+    }
+  ]
+}

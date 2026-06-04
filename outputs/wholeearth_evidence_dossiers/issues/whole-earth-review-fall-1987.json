@@ -1,0 +1,800 @@
+{
+  "title": "Whole Earth Review, Fall 1987",
+  "identifier": "wholeearthreview00unse_11",
+  "year": 1987,
+  "season": "Fall",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 151,
+  "url": "https://wholeearth.info/p/whole-earth-review-fall-1987",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_11",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_11/wholeearthreview00unse_11.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_11/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthreview00unse_11_djvu.txt",
+  "ocr_chars": 632678,
+  "significant_line_count": 16123,
+  "theme_counts": {
+    "software_computing": 49,
+    "tools_craft": 91,
+    "ecology_place": 344,
+    "learning_media": 373,
+    "community_politics": 446
+  },
+  "top_themes": [
+    "community_politics",
+    "learning_media",
+    "ecology_place"
+  ],
+  "page_markers": [
+    {
+      "line": 384,
+      "page": 2,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n3_w500.jpg"
+    },
+    {
+      "line": 598,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO, CA 94965 3",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n28_w500.jpg"
+    },
+    {
+      "line": 631,
+      "page": 4,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n5_w500.jpg"
+    },
+    {
+      "line": 1310,
+      "page": 8,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n9_w500.jpg"
+    },
+    {
+      "line": 1581,
+      "page": 10,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n11_w500.jpg"
+    },
+    {
+      "line": 1826,
+      "page": 12,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n13_w500.jpg"
+    },
+    {
+      "line": 2551,
+      "page": 16,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n17_w500.jpg"
+    },
+    {
+      "line": 3303,
+      "page": 20,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n21_w500.jpg"
+    },
+    {
+      "line": 3478,
+      "page": 22,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n23_w500.jpg"
+    },
+    {
+      "line": 3773,
+      "page": 24,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n25_w500.jpg"
+    },
+    {
+      "line": 4062,
+      "page": 26,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n27_w500.jpg"
+    },
+    {
+      "line": 4522,
+      "page": 30,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n31_w500.jpg"
+    },
+    {
+      "line": 4744,
+      "page": 32,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n33_w500.jpg"
+    },
+    {
+      "line": 5077,
+      "page": 34,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n35_w500.jpg"
+    },
+    {
+      "line": 5449,
+      "page": 36,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n37_w500.jpg"
+    },
+    {
+      "line": 5780,
+      "page": 38,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n39_w500.jpg"
+    },
+    {
+      "line": 6086,
+      "page": 40,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n41_w500.jpg"
+    },
+    {
+      "line": 6311,
+      "page": 42,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n43_w500.jpg"
+    },
+    {
+      "line": 6862,
+      "page": 17,
+      "title": "SQUNDS LIKE",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n18_w500.jpg"
+    },
+    {
+      "line": 7295,
+      "page": 48,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n49_w500.jpg"
+    },
+    {
+      "line": 7639,
+      "page": 50,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n51_w500.jpg"
+    },
+    {
+      "line": 7994,
+      "page": 52,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n53_w500.jpg"
+    },
+    {
+      "line": 8270,
+      "page": 54,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n55_w500.jpg"
+    },
+    {
+      "line": 8621,
+      "page": 56,
+      "title": "WHOLE EARTH REVIEW FALL 1987",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_11/page/n57_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 384,
+      "text": "2 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 631,
+      "text": "4 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 1310,
+      "text": "8 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 1581,
+      "text": "10 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 1826,
+      "text": "12 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 2551,
+      "text": "16 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 3303,
+      "text": "20 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 3478,
+      "text": "22 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 3773,
+      "text": "24 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 4062,
+      "text": "26 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 4522,
+      "text": "30 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 4744,
+      "text": "32 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 5077,
+      "text": "34 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 5449,
+      "text": "36 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 5780,
+      "text": "38 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 6086,
+      "text": "40 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 6311,
+      "text": "42 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 7295,
+      "text": "48 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 7639,
+      "text": "50 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 7994,
+      "text": "52 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 8270,
+      "text": "54 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 8621,
+      "text": "56 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 9030,
+      "text": "58 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 9422,
+      "text": "60 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 9583,
+      "text": "62 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 9902,
+      "text": "64 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 10295,
+      "text": "66 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 10728,
+      "text": "68 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 10977,
+      "text": "70 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 11160,
+      "text": "72 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 11445,
+      "text": "74 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 11738,
+      "text": "76 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 12160,
+      "text": "78 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 12434,
+      "text": "80 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 12863,
+      "text": "82 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 13582,
+      "text": "86 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 13788,
+      "text": "88 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 13934,
+      "text": "90 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 14202,
+      "text": "92 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 14452,
+      "text": "94 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 14824,
+      "text": "96 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 15183,
+      "text": "98 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 15486,
+      "text": "100 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 15600,
+      "text": "102 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 15835,
+      "text": "104 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 16097,
+      "text": "106 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 18160,
+      "text": "120 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 19194,
+      "text": "128 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 19470,
+      "text": "130 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 21446,
+      "text": "138 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 21925,
+      "text": "140 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 22836,
+      "text": "142 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 23219,
+      "text": "144 WHOLE EARTH REVIEW FALL 1987",
+      "score": 10
+    },
+    {
+      "line": 78,
+      "text": "COMMUNITY LEARNING |",
+      "score": 8
+    },
+    {
+      "line": 598,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 3",
+      "score": 8
+    },
+    {
+      "line": 953,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5",
+      "score": 8
+    },
+    {
+      "line": 1286,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 7",
+      "score": 8
+    },
+    {
+      "line": 1487,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 9",
+      "score": 8
+    },
+    {
+      "line": 2470,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : 5",
+      "score": 8
+    },
+    {
+      "line": 3443,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 2 '",
+      "score": 8
+    },
+    {
+      "line": 3740,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 23",
+      "score": 8
+    },
+    {
+      "line": 4036,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 25",
+      "score": 8
+    },
+    {
+      "line": 4993,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 33",
+      "score": 8
+    },
+    {
+      "line": 5394,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 3 5",
+      "score": 8
+    },
+    {
+      "line": 5747,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 37",
+      "score": 8
+    },
+    {
+      "line": 6027,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 39",
+      "score": 8
+    },
+    {
+      "line": 6498,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 43",
+      "score": 8
+    },
+    {
+      "line": 6770,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 45",
+      "score": 8
+    },
+    {
+      "line": 6862,
+      "text": "17 SQUNDS LIKE",
+      "score": 8
+    },
+    {
+      "line": 7136,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 47",
+      "score": 8
+    },
+    {
+      "line": 7497,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 49",
+      "score": 8
+    },
+    {
+      "line": 8194,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 53",
+      "score": 8
+    },
+    {
+      "line": 8546,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 55",
+      "score": 8
+    },
+    {
+      "line": 8925,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 57",
+      "score": 8
+    },
+    {
+      "line": 9317,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 59",
+      "score": 8
+    },
+    {
+      "line": 9509,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 6 I",
+      "score": 8
+    },
+    {
+      "line": 9817,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 63",
+      "score": 8
+    },
+    {
+      "line": 10198,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 65",
+      "score": 8
+    },
+    {
+      "line": 10566,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 67",
+      "score": 8
+    },
+    {
+      "line": 10932,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 69",
+      "score": 8
+    }
+  ],
+  "snippets": [
+    {
+      "line": 5,
+      "term": "tools",
+      "snippet": "No. 56 = Fall 1987 $5 (Canadian $6) ACCESS TO TOOLS & IDEAS p- 2 War Games: Almost Real"
+    },
+    {
+      "line": 73,
+      "term": "communications",
+      "snippet": "DEPART MENTS/REVIEWS REVIEW COMMUNICATIONS 107 On-Board Courier Travel by Richard Mahler | 19 Howl 0 The Fessenden Review CRAFT 39 The Temple of Baseball 0 Stories 112 The Maker’s Hand 0 Turning Wood 46 The Uncanny X-Men by Art Kleiner 113 Tiny Houses 0 Walpole Woodworkers"
+    },
+    {
+      "line": 78,
+      "term": "community",
+      "snippet": "39 The Temple of Baseball 0 Stories 112 The Maker’s Hand 0 Turning Wood 46 The Uncanny X-Men by Art Kleiner 113 Tiny Houses 0 Walpole Woodworkers COMMUNITY LEARNING | 47 Memory of Fire: Genesis/Faces and Masks 118 A Client Called Noah 0 Making It Right : O A Quick & Dirty Guide to War O Circus in a Suitcase 57 The City of Joy O Hope in Hard Times 119 “Where Did You Go?” “Out.” “What Did"
+    },
+    {
+      "line": 86,
+      "term": "whole systems",
+      "snippet": "58 OURS o Faint Trails Be You ech ies ee | a Ge ers Ou eed eee chad Shoes = Pacific Puzzle | WHOLE SYSTEMS Company 0 Things of Science i 68 Sovieticus 0 Imported Publications 121 Tin Toy Dreams | 69 Snow Lion Publications 0 The Nuer 0 On the Frontiers of Science 76 The Body In Pain o A Perfect Spy met haycoeirsens eran"
+    },
+    {
+      "line": 242,
+      "term": "interview",
+      "snippet": "by David Guy 20 No More Bagels An Interview With Allen Ginsberg by Steve Silberman Autogeddon"
+    },
+    {
+      "line": 828,
+      "term": "community",
+      "snippet": "would say this in jest, yet I was concerned with getting old ina gay community, which triples the emphasis society has already placed on youth and beauty. My cries were silent but Lola had"
+    },
+    {
+      "line": 2241,
+      "term": "community",
+      "snippet": "scared. I would miss my students, miss my colleagues. I was leaving a small community for the cold cruel world. It was a major mo- ment in my life, and I wanted some notice to be taken of it. I"
+    },
+    {
+      "line": 3108,
+      "term": "communications",
+      "snippet": "“Oh!” go wir ” a COMMUNICATIONS Howl Howl is the eye through which a significant part of a generation saw themselves. It has the force of truth that"
+    },
+    {
+      "line": 3281,
+      "term": "interview",
+      "snippet": "ROR eas o% SRRECSR AN INTERVIEW WITH ALLEN GINSBERG | PHOTOGRAPHS BY ALLEN GINSBERG"
+    },
+    {
+      "line": 3414,
+      "term": "community",
+      "snippet": "ropa, so there’s a question of now having to give them a spiritual infusion in the secular Brooklyn community scene. SS: How large are your classes? AG: Small - so smail that I asked for an under- graduate larger class to get at younger meat. Maybe"
+    },
+    {
+      "line": 3453,
+      "term": "community",
+      "snippet": "Gree, heese2h, Masa, March UF 1186, 6 ig Oe te brouec! Y Grcthy = dae BY Sax Book $, A Cang while basis for a community, based on devotion and meditation and actual awareness practice; rather than theory of getting high, or ecstatic, or... And the Buddhists after all have several thousand years’"
+    },
+    {
+      "line": 3545,
+      "term": "community",
+      "snippet": "it kinda wide open to do what I want and say what I want and this year, for the first time, the American academic community and the media are treating me like an elder statesman rather than a young upstart or a media creep. There was a Modern Language Association symposium on Howl,"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "No. 56 = Fall 1987 $5 (Canadian $6)"
+    },
+    {
+      "line": 4,
+      "text": "ACCESS TO"
+    },
+    {
+      "line": 5,
+      "text": "TOOLS & IDEAS"
+    },
+    {
+      "line": 8,
+      "text": "p- 2"
+    },
+    {
+      "line": 11,
+      "text": "War Games:"
+    },
+    {
+      "line": 14,
+      "text": "Almost Real"
+    },
+    {
+      "line": 15,
+      "text": "p- 78"
+    },
+    {
+      "line": 18,
+      "text": "Allen"
+    },
+    {
+      "line": 21,
+      "text": "Ginsberg"
+    },
+    {
+      "line": 24,
+      "text": "Does Without"
+    },
+    {
+      "line": 25,
+      "text": "p- 20"
+    },
+    {
+      "line": 28,
+      "text": "Adoption:"
+    },
+    {
+      "line": 31,
+      "text": "Two Views"
+    },
+    {
+      "line": 32,
+      "text": "p. 48"
+    },
+    {
+      "line": 35,
+      "text": "Boys And 7"
+    },
+    {
+      "line": 36,
+      "text": "Toys S"
+    },
+    {
+      "line": 37,
+      "text": "p. 127"
+    },
+    {
+      "line": 40,
+      "text": "The Cast"
+    },
+    {
+      "line": 42,
+      "text": "of Othello"
+    },
+    {
+      "line": 43,
+      "text": "Goes On the"
+    },
+    {
+      "line": 44,
+      "text": "Newlywed"
+    },
+    {
+      "line": 47,
+      "text": "Game"
+    },
+    {
+      "line": 48,
+      "text": "p. 130"
+    },
+    {
+      "line": 54,
+      "text": "Se a ee yl a es” Be A Pe ey"
+    },
+    {
+      "line": 57,
+      "text": "COVER: Simple question, complex answer. Several months ago I asked a number of people how they played - what"
+    },
+    {
+      "line": 58,
+      "text": "kind of toys and games were most attractive and why. I had some surprising responses, many of them printed here. Rob"
+    },
+    {
+      "line": 59,
+      "text": "Serian jokes about dressing up in drag for fun, but his experience, as described in “Big Hair and New Makeup” on p. 2,"
+    },
+    {
+      "line": 60,
+      "text": "is quite serious. He is pictured on the cover in his “other” version, Lola Berry, a photo taken by our own Don Ryan"
+    },
+    {
+      "line": 61,
+      "text": "in what may be Whole Earth’s first fashion show. -Sallie Tisdale"
+    },
+    {
+      "line": 64,
+      "text": "OLE EARTH"
+    },
+    {
+      "line": 67,
+      "text": "DEPART MENTS/REVIEWS"
+    },
+    {
+      "line": 70,
+      "text": "REVIEW"
+    },
+    {
+      "line": 73,
+      "text": "COMMUNICATIONS 107 On-Board Courier Travel by Richard Mahler |"
+    },
+    {
+      "line": 74,
+      "text": "19 Howl 0 The Fessenden Review CRAFT"
+    },
+    {
+      "line": 75,
+      "text": "39 The Temple of Baseball 0 Stories 112 The Maker’s Hand 0 Turning Wood"
+    },
+    {
+      "line": 76,
+      "text": "46 The Uncanny X-Men by Art Kleiner 113 Tiny Houses 0 Walpole Woodworkers"
+    },
+    {
+      "line": 78,
+      "text": "COMMUNITY LEARNING |"
+    },
+    {
+      "line": 79,
+      "text": "47 Memory of Fire: Genesis/Faces and Masks 118 A Client Called Noah 0 Making It Right :"
+    },
+    {
+      "line": 81,
+      "text": "O A Quick & Dirty Guide to War O Circus in a Suitcase"
+    },
+    {
+      "line": 82,
+      "text": "57 The City of Joy O Hope in Hard Times 119 “Where Did You Go?” “Out.” “What Did"
+    }
+  ]
+}

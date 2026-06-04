@@ -1,0 +1,19 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Large regenerated source/cache data from Internet Archive.
+work/wholeearth/
+work/wholeearth/page_xml/
+outputs/wholeearth_page_dossiers/
+
+# Runtime logs.
+outputs/*.log
+outputs/**/*.log
+outputs/**/*_run_*.log
+
+# Design experiments and screenshot QA artifacts.
+outputs/design_*/
+outputs/*_qa.png
+outputs/*_redesign_*.png
+outputs/wholeearth_reader_index_v011.png

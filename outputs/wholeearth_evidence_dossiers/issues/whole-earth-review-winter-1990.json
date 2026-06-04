@@ -1,0 +1,800 @@
+{
+  "title": "Whole Earth Review, Winter 1990",
+  "identifier": "wholeearthreview00unse_24",
+  "year": 1990,
+  "season": "Winter",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/whole-earth-review-winter-1990",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_24",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_24/wholeearthreview00unse_24.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_24/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthreview00unse_24_djvu.txt",
+  "ocr_chars": 636808,
+  "significant_line_count": 16055,
+  "theme_counts": {
+    "software_computing": 266,
+    "tools_craft": 302,
+    "ecology_place": 454,
+    "learning_media": 364,
+    "community_politics": 578
+  },
+  "top_themes": [
+    "community_politics",
+    "ecology_place",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 808,
+      "page": 4,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n5_w500.jpg"
+    },
+    {
+      "line": 949,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO, CA 94965 5",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n28_w500.jpg"
+    },
+    {
+      "line": 1018,
+      "page": 6,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n7_w500.jpg"
+    },
+    {
+      "line": 1269,
+      "page": 8,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n9_w500.jpg"
+    },
+    {
+      "line": 2885,
+      "page": 20,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n21_w500.jpg"
+    },
+    {
+      "line": 3350,
+      "page": 22,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n23_w500.jpg"
+    },
+    {
+      "line": 3765,
+      "page": 24,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n25_w500.jpg"
+    },
+    {
+      "line": 4245,
+      "page": 26,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n27_w500.jpg"
+    },
+    {
+      "line": 4549,
+      "page": 28,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n29_w500.jpg"
+    },
+    {
+      "line": 4983,
+      "page": 30,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n31_w500.jpg"
+    },
+    {
+      "line": 5436,
+      "page": 32,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n33_w500.jpg"
+    },
+    {
+      "line": 5694,
+      "page": 34,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n35_w500.jpg"
+    },
+    {
+      "line": 6238,
+      "page": 38,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n39_w500.jpg"
+    },
+    {
+      "line": 6518,
+      "page": 40,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n41_w500.jpg"
+    },
+    {
+      "line": 6894,
+      "page": 42,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n43_w500.jpg"
+    },
+    {
+      "line": 7137,
+      "page": 44,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n45_w500.jpg"
+    },
+    {
+      "line": 7708,
+      "page": 48,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n49_w500.jpg"
+    },
+    {
+      "line": 8031,
+      "page": 50,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n51_w500.jpg"
+    },
+    {
+      "line": 8450,
+      "page": 52,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n53_w500.jpg"
+    },
+    {
+      "line": 8825,
+      "page": 54,
+      "title": "WHOLE EARTH REVIEW WINTER 1990.",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n55_w500.jpg"
+    },
+    {
+      "line": 9046,
+      "page": 56,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n57_w500.jpg"
+    },
+    {
+      "line": 9336,
+      "page": 58,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n59_w500.jpg"
+    },
+    {
+      "line": 9605,
+      "page": 60,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n61_w500.jpg"
+    },
+    {
+      "line": 9905,
+      "page": 62,
+      "title": "WHOLE EARTH REVIEW WINTER 1990",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_24/page/n63_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 808,
+      "text": "4 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 1018,
+      "text": "6 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 1269,
+      "text": "8 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 2885,
+      "text": "20 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 3350,
+      "text": "22 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 3765,
+      "text": "24 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 4245,
+      "text": "26 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 4549,
+      "text": "28 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 4983,
+      "text": "30 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 5436,
+      "text": "32 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 5694,
+      "text": "34 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 6238,
+      "text": "38 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 6518,
+      "text": "40 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 6894,
+      "text": "42 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 7137,
+      "text": "44 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 7708,
+      "text": "48 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 8031,
+      "text": "50 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 8450,
+      "text": "52 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 8825,
+      "text": "54 WHOLE EARTH REVIEW WINTER 1990.",
+      "score": 10
+    },
+    {
+      "line": 9046,
+      "text": "56 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 9336,
+      "text": "58 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 9605,
+      "text": "60 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 9905,
+      "text": "62 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 10150,
+      "text": "64 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 10390,
+      "text": "66 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 10615,
+      "text": "68 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 10956,
+      "text": "70 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 11229,
+      "text": "72 WHOLE EARTH REVIEW WINTER 1990.",
+      "score": 10
+    },
+    {
+      "line": 11533,
+      "text": "74 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 11829,
+      "text": "716 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 12209,
+      "text": "78 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 12527,
+      "text": "80 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 13117,
+      "text": "84 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 13357,
+      "text": "86 WHOLE EARTH REVIEW. WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 13720,
+      "text": "88 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 14023,
+      "text": "90 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 14218,
+      "text": "92 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 14406,
+      "text": "94 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 14729,
+      "text": "96 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 15065,
+      "text": "98 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 16223,
+      "text": "06 WHOLE EARTH REVIEW WINTER 1990",
+      "score": 10
+    },
+    {
+      "line": 949,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5",
+      "score": 8
+    },
+    {
+      "line": 1222,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 7",
+      "score": 8
+    },
+    {
+      "line": 2056,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : 3",
+      "score": 8
+    },
+    {
+      "line": 2392,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 I 5",
+      "score": 8
+    },
+    {
+      "line": 3190,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 21",
+      "score": 8
+    },
+    {
+      "line": 3687,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 23",
+      "score": 8
+    },
+    {
+      "line": 4173,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 25",
+      "score": 8
+    },
+    {
+      "line": 4462,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 27",
+      "score": 8
+    },
+    {
+      "line": 4896,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 29",
+      "score": 8
+    },
+    {
+      "line": 5351,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 3 :",
+      "score": 8
+    },
+    {
+      "line": 5610,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 33",
+      "score": 8
+    },
+    {
+      "line": 5904,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 3 5",
+      "score": 8
+    },
+    {
+      "line": 6180,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 37",
+      "score": 8
+    },
+    {
+      "line": 7057,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 43",
+      "score": 8
+    },
+    {
+      "line": 7315,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 45",
+      "score": 8
+    },
+    {
+      "line": 7657,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 47",
+      "score": 8
+    },
+    {
+      "line": 7923,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 49",
+      "score": 8
+    },
+    {
+      "line": 8788,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 53",
+      "score": 8
+    },
+    {
+      "line": 8963,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 55",
+      "score": 8
+    },
+    {
+      "line": 9260,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 57",
+      "score": 8
+    },
+    {
+      "line": 9543,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 59",
+      "score": 8
+    },
+    {
+      "line": 9822,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 6 '",
+      "score": 8
+    },
+    {
+      "line": 10117,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 63",
+      "score": 8
+    },
+    {
+      "line": 10318,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 65",
+      "score": 8
+    },
+    {
+      "line": 10541,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 67",
+      "score": 8
+    },
+    {
+      "line": 10798,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 69",
+      "score": 8
+    },
+    {
+      "line": 11473,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 73",
+      "score": 8
+    },
+    {
+      "line": 11755,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 75",
+      "score": 8
+    },
+    {
+      "line": 12155,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 77",
+      "score": 8
+    },
+    {
+      "line": 12471,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 79",
+      "score": 8
+    },
+    {
+      "line": 13063,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 83",
+      "score": 8
+    },
+    {
+      "line": 13295,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 85",
+      "score": 8
+    },
+    {
+      "line": 13654,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 87",
+      "score": 8
+    },
+    {
+      "line": 13955,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 89",
+      "score": 8
+    },
+    {
+      "line": 14366,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 93",
+      "score": 8
+    },
+    {
+      "line": 14586,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 95",
+      "score": 8
+    },
+    {
+      "line": 15023,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 97",
+      "score": 8
+    },
+    {
+      "line": 15242,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 99",
+      "score": 8
+    },
+    {
+      "line": 16058,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : 05",
+      "score": 8
+    }
+  ],
+  "snippets": [
+    {
+      "line": 2,
+      "term": "communications",
+      "snippet": "The Culture of Corporate Beings ¢ Manga ° Restoration Tax Cross-Cultural Communications ¢ Baseball Behind Barbed Wire ACCESS Se ae eS eg"
+    },
+    {
+      "line": 78,
+      "term": "tools",
+      "snippet": "answers and get started on some of the hard questions. The questions raised here can be used as tools for understanding some of the issues that separate American and Japan- ese interests, as maps to some of"
+    },
+    {
+      "line": 140,
+      "term": "energy",
+      "snippet": "about Japan’s intentions and Amer- ica’s options, everybody seems to agree that there’s enough raw energy in the relationship between these different, aggressive, resourceful cultures to meet challenges as diffi-"
+    },
+    {
+      "line": 354,
+      "term": "energy",
+      "snippet": "mechanical replication of brain functions, non-polluting energy- efficient power sys- tems, and food sources not limited by envi-"
+    },
+    {
+      "line": 475,
+      "term": "tools",
+      "snippet": "culture shock. | came to understand that the tools we are design- ing for CSCW are more usefully seen as cultural tools than"
+    },
+    {
+      "line": 478,
+      "term": "tools",
+      "snippet": "ing for CSCW are more usefully seen as cultural tools than as computer tools. -Cross-Cultural Communication"
+    },
+    {
+      "line": 479,
+      "term": "tools",
+      "snippet": "more usefully seen as cultural tools than as computer tools. -Cross-Cultural Communication & Computer-"
+    },
+    {
+      "line": 922,
+      "term": "energy",
+      "snippet": "ments of a complex ‘‘organism.’ All of them, for example, share basic organizational pro- cesses, structures and energy needs; generate psychic membranes that divide their membership from outsiders; take in and process information and nourishment from the environment; specialize, control and outlive their"
+    },
+    {
+      "line": 968,
+      "term": "community",
+      "snippet": "was dictated by the same common sense that informed the disciplines of human health. Ancient Hindu Brah- mins also described their community’s castes in terms of the limbs and organs of a physical body (predictably selecting themselves for the preeminent and metabolic- ally privileged role of the brain). And further to the West,"
+    },
+    {
+      "line": 1093,
+      "term": "energy",
+      "snippet": "Translated (too) simply, ki means vital force. Ki in the social sphere is the living force of attention or directed consciousness, carrying energy from the perceiver to the perceived and tying them together, much as energy ex- ee Se _spectives of genetics, socialization"
+    },
+    {
+      "line": 1094,
+      "term": "energy",
+      "snippet": "social sphere is the living force of attention or directed consciousness, carrying energy from the perceiver to the perceived and tying them together, much as energy ex- ee Se _spectives of genetics, socialization change bonds atoms and molecules. Social ki, while in-"
+    },
+    {
+      "line": 1130,
+      "term": "community",
+      "snippet": "the ki of the members circulating totally within its membranes. The kaisha (corporation) is the community to which one belongs primarily, and which is all- important in one’s life. Thus in most cases the company provides sole social existence of a per-"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "The Culture of Corporate Beings ¢ Manga ° Restoration Tax"
+    },
+    {
+      "line": 2,
+      "text": "Cross-Cultural Communications ¢ Baseball Behind Barbed Wire"
+    },
+    {
+      "line": 5,
+      "text": "ACCESS"
+    },
+    {
+      "line": 11,
+      "text": "Se ae"
+    },
+    {
+      "line": 14,
+      "text": "eS eg"
+    },
+    {
+      "line": 17,
+      "text": "Fie st"
+    },
+    {
+      "line": 18,
+      "text": "ee eee. #"
+    },
+    {
+      "line": 27,
+      "text": "i) er etd"
+    },
+    {
+      "line": 28,
+      "text": "- a NT"
+    },
+    {
+      "line": 30,
+      "text": "<t he Sint."
+    },
+    {
+      "line": 32,
+      "text": "Se - . : i P"
+    },
+    {
+      "line": 50,
+      "text": "rrr ees"
+    },
+    {
+      "line": 53,
+      "text": "ACCESS"
+    },
+    {
+      "line": 54,
+      "text": "JAPAN"
+    },
+    {
+      "line": 57,
+      "text": "The Male Journey in Japanese Prints"
+    },
+    {
+      "line": 60,
+      "text": "BY HOWARD"
+    },
+    {
+      "line": 61,
+      "text": "RHEINGOLD,"
+    },
+    {
+      "line": 62,
+      "text": "Editor"
+    },
+    {
+      "line": 65,
+      "text": "oS” ‘we; 27h = | f ee"
+    },
+    {
+      "line": 68,
+      "text": "his is the WHOLE Earth"
+    },
+    {
+      "line": 69,
+      "text": "Review, and that includes"
+    },
+    {
+      "line": 70,
+      "text": "countries other than the"
+    },
+    {
+      "line": 71,
+      "text": "United States. The fol-"
+    },
+    {
+      "line": 72,
+      "text": "lowing pages present a"
+    },
+    {
+      "line": 73,
+      "text": "mosaic of viewpoints from American"
+    },
+    {
+      "line": 74,
+      "text": "and Japanese writers. The idea is"
+    },
+    {
+      "line": 75,
+      "text": "to get away from the quest for easy"
+    },
+    {
+      "line": 76,
+      "text": "answers and get started on some of"
+    },
+    {
+      "line": 77,
+      "text": "the hard questions. The questions"
+    },
+    {
+      "line": 78,
+      "text": "raised here can be used as tools for"
+    },
+    {
+      "line": 79,
+      "text": "understanding some of the issues"
+    },
+    {
+      "line": 80,
+      "text": "that separate American and Japan-"
+    },
+    {
+      "line": 81,
+      "text": "ese interests, as maps to some of"
+    },
+    {
+      "line": 82,
+      "text": "the cultural bridges that exist now,"
+    },
+    {
+      "line": 83,
+      "text": "and as pointers to the places where"
+    },
+    {
+      "line": 84,
+      "text": "bridges are waiting to be built."
+    },
+    {
+      "line": 87,
+      "text": "The world is between worldviews"
+    },
+    {
+      "line": 88,
+      "text": "right now, and the shape of the"
+    },
+    {
+      "line": 89,
+      "text": "long-term future depends to a large"
+    },
+    {
+      "line": 90,
+      "text": "degree on the way US-Japanese"
+    }
+  ]
+}

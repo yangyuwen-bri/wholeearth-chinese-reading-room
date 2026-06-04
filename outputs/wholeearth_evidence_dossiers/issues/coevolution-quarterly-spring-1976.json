@@ -1,0 +1,655 @@
+{
+  "title": "CoEvolution Quarterly, Spring 1976",
+  "identifier": "coevolutionquart00unse_6",
+  "year": 1976,
+  "season": "Spring",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1976",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_6",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_6/coevolutionquart00unse_6.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_6/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_6_djvu.txt",
+  "ocr_chars": 790183,
+  "significant_line_count": 15838,
+  "theme_counts": {
+    "software_computing": 198,
+    "tools_craft": 499,
+    "ecology_place": 810,
+    "learning_media": 376,
+    "community_politics": 424
+  },
+  "top_themes": [
+    "ecology_place",
+    "tools_craft",
+    "community_politics"
+  ],
+  "page_markers": [],
+  "candidate_headings": [
+    {
+      "line": 23118,
+      "text": "STRENGTH THROUGH COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 23131,
+      "text": "second law “STRENGTH THROUGH COMMUNITY.”",
+      "score": 6
+    },
+    {
+      "line": 2778,
+      "text": "colonies, after due energy accountancy and review of the",
+      "score": 5
+    },
+    {
+      "line": 9711,
+      "text": "energy, shelter and manufacture were given serious",
+      "score": 5
+    },
+    {
+      "line": 1,
+      "text": "CAMELOPARDALIS %@",
+      "score": 4
+    },
+    {
+      "line": 9,
+      "text": "CORONA",
+      "score": 4
+    },
+    {
+      "line": 13,
+      "text": "BOREALIS",
+      "score": 4
+    },
+    {
+      "line": 22,
+      "text": "GOODBYE EARTH/...",
+      "score": 4
+    },
+    {
+      "line": 33,
+      "text": "RIDDANCE!",
+      "score": 4
+    },
+    {
+      "line": 62,
+      "text": "GOODBYE .",
+      "score": 4
+    },
+    {
+      "line": 226,
+      "text": "Gy RG",
+      "score": 4
+    },
+    {
+      "line": 228,
+      "text": "ANOIUER COLONY. (9)",
+      "score": 4
+    },
+    {
+      "line": 229,
+      "text": "DIFFERENT CLIMATE,",
+      "score": 4
+    },
+    {
+      "line": 230,
+      "text": "SEASONS, PERLAPS LANGUAGE q y) uUTTLE",
+      "score": 4
+    },
+    {
+      "line": 237,
+      "text": "TWIN CYLINDER 10 OX",
+      "score": 4
+    },
+    {
+      "line": 238,
+      "text": "COMPENSATE. FORK",
+      "score": 4
+    },
+    {
+      "line": 239,
+      "text": "AYROSCOPIE ACTON",
+      "score": 4
+    },
+    {
+      "line": 245,
+      "text": "oe DORICULTURAL CYLINPERS",
+      "score": 4
+    },
+    {
+      "line": 246,
+      "text": "AVSUABLE CLIMATES",
+      "score": 4
+    },
+    {
+      "line": 247,
+      "text": "ANG PAY",
+      "score": 4
+    },
+    {
+      "line": 305,
+      "text": "ENaTH",
+      "score": 4
+    },
+    {
+      "line": 308,
+      "text": "ALTERNATING *VALLEYS\"",
+      "score": 4
+    },
+    {
+      "line": 309,
+      "text": "ANY SKYLIGHTS,",
+      "score": 4
+    },
+    {
+      "line": 387,
+      "text": "aes COMMENTS ON O'NEILL'S SPACE COLONIES",
+      "score": 4
+    },
+    {
+      "line": 419,
+      "text": "““GOOD IDEA”",
+      "score": 4
+    },
+    {
+      "line": 461,
+      "text": "“BAD IDEA”",
+      "score": 4
+    },
+    {
+      "line": 492,
+      "text": "_ KEN KESEY",
+      "score": 4
+    },
+    {
+      "line": 505,
+      "text": "RUSSELL SCHWEICKART",
+      "score": 4
+    },
+    {
+      "line": 536,
+      "text": "LEWIS MUMFORD ug",
+      "score": 4
+    },
+    {
+      "line": 653,
+      "text": "LYNN MARGULIS\"",
+      "score": 4
+    },
+    {
+      "line": 822,
+      "text": "RICHARD RAYMOND",
+      "score": 4
+    },
+    {
+      "line": 911,
+      "text": "THE SCDOLPTOR IN FREE SPACE",
+      "score": 4
+    },
+    {
+      "line": 914,
+      "text": "DEAN FLEMING",
+      "score": 4
+    },
+    {
+      "line": 936,
+      "text": "WENDELL BERRY",
+      "score": 4
+    },
+    {
+      "line": 1128,
+      "text": "THe PAINTER IN FREE SPACE",
+      "score": 4
+    },
+    {
+      "line": 1328,
+      "text": "WILSON CLARK",
+      "score": 4
+    },
+    {
+      "line": 1463,
+      "text": "STEVE DURKEE",
+      "score": 4
+    },
+    {
+      "line": 1678,
+      "text": "STEVE BAER",
+      "score": 4
+    },
+    {
+      "line": 1690,
+      "text": "AH... WINDOWWASH MISSION’ CONTROL..cTHIS 1S SUPER",
+      "score": 4
+    },
+    {
+      "line": 1691,
+      "text": "FAVEY WITH TEAM 24 OUT ON 3-K-4A! WERE",
+      "score": 4
+    },
+    {
+      "line": 1734,
+      "text": "DENNIS MEADOWS",
+      "score": 4
+    },
+    {
+      "line": 1835,
+      "text": "STANLEY MARSH III",
+      "score": 4
+    },
+    {
+      "line": 1994,
+      "text": "PAUL and ANNE EHRLICH",
+      "score": 4
+    },
+    {
+      "line": 2243,
+      "text": "ERNEST CALLENBACH",
+      "score": 4
+    },
+    {
+      "line": 2352,
+      "text": "CARL SAGAN",
+      "score": 4
+    },
+    {
+      "line": 2398,
+      "text": "WILLIAM IRWIN THOMPSON",
+      "score": 4
+    },
+    {
+      "line": 2494,
+      "text": "GEORGE WALD",
+      "score": 4
+    },
+    {
+      "line": 2693,
+      "text": "... ON THE WHOLE I'D",
+      "score": 4
+    },
+    {
+      "line": 2694,
+      "text": "RATHER BE IN PHILADELPHIA.",
+      "score": 4
+    },
+    {
+      "line": 2697,
+      "text": "DAVID BROWER",
+      "score": 4
+    },
+    {
+      "line": 2798,
+      "text": "MICHAEL PHILLIPS",
+      "score": 4
+    },
+    {
+      "line": 3042,
+      "text": "ANT FARM",
+      "score": 4
+    },
+    {
+      "line": 3048,
+      "text": "SPACE COLONIES ARE TAIL FINS.",
+      "score": 4
+    },
+    {
+      "line": 3172,
+      "text": "JOHN TODD",
+      "score": 4
+    },
+    {
+      "line": 3587,
+      "text": "BROTHER DAVID STEINDL-RAST",
+      "score": 4
+    },
+    {
+      "line": 3807,
+      "text": "~ RICHARD BRAUTIGAN",
+      "score": 4
+    },
+    {
+      "line": 3902,
+      "text": "PETER WARSHALL",
+      "score": 4
+    },
+    {
+      "line": 4327,
+      "text": "EARTH (e)",
+      "score": 4
+    },
+    {
+      "line": 4331,
+      "text": "GEOSYNCHRONOUS yas",
+      "score": 4
+    },
+    {
+      "line": 4332,
+      "text": "ORBIT",
+      "score": 4
+    },
+    {
+      "line": 4335,
+      "text": "WHAT ARE LIBRATION POINTS?",
+      "score": 4
+    },
+    {
+      "line": 4415,
+      "text": "VAPOR DEPOSITION OF MASSIVE STRUCTURES",
+      "score": 4
+    },
+    {
+      "line": 4519,
+      "text": "INCOME |NCL.",
+      "score": 4
+    },
+    {
+      "line": 4522,
+      "text": "IA. NORCIA ‘7S",
+      "score": 4
+    },
+    {
+      "line": 4527,
+      "text": "T PusSK oR PAWN P",
+      "score": 4
+    },
+    {
+      "line": 4531,
+      "text": "\\WNER. EAR? > WEY,",
+      "score": 4
+    },
+    {
+      "line": 4538,
+      "text": "ANNE NORCIA",
+      "score": 4
+    },
+    {
+      "line": 4555,
+      "text": "MARC LE BRUN",
+      "score": 4
+    },
+    {
+      "line": 4683,
+      "text": "GARRETT HARDIN",
+      "score": 4
+    },
+    {
+      "line": 4856,
+      "text": "UNLESS. | AM.",
+      "score": 4
+    },
+    {
+      "line": 4857,
+      "text": "CROWNED KING",
+      "score": 4
+    },
+    {
+      "line": 4858,
+      "text": "| SHALL",
+      "score": 4
+    },
+    {
+      "line": 4859,
+      "text": "BLOW A HOLE",
+      "score": 4
+    },
+    {
+      "line": 4860,
+      "text": "IN THE WINDOW!",
+      "score": 4
+    },
+    {
+      "line": 4864,
+      "text": "SECOND !!",
+      "score": 4
+    },
+    {
+      "line": 4865,
+      "text": "Yg | \\IBERATE",
+      "score": 4
+    },
+    {
+      "line": 4866,
+      "text": "A THIS COLONY \\E",
+      "score": 4
+    },
+    {
+      "line": 4867,
+      "text": "IN THE NAME £&",
+      "score": 4
+    },
+    {
+      "line": 4868,
+      "text": "OF THE",
+      "score": 4
+    },
+    {
+      "line": 4883,
+      "text": "~ R. BUCKMINSTER FULLER",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 100,
+      "term": "energy",
+      "snippet": "Lynn Margulis = Richard Raymond « The real backers =». Dean Fleming «= Wendell eee 5 ee Wilson Clark = Space for peace =» E.F. Schumacher =» Stephanie Mills Os hee Steve Durkee = Extra energy = Steve Baer = The SF vote Dennis Meadows | Stanley Marsh III « Sufficient error = Paul and Anne Ehrlich = Pioneer » Down the road ee, Ernest Callenbach « Carl Sagan = Rather » William Irwin Thompson « George Wald ie David Brower = Michael Phillips «= Ant Farm = John Todd ate."
+    },
+    {
+      "line": 105,
+      "term": "tools",
+      "snippet": "David Brower = Michael Phillips «= Ant Farm = John Todd ate. Brother David Steindl-Rast « Info isn’t heavy ! it es Planet parenthood = Richard Brautigan = Juvenile space = Peter Warshall » Tae and tools - Phosphate! = Cycles & pollution = Biology first = L-5 News = Arab Space Program age Anne Norcia « Marc Le Brun = Garrett Hardin = R. Buckminster Fuller « Seed Paolo Soleri = Julia Brand = Better foolishness |"
+    },
+    {
+      "line": 123,
+      "term": "whole systems",
+      "snippet": "Space colonies should keep away from the government for a while Astronaut Russell Schweickart on the phone Understanding Whole Systems 80 General Systemantics » Where Are The Earth’s Erogenous Zones? 81 U.S. Photo Murals = Losing Ground = World Game, 1976 » World Model és 82-84 Prayer Breakfast by Gregory Bateson and Governor Jerry Brown Lage"
+    },
+    {
+      "line": 140,
+      "term": "energy",
+      "snippet": "_ Soft Technology 96 Homemade Windmills of Nebraska = Other Homes and Garbage | . eae oF Farallones Institute = Display wattmeter = Energy Earth and Everyone = Kilowatt aonica ey 59S Solar Energy Thermal Processes » Solar Energy Handbook » Solar Pond | be 98 Solar Energized Food Dehydrator « Solar Test Facility ae oy Solar Directory » VW prime mover = Devcon = The Procedure Handbook of Are Welding"
+    },
+    {
+      "line": 141,
+      "term": "energy",
+      "snippet": "96 Homemade Windmills of Nebraska = Other Homes and Garbage | . eae oF Farallones Institute = Display wattmeter = Energy Earth and Everyone = Kilowatt aonica ey 59S Solar Energy Thermal Processes » Solar Energy Handbook » Solar Pond | be 98 Solar Energized Food Dehydrator « Solar Test Facility ae oy Solar Directory » VW prime mover = Devcon = The Procedure Handbook of Are Welding 100-105 MORE Highly Eyolvee Toolbox by J. Baldwin"
+    },
+    {
+      "line": 175,
+      "term": "community",
+      "snippet": "Shelter be. 108 Illustrated Housebuilding = Do-It-Yourself Plumbing = Dome Notes Community 109 Lehman Hardware Company = Moonshiners Manual = Practical Self Sufficiency 110 A Barefoot Doctor’s Manual = New Woman’s Survival Sourcebook id Follow-up on the “no jelly” diaphragm"
+    },
+    {
+      "line": 190,
+      "term": "communications",
+      "snippet": "124 The Art of Bodysurfing =» Hang Flight » 1976 Charter Flight Directory pus Structure Fishing = Net = American Caves and Caving ~ Communications : 126-127 Boycott the Metric System » On Machine Intelligence » Computer Chess » Calculus Primer | 128 BYTE Magazine = Hobbyist computer suppliers and clubs 129 Digital Design with Standard MSI and LSI = Computers in the 1980s"
+    },
+    {
+      "line": 195,
+      "term": "learning",
+      "snippet": "129 Digital Design with Standard MSI and LSI = Computers in the 1980s 130 Computer structures = Fractured anatomy = Peter Kagan and the Wind = The First Seven Days Learning 131 Joni Mitchell = Cricket » Read For Your Life 132-139 Take As Directed by Ron Jones 140-142 From Sad to Glad = A Rating of Graduate Programs"
+    },
+    {
+      "line": 257,
+      "term": "energy",
+      "snippet": "of the 26 pages on Space Colonies in the Fall ‘75 CQ to which the following 76 pages of comments respond. Gerard O'Neill, 48, is a notable high-energy physicist - he developed the particle storage rings that have become Standard on nuclear accelerators. In 1969 he posed a special question to a special seminar of his freshman physics"
+    },
+    {
+      "line": 266,
+      "term": "energy",
+      "snippet": "right place for an expanding technological civilization?” They and he concluded that, no, free space would be better - richer energy domain (sunlight pouring past at ten times _ the strength of Earth sunlight), fine manufacturing materials available in the Moon and asteroids, many advantages of zero gravity, and lots of room. When they addressed the"
+    },
+    {
+      "line": 281,
+      "term": "energy",
+      "snippet": "people, and rapidly start paying for itself by constructing Satellite Solar Power Stations (SSPS) for micro-wave beam- down of energy from low-Earth-orbit - replacing nuclear and fossil fuel use on Earth. The later colony, Model I!/1, would be 6% miles long by 1% miles in diameter (across each of the two counter-rotating"
+    },
+    {
+      "line": 355,
+      "term": "communications",
+      "snippet": "colony manufacturing more colonies, and each of them making themselves as attractive as possible to draw colonists from Earth. Travel and communications between colonies = would be very easy, but O'Neill expects that they would be- - come increasingly diverse, comprising different Earth groups, _ different ideas, and setting forth on different missions to"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "CAMELOPARDALIS %@"
+    },
+    {
+      "line": 8,
+      "text": "| _* 3 e : oS te"
+    },
+    {
+      "line": 9,
+      "text": "CORONA"
+    },
+    {
+      "line": 13,
+      "text": "BOREALIS"
+    },
+    {
+      "line": 16,
+      "text": "4 # Q ce ee TT pseertg whee ean eee we - i i Ay HORSES ki Mess NES ICID"
+    },
+    {
+      "line": 17,
+      "text": "é ~ memes aie : “ meer ee ee % oe MEM ATR gee ' ; 4"
+    },
+    {
+      "line": 18,
+      "text": "| | oe i * * a % i 4 4 ag 4 ¥ ‘ ‘ ‘ ’"
+    },
+    {
+      "line": 19,
+      "text": "- 7% (3 et Rk ag fk | eee ee ev RR BETES, OF Te ee"
+    },
+    {
+      "line": 22,
+      "text": "GOODBYE EARTH/..."
+    },
+    {
+      "line": 25,
+      "text": "PT Se maint als"
+    },
+    {
+      "line": 29,
+      "text": "Model I Space Colony as designed by NASA-Ames Summer Study, 1975."
+    },
+    {
+      "line": 32,
+      "text": "GOOD"
+    },
+    {
+      "line": 33,
+      "text": "RIDDANCE!"
+    },
+    {
+      "line": 36,
+      "text": "Cover"
+    },
+    {
+      "line": 39,
+      "text": "The front and back covers are by S.N. Durkee, who did ~"
+    },
+    {
+      "line": 40,
+      "text": "the Winter ‘74 CQ (eagle) cover. Like every other graphic"
+    },
+    {
+      "line": 43,
+      "text": "artist we know, he’s enthusiastic about Space Colonies."
+    },
+    {
+      "line": 46,
+      "text": "The inside front cover, by Don Davis, shows the “Stanford"
+    },
+    {
+      "line": 47,
+      "text": "Torus” - two Model | Space Colonies for 10,000"
+    },
+    {
+      "line": 49,
+      "text": "inhabitants as designed by the NASA-Ames Summer Study"
+    },
+    {
+      "line": 50,
+      "text": "group last summer. Each wheel is about 2000 yards across,"
+    },
+    {
+      "line": 53,
+      "text": "_ so that rotation at 1 rpm provides 19 of “gravity” at the"
+    },
+    {
+      "line": 56,
+      "text": "rim. Around the outside is a yard of rock slag for shield"
+    },
+    {
+      "line": 57,
+      "text": "against cosmic radiation (10 roentgen/yr). Sunlight is"
+    },
+    {
+      "line": 58,
+      "text": "reflected into the wheel by a 1500-yard flat mirror maintained"
+    },
+    {
+      "line": 59,
+      "text": "in position by occasionally fired gas jets. As sunlight is"
+    },
+    {
+      "line": 62,
+      "text": "GOODBYE ."
+    },
+    {
+      "line": 65,
+      "text": "reflected into the colony it is cleansed of cosmic rays (which"
+    },
+    {
+      "line": 66,
+      "text": "don’t reflect) by bouncing through the “chevron shielding”"
+    },
+    {
+      "line": 67,
+      "text": "of the skylights. 18 miles away is a second colony. At"
+    },
+    {
+      "line": 68,
+      "text": "upper right is a Peter Glaser-style microwave beam-down"
+    },
+    {
+      "line": 69,
+      "text": "solar collector manufactured at the colony for use by Earth."
+    },
+    {
+      "line": 70,
+      "text": "At lower left a space tug brings a net load of /unar material"
+    },
+    {
+      "line": 71,
+      "text": "for processing by the zero-gravity factory at the end of the"
+    },
+    {
+      "line": 72,
+      "text": "long rigid colony boom. We’re at the Lagrangian point L-4."
+    },
+    {
+      "line": 73,
+      "text": "The Moon is to the left, Earth right, 60° apart."
+    },
+    {
+      "line": 76,
+      "text": "The Blackfoot couple above was photographed by"
+    },
+    {
+      "line": 77,
+      "text": "Edward S. Curtis early in this century."
+    },
+    {
+      "line": 81,
+      "text": "Space Colonies __ poh : Perak pra me."
+    },
+    {
+      "line": 94,
+      "text": "Summary of Gerard O’Neill’s idea = Is Balance Really Possible Where Even Gravity"
+    }
+  ]
+}

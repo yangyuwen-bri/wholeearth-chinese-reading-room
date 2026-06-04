@@ -1,0 +1,800 @@
+{
+  "title": "The Next Whole Earth Catalog, Fall 1980",
+  "identifier": "nextwholeearthca00unse",
+  "year": 1980,
+  "season": "Fall",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 616,
+  "url": "https://wholeearth.info/p/the-next-whole-earth-catalog-fall-1980",
+  "archive_url": "https://archive.org/details/nextwholeearthca00unse",
+  "pdf_url": "https://archive.org/download/nextwholeearthca00unse/nextwholeearthca00unse.pdf",
+  "cover_url": "https://archive.org/download/nextwholeearthca00unse/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/nextwholeearthca00unse_djvu.txt",
+  "ocr_chars": 5567023,
+  "significant_line_count": 137794,
+  "theme_counts": {
+    "software_computing": 1162,
+    "tools_craft": 4966,
+    "ecology_place": 6571,
+    "learning_media": 5635,
+    "community_politics": 3038
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "tools_craft"
+  ],
+  "page_markers": [
+    {
+      "line": 607,
+      "page": 398,
+      "title": "NOMADICS 540 LEARNING",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n399_w500.jpg"
+    },
+    {
+      "line": 642,
+      "page": 460,
+      "title": "COMMUNICATIONS 7904-1980",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n461_w500.jpg"
+    },
+    {
+      "line": 5775,
+      "page": 18,
+      "title": "SPACE",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n19_w500.jpg"
+    },
+    {
+      "line": 6369,
+      "page": 20,
+      "title": "EARTH IMAGING",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n21_w500.jpg"
+    },
+    {
+      "line": 8395,
+      "page": 26,
+      "title": "STRUCTURE",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n27_w500.jpg"
+    },
+    {
+      "line": 13845,
+      "page": 42,
+      "title": "ANTHROPOLOGY",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n43_w500.jpg"
+    },
+    {
+      "line": 16717,
+      "page": 50,
+      "title": "WORLD CON",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n51_w500.jpg"
+    },
+    {
+      "line": 20066,
+      "page": 60,
+      "title": "INSECTS",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n61_w500.jpg"
+    },
+    {
+      "line": 23163,
+      "page": 70,
+      "title": "WATER CARE",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n71_w500.jpg"
+    },
+    {
+      "line": 23579,
+      "page": 100,
+      "title": "YEAR FLOOD",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n101_w500.jpg"
+    },
+    {
+      "line": 27085,
+      "page": 82,
+      "title": "TREE CROPS",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n83_w500.jpg"
+    },
+    {
+      "line": 29075,
+      "page": 88,
+      "title": "CHAINSAWS & MILLS .",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n89_w500.jpg"
+    },
+    {
+      "line": 29895,
+      "page": 10,
+      "title": "ACRES",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n11_w500.jpg"
+    },
+    {
+      "line": 30681,
+      "page": 2,
+      "title": "BEETS. MELONS",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n3_w500.jpg"
+    },
+    {
+      "line": 32008,
+      "page": 96,
+      "title": "GARDENING",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n97_w500.jpg"
+    },
+    {
+      "line": 44925,
+      "page": 32,
+      "title": "SOFT TECHNOLOGY",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n33_w500.jpg"
+    },
+    {
+      "line": 45374,
+      "page": 23,
+      "title": "DUAL HEIGHT",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n24_w500.jpg"
+    },
+    {
+      "line": 49381,
+      "page": 148,
+      "title": "TOOL SUPPLIERS",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n149_w500.jpg"
+    },
+    {
+      "line": 50161,
+      "page": 150,
+      "title": "SURPLUS",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n151_w500.jpg"
+    },
+    {
+      "line": 52405,
+      "page": 156,
+      "title": "HOME REPAIR _",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n157_w500.jpg"
+    },
+    {
+      "line": 55309,
+      "page": 166,
+      "title": "DESIGN",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n167_w500.jpg"
+    },
+    {
+      "line": 55707,
+      "page": 5,
+      "title": "ES SE SE SE SES",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n6_w500.jpg"
+    },
+    {
+      "line": 60618,
+      "page": 180,
+      "title": "THIRD WORLD",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n181_w500.jpg"
+    },
+    {
+      "line": 60829,
+      "page": 4,
+      "title": "PIVOTS",
+      "image_url": "https://archive.org/download/nextwholeearthca00unse/page/n5_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 607,
+      "text": "398 NOMADICS 540 LEARNING",
+      "score": 10
+    },
+    {
+      "line": 642,
+      "text": "460 COMMUNICATIONS 7904-1980",
+      "score": 10
+    },
+    {
+      "line": 62943,
+      "text": "186 ENERGY CONSERVATION",
+      "score": 10
+    },
+    {
+      "line": 5775,
+      "text": "18 SPACE",
+      "score": 8
+    },
+    {
+      "line": 6369,
+      "text": "20 EARTH IMAGING",
+      "score": 8
+    },
+    {
+      "line": 8395,
+      "text": "26 STRUCTURE",
+      "score": 8
+    },
+    {
+      "line": 13845,
+      "text": "42 ANTHROPOLOGY",
+      "score": 8
+    },
+    {
+      "line": 16717,
+      "text": "50 WORLD CON",
+      "score": 8
+    },
+    {
+      "line": 20066,
+      "text": "60 INSECTS",
+      "score": 8
+    },
+    {
+      "line": 23163,
+      "text": "70 WATER CARE",
+      "score": 8
+    },
+    {
+      "line": 23579,
+      "text": "100 YEAR FLOOD",
+      "score": 8
+    },
+    {
+      "line": 27085,
+      "text": "82 TREE CROPS",
+      "score": 8
+    },
+    {
+      "line": 29075,
+      "text": "88 CHAINSAWS & MILLS .",
+      "score": 8
+    },
+    {
+      "line": 29895,
+      "text": "10 ACRES",
+      "score": 8
+    },
+    {
+      "line": 30681,
+      "text": "2 BEETS. MELONS",
+      "score": 8
+    },
+    {
+      "line": 32008,
+      "text": "96 GARDENING",
+      "score": 8
+    },
+    {
+      "line": 41269,
+      "text": "2 PRUNE CROSSED BRANCHES",
+      "score": 8
+    },
+    {
+      "line": 44925,
+      "text": "32 SOFT TECHNOLOGY",
+      "score": 8
+    },
+    {
+      "line": 45374,
+      "text": "23 DUAL HEIGHT",
+      "score": 8
+    },
+    {
+      "line": 49381,
+      "text": "148 TOOL SUPPLIERS",
+      "score": 8
+    },
+    {
+      "line": 50161,
+      "text": "150 SURPLUS",
+      "score": 8
+    },
+    {
+      "line": 50527,
+      "text": "20 EACH",
+      "score": 8
+    },
+    {
+      "line": 55309,
+      "text": "166 DESIGN",
+      "score": 8
+    },
+    {
+      "line": 55707,
+      "text": "5 ES SE SE SE SES",
+      "score": 8
+    },
+    {
+      "line": 60618,
+      "text": "180 THIRD WORLD",
+      "score": 8
+    },
+    {
+      "line": 60829,
+      "text": "4 PIVOTS",
+      "score": 8
+    },
+    {
+      "line": 62068,
+      "text": "101 HI T, BELFAST, MAINE 04915",
+      "score": 8
+    },
+    {
+      "line": 64465,
+      "text": "190 ZOMEWORKS",
+      "score": 8
+    },
+    {
+      "line": 65225,
+      "text": "4 TEMPERATURE",
+      "score": 8
+    },
+    {
+      "line": 73778,
+      "text": "218 ARCHITECTURAL STANDARD -",
+      "score": 8
+    },
+    {
+      "line": 75928,
+      "text": "14 MASONRY TOOLS",
+      "score": 8
+    },
+    {
+      "line": 75930,
+      "text": "16 IMPLEMENTS",
+      "score": 8
+    },
+    {
+      "line": 75979,
+      "text": "24 PORTABLE BENCH",
+      "score": 8
+    },
+    {
+      "line": 75987,
+      "text": "26 DRILL PRESS",
+      "score": 8
+    },
+    {
+      "line": 81192,
+      "text": "2 SE EO LORS SAS...",
+      "score": 8
+    },
+    {
+      "line": 81690,
+      "text": "4 DIAMETER",
+      "score": 8
+    },
+    {
+      "line": 81790,
+      "text": "3 FLUSHING ARM",
+      "score": 8
+    },
+    {
+      "line": 81794,
+      "text": "2 FLUSH 10 WATER SUPPLY VALVE",
+      "score": 8
+    },
+    {
+      "line": 81798,
+      "text": "13 OVERFLOW PIPE",
+      "score": 8
+    },
+    {
+      "line": 81799,
+      "text": "11 FLOAT BALL",
+      "score": 8
+    },
+    {
+      "line": 81802,
+      "text": "12 FLGAT BALL",
+      "score": 8
+    },
+    {
+      "line": 81808,
+      "text": "4 UPPER LIFT ROD",
+      "score": 8
+    },
+    {
+      "line": 81811,
+      "text": "7 LIFT ROD GUIDE",
+      "score": 8
+    },
+    {
+      "line": 81814,
+      "text": "5 LOWER LIFT ROD",
+      "score": 8
+    },
+    {
+      "line": 81817,
+      "text": "15 FILLER 6 FLUSH",
+      "score": 8
+    },
+    {
+      "line": 81821,
+      "text": "14 WATER OUTLET PIPE",
+      "score": 8
+    },
+    {
+      "line": 81824,
+      "text": "9 WATER SUPPLY PIPE",
+      "score": 8
+    },
+    {
+      "line": 82240,
+      "text": "244 WATER CONSERVATION",
+      "score": 8
+    },
+    {
+      "line": 82400,
+      "text": "140 GALLONS.",
+      "score": 8
+    },
+    {
+      "line": 84468,
+      "text": "8 IROKO",
+      "score": 8
+    },
+    {
+      "line": 85182,
+      "text": "4 SELF-CLOSING",
+      "score": 8
+    },
+    {
+      "line": 90704,
+      "text": "270 NEEDLEWORK",
+      "score": 8
+    },
+    {
+      "line": 92675,
+      "text": "276 TEXTI LE SUPPLIE RS",
+      "score": 8
+    },
+    {
+      "line": 96389,
+      "text": "286 BASKETS",
+      "score": 8
+    },
+    {
+      "line": 105956,
+      "text": "314 RECYCLING",
+      "score": 8
+    },
+    {
+      "line": 106133,
+      "text": "7 CORRUGATION",
+      "score": 8
+    },
+    {
+      "line": 117884,
+      "text": "346 CHILDBIRTH",
+      "score": 8
+    },
+    {
+      "line": 127598,
+      "text": "372 WINE & HERBS",
+      "score": 8
+    },
+    {
+      "line": 128391,
+      "text": "374 POLITICS",
+      "score": 8
+    },
+    {
+      "line": 129471,
+      "text": "378 POLITICAL MODELS",
+      "score": 8
+    },
+    {
+      "line": 130254,
+      "text": "380 WORLD POLITICS",
+      "score": 8
+    },
+    {
+      "line": 139062,
+      "text": "1 WING",
+      "score": 8
+    },
+    {
+      "line": 139077,
+      "text": "402 ROAD LIFE",
+      "score": 8
+    },
+    {
+      "line": 141283,
+      "text": "408 BICYCLING",
+      "score": 8
+    },
+    {
+      "line": 141889,
+      "text": "410 BICYCLING",
+      "score": 8
+    },
+    {
+      "line": 142593,
+      "text": "412 BICYCLING",
+      "score": 8
+    },
+    {
+      "line": 143216,
+      "text": "414 CAMP SKILLS",
+      "score": 8
+    },
+    {
+      "line": 147066,
+      "text": "424 OUTDOOR GEAR",
+      "score": 8
+    },
+    {
+      "line": 151325,
+      "text": "436 BOATING",
+      "score": 8
+    },
+    {
+      "line": 153323,
+      "text": "1 WINDICATOR 111",
+      "score": 8
+    },
+    {
+      "line": 162056,
+      "text": "468 MUSEUMS & ART",
+      "score": 8
+    },
+    {
+      "line": 163771,
+      "text": "472 MUSIC MAKING",
+      "score": 8
+    },
+    {
+      "line": 166422,
+      "text": "480 RECORDS",
+      "score": 8
+    },
+    {
+      "line": 170110,
+      "text": "88 PHOTOGRAPHY",
+      "score": 8
+    },
+    {
+      "line": 179925,
+      "text": "512 NEW WAVE MAGAZINES",
+      "score": 8
+    },
+    {
+      "line": 183322,
+      "text": "2 AM COMMERCIAL -",
+      "score": 8
+    },
+    {
+      "line": 186514,
+      "text": "2 HOME COMPUTERS",
+      "score": 8
+    },
+    {
+      "line": 207405,
+      "text": "586 BUDDHISM",
+      "score": 8
+    },
+    {
+      "line": 207408,
+      "text": "19 ON ZEN",
+      "score": 8
+    },
+    {
+      "line": 208255,
+      "text": "29 LAM UAOTPAAT LIN",
+      "score": 8
+    }
+  ],
+  "snippets": [
+    {
+      "line": 167,
+      "term": "whole systems",
+      "snippet": "Newsletter UNDERSTANDING WHOLE SYSTEMS Whole Earth Universe Astronomy"
+    },
+    {
+      "line": 286,
+      "term": "tools",
+      "snippet": "Garden equipment SOFT TECHNOLOGY Good tools Tool suppliers Tool technique Home repair"
+    },
+    {
+      "line": 296,
+      "term": "tools",
+      "snippet": "Safety Tool making Woodworking tools Machining Design Invention"
+    },
+    {
+      "line": 303,
+      "term": "energy",
+      "snippet": "Design Invention Energy Radical technology New Alchemy RAIN &"
+    },
+    {
+      "line": 312,
+      "term": "energy",
+      "snippet": "Third World Solar homes Energy conservation Solar Zomeworks Solar hardware"
+    },
+    {
+      "line": 321,
+      "term": "energy",
+      "snippet": "Solar research Wind Water energy Battery power Steam power Biogas"
+    },
+    {
+      "line": 425,
+      "term": "community",
+      "snippet": "Macrame Baskets COMMUNITY Living cheap Legal self-care Urban"
+    },
+    {
+      "line": 607,
+      "term": "learning",
+      "snippet": "Tactics Power 398 NOMADICS 540 LEARNING 399 Travel 541 Baby 400 Asia 542 Parenting 401 Latin America 544 Toys"
+    },
+    {
+      "line": 642,
+      "term": "communications",
+      "snippet": "458 Flying DEDICATION To Gregory Bateson 460 COMMUNICATIONS 7904-1980 461 Cybernetics & A pioneer in anthropology, language psychology, cybernetics, 462 Graphics and epistemology, he"
+    },
+    {
+      "line": 664,
+      "term": "communications",
+      "snippet": "492 Video 494 Media culture 495 Telecommunications 496 Reference 497 Libraries 498 Dictionaries"
+    },
+    {
+      "line": 703,
+      "term": "whole systems",
+      "snippet": "PROCEDURE PREFACE WHOLE SYSTEMS LAND USE SOFT TECHNOLOGY CRAFT"
+    },
+    {
+      "line": 727,
+      "term": "community",
+      "snippet": "SOFT TECHNOLOGY CRAFT COMMUNITY POLITICS NOMADICS COMMUNICATIONS"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "EDITED BY STEWART BRAND. ~"
+    },
+    {
+      "line": 4,
+      "text": "Editor of CO0EVOLUTION QUA)"
+    },
+    {
+      "line": 5,
+      "text": "and THE LAST WHOLE EARTH"
+    },
+    {
+      "line": 8,
+      "text": "= = Ap - *. > >="
+    },
+    {
+      "line": 11,
+      "text": "VO ‘oujpsnyg ‘97 p xog ‘AysoyrenH B se aray pajuosoid dew ay} presoy saoutaoid 9y} JO yore uIIIM “oWOY -20R]d auooeq 0 peou ey], ouersd ow S}I YIM uleysAsoo9 anbiun AjarjuUe ue Jo peyreur ox0M ar0u) YONA use. mare"
+    },
+    {
+      "line": 14,
+      "text": "OAWOD ay1 worl pivdisod og Eg 4of 3® J9aJ NOA YOIYyM ut AQuNOD Jo a 0 Aoued 2"
+    },
+    {
+      "line": 15,
+      "text": "- _- aiqnyyoap $1 (77 X .6£) doy saouiaorg *sABM }19SAP 0} ‘19}e] 10 IaUOOS Zune00] 0} opin e aq ued ae s phe = st os ps p bare a ee peo bleh pitrasye 2"
+    },
+    {
+      "line": 16,
+      "text": "© Joatydpsdoaszo1g pom zis yjnf ayy, 4depe }snul sueiouog se }snf ‘Aiprumy. } ; pe}seza) ur tacts S04 iceman arti ees cand Saas very Smuts 0 Serkive Soe eee"
+    },
+    {
+      "line": 17,
+      "text": "oP E 5 i I I eu QUO )SEQ] 3B we dt"
+    },
+    {
+      "line": 18,
+      "text": "-- = ee ‘ ysry jo0dsaz 0} urea] ajdood aoutaoid Aepo} spsou A]peq os pyiomM ay} yorum aq }snf jou pjnoys sdew s1ydeiZ0e801g pea <n rerio anatepndiery ued Jo be tae ayeos-Arejaueyd &"
+    },
+    {
+      "line": 19,
+      "text": "a eal noA o1ayM Jnoge sIOW YONW UIs] ueiuosaiQ ‘ajdood }so104 ure}seq 0} 9189 PUB] JO PUT OY} JOJ siseq & SI oINjeU . pey auou AI JIA jnq ‘2 habia eh Baise cs SEE DUEE"
+    },
+    {
+      "line": 20,
+      "text": "TA NoA ssaooid oy} UT }eY} dojUBIENS §=--} UBAaJaI JOU SAM UT }YSNOIP pNOGe UIE] PHIM s}t pue AQuNOO jo pury sepnonIed *eIey poyuasaid dew oy) ur Sunnsax yseq jo Sees Rola te emi dS ee pal Ae OCU 20)"
+    },
+    {
+      "line": 21,
+      "text": "‘ _ AJUO ued] “uOnTUTJep JeuolZer01q Jo JSNUI SUBTUIOJIED ‘Op aM JOAI}IVYA\\ IOJ 2 PIM UOHeOHuapI yenjinds ..-s0ejd ‘sonZeojjoo sty pue ApreapQ SOPTW ueeq pry Aauouw pue Sasi. cae ; paiedan case, bd So battens"
+    },
+    {
+      "line": 24,
+      "text": "ores ou} utof 0} aaIj 903 pjnoys suoAuy Aylyigeurejsns [eo13ojode us19}-Zuo] ainsse Ul OAT],, 0} BuruTes] - uIE} $.310g 10)9 O JUSUIZATOAUT ‘ ‘ feat ="
+    },
+    {
+      "line": 25,
+      "text": "mee sei ast] snoweatupay {uonnqiysiIp 0} SOHIAHOe UBUINY INO apin3 ssay) wor ul get Sepa jo osuas ae : = : pions a seth Neate ae Secale this este. ae ry . boa ee Pi"
+    },
+    {
+      "line": 26,
+      "text": "HK TeInjnousy jewayos ay} o,uT pue oimjeu pm Aq poutusrajap ayt jo a1ay} MON *A}ITIGOUI YsIy Jo sapeoap ysed UOHEAIESUOD Tay} 105 sIseq v se UIeIS Sunenyeo Io} sueout 19}} : 9 esi Bod oper mly Joao : Mi"
+    },
+    {
+      "line": 27,
+      "text": "Hy Spoysiaqz@m OP MOH eas ore SUOHIPUOD oY} UTES] UED AUG “AJHUSpI 9Y} SULINp sueolIaUy SuOUTe snoTAgO Useq -oid araydsorg oy} pue we SOOSANQ 723 pe Aatjaq 2 at *(on0 Issam ‘a ton ne iairha Apres ali S.! basis sry"
+    },
+    {
+      "line": 28,
+      "text": "_ SUOISIAIPQNS Jouly YON Pca 0} woes ued @UO YOIYM Y}IM sTeullue pue jou sey joueld oy} Jo jxed rejnonzed & 0} Aq dn payoid arm s}103J9 [eNTUI INQ a sae ats. sapere B sey UOHNAIASIp Jo syrun o1ydex0a801q ye"
+    },
+    {
+      "line": 29,
+      "text": "axe sauepunog Auew “SuruuiBeq «== squeyd ‘ayeumj pue su10y purl ore are -=»BUTBuojaq Jo asuas & dojeaap 0} ‘pora}uso ‘sjeuue pue sjuejd eanounstp jo Aexre syeds [euntue pue juejd 30 scnuanare pas tuna sgn pee at in!"
+    },
+    {
+      "line": 30,
+      "text": "* * F P 8} JO UONBOIISSeID"
+    },
+    {
+      "line": 33,
+      "text": "unused“ puowsoy Aq S2171]0q 4adaeq s.yz4eZ - saulAoig jeriydeaZoasoig -"
+    },
+    {
+      "line": 36,
+      "text": "LOSES Rd S96 HE eUIO;IICD “arnesONS “Bey xOR ‘AURLEND |"
+    },
+    {
+      "line": 37,
+      "text": "97) 22el0Ky WeOKy amNCRCIE OMA 1 mW EGOSINN cH tmavOUNpI RENO ee a"
+    },
+    {
+      "line": 40,
+      "text": "Sé6L \"BL ON s00ey jeu0ys#220 ‘seaunOsey jeITUEN DUE BINLEN JO :"
+    },
+    {
+      "line": 41,
+      "text": "‘S@UUBARS pus SpUe;sseiE | 10 UONCARBUDD JO} VOHUT) FoLONeWIaIN) ApIeAD-) “3G W UO peseg"
+    },
+    {
+      "line": 44,
+      "text": "| ayes poe mpumvong “L Aq Aydeséoie2 “sepuepaqg ‘1 pue pueig 5 Aq ubisag"
+    },
+    {
+      "line": 45,
+      "text": "“UmOYs Jou SvOROUatUI 2uEEI0 “IUBUGUOS ayt 0 UONZeIO1d auEOJOWOY ease-eNoZ"
+    },
+    {
+      "line": 48,
+      "text": "Su@1@UOI4 96E = s0;eUrIVEDE 8}. ue! fia ies"
+    },
+    {
+      "line": 49,
+      "text": "conn se = ‘ 4e8eq B;Q1y eg pue sejjuNWWOD BIpUny yy"
+    },
+    {
+      "line": 50,
+      "text": "000'629'68:t s0)enbe 12 e225"
+    },
+    {
+      "line": 53,
+      "text": "PUB;POOM 40"
+    },
+    {
+      "line": 54,
+      "text": "(880104 UoosUoW ‘1U}) 880104 snoNp}Deq Jo AG je2}doN,"
+    },
+    {
+      "line": 57,
+      "text": "Spue|pooM JO 'qnIIS 's}89104 SNOI|AYdos}9g Uees6I0N3 [a"
+    },
+    {
+      "line": 70,
+      "text": "ween “Zz (eeemAn) meveyy One “6z"
+    },
+    {
+      "line": 71,
+      "text": "souddhid -9z ene OTT ae"
+    },
+    {
+      "line": 72,
+      "text": "couiog “52 (evo) enue ewe won ST"
+    },
+    {
+      "line": 73,
+      "text": "Spunjsy spung s9eee) “tz SpURis} SuamoIsEYW “SE puoie epepniy Wines “sp"
+    },
+    {
+      "line": 74,
+      "text": "pd EIQEDIY PUB SPURTE} BBIOWOD “Pe (Pua wluoson ep ="
+    },
+    {
+      "line": 75,
+      "text": "enewng “iz SPURTE] EUOYOH “Ig PUR UOSURDEY “ez ‘on bese “rr"
+    },
+    {
+      "line": 76,
+      "text": "Spueys| seqOIN pus UeWepUY “Oz pn pe ae te Pua SOOeD “Ey"
+    }
+  ]
+}

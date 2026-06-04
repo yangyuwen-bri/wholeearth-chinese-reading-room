@@ -1,0 +1,655 @@
+{
+  "title": "CoEvolution Quarterly, Fall 1978",
+  "identifier": "coevolutionquart00unse_16",
+  "year": 1978,
+  "season": "Fall",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1978",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_16",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_16/coevolutionquart00unse_16.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_16/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_16_djvu.txt",
+  "ocr_chars": 390971,
+  "significant_line_count": 7193,
+  "theme_counts": {
+    "software_computing": 13,
+    "tools_craft": 78,
+    "ecology_place": 417,
+    "learning_media": 156,
+    "community_politics": 264
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [],
+  "candidate_headings": [
+    {
+      "line": 19,
+      "text": "“COFVOLUTION ©",
+      "score": 4
+    },
+    {
+      "line": 25,
+      "text": "JOURNAL",
+      "score": 4
+    },
+    {
+      "line": 28,
+      "text": "FOR “HIE",
+      "score": 4
+    },
+    {
+      "line": 31,
+      "text": "PROTECTION",
+      "score": 4
+    },
+    {
+      "line": 35,
+      "text": "BEINGS",
+      "score": 4
+    },
+    {
+      "line": 46,
+      "text": "CONTRIBUTORS",
+      "score": 4
+    },
+    {
+      "line": 226,
+      "text": "CITY LIGHTS BOOKS",
+      "score": 4
+    },
+    {
+      "line": 228,
+      "text": "\"(EVOLUTION",
+      "score": 4
+    },
+    {
+      "line": 234,
+      "text": "COIN TIEINTCS",
+      "score": 4
+    },
+    {
+      "line": 1391,
+      "text": "WE’LL ALL BE GLOWING FOR A QUARTER OF A MILLION YEARS",
+      "score": 4
+    },
+    {
+      "line": 1431,
+      "text": "AH THE 3RD LUMBAR GLOWING IN PAIN",
+      "score": 4
+    },
+    {
+      "line": 1433,
+      "text": "REINCARNATED FOR A QUARTER OF A MILLION YEARS",
+      "score": 4
+    },
+    {
+      "line": 1670,
+      "text": "THE ANARCHIST POSITION",
+      "score": 4
+    },
+    {
+      "line": 1694,
+      "text": "A SOCIALIST VIEW",
+      "score": 4
+    },
+    {
+      "line": 1712,
+      "text": "‘THE SURREALIST CONNECTION",
+      "score": 4
+    },
+    {
+      "line": 2061,
+      "text": "JK: No.",
+      "score": 4
+    },
+    {
+      "line": 2300,
+      "text": "FS , * “4",
+      "score": 4
+    },
+    {
+      "line": 3300,
+      "text": "FOOTNOTES",
+      "score": 4
+    },
+    {
+      "line": 3404,
+      "text": "NOW, ON THE DAY BEFORE MY DAUGHTER’S",
+      "score": 4
+    },
+    {
+      "line": 3405,
+      "text": "TWENTY-FIRST BIRTHDAY,",
+      "score": 4
+    },
+    {
+      "line": 3406,
+      "text": "ON THE NOON OF HER PARTY,",
+      "score": 4
+    },
+    {
+      "line": 3407,
+      "text": "I REVISIT THE SCENE OF THE DEATH",
+      "score": 4
+    },
+    {
+      "line": 3585,
+      "text": "1977 NYC | :",
+      "score": 4
+    },
+    {
+      "line": 4442,
+      "text": "-D.M.",
+      "score": 4
+    },
+    {
+      "line": 4602,
+      "text": "- AAAAGGGGGHHHHbhhhh!",
+      "score": 4
+    },
+    {
+      "line": 4635,
+      "text": "* BLAM! BLAM! |",
+      "score": 4
+    },
+    {
+      "line": 4640,
+      "text": "BLAM! BLAM!",
+      "score": 4
+    },
+    {
+      "line": 5307,
+      "text": "THE WILD STATE",
+      "score": 4
+    },
+    {
+      "line": 5373,
+      "text": "MANAGEMENT",
+      "score": 4
+    },
+    {
+      "line": 5412,
+      "text": "CULTIVATION OR CAPTIVE-REARING",
+      "score": 4
+    },
+    {
+      "line": 5453,
+      "text": "DOMESTICATION",
+      "score": 4
+    },
+    {
+      "line": 5587,
+      "text": "RETURN TO THE WILD.” 3 7 |",
+      "score": 4
+    },
+    {
+      "line": 5737,
+      "text": "SELECTED. REFERENCES",
+      "score": 4
+    },
+    {
+      "line": 6251,
+      "text": "' THE CANE OF THE BLIND MAN",
+      "score": 4
+    },
+    {
+      "line": 6252,
+      "text": "SWINGS LEFT AND RIGHT",
+      "score": 4
+    },
+    {
+      "line": 7005,
+      "text": "A EE EAE YY",
+      "score": 4
+    },
+    {
+      "line": 7417,
+      "text": "L00 SOON, [00° SOON: 3;",
+      "score": 4
+    },
+    {
+      "line": 7553,
+      "text": "LE COSTS ve:",
+      "score": 4
+    },
+    {
+      "line": 7725,
+      "text": "OYSTERCATCHERS",
+      "score": 4
+    },
+    {
+      "line": 7965,
+      "text": "A WALK IN THE AFTERNOON WITH RICH",
+      "score": 4
+    },
+    {
+      "line": 8139,
+      "text": "EVENTS",
+      "score": 4
+    },
+    {
+      "line": 8371,
+      "text": "THE RIGHT WAY TO LAND",
+      "score": 4
+    },
+    {
+      "line": 8577,
+      "text": "HE THINGS MOST WORTH WHILE ARE ONE’S OWN HEARTH",
+      "score": 4
+    },
+    {
+      "line": 8578,
+      "text": "T AND NEIGHBORHOOD. WE SHOULD MAKE OUR OWN HOME",
+      "score": 4
+    },
+    {
+      "line": 8579,
+      "text": "AND NEIGHBORHOOD THE MOST DEMOCRATIC, THE MOST BEAUTI-",
+      "score": 4
+    },
+    {
+      "line": 8580,
+      "text": "FUL AND THE HOLIEST IN THE WORLD. THE CHILDREN NOW GROW-",
+      "score": 4
+    },
+    {
+      "line": 8581,
+      "text": "ING UP SHOULD BECOME DEVOUT GARDENERS OR ARCHITECTS OR",
+      "score": 4
+    },
+    {
+      "line": 8582,
+      "text": "PARK ARCHITECTS OR TEACHERS OF DANCING IN THE GREEK",
+      "score": 4
+    },
+    {
+      "line": 8583,
+      "text": "SPIRIT OR MUSICIANS OR NOVELISTS OR POETS OR STORY-WRITERS",
+      "score": 4
+    },
+    {
+      "line": 8584,
+      "text": "OR CRAFTSMEN OR WOOD-CARVERS OR DRAMATISTS OR ACTORS",
+      "score": 4
+    },
+    {
+      "line": 8585,
+      "text": "OR SINGERS. THEY SHOULD FIND THEIR TALENT AND NURSE IT",
+      "score": 4
+    },
+    {
+      "line": 8586,
+      "text": "INDUSTRIOUSLY. THEY SHOULD BELIEVE IN EVERY POSSIBLE",
+      "score": 4
+    },
+    {
+      "line": 8587,
+      "text": "APPLICATION TO ART-THEORY OF THE THOUGHTS OF THE DECLA-",
+      "score": 4
+    },
+    {
+      "line": 8588,
+      "text": "RATION OF INDEPENDENCE AND LINCOLN’S GETTYSBURG ADDRESS.",
+      "score": 4
+    },
+    {
+      "line": 8589,
+      "text": "THEY SHOULD, IF LED BY THE’SPIRIT, WANDER OVER THE WHOLE",
+      "score": 4
+    },
+    {
+      "line": 8590,
+      "text": "NATION IN SEARCH OF THE SECRET OF DEMOCRATIC BEAUTY WITH",
+      "score": 4
+    },
+    {
+      "line": 8591,
+      "text": "THEIR HEARTS AT THE SAME TIME FILLED TO OVERFLOWING WITH",
+      "score": 4
+    },
+    {
+      "line": 8592,
+      "text": "THE RIGHTEOUSNESS OF GOD. THEN THEY SHOULD COME BACK",
+      "score": 4
+    },
+    {
+      "line": 8593,
+      "text": "TO THEIR OWN HEARTH AND NEIGHBORHOOD AND GATHER A",
+      "score": 4
+    },
+    {
+      "line": 8594,
+      "text": "LITTLE CIRCLE OF THEIR OWN SORT OF WORKERS ABOUT THEM",
+      "score": 4
+    },
+    {
+      "line": 8595,
+      "text": "AND STRIVE TO MAKE THE NEIGHBORHOOD AND HOME MORE",
+      "score": 4
+    },
+    {
+      "line": 8596,
+      "text": "BEAUTIFUL AND DEMOCRATIC AND HOLY WITH THEIR SPECIAL",
+      "score": 4
+    },
+    {
+      "line": 8597,
+      "text": "ARS 2 Ey SHOULD LABOR INA HERG IGE CIRCLE EXPECT-",
+      "score": 4
+    },
+    {
+      "line": 8598,
+      "text": "ING NEITHER REWARD NOR HONORS. * * * IN THEIR DARKEST",
+      "score": 4
+    },
+    {
+      "line": 8599,
+      "text": "HOURS THEY SHOULD BE MADE STRONG BY THE VISION OF A COM-",
+      "score": 4
+    },
+    {
+      "line": 8600,
+      "text": "PLETELY BEAUTIFUL NEIGHBORHOOD AND THE PASSION FOR A",
+      "score": 4
+    },
+    {
+      "line": 8601,
+      "text": "COMPLETELY DEMOCRATIC ART. THEIR REASON FOR LIVING",
+      "score": 4
+    },
+    {
+      "line": 8602,
+      "text": "SHOULD BE THAT JOY IN BEAUTY WHICH NO WOUNDS CAN TAKE",
+      "score": 4
+    },
+    {
+      "line": 8603,
+      "text": "AWAY, AND THAT JOY IN THE LOVE OF GOD WHICH NO CRUCIFIXION",
+      "score": 4
+    },
+    {
+      "line": 8604,
+      "text": "CAN END.",
+      "score": 4
+    },
+    {
+      "line": 8654,
+      "text": "“DESTRUAM ET AEDIFICABO”’",
+      "score": 4
+    },
+    {
+      "line": 8679,
+      "text": "DOCUMENTS",
+      "score": 4
+    },
+    {
+      "line": 8682,
+      "text": "ENDANGERED SPECIES",
+      "score": 4
+    },
+    {
+      "line": 8692,
+      "text": "ARGENTINA",
+      "score": 4
+    },
+    {
+      "line": 8772,
+      "text": "BRAZIL",
+      "score": 4
+    },
+    {
+      "line": 8777,
+      "text": "CHILE",
+      "score": 4
+    },
+    {
+      "line": 8798,
+      "text": "CYPRUS",
+      "score": 4
+    },
+    {
+      "line": 8802,
+      "text": "CZECHOSLOVAKIA",
+      "score": 4
+    },
+    {
+      "line": 8810,
+      "text": "EGYPT",
+      "score": 4
+    },
+    {
+      "line": 8819,
+      "text": "ITALY",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 92,
+      "term": "ecology",
+      "snippet": "Richard Felger is Senior Research Scientist at the Arizona-Sonora Desert Museum in Tucson. His research interests include ethnobotany, ecology of arid lands, sea turtle biology, and the eco-politics of extinction. Robert Curtis Wilkinson is Research Biologist at the Desert Museum. Felger and Wilkinson"
+    },
+    {
+      "line": 318,
+      "term": "learning",
+      "snippet": "Gaia, Mother of the Buddha. The stakes are all of organic evolution. Any childish thoughts of transcending nature or slipping off into Space must wait on this work - really, of learning finally who and where we are, acknowledg- ing the beauty, walking in beauty. _ - Gary Snyder Revolution is vision’s partner, its completion. Vision is the eye (or I) open"
+    },
+    {
+      "line": 1054,
+      "term": "community",
+      "snippet": "of Black citizens, set Blacks on each other, provoke Whites to murderous confusion, confound honest media, infiltrate, prevaricate and spy on reform- ist multitudes, becloud understanding and community, and poison public consciousness. These generalizations are proved if one examines Xerox facsimiles of government intelligence documents, more extensive and detailed in paranoid system than most Seekers ever guessed. |"
+    },
+    {
+      "line": 1062,
+      "term": "community",
+      "snippet": "tion of the F.B.I.’s Counterintelligence Program, and the C.I.A.’s Operation Chaos, among other Army and Navy secret plots, escalated the difficulties, magnified deere to crisis, and orchestrated original community difficulties to | unworkable cacophony for awhile. That paranoia between Black and White activists is now somewhat dissipated. Same for other neurotic problems of ageression, passion and ignorance in the peace ‘‘movement.” “Kill the Pigs”"
+    },
+    {
+      "line": 1100,
+      "term": "energy",
+      "snippet": "gative researches, and Xeroxed F.B.I., C.I.A. and Narcotics Bureau files now available to public eye in various open libraries. Ms: of these themes converge in the Nuclear Energy debate now prominent in public argument. As Marxists observe the means of production determining cultural superstructure, so the great ENERGY argument may be interpreted. If the energy is a centralized and poisonous"
+    },
+    {
+      "line": 1102,
+      "term": "energy",
+      "snippet": "Ms: of these themes converge in the Nuclear Energy debate now prominent in public argument. As Marxists observe the means of production determining cultural superstructure, so the great ENERGY argument may be interpreted. If the energy is a centralized and poisonous Nuclear base to our culture, a monolithic Surveillance State will result. Un- known to the literate public in 1978, the Rockefeller Group, that ‘‘Black"
+    },
+    {
+      "line": 1103,
+      "term": "energy",
+      "snippet": "prominent in public argument. As Marxists observe the means of production determining cultural superstructure, so the great ENERGY argument may be interpreted. If the energy is a centralized and poisonous Nuclear base to our culture, a monolithic Surveillance State will result. Un- known to the literate public in 1978, the Rockefeller Group, that ‘‘Black Hole in American Politics,” is the largest single investor in nuclear fuels (as"
+    },
+    {
+      "line": 1109,
+      "term": "energy",
+      "snippet": "it had been in petrochemical economy). Thus Nelson Rockefeller is propos- ing a $100 billion-dollar government subsidy to his own failing “high-risk energy ventures” in the Nuclear industry. (Charts and figures for 1976 are set forth in the unpublished text, Nuclear Energy, Rockefeller, and Big Business, by Peter Salmonson, Goddard College.) What alternative energy technic would decentralize and democratize our"
+    },
+    {
+      "line": 1110,
+      "term": "energy",
+      "snippet": "ing a $100 billion-dollar government subsidy to his own failing “high-risk energy ventures” in the Nuclear industry. (Charts and figures for 1976 are set forth in the unpublished text, Nuclear Energy, Rockefeller, and Big Business, by Peter Salmonson, Goddard College.) What alternative energy technic would decentralize and democratize our civilization, encourage sanity? The best I’ve heard was proposed at a meeting"
+    },
+    {
+      "line": 1113,
+      "term": "energy",
+      "snippet": "set forth in the unpublished text, Nuclear Energy, Rockefeller, and Big Business, by Peter Salmonson, Goddard College.) What alternative energy technic would decentralize and democratize our civilization, encourage sanity? The best I’ve heard was proposed at a meeting with the late economist-philosopher Fritz Schumacher and representatives of New Alchemy, the astronaut Rusty Schweickart, the agropoet Peter Orlovsky,"
+    },
+    {
+      "line": 1123,
+      "term": "energy",
+      "snippet": "J. Russell Smith, Tree Crops, A Permanent Agriculture (reissued by the Devin Adair Co., Old Greenwich, 1977). The book proposed renewable protein . and energy source through massive tree crop agriculture. Nature should be brought into the cities, and the cities brought into production, Schumacher said, through universal tree rows on streets, rather than cities abandoned in a “return to nature.”’ Nut trees should be grafted to produce ‘‘genius"
+    },
+    {
+      "line": 1130,
+      "term": "energy",
+      "snippet": "development). Hill soil above 15 degrees angle shouldn’t be ploughed, it leads to erosion but is proper for ‘“‘three-dimensional” tree agriculture. The tree is “the most efficient form of solar collector ever developed.’’ Energy, stewardship, food protein, fuel alcohol and beauty were obvious advantages. Labor-intensive recycling of city wastes can provide appropriate compost immediately available, thus resolving problems of garbage, anomie, unem-"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "-No.19 Fall 1978"
+    },
+    {
+      "line": 10,
+      "text": "Edited by Lawrence Ferlinghetti, Michael McClure, David Meltzer, and Gary Snyder"
+    },
+    {
+      "line": 16,
+      "text": "Published by the Whole Earth Catalog"
+    },
+    {
+      "line": 19,
+      "text": "“COFVOLUTION ©"
+    },
+    {
+      "line": 22,
+      "text": "Quarterly"
+    },
+    {
+      "line": 25,
+      "text": "JOURNAL"
+    },
+    {
+      "line": 28,
+      "text": "FOR “HIE"
+    },
+    {
+      "line": 31,
+      "text": "PROTECTION"
+    },
+    {
+      "line": 34,
+      "text": "OF Alt"
+    },
+    {
+      "line": 35,
+      "text": "BEINGS"
+    },
+    {
+      "line": 38,
+      "text": "cm Vos"
+    },
+    {
+      "line": 46,
+      "text": "CONTRIBUTORS"
+    },
+    {
+      "line": 49,
+      "text": "Robert Aitken is teacher with the Diamond Sangha, a"
+    },
+    {
+      "line": 50,
+      "text": "Zen Buddhist society, at its two centers in Hawaii, the"
+    },
+    {
+      "line": 51,
+      "text": "Koko An Zendo in Honolulu and the Maui Zendo on"
+    },
+    {
+      "line": 52,
+      "text": "the island of Maui."
+    },
+    {
+      "line": 55,
+      "text": "Haruo Aoki was born in 1930 in Kunsan, Korea. He"
+    },
+    {
+      "line": 56,
+      "text": "teaches Japanese linguistics at the University of Cali-"
+    },
+    {
+      "line": 57,
+      "text": "fornia at Berkeley. He is the author of many works"
+    },
+    {
+      "line": 58,
+      "text": "including Nez Perce Grammar and In Pursuit of a"
+    },
+    {
+      "line": 59,
+      "text": "Vanishing Language."
+    },
+    {
+      "line": 61,
+      "text": "Mei Berssenbrugge was born in 1947 in Peking and"
+    },
+    {
+      "line": 62,
+      "text": "grew up in Massachusetts. Her recent books are Fish"
+    },
+    {
+      "line": 63,
+      "text": "Souls and Summits Move with the Tides."
+    },
+    {
+      "line": 66,
+      "text": "Sterling Bunnell is a psychiatrist and biologist. He"
+    },
+    {
+      "line": 67,
+      "text": "wrote about pup fish for Cry, California and had an"
+    },
+    {
+      "line": 68,
+      "text": "essay, ‘The Evolution of Cetacean Intelligence,’ in"
+    },
+    {
+      "line": 69,
+      "text": "Mind in the Waters: A Book to Celebrate the Con-"
+    },
+    {
+      "line": 70,
+      "text": "sciousness of Whales and Dolphins."
+    },
+    {
+      "line": 73,
+      "text": "Peter Blue Cloud is an artist and poet, author of Turtle,"
+    },
+    {
+      "line": 74,
+      "text": "Bear, Wolf. He is a Mohawk Indian and was active in"
+    },
+    {
+      "line": 75,
+      "text": "the occupation of Alcatraz."
+    },
+    {
+      "line": 78,
+      "text": "Peter Coyote is chairman of the California Arts Coun-"
+    },
+    {
+      "line": 79,
+      "text": "cil. He was formerly active in the Mime Troupe and"
+    },
+    {
+      "line": 80,
+      "text": "was one of the founders of the Diggers."
+    },
+    {
+      "line": 83,
+      "text": "Robert Creeley’s most recent book is Hello (New Direc-"
+    },
+    {
+      "line": 86,
+      "text": "tions). He teaches alternately at the University of New"
+    },
+    {
+      "line": 87,
+      "text": "Mexico and at SUNY in Buffalo."
+    },
+    {
+      "line": 90,
+      "text": "Richard Felger is Senior Research Scientist at the"
+    },
+    {
+      "line": 91,
+      "text": "Arizona-Sonora Desert Museum in Tucson. His"
+    }
+  ]
+}

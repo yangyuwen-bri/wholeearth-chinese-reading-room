@@ -1,0 +1,698 @@
+{
+  "title": "Difficult But Possible Supplement to the Whole Earth Catalog, January 1970",
+  "identifier": "wholeearthcatalo00unse_6",
+  "year": 1970,
+  "season": "January",
+  "collection": "Whole Earth Catalogs",
+  "collection_zh": "Whole Earth 目录系列",
+  "pages": 56,
+  "url": "https://wholeearth.info/p/difficult-but-possible-supplement-to-the-whole-earth-catalog-january-1970",
+  "archive_url": "https://archive.org/details/wholeearthcatalo00unse_6",
+  "pdf_url": "https://archive.org/download/wholeearthcatalo00unse_6/wholeearthcatalo00unse_6.pdf",
+  "cover_url": "https://archive.org/download/wholeearthcatalo00unse_6/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthcatalo00unse_6_djvu.txt",
+  "ocr_chars": 591163,
+  "significant_line_count": 12612,
+  "theme_counts": {
+    "software_computing": 78,
+    "tools_craft": 243,
+    "ecology_place": 860,
+    "learning_media": 691,
+    "community_politics": 307
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 512,
+      "page": 35,
+      "title": "HOME METHANE GENERATOR",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_6/page/n36_w500.jpg"
+    },
+    {
+      "line": 517,
+      "page": 36,
+      "title": "WHOLE CONSCIOUSNESS CATALOG 39",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_6/page/n37_w500.jpg"
+    },
+    {
+      "line": 5969,
+      "page": 50,
+      "title": "FOOT MONORAIL",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_6/page/n51_w500.jpg"
+    },
+    {
+      "line": 14360,
+      "page": 201,
+      "title": "ADD 1 TO ACCUMULATOR",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_6/page/n202_w500.jpg"
+    },
+    {
+      "line": 14361,
+      "page": 202,
+      "title": "ADD 1 TO ACCUMULATOR",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_6/page/n203_w500.jpg"
+    },
+    {
+      "line": 14362,
+      "page": 203,
+      "title": "STOP",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_6/page/n204_w500.jpg"
+    },
+    {
+      "line": 20374,
+      "page": 60,
+      "title": "GARDEN STREET 7 -",
+      "image_url": "https://archive.org/download/wholeearthcatalo00unse_6/page/n61_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 512,
+      "text": "35 HOME METHANE GENERATOR",
+      "score": 8
+    },
+    {
+      "line": 517,
+      "text": "36 WHOLE CONSCIOUSNESS CATALOG 39",
+      "score": 8
+    },
+    {
+      "line": 5969,
+      "text": "50 FOOT MONORAIL",
+      "score": 8
+    },
+    {
+      "line": 14360,
+      "text": "201 ADD 1 TO ACCUMULATOR",
+      "score": 8
+    },
+    {
+      "line": 14361,
+      "text": "202 ADD 1 TO ACCUMULATOR",
+      "score": 8
+    },
+    {
+      "line": 14362,
+      "text": "203 STOP",
+      "score": 8
+    },
+    {
+      "line": 6193,
+      "text": "PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 11368,
+      "text": "JECOLOGY",
+      "score": 6
+    },
+    {
+      "line": 12597,
+      "text": "SUPPLEMENTARY BIBLIOGRAPHY ON PESTICIDES AND ECOLOGY.",
+      "score": 6
+    },
+    {
+      "line": 12610,
+      "text": "B. ON ECOLOGY",
+      "score": 6
+    },
+    {
+      "line": 14230,
+      "text": "PROGRAM COUNTER",
+      "score": 6
+    },
+    {
+      "line": 20276,
+      "text": "COMMUNICATIONS SYSTEM",
+      "score": 6
+    },
+    {
+      "line": 10437,
+      "text": "weekly magazines, TV network news programs and interview",
+      "score": 5
+    },
+    {
+      "line": 20374,
+      "text": "60 GARDEN STREET 7 -",
+      "score": 5
+    },
+    {
+      "line": 1,
+      "text": "_ JANUARY a",
+      "score": 4
+    },
+    {
+      "line": 12,
+      "text": "THE AREA",
+      "score": 4
+    },
+    {
+      "line": 25,
+      "text": "INTO A VERY SIMPLE ONE: SURVIVAL. ALL THAT'S LEFT OF THE TWENTIETH CENTURY.",
+      "score": 4
+    },
+    {
+      "line": 31,
+      "text": "FUNCTION : a",
+      "score": 4
+    },
+    {
+      "line": 50,
+      "text": "PURPOSE",
+      "score": 4
+    },
+    {
+      "line": 63,
+      "text": "SUSTAINING SUBSCRIBERS",
+      "score": 4
+    },
+    {
+      "line": 71,
+      "text": "RETAINING SUBSCRIBERS",
+      "score": 4
+    },
+    {
+      "line": 283,
+      "text": "or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 291,
+      "text": "VITA in USA",
+      "score": 4
+    },
+    {
+      "line": 516,
+      "text": "EDUCATION",
+      "score": 4
+    },
+    {
+      "line": 881,
+      "text": ". 5 ‘ | THE KING AND THE CORPSE",
+      "score": 4
+    },
+    {
+      "line": 887,
+      "text": "} H ; E :",
+      "score": 4
+    },
+    {
+      "line": 908,
+      "text": "= RESIDENTIAL TYPES",
+      "score": 4
+    },
+    {
+      "line": 914,
+      "text": "or WHOLE EARTH CATALOG ;",
+      "score": 4
+    },
+    {
+      "line": 960,
+      "text": "INTEGRATION a",
+      "score": 4
+    },
+    {
+      "line": 964,
+      "text": "OF HUMAN BEINGS Pp 8 5",
+      "score": 4
+    },
+    {
+      "line": 1021,
+      "text": "sor WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1174,
+      "text": "; or WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1227,
+      "text": "or WHOLE EARTH",
+      "score": 4
+    },
+    {
+      "line": 1228,
+      "text": "CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1231,
+      "text": "“CORONA”",
+      "score": 4
+    },
+    {
+      "line": 1232,
+      "text": "GRAIN MILL",
+      "score": 4
+    },
+    {
+      "line": 1305,
+      "text": "NY 11531",
+      "score": 4
+    },
+    {
+      "line": 1359,
+      "text": "eae Xe Xe eX aXe Xe Xa Xe Xa) POMPE MOU U OU UO UO UI UO YIU VOU OVOUG VOUOUS CD",
+      "score": 4
+    },
+    {
+      "line": 1429,
+      "text": "or WHOLE EARTH Be",
+      "score": 4
+    },
+    {
+      "line": 1606,
+      "text": "SMP ‘",
+      "score": 4
+    },
+    {
+      "line": 1607,
+      "text": "HANBEOOES. = C : .",
+      "score": 4
+    },
+    {
+      "line": 1711,
+      "text": "WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 1771,
+      "text": "HOW TO APPLY",
+      "score": 4
+    },
+    {
+      "line": 1793,
+      "text": "VITA/USA",
+      "score": 4
+    },
+    {
+      "line": 1833,
+      "text": "COOOOOOO",
+      "score": 4
+    },
+    {
+      "line": 1852,
+      "text": "5 - HP",
+      "score": 4
+    },
+    {
+      "line": 1859,
+      "text": "DIVA Y AA",
+      "score": 4
+    },
+    {
+      "line": 1863,
+      "text": "COCOOOOOOOHO eh",
+      "score": 4
+    },
+    {
+      "line": 1866,
+      "text": "HORRY",
+      "score": 4
+    },
+    {
+      "line": 1869,
+      "text": "A MAY",
+      "score": 4
+    },
+    {
+      "line": 1879,
+      "text": "WATER AGAINST AIR",
+      "score": 4
+    },
+    {
+      "line": 1913,
+      "text": "INTERFACIAL TENSION",
+      "score": 4
+    },
+    {
+      "line": 2118,
+      "text": "BERBERA REHM",
+      "score": 4
+    },
+    {
+      "line": 2124,
+      "text": "OA AAAP",
+      "score": 4
+    },
+    {
+      "line": 2155,
+      "text": "PEDERI HL OHHH CAH",
+      "score": 4
+    },
+    {
+      "line": 2276,
+      "text": "POIOOO",
+      "score": 4
+    },
+    {
+      "line": 2280,
+      "text": "OOK KIKI IVES ESC C56)",
+      "score": 4
+    },
+    {
+      "line": 2357,
+      "text": "LIGHT",
+      "score": 4
+    },
+    {
+      "line": 2358,
+      "text": "WEICHT",
+      "score": 4
+    },
+    {
+      "line": 2359,
+      "text": "CAMPING",
+      "score": 4
+    },
+    {
+      "line": 2360,
+      "text": "EQUIPMENT",
+      "score": 4
+    },
+    {
+      "line": 2416,
+      "text": "M0909?",
+      "score": 4
+    },
+    {
+      "line": 2456,
+      "text": "MAA AAA AAA AAA ADA MAMMA AMANDA DMNA ALA LHD",
+      "score": 4
+    },
+    {
+      "line": 2467,
+      "text": "5 CSS",
+      "score": 4
+    },
+    {
+      "line": 2541,
+      "text": "MAA AAA AAA AA ALAA AA LAA HAMA AAA HAA HA eee eels",
+      "score": 4
+    },
+    {
+      "line": 2548,
+      "text": "KHIKAAAIADAPHHIA",
+      "score": 4
+    },
+    {
+      "line": 2613,
+      "text": "NMA PAA AAA AMAA MAAN AA ADA HMA AHA MA HAH",
+      "score": 4
+    },
+    {
+      "line": 2617,
+      "text": "Yo OO COOOOOOHIOOE",
+      "score": 4
+    },
+    {
+      "line": 2629,
+      "text": "> D ~ A",
+      "score": 4
+    },
+    {
+      "line": 2655,
+      "text": "OA) .",
+      "score": 4
+    },
+    {
+      "line": 2828,
+      "text": "SUGGESTION FOR WHOLE EARTH CATALOG",
+      "score": 4
+    },
+    {
+      "line": 3113,
+      "text": "IF YOU HAVENT NOTICED THESE PRICES ARE GREAT.",
+      "score": 4
+    },
+    {
+      "line": 3252,
+      "text": "Available from: AMERICAN INDIAN TOBACCO & ENTERPRISES",
+      "score": 4
+    },
+    {
+      "line": 3308,
+      "text": "THE HOW-TO-DO-IT BOOK SHOP",
+      "score": 4
+    },
+    {
+      "line": 3313,
+      "text": "LO 3-1516",
+      "score": 4
+    },
+    {
+      "line": 3369,
+      "text": "PRESCRIPTION DRUGS",
+      "score": 4
+    },
+    {
+      "line": 3701,
+      "text": "HOW TO KEEP YOUR VOLKSWAGEN ALIVE ETC.... UF",
+      "score": 4
+    },
+    {
+      "line": 3753,
+      "text": "FORSEDAN GHIA",
+      "score": 4
+    },
+    {
+      "line": 3754,
+      "text": "&TRANSPORTER",
+      "score": 4
+    },
+    {
+      "line": 3757,
+      "text": "OLKSWAGEN ALIVE",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 123,
+      "term": "tools",
+      "snippet": "Woodstock, New York Saint Louis, Missouri Tools that aid this Mr. & Mrs. Louis Mackall Michael Dreyfuss Barbara Schultz"
+    },
+    {
+      "line": 228,
+      "term": "ecology",
+      "snippet": "Geyserville, California Washington, D. C. 5 Concepts of Ecology 6 Cosmic View Structural Integration Lama/Cookbook Poster"
+    },
+    {
+      "line": 349,
+      "term": "ecology",
+      "snippet": "20 From Arthur Godfrey 21 to Esquire Ecology trip 22 The Crisis of Crises Food Modern Utopian"
+    },
+    {
+      "line": 420,
+      "term": "community",
+      "snippet": "Sesame Street Move. Speak. Community Market Radical Films Learning Gear Black Reading List"
+    },
+    {
+      "line": 423,
+      "term": "learning",
+      "snippet": "Community Market Radical Films Learning Gear Black Reading List Larry Robin suggests Navigational Electronic Boyscout"
+    },
+    {
+      "line": 439,
+      "term": "tools",
+      "snippet": "Garbage As You Like It, and Compost Science Cycle Parts & tools Filmmaking_ Soleri’s book at last Mother Earth News"
+    },
+    {
+      "line": 482,
+      "term": "ecology",
+      "snippet": "28 Free some land, and not just a little Voices at the Park meeting Ecology 30 Know Your Local Polluters Good Housekeeping Some Questions"
+    },
+    {
+      "line": 624,
+      "term": "ecology",
+      "snippet": "Brown rice again? Aircraft inspection Pure land & ecology kits Congratulations Hot Scandal 46 Be Gentle"
+    },
+    {
+      "line": 681,
+      "term": "tools",
+      "snippet": "Haste made waste Curta Calculator Tools at University of Illinois Important change: Birth Control Handbook Business 53 53 The great mail hassle 54"
+    },
+    {
+      "line": 817,
+      "term": "tools",
+      "snippet": "Anything overseas do by air, unless you want to wait a month or so for delivery, Our obligation is to CATALOG users and to ourselves to be good tools for one another. gate This issue o $1 Catalog takes pl. he fai Subscr ibi ng to the CATALOG edge of a Sie wpe acunee ica sMon este and subscribers, more information coming in, more"
+    },
+    {
+      "line": 889,
+      "term": "ecology",
+      "snippet": "} H ; E : # The King and the Corpse ~ Solar Stills | Concepts of Ecology & From $1.75 to $5.00 postpaid _We left out their address: Was $2.95; is now $3.95 hardbound Sunwater Company postpaid > : 10404 San Diego Mission Road 1 from: San Diego, CA 92120"
+    },
+    {
+      "line": 1553,
+      "term": "ecology",
+      "snippet": "sure-handedly from the root-hog-or-die survival situations through toward gourmet ecology, the Fieldbook shows how far weve come and certainly what to do next. The spirit of the Boer War appears to be giving way to that of enlightened naturalism"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "_ JANUARY a"
+    },
+    {
+      "line": 2,
+      "text": "_ ~‘Whole Earth Catalog 1"
+    },
+    {
+      "line": 5,
+      "text": "The $1 Catalog was formerly called the SUPPLEMENT to the Whole Earth Catalog. The name was changed to accomodate the Post Office."
+    },
+    {
+      "line": 6,
+      "text": "Grim details on p. 53. ‘"
+    },
+    {
+      "line": 9,
+      "text": "CBS Radio"
+    },
+    {
+      "line": 12,
+      "text": "THE AREA"
+    },
+    {
+      "line": 15,
+      "text": "From Arthur Godfrey to Esquire"
+    },
+    {
+      "line": 18,
+      "text": "IN RESPONSE TO YOUR KIND INVITATION OF INCREDIBLE AS IT MAY SEEM, MAN NOW FINDS HIMSELF"
+    },
+    {
+      "line": 21,
+      "text": "JULY 9TH, IT STRIKES ME THAT THE CHALLENGES ACTUALLY LISTED AS ONE OF THE ENDANGERED SPECIES,"
+    },
+    {
+      "line": 22,
+      "text": "FACING ALL OF MANKIND ON THIS PLANET IN NOT IN THE NEXT THOUSAND YEARS OR EVEN THE NEXT"
+    },
+    {
+      "line": 23,
+      "text": "THE SEVENTIES HAVE NOW RESOLVED THEMSELVES HUNDRED-BUT WITHIN THE NEXT THIRTY YEARS-"
+    },
+    {
+      "line": 25,
+      "text": "INTO A VERY SIMPLE ONE: SURVIVAL. ALL THAT'S LEFT OF THE TWENTIETH CENTURY."
+    },
+    {
+      "line": 31,
+      "text": "FUNCTION : a"
+    },
+    {
+      "line": 34,
+      "text": "The WHOLE EARTH CATALOG functions as an evaluation and access"
+    },
+    {
+      "line": 35,
+      "text": "device. With it, the user should know better what is worth getting and"
+    },
+    {
+      "line": 36,
+      "text": "where and how to do the getting."
+    },
+    {
+      "line": 39,
+      "text": "An item is listed in the CATALOG if it is deemed:"
+    },
+    {
+      "line": 40,
+      "text": "1) Useful as a tool,"
+    },
+    {
+      "line": 41,
+      "text": "2) Relevant to independent education,"
+    },
+    {
+      "line": 42,
+      "text": "3) High quality or low cost,"
+    },
+    {
+      "line": 43,
+      "text": "4) Easily available by mail."
+    },
+    {
+      "line": 46,
+      "text": "CATALOG listings are continually revised according to the experience"
+    },
+    {
+      "line": 47,
+      "text": "and suggestions of CATALOG .users and staff."
+    },
+    {
+      "line": 50,
+      "text": "PURPOSE"
+    },
+    {
+      "line": 53,
+      "text": "We are as gods and might as well get good at it. So far remotely done"
+    },
+    {
+      "line": 54,
+      "text": "power and glory-as via government, big business, formal education,"
+    },
+    {
+      "line": 55,
+      "text": "church-has succeeded to the point where gross defects obscure actual"
+    },
+    {
+      "line": 56,
+      "text": "gains. In response to this dilemma and to these gains a realm of intimate,"
+    },
+    {
+      "line": 57,
+      "text": "personal power is developing-power of the individual to conduct his own"
+    },
+    {
+      "line": 58,
+      "text": "education, find his own inspiration, shape his own environment, and"
+    },
+    {
+      "line": 59,
+      "text": "share his adventure with whoever is interested."
+    },
+    {
+      "line": 60,
+      "text": "process are sought and promoted by the WHOLE EARTH CATALOG."
+    },
+    {
+      "line": 63,
+      "text": "SUSTAINING SUBSCRIBERS"
+    },
+    {
+      "line": 66,
+      "text": "Julia Brand"
+    },
+    {
+      "line": 67,
+      "text": "Forrest A. Richey, Jr."
+    },
+    {
+      "line": 68,
+      "text": "Frederick W. Davis"
+    },
+    {
+      "line": 71,
+      "text": "RETAINING SUBSCRIBERS"
+    },
+    {
+      "line": 74,
+      "text": "Mark Albert San Francisco, California Joe & Ann McConnell, Jr. Point Reyes Station, California D. T. Carter USS Grant County, FPO, New York"
+    },
+    {
+      "line": 75,
+      "text": "John Doss San Francisco, California Vera L. Pratt Cambridge, Massachusetts Monroe Litman New York, New York"
+    },
+    {
+      "line": 77,
+      "text": "Edmund Scientific Co. Barrington, New Jersey Jim Temple Adamant, Vermont Bob Mitchell North Bergen, New Jersey bet"
+    }
+  ]
+}

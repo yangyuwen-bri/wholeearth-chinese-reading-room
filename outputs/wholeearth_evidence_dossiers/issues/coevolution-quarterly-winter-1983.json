@@ -1,0 +1,698 @@
+{
+  "title": "CoEvolution Quarterly, Winter 1983",
+  "identifier": "coevolutionquart00unse_36",
+  "year": 1983,
+  "season": "Winter",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1983",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_36",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_36/coevolutionquart00unse_36.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_36/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_36_djvu.txt",
+  "ocr_chars": 621764,
+  "significant_line_count": 15477,
+  "theme_counts": {
+    "software_computing": 107,
+    "tools_craft": 260,
+    "ecology_place": 459,
+    "learning_media": 506,
+    "community_politics": 489
+  },
+  "top_themes": [
+    "learning_media",
+    "community_politics",
+    "ecology_place"
+  ],
+  "page_markers": [
+    {
+      "line": 258,
+      "page": 4,
+      "title": "SILENCE IS A COMMONS",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_36/page/n5_w500.jpg"
+    },
+    {
+      "line": 265,
+      "page": 22,
+      "title": "SENTIMENT, GUILT AND REASON",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_36/page/n23_w500.jpg"
+    },
+    {
+      "line": 278,
+      "page": 41,
+      "title": "COMA STORIES",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_36/page/n42_w500.jpg"
+    },
+    {
+      "line": 294,
+      "page": 64,
+      "title": "ENEMIES AND FRIENDS:",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_36/page/n65_w500.jpg"
+    },
+    {
+      "line": 322,
+      "page": 104,
+      "title": "THE SECRET LIFE",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_36/page/n105_w500.jpg"
+    },
+    {
+      "line": 331,
+      "page": 112,
+      "title": "EVENTS ARE THE TEACHER",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_36/page/n113_w500.jpg"
+    },
+    {
+      "line": 2188,
+      "page": 7,
+      "title": "EE ---",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_36/page/n8_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 258,
+      "text": "4 SILENCE IS A COMMONS",
+      "score": 8
+    },
+    {
+      "line": 265,
+      "text": "22 SENTIMENT, GUILT AND REASON",
+      "score": 8
+    },
+    {
+      "line": 278,
+      "text": "41 COMA STORIES",
+      "score": 8
+    },
+    {
+      "line": 294,
+      "text": "64 ENEMIES AND FRIENDS:",
+      "score": 8
+    },
+    {
+      "line": 322,
+      "text": "104 THE SECRET LIFE",
+      "score": 8
+    },
+    {
+      "line": 331,
+      "text": "112 EVENTS ARE THE TEACHER",
+      "score": 8
+    },
+    {
+      "line": 2188,
+      "text": "7 EE ---",
+      "score": 8
+    },
+    {
+      "line": 397,
+      "text": "jails ~ DEPARTMENTS/REVIEWS",
+      "score": 6
+    },
+    {
+      "line": 400,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 420,
+      "text": "WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 444,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 533,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 2894,
+      "text": "__WHOLE SYSTEMS",
+      "score": 6
+    },
+    {
+      "line": 5749,
+      "text": "_ COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 20218,
+      "text": "SEVERAL NEW MONEYMAKING programs.",
+      "score": 6
+    },
+    {
+      "line": 21086,
+      "text": "OPEN COMMUNITY SCHOOLS - Seeking",
+      "score": 6
+    },
+    {
+      "line": 506,
+      "text": "By The Million a Community Energy",
+      "score": 5
+    },
+    {
+      "line": 7208,
+      "text": "The Community Boards program which trained me (149",
+      "score": 5
+    },
+    {
+      "line": 8317,
+      "text": "Support Program, Energy",
+      "score": 5
+    },
+    {
+      "line": 9152,
+      "text": "community energy consciousness. Commendably free of",
+      "score": 5
+    },
+    {
+      "line": 9426,
+      "text": "Community Energy",
+      "score": 5
+    },
+    {
+      "line": 248,
+      "text": "FEATURES",
+      "score": 4
+    },
+    {
+      "line": 251,
+      "text": "ARTICLES",
+      "score": 4
+    },
+    {
+      "line": 266,
+      "text": "IN THE MANAGEMENT",
+      "score": 4
+    },
+    {
+      "line": 267,
+      "text": "OF WILD HERDS",
+      "score": 4
+    },
+    {
+      "line": 320,
+      "text": "SPECIAL SECTION ON",
+      "score": 4
+    },
+    {
+      "line": 321,
+      "text": "THE POLITICS OF RELIGION",
+      "score": 4
+    },
+    {
+      "line": 323,
+      "text": "OF SWAMI MUKTANANDA",
+      "score": 4
+    },
+    {
+      "line": 341,
+      "text": "FICTION",
+      "score": 4
+    },
+    {
+      "line": 352,
+      "text": "“LITE’/“BOLD”",
+      "score": 4
+    },
+    {
+      "line": 456,
+      "text": "LAND USE",
+      "score": 4
+    },
+    {
+      "line": 464,
+      "text": "SOFT TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 474,
+      "text": "COVERS",
+      "score": 4
+    },
+    {
+      "line": 511,
+      "text": "POLITICS",
+      "score": 4
+    },
+    {
+      "line": 526,
+      "text": "NOMADICS",
+      "score": 4
+    },
+    {
+      "line": 545,
+      "text": "BACKSCATTER",
+      "score": 4
+    },
+    {
+      "line": 549,
+      "text": "BUSINESS",
+      "score": 4
+    },
+    {
+      "line": 583,
+      "text": "COALEALLEAE AM OMA PEALE BAL ALCL LF Y)",
+      "score": 4
+    },
+    {
+      "line": 586,
+      "text": "SSSSSSSSSSSSSSSSSSSSSSSIN",
+      "score": 4
+    },
+    {
+      "line": 589,
+      "text": "SSSSSSN",
+      "score": 4
+    },
+    {
+      "line": 592,
+      "text": "EY 0111 PEELE NTO ASU,",
+      "score": 4
+    },
+    {
+      "line": 593,
+      "text": "Me LL EA IND EDM COU A. GA US",
+      "score": 4
+    },
+    {
+      "line": 594,
+      "text": "ME 92)29 ALL OF) hp MND Ad Uh, Wh,",
+      "score": 4
+    },
+    {
+      "line": 597,
+      "text": "4 THE CoEVOLUTION QUARTERLY WINTER 1983",
+      "score": 4
+    },
+    {
+      "line": 673,
+      "text": "BOX 428 SAUSALITO CA 94966 5",
+      "score": 4
+    },
+    {
+      "line": 794,
+      "text": "THE CoEVOLUTION QUARTERLY WINTER 1983",
+      "score": 4
+    },
+    {
+      "line": 806,
+      "text": "RE SSSR",
+      "score": 4
+    },
+    {
+      "line": 809,
+      "text": "PE RSS FILS RPP TE Pe",
+      "score": 4
+    },
+    {
+      "line": 872,
+      "text": "BOX 428 SAUSALITO CA 94966",
+      "score": 4
+    },
+    {
+      "line": 1106,
+      "text": "y MN YAS TATE Us UT Ul a UA ATTA Uh, Uy:52, ne",
+      "score": 4
+    },
+    {
+      "line": 1109,
+      "text": "| ND BOE [ee AF aa 1S. ULM MTX) XL ALIX NE",
+      "score": 4
+    },
+    {
+      "line": 1110,
+      "text": "| ME 527 29 04 GO Of ALTO, Ag A:",
+      "score": 4
+    },
+    {
+      "line": 1113,
+      "text": "[LS NT 2 10>,",
+      "score": 4
+    },
+    {
+      "line": 1126,
+      "text": "BOX 428 SAUSALITO CA 94966 9",
+      "score": 4
+    },
+    {
+      "line": 1141,
+      "text": "ISSSOSRTHADVDHGHee rT AHHDSHHONHDOBSLOSCCAHOCRADHE",
+      "score": 4
+    },
+    {
+      "line": 1143,
+      "text": "BSGue [22S SGSSSSGSSSGeeeeGRG008080",
+      "score": 4
+    },
+    {
+      "line": 1147,
+      "text": "SPSS DS Ge OB § @ ero TIT eT",
+      "score": 4
+    },
+    {
+      "line": 1148,
+      "text": "ee RS -J ‘ SSSOSSORSOHSSHOCSOSSHHSCOSGee = =°2888",
+      "score": 4
+    },
+    {
+      "line": 1176,
+      "text": "3\" A SPIDER",
+      "score": 4
+    },
+    {
+      "line": 1228,
+      "text": "i 0 THE CoEVOLUTION QUARTERLY WINTER 1983",
+      "score": 4
+    },
+    {
+      "line": 1255,
+      "text": "MOSSCRSCCSRSSELOS",
+      "score": 4
+    },
+    {
+      "line": 1256,
+      "text": "Lt TY",
+      "score": 4
+    },
+    {
+      "line": 1277,
+      "text": "SSB aS",
+      "score": 4
+    },
+    {
+      "line": 1278,
+      "text": "22 OF OS Oe LO GO OS Os we",
+      "score": 4
+    },
+    {
+      "line": 1285,
+      "text": "FRBSARRBSS",
+      "score": 4
+    },
+    {
+      "line": 1578,
+      "text": "MURDER AT THE LIAR’S CLUB®",
+      "score": 4
+    },
+    {
+      "line": 1579,
+      "text": "USER-FRIENDLY WAR TOYS, INC.",
+      "score": 4
+    },
+    {
+      "line": 1582,
+      "text": "BARON VON FECUND HAS BEEN FOUND",
+      "score": 4
+    },
+    {
+      "line": 1583,
+      "text": "SLUMPED IN THE FONDUE AFTER THE",
+      "score": 4
+    },
+    {
+      "line": 1584,
+      "text": "PRESTIGIOUS LIAR’S CLUB’S LAVISH ANNUAL",
+      "score": 4
+    },
+    {
+      "line": 1585,
+      "text": "CLAMBAKE AT THE POSH MOOTE POINTE YACHT",
+      "score": 4
+    },
+    {
+      "line": 1586,
+      "text": "CLUB. THE BARONESS’ STORY IS THAT SHE WAS",
+      "score": 4
+    },
+    {
+      "line": 1587,
+      "text": "IN THE GAZEBO WITH ANTON SYLVESTER. THE",
+      "score": 4
+    },
+    {
+      "line": 1588,
+      "text": "POSITION OF THE BODY INDICATES THAT THE",
+      "score": 4
+    },
+    {
+      "line": 1589,
+      "text": "MURDERER WAS EITHER AN AMBIDEXTROUS",
+      "score": 4
+    },
+    {
+      "line": 1590,
+      "text": "MIDGET OR A TALL CONTORTIONIST OF",
+      "score": 4
+    },
+    {
+      "line": 1591,
+      "text": "UNKNOWN NATIONAL ORIGIN.",
+      "score": 4
+    },
+    {
+      "line": 1599,
+      "text": "WE LOOKED UP WILT CHAMBERLAIN, BUT HE",
+      "score": 4
+    },
+    {
+      "line": 1600,
+      "text": "HAD AN AIRTIGHT ALIBI. HE WAS PLAYING",
+      "score": 4
+    },
+    {
+      "line": 1601,
+      "text": "SHEEPSHEAD WITH JUDGE CRATER, THE",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 333,
+      "term": "community",
+      "snippet": "112 EVENTS ARE THE TEACHER by Katy Butler A Buddhist community asks its religious leader to stop. 124 Perils of the Path by Rick Fields"
+    },
+    {
+      "line": 400,
+      "term": "communications",
+      "snippet": "Box 428, Sausalito, CA 94966. jails ~ DEPARTMENTS/REVIEWS COMMUNICATIONS 16 Piano Servicing, Tuning & Rebuilding m Violin-Making as it Was and Is gw The Technique of Violin Making"
+    },
+    {
+      "line": 420,
+      "term": "whole systems",
+      "snippet": "20 The Wittenburg Door gm DIN. Newservice WHOLE SYSTEMS 21 Standing by Words a Axe Handles 36 Saving the Creepy Crawlies by Peter Warshall w The IUCN"
+    },
+    {
+      "line": 444,
+      "term": "community",
+      "snippet": "40 The Solar System Close-up w Tapes of the Night Sky a The Hour of Our Death COMMUNITY 47 Response! 51 I’m On My Way Running a Going Co-op @ Mediator’s Handbook"
+    },
+    {
+      "line": 500,
+      "term": "energy",
+      "snippet": "61 Philips SL*&18 light bulb m= Waterworks @ Handbook of Snow 62 Plumbing for Dummies a School Energy Action w Biogas from Agricultural and Other Wastes 63 Drying Wood with the Sun # Cheaper"
+    },
+    {
+      "line": 506,
+      "term": "community",
+      "snippet": "and Other Wastes 63 Drying Wood with the Sun # Cheaper By The Million a Community Energy Cooperatives a GACO Neoprene Coating POLITICS"
+    },
+    {
+      "line": 533,
+      "term": "learning",
+      "snippet": "Outings & Expeditions = Mountain Skiing m The Avalanche Review LEARNING 103. Our New Baby ag It’s MY Body mw Pony Express Book Service THE POLITICS OF RELIGION"
+    },
+    {
+      "line": 576,
+      "term": "communications",
+      "snippet": "in a cocoa plantation, carrying a machete and a few worries of his own. -Art Kleiner COMMUNICATIONS tf 4 sa i COALEALLEAE AM OMA PEALE BAL ALCL LF Y) SSSSSSSSSSSSSSSSSSSSSSSIN"
+    },
+    {
+      "line": 663,
+      "term": "energy",
+      "snippet": "become aware of the need to limit the marvellous if it became for the entire world the encroachment of machines on the style of their model of a new politics of self-limitation in the Ivan Illich is doing to computers what he did to education (De-Schooling Society, 1971), to energy (Energy and Equity, 1974), to medicine (Medical Nemesis, 1975), and to sex roles (Vernacular Gender, 1983). Each time it has been radical analysis that changes our perception of what is really going on. Each time, and with growing clarity, it is an economic/historical analysis having to do with the idea of scarcity as a means of exploitation. This article is from"
+    },
+    {
+      "line": 683,
+      "term": "community",
+      "snippet": "those parts of the environment for which customary law exacted specific forms of community respect. field of communication, which, in my opinion, is henceforth necessary if a people wants to remain self-governing."
+    },
+    {
+      "line": 694,
+      "term": "ecology",
+      "snippet": "be approached in several ways. I propose, at the beginning of this public consultation, to approach the issue as one of political ecology. Ecology, during the last ten years, has acquired a new meaning. It is still the name for a branch of professional biology, but the term now"
+    },
+    {
+      "line": 695,
+      "term": "ecology",
+      "snippet": "beginning of this public consultation, to approach the issue as one of political ecology. Ecology, during the last ten years, has acquired a new meaning. It is still the name for a branch of professional biology, but the term now increasingly serves as the label under which a"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 4,
+      "text": "dd yt et i"
+    },
+    {
+      "line": 5,
+      "text": "Ngee:"
+    },
+    {
+      "line": 8,
+      "text": "ublished by t"
+    },
+    {
+      "line": 11,
+      "text": "Peace"
+    },
+    {
+      "line": 20,
+      "text": "tae \\e age"
+    },
+    {
+      "line": 24,
+      "text": "on ~~ -"
+    },
+    {
+      "line": 25,
+      "text": "- iD ba _"
+    },
+    {
+      "line": 28,
+      "text": "<i at eee"
+    },
+    {
+      "line": 31,
+      "text": "ole Earth Catalog:"
+    },
+    {
+      "line": 34,
+      "text": "Rad Le"
+    },
+    {
+      "line": 37,
+      "text": "PRI tg - ae"
+    },
+    {
+      "line": 38,
+      "text": "o. 40 Winter"
+    },
+    {
+      "line": 44,
+      "text": ". al =,"
+    },
+    {
+      "line": 45,
+      "text": "We eae as ‘"
+    },
+    {
+      "line": 46,
+      "text": "ANY \\ | ves"
+    },
+    {
+      "line": 58,
+      "text": "Pee ere"
+    },
+    {
+      "line": 61,
+      "text": ".NE FACTOR DETERMINES all else"
+    },
+    {
+      "line": 62,
+      "text": "about our relationship with our chil-"
+    },
+    {
+      "line": 63,
+      "text": "dren: it is irreversible. The contract"
+    },
+    {
+      "line": 65,
+      "text": "ee cannot be broken. Daily we leave"
+    },
+    {
+      "line": 66,
+      "text": "jobs, none friends, lovers, but the child always"
+    },
+    {
+      "line": 67,
+      "text": "comes along."
+    },
+    {
+      "line": 70,
+      "text": "When the going is rough - when we don’t like"
+    },
+    {
+      "line": 71,
+      "text": "each other - my son and I can’t call it quits and"
+    },
+    {
+      "line": 72,
+      "text": "cut our losses. I can’t pack a bag, make a break"
+    },
+    {
+      "line": 73,
+      "text": "for it, perhaps find a more compatible child. Were"
+    },
+    {
+      "line": 74,
+      "text": "it even the remotest of possibilities, everything else"
+    },
+    {
+      "line": 75,
+      "text": "; would change."
+    },
+    {
+      "line": 78,
+      "text": "So I take risks with him I"
+    },
+    {
+      "line": 79,
+      "text": "would never dare take with"
+    },
+    {
+      "line": 80,
+      "text": "anyone else. I treat him badly,"
+    },
+    {
+      "line": 81,
+      "text": "with rough impatience, with"
+    },
+    {
+      "line": 82,
+      "text": "all the bile I hide from friends"
+    },
+    {
+      "line": 83,
+      "text": "and lovers for fear of losing"
+    },
+    {
+      "line": 84,
+      "text": "them. I am less tolerant of"
+    },
+    {
+      "line": 85,
+      "text": "deviation and idiosyncrasies"
+    },
+    {
+      "line": 86,
+      "text": "with him. We fight - bitterly"
+    },
+    {
+      "line": 87,
+      "text": "- then, sad and weary of it,"
+    },
+    {
+      "line": 88,
+      "text": "make up with a tentative kiss."
+    },
+    {
+      "line": 89,
+      "text": "I demand so much: love,"
+    }
+  ]
+}

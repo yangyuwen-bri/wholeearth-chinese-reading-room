@@ -1,0 +1,680 @@
+{
+  "title": "CoEvolution Quarterly, Spring 1983",
+  "identifier": "coevolutionquart00unse_33",
+  "year": 1983,
+  "season": "Spring",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 165,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1983",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_33",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_33/coevolutionquart00unse_33.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_33/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_33_djvu.txt",
+  "ocr_chars": 725855,
+  "significant_line_count": 16700,
+  "theme_counts": {
+    "software_computing": 94,
+    "tools_craft": 318,
+    "ecology_place": 725,
+    "learning_media": 488,
+    "community_politics": 479
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 150,
+      "page": 4,
+      "title": "KOKOPELLI - THE HUMPBACKED",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_33/page/n5_w500.jpg"
+    },
+    {
+      "line": 239,
+      "page": 72,
+      "title": "ALASKA THE POINT OF IT",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_33/page/n73_w500.jpg"
+    },
+    {
+      "line": 2711,
+      "page": 500,
+      "title": "B.C.-300 B.C.",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_33/page/n501_w500.jpg"
+    },
+    {
+      "line": 4119,
+      "page": 70,
+      "title": "VACANT SIDE.",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_33/page/n71_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 150,
+      "text": "4 KOKOPELLI - THE HUMPBACKED",
+      "score": 8
+    },
+    {
+      "line": 239,
+      "text": "72 ALASKA THE POINT OF IT",
+      "score": 8
+    },
+    {
+      "line": 2711,
+      "text": "500 B.C.-300 B.C.",
+      "score": 8
+    },
+    {
+      "line": 4119,
+      "text": "70 VACANT SIDE.",
+      "score": 8
+    },
+    {
+      "line": 24405,
+      "text": "SOCIAL ECOLOGY SUMMER PROGRAM. July",
+      "score": 8
+    },
+    {
+      "line": 24820,
+      "text": "4 BOLD ISSUE UNLESS OTHERWISE SPECIFIED.",
+      "score": 8
+    },
+    {
+      "line": 24183,
+      "text": "interviews, program and k reviews, practical",
+      "score": 7
+    },
+    {
+      "line": 330,
+      "text": "| WHOLE SYSTEMS NOMADICS",
+      "score": 6
+    },
+    {
+      "line": 384,
+      "text": "| COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 1827,
+      "text": "PLANT ECOLOGY ”",
+      "score": 6
+    },
+    {
+      "line": 23514,
+      "text": "RADIO COMMUNICATIONS STATION site in",
+      "score": 6
+    },
+    {
+      "line": 24408,
+      "text": "lege, is resuming its program in social ecology in",
+      "score": 5
+    },
+    {
+      "line": 26,
+      "text": "| Se | |RSS",
+      "score": 4
+    },
+    {
+      "line": 29,
+      "text": "ON OZ ~",
+      "score": 4
+    },
+    {
+      "line": 51,
+      "text": "ISIMYOO]O1J9}]UNOD 9} UI UOT}e}s aUO ATUO aouUeApe",
+      "score": 4
+    },
+    {
+      "line": 76,
+      "text": ". *9ZeUI OU}",
+      "score": 4
+    },
+    {
+      "line": 77,
+      "text": "JO 193089 OY} 12 Ole \"TWOD pue LUVLS OUL 2",
+      "score": 4
+    },
+    {
+      "line": 79,
+      "text": "-J8AO SEY PUL [PUOISUSUIP-daIY} SI 9ZeUI SIU], *T",
+      "score": 4
+    },
+    {
+      "line": 83,
+      "text": "‘SNOLLONULSNI",
+      "score": 4
+    },
+    {
+      "line": 143,
+      "text": "FEATURES",
+      "score": 4
+    },
+    {
+      "line": 146,
+      "text": "ARTICLES",
+      "score": 4
+    },
+    {
+      "line": 161,
+      "text": "DEFORESTATION IN DISGUISE",
+      "score": 4
+    },
+    {
+      "line": 169,
+      "text": "RUNNING OUT",
+      "score": 4
+    },
+    {
+      "line": 174,
+      "text": "THE AUTHOR OF THE ACACIA SEEDS",
+      "score": 4
+    },
+    {
+      "line": 214,
+      "text": "MO TZU IN KENYA AND POLAND",
+      "score": 4
+    },
+    {
+      "line": 223,
+      "text": "NOT TAKING CARE OF OLD PEOPLE",
+      "score": 4
+    },
+    {
+      "line": 236,
+      "text": "FICTION",
+      "score": 4
+    },
+    {
+      "line": 248,
+      "text": "COVERS",
+      "score": 4
+    },
+    {
+      "line": 429,
+      "text": "LAND USE",
+      "score": 4
+    },
+    {
+      "line": 432,
+      "text": "ETIENNE 8. RENAUD, KOKOPELLI, IN SOUTHWESTERN LORE, SEPTEMBER 1948",
+      "score": 4
+    },
+    {
+      "line": 435,
+      "text": "KOKOPELLI",
+      "score": 4
+    },
+    {
+      "line": 551,
+      "text": "THE CoEVOLUTION QUARTERLY SPRING 1983 9",
+      "score": 4
+    },
+    {
+      "line": 636,
+      "text": "BOX 428 SAUSALITO CA 94966",
+      "score": 4
+    },
+    {
+      "line": 685,
+      "text": "L96L AINE ALINDILNG",
+      "score": 4
+    },
+    {
+      "line": 688,
+      "text": "NVOINSWY NI YSHOLId ADI353 1113dONO V ‘LYABWV “4 SINOPHVW",
+      "score": 4
+    },
+    {
+      "line": 698,
+      "text": "ETIENNE B. RENAUD, KOKOPELLI, IN SOUTHWESTERN LORE, SEPTEMBER 1948",
+      "score": 4
+    },
+    {
+      "line": 826,
+      "text": "THE CoEVOLUTION QUARTERLY SPRING 1983",
+      "score": 4
+    },
+    {
+      "line": 858,
+      "text": "CALIFORNIA ACADEMY OF SCIENCES, IN PACIFIC DISCOVERY, JANUARY 1982",
+      "score": 4
+    },
+    {
+      "line": 893,
+      "text": "GARY NABHAN",
+      "score": 4
+    },
+    {
+      "line": 934,
+      "text": "KAY MIROCHA",
+      "score": 4
+    },
+    {
+      "line": 1048,
+      "text": "HUGH C. CUTLER IN THE JOURNAL OF HEREDITY, OCTOBER 1944",
+      "score": 4
+    },
+    {
+      "line": 1049,
+      "text": "; HUGH C. CUTLER IN THE JOURNAL OF HEREDITY, OCTOBER 1944 ; >",
+      "score": 4
+    },
+    {
+      "line": 1202,
+      "text": "82 CQ.)",
+      "score": 4
+    },
+    {
+      "line": 1222,
+      "text": "CA 94720,",
+      "score": 4
+    },
+    {
+      "line": 1412,
+      "text": "J.W. FEWKES, HOP! KACHINAS, BUREAU OF AMERICAN ETHNOLOGY, 1903",
+      "score": 4
+    },
+    {
+      "line": 1649,
+      "text": "PETER BECKSTRAND",
+      "score": 4
+    },
+    {
+      "line": 1652,
+      "text": "SILVICULTURAL SYSTEMS",
+      "score": 4
+    },
+    {
+      "line": 1740,
+      "text": "WAS DELIGHTED TO",
+      "score": 4
+    },
+    {
+      "line": 1812,
+      "text": "meme BIOLOGICAL CROSSROADS BASIN",
+      "score": 4
+    },
+    {
+      "line": 1813,
+      "text": "u/// TRADITIONAL BIG THICKET",
+      "score": 4
+    },
+    {
+      "line": 1816,
+      "text": ". 4 BIG THICKET (84,550 ACRES)",
+      "score": 4
+    },
+    {
+      "line": 1817,
+      "text": "NATIONAL PRESERVE",
+      "score": 4
+    },
+    {
+      "line": 1820,
+      "text": "-- ROADS",
+      "score": 4
+    },
+    {
+      "line": 1826,
+      "text": "KATE WALTER, DERIVED FROM “BIG THICKET",
+      "score": 4
+    },
+    {
+      "line": 1972,
+      "text": "BEGAN MY TREE-PLANTING WITH",
+      "score": 4
+    },
+    {
+      "line": 2026,
+      "text": "OW I HAVE PAINTED MYSELF into a",
+      "score": 4
+    },
+    {
+      "line": 2100,
+      "text": "NI RS ER",
+      "score": 4
+    },
+    {
+      "line": 2324,
+      "text": "RUNNING: OUT",
+      "score": 4
+    },
+    {
+      "line": 2333,
+      "text": "ROM THE BRONZE AGE",
+      "score": 4
+    },
+    {
+      "line": 2371,
+      "text": "VSSS7S6I1MBee Co-°",
+      "score": 4
+    },
+    {
+      "line": 2409,
+      "text": "SOKO.",
+      "score": 4
+    },
+    {
+      "line": 2441,
+      "text": "CRETE: FROM SELF-SUFFICIENCY",
+      "score": 4
+    },
+    {
+      "line": 2442,
+      "text": "TO DEPENDENCE >",
+      "score": 4
+    },
+    {
+      "line": 2443,
+      "text": "2400 B.C.-1450 B.C.",
+      "score": 4
+    },
+    {
+      "line": 2446,
+      "text": "VIDENCE UNCOVERED by",
+      "score": 4
+    },
+    {
+      "line": 2547,
+      "text": "THE PALACE OF MINOS AT KNOSSOS BY SIR ARTHUR EVANS",
+      "score": 4
+    },
+    {
+      "line": 2558,
+      "text": "RUA STCA YT RATAN",
+      "score": 4
+    },
+    {
+      "line": 2561,
+      "text": "AKON a",
+      "score": 4
+    },
+    {
+      "line": 2563,
+      "text": "- WM)",
+      "score": 4
+    },
+    {
+      "line": 2586,
+      "text": "FUEL SHORTAGES IN CYPRUS",
+      "score": 4
+    },
+    {
+      "line": 2587,
+      "text": "AND ITS EFFECT ON THE",
+      "score": 4
+    },
+    {
+      "line": 2588,
+      "text": "GREEK MAINLAND",
+      "score": 4
+    },
+    {
+      "line": 2589,
+      "text": "Pea te CCEN TUR Y BC.",
+      "score": 4
+    },
+    {
+      "line": 2592,
+      "text": "TOMB 119 (AFTER WRESZINSK1})",
+      "score": 4
+    },
+    {
+      "line": 2656,
+      "text": "NAPLES, 300 B.C., THE CREMATION OF PATROCLUS",
+      "score": 4
+    },
+    {
+      "line": 2659,
+      "text": "WOOD-USE DURING THE BRONZE AGE",
+      "score": 4
+    },
+    {
+      "line": 2660,
+      "text": "AND ITS EFFECTS",
+      "score": 4
+    },
+    {
+      "line": 2709,
+      "text": "DEFORESTATION OF ATTICA",
+      "score": 4
+    },
+    {
+      "line": 2710,
+      "text": "AND ITS EFFECT ON ATHENIAN LIFE",
+      "score": 4
+    },
+    {
+      "line": 2783,
+      "text": "DEFORESTATION OF",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 154,
+      "term": "community",
+      "snippet": "A Native American patron saint for conserving agricultural diversity as a community responsibility The Hump backed Flute Player by Gary Snyder DEFORESTATION IN DISGUISE"
+    },
+    {
+      "line": 299,
+      "term": "learning",
+      "snippet": "available from CQ or on mirofilm and as xerographic reprints from University Microfilms International, Serials Bid Coordinator, 300 Zeeb Road, Ann Arbor, MI 48106. Recent CQ mailing list renters: SANE, The Environmental Task Force, Whole Life Times, The National Organization for Women, The Sierra Club, Planned Parenthood, Effective Learning Systems, The Cousteau Society, Common Cause, Deva, Planetary Citizens, The Natural Resources Defense Council, Coyote Magazine, Ben Ruhe/Boomerang, The Nation, Cultural Survival, The Tarrytown Group, Amnesty International, The Planetary Society, Food First, Food Monitor. Subscription circulation: 23,250. Newsstand circulation: 9,800. POSTMASTER: Send address changes to CoEvolution Quarterly, RO. Box 428, Sausalito, CA 94966."
+    },
+    {
+      "line": 330,
+      "term": "whole systems",
+      "snippet": "the Soil Reader’s Guide to Fantasy 29 HP Books ® Worms Eat My Garbage Good Movies: Spring by Sheila Benson | WHOLE SYSTEMS NOMADICS 35 Future Weather and the Greenhouse Effect = | 108 How Did You Bike Across America? ® Horned Lizards ® The Education of Koko Touring Exchange ® Sturmey Archer Five- 49 The Tangled Wing = The Plan of St. Gall Speed Hub ® Touring Cyclists’ Hospitality"
+    },
+    {
+      "line": 341,
+      "term": "tools",
+      "snippet": "Adventure Cycling in Europe ® Blackburn SOFT TECHNOLOGY bicycle racks ® New England Handcycles 51 Hand Tools The All New Complete Book of Bicycling = 52 Renovation ® The Earth Sheltered Burley Lite Bicycle Trailer eR Riad The Complete Book of Bicycle Commuting 53 Kansas Wind Energy Handbook ® Dragonfly = Bike Commuted Sentences ® U-Lok"
+    },
+    {
+      "line": 351,
+      "term": "energy",
+      "snippet": "52 Renovation ® The Earth Sheltered Burley Lite Bicycle Trailer eR Riad The Complete Book of Bicycle Commuting 53 Kansas Wind Energy Handbook ® Dragonfly = Bike Commuted Sentences ® U-Lok Wind Electric generator ® A Solar Design Transit Bus Rack Manual {or s\\laska 112 Toyota Tercel 4x4 = Escapees ™ MCCA Chinese Diesel Engines ® Hand cleaner ® Worldwide Mail Forwarding Service"
+    },
+    {
+      "line": 384,
+      "term": "community",
+      "snippet": "56 Stamp It! ® Knitting Without Tears = 136 Machine Knitters News | COMMUNITY Gift Giving Guide ™ Tithing Successfully ® Shelter What You Make - Minimize the Take No Bosses Here! ® The American Almanac LEARNING"
+    },
+    {
+      "line": 391,
+      "term": "learning",
+      "snippet": "Gift Giving Guide ™ Tithing Successfully ® Shelter What You Make - Minimize the Take No Bosses Here! ® The American Almanac LEARNING of Jobs and Salaries ™ Quill Office Supplies | 142 Uncommon Courtesy Courses Spring 1983 Street Smart ® Uncle Sam Umbrella Shop 144 Adventures of a Bystander ® A Book Recycling Now by Peter Warshall, Dan of Puzzlements"
+    },
+    {
+      "line": 418,
+      "term": "communications",
+      "snippet": "Bookstore”’’ ® Two new offers for CQ Subscribers COMMUNICATIONS Thank you 100 Boardroom Reports ™ Challenge # Inc. # Access Update ™ Financial Report Make your own magazine . Wactaeiheds 87 The International Catalogue of Catalogues ="
+    },
+    {
+      "line": 442,
+      "term": "community",
+      "snippet": "Humpbacked Flute Player A Native American patron saint for conserving agricultural diversity as a community responsibility This and similar drawings in this arti- cle show some of the many represen- tations of Kokopelli the Locust, the"
+    },
+    {
+      "line": 505,
+      "term": "tools",
+      "snippet": "The most necessary thing in agriculture . . . is not to invent new technologies or methods, not to achieve “breakthroughs,” but to determine what tools and methods are appropriate to specific people, places, and needs, and to apply them correctly. Application (which the heroic approach ignores) is the crux, be-"
+    },
+    {
+      "line": 577,
+      "term": "community",
+      "snippet": "the way that one farms and concerns himself with wild resources has everything to do with the spiri- tual life of the community. Some of these are Native American communities, which have associ- ated with them agricultural fields that have been tended for centuries; a few of these villages are"
+    },
+    {
+      "line": 593,
+      "term": "learning",
+      "snippet": "I have worked in some of them. My friends within them have taught me some things that have stirred up my beliefs, and redirected my learning toward certain practical skills. Yet I do not wish to make Hopi and Papago farmers out to be “heroes” of the sort that are in some kind of ideal balance with"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "ios,"
+    },
+    {
+      "line": 4,
+      "text": "© + * ty oe '"
+    },
+    {
+      "line": 8,
+      "text": "KEN KESEY in Alaska"
+    },
+    {
+      "line": 9,
+      "text": "- parts of a novel-in-progress"
+    },
+    {
+      "line": 12,
+      "text": "URSULA Le-GUIN=anéwegenre 9"
+    },
+    {
+      "line": 13,
+      "text": "i A GARY St YDER- city life anits best: 09"
+    },
+    {
+      "line": 14,
+      "text": "ee PAUL. HAWKEN=-economics = 9"
+    },
+    {
+      "line": 21,
+      "text": "| as = i \\ ‘"
+    },
+    {
+      "line": 22,
+      "text": "=e >"
+    },
+    {
+      "line": 25,
+      "text": "Lo YW Bea"
+    },
+    {
+      "line": 26,
+      "text": "| Se | |RSS"
+    },
+    {
+      "line": 27,
+      "text": "\\o an EA eae ee a) \\"
+    },
+    {
+      "line": 28,
+      "text": "a\\ta x Sy e 4 Ss 7 (\\ \\"
+    },
+    {
+      "line": 29,
+      "text": "ON OZ ~"
+    },
+    {
+      "line": 30,
+      "text": "¢ ee ke A he HS"
+    },
+    {
+      "line": 32,
+      "text": "= ~ is Li) 7 :"
+    },
+    {
+      "line": 36,
+      "text": "ye eo"
+    },
+    {
+      "line": 39,
+      "text": "= ‘ones Aue aq ued X “TWOS 24} yoreel NOA uayM “9"
+    },
+    {
+      "line": 40,
+      "text": "‘JJO ab pue uonels yNOJ ayy"
+    },
+    {
+      "line": 42,
+      "text": "0} pesooid jsnui noA ue) ‘p= xX jr - Aem oy} Huo"
+    },
+    {
+      "line": 43,
+      "text": "jjO 106 ouued NOA puy “paMmoye st suoroaitp"
+    },
+    {
+      "line": 44,
+      "text": "HulsiaAel YOTUM UT eased ATUO ay} SISTY], “yoeq un}"
+    },
+    {
+      "line": 45,
+      "text": "ysnut NOA pure adueape }, ued NOA ‘uOTIE}S e YoRal"
+    },
+    {
+      "line": 46,
+      "text": "“noA pue Q= X JO anjea au} J] “aures oy} sUTeUIAI 1"
+    },
+    {
+      "line": 47,
+      "text": "- jjo 3ab noA ueym abueypo i, useop x jo anjea ay],"
+    },
+    {
+      "line": 50,
+      "text": "<_- -_ : JO. 106 pue uonoasrp"
+    },
+    {
+      "line": 51,
+      "text": "ISIMYOO]O1J9}]UNOD 9} UI UOT}e}s aUO ATUO aouUeApe"
+    },
+    {
+      "line": 52,
+      "text": "ued noA usy} ‘Trerouow e uo jab nOA pure ‘ajdurexa"
+    },
+    {
+      "line": 53,
+      "text": "JO} ‘T+ =X Jequinu jy ‘(SmOde Aq pe}eorput)"
+    },
+    {
+      "line": 54,
+      "text": "UOTIIAIIP SSIMYOO]O-Ja}UNOd e ul Of sjreiououl"
+    },
+    {
+      "line": 55,
+      "text": "8U1 [IV “JJO pue uo 106 ued nod aseym (seaport"
+    },
+    {
+      "line": 56,
+      "text": "JeT[EUIs 8Yy}) SUOT}eIs OT Sey aUO YOes pue souT]"
+    },
+    {
+      "line": 57,
+      "text": "-doo] [feiououl ale asayy, “TWOS pue LYVILS"
+    },
+    {
+      "line": 58,
+      "text": "eu} punose sapoito abie] yYyHte aes ued NOZ “G"
+    },
+    {
+      "line": 59,
+      "text": "“OT ueY? ssay pue Ja}e0Ib 10 O"
+    },
+    {
+      "line": 60,
+      "text": "sAPMTP SI X OS “Z[+ }0U ‘Z+ SI Joquinu Meu inoA"
+    },
+    {
+      "line": 61,
+      "text": "‘p+ St}ey} 03eb e yHnosy} ssed noA pue ‘ajdurexe"
+    },
+    {
+      "line": 62,
+      "text": "JOJ ‘Q+ SIX JO [€}0} 94} JIIO ‘“utebe CO sawiovaq"
+    },
+    {
+      "line": 63,
+      "text": "X vay} OT O} Syunoure X JO [eI0} 9Y} JT “OD"
+    },
+    {
+      "line": 64,
+      "text": "\"X 0} Jaquinu ay} ppe isnu NOA ajeb e ybnoiy}"
+    }
+  ]
+}

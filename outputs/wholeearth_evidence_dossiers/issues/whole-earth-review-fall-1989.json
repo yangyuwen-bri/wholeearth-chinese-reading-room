@@ -1,0 +1,800 @@
+{
+  "title": "Whole Earth Review, Fall 1989",
+  "identifier": "wholeearthreview00unse_19",
+  "year": 1989,
+  "season": "Fall",
+  "collection": "Whole Earth Review",
+  "collection_zh": "Whole Earth Review",
+  "pages": 149,
+  "url": "https://wholeearth.info/p/whole-earth-review-fall-1989",
+  "archive_url": "https://archive.org/details/wholeearthreview00unse_19",
+  "pdf_url": "https://archive.org/download/wholeearthreview00unse_19/wholeearthreview00unse_19.pdf",
+  "cover_url": "https://archive.org/download/wholeearthreview00unse_19/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthreview00unse_19_djvu.txt",
+  "ocr_chars": 702952,
+  "significant_line_count": 16973,
+  "theme_counts": {
+    "software_computing": 186,
+    "tools_craft": 290,
+    "ecology_place": 655,
+    "learning_media": 446,
+    "community_politics": 402
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 833,
+      "page": 4,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n5_w500.jpg"
+    },
+    {
+      "line": 1097,
+      "page": 27,
+      "title": "GATE FIVE ROAD SAUSALITO, CA 94965 5",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n28_w500.jpg"
+    },
+    {
+      "line": 3226,
+      "page": 20,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n21_w500.jpg"
+    },
+    {
+      "line": 3435,
+      "page": 22,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n23_w500.jpg"
+    },
+    {
+      "line": 3698,
+      "page": 24,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n25_w500.jpg"
+    },
+    {
+      "line": 4059,
+      "page": 26,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n27_w500.jpg"
+    },
+    {
+      "line": 4266,
+      "page": 28,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n29_w500.jpg"
+    },
+    {
+      "line": 4539,
+      "page": 30,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n31_w500.jpg"
+    },
+    {
+      "line": 4911,
+      "page": 32,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n33_w500.jpg"
+    },
+    {
+      "line": 5088,
+      "page": 34,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n35_w500.jpg"
+    },
+    {
+      "line": 5347,
+      "page": 36,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n37_w500.jpg"
+    },
+    {
+      "line": 6128,
+      "page": 40,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n41_w500.jpg"
+    },
+    {
+      "line": 6357,
+      "page": 42,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n43_w500.jpg"
+    },
+    {
+      "line": 6604,
+      "page": 44,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n45_w500.jpg"
+    },
+    {
+      "line": 6887,
+      "page": 46,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n47_w500.jpg"
+    },
+    {
+      "line": 7199,
+      "page": 48,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n49_w500.jpg"
+    },
+    {
+      "line": 7528,
+      "page": 50,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n51_w500.jpg"
+    },
+    {
+      "line": 8108,
+      "page": 52,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n53_w500.jpg"
+    },
+    {
+      "line": 8425,
+      "page": 54,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n55_w500.jpg"
+    },
+    {
+      "line": 8656,
+      "page": 56,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n57_w500.jpg"
+    },
+    {
+      "line": 8975,
+      "page": 58,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n59_w500.jpg"
+    },
+    {
+      "line": 9267,
+      "page": 60,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n61_w500.jpg"
+    },
+    {
+      "line": 9754,
+      "page": 62,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n63_w500.jpg"
+    },
+    {
+      "line": 10066,
+      "page": 64,
+      "title": "WHOLE EARTH REVIEW FALL 1989",
+      "image_url": "https://archive.org/download/wholeearthreview00unse_19/page/n65_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 833,
+      "text": "4 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 3226,
+      "text": "20 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 3435,
+      "text": "22 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 3698,
+      "text": "24 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 4059,
+      "text": "26 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 4266,
+      "text": "28 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 4539,
+      "text": "30 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 4911,
+      "text": "32 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 5088,
+      "text": "34 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 5347,
+      "text": "36 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 6128,
+      "text": "40 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 6357,
+      "text": "42 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 6604,
+      "text": "44 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 6887,
+      "text": "46 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 7199,
+      "text": "48 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 7528,
+      "text": "50 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 8108,
+      "text": "52 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 8425,
+      "text": "54 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 8656,
+      "text": "56 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 8975,
+      "text": "58 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 9267,
+      "text": "60 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 9754,
+      "text": "62 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 10066,
+      "text": "64 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 10559,
+      "text": "66 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 10794,
+      "text": "68 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 11134,
+      "text": "70 WHOLE EARTH REVIEW - FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 11432,
+      "text": "72 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 12409,
+      "text": "78 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 13770,
+      "text": "86 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 14125,
+      "text": "88 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 14358,
+      "text": "90 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 14839,
+      "text": "92 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 15149,
+      "text": "94 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 15675,
+      "text": "98 WHOLE EARTH REVIEW FALL 1989",
+      "score": 10
+    },
+    {
+      "line": 1097,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 5",
+      "score": 8
+    },
+    {
+      "line": 1470,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 7",
+      "score": 8
+    },
+    {
+      "line": 3580,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 23",
+      "score": 8
+    },
+    {
+      "line": 4155,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 27",
+      "score": 8
+    },
+    {
+      "line": 5047,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 33",
+      "score": 8
+    },
+    {
+      "line": 5270,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 35",
+      "score": 8
+    },
+    {
+      "line": 5657,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 37",
+      "score": 8
+    },
+    {
+      "line": 6113,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 3 9",
+      "score": 8
+    },
+    {
+      "line": 6537,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 43",
+      "score": 8
+    },
+    {
+      "line": 6825,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 45",
+      "score": 8
+    },
+    {
+      "line": 7122,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 47",
+      "score": 8
+    },
+    {
+      "line": 7472,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 49",
+      "score": 8
+    },
+    {
+      "line": 8400,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 53",
+      "score": 8
+    },
+    {
+      "line": 8599,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 55",
+      "score": 8
+    },
+    {
+      "line": 8884,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 57",
+      "score": 8
+    },
+    {
+      "line": 9217,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 59",
+      "score": 8
+    },
+    {
+      "line": 9926,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 63",
+      "score": 8
+    },
+    {
+      "line": 10447,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 65",
+      "score": 8
+    },
+    {
+      "line": 10754,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 67",
+      "score": 8
+    },
+    {
+      "line": 11015,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 69",
+      "score": 8
+    },
+    {
+      "line": 11377,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 7 5",
+      "score": 8
+    },
+    {
+      "line": 11658,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 73",
+      "score": 8
+    },
+    {
+      "line": 11902,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 75",
+      "score": 8
+    },
+    {
+      "line": 12691,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 79",
+      "score": 8
+    },
+    {
+      "line": 13629,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 85",
+      "score": 8
+    },
+    {
+      "line": 13913,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 87",
+      "score": 8
+    },
+    {
+      "line": 14300,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 89",
+      "score": 8
+    },
+    {
+      "line": 15093,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 93",
+      "score": 8
+    },
+    {
+      "line": 15450,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 95",
+      "score": 8
+    },
+    {
+      "line": 15609,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 97",
+      "score": 8
+    },
+    {
+      "line": 16000,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 99",
+      "score": 8
+    },
+    {
+      "line": 16948,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 , 03",
+      "score": 8
+    },
+    {
+      "line": 18116,
+      "text": "27 GATE FIVE ROAD",
+      "score": 8
+    },
+    {
+      "line": 20618,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : 25",
+      "score": 8
+    },
+    {
+      "line": 23977,
+      "text": "27 GATE FIVE ROAD SAUSALITO, CA 94965 : 39",
+      "score": 8
+    },
+    {
+      "line": 543,
+      "text": "DEPART MENTS/REVIEWS 95",
+      "score": 6
+    },
+    {
+      "line": 582,
+      "text": "COMMUNITY",
+      "score": 6
+    },
+    {
+      "line": 697,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 1242,
+      "text": "é WHOLE EARTH REVIEW FALL 1989",
+      "score": 6
+    },
+    {
+      "line": 1865,
+      "text": "' 0 WHOLE EARTH REVIEW FALL 1989",
+      "score": 6
+    },
+    {
+      "line": 2248,
+      "text": "i 2 WHOLE EARTH REVIEW FALL 1989",
+      "score": 6
+    },
+    {
+      "line": 2581,
+      "text": "i 4 WHOLE EARTH REVIEW FALL 1989",
+      "score": 6
+    },
+    {
+      "line": 2864,
+      "text": "i & WHOLE EARTH REVIEW FALL 1989",
+      "score": 6
+    },
+    {
+      "line": 3056,
+      "text": "j 8 WHOLE EARTH REVIEW FALL 1989",
+      "score": 6
+    },
+    {
+      "line": 11726,
+      "text": ") 74 WHOLE EARTH REVIEW FALL 1989",
+      "score": 6
+    },
+    {
+      "line": 15460,
+      "text": "WHOLE EARTH REVIEW FALL 1989",
+      "score": 6
+    }
+  ],
+  "snippets": [
+    {
+      "line": 379,
+      "term": "interview",
+      "snippet": "by Esther Dyson 108 Virtual Reality An interview with Jaron Lanier 124 Highly Recommended Home Schooling Resources by Mary Pride"
+    },
+    {
+      "line": 582,
+      "term": "community",
+      "snippet": "- The Rubber Tappers by Kat McKenna COMMUNITY The Outlaw’s Bible Primo Levi CRAFT"
+    },
+    {
+      "line": 594,
+      "term": "tools",
+      "snippet": "Aqua-Level Nissan S-Cargo 0 Wildfire Tools O Wiremold 0 Chimney Fire Alert Paxton Hardware [ Mountainsmith Sleds"
+    },
+    {
+      "line": 697,
+      "term": "learning",
+      "snippet": "the New American Fascism 0 The Child Abuse Industry LEARNING Good Videos by Sarah Vandershaf Codex Seraphinianus"
+    },
+    {
+      "line": 715,
+      "term": "software",
+      "snippet": "Popular Mind O Blackfeet Indian Pencils 0 The Musician’s Music Software Catalog Adventures in Learning 0 The Academic Courseware Exchange C1 Montessori Services"
+    },
+    {
+      "line": 718,
+      "term": "learning",
+      "snippet": "Indian Pencils 0 The Musician’s Music Software Catalog Adventures in Learning 0 The Academic Courseware Exchange C1 Montessori Services GATE FIVE ROAD"
+    },
+    {
+      "line": 799,
+      "term": "ecology",
+      "snippet": "world we human animals have built around us. Gradually we have erec- ted a mechanical ecology of houses, plumbing, wires, factories. This man- ufactured world is so destructive of plant life precisely because it is a"
+    },
+    {
+      "line": 824,
+      "term": "software",
+      "snippet": "way of thinking. Here’s mathematics hacker Rudy Rucker on trying to op- timize software: ‘Take an oaktree: it grows from an acorn, right? The acorn is the program and the oaktree is the output. The runtime is like 80"
+    },
+    {
+      "line": 1752,
+      "term": "energy",
+      "snippet": "meet the daily needs of most people for electri- city. It is the running of basic industries on solar energy that has proved difficult. Perhaps this is - nature’s way of telling us that we aspire to too much manufacturing. | A global atmosphere-based energy economy. The ap-"
+    },
+    {
+      "line": 1759,
+      "term": "energy",
+      "snippet": "- nature’s way of telling us that we aspire to too much manufacturing. | A global atmosphere-based energy economy. The ap- proach of vegetational life to energy production is called photosynthesis. This process could be modeled by the creation of a global economy"
+    },
+    {
+      "line": 1762,
+      "term": "energy",
+      "snippet": "much manufacturing. | A global atmosphere-based energy economy. The ap- proach of vegetational life to energy production is called photosynthesis. This process could be modeled by the creation of a global economy i based on using solar energy to obtain hydrogen"
+    },
+    {
+      "line": 1767,
+      "term": "energy",
+      "snippet": "is called photosynthesis. This process could be modeled by the creation of a global economy i based on using solar energy to obtain hydrogen from seawater. Solar electricity could supply most electricity needs, but the smelting of aluminum and steel and other energy-intensive industrial"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 4,
+      "text": "No. 64 FALL 1989"
+    },
+    {
+      "line": 10,
+      "text": "- How plants serve"
+    },
+    {
+      "line": 11,
+      "text": "' as models, teachers"
+    },
+    {
+      "line": 12,
+      "text": "and libraries of"
+    },
+    {
+      "line": 14,
+      "text": "| knowledge"
+    },
+    {
+      "line": 17,
+      "text": "P. 4"
+    },
+    {
+      "line": 20,
+      "text": "THE ALIEN"
+    },
+    {
+      "line": 21,
+      "text": "INTELLIGENCE"
+    },
+    {
+      "line": 22,
+      "text": "OF PLANTS €"
+    },
+    {
+      "line": 25,
+      "text": "A working |"
+    },
+    {
+      "line": 26,
+      "text": "| model of"
+    },
+    {
+      "line": 27,
+      "text": "| cyberspace P. 108"
+    },
+    {
+      "line": 33,
+      "text": "e Protecting your"
+    },
+    {
+      "line": 34,
+      "text": "7 Social Security"
+    },
+    {
+      "line": 35,
+      "text": "Number P. 80"
+    },
+    {
+      "line": 38,
+      "text": "Highly"
+    },
+    {
+      "line": 39,
+      "text": "recommended"
+    },
+    {
+      "line": 40,
+      "text": "homeschool _"
+    },
+    {
+      "line": 41,
+      "text": "resources _-P. 124"
+    },
+    {
+      "line": 44,
+      "text": "Botanical"
+    },
+    {
+      "line": 45,
+      "text": "Peace Corps"
+    },
+    {
+      "line": 46,
+      "text": "manifesto P. 26"
+    },
+    {
+      "line": 49,
+      "text": "ON: LIVING ‘éckétecture is an"
+    },
+    {
+      "line": 50,
+      "text": "evolutionary mistake -"
+    },
+    {
+      "line": 51,
+      "text": "parasitic, formalistic, non-"
+    },
+    {
+      "line": 53,
+      "text": "productive, and anti-biotic. In"
+    },
+    {
+      "line": 54,
+      "text": "evolution, all species who went in."
+    },
+    {
+      "line": 55,
+      "text": "apartheid with plant life went exti"
+    },
+    {
+      "line": 58,
+      "text": "My ee of the = ee"
+    },
+    {
+      "line": 61,
+      "text": "ce air- pdelivees hbtetank"
+    },
+    {
+      "line": 62,
+      "text": "shelter is possible if you u want it. Dr"
+    },
+    {
+      "line": 65,
+      "text": "air-conditioned high-r"
+    },
+    {
+      "line": 66,
+      "text": "you can become'a low"
+    },
+    {
+      "line": 67,
+      "text": "er-biotect (house farm"
+    },
+    {
+      "line": 70,
+      "text": "Very economical vegetal hotites"
+    },
+    {
+      "line": 72,
+      "text": "(biotecture}, plant villages, and"
+    },
+    {
+      "line": 74,
+      "text": "plant cities (Biovilles) have been"
+    },
+    {
+      "line": 76,
+      "text": "developed for single and multi-story"
+    },
+    {
+      "line": 78,
+      "text": "growth. They are living solar collectors"
+    },
+    {
+      "line": 79,
+      "text": "and complete biotectonic systems."
+    }
+  ]
+}

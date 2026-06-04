@@ -1,0 +1,680 @@
+{
+  "title": "CoEvolution Quarterly, Spring 1977",
+  "identifier": "coevolutionquart00unse_10",
+  "year": 1977,
+  "season": "Spring",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 151,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-spring-1977",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_10",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_10/coevolutionquart00unse_10.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_10/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_10_djvu.txt",
+  "ocr_chars": 661647,
+  "significant_line_count": 14174,
+  "theme_counts": {
+    "software_computing": 56,
+    "tools_craft": 246,
+    "ecology_place": 900,
+    "learning_media": 364,
+    "community_politics": 307
+  },
+  "top_themes": [
+    "ecology_place",
+    "learning_media",
+    "community_politics"
+  ],
+  "page_markers": [
+    {
+      "line": 8857,
+      "page": 1,
+      "title": "DO THE SAME",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_10/page/n2_w500.jpg"
+    },
+    {
+      "line": 18055,
+      "page": 3,
+      "title": "DAYS TO GO",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_10/page/n4_w500.jpg"
+    },
+    {
+      "line": 18085,
+      "page": 2,
+      "title": "DAYS TO GO",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_10/page/n3_w500.jpg"
+    },
+    {
+      "line": 18183,
+      "page": 0,
+      "title": "DAYS LEFT",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_10/page/n1_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 8857,
+      "text": "1 DO THE SAME",
+      "score": 8
+    },
+    {
+      "line": 18055,
+      "text": "3 DAYS TO GO",
+      "score": 8
+    },
+    {
+      "line": 18085,
+      "text": "2 DAYS TO GO",
+      "score": 8
+    },
+    {
+      "line": 18157,
+      "text": "1 DAY LEFT",
+      "score": 8
+    },
+    {
+      "line": 18183,
+      "text": "0 DAYS LEFT",
+      "score": 8
+    },
+    {
+      "line": 8158,
+      "text": "CLOSED ECOLOGY TESTED FOR SPACE",
+      "score": 6
+    },
+    {
+      "line": 768,
+      "text": "The program is called COP - Community Oriented Policing.",
+      "score": 5
+    },
+    {
+      "line": 23717,
+      "text": "community, shelter, craft,",
+      "score": 5
+    },
+    {
+      "line": 16,
+      "text": "Bi A SIO RE AS",
+      "score": 4
+    },
+    {
+      "line": 51,
+      "text": "ON NOS",
+      "score": 4
+    },
+    {
+      "line": 69,
+      "text": "I GOT TH",
+      "score": 4
+    },
+    {
+      "line": 72,
+      "text": "SHAKES T'DAr.",
+      "score": 4
+    },
+    {
+      "line": 80,
+      "text": "a VM SUCH A NERVOUS WRECK MY HAND (S peap Evy",
+      "score": 4
+    },
+    {
+      "line": 81,
+      "text": "i TREMBUNG AS J WRITE THESE WORDS... :",
+      "score": 4
+    },
+    {
+      "line": 87,
+      "text": "His MEMORY IS WERLOADED",
+      "score": 4
+    },
+    {
+      "line": 88,
+      "text": "WITH MEDIA JUNK /",
+      "score": 4
+    },
+    {
+      "line": 104,
+      "text": "LEARN FROM",
+      "score": 4
+    },
+    {
+      "line": 105,
+      "text": "THE PEOPLE",
+      "score": 4
+    },
+    {
+      "line": 112,
+      "text": "DO IF HE WERE HERE ?",
+      "score": 4
+    },
+    {
+      "line": 299,
+      "text": "BACKWARDS.",
+      "score": 4
+    },
+    {
+      "line": 833,
+      "text": "REFERENCES",
+      "score": 4
+    },
+    {
+      "line": 864,
+      "text": "NEW CLAS",
+      "score": 4
+    },
+    {
+      "line": 871,
+      "text": "HERMAN KAHN",
+      "score": 4
+    },
+    {
+      "line": 874,
+      "text": "GOV. JERRY BROWN",
+      "score": 4
+    },
+    {
+      "line": 884,
+      "text": "AMORY LOVINS",
+      "score": 4
+    },
+    {
+      "line": 1302,
+      "text": "THE NEW CLASS",
+      "score": 4
+    },
+    {
+      "line": 1658,
+      "text": "HISTORY TELUS OF GREAT FERS OF",
+      "score": 4
+    },
+    {
+      "line": 1662,
+      "text": "THE FUTURE TAKING PLACE (N THE TIMES = §",
+      "score": 4
+    },
+    {
+      "line": 1663,
+      "text": "2] WUT BEFORE THE YEARS 1000 AND (500.. 5",
+      "score": 4
+    },
+    {
+      "line": 1664,
+      "text": "PEOPLE THOUGHT THE WORLD WAS GOING =a",
+      "score": 4
+    },
+    {
+      "line": 1665,
+      "text": "Ei END... .",
+      "score": 4
+    },
+    {
+      "line": 1778,
+      "text": "LOVING TUNDRA",
+      "score": 4
+    },
+    {
+      "line": 2087,
+      "text": "IN THE UNITED STATES, ALL CONSCIENTIOUS ATTEMPTS TO",
+      "score": 4
+    },
+    {
+      "line": 2088,
+      "text": "EAL WITH PROBLEMS GF A PERSONAL, SoclAL oR EVEN A",
+      "score": 4
+    },
+    {
+      "line": 2089,
+      "text": "« SPIRITUAL NATURE MUST INCLUDE WHAT I$ THE fat ais",
+      "score": 4
+    },
+    {
+      "line": 2090,
+      "text": "-JMPORTANT SINGLE FACT OF LIFE IN OUR CUL (.",
+      "score": 4
+    },
+    {
+      "line": 2091,
+      "text": "BN INTENSIVE STUDY OF:",
+      "score": 4
+    },
+    {
+      "line": 2765,
+      "text": "PEN GO, gL eS Ee",
+      "score": 4
+    },
+    {
+      "line": 4128,
+      "text": "TET RLS",
+      "score": 4
+    },
+    {
+      "line": 4384,
+      "text": "| -S “",
+      "score": 4
+    },
+    {
+      "line": 6644,
+      "text": "JACK MUNDEY",
+      "score": 4
+    },
+    {
+      "line": 6645,
+      "text": "TALKING TO",
+      "score": 4
+    },
+    {
+      "line": 6648,
+      "text": "ELLEN NEWMAN & DAVID GANCHER",
+      "score": 4
+    },
+    {
+      "line": 7461,
+      "text": "BY JACK MUNDEY",
+      "score": 4
+    },
+    {
+      "line": 8177,
+      "text": "UNDER THE INFLUENCE OF MARIJUANA",
+      "score": 4
+    },
+    {
+      "line": 8289,
+      "text": "EVOLUTION OF SPACE -",
+      "score": 4
+    },
+    {
+      "line": 8290,
+      "text": "INDUSTRIALIZATION",
+      "score": 4
+    },
+    {
+      "line": 8296,
+      "text": "la CHEAPER PRODUCTS",
+      "score": 4
+    },
+    {
+      "line": 8303,
+      "text": "UNIQUE-PRODUCTS",
+      "score": 4
+    },
+    {
+      "line": 8306,
+      "text": "PRODUCTS TO",
+      "score": 4
+    },
+    {
+      "line": 8307,
+      "text": "ACHIEVE MAN'S",
+      "score": 4
+    },
+    {
+      "line": 8309,
+      "text": "SELF-SUFFICIENCY",
+      "score": 4
+    },
+    {
+      "line": 8310,
+      "text": "IN SPACE",
+      "score": 4
+    },
+    {
+      "line": 8322,
+      "text": "RELIEVE THE",
+      "score": 4
+    },
+    {
+      "line": 8323,
+      "text": "BIOSPHERE",
+      "score": 4
+    },
+    {
+      "line": 8468,
+      "text": "By ANNE HERBERT",
+      "score": 4
+    },
+    {
+      "line": 8556,
+      "text": ".. AND HUGH ENDEAVORS",
+      "score": 4
+    },
+    {
+      "line": 8557,
+      "text": "To DISCOVER THe",
+      "score": 4
+    },
+    {
+      "line": 8558,
+      "text": "REASONING THAT HAS",
+      "score": 4
+    },
+    {
+      "line": 8559,
+      "text": "LEO FREO (IN THE",
+      "score": 4
+    },
+    {
+      "line": 8560,
+      "text": "LEXICON OF THE STREETS)",
+      "score": 4
+    },
+    {
+      "line": 8561,
+      "text": "To RIP OFF AN ENTIRE",
+      "score": 4
+    },
+    {
+      "line": 8564,
+      "text": "FOR A",
+      "score": 4
+    },
+    {
+      "line": 8565,
+      "text": "THAT ae , PERFECTLY",
+      "score": 4
+    },
+    {
+      "line": 8566,
+      "text": "OF A MARTIA (AQooD",
+      "score": 4
+    },
+    {
+      "line": 8567,
+      "text": "TRADED You BALL POINT",
+      "score": 4
+    },
+    {
+      "line": 8568,
+      "text": "AN ENTIRE PEN-- 4",
+      "score": 4
+    },
+    {
+      "line": 8571,
+      "text": "REALLY..?",
+      "score": 4
+    },
+    {
+      "line": 8572,
+      "text": "TRILLIONS?",
+      "score": 4
+    },
+    {
+      "line": 8574,
+      "text": "HOW WOULD",
+      "score": 4
+    },
+    {
+      "line": 8577,
+      "text": "SPENT BILLIONS",
+      "score": 4
+    },
+    {
+      "line": 8578,
+      "text": "“To BUILD THE",
+      "score": 4
+    },
+    {
+      "line": 8579,
+      "text": "SPACECRAFT To",
+      "score": 4
+    },
+    {
+      "line": 8580,
+      "text": "COME HERE THIS",
+      "score": 4
+    },
+    {
+      "line": 8581,
+      "text": "PLACE MusT BE",
+      "score": 4
+    },
+    {
+      "line": 8582,
+      "text": "WORTH A BUNDLE--",
+      "score": 4
+    },
+    {
+      "line": 8585,
+      "text": "I KNOW",
+      "score": 4
+    },
+    {
+      "line": 8588,
+      "text": "ANo THE",
+      "score": 4
+    },
+    {
+      "line": 8595,
+      "text": "DISHONESTS:",
+      "score": 4
+    },
+    {
+      "line": 8601,
+      "text": "NE THe GNIERNHENT Bf THE GOVERNMENT",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 130,
+      "term": "whole systems",
+      "snippet": "DO IF HE WERE HERE ? Politics Understanding Whole Systems 49 Grand Design sm Science News 50 The High Frontier m Notes from LS m# Space agriculture retort 51 Snake by Anne Herbert 3"
+    },
+    {
+      "line": 149,
+      "term": "energy",
+      "snippet": "82-83 Appropriate Technology - the upper case against by Witold Ry beayasie 83 Office of Appropriate Technology in California 84-85 Fundamentals of Energy Utilization by Harold Morowitz 86-88 The Double Bubble Wheel Engine by Steve Baer 88-89 Zomeworks Pro Heater m= Zomeworks Sun Tracker # Day-Land steam eneeie A Model Used Oil Recycling Act = Small Gas Engines"
+    },
+    {
+      "line": 159,
+      "term": "energy",
+      "snippet": "97-98 Malcolm Wells comments # Pneumatic Structures s io Sun Earth » Tuffak-Twinwall = Serrande Shutters . 100 Shurcliff’s last catalog = Ecosol 101 Energy Recovery System a Grint From the Notebooks of R. Crumb HOW TO RUN THE ARMS RACE BACKWARDS by Stewart Brand - THE NEW CLASS Herman Kahn, Gov. Jerry Brown, Amory Lovins X"
+    },
+    {
+      "line": 168,
+      "term": "ecology",
+      "snippet": "LABOR AND ENVIRONMENT - The Australian Green Bans Jack Mundey talking to Ellen Newman and David Gancher Ecology, Capitalism, Communism by Jack Mundey Sunstream solar hotwater system = Thermic Diode Solar Panel non-profit peciaruie ‘Office of pubticition jeditorial and ciheerhicien ): Box 428, Sausalito, California § (27 Gate 5 Road). Subscriptions: $8 per year. Inquire for international air rates. Second-class postage p id at"
+    },
+    {
+      "line": 252,
+      "term": "communications",
+      "snippet": "ee 121, The Mariner’s Catalog Volume 4 m» The Craft of Sail a p222123 Standing Wave by Scott Thybony _ Communications 124 Rolf Cahn gives guitar lessons by tape m= Computer Bowes and Human Reason Learning om 126"
+    },
+    {
+      "line": 256,
+      "term": "learning",
+      "snippet": "_ Communications 124 Rolf Cahn gives guitar lessons by tape m= Computer Bowes and Human Reason Learning om 126 oe «127 a i 132-134"
+    },
+    {
+      "line": 281,
+      "term": "interview",
+      "snippet": "Ranger Rick’s Nature Magazine = Fifth World Tales Teachers and Writers Collaborative = How to Make Your Own Educational Materials BENNY Benny Divenis interviewed by Dan Cassidy and John Levin OBEYING CHOGYAM TRUNGPA by William S. Burroughs Comment from Jonas Mekas » Ata Journal Workshop # Journal Castenada’s Journey am. The Zetetic"
+    },
+    {
+      "line": 465,
+      "term": "energy",
+      "snippet": "hat. Iti is all those, but consider the effort that goes into topping nuclear reactors in the U.S. and compare the likeli- x fi ure that people : are fighting nuclear energy as the only essible toenail of the nuclear arms dragon. The reactors d for the weapons because we feel helpless to do any- g about the weapons."
+    },
+    {
+      "line": 768,
+      "term": "community",
+      "snippet": "formed but unarmed “‘service officers.” (Santa Ana’s population is 180,000, racially mixed.) The program is called COP - Community Oriented Policing. It “puts small teams of police officers into well-defined neighborhoods, and encourages cops and civilians to get to know each other.”” Formerly the Santa Ana force suffered"
+    },
+    {
+      "line": 841,
+      "term": "ecology",
+      "snippet": "New Scientist, 13 January 1977. j Gregory Bateson, ‘‘The Cybernetics of ‘Self’: A Theory of Alcoholism,’’ Steps to an Ecology of Mind, 1972, Ballantine. Gerald Heard, The Five Ages of Man, 1963, Julian Press. Geoffrey Blainey, The Causes of War, 1973, Macmillan"
+    },
+    {
+      "line": 1012,
+      "term": "energy",
+      "snippet": "Till 2.a.m. in the Governor’s office. Left to right, Amory Lovins, Herman Kahn, Elizabeth Coleman (Governor’s press secretary), Fee 'See ry, Jim Harding (assistant to the Energy Commission), Jerry Brown, and Gray Davis (Brown's Chief of Staff). Photographs by Stewart Brand. a gee ee a eee ee 1 ee"
+    },
+    {
+      "line": 1075,
+      "term": "energy",
+      "snippet": "actually the most interesting thing going on in the world has been the gross world product explosion. - Amory Lovins is presently the standard-bearer for energy- conscious environmentalism. His trilogy of books, World Energy Strategies, Non-Nuclear Futures and Soft Energy Paths (forthcoming) make the best-documented, well-argued"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "“% ee"
+    },
+    {
+      "line": 2,
+      "text": "ad FR"
+    },
+    {
+      "line": 5,
+      "text": "Who phe: RARE IS OE ARB ESRI A ip"
+    },
+    {
+      "line": 8,
+      "text": "a a ee"
+    },
+    {
+      "line": 14,
+      "text": "a a a ee a a epee oe"
+    },
+    {
+      "line": 16,
+      "text": "Bi A SIO RE AS"
+    },
+    {
+      "line": 19,
+      "text": "Subscription price $8/year"
+    },
+    {
+      "line": 22,
+      "text": "‘3 As"
+    },
+    {
+      "line": 23,
+      "text": ") [t EA Hh, ® Se i $ ! x"
+    },
+    {
+      "line": 24,
+      "text": "(a nes ae: | ie r"
+    },
+    {
+      "line": 25,
+      "text": "4 ae ives) || fee"
+    },
+    {
+      "line": 26,
+      "text": ". aun Th A t oe | : \\ hi"
+    },
+    {
+      "line": 27,
+      "text": "es ea a Pa"
+    },
+    {
+      "line": 28,
+      "text": "ea 4"
+    },
+    {
+      "line": 29,
+      "text": "1 uw"
+    },
+    {
+      "line": 30,
+      "text": "wa decid"
+    },
+    {
+      "line": 37,
+      "text": "VP pig J ,"
+    },
+    {
+      "line": 41,
+      "text": "> aire 4"
+    },
+    {
+      "line": 47,
+      "text": "te mee"
+    },
+    {
+      "line": 50,
+      "text": "ro) oS"
+    },
+    {
+      "line": 51,
+      "text": "ON NOS"
+    },
+    {
+      "line": 52,
+      "text": "‘sf;"
+    },
+    {
+      "line": 53,
+      "text": "4 id >"
+    },
+    {
+      "line": 54,
+      "text": "= <t"
+    },
+    {
+      "line": 57,
+      "text": "AG ae rs :"
+    },
+    {
+      "line": 60,
+      "text": "Ee >» con) “) ay"
+    },
+    {
+      "line": 66,
+      "text": "t Netucr, “"
+    },
+    {
+      "line": 69,
+      "text": "I GOT TH"
+    },
+    {
+      "line": 72,
+      "text": "SHAKES T'DAr."
+    },
+    {
+      "line": 75,
+      "text": "Wheat isthis. ©"
+    },
+    {
+      "line": 76,
+      "text": "place and who"
+    },
+    {
+      "line": 79,
+      "text": "a are these 7"
+    },
+    {
+      "line": 80,
+      "text": "a VM SUCH A NERVOUS WRECK MY HAND (S peap Evy"
+    },
+    {
+      "line": 81,
+      "text": "i TREMBUNG AS J WRITE THESE WORDS... :"
+    },
+    {
+      "line": 84,
+      "text": "¥ SL eee"
+    },
+    {
+      "line": 87,
+      "text": "His MEMORY IS WERLOADED"
+    },
+    {
+      "line": 88,
+      "text": "WITH MEDIA JUNK /"
+    },
+    {
+      "line": 94,
+      "text": "Prt 1)"
+    },
+    {
+      "line": 104,
+      "text": "LEARN FROM"
+    },
+    {
+      "line": 105,
+      "text": "THE PEOPLE"
+    }
+  ]
+}

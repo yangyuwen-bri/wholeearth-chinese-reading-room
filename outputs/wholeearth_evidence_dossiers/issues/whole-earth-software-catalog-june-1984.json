@@ -1,0 +1,800 @@
+{
+  "title": "Whole Earth Software Catalog, June 1984",
+  "identifier": "wholeearthsoftwa00unse_2",
+  "year": 1984,
+  "season": "June",
+  "collection": "Whole Earth Software Review",
+  "collection_zh": "软件目录与评论",
+  "pages": 211,
+  "url": "https://wholeearth.info/p/whole-earth-software-catalog-june-1984",
+  "archive_url": "https://archive.org/details/wholeearthsoftwa00unse_2",
+  "pdf_url": "https://archive.org/download/wholeearthsoftwa00unse_2/wholeearthsoftwa00unse_2.pdf",
+  "cover_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthsoftwa00unse_2_djvu.txt",
+  "ocr_chars": 1212841,
+  "significant_line_count": 28694,
+  "theme_counts": {
+    "software_computing": 4673,
+    "tools_craft": 693,
+    "ecology_place": 317,
+    "learning_media": 866,
+    "community_politics": 1630
+  },
+  "top_themes": [
+    "software_computing",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 148,
+      "page": 168,
+      "title": "PROGRAMMING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n169_w500.jpg"
+    },
+    {
+      "line": 155,
+      "page": 175,
+      "title": "LEARNING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n176_w500.jpg"
+    },
+    {
+      "line": 228,
+      "page": 2,
+      "title": "WHOLE EARTH SOFTWARE CATALOG",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n3_w500.jpg"
+    },
+    {
+      "line": 558,
+      "page": 4,
+      "title": "SHOPPING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n5_w500.jpg"
+    },
+    {
+      "line": 840,
+      "page": 6,
+      "title": "SHOPPING -",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n7_w500.jpg"
+    },
+    {
+      "line": 1173,
+      "page": 8,
+      "title": "SHOPPING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n9_w500.jpg"
+    },
+    {
+      "line": 2198,
+      "page": 14,
+      "title": "HARDWARE",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n15_w500.jpg"
+    },
+    {
+      "line": 2501,
+      "page": 16,
+      "title": "HARDWARE",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n17_w500.jpg"
+    },
+    {
+      "line": 3793,
+      "page": 24,
+      "title": "BUYING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n25_w500.jpg"
+    },
+    {
+      "line": 4251,
+      "page": 26,
+      "title": "BUYING -",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n27_w500.jpg"
+    },
+    {
+      "line": 5274,
+      "page": 52,
+      "title": "PLAYING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n53_w500.jpg"
+    },
+    {
+      "line": 7225,
+      "page": 42,
+      "title": "PLAYING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n43_w500.jpg"
+    },
+    {
+      "line": 7709,
+      "page": 44,
+      "title": "PLAYING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n45_w500.jpg"
+    },
+    {
+      "line": 8154,
+      "page": 46,
+      "title": "WRITING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n47_w500.jpg"
+    },
+    {
+      "line": 8468,
+      "page": 48,
+      "title": "WRITING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n49_w500.jpg"
+    },
+    {
+      "line": 9943,
+      "page": 56,
+      "title": "WRITING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n57_w500.jpg"
+    },
+    {
+      "line": 10884,
+      "page": 60,
+      "title": "WRITING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n61_w500.jpg"
+    },
+    {
+      "line": 11354,
+      "page": 62,
+      "title": "WRITING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n63_w500.jpg"
+    },
+    {
+      "line": 11741,
+      "page": 64,
+      "title": "ANALYZING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n65_w500.jpg"
+    },
+    {
+      "line": 12043,
+      "page": 66,
+      "title": "ANALYZING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n67_w500.jpg"
+    },
+    {
+      "line": 12408,
+      "page": 68,
+      "title": "ANALYZING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n69_w500.jpg"
+    },
+    {
+      "line": 14067,
+      "page": 5,
+      "title": "UXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n6_w500.jpg"
+    },
+    {
+      "line": 14490,
+      "page": 18,
+      "title": "ORGANIZING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n19_w500.jpg"
+    },
+    {
+      "line": 14786,
+      "page": 80,
+      "title": "ORGANIZING",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_2/page/n81_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 148,
+      "text": "168 PROGRAMMING",
+      "score": 10
+    },
+    {
+      "line": 155,
+      "text": "175 LEARNING",
+      "score": 10
+    },
+    {
+      "line": 30963,
+      "text": "158 PROGRAMMING",
+      "score": 10
+    },
+    {
+      "line": 31618,
+      "text": "162 PROGRAMMING",
+      "score": 10
+    },
+    {
+      "line": 32595,
+      "text": "166 PROGRAMMING",
+      "score": 10
+    },
+    {
+      "line": 34690,
+      "text": "178 LEARNING",
+      "score": 10
+    },
+    {
+      "line": 35548,
+      "text": "182 LEARNING",
+      "score": 10
+    },
+    {
+      "line": 228,
+      "text": "2 WHOLE EARTH SOFTWARE CATALOG",
+      "score": 8
+    },
+    {
+      "line": 558,
+      "text": "4 SHOPPING",
+      "score": 8
+    },
+    {
+      "line": 840,
+      "text": "6 SHOPPING -",
+      "score": 8
+    },
+    {
+      "line": 1173,
+      "text": "8 SHOPPING",
+      "score": 8
+    },
+    {
+      "line": 2198,
+      "text": "14 HARDWARE",
+      "score": 8
+    },
+    {
+      "line": 2501,
+      "text": "16 HARDWARE",
+      "score": 8
+    },
+    {
+      "line": 3793,
+      "text": "24 BUYING",
+      "score": 8
+    },
+    {
+      "line": 4251,
+      "text": "26 BUYING -",
+      "score": 8
+    },
+    {
+      "line": 5274,
+      "text": "52 PLAYING",
+      "score": 8
+    },
+    {
+      "line": 7225,
+      "text": "42 PLAYING",
+      "score": 8
+    },
+    {
+      "line": 7709,
+      "text": "44 PLAYING",
+      "score": 8
+    },
+    {
+      "line": 8154,
+      "text": "46 WRITING",
+      "score": 8
+    },
+    {
+      "line": 8468,
+      "text": "48 WRITING",
+      "score": 8
+    },
+    {
+      "line": 8988,
+      "text": "52 WRITING",
+      "score": 8
+    },
+    {
+      "line": 9943,
+      "text": "56 WRITING",
+      "score": 8
+    },
+    {
+      "line": 10884,
+      "text": "60 WRITING",
+      "score": 8
+    },
+    {
+      "line": 11354,
+      "text": "62 WRITING",
+      "score": 8
+    },
+    {
+      "line": 11741,
+      "text": "64 ANALYZING",
+      "score": 8
+    },
+    {
+      "line": 12043,
+      "text": "66 ANALYZING",
+      "score": 8
+    },
+    {
+      "line": 12408,
+      "text": "68 ANALYZING",
+      "score": 8
+    },
+    {
+      "line": 14067,
+      "text": "5 UXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+      "score": 8
+    },
+    {
+      "line": 14068,
+      "text": "5 IXXXXXXXXXXXXXXXXXXAXNXXAXXAXXXXX",
+      "score": 8
+    },
+    {
+      "line": 14070,
+      "text": "8 IMXXXXXXXXXXXXXXXXXXXXX",
+      "score": 8
+    },
+    {
+      "line": 14490,
+      "text": "18 ORGANIZING",
+      "score": 8
+    },
+    {
+      "line": 14786,
+      "text": "80 ORGANIZING",
+      "score": 8
+    },
+    {
+      "line": 15083,
+      "text": "45 ELM FINANCE",
+      "score": 8
+    },
+    {
+      "line": 15107,
+      "text": "5 BOXES",
+      "score": 8
+    },
+    {
+      "line": 15215,
+      "text": "82 ORGANIZING",
+      "score": 8
+    },
+    {
+      "line": 15958,
+      "text": "86 ORGANIZING",
+      "score": 8
+    },
+    {
+      "line": 16400,
+      "text": "88 ORGANIZING",
+      "score": 8
+    },
+    {
+      "line": 16766,
+      "text": "90 ORGANIZING",
+      "score": 8
+    },
+    {
+      "line": 17159,
+      "text": "92 ORGANIZING",
+      "score": 8
+    },
+    {
+      "line": 17932,
+      "text": "96 ACCOUNTING",
+      "score": 8
+    },
+    {
+      "line": 18394,
+      "text": "98 ACCOUNTING",
+      "score": 8
+    },
+    {
+      "line": 22333,
+      "text": "116 MANAGING",
+      "score": 8
+    },
+    {
+      "line": 22740,
+      "text": "2 SLARTOF",
+      "score": 8
+    },
+    {
+      "line": 22741,
+      "text": "3 SLABBOT",
+      "score": 8
+    },
+    {
+      "line": 22766,
+      "text": "18 MANAGING",
+      "score": 8
+    },
+    {
+      "line": 24255,
+      "text": "126 DRAWING",
+      "score": 8
+    },
+    {
+      "line": 26938,
+      "text": "40 TELECOMMUNICATING",
+      "score": 8
+    },
+    {
+      "line": 27945,
+      "text": "44 TELECOMMUNICATING",
+      "score": 8
+    },
+    {
+      "line": 28496,
+      "text": "446 TELECOMMUNICATING",
+      "score": 8
+    },
+    {
+      "line": 30569,
+      "text": "56 TELECOMMUNICATING",
+      "score": 8
+    },
+    {
+      "line": 32521,
+      "text": "LEARNING TO PROGRAM INC",
+      "score": 8
+    },
+    {
+      "line": 38320,
+      "text": "196 ETC.",
+      "score": 8
+    },
+    {
+      "line": 38752,
+      "text": "198 ETC.",
+      "score": 8
+    },
+    {
+      "line": 39204,
+      "text": "200 POINT FOUNDATION",
+      "score": 8
+    },
+    {
+      "line": 383,
+      "text": "WHOLE EARTH SOFTWARE REVIEW",
+      "score": 6
+    },
+    {
+      "line": 1794,
+      "text": "REVIEW",
+      "score": 6
+    },
+    {
+      "line": 3819,
+      "text": "PROGRAM LIBRARY EXCHANGE",
+      "score": 6
+    },
+    {
+      "line": 17163,
+      "text": "+ THE PROGRAMS THEMSELVES",
+      "score": 6
+    },
+    {
+      "line": 17979,
+      "text": "PERSONAL FINANCE PROGRAMS",
+      "score": 6
+    },
+    {
+      "line": 17989,
+      "text": "SMALL BUSINESS PROGRAMS",
+      "score": 6
+    },
+    {
+      "line": 23613,
+      "text": "EX EXIT THE PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 26529,
+      "text": "GRAPHICS PROGRAMS",
+      "score": 6
+    },
+    {
+      "line": 26728,
+      "text": "TERMINAL PROGRAMS",
+      "score": 6
+    },
+    {
+      "line": 26744,
+      "text": "TERMINAL PROGRAM, $40, p.152",
+      "score": 6
+    },
+    {
+      "line": 26763,
+      "text": "IBM PERSONAL COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 27062,
+      "text": "COMMUNICATIONS",
+      "score": 6
+    },
+    {
+      "line": 29737,
+      "text": "PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 30207,
+      "text": "COMMUNICATIONS MANAGER",
+      "score": 6
+    },
+    {
+      "line": 30591,
+      "text": "ASCII EXPRESS, and TSC TERMINAL PROGRAM. XMODEM lets",
+      "score": 6
+    },
+    {
+      "line": 30915,
+      "text": "PROGRAMMING",
+      "score": 6
+    },
+    {
+      "line": 31099,
+      "text": "PROGRAMMING TOOLS",
+      "score": 6
+    },
+    {
+      "line": 31447,
+      "text": "PROGRAMMING STYLE",
+      "score": 6
+    },
+    {
+      "line": 32129,
+      "text": "1644 PROGRAMMING",
+      "score": 6
+    },
+    {
+      "line": 32452,
+      "text": "PROGRAMMING _ 165",
+      "score": 6
+    },
+    {
+      "line": 32529,
+      "text": "THE C PROGRAMMING",
+      "score": 6
+    },
+    {
+      "line": 33377,
+      "text": "COMPUTER PROGRAMMING",
+      "score": 6
+    },
+    {
+      "line": 33840,
+      "text": "PROGRAMMING _ 173",
+      "score": 6
+    },
+    {
+      "line": 34226,
+      "text": "LEARNING _175",
+      "score": 6
+    },
+    {
+      "line": 34229,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 34610,
+      "text": "LEARNING_ 177",
+      "score": 6
+    }
+  ],
+  "snippets": [
+    {
+      "line": 15,
+      "term": "software",
+      "snippet": "ie EN sa aghine y - AcT Fa D : See i i Rb oe : ‘software, hardware, _ -- magazines, books, accessoriés, ~ suppliers and online services _ =~ FOR-PERSONAL COMPUTERS -"
+    },
+    {
+      "line": 74,
+      "term": "software",
+      "snippet": "How to Use This Book Shopping How Computer Professionals Buy Software Computer Magazines Hardware Buying"
+    },
+    {
+      "line": 83,
+      "term": "software",
+      "snippet": "Buying Discount Mail Order How to Get Free Software PLAYING Strategy games, action games, computer sports, adventure and role-playing games"
+    },
+    {
+      "line": 125,
+      "term": "software",
+      "snippet": "MANAGING Integrated all-in-one programs, program environment integrators, project managers, vertical software (construction, energy, real estate, sales, psychiatric billing, law, farm, mail order) DRAWING"
+    },
+    {
+      "line": 126,
+      "term": "energy",
+      "snippet": "Integrated all-in-one programs, program environment integrators, project managers, vertical software (construction, energy, real estate, sales, psychiatric billing, law, farm, mail order) DRAWING Graphics hardware, business graphics, painting"
+    },
+    {
+      "line": 134,
+      "term": "software",
+      "snippet": "DRAWING Graphics hardware, business graphics, painting software, 2-D computer-aided-design, 3-D computer- alded-design TELECOMMUNICATING Home banking and shopping, investor services,"
+    },
+    {
+      "line": 148,
+      "term": "programming",
+      "snippet": "boards (BBS), terminal programs, modems, file transfer programs, local area networks 168 PROGRAMMING Languages, operating systems, software design library, software engineering, software maintenance, utilities 175 LEARNING"
+    },
+    {
+      "line": 151,
+      "term": "software",
+      "snippet": "transfer programs, local area networks 168 PROGRAMMING Languages, operating systems, software design library, software engineering, software maintenance, utilities 175 LEARNING Simulations, problem-solving, math, reading, science,"
+    },
+    {
+      "line": 152,
+      "term": "software",
+      "snippet": "168 PROGRAMMING Languages, operating systems, software design library, software engineering, software maintenance, utilities 175 LEARNING Simulations, problem-solving, math, reading, science, money handling, etc."
+    },
+    {
+      "line": 155,
+      "term": "learning",
+      "snippet": "Languages, operating systems, software design library, software engineering, software maintenance, utilities 175 LEARNING Simulations, problem-solving, math, reading, science, money handling, etc. ig ETC."
+    },
+    {
+      "line": 219,
+      "term": "software",
+      "snippet": "Library of Congress Cataloging in Publication Data Main entry under title: Whole Earth Software Catalog. 1. Microcomputers-catalogs. 2. Computer programs- catalogs. |. Brand, Stewart. Il. Point (Foundation) QA76.5.W494 1984 001.64'029'4 84-15096"
+    },
+    {
+      "line": 228,
+      "term": "software",
+      "snippet": "catalogs. |. Brand, Stewart. Il. Point (Foundation) QA76.5.W494 1984 001.64'029'4 84-15096 2 WHOLE EARTH SOFTWARE CATALOG INTRODUCTION IN WHICH THE BOOK ASSERTS ITS AGENDA, METHOD, & CREDIBILITY"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 9,
+      "text": "ie EN sa aghine y - AcT Fa D : See"
+    },
+    {
+      "line": 12,
+      "text": "i i Rb"
+    },
+    {
+      "line": 15,
+      "text": "oe : ‘software, hardware, _"
+    },
+    {
+      "line": 16,
+      "text": "-- magazines, books, accessoriés,"
+    },
+    {
+      "line": 17,
+      "text": "~ suppliers and online services _"
+    },
+    {
+      "line": 19,
+      "text": "=~ FOR-PERSONAL COMPUTERS -"
+    },
+    {
+      "line": 22,
+      "text": "cine"
+    },
+    {
+      "line": 25,
+      "text": "gaat ae"
+    },
+    {
+      "line": 31,
+      "text": "ues _STEWARTBRAND"
+    },
+    {
+      "line": 32,
+      "text": "fe ae Editor in Chief. ©"
+    },
+    {
+      "line": 39,
+      "text": "In 2023 with funding from"
+    },
+    {
+      "line": 40,
+      "text": "Gray Area"
+    },
+    {
+      "line": 43,
+      "text": "https://archive.org/details/wholeearthsoftwa00unse_2"
+    },
+    {
+      "line": 46,
+      "text": "WHOLE EARTH SOFT WARE CATALOG"
+    },
+    {
+      "line": 70,
+      "text": "How to Use This Book"
+    },
+    {
+      "line": 73,
+      "text": "Shopping"
+    },
+    {
+      "line": 74,
+      "text": "How Computer Professionals Buy Software"
+    },
+    {
+      "line": 77,
+      "text": "Computer Magazines"
+    },
+    {
+      "line": 78,
+      "text": "Hardware"
+    },
+    {
+      "line": 81,
+      "text": "Buying"
+    },
+    {
+      "line": 82,
+      "text": "Discount Mail Order"
+    },
+    {
+      "line": 83,
+      "text": "How to Get Free Software"
+    },
+    {
+      "line": 86,
+      "text": "PLAYING"
+    },
+    {
+      "line": 89,
+      "text": "Strategy games, action games, computer sports,"
+    },
+    {
+      "line": 90,
+      "text": "adventure and role-playing games"
+    },
+    {
+      "line": 93,
+      "text": "WRITING"
+    },
+    {
+      "line": 96,
+      "text": "Word processors, spelling and style checkers,"
+    },
+    {
+      "line": 97,
+      "text": "typing tutor"
+    },
+    {
+      "line": 100,
+      "text": "ANALYZING"
+    },
+    {
+      "line": 103,
+      "text": "Spreadsheets, statistics programs, stock market"
+    },
+    {
+      "line": 104,
+      "text": "programs"
+    },
+    {
+      "line": 107,
+      "text": "ORGANIZING"
+    },
+    {
+      "line": 110,
+      "text": "File managers, database managers, text organizers,"
+    },
+    {
+      "line": 111,
+      "text": "computer organizers (keyboard enhancers)"
+    },
+    {
+      "line": 114,
+      "text": "ACCOUNTING"
+    },
+    {
+      "line": 117,
+      "text": "Personal finance, small business accounting,"
+    },
+    {
+      "line": 118,
+      "text": "sophisticated accounting, tax programs"
+    },
+    {
+      "line": 121,
+      "text": "MANAGING"
+    },
+    {
+      "line": 124,
+      "text": "Integrated all-in-one programs, program environment"
+    },
+    {
+      "line": 125,
+      "text": "integrators, project managers, vertical software"
+    }
+  ]
+}

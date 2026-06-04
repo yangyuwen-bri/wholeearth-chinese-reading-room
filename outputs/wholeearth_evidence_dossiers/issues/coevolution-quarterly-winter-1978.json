@@ -1,0 +1,668 @@
+{
+  "title": "CoEvolution Quarterly, Winter 1977/1978",
+  "identifier": "coevolutionquart00unse_17",
+  "year": 1977,
+  "season": "Winter",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 159,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-winter-1978",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_17",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_17/coevolutionquart00unse_17.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_17/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_17_djvu.txt",
+  "ocr_chars": 618855,
+  "significant_line_count": 14149,
+  "theme_counts": {
+    "software_computing": 249,
+    "tools_craft": 240,
+    "ecology_place": 388,
+    "learning_media": 342,
+    "community_politics": 485
+  },
+  "top_themes": [
+    "community_politics",
+    "ecology_place",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 15641,
+      "page": 1,
+      "title": "AM WORRIED... WHAT JS IT",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_17/page/n2_w500.jpg"
+    },
+    {
+      "line": 15881,
+      "page": 128,
+      "title": "RETURN TO THE",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_17/page/n129_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 15641,
+      "text": "1 AM WORRIED... WHAT JS IT",
+      "score": 8
+    },
+    {
+      "line": 15881,
+      "text": "128 RETURN TO THE",
+      "score": 8
+    },
+    {
+      "line": 15891,
+      "text": "1 HOPE L'M",
+      "score": 8
+    },
+    {
+      "line": 1162,
+      "text": "COMMUNICATIONS REVOLUTION",
+      "score": 6
+    },
+    {
+      "line": 6767,
+      "text": "STANDING OR LEARNING. IT",
+      "score": 6
+    },
+    {
+      "line": 12946,
+      "text": "REVIEWED BY ALVIN DUSKIN",
+      "score": 6
+    },
+    {
+      "line": 14659,
+      "text": "NORMALLY SCHEDULED PROGRAMMING.",
+      "score": 6
+    },
+    {
+      "line": 1339,
+      "text": "| programs and to communications channels that he or",
+      "score": 5
+    },
+    {
+      "line": 3021,
+      "text": "energy, information, money communications, or",
+      "score": 5
+    },
+    {
+      "line": 7,
+      "text": "TO ROLUTTION",
+      "score": 4
+    },
+    {
+      "line": 46,
+      "text": "RA Gi",
+      "score": 4
+    },
+    {
+      "line": 69,
+      "text": "V MWS}",
+      "score": 4
+    },
+    {
+      "line": 81,
+      "text": "KANG \\\" “h",
+      "score": 4
+    },
+    {
+      "line": 92,
+      "text": "+ TA LALA C",
+      "score": 4
+    },
+    {
+      "line": 94,
+      "text": "e \\' =A CT tie CACM MEAL ELM FEE C8 OU",
+      "score": 4
+    },
+    {
+      "line": 108,
+      "text": "ya MUSEU {UES",
+      "score": 4
+    },
+    {
+      "line": 129,
+      "text": "=\\\\ AN; M) Q & V4 137 el , l NSS =.",
+      "score": 4
+    },
+    {
+      "line": 199,
+      "text": "38-52 FOUR ARGUMENTS FOR THE ELIMINATION OF TELEVISION by Jerry Mander",
+      "score": 4
+    },
+    {
+      "line": 2867,
+      "text": "BY SOL YURICK ano WES THOMAS",
+      "score": 4
+    },
+    {
+      "line": 2951,
+      "text": "ASCENT CEREMONY",
+      "score": 4
+    },
+    {
+      "line": 3752,
+      "text": "BUT THESSHIP STANDS STILL: 1T IS THEY STANDS:",
+      "score": 4
+    },
+    {
+      "line": 3755,
+      "text": "LEAT BEGIN ORISE:",
+      "score": 4
+    },
+    {
+      "line": 4634,
+      "text": "THE RECENTLY BUILT SATELLITE EARTH STATION AT BARTLETT, ALASKA. IN 1970",
+      "score": 4
+    },
+    {
+      "line": 4635,
+      "text": "THERE WAS A TOTAL OF §I SUCH STATIONS THROUGHOUT THE WORLD,",
+      "score": 4
+    },
+    {
+      "line": 4931,
+      "text": "$656405 © 8! J",
+      "score": 4
+    },
+    {
+      "line": 4934,
+      "text": "B- 8448840555",
+      "score": 4
+    },
+    {
+      "line": 4937,
+      "text": "WESTERN UNION INTERNATIONAL INTRODUCED THE FIRST FULLY",
+      "score": 4
+    },
+    {
+      "line": 4938,
+      "text": "COMPUTERIZED TELEX SWITCHING SYSTEM IN AUGUST 1966.",
+      "score": 4
+    },
+    {
+      "line": 5039,
+      "text": "BY MARY JEAN HALEY",
+      "score": 4
+    },
+    {
+      "line": 5114,
+      "text": "WORLD TELEVISION",
+      "score": 4
+    },
+    {
+      "line": 5168,
+      "text": "575,000 (UN)",
+      "score": 4
+    },
+    {
+      "line": 5251,
+      "text": "BBC 1 &",
+      "score": 4
+    },
+    {
+      "line": 5252,
+      "text": "BBC 2,",
+      "score": 4
+    },
+    {
+      "line": 5328,
+      "text": "(UN, 1971)",
+      "score": 4
+    },
+    {
+      "line": 5460,
+      "text": "430,000 (NP)",
+      "score": 4
+    },
+    {
+      "line": 5470,
+      "text": "85,000 (NP)",
+      "score": 4
+    },
+    {
+      "line": 5682,
+      "text": "R.CRUMB ‘77",
+      "score": 4
+    },
+    {
+      "line": 5950,
+      "text": "E MAY HAVE ENTERED AN",
+      "score": 4
+    },
+    {
+      "line": 5952,
+      "text": "ERA WHEN INFORMATION [9",
+      "score": 4
+    },
+    {
+      "line": 5953,
+      "text": "FED DIRECTLY INTO THE NIASS",
+      "score": 4
+    },
+    {
+      "line": 5954,
+      "text": "SUBCONSCIOUS.",
+      "score": 4
+    },
+    {
+      "line": 5968,
+      "text": "qSHE TV SIGNAL ITSELF",
+      "score": 4
+    },
+    {
+      "line": 5981,
+      "text": "PRODUCES A HYPNOTIC-ADDICTIVE",
+      "score": 4
+    },
+    {
+      "line": 5982,
+      "text": "EFFECT,",
+      "score": 4
+    },
+    {
+      "line": 6154,
+      "text": "ANO ('™ SURE You",
+      "score": 4
+    },
+    {
+      "line": 6155,
+      "text": "DON'T NEED THIS,”",
+      "score": 4
+    },
+    {
+      "line": 6318,
+      "text": "W1r 1s TANTAMOUNT To SCANDAL",
+      "score": 4
+    },
+    {
+      "line": 6321,
+      "text": "paths THERE HAS BEEN SO LITTLE,",
+      "score": 4
+    },
+    {
+      "line": 6322,
+      "text": "RESEARCH ON THE NEUROPHYSIOLOGY",
+      "score": 4
+    },
+    {
+      "line": 6325,
+      "text": "OF TELEVISION VIEWING.",
+      "score": 4
+    },
+    {
+      "line": 6475,
+      "text": "A \\DVERTISING WORKS. ADVERTISERS",
+      "score": 4
+    },
+    {
+      "line": 6476,
+      "text": "DON'T CARE AT ALL IF YoU KNOW",
+      "score": 4
+    },
+    {
+      "line": 6477,
+      "text": "THE ADVERTISING 1S FICTIONAL.",
+      "score": 4
+    },
+    {
+      "line": 6535,
+      "text": "TO ABANDON ALL ATTEMPTS To",
+      "score": 4
+    },
+    {
+      "line": 6536,
+      "text": "PUT NATURE ON TELEVISION.",
+      "score": 4
+    },
+    {
+      "line": 6596,
+      "text": "TELEVISION VIEWING MAY QUA-",
+      "score": 4
+    },
+    {
+      "line": 6597,
+      "text": "LIFY AS A KIND OF WAKEEFUL DREAM-",
+      "score": 4
+    },
+    {
+      "line": 6600,
+      "text": "ING, EXCEPT THAT IT’S A STRANGER'S",
+      "score": 4
+    },
+    {
+      "line": 6601,
+      "text": "DREAM.",
+      "score": 4
+    },
+    {
+      "line": 6740,
+      "text": "Wien THE EVES ARE NOT MOVING,",
+      "score": 4
+    },
+    {
+      "line": 6743,
+      "text": "OTARING ZOMBLELIKE, THINKING",
+      "score": 4
+    },
+    {
+      "line": 6744,
+      "text": "IS DIMINISHED.",
+      "score": 4
+    },
+    {
+      "line": 6762,
+      "text": "wl VELEVISION INFORMATION ENTERS UNFILTERED",
+      "score": 4
+    },
+    {
+      "line": 6763,
+      "text": "AND WHOLE, DIRECTLY INTO THE MEMORY BANKS, BUT IT",
+      "score": 4
+    },
+    {
+      "line": 6764,
+      "text": "[S NOT AVAILABLE FOR CONSCIOUS ANALYSIS, UNDER-",
+      "score": 4
+    },
+    {
+      "line": 6770,
+      "text": "IS SLEEP TEACHING.",
+      "score": 4
+    },
+    {
+      "line": 6796,
+      "text": "CAN ACTUALLY DO ANYTHING ABOUT",
+      "score": 4
+    },
+    {
+      "line": 6798,
+      "text": "eee SLOWLY ENOUGH FoR US",
+      "score": 4
+    },
+    {
+      "line": 7017,
+      "text": "S, THE LONGER THE SET 19 ON, THE",
+      "score": 4
+    },
+    {
+      "line": 7018,
+      "text": "SLOWER THE BRAINWAVE ACTIVITY,",
+      "score": 4
+    },
+    {
+      "line": 7221,
+      "text": "@\\S1DE FROM THE VENALITY OF",
+      "score": 4
+    },
+    {
+      "line": 7222,
+      "text": "ITS CONTROLLERS, THE TECH-",
+      "score": 4
+    },
+    {
+      "line": 7223,
+      "text": "NOLOGY OF TELEVISION DE-",
+      "score": 4
+    },
+    {
+      "line": 7224,
+      "text": "FINES THE BOUNDARIES OF ITS",
+      "score": 4
+    },
+    {
+      "line": 7225,
+      "text": "CONTENT,",
+      "score": 4
+    },
+    {
+      "line": 7369,
+      "text": "Wiser CHILDREN ARE WATCHING",
+      "score": 4
+    },
+    {
+      "line": 7370,
+      "text": "TELEVISION, THEY’RE BEING",
+      "score": 4
+    },
+    {
+      "line": 7371,
+      "text": "TRAINED NOT TO REACT.",
+      "score": 4
+    },
+    {
+      "line": 7492,
+      "text": "BDITATION MIGHT BE AN EX-",
+      "score": 4
+    },
+    {
+      "line": 7495,
+      "text": "CELLENT ABILITY TO DEVELOP",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 196,
+      "term": "interview",
+      "snippet": "22-29 THE EARTH GODS vs. THE SKY GODS: Publisats Against the Oligoposat by Sol Yurick and Wes Thomas 30-34 Getting into THE ACT an interview with Harry M. Shoosan III and Andrew J. Margeson by Robert Horvitz 35-37 World Television by Mary Jean Haley 38-52 FOUR ARGUMENTS FOR THE ELIMINATION OF TELEVISION by Jerry Mander"
+    },
+    {
+      "line": 201,
+      "term": "programming",
+      "snippet": "38-52 FOUR ARGUMENTS FOR THE ELIMINATION OF TELEVISION by Jerry Mander 53-56 Hypnotic Age Regression of a Television Addict by Paul Krassner 57-59 Deprogramming the Media Mind or Turn Off, Tune Out and Drop On Over Some Time by Scoop Nisker 60-63 Three Forefathers by Larry Lee and Jay Kinney 64-73 Tesla by Bud Spurgeon"
+    },
+    {
+      "line": 219,
+      "term": "whole systems",
+      "snippet": "99 Encounter sm Verily 100-103 The Goose and the Gander Were Talking One Night by R. Crumb Understanding Whole Systems 104-107 Sunlight Convergence/Solar Burn by Charles Ross 108 Ethical Technology by Michael J.Goc = Aremark from Lynn White, Jr. m= CoEvolutionary “pollution”"
+    },
+    {
+      "line": 239,
+      "term": "community",
+      "snippet": "Winter ‘Quarterly Community 117 Does Intercourse Cause Cancer? by Josephine Hill, M.P.H. : 118-121 Mr. Boney Parts by Dan O’Neill i 122-127. A NEW WOLF Rodney Sirois talking to Lynn Franklin and Ron Poitras"
+    },
+    {
+      "line": 250,
+      "term": "communications",
+      "snippet": "138-139 Yellow Diamonds by Malcolm Wells 4 ah ~Communications- 140. Heavy Metal m= Fine Print m= Field Photography Learning 141 Poor Man’s Trampoline by K. Massie"
+    },
+    {
+      "line": 252,
+      "term": "learning",
+      "snippet": "~Communications- 140. Heavy Metal m= Fine Print m= Field Photography Learning 141 Poor Man’s Trampoline by K. Massie ~ 142-147 Ah, Firefighting by Randy Black : 146-147 How to become a seasonal firefighter"
+    },
+    {
+      "line": 274,
+      "term": "energy",
+      "snippet": "account for events that neither of their separate disci- plines could explain. They noticed that plants they were studying carried large amounts of energy-expensive alkaloids that made sense only in terms of the voracious caterpillars who were put off by the poisonous quality of the alkaloids. Some bugs however (such as the"
+    },
+    {
+      "line": 300,
+      "term": "learning",
+      "snippet": "Including us. That’s the kicker, because the co- evolutionary idea of life ever more intricately fitting, fighting, cooperating with, and learning from other life only picks up speed and complexity when you mix in cultural species such as we. The moral of the co-evolutionary perspective is its"
+    },
+    {
+      "line": 309,
+      "term": "community",
+      "snippet": "level finer (at least) than where you are, and to see clear through your cycles. So as you study your soil, your yard, your watershed, your bio-community and human community, your weather, your access to tools, and your night sky, be aware that they are studying you."
+    },
+    {
+      "line": 310,
+      "term": "community",
+      "snippet": "clear through your cycles. So as you study your soil, your yard, your watershed, your bio-community and human community, your weather, your access to tools, and your night sky, be aware that they are studying you. Sigs fe"
+    },
+    {
+      "line": 311,
+      "term": "tools",
+      "snippet": "your yard, your watershed, your bio-community and human community, your weather, your access to tools, and your night sky, be aware that they are studying you. Sigs fe The CoEvolution Quarterly = Issue No. 16 » December 21, 1977. Published quarterly by POINT, a California"
+    },
+    {
+      "line": 363,
+      "term": "energy",
+      "snippet": "These 96 pages on broadcast are a tapestry of broken dreams. Nikola Tesla’s dream of broadcasting energy as well as information. Major Arm- strong’s dream of broadcasting pure sound indistinguishable from the"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "fo hs oF Shee ‘a r + i* 9"
+    },
+    {
+      "line": 4,
+      "text": "Published by the Whole Earth Catalog"
+    },
+    {
+      "line": 7,
+      "text": "TO ROLUTTION"
+    },
+    {
+      "line": 17,
+      "text": "y ) My"
+    },
+    {
+      "line": 19,
+      "text": "f Y i \\\\ yi"
+    },
+    {
+      "line": 21,
+      "text": "ot \" step’) it H i L |"
+    },
+    {
+      "line": 22,
+      "text": "0a omy RU UT"
+    },
+    {
+      "line": 23,
+      "text": "ad - ee! ry *y) AA_AY"
+    },
+    {
+      "line": 26,
+      "text": ": Dade | ie"
+    },
+    {
+      "line": 27,
+      "text": "eee Ht On' 4 | i th"
+    },
+    {
+      "line": 28,
+      "text": "ie A 1\" an 1 ph Oge fem sl"
+    },
+    {
+      "line": 29,
+      "text": "a! soe int =|"
+    },
+    {
+      "line": 33,
+      "text": "evs. Pes t"
+    },
+    {
+      "line": 34,
+      "text": "“et FE Psi, bil th"
+    },
+    {
+      "line": 35,
+      "text": "f tigh = ed ; a le My"
+    },
+    {
+      "line": 37,
+      "text": "Y a on"
+    },
+    {
+      "line": 43,
+      "text": "i pitt wit :"
+    },
+    {
+      "line": 44,
+      "text": "Wy it yn iJ a wn. 34"
+    },
+    {
+      "line": 45,
+      "text": "r= 3 s : ‘ * wo ey :"
+    },
+    {
+      "line": 46,
+      "text": "RA Gi"
+    },
+    {
+      "line": 47,
+      "text": "ra moe ty"
+    },
+    {
+      "line": 50,
+      "text": "SS eC ONO Sec"
+    },
+    {
+      "line": 51,
+      "text": "ip r ane ly"
+    },
+    {
+      "line": 52,
+      "text": "5 a} SS SS a"
+    },
+    {
+      "line": 53,
+      "text": "Als WA Kdan"
+    },
+    {
+      "line": 56,
+      "text": "ae - ="
+    },
+    {
+      "line": 57,
+      "text": "\"y, ia pee 7 VA el) ("
+    },
+    {
+      "line": 59,
+      "text": "nt fi ly ER Wis - ; st \\"
+    },
+    {
+      "line": 60,
+      "text": "Wh GS wr 6 sh. ay 4 ye ° = \\"
+    },
+    {
+      "line": 63,
+      "text": "f a in |"
+    },
+    {
+      "line": 64,
+      "text": "CONN"
+    },
+    {
+      "line": 65,
+      "text": "wn gt"
+    },
+    {
+      "line": 69,
+      "text": "V MWS}"
+    },
+    {
+      "line": 70,
+      "text": "M z%"
+    },
+    {
+      "line": 73,
+      "text": "=f Lee"
+    },
+    {
+      "line": 74,
+      "text": "Zi ee az)"
+    },
+    {
+      "line": 75,
+      "text": "Ming"
+    },
+    {
+      "line": 79,
+      "text": "f iA"
+    },
+    {
+      "line": 81,
+      "text": "KANG \\\" “h"
+    },
+    {
+      "line": 83,
+      "text": "rm Wwe Mi"
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "title": "Whole Earth Software Review No.1, Spring 1984",
+  "identifier": "wholeearthsoftwa00unse_0",
+  "year": 1984,
+  "season": "Spring",
+  "collection": "Whole Earth Software Review",
+  "collection_zh": "软件目录与评论",
+  "pages": 119,
+  "url": "https://wholeearth.info/p/whole-earth-software-review-no-1-spring-1984",
+  "archive_url": "https://archive.org/details/wholeearthsoftwa00unse_0",
+  "pdf_url": "https://archive.org/download/wholeearthsoftwa00unse_0/wholeearthsoftwa00unse_0.pdf",
+  "cover_url": "https://archive.org/download/wholeearthsoftwa00unse_0/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/wholeearthsoftwa00unse_0_djvu.txt",
+  "ocr_chars": 280783,
+  "significant_line_count": 8436,
+  "theme_counts": {
+    "software_computing": 1036,
+    "tools_craft": 137,
+    "ecology_place": 67,
+    "learning_media": 226,
+    "community_politics": 467
+  },
+  "top_themes": [
+    "software_computing",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 170,
+      "page": 4,
+      "title": "FEATURED PROGRAM: OFFIX",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_0/page/n5_w500.jpg"
+    },
+    {
+      "line": 626,
+      "page": 150,
+      "title": "GATE FIVE ROAD SAUSALITO CA 94965",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_0/page/n151_w500.jpg"
+    },
+    {
+      "line": 2563,
+      "page": 22,
+      "title": "WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_0/page/n23_w500.jpg"
+    },
+    {
+      "line": 4640,
+      "page": 38,
+      "title": "WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_0/page/n39_w500.jpg"
+    },
+    {
+      "line": 5196,
+      "page": 44,
+      "title": "WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_0/page/n45_w500.jpg"
+    },
+    {
+      "line": 5309,
+      "page": 46,
+      "title": "WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_0/page/n47_w500.jpg"
+    },
+    {
+      "line": 6926,
+      "page": 62,
+      "title": "WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_0/page/n63_w500.jpg"
+    },
+    {
+      "line": 10185,
+      "page": 100,
+      "title": "WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "image_url": "https://archive.org/download/wholeearthsoftwa00unse_0/page/n101_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 170,
+      "text": "4 FEATURED PROGRAM: OFFIX",
+      "score": 10
+    },
+    {
+      "line": 566,
+      "text": "4 WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "score": 10
+    },
+    {
+      "line": 2563,
+      "text": "22 WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "score": 10
+    },
+    {
+      "line": 4640,
+      "text": "38 WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "score": 10
+    },
+    {
+      "line": 5196,
+      "text": "44 WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "score": 10
+    },
+    {
+      "line": 5309,
+      "text": "46 WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "score": 10
+    },
+    {
+      "line": 6926,
+      "text": "62 WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "score": 10
+    },
+    {
+      "line": 10185,
+      "text": "100 WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "score": 10
+    },
+    {
+      "line": 626,
+      "text": "150 GATE FIVE ROAD SAUSALITO CA 94965",
+      "score": 8
+    },
+    {
+      "line": 2247,
+      "text": "150 GATE FIVE ROAD SAUSALITO CA 94965 19",
+      "score": 8
+    },
+    {
+      "line": 4710,
+      "text": "150 GATE FIVE ROAD SAUSALITO CA 94965 39",
+      "score": 8
+    },
+    {
+      "line": 5239,
+      "text": "150 GATE FIVE ROAD SAUSALITO CA 94965 45",
+      "score": 8
+    },
+    {
+      "line": 6985,
+      "text": "150 GATE FIVE ROAD SAUSALITO CA 94965 63",
+      "score": 8
+    },
+    {
+      "line": 7416,
+      "text": "150 GATE FIVE ROAD SAUSALITO CA 94965 7I",
+      "score": 8
+    },
+    {
+      "line": 7985,
+      "text": "150 GATE FIVE ROAD SAUSALITO CA 94965 77",
+      "score": 8
+    },
+    {
+      "line": 339,
+      "text": "PROGRAMMING",
+      "score": 6
+    },
+    {
+      "line": 350,
+      "text": "LEARNING | PLAYING",
+      "score": 6
+    },
+    {
+      "line": 569,
+      "text": "LEARNING",
+      "score": 6
+    },
+    {
+      "line": 899,
+      "text": "WHOLE EARTH SOFTWARE REVIEW SPRING 1984",
+      "score": 6
+    },
+    {
+      "line": 2865,
+      "text": "WHOLE EARTH SOFTWARE REVIEW. SPRING 1984",
+      "score": 6
+    },
+    {
+      "line": 9917,
+      "text": "LEARNING/&",
+      "score": 6
+    },
+    {
+      "line": 10890,
+      "text": "DOMAIN PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 11302,
+      "text": "REVIEW & CATALOG",
+      "score": 6
+    },
+    {
+      "line": 9947,
+      "text": "| accompanied by reviews of some of the playing/learning software we",
+      "score": 5
+    },
+    {
+      "line": 8,
+      "text": "WHOLE",
+      "score": 4
+    },
+    {
+      "line": 110,
+      "text": "WRITING",
+      "score": 4
+    },
+    {
+      "line": 158,
+      "text": "EARTH",
+      "score": 4
+    },
+    {
+      "line": 177,
+      "text": "McMICRO",
+      "score": 4
+    },
+    {
+      "line": 224,
+      "text": "INSIDE",
+      "score": 4
+    },
+    {
+      "line": 313,
+      "text": "TELECOMMUNICATING",
+      "score": 4
+    },
+    {
+      "line": 429,
+      "text": "BUSINESS",
+      "score": 4
+    },
+    {
+      "line": 451,
+      "text": "INSIDE BACK COVER",
+      "score": 4
+    },
+    {
+      "line": 526,
+      "text": "ANALYZING",
+      "score": 4
+    },
+    {
+      "line": 532,
+      "text": "ACCOUNTING",
+      "score": 4
+    },
+    {
+      "line": 539,
+      "text": "ORGANIZING",
+      "score": 4
+    },
+    {
+      "line": 546,
+      "text": "_ MANAGING",
+      "score": 4
+    },
+    {
+      "line": 560,
+      "text": "DRAWING",
+      "score": 4
+    },
+    {
+      "line": 579,
+      "text": "PLAYING",
+      "score": 4
+    },
+    {
+      "line": 703,
+      "text": "tot GUN UNEERESPEEVEL",
+      "score": 4
+    },
+    {
+      "line": 715,
+      "text": "2, PHESRIME\"YOU HAVE (OR",
+      "score": 4
+    },
+    {
+      "line": 716,
+      "text": "ARE WILLING TO MAKE)",
+      "score": 4
+    },
+    {
+      "line": 717,
+      "text": "AVAILABLE",
+      "score": 4
+    },
+    {
+      "line": 729,
+      "text": "3. WHO DOES THE WORK?",
+      "score": 4
+    },
+    {
+      "line": 744,
+      "text": "4. HOW OFTEN YOU USE A",
+      "score": 4
+    },
+    {
+      "line": 745,
+      "text": "PERSONAL COMPUTER",
+      "score": 4
+    },
+    {
+      "line": 883,
+      "text": "FOR IBM PC AND COMPATIBLES",
+      "score": 4
+    },
+    {
+      "line": 894,
+      "text": "FOR CP/M (KAYPRO, MORROW,",
+      "score": 4
+    },
+    {
+      "line": 895,
+      "text": "ETC.)",
+      "score": 4
+    },
+    {
+      "line": 974,
+      "text": "FOR APPLE le. .",
+      "score": 4
+    },
+    {
+      "line": 980,
+      "text": "FOR ATARI _",
+      "score": 4
+    },
+    {
+      "line": 984,
+      "text": "FOR COMMODORE |",
+      "score": 4
+    },
+    {
+      "line": 991,
+      "text": "OTHER",
+      "score": 4
+    },
+    {
+      "line": 998,
+      "text": "\"SUPPORT |",
+      "score": 4
+    },
+    {
+      "line": 1033,
+      "text": "ATARI",
+      "score": 4
+    },
+    {
+      "line": 1720,
+      "text": "e CP/M-80; CP/M-86;",
+      "score": 4
+    },
+    {
+      "line": 1721,
+      "text": "MS-DOS; PC DOS",
+      "score": 4
+    },
+    {
+      "line": 1791,
+      "text": "Ser. MUNDINI ES, UMS OME DNDLINE-SLOFCEM MER GOLAE RADELER URGE td ENE",
+      "score": 4
+    },
+    {
+      "line": 2228,
+      "text": "128K RAM",
+      "score": 4
+    },
+    {
+      "line": 2429,
+      "text": "e CP/M-80, CP/M-86, MS-DOS",
+      "score": 4
+    },
+    {
+      "line": 2602,
+      "text": "ANTHONY WESTON: A word",
+      "score": 4
+    },
+    {
+      "line": 2666,
+      "text": "YOU BUY, THE FIRST PERSON",
+      "score": 4
+    },
+    {
+      "line": 2667,
+      "text": "YOU MEET AFTER YOUR",
+      "score": 4
+    },
+    {
+      "line": 2668,
+      "text": "PURCHASE WILL TELL YOU",
+      "score": 4
+    },
+    {
+      "line": 2669,
+      "text": "THAT YOU SHOULD HAVE",
+      "score": 4
+    },
+    {
+      "line": 2670,
+      "text": "PURCHASED SOMETHING",
+      "score": 4
+    },
+    {
+      "line": 2671,
+      "text": "DIFFERENT.",
+      "score": 4
+    },
+    {
+      "line": 2707,
+      "text": "ARTHUR NAIMAN: WP is so",
+      "score": 4
+    },
+    {
+      "line": 2717,
+      "text": "CHARLIE SPEZZANO: What is",
+      "score": 4
+    },
+    {
+      "line": 2735,
+      "text": "CAST OF",
+      "score": 4
+    },
+    {
+      "line": 2738,
+      "text": "CHARACTERS",
+      "score": 4
+    },
+    {
+      "line": 2741,
+      "text": "PETER McWILLIAMS is",
+      "score": 4
+    },
+    {
+      "line": 2762,
+      "text": "ARTHUR NAIMAN is",
+      "score": 4
+    },
+    {
+      "line": 2791,
+      "text": "STEVEN LEVY: “I'm a",
+      "score": 4
+    },
+    {
+      "line": 2810,
+      "text": "CHARLES SPEZZANO:",
+      "score": 4
+    },
+    {
+      "line": 2835,
+      "text": "WOODY LISWOOD",
+      "score": 4
+    },
+    {
+      "line": 2850,
+      "text": "BARBARA ELMAN, a",
+      "score": 4
+    },
+    {
+      "line": 2934,
+      "text": "TONY BOVE and",
+      "score": 4
+    },
+    {
+      "line": 2935,
+      "text": "CHERYL RHODES edit",
+      "score": 4
+    },
+    {
+      "line": 2942,
+      "text": "DARRELL ICENOGLE is",
+      "score": 4
+    },
+    {
+      "line": 2952,
+      "text": "ANTHONY WESTON is",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 11,
+      "term": "tools",
+      "snippet": "December, 1983 WHOLE Recommended Writing Tools - page 8 OFFIX: Simple, Useful and Cheap New personal computer owners share certain frustrations. Their promising “productivity tool’’ is"
+    },
+    {
+      "line": 22,
+      "term": "software",
+      "snippet": "New personal computer owners share certain frustrations. Their promising “productivity tool’’ is complex. Software looks simple when the dealer demonstrates it; then turns out to be a bear to learn and comes with a book full of instructions, hints, dire warnings and Catch-22’s. If you want to read a book,"
+    },
+    {
+      "line": 41,
+      "term": "software",
+      "snippet": "disappear when they aren't needed. All this good news is wrapped up in a most welcome trend. Software has cost too much since personal computers appeared. You can get a complete ‘microcomputer for around $1,500 these days, but a single software package can still cost $500-1,000."
+    },
+    {
+      "line": 44,
+      "term": "software",
+      "snippet": "personal computers appeared. You can get a complete ‘microcomputer for around $1,500 these days, but a single software package can still cost $500-1,000. That’s wrong. OFFIX is part of a new direction in software pricing: downward. It’s a basic set of office tools for only $99. More about OFFIX starting"
+    },
+    {
+      "line": 46,
+      "term": "software",
+      "snippet": "single software package can still cost $500-1,000. That’s wrong. OFFIX is part of a new direction in software pricing: downward. It’s a basic set of office tools for only $99. More about OFFIX starting on page 47. -Richard Dalton The book is the Whole Earth Software Catalog, first edition to"
+    },
+    {
+      "line": 47,
+      "term": "tools",
+      "snippet": "That’s wrong. OFFIX is part of a new direction in software pricing: downward. It’s a basic set of office tools for only $99. More about OFFIX starting on page 47. -Richard Dalton The book is the Whole Earth Software Catalog, first edition to appear late in 1984, published by Doubleday. Its subject is"
+    },
+    {
+      "line": 51,
+      "term": "software",
+      "snippet": "tools for only $99. More about OFFIX starting on page 47. -Richard Dalton The book is the Whole Earth Software Catalog, first edition to appear late in 1984, published by Doubleday. Its subject is everything having to do with personal computers. Its function is to evaluate the best of what's available for personal computers."
+    },
+    {
+      "line": 67,
+      "term": "software",
+      "snippet": "as a shopper as well as would-be cataloger. A privileged participant in one of the inner circles of computer mania - COMDEX, the microcomputer and software manufacturer/vendor mating dance at Las Vegas last November - I faced eleven miles of aisles of exhibitors. Nicely dressed fast-track professionals gobbled their hot dogs crouched on the sticky concrete floor because there was no"
+    },
+    {
+      "line": 102,
+      "term": "software",
+      "snippet": "WHOLE Rev1 A Software Taxonomy -Stewart Brand The Software Dating Game -Richard Dalton"
+    },
+    {
+      "line": 106,
+      "term": "software",
+      "snippet": "A Software Taxonomy -Stewart Brand The Software Dating Game -Richard Dalton WRITING Writing Tools"
+    },
+    {
+      "line": 113,
+      "term": "tools",
+      "snippet": "-Richard Dalton WRITING Writing Tools Whole Earth recommends: WordStar; WordPerfect; Volkswriter Deluxe; Wordvision; Microsoft Word;"
+    },
+    {
+      "line": 142,
+      "term": "tools",
+      "snippet": "-Charles Spezzano Word Processing Computers as Remedial Writing Tools -Richard Wanderman And Now, Something Completely Different"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "‘No.1 Spring 1984"
+    },
+    {
+      "line": 4,
+      "text": "Research current through"
+    },
+    {
+      "line": 5,
+      "text": "December, 1983"
+    },
+    {
+      "line": 8,
+      "text": "WHOLE"
+    },
+    {
+      "line": 11,
+      "text": "Recommended Writing Tools - page 8"
+    },
+    {
+      "line": 17,
+      "text": "OFFIX: Simple, Useful and Cheap"
+    },
+    {
+      "line": 20,
+      "text": "New personal computer owners share certain"
+    },
+    {
+      "line": 21,
+      "text": "frustrations. Their promising “productivity tool’’ is"
+    },
+    {
+      "line": 22,
+      "text": "complex. Software looks simple when the dealer"
+    },
+    {
+      "line": 23,
+      "text": "demonstrates it; then turns out to be a bear to learn"
+    },
+    {
+      "line": 24,
+      "text": "and comes with a book full of instructions, hints, dire"
+    },
+    {
+      "line": 25,
+      "text": "warnings and Catch-22’s. If you want to read a book,"
+    },
+    {
+      "line": 26,
+      "text": "you would have bought one, right?"
+    },
+    {
+      "line": 29,
+      "text": "OFFIX attracts us with a seductive simplicity based"
+    },
+    {
+      "line": 30,
+      "text": "on a graphic replication of the physical steps you go"
+    },
+    {
+      "line": 31,
+      "text": "through to gather, organize and structure the"
+    },
+    {
+      "line": 32,
+      "text": "information you use. It’s simple enough to be shipped"
+    },
+    {
+      "line": 33,
+      "text": "without documentation. All necessary instructions are"
+    },
+    {
+      "line": 34,
+      "text": "available on the screen and the codes used to make"
+    },
+    {
+      "line": 35,
+      "text": "OFFIX perform are blessedly consistent and logical."
+    },
+    {
+      "line": 36,
+      "text": "They pop up on the screen at your command;"
+    },
+    {
+      "line": 37,
+      "text": "disappear when they aren't needed."
+    },
+    {
+      "line": 40,
+      "text": "All this good news is wrapped up in a most"
+    },
+    {
+      "line": 41,
+      "text": "welcome trend. Software has cost too much since"
+    },
+    {
+      "line": 42,
+      "text": "personal computers appeared. You can get a complete"
+    },
+    {
+      "line": 43,
+      "text": "‘microcomputer for around $1,500 these days, but a"
+    },
+    {
+      "line": 44,
+      "text": "single software package can still cost $500-1,000."
+    },
+    {
+      "line": 45,
+      "text": "That’s wrong. OFFIX is part of a new direction in"
+    },
+    {
+      "line": 46,
+      "text": "software pricing: downward. It’s a basic set of office"
+    },
+    {
+      "line": 47,
+      "text": "tools for only $99. More about OFFIX starting"
+    },
+    {
+      "line": 48,
+      "text": "on page 47. -Richard Dalton"
+    },
+    {
+      "line": 51,
+      "text": "The book is the Whole Earth Software Catalog, first edition to"
+    },
+    {
+      "line": 52,
+      "text": "appear late in 1984, published by Doubleday. Its subject is"
+    },
+    {
+      "line": 53,
+      "text": "everything having to do with personal computers. Its function is to"
+    },
+    {
+      "line": 54,
+      "text": "evaluate the best of what's available for personal computers."
+    },
+    {
+      "line": 57,
+      "text": "The on-going magazine has the same subject. Its function is to"
+    },
+    {
+      "line": 58,
+      "text": "find the best of what's available for personal computers."
+    },
+    {
+      "line": 61,
+      "text": "A clear impossibility. Consequently, a clear necessity. Rather than"
+    },
+    {
+      "line": 62,
+      "text": "quote the usual astounding statistics of the runaway growth and"
+    },
+    {
+      "line": 63,
+      "text": "product proliferation, I can report on my own continuing dismay,"
+    }
+  ]
+}

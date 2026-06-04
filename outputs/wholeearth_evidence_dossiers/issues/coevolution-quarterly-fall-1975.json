@@ -1,0 +1,680 @@
+{
+  "title": "CoEvolution Quarterly, Fall 1975",
+  "identifier": "coevolutionquart00unse_4",
+  "year": 1975,
+  "season": "Fall",
+  "collection": "CoEvolution Quarterly",
+  "collection_zh": "共同进化季刊",
+  "pages": 153,
+  "url": "https://wholeearth.info/p/coevolution-quarterly-fall-1975",
+  "archive_url": "https://archive.org/details/coevolutionquart00unse_4",
+  "pdf_url": "https://archive.org/download/coevolutionquart00unse_4/coevolutionquart00unse_4.pdf",
+  "cover_url": "https://archive.org/download/coevolutionquart00unse_4/page/cover_w500.jpg",
+  "ocr_path": "work/wholeearth/ocr/coevolutionquart00unse_4_djvu.txt",
+  "ocr_chars": 709733,
+  "significant_line_count": 15511,
+  "theme_counts": {
+    "software_computing": 113,
+    "tools_craft": 308,
+    "ecology_place": 668,
+    "learning_media": 344,
+    "community_politics": 383
+  },
+  "top_themes": [
+    "ecology_place",
+    "community_politics",
+    "learning_media"
+  ],
+  "page_markers": [
+    {
+      "line": 1629,
+      "page": 1,
+      "title": "GRAV.",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_4/page/n2_w500.jpg"
+    },
+    {
+      "line": 2982,
+      "page": 20,
+      "title": "PEAK CAPACITY",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_4/page/n21_w500.jpg"
+    },
+    {
+      "line": 12196,
+      "page": 2,
+      "title": "FT. IN GROUND AND SECURED",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_4/page/n3_w500.jpg"
+    },
+    {
+      "line": 14714,
+      "page": 4,
+      "title": "LF 1.90 3.30 5.20",
+      "image_url": "https://archive.org/download/coevolutionquart00unse_4/page/n5_w500.jpg"
+    }
+  ],
+  "candidate_headings": [
+    {
+      "line": 1629,
+      "text": "1 GRAV.",
+      "score": 8
+    },
+    {
+      "line": 2982,
+      "text": "20 PEAK CAPACITY",
+      "score": 8
+    },
+    {
+      "line": 12196,
+      "text": "2 FT. IN GROUND AND SECURED",
+      "score": 8
+    },
+    {
+      "line": 14714,
+      "text": "4 LF 1.90 3.30 5.20",
+      "score": 8
+    },
+    {
+      "line": 1235,
+      "text": "ENERGY WITHOUT GUILT",
+      "score": 6
+    },
+    {
+      "line": 1952,
+      "text": "ENERGY FOR THE EARTH",
+      "score": 6
+    },
+    {
+      "line": 2285,
+      "text": "@ PRIMARY THERMAL ENERGY SOURCE",
+      "score": 6
+    },
+    {
+      "line": 2291,
+      "text": "@ ENERGY CONVERSION MACHINERY",
+      "score": 6
+    },
+    {
+      "line": 2384,
+      "text": "THE U.S. AS ENERGY EXPORTER",
+      "score": 6
+    },
+    {
+      "line": 2657,
+      "text": "YEARS FROM START OF PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 2971,
+      "text": "ENERGY = TOTAL",
+      "score": 6
+    },
+    {
+      "line": 3035,
+      "text": "PRIOR TO START OF COLONY PROGRAM",
+      "score": 6
+    },
+    {
+      "line": 3303,
+      "text": "INTERVIEWING GERARD O'NEILL",
+      "score": 6
+    },
+    {
+      "line": 20833,
+      "text": "PROGRAMMING AND DEBUGGING:",
+      "score": 6
+    },
+    {
+      "line": 1290,
+      "text": "Electrical energy for a space community could be obtained",
+      "score": 5
+    },
+    {
+      "line": 3001,
+      "text": "from the start of the program the energy flow to the",
+      "score": 5
+    },
+    {
+      "line": 26151,
+      "text": "Energy Ecology and Economics Howard T. Odum",
+      "score": 5
+    },
+    {
+      "line": 72,
+      "text": "YOO CAT MARGE",
+      "score": 4
+    },
+    {
+      "line": 73,
+      "text": "A SYSTEM... A",
+      "score": 4
+    },
+    {
+      "line": 74,
+      "text": "SNSTEM MAVAGES",
+      "score": 4
+    },
+    {
+      "line": 75,
+      "text": "A SYSTEM...",
+      "score": 4
+    },
+    {
+      "line": 79,
+      "text": "“TiME WHEN Foo",
+      "score": 4
+    },
+    {
+      "line": 80,
+      "text": "MUCH (Ss NOT",
+      "score": 4
+    },
+    {
+      "line": 81,
+      "text": "ENOUGA...",
+      "score": 4
+    },
+    {
+      "line": 504,
+      "text": "BY GERARD O'NEILL",
+      "score": 4
+    },
+    {
+      "line": 1021,
+      "text": "DR. GERARD K. O'NEILL",
+      "score": 4
+    },
+    {
+      "line": 1024,
+      "text": "BEFORE THE",
+      "score": 4
+    },
+    {
+      "line": 1025,
+      "text": "SUB-COMMITTEE ON",
+      "score": 4
+    },
+    {
+      "line": 1026,
+      "text": "SPACE SCIENCE AND APPLICATIONS",
+      "score": 4
+    },
+    {
+      "line": 1027,
+      "text": "OF THE",
+      "score": 4
+    },
+    {
+      "line": 1028,
+      "text": "COMMITTEE ON SCIENCE AND TECHNOLOGY",
+      "score": 4
+    },
+    {
+      "line": 1029,
+      "text": "UNITED STATES HOUSE OF REPRESENTATIVES) .",
+      "score": 4
+    },
+    {
+      "line": 1033,
+      "text": "INTRODUCTION",
+      "score": 4
+    },
+    {
+      "line": 1083,
+      "text": "THE SPACE COLONY CONCEPT",
+      "score": 4
+    },
+    {
+      "line": 1125,
+      "text": "GEOMETRIES:",
+      "score": 4
+    },
+    {
+      "line": 1161,
+      "text": "INDUSTRY",
+      "score": 4
+    },
+    {
+      "line": 1197,
+      "text": "LIMITS OF GROWTH",
+      "score": 4
+    },
+    {
+      "line": 1314,
+      "text": "THE BOOTSTRAP METHOD",
+      "score": 4
+    },
+    {
+      "line": 1413,
+      "text": "LUNAR MATERIALS",
+      "score": 4
+    },
+    {
+      "line": 1431,
+      "text": "TABLE 1",
+      "score": 4
+    },
+    {
+      "line": 1432,
+      "text": "UNSELECTED APOLLO II SOIL SAMPLE",
+      "score": 4
+    },
+    {
+      "line": 1480,
+      "text": "CONCENTRATED _[~",
+      "score": 4
+    },
+    {
+      "line": 1481,
+      "text": "SOLAR YDS",
+      "score": 4
+    },
+    {
+      "line": 1491,
+      "text": "RECUPERATOR",
+      "score": 4
+    },
+    {
+      "line": 1492,
+      "text": "------7 RADIATOR",
+      "score": 4
+    },
+    {
+      "line": 1498,
+      "text": "| ELECTRIC POWER",
+      "score": 4
+    },
+    {
+      "line": 1533,
+      "text": "ISLAND ONE ie",
+      "score": 4
+    },
+    {
+      "line": 1621,
+      "text": "(an 4 CATCHER ara CONSTRUC. STAT.",
+      "score": 4
+    },
+    {
+      "line": 1622,
+      "text": ". UN (u2) HABITAT",
+      "score": 4
+    },
+    {
+      "line": 1623,
+      "text": "MANUFACTURING",
+      "score": 4
+    },
+    {
+      "line": 1626,
+      "text": "MATERIALS",
+      "score": 4
+    },
+    {
+      "line": 1630,
+      "text": "MIN.!| MAX.",
+      "score": 4
+    },
+    {
+      "line": 1631,
+      "text": "2.5 PSI} 7.5 PSI",
+      "score": 4
+    },
+    {
+      "line": 1632,
+      "text": "OXYGEN; MIX.",
+      "score": 4
+    },
+    {
+      "line": 1633,
+      "text": "<10 RPM) <1 RPM",
+      "score": 4
+    },
+    {
+      "line": 1634,
+      "text": "HEAVY; RADIA-",
+      "score": 4
+    },
+    {
+      "line": 1637,
+      "text": "LUNAR",
+      "score": 4
+    },
+    {
+      "line": 1638,
+      "text": "OUTPOST",
+      "score": 4
+    },
+    {
+      "line": 1639,
+      "text": "MASS- L5-M",
+      "score": 4
+    },
+    {
+      "line": 1640,
+      "text": "DRIVER (PEOPLE)",
+      "score": 4
+    },
+    {
+      "line": 1654,
+      "text": "(LOW EARTH",
+      "score": 4
+    },
+    {
+      "line": 1655,
+      "text": "ORBIT)",
+      "score": 4
+    },
+    {
+      "line": 1681,
+      "text": "COST DRIVERS IN SPACE-COLONY CONSTRUCTION",
+      "score": 4
+    },
+    {
+      "line": 1747,
+      "text": "COSTS AND PAYOFFS",
+      "score": 4
+    },
+    {
+      "line": 1752,
+      "text": "TABLE 2",
+      "score": 4
+    },
+    {
+      "line": 1753,
+      "text": "APPROXIMATE COSTS OF ENGINEERING PROJECTS,",
+      "score": 4
+    },
+    {
+      "line": 1754,
+      "text": "IN 1975 DOLLARS",
+      "score": 4
+    },
+    {
+      "line": 1818,
+      "text": "TABLE 3",
+      "score": 4
+    },
+    {
+      "line": 1819,
+      "text": "PRELIMINARY ESTIMATES OF COST FOR L5 PROJECT",
+      "score": 4
+    },
+    {
+      "line": 1820,
+      "text": "(ESTABLISHMENT OF ISLAND ONE) IN 1975 DOLLARS",
+      "score": 4
+    },
+    {
+      "line": 1913,
+      "text": "Pe OLA",
+      "score": 4
+    },
+    {
+      "line": 1973,
+      "text": "ACCEL. 1km OF \\ DECEL.",
+      "score": 4
+    },
+    {
+      "line": 1977,
+      "text": "RETURN",
+      "score": 4
+    },
+    {
+      "line": 1981,
+      "text": "ACCEL. TO ' DECEL. TO",
+      "score": 4
+    },
+    {
+      "line": 1984,
+      "text": "DWELL ‘",
+      "score": 4
+    },
+    {
+      "line": 1985,
+      "text": "0.6 s (REMOVAL & REPLACEMENT",
+      "score": 4
+    },
+    {
+      "line": 1988,
+      "text": "LOCATION FOR LOADING, COOLING",
+      "score": 4
+    },
+    {
+      "line": 1989,
+      "text": "OR BUCKET REPLACEMENT)",
+      "score": 4
+    },
+    {
+      "line": 2087,
+      "text": "SUNFLOWER",
+      "score": 4
+    },
+    {
+      "line": 2090,
+      "text": "900 if _ AGRICULTURE",
+      "score": 4
+    }
+  ],
+  "snippets": [
+    {
+      "line": 114,
+      "term": "whole systems",
+      "snippet": "goodbye? | Understanding Whole Systems Land Use Shelter Soft Technology"
+    },
+    {
+      "line": 133,
+      "term": "interview",
+      "snippet": "Testimony by Gerard O'Neill 10 “Is the surface of a planet really the right place for an expanding technological civilization? interviewing Gerard O’Neill 20 Life in Space 28 Deep Space Material Sources by Eric Drexler 29 An Ecological and Evolutionary Ethic 30"
+    },
+    {
+      "line": 187,
+      "term": "energy",
+      "snippet": "Freedom to Build « Septic Tank Practices 77 Use It Again, Sam e How to Hide Almost Anything « Insulation 78 National Construction Estimator e Concrete and Energy e ‘’Waterless’’ shower e SmokeGard e Climate and House Design 79 Scandinavian Wood Stoves 80 Advanced Wood-Burning by Doug Dylla 82 Understanding energy 86"
+    },
+    {
+      "line": 194,
+      "term": "energy",
+      "snippet": "SmokeGard e Climate and House Design 79 Scandinavian Wood Stoves 80 Advanced Wood-Burning by Doug Dylla 82 Understanding energy 86 Connections « From Know-How to Nowhere e Gwe -energy economics 87 BRAD Solar Roof « Kalwall notes « Sky Therm e Sundu Solar Heater 788 Compendium e The Pegasus Unit « Another energy book e"
+    },
+    {
+      "line": 196,
+      "term": "energy",
+      "snippet": "Advanced Wood-Burning by Doug Dylla 82 Understanding energy 86 Connections « From Know-How to Nowhere e Gwe -energy economics 87 BRAD Solar Roof « Kalwall notes « Sky Therm e Sundu Solar Heater 788 Compendium e The Pegasus Unit « Another energy book e ASE none s"
+    },
+    {
+      "line": 198,
+      "term": "energy",
+      "snippet": "Connections « From Know-How to Nowhere e Gwe -energy economics 87 BRAD Solar Roof « Kalwall notes « Sky Therm e Sundu Solar Heater 788 Compendium e The Pegasus Unit « Another energy book e ASE none s Fall 1975 NTIS on Solar Energy 89 Gemini Synchronous Inverter « Windpower Digest e"
+    },
+    {
+      "line": 207,
+      "term": "energy",
+      "snippet": "ASE none s Fall 1975 NTIS on Solar Energy 89 Gemini Synchronous Inverter « Windpower Digest e Wooden wind-generator blades « Watchman Regulator 90 Drafting Technology & Practice « Steam engines e Dictionary of Scientific and Technical Terms 91 Sunspots 92"
+    },
+    {
+      "line": 221,
+      "term": "community",
+      "snippet": "B Craft Patterns for Guernseys, Jerseys & Arans « Columbine Spinning Wheel e Fricke Carding Machine 93 Community Working in China by Onilie Schell 94 From Field Guide to Western Oregon by David Shetzline 102 South of the Slot by Dan O’Neill 105 : Gay Access by Richard Hall and Dan Allen 106"
+    },
+    {
+      "line": 240,
+      "term": "communications",
+      "snippet": "Snow Camping & Nordic Skiing Gear * Skate sailing 114 Nordic Ski Patrol « Nordic catalogs 115 Communications The Reactive Engine Paper by Terry Winograd 116 System Incoherence by Marc Le Brun 117 From the Command Center: The Mayaguez Incident Brigadier General Donald Sampson on the phone 119"
+    },
+    {
+      "line": 254,
+      "term": "learning",
+      "snippet": "by Carter Henderson 130 Written Letters « More on “constants’’ 135 Learning Show Me! e The Gunter Papers 136 The Way of a Pilgrim * The Tawasin 137 Olson e Martial Arts Supplies 138 a Business CATALOG & EPILOG Changes 139 Financial advicetoCQ 141"
+    },
+    {
+      "line": 368,
+      "term": "energy",
+      "snippet": ": exploitation, no guilt this time. Warfare in general smay be obsolete in Space. There is too vastly much _ free energy, materials, parking Space, and access - _ thousands of times what is on Earth - to be worth -_ fighting over any part of It. Free Space becomes what the oceans have ceased to"
+    },
+    {
+      "line": 453,
+      "term": "energy",
+      "snippet": "_ approve the requisite $100 billion (one-tenth the - cost of Project Independence; 10 times the return in energy alone). Space Colonies show promise of - being able to solve, in order, the Energy Crisis, the Food Crisis, the Arms Race, and the Population Problem. Space Colonies are exciting - more"
+    }
+  ],
+  "opening_lines": [
+    {
+      "line": 1,
+      "text": "ee ee at"
+    },
+    {
+      "line": 4,
+      "text": "From the end cap of ‘‘Model IIT’”’"
+    },
+    {
+      "line": 7,
+      "text": "O’Neil’s Space Colonies"
+    },
+    {
+      "line": 10,
+      "text": "Practical"
+    },
+    {
+      "line": 11,
+      "text": "Desirable"
+    },
+    {
+      "line": 12,
+      "text": "Profitable"
+    },
+    {
+      "line": 14,
+      "text": "Ready in15 years"
+    },
+    {
+      "line": 17,
+      "text": "See p. 4"
+    },
+    {
+      "line": 18,
+      "text": "and back cover"
+    },
+    {
+      "line": 21,
+      "text": "In this issue:"
+    },
+    {
+      "line": 24,
+      "text": "E. F. Schumacher"
+    },
+    {
+      "line": 27,
+      "text": "Jerry Brown,"
+    },
+    {
+      "line": 28,
+      "text": "Governor of California"
+    },
+    {
+      "line": 31,
+      "text": "& Gregory Bateson"
+    },
+    {
+      "line": 32,
+      "text": "Orville Schell in China"
+    },
+    {
+      "line": 33,
+      "text": "David Shetzline fiction"
+    },
+    {
+      "line": 34,
+      "text": "Michael Phillips"
+    },
+    {
+      "line": 36,
+      "text": "Dan O'Neill"
+    },
+    {
+      "line": 39,
+      "text": "Brig. Gen. Sampson"
+    },
+    {
+      "line": 42,
+      "text": "$2.50 Fall 1975"
+    },
+    {
+      "line": 45,
+      "text": "%. a"
+    },
+    {
+      "line": 49,
+      "text": "aera SE we"
+    },
+    {
+      "line": 52,
+      "text": "Road in northern California"
+    },
+    {
+      "line": 55,
+      "text": "Larry Keenan, Yr."
+    },
+    {
+      "line": 72,
+      "text": "YOO CAT MARGE"
+    },
+    {
+      "line": 73,
+      "text": "A SYSTEM... A"
+    },
+    {
+      "line": 74,
+      "text": "SNSTEM MAVAGES"
+    },
+    {
+      "line": 75,
+      "text": "A SYSTEM..."
+    },
+    {
+      "line": 78,
+      "text": "“There COMESA"
+    },
+    {
+      "line": 79,
+      "text": "“TiME WHEN Foo"
+    },
+    {
+      "line": 80,
+      "text": "MUCH (Ss NOT"
+    },
+    {
+      "line": 81,
+      "text": "ENOUGA..."
+    },
+    {
+      "line": 84,
+      "text": "Cover"
+    },
+    {
+      "line": 87,
+      "text": "The front cover shows the inside and the back cover the outside of Model I// O’Neill Space Colonies, which have no"
+    },
+    {
+      "line": 88,
+      "text": "decent reason not to be ready by 2000 AD. Details, pp. 4 - 23."
+    },
+    {
+      "line": 90,
+      "text": "The front cover artist is Don Davis, 22, who has six years of painting and a high. school degree behind him. He does"
+    },
+    {
+      "line": 91,
+      "text": "illustrations for NASA, US Geological Survey, science fiction magazines, and, shortly, backgrounds for the new “Star"
+    },
+    {
+      "line": 92,
+      "text": "Trek” movie being produced by Gene Roddenberry, starring all the original principals of the TV series."
+    },
+    {
+      "line": 94,
+      "text": "The back cover illustration, freely given to us by NASA, is the work of two young men. Mike Przekop, a staffer at"
+    },
+    {
+      "line": 95,
+      "text": "NASA Ames in California, worked out the basic design with an inter-active graphic computer. Rick Guidice of"
+    }
+  ]
+}
