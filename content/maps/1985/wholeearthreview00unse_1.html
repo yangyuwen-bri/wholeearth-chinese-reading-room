@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Whole Earth Review, May 1985 · 中文知识地图</title>
+  <link rel="icon" href="data:,">
+  <style>
+    :root { --ink:#171713; --paper:#ece7da; --panel:rgba(244,239,225,.72); --line:rgba(23,23,19,.18); --muted:#6b6558; --accent:#8368b3; --shadow:0 22px 55px rgba(43,35,22,.18); }
+    *{box-sizing:border-box} body{margin:0;color:var(--ink);background:radial-gradient(circle at 14% 12%, color-mix(in srgb,var(--accent) 24%,transparent), transparent 24rem),radial-gradient(circle at 84% 22%,rgba(57,111,144,.16),transparent 25rem),linear-gradient(90deg,rgba(23,23,19,.04) 1px,transparent 1px),linear-gradient(rgba(23,23,19,.04) 1px,transparent 1px),var(--paper);background-size:auto,auto,28px 28px,28px 28px,auto;font-family:"Iowan Old Style","Songti SC","STSong",Georgia,serif} button{border:0;font:inherit;color:inherit;cursor:pointer}
+    .desk{min-height:100vh;padding:20px;display:grid;grid-template-rows:auto 1fr;gap:16px}.rail{min-height:54px;border-bottom:1px solid rgba(23,23,19,.2);display:grid;grid-template-columns:minmax(220px,1fr) auto;align-items:center;gap:18px}.identity{display:flex;align-items:baseline;flex-wrap:wrap;gap:10px 14px}.stamp{display:inline-flex;align-items:center;min-height:24px;padding:2px 9px;border:1px solid rgba(23,23,19,.28);background:rgba(255,251,239,.55);font-family:"Courier New",monospace;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.08em}.identity strong{font-size:clamp(18px,2.5vw,32px);line-height:.96;font-weight:600}.identity span:last-child{color:var(--muted);font-size:14px}
+    .modes,.issue-jump{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:8px}.issue-jump{margin-top:8px;justify-content:flex-start}.mode,.issue-link{min-height:34px;padding:7px 11px;border:1px solid rgba(23,23,19,.22);background:rgba(255,251,239,.46);font-family:"Courier New",monospace;font-size:12px;transition:transform .2s ease,background .2s ease;text-decoration:none;color:inherit}.mode:hover,.mode.active,.issue-link.active{transform:translateY(-2px);background:var(--ink);color:var(--paper)}
+    .workspace{display:grid;grid-template-columns:minmax(210px,260px) minmax(520px,1fr) minmax(260px,360px);gap:16px;min-height:0}.routes,.inspector{border:1px solid rgba(23,23,19,.18);background:var(--panel);box-shadow:var(--shadow);min-width:0}.routes{display:grid;grid-template-rows:auto 1fr auto;overflow:hidden}.routes h2,.inspector h2{margin:0;padding:15px 16px 11px;font-size:14px;font-family:"Courier New",monospace;text-transform:uppercase;letter-spacing:.09em;border-bottom:1px solid rgba(23,23,19,.17)}
+    .theme-list{overflow-y:auto;overflow-x:visible;padding:10px}.theme{width:100%;max-width:100%;min-width:0;text-align:left;display:grid;grid-template-columns:12px minmax(0,1fr);gap:10px;padding:12px 9px;background:transparent;border-bottom:1px dashed rgba(23,23,19,.18)}.theme i{width:11px;height:11px;margin-top:4px;background:var(--theme-color);transform:rotate(45deg);box-shadow:0 0 0 4px rgba(255,251,239,.62)}.theme-copy b{display:block;font-size:17px;line-height:1.15;font-weight:600}.theme-copy span{display:block;max-width:20ch;margin-top:4px;color:var(--muted);font-size:13px;line-height:1.45;overflow-wrap:anywhere}.theme.active,.theme:hover{background:rgba(255,251,239,.7)}.source-note{margin:0;padding:12px 14px;border-top:1px solid rgba(23,23,19,.17);color:var(--muted);font-size:12px;line-height:1.5;overflow-wrap:anywhere;word-break:break-word}
+    .map-stage{position:relative;overflow:hidden;border:1px solid rgba(23,23,19,.22);background:linear-gradient(115deg,rgba(255,255,255,.26),rgba(255,255,255,0) 44%),repeating-linear-gradient(0deg,rgba(23,23,19,.07) 0 1px,transparent 1px 42px),repeating-linear-gradient(90deg,rgba(23,23,19,.045) 0 1px,transparent 1px 42px),rgba(236,231,218,.78);box-shadow:var(--shadow);min-height:720px}.map-stage:before{content:"";position:absolute;inset:20px;border:1px dashed rgba(23,23,19,.25);pointer-events:none}.orbit-label{position:absolute;left:28px;top:22px;z-index:3;display:flex;gap:8px;align-items:center;font-family:"Courier New",monospace;font-size:12px;text-transform:uppercase;letter-spacing:.07em}.scan-strip{position:absolute;right:26px;top:26px;z-index:3;width:min(27vw,260px);display:grid;grid-template-columns:repeat(4,1fr);gap:6px;opacity:.9}.scan-card{position:relative;display:block;min-height:96px;border:1px solid rgba(23,23,19,.22);background:rgba(255,251,239,.62);overflow:hidden;text-decoration:none;color:inherit}.scan-card img{width:100%;aspect-ratio:3/4;object-fit:cover;display:block}.scan-card span{position:absolute;left:4px;right:4px;bottom:4px;padding:2px 4px;background:rgba(255,251,239,.82);font-family:"Courier New",monospace;font-size:9px;line-height:1.1}.scan-card.missing{display:grid;place-items:center;font-family:"Courier New",monospace;font-size:10px;color:var(--muted)}
+    .connections{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:1}.connections path{fill:none;stroke:rgba(23,23,19,.25);stroke-width:1.1;stroke-dasharray:8 7}.connections path.strong{stroke:var(--accent);stroke-width:2;stroke-dasharray:none}.center{position:absolute;left:50%;top:50%;width:158px;min-height:158px;transform:translate(-50%,-50%);border-radius:999px;background:var(--ink);color:var(--paper);display:grid;place-items:center;text-align:center;z-index:2;box-shadow:0 20px 50px rgba(23,23,19,.24)}.center b{display:block;font-size:25px;line-height:1.05}.center span{display:block;max-width:12ch;margin-top:5px;font-family:"Courier New",monospace;font-size:10px;text-transform:uppercase;letter-spacing:.08em}
+    .nodes{position:absolute;inset:0;z-index:2}.node{position:absolute;left:var(--x);top:var(--y);width:142px;min-height:86px;transform:translate(-50%,-50%) rotate(var(--tilt));border:1px solid rgba(23,23,19,.24);background:rgba(255,251,239,.84);box-shadow:8px 10px 0 color-mix(in srgb,var(--node-color) 42%,transparent);padding:10px 12px;text-align:left;transition:opacity .2s ease,transform .2s ease,box-shadow .2s ease}.node:hover,.node.active{transform:translate(-50%,-50%) rotate(0deg) scale(1.05);background:#fffdf5;z-index:5}.node.dim{opacity:.24;filter:grayscale(.4)}.node b{display:block;font-size:17px;line-height:1.05}.node span{display:block;margin-top:6px;color:var(--muted);font-family:"Courier New",monospace;font-size:11px;line-height:1.15}.node em{display:block;margin-top:7px;color:var(--node-color);font-style:normal;font-family:"Courier New",monospace;font-size:10px;font-weight:700;text-transform:uppercase}
+    .mini-timeline{position:absolute;left:34px;right:34px;bottom:18px;z-index:3;display:grid;grid-template-columns:repeat(var(--cols),minmax(0,1fr));border-top:2px solid rgba(23,23,19,.5)}.phase{position:relative;padding-top:12px;font-size:12px;line-height:1.25;color:var(--muted)}.phase:before{content:"";position:absolute;top:-5px;left:0;width:10px;height:10px;border-radius:999px;background:var(--ink)}
+    .inspector{overflow:auto}.reader-card{padding:18px 16px 16px;border-bottom:1px solid rgba(23,23,19,.17);background:rgba(255,251,239,.54)}.kicker{display:flex;justify-content:space-between;gap:12px;color:var(--muted);font-family:"Courier New",monospace;font-size:11px;text-transform:uppercase}.reader-card h3{margin:12px 0 8px;font-size:clamp(25px,2.7vw,38px);line-height:1.02;font-weight:500}.reader-card p,.field p,.field li{font-size:15px;line-height:1.58}.field{padding:15px 16px;border-bottom:1px solid rgba(23,23,19,.17)}.field b{display:block;margin-bottom:8px;font-family:"Courier New",monospace;font-size:12px;text-transform:uppercase;letter-spacing:.08em}.field p{margin:0}.field ul{margin:0;padding-left:18px}.field li+li{margin-top:6px}.field:empty{display:none}.theme-count{float:right;color:var(--muted);font-family:"Courier New",monospace;font-size:11px}.evidence{padding:16px;background:var(--ink);color:var(--paper)}.evidence a{display:block;color:var(--paper);text-decoration:none;font-size:18px;margin-bottom:10px}.evidence small{display:block;color:rgba(236,231,218,.72);line-height:1.5;font-family:"Courier New",monospace}
+    @media(max-width:1120px){.workspace{grid-template-columns:1fr}.modes{justify-content:flex-start}.map-stage{min-height:980px}.scan-strip{width:190px;right:18px;top:64px}.center{width:142px;min-height:142px}.node{width:126px;min-height:82px}.mini-timeline{grid-template-columns:1fr;border-top:0;left:18px;right:18px}.phase{border-left:2px solid rgba(23,23,19,.55);padding:7px 0 7px 16px}.phase:before{top:12px;left:-6px}}@media(max-width:680px){.desk{padding:12px}.rail{grid-template-columns:minmax(0,1fr);align-items:start}.identity,.modes,.issue-jump{min-width:0}.mode,.issue-link{white-space:normal;max-width:100%;overflow-wrap:anywhere}.map-stage{min-height:auto;overflow:visible;padding:14px}.map-stage:before,.connections,.center,.scan-strip,.mini-timeline{display:none}.orbit-label{position:static;margin-bottom:12px}.nodes{position:static;display:grid;gap:10px}.node{position:relative;left:auto!important;top:auto!important;width:100%;min-height:auto;transform:none!important;overflow-wrap:anywhere}.node:hover,.node.active{transform:translateX(3px)!important}.theme-copy span{max-width:none}}
+  </style>
+</head>
+<body>
+  <script id="map-data" type="application/json">{"issue": {"id": "wholeearthreview00unse_1", "short": "May", "label": "No. 46", "title": "Whole Earth Review, May 1985", "pages": 118, "words": 62185, "flagged": "33 / 118", "accent": "#8368b3", "scanBase": "https://archive.org/download/wholeearthreview00unse_1/page/n{leaf}_w500.jpg", "source": "_local/reading_sources/wholeearthreview00unse_1/map_content_draft.md", "sections": ["这期自己的结构", "中文入口问题"], "center": "行动", "subtitle": "自治实践现场图", "timeline": ["死亡", "尼加拉瓜", "生态系统", "小企业", "黑客伦理", "传播", "平台"], "themes": [["witness", "见证", "死亡、战争和照护经验把工具拉回生存现场。"], ["politics", "政治判断", "宏大意识形态会吞掉具体处境。"], ["systems", "系统观察", "生态球、土地和深生态让系统变得可看见。"], ["selforg", "自组织", "小企业、无政府和黑客伦理测试轻结构。"], ["network", "传播网络", "民间外交、BBS 和读者来信构成平台前夜。"], ["culture", "边缘文化", "朋克、软技术、艺术和旅行是离开默认生活的工具。"]]}, "map": {"subtitle": "自治实践现场图", "center": "行动", "center_sub": "自治实践现场图", "source_note": "依据 _local/reading_sources/wholeearthreview00unse_1/map_content_draft.md；不是全文翻译，节点来自这本自己的草案结构。", "themes": [{"id": "witness", "title": "见证", "text": "死亡、战争和照护经验把工具拉回生存现场。", "color": "#8368b3"}, {"id": "politics", "title": "政治判断", "text": "宏大意识形态会吞掉具体处境。", "color": "#a94f38"}, {"id": "systems", "title": "系统观察", "text": "生态球、土地和深生态让系统变得可看见。", "color": "#4f7d62"}, {"id": "selforg", "title": "自组织", "text": "小企业、无政府和黑客伦理测试轻结构。", "color": "#d8912f"}, {"id": "network", "title": "传播网络", "text": "民间外交、BBS 和读者来信构成平台前夜。", "color": "#a94f38"}, {"id": "culture", "title": "边缘文化", "text": "朋克、软技术、艺术和旅行是离开默认生活的工具。", "color": "#4f7d62"}], "modes": [{"id": "all", "title": "全部", "nodes": null}, {"id": "section-1", "title": "这期自己的结构", "nodes": ["node-0", "node-1", "node-2", "node-3", "node-4", "node-5", "node-6", "node-7"]}, {"id": "section-2", "title": "中文入口问题", "nodes": ["node-8", "node-9", "node-10", "node-11", "node-12", "node-13"]}], "timeline": ["死亡", "尼加拉瓜", "生态系统", "小企业", "黑客伦理", "传播", "平台"], "nodes": [{"id": "node-0", "title": "死亡与见证：从边缘经验开始", "source_title": "死亡与见证：从边缘经验开始", "theme": "witness", "themes": ["witness", "culture", "politics"], "pages": "leaf 1", "leaf": 1, "thumb": "https://archive.org/download/wholeearthreview00unse_1/page/n1_w500.jpg", "claim": "这期从死亡和照护开始，而不是从工具开始。", "role": "开篇把战争、护理院、死亡现场和写作者的自我暴露放在最前面，说明 May 1985 的工具观不是效率优先，而是从边缘经验进入行动判断。读者先被要求面对脆弱、照护和见证，再谈政治、生态和技术。", "objects": ["死亡见证", "战争经验", "护理现场", "边缘经验", "照护伦理"], "links": "连接“尼加拉瓜”，因为政治判断也必须从现场经验出发；连接“边缘文化”，因为这期一直从非中心位置理解工具。", "x": 35, "y": 22, "tilt": "-2deg", "color": "#8368b3"}, {"id": "node-1", "title": "尼加拉瓜：意识形态如何吞掉现实", "source_title": "尼加拉瓜：意识形态如何吞掉现实", "theme": "politics", "themes": ["politics", "witness", "culture"], "pages": "leaf 8", "leaf": 8, "thumb": "https://archive.org/download/wholeearthreview00unse_1/page/n8_w500.jpg", "claim": "现场政治最怕被宏大意识形态提前解释完。", "role": "尼加拉瓜报道不是让读者快速站队，而是展示冷战、革命、美国干预和地方现实如何纠缠。它真正训练的是现场判断：当意识形态语言很响亮时，仍要看具体人、具体制度和具体代价。", "objects": ["尼加拉瓜现场", "冷战干预", "革命国家", "意识形态", "现场判断"], "links": "连接“宏大意识形态要求站队”，因为两者构成同一条政治阅读路径；也连接“死亡与见证”，因为政治判断不能脱离人的经验。", "x": 24, "y": 39, "tilt": "1deg", "color": "#a94f38"}, {"id": "node-2", "title": "时间、土地和生态：系统不是抽象模型", "source_title": "时间、土地和生态：系统不是抽象模型", "theme": "systems", "themes": ["systems", "culture"], "pages": "leaf 15", "leaf": 15, "thumb": "https://archive.org/download/wholeearthreview00unse_1/page/n15_w500.jpg", "claim": "系统不是图表，而是能被时间、土地和生命痕迹看见的东西。", "role": "这组从重拍历史照片、深生态争论、封闭生态球和土地使用进入系统思维。它让系统从抽象模型变成可观察的变化：地貌、污染、植物病害和微生物循环都在提醒读者，生态不是理念，而是长期关系。", "objects": ["历史重拍照片", "深生态", "封闭生态球", "土地使用", "长期变化"], "links": "连接“系统能不能被看见”，因为这一组提供视觉和物质证据；也连接“边缘文化”，因为系统观察会改变生活方式。", "x": 32, "y": 57, "tilt": "-1deg", "color": "#4f7d62"}, {"id": "node-3", "title": "小企业与非正式经济：创业不是商业神话，而是生存技艺", "source_title": "小企业与非正式经济：创业不是商业神话，而是生存技艺", "theme": "selforg", "themes": ["selforg", "culture", "politics"], "pages": "leaf 22", "leaf": 22, "thumb": "https://archive.org/download/wholeearthreview00unse_1/page/n22_w500.jpg", "claim": "小企业在这里不是成功学，而是轻结构的生存技术。", "role": "从意大利小企业网络到鞋带预算创业、邮购生意和个人信息管理，这组讨论的是小规模组织如何降低依赖、保留弹性、把技能变成生计。它关心的是组织形态，不是商业神话。", "objects": ["小企业网络", "低成本创业", "邮购生意", "个人信息管理", "轻结构组织"], "links": "连接“小规模组织为什么更敏捷”，因为两者都在讨论小组织的能力；也连接“黑客伦理”，因为信息经济也在寻找轻结构。", "x": 45, "y": 15, "tilt": "2deg", "color": "#d8912f"}, {"id": "node-4", "title": "黑客会议：信息经济在伦理争论中成形", "source_title": "黑客会议：信息经济在伦理争论中成形", "theme": "selforg", "themes": ["selforg", "culture", "politics"], "pages": "leaf 29", "leaf": 29, "thumb": "scans/wholeearthreview00unse_1_n29_w500.png", "claim": "信息经济从一开始就伴随伦理争论。", "role": "1984 年黑客会议围绕源代码、商业化、知识产权、分享软件、公司控制和个人创造争论。它不是技术圈趣闻，而是后来开源、平台、软件市场和信息自由冲突的早期现场。", "objects": ["黑客伦理", "信息自由", "源代码", "分享软件", "商业化"], "links": "连接“黑客伦理进入市场”，因为这里是价值冲突的起点；也连接“软件更新”，因为伦理很快会落到具体产品和市场。", "x": 17, "y": 62, "tilt": "1.5deg", "color": "#d8912f"}, {"id": "node-5", "title": "传播与和平：个人能否绕开机构去制造连接？", "source_title": "传播与和平：个人能否绕开机构去制造连接？", "theme": "network", "themes": ["network", "witness", "culture"], "pages": "leaf 36", "leaf": 36, "thumb": "scans/wholeearthreview00unse_1_n36_w500.png", "claim": "和平不是抽象愿望，也可以是制造连接的技术。", "role": "从报纸权力、音乐杂志、都市传说到核冬天和跨国科学家沟通，这组把传播当成行动工具。它关心个人和小组织能否绕开大机构，创造信息通道、信任关系和对话条件。", "objects": ["报纸权力", "都市传说", "核冬天", "民间外交", "对话通道"], "links": "连接“杂志怎样变成平台”，因为传播需要媒介结构；也连接“黑客伦理”，因为信息如何流动本身就是政治问题。", "x": 28, "y": 79, "tilt": "-2deg", "color": "#a94f38"}, {"id": "node-6", "title": "边缘文化与生活工具：从背包到东德朋克", "source_title": "边缘文化与生活工具：从背包到东德朋克", "theme": "culture", "themes": ["culture"], "pages": "leaf 43", "leaf": 43, "thumb": "scans/wholeearthreview00unse_1_n43_w500.png", "claim": "边缘文化不是装饰，而是离开默认生活的工具箱。", "role": "旅行、背包、潜水、非电照明、木构建筑、自行车、水电工具之后，杂志进入东德朋克、科技艺术、残障艺术、情色艺术和电影。这种并置说明 Whole Earth 把生活方式、审美和工具能力放在同一张地图里。", "objects": ["背包旅行", "非电照明", "东德朋克", "科技艺术", "残障艺术"], "links": "连接“边缘文化为什么也是工具文化”，因为文化选择也能改变行动能力；也连接“死亡与见证”，因为边缘经验是这期的入口。", "x": 43, "y": 83, "tilt": "1deg", "color": "#4f7d62"}, {"id": "node-7", "title": "软件更新与读者网络：一本杂志如何变成活的工具系统", "source_title": "软件更新与读者网络：一本杂志如何变成活的工具系统", "theme": "network", "themes": ["network", "selforg", "culture"], "pages": "leaf 50", "leaf": 50, "thumb": "scans/wholeearthreview00unse_1_n50_w500.png", "claim": "杂志不是静态文本，而是持续更新的工具平台。", "role": "软件、硬件、写作、表格、项目管理、通信、编程、学习、健康和教育软件更新之后，又接读者回信和编辑部运营说明。这里能看见 Whole Earth 如何从纸本杂志变成一个会维护、反馈和更新的工具系统。", "objects": ["软件目录更新", "读者回信", "编辑运营", "工具平台", "持续维护"], "links": "连接“一本杂志怎样变成平台”，因为这里最能看见平台化的早期形态；也连接“黑客伦理”，因为软件市场需要判断标准。", "x": 58, "y": 82, "tilt": "-1.5deg", "color": "#a94f38"}, {"id": "node-8", "title": "当宏大意识形态要求你站队时，怎样保留现场判断？", "source_title": "当宏大意识形态要求你站队时，怎样保留现场判断？", "theme": "network", "themes": ["network", "culture", "politics"], "pages": "leaf 5-20", "leaf": 5, "thumb": "scans/wholeearthreview00unse_1_n5_w500.png", "claim": "真正困难的政治阅读，是拒绝被迫只选阵营。", "role": "这一读法把尼加拉瓜报道、民间外交和读者争论连起来。它要求读者先看现场、再看对话如何被制造、最后看杂志转向引发的内部争论，从而保留复杂判断，而不是把政治简化成口号。", "objects": ["现场判断", "民间外交", "读者争论", "冷战叙事", "复杂政治"], "links": "连接“尼加拉瓜”主节点，也连接“传播与和平”，因为对话条件是政治判断的一部分。", "x": 72, "y": 73, "tilt": "1.8deg", "color": "#a94f38"}, {"id": "node-9", "title": "系统能不能被看见，而不只是被建模？", "source_title": "系统能不能被看见，而不只是被建模？", "theme": "systems", "themes": ["systems", "culture"], "pages": "leaf 21", "leaf": 21, "thumb": "scans/wholeearthreview00unse_1_n21_w500.png", "claim": "系统思维需要可感的证据，而不只是抽象语言。", "role": "从历史照片、深生态、封闭生态球到土地使用，这条路径让系统变成可看的变化。它帮助读者把“系统”从术语还原成地貌、生命循环、污染和长期维护。", "objects": ["历史照片", "深生态", "生态球", "土地使用", "可见系统"], "links": "连接“时间、土地和生态”，因为它是同一组内容的深读路径；也连接“学习”，因为看见系统本身是一种素养。", "x": 84, "y": 57, "tilt": "-1deg", "color": "#4f7d62"}, {"id": "node-10", "title": "小规模组织为什么可能比大组织更敏捷？", "source_title": "小规模组织为什么可能比大组织更敏捷？", "theme": "selforg", "themes": ["selforg", "culture", "politics"], "pages": "leaf 37-40", "leaf": 37, "thumb": "scans/wholeearthreview00unse_1_n37_w500.png", "claim": "小组织的优势在于弹性、关系和低成本试错。", "role": "意大利小企业网络、低预算创业、邮购生意和个人信息管理放在一起，说明小规模不是落后，而是一种组织策略。它让人用较低成本测试生计、关系和市场，而不是等待大机构许可。", "objects": ["小企业网络", "鞋带预算", "邮购", "个人管理", "弹性组织"], "links": "连接“小企业与非正式经济”，也连接“黑客会议”，因为两者都在寻找轻量组织方式。", "x": 84, "y": 39, "tilt": "1.2deg", "color": "#d8912f"}, {"id": "node-11", "title": "黑客伦理进入市场以后，还能保持什么？", "source_title": "黑客伦理进入市场以后，还能保持什么？", "theme": "network", "themes": ["network", "selforg", "culture"], "pages": "leaf 45-56", "leaf": 45, "thumb": "scans/wholeearthreview00unse_1_n45_w500.png", "claim": "当黑客伦理遇到市场，分享和控制会同时出现。", "role": "这条路径把黑客会议和软件目录更新连起来，讨论信息自由、定价、公司控制、用户组和分享软件如何彼此拉扯。它让中文读者看到开源和平台争议的前史。", "objects": ["黑客伦理", "分享软件", "公司控制", "用户组", "软件市场"], "links": "连接“黑客会议”，因为那里提出价值冲突；连接“软件更新”，因为冲突会落进具体工具。", "x": 74, "y": 22, "tilt": "-2deg", "color": "#a94f38"}, {"id": "node-12", "title": "边缘文化为什么也是工具文化？", "source_title": "边缘文化为什么也是工具文化？", "theme": "culture", "themes": ["culture", "selforg"], "pages": "leaf 75-78", "leaf": 75, "thumb": "scans/wholeearthreview00unse_1_n75_w500.png", "claim": "工具不只改变效率，也改变一个人能进入哪些生活场景。", "role": "背包、潜水、自行车、低技术、朋克、科技艺术和电影共同说明：边缘文化不是附属内容，而是帮助读者离开默认生活的实践工具。它把身体、审美和技术重新接在一起。", "objects": ["背包", "自行车", "朋克", "科技艺术", "生活方式工具"], "links": "连接“边缘文化与生活工具”，也连接“死亡与见证”，因为边缘位置提供不同的现实入口。", "x": 60, "y": 16, "tilt": "1.5deg", "color": "#4f7d62"}, {"id": "node-13", "title": "一本杂志怎样变成平台？", "source_title": "一本杂志怎样变成平台？", "theme": "network", "themes": ["network", "culture"], "pages": "leaf 82-104", "leaf": 82, "thumb": "scans/wholeearthreview00unse_1_n82_w500.png", "claim": "平台化在这里表现为更新、反馈、连接和运营。", "role": "这条路径把软件目录、地方连接、读者回信和运营说明连起来。它显示 Whole Earth 的平台性不来自算法，而来自持续更新、读者参与、工具评测和共同体维护。", "objects": ["软件更新", "地方连接", "读者反馈", "运营说明", "纸本平台"], "links": "连接“软件更新与读者网络”，因为那是平台化最集中的证据；也连接“传播与和平”，因为平台首先是连接机制。", "x": 52, "y": 35, "tilt": "-1deg", "color": "#a94f38"}]}, "issues": [{"id": "wholeearthreview00unse", "short": "Jan", "label": "No. 44", "title": "Whole Earth Review, January 1985", "pages": 108, "flagged": "31 / 108", "accent": "#d35f45", "scanBase": "https://archive.org/download/wholeearthreview00unse/page/n{leaf}_w500.jpg"}, {"id": "wholeearthreview00unse_0", "short": "Mar", "label": "No. 45", "title": "Whole Earth Review, March 1985", "pages": 110, "flagged": "26 / 110", "accent": "#5f8a5f", "scanBase": "https://archive.org/download/wholeearthreview00unse_0/page/n{leaf}_w500.jpg"}, {"id": "wholeearthreview00unse_1", "short": "May", "label": "No. 46", "title": "Whole Earth Review, May 1985", "pages": 118, "flagged": "33 / 118", "accent": "#8368b3", "scanBase": "https://archive.org/download/wholeearthreview00unse_1/page/n{leaf}_w500.jpg"}, {"id": "wholeearthreview00unse_2", "short": "Jul", "label": "No. 47", "title": "Whole Earth Review, July 1985", "pages": 124, "flagged": "45 / 124", "accent": "#3d7f91", "scanBase": "https://archive.org/download/wholeearthreview00unse_2/page/n{leaf}_w500.jpg"}, {"id": "wholeearthreview00unse_3", "short": "Fall", "label": "No. 48", "title": "Whole Earth Review, Fall 1985", "pages": 148, "flagged": "27 / 148", "accent": "#bb6c35", "scanBase": "https://archive.org/download/wholeearthreview00unse_3/page/n{leaf}_w500.jpg"}, {"id": "wholeearthreview00unse_4", "short": "Winter", "label": "No. 49", "title": "Whole Earth Review, Winter 1985", "pages": 146, "flagged": "25 / 146", "accent": "#426f7f", "scanBase": "https://archive.org/download/wholeearthreview00unse_4/page/n{leaf}_w500.jpg"}, {"id": "wholeearthsoftwa00unse_3", "short": "Software", "label": "Software Catalog", "title": "Whole Earth Software Catalog 2.0, Fall 1985", "pages": 228, "flagged": "58 / 228 refined", "accent": "#d8912f", "scanBase": "https://archive.org/download/wholeearthsoftwa00unse_3/page/n{leaf}_w500.jpg"}]}</script>
+  <main class="desk">
+    <header class="rail"><div><div class="identity"><span class="stamp" id="issueLabel"></span><strong id="issueTitle"></strong><span id="issueSubtitle"></span></div><nav class="issue-jump" id="issueJump"></nav></div><nav class="modes" id="modes"></nav></header>
+    <section class="workspace"><aside class="routes"><h2>暗线</h2><div class="theme-list" id="themeList"></div><p class="source-note" id="sourceNote"></p></aside><section class="map-stage" aria-label="知识地图"><div class="orbit-label"><span class="stamp" id="leafCount"></span><span>点击节点看关系</span></div><div class="scan-strip" id="scanStrip"></div><svg class="connections" id="connections"></svg><div class="center"><div><b id="centerTitle"></b><span id="centerSub"></span></div></div><div class="nodes" id="nodes"></div><div class="mini-timeline" id="timeline"></div></section><aside class="inspector"><h2>当前节点</h2><section class="reader-card"><div class="kicker"><span id="panelTheme"></span><span id="panelPages"></span></div><h3 id="panelTitle"></h3><p id="panelClaim"></p></section><section class="field"><b>这一章解决什么问题</b><p id="panelRole"></p></section><section class="field"><b>关键物件</b><ul id="panelObjects"></ul></section><section class="field"><b>连接关系</b><p id="panelLinks"></p></section><section class="evidence"><a id="scanLink" href="#" target="_blank" rel="noreferrer">打开对应扫描页</a><small id="panelEvidence"></small></section></aside></section>
+  </main>
+  <script>
+    const payload = JSON.parse(document.getElementById('map-data').textContent);
+    const issue = payload.issue;
+    const map = payload.map;
+    const nodes = map.nodes;
+    const themes = map.themes;
+    const byId = Object.fromEntries(nodes.map(n => [n.id, n]));
+    const edges = [];
+    for (let i = 0; i < nodes.length - 1; i++) edges.push([nodes[i].id, nodes[i + 1].id]);
+    map.modes.forEach(m => {
+      if (!m.nodes) return;
+      for (let i = 0; i < m.nodes.length - 1; i++) edges.push([m.nodes[i], m.nodes[i + 1]]);
+    });
+    let activeTheme = null;
+    let activeMode = 'all';
+    let activeNode = nodes[Math.min(1, nodes.length - 1)].id;
+    function scan(leaf) { return issue.scanBase.replace('{leaf}', leaf); }
+    function nodeThemes(node) {
+      return node.themes && node.themes.length ? node.themes : [node.theme];
+    }
+    function boot() {
+      document.getElementById('issueLabel').textContent = issue.label;
+      document.getElementById('issueTitle').textContent = issue.title;
+      document.getElementById('issueSubtitle').textContent = map.subtitle;
+      document.getElementById('sourceNote').textContent = map.source_note;
+      document.getElementById('leafCount').textContent = `${issue.pages} leaves`;
+      document.getElementById('centerTitle').textContent = map.center;
+      document.getElementById('centerSub').textContent = map.center_sub;
+      document.documentElement.style.setProperty('--accent', issue.accent);
+      document.getElementById('issueJump').innerHTML = payload.issues.map(item => `<a class="issue-link ${item.id === issue.id ? 'active' : ''}" href="${item.id}.html">${item.short}</a>`).join('');
+      document.getElementById('modes').innerHTML = map.modes.map(m => `<button class="mode ${m.id === activeMode ? 'active' : ''}" data-mode="${m.id}">${m.title}</button>`).join('');
+      document.getElementById('timeline').style.setProperty('--cols', map.timeline.length);
+      document.getElementById('timeline').innerHTML = map.timeline.map(x => `<div class="phase">${x}</div>`).join('');
+      document.getElementById('scanStrip').innerHTML = nodes.slice(0, 4).map(n => `<a class="scan-card" href="${scan(n.leaf)}" target="_blank" rel="noreferrer"><img src="${n.thumb}" alt="${n.pages}" loading="eager"><span>${n.pages}</span></a>`).join('');
+      document.querySelectorAll('.scan-card img').forEach(img => {
+        img.onerror = () => {
+          img.closest('.scan-card').classList.add('missing');
+          img.closest('.scan-card').textContent = 'scan';
+        };
+      });
+    }
+    function renderThemes() {
+      themeList.innerHTML = '';
+      themes.forEach(t => {
+        const count = nodes.filter(n => nodeThemes(n).includes(t.id)).length;
+        const b = document.createElement('button');
+        b.className = 'theme';
+        b.style.setProperty('--theme-color', t.color);
+        b.dataset.theme = t.id;
+        b.innerHTML = `<i></i><div class="theme-copy"><b>${t.title}<span class="theme-count">${count}</span></b><span>${t.text}</span></div>`;
+        b.onclick = () => {
+          activeTheme = activeTheme === t.id ? null : t.id;
+          update();
+        };
+        themeList.appendChild(b);
+      });
+    }
+    function renderNodes() {
+      nodesEl = document.getElementById('nodes');
+      nodesEl.innerHTML = '';
+      nodes.forEach(n => {
+        const b = document.createElement('button');
+        b.className = 'node';
+        b.type = 'button';
+        b.dataset.id = n.id;
+        b.dataset.theme = n.theme;
+        b.style.left = `${n.x}%`;
+        b.style.top = `${n.y}%`;
+        b.style.setProperty('--tilt', n.tilt);
+        b.style.setProperty('--node-color', n.color);
+        const theme = themes.find(t => t.id === n.theme);
+        b.innerHTML = `<b>${n.title}</b><span>${n.pages}</span><em>${theme ? theme.title : n.theme}</em>`;
+        b.onclick = () => setNode(n.id);
+        nodesEl.appendChild(b);
+      });
+    }
+    function drawEdges() {
+      const svg = document.getElementById('connections');
+      svg.innerHTML = '';
+      const st = svg.getBoundingClientRect();
+      if (!st.width || matchMedia('(max-width:680px)').matches) return;
+      const c = { x: st.width / 2, y: st.height / 2 };
+      const seen = new Set();
+      edges.forEach(([f, t]) => {
+        const k = f + '>' + t;
+        if (seen.has(k)) return;
+        seen.add(k);
+        const a = document.querySelector(`.node[data-id="${f}"]`);
+        const b = document.querySelector(`.node[data-id="${t}"]`);
+        if (!a || !b) return;
+        const ar = a.getBoundingClientRect();
+        const br = b.getBoundingClientRect();
+        const ax = ar.left + ar.width / 2 - st.left;
+        const ay = ar.top + ar.height / 2 - st.top;
+        const bx = br.left + br.width / 2 - st.left;
+        const by = br.top + br.height / 2 - st.top;
+        const p = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+        p.setAttribute('d', `M ${ax} ${ay} Q ${c.x} ${c.y} ${bx} ${by}`);
+        if (f === activeNode || t === activeNode) p.classList.add('strong');
+        svg.appendChild(p);
+      });
+    }
+    function setNode(id) {
+      activeNode = id;
+      const n = byId[id] || nodes[0];
+      const theme = themes.find(t => t.id === n.theme) || { title: n.theme };
+      panelTheme.textContent = nodeThemes(n).map(id => (themes.find(t => t.id === id) || { title: id }).title).join(' / ');
+      panelPages.textContent = n.pages;
+      panelTitle.textContent = n.title;
+      panelClaim.textContent = n.claim;
+      panelRole.textContent = n.role;
+      panelObjects.innerHTML = n.objects.map(object => `<li>${object}</li>`).join('');
+      panelLinks.textContent = n.links;
+      scanLink.href = scan(n.leaf);
+      panelEvidence.textContent = `${n.pages} / 原始扫描图可用来复核 OCR、版式和图像。`;
+      update();
+      drawEdges();
+    }
+    function update() {
+      const mode = map.modes.find(m => m.id === activeMode) || map.modes[0];
+      const filter = mode.nodes ? new Set(mode.nodes) : null;
+      document.querySelectorAll('.theme').forEach(b => b.classList.toggle('active', activeTheme === b.dataset.theme));
+      document.querySelectorAll('.node').forEach(b => {
+        const n = byId[b.dataset.id];
+        const hide = (activeTheme && !nodeThemes(n).includes(activeTheme)) || (filter && !filter.has(n.id));
+        b.classList.toggle('dim', hide);
+        b.classList.toggle('active', n.id === activeNode);
+      });
+    }
+    document.addEventListener('click', e => {
+      const b = e.target.closest('.mode');
+      if (!b) return;
+      activeMode = b.dataset.mode;
+      document.querySelectorAll('.mode').forEach(x => x.classList.remove('active'));
+      b.classList.add('active');
+      update();
+    });
+    boot();
+    renderThemes();
+    renderNodes();
+    setNode(activeNode);
+    addEventListener('resize', drawEdges);
+  </script>
+</body>
+</html>

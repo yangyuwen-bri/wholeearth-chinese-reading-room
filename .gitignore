@@ -9,6 +9,9 @@ work/
 
 # Runtime logs.
 *.log
+.env
+.env.*
+!.env.example
 
 # Design experiments and screenshot QA artifacts.
 *_qa.png

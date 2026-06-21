@@ -1,0 +1,844 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Whole Earth Mission Control Prototype</title>
+  <link rel="icon" href="data:,">
+  <style>
+    :root {
+      --bg: #070806;
+      --panel: rgba(16, 19, 15, .78);
+      --panel-strong: rgba(22, 26, 20, .92);
+      --line: rgba(183, 218, 159, .22);
+      --line-hot: rgba(221, 184, 87, .72);
+      --text: #f4edd0;
+      --muted: #9fab91;
+      --green: #8fd978;
+      --amber: #d7a746;
+      --red: #c7644d;
+      --blue: #66b3c5;
+      --violet: #9b88cf;
+      --mono: "Courier New", ui-monospace, monospace;
+      --serif: "Iowan Old Style", "Songti SC", "STSong", Georgia, serif;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      overflow: hidden;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 50% 52%, rgba(116, 166, 89, .2), transparent 23rem),
+        radial-gradient(circle at 70% 20%, rgba(215, 167, 70, .13), transparent 18rem),
+        linear-gradient(90deg, rgba(143, 217, 120, .035) 1px, transparent 1px),
+        linear-gradient(rgba(143, 217, 120, .035) 1px, transparent 1px),
+        var(--bg);
+      background-size: auto, auto, 28px 28px, 28px 28px, auto;
+      font-family: var(--serif);
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background:
+        repeating-linear-gradient(0deg, rgba(255,255,255,.035) 0 1px, transparent 1px 4px),
+        radial-gradient(circle, transparent 40%, rgba(0,0,0,.48));
+      mix-blend-mode: screen;
+      opacity: .46;
+      z-index: 20;
+    }
+
+    button, input { font: inherit; color: inherit; }
+    button { cursor: pointer; }
+
+    .shell {
+      height: 100vh;
+      padding: 18px;
+      display: grid;
+      grid-template-columns: 260px minmax(520px, 1fr) 330px;
+      grid-template-rows: 62px minmax(0, 1fr) 112px;
+      gap: 12px;
+    }
+
+    .topbar,
+    .panel,
+    .timeline {
+      border: 1px solid var(--line);
+      background: var(--panel);
+      box-shadow: inset 0 0 26px rgba(143, 217, 120, .055), 0 18px 52px rgba(0,0,0,.36);
+      backdrop-filter: blur(10px);
+    }
+
+    .topbar {
+      grid-column: 1 / 4;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: center;
+      padding: 10px 14px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .topbar::after {
+      content: "";
+      position: absolute;
+      left: -20%;
+      top: 0;
+      width: 24%;
+      height: 100%;
+      background: linear-gradient(90deg, transparent, rgba(143,217,120,.18), transparent);
+      animation: scanbar 4.8s linear infinite;
+    }
+
+    .idline {
+      display: flex;
+      gap: 14px;
+      align-items: baseline;
+      min-width: 0;
+      position: relative;
+      z-index: 1;
+    }
+
+    .stamp {
+      border: 1px solid rgba(215, 167, 70, .48);
+      color: #ffe2a2;
+      padding: 5px 8px;
+      font-family: var(--mono);
+      font-size: 12px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(24px, 3vw, 44px);
+      line-height: .9;
+      font-weight: 500;
+      letter-spacing: 0;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .telemetry {
+      display: flex;
+      gap: 18px;
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--muted);
+      position: relative;
+      z-index: 1;
+    }
+
+    .telemetry b {
+      display: block;
+      color: var(--text);
+      font-size: 18px;
+      line-height: 1;
+      text-align: right;
+    }
+
+    .panel h2 {
+      margin: 0;
+      padding: 12px 13px 10px;
+      border-bottom: 1px solid var(--line);
+      font-family: var(--mono);
+      color: #dcefc7;
+      font-size: 12px;
+      letter-spacing: .11em;
+      text-transform: uppercase;
+    }
+
+    .channels {
+      min-height: 0;
+      display: grid;
+      grid-template-rows: auto 1fr;
+      overflow: hidden;
+    }
+
+    .channel-list {
+      padding: 9px;
+      overflow-y: auto;
+    }
+
+    .channel {
+      width: 100%;
+      display: grid;
+      grid-template-columns: 12px minmax(0, 1fr) auto;
+      gap: 10px;
+      align-items: center;
+      border: 0;
+      border-bottom: 1px dashed rgba(183, 218, 159, .18);
+      background: transparent;
+      padding: 12px 8px;
+      text-align: left;
+    }
+
+    .channel i {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: var(--tone);
+      box-shadow: 0 0 12px var(--tone);
+    }
+
+    .channel strong {
+      display: block;
+      font-size: 17px;
+      line-height: 1.08;
+    }
+
+    .channel small {
+      display: block;
+      margin-top: 4px;
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 11px;
+      line-height: 1.25;
+    }
+
+    .channel b {
+      font-family: var(--mono);
+      color: var(--tone);
+      font-size: 18px;
+    }
+
+    .channel.active,
+    .channel:hover {
+      background: linear-gradient(90deg, color-mix(in srgb, var(--tone) 20%, transparent), transparent);
+    }
+
+    .stage {
+      position: relative;
+      min-height: 0;
+      border: 1px solid var(--line);
+      background:
+        radial-gradient(circle at 50% 50%, rgba(143,217,120,.12), transparent 17rem),
+        rgba(4, 6, 5, .72);
+      overflow: hidden;
+    }
+
+    .stage::before,
+    .stage::after {
+      content: "";
+      position: absolute;
+      inset: 8%;
+      border: 1px dashed rgba(143,217,120,.18);
+      border-radius: 50%;
+      animation: rotate 34s linear infinite;
+    }
+
+    .stage::after {
+      inset: 18%;
+      animation-duration: 23s;
+      animation-direction: reverse;
+    }
+
+    #globe {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    .reticle {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: min(42vw, 520px);
+      aspect-ratio: 1;
+      transform: translate(-50%, -50%);
+      border-radius: 50%;
+      border: 1px solid rgba(215, 167, 70, .28);
+      pointer-events: none;
+    }
+
+    .reticle::before,
+    .reticle::after {
+      content: "";
+      position: absolute;
+      background: rgba(215, 167, 70, .28);
+    }
+
+    .reticle::before { left: 50%; top: -7%; bottom: -7%; width: 1px; }
+    .reticle::after { top: 50%; left: -7%; right: -7%; height: 1px; }
+
+    .satellites {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+    }
+
+    .sat {
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      width: 9px;
+      height: 9px;
+      border: 1px solid rgba(255,255,255,.48);
+      background: var(--tone);
+      box-shadow: 0 0 15px var(--tone);
+      transform: translate(var(--x), var(--y)) rotate(45deg);
+      opacity: var(--alpha);
+    }
+
+    .sat.major {
+      width: 16px;
+      height: 22px;
+      border-radius: 1px;
+      transform: translate(var(--x), var(--y)) rotate(var(--tilt));
+      background: color-mix(in srgb, var(--tone) 64%, #fff2bd);
+    }
+
+    .signal-card {
+      min-height: 0;
+      overflow: hidden;
+      display: grid;
+      grid-template-rows: auto auto 1fr auto;
+    }
+
+    .current {
+      padding: 16px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .current .kicker {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .current h3 {
+      margin: 12px 0 10px;
+      font-size: clamp(30px, 3.2vw, 48px);
+      line-height: .93;
+      font-weight: 500;
+    }
+
+    .current p {
+      margin: 0;
+      color: #d7dec3;
+      font-size: 15px;
+      line-height: 1.62;
+    }
+
+    .signal-meta {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .signal-meta div {
+      padding: 12px;
+      border-right: 1px solid var(--line);
+    }
+
+    .signal-meta div:nth-child(2n) { border-right: 0; }
+    .signal-meta b {
+      display: block;
+      font-family: var(--mono);
+      color: var(--amber);
+      font-size: 18px;
+    }
+    .signal-meta span {
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 11px;
+      text-transform: uppercase;
+    }
+
+    .log {
+      min-height: 0;
+      overflow-y: auto;
+      padding: 8px;
+    }
+
+    .log button {
+      width: 100%;
+      display: grid;
+      grid-template-columns: 40px minmax(0, 1fr);
+      gap: 9px;
+      align-items: center;
+      border: 0;
+      border-bottom: 1px dashed rgba(183, 218, 159, .16);
+      background: transparent;
+      padding: 8px 4px;
+      text-align: left;
+    }
+
+    .log button:hover,
+    .log button.active {
+      background: rgba(143,217,120,.08);
+    }
+
+    .log em {
+      font-family: var(--mono);
+      color: var(--amber);
+      font-size: 12px;
+      font-style: normal;
+    }
+
+    .log strong {
+      display: block;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      font-size: 14px;
+    }
+
+    .log small {
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 10px;
+    }
+
+    .open {
+      padding: 13px 16px;
+      border-top: 1px solid var(--line);
+      background: rgba(0,0,0,.3);
+    }
+
+    .open a {
+      display: inline-flex;
+      width: 100%;
+      justify-content: center;
+      border: 1px solid rgba(215, 167, 70, .5);
+      color: #ffe2a2;
+      text-decoration: none;
+      padding: 10px;
+      font-family: var(--mono);
+      font-size: 12px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .timeline {
+      grid-column: 1 / 4;
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      gap: 14px;
+      align-items: center;
+      padding: 13px 14px;
+    }
+
+    .year-readout {
+      font-family: var(--mono);
+      min-width: 120px;
+    }
+
+    .year-readout b {
+      display: block;
+      color: var(--amber);
+      font-size: 30px;
+      line-height: .9;
+    }
+
+    .year-readout span {
+      color: var(--muted);
+      font-size: 11px;
+      text-transform: uppercase;
+    }
+
+    .dial {
+      position: relative;
+      height: 72px;
+      border-left: 1px solid var(--line);
+      border-right: 1px solid var(--line);
+      overflow: hidden;
+    }
+
+    .year-bars {
+      position: absolute;
+      inset: 8px 0 18px;
+      display: grid;
+      grid-template-columns: repeat(var(--years), 1fr);
+      align-items: end;
+      gap: 3px;
+      padding: 0 6px;
+    }
+
+    .bar {
+      min-width: 8px;
+      background: rgba(143,217,120,.3);
+      border-top: 1px solid rgba(255,255,255,.3);
+      height: var(--h);
+    }
+
+    .ticks {
+      position: absolute;
+      left: 6px;
+      right: 6px;
+      bottom: 0;
+      display: grid;
+      grid-template-columns: repeat(var(--years), 1fr);
+      color: var(--muted);
+      font-family: var(--mono);
+      font-size: 10px;
+    }
+
+    .ticks span {
+      overflow: visible;
+      white-space: nowrap;
+    }
+
+    input[type="range"] {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      opacity: 0;
+      cursor: ew-resize;
+    }
+
+    .beam {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      left: var(--beam);
+      background: var(--amber);
+      box-shadow: 0 0 18px var(--amber);
+      pointer-events: none;
+    }
+
+    .mode-buttons {
+      display: flex;
+      gap: 8px;
+    }
+
+    .mode-buttons button {
+      border: 1px solid var(--line);
+      background: rgba(143,217,120,.06);
+      padding: 9px 11px;
+      font-family: var(--mono);
+      font-size: 12px;
+      text-transform: uppercase;
+    }
+
+    .mode-buttons button.active {
+      color: #111;
+      background: var(--amber);
+      border-color: var(--amber);
+    }
+
+    @keyframes rotate { to { transform: rotate(360deg); } }
+    @keyframes scanbar { to { left: 110%; } }
+
+    @media (max-width: 1080px) {
+      body { overflow: auto; }
+      .shell {
+        height: auto;
+        min-height: 100vh;
+        grid-template-columns: 1fr;
+        grid-template-rows: auto auto min(72vh, 720px) auto auto;
+      }
+      .topbar, .timeline { grid-column: 1; }
+      .telemetry { display: none; }
+      .stage { min-height: 620px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div class="idline">
+        <span class="stamp">WHOLE EARTH SIGNAL ROOM</span>
+        <h1>Mission Control / 出版轨道</h1>
+      </div>
+      <div class="telemetry">
+        <span><b id="totalCount">147</b>OBJECTS</span>
+        <span><b id="yearSpan">1968-2002</b>RANGE</span>
+        <span><b id="visibleCount">0</b>VISIBLE</span>
+      </div>
+    </header>
+
+    <aside class="panel channels">
+      <h2>Channels</h2>
+      <div class="channel-list" id="channels"></div>
+    </aside>
+
+    <section class="stage" aria-label="Animated publication orbit">
+      <canvas id="globe"></canvas>
+      <div class="reticle"></div>
+      <div class="satellites" id="satellites"></div>
+    </section>
+
+    <aside class="panel signal-card">
+      <h2>Current Signal</h2>
+      <section class="current">
+        <div class="kicker"><span id="signalSeries">series</span><span id="signalYear">year</span></div>
+        <h3 id="signalTitle">Loading signal</h3>
+        <p id="signalText">正在读取本地 Whole Earth 索引。</p>
+      </section>
+      <section class="signal-meta">
+        <div><b id="signalPages">-</b><span>pages</span></div>
+        <div><b id="signalTopics">-</b><span>topics</span></div>
+      </section>
+      <section class="log" id="signalLog"></section>
+      <section class="open"><a id="scanLink" href="#" target="_blank" rel="noreferrer">OPEN ORIGINAL SCAN</a></section>
+    </aside>
+
+    <footer class="timeline">
+      <div class="year-readout"><b id="yearReadout">ALL</b><span>frequency</span></div>
+      <div class="dial" id="dial">
+        <div class="year-bars" id="yearBars"></div>
+        <div class="beam" id="beam"></div>
+        <div class="ticks" id="ticks"></div>
+        <input id="yearRange" type="range" min="1968" max="2002" step="1" value="2002" aria-label="year">
+      </div>
+      <div class="mode-buttons">
+        <button class="active" id="allYears">all years</button>
+        <button id="lockYear">lock year</button>
+      </div>
+    </footer>
+  </main>
+
+  <script>
+    const colorBySeries = {
+      "Whole Earth 目录系列": "#c7683d",
+      "共同进化季刊": "#557b55",
+      "Whole Earth Review": "#66b3c5",
+      "软件目录与评论": "#d9952f",
+      "Whole Earth Magazine": "#9b88cf",
+      "专题出版物": "#c7644d",
+    };
+
+    const canvas = document.getElementById("globe");
+    const ctx = canvas.getContext("2d");
+    const satellites = document.getElementById("satellites");
+    const channels = document.getElementById("channels");
+    const yearRange = document.getElementById("yearRange");
+    const yearReadout = document.getElementById("yearReadout");
+    const beam = document.getElementById("beam");
+    const yearBars = document.getElementById("yearBars");
+    const ticks = document.getElementById("ticks");
+    const signalLog = document.getElementById("signalLog");
+    const allYearsButton = document.getElementById("allYears");
+    const lockYearButton = document.getElementById("lockYear");
+
+    let stats;
+    let activeSeries = null;
+    let lockedYear = null;
+    let activeIssue = null;
+    let phase = 0;
+    let satellitesData = [];
+
+    function esc(value) {
+      return String(value ?? "").replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[ch]));
+    }
+
+    function resizeCanvas() {
+      const box = canvas.getBoundingClientRect();
+      const dpr = Math.min(devicePixelRatio || 1, 2);
+      canvas.width = Math.max(1, Math.floor(box.width * dpr));
+      canvas.height = Math.max(1, Math.floor(box.height * dpr));
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    }
+
+    function visibleIssues() {
+      return stats.issues.filter(issue => {
+        if (activeSeries && issue.collection !== activeSeries) return false;
+        if (lockedYear && issue.year !== lockedYear) return false;
+        return true;
+      });
+    }
+
+    function setActiveIssue(issue) {
+      activeIssue = issue || visibleIssues()[0] || stats.issues[0];
+      document.getElementById("signalSeries").textContent = activeIssue.collection;
+      document.getElementById("signalYear").textContent = [activeIssue.year, activeIssue.season].filter(Boolean).join(" ");
+      document.getElementById("signalTitle").textContent = activeIssue.title;
+      document.getElementById("signalText").textContent = activeIssue.content_map?.length
+        ? `目录信号：${activeIssue.content_map.slice(0, 5).map(x => x.title).join(" / ")}`
+        : "这本在索引中暂无稳定目录入口，需要回到原始扫描继续整理。";
+      document.getElementById("signalPages").textContent = activeIssue.pages || "-";
+      document.getElementById("signalTopics").textContent = activeIssue.topics?.length || 0;
+      document.getElementById("scanLink").href = activeIssue.archive_url || activeIssue.url || "#";
+      renderLog();
+      renderSatellites();
+    }
+
+    function renderChannels() {
+      channels.innerHTML = stats.series.map(s => `
+        <button class="channel ${activeSeries === s.collection ? "active" : ""}" data-series="${esc(s.collection)}" style="--tone:${s.color}">
+          <i></i>
+          <span><strong>${esc(s.zh)}</strong><small>${s.count} 本 · ${s.year_min}-${s.year_max}</small></span>
+          <b>${s.count}</b>
+        </button>
+      `).join("");
+      channels.querySelectorAll(".channel").forEach(button => {
+        button.onclick = () => {
+          activeSeries = activeSeries === button.dataset.series ? null : button.dataset.series;
+          setActiveIssue(visibleIssues()[0]);
+          update();
+        };
+      });
+    }
+
+    function renderTimeline() {
+      const years = [];
+      for (let y = stats.year_min; y <= stats.year_max; y++) years.push(y);
+      yearBars.style.setProperty("--years", years.length);
+      ticks.style.setProperty("--years", years.length);
+      const maxTotal = Math.max(...stats.yearly.map(x => x.total));
+      const byYear = Object.fromEntries(stats.yearly.map(x => [x.year, x.total]));
+      yearBars.innerHTML = years.map(y => `<i class="bar" style="--h:${Math.max(6, (byYear[y] || 0) / maxTotal * 58)}px"></i>`).join("");
+      ticks.innerHTML = years.map(y => `<span>${y % 5 === 0 ? y : ""}</span>`).join("");
+    }
+
+    function renderLog() {
+      const list = visibleIssues();
+      document.getElementById("visibleCount").textContent = list.length;
+      signalLog.innerHTML = list.map(issue => `
+        <button class="${activeIssue && issue.identifier === activeIssue.identifier ? "active" : ""}" data-id="${esc(issue.identifier)}">
+          <em>${issue.year}</em>
+          <span><strong>${esc(issue.title)}</strong><small>${esc(issue.collection)} · ${(issue.topics || []).join(" / ")}</small></span>
+        </button>
+      `).join("");
+      signalLog.querySelectorAll("button").forEach(button => {
+        button.onclick = () => setActiveIssue(stats.issues.find(issue => issue.identifier === button.dataset.id));
+      });
+    }
+
+    function renderSatellites() {
+      const list = visibleIssues();
+      satellitesData = list.map((issue, index) => {
+        const seriesIndex = stats.series.findIndex(s => s.collection === issue.collection);
+        const angle = (index / Math.max(1, list.length)) * Math.PI * 2 + seriesIndex * .42;
+        const radius = 156 + (seriesIndex % 6) * 34 + ((issue.year - stats.year_min) % 5) * 8;
+        return { issue, angle, radius, seriesIndex };
+      });
+      satellites.innerHTML = satellitesData.map((sat, index) => {
+        const major = activeIssue && sat.issue.identifier === activeIssue.identifier;
+        return `<button class="sat ${major ? "major" : ""}" data-index="${index}" style="--tone:${colorBySeries[sat.issue.collection] || "#8fd978"};--x:0px;--y:0px;--tilt:${(index % 9 - 4) * 4}deg;--alpha:${major ? 1 : .62}" title="${esc(sat.issue.title)}"></button>`;
+      }).join("");
+      satellites.querySelectorAll(".sat").forEach(el => {
+        el.onclick = () => setActiveIssue(satellitesData[Number(el.dataset.index)].issue);
+      });
+    }
+
+    function update() {
+      renderChannels();
+      renderLog();
+      renderSatellites();
+    }
+
+    function drawGlobe() {
+      const w = canvas.clientWidth;
+      const h = canvas.clientHeight;
+      const cx = w / 2;
+      const cy = h / 2;
+      const r = Math.min(w, h) * .22;
+      phase += .008;
+      ctx.clearRect(0, 0, w, h);
+
+      const sweep = ctx.createRadialGradient(cx, cy, r * .12, cx, cy, r * 1.38);
+      sweep.addColorStop(0, "rgba(143,217,120,.2)");
+      sweep.addColorStop(.55, "rgba(143,217,120,.05)");
+      sweep.addColorStop(1, "rgba(0,0,0,0)");
+      ctx.fillStyle = sweep;
+      ctx.beginPath();
+      ctx.arc(cx, cy, r * 1.55, 0, Math.PI * 2);
+      ctx.fill();
+
+      ctx.save();
+      ctx.translate(cx, cy);
+      ctx.strokeStyle = "rgba(143,217,120,.58)";
+      ctx.lineWidth = 1;
+      ctx.beginPath();
+      ctx.arc(0, 0, r, 0, Math.PI * 2);
+      ctx.stroke();
+
+      for (let lat = -60; lat <= 60; lat += 20) {
+        const y = Math.sin(lat * Math.PI / 180) * r;
+        const rr = Math.cos(lat * Math.PI / 180) * r;
+        ctx.beginPath();
+        ctx.ellipse(0, y, rr, rr * .18, 0, 0, Math.PI * 2);
+        ctx.strokeStyle = "rgba(143,217,120,.28)";
+        ctx.stroke();
+      }
+
+      for (let lon = 0; lon < 180; lon += 20) {
+        ctx.beginPath();
+        ctx.ellipse(0, 0, r * Math.abs(Math.cos(phase + lon * Math.PI / 180)), r, 0, 0, Math.PI * 2);
+        ctx.strokeStyle = "rgba(143,217,120,.22)";
+        ctx.stroke();
+      }
+
+      const sweepAngle = phase * 1.7;
+      ctx.rotate(sweepAngle);
+      ctx.beginPath();
+      ctx.moveTo(0, 0);
+      ctx.arc(0, 0, r * 1.28, -.13, .13);
+      ctx.closePath();
+      ctx.fillStyle = "rgba(215,167,70,.16)";
+      ctx.fill();
+      ctx.restore();
+
+      satellitesData.forEach((sat, index) => {
+        const a = sat.angle + phase * (.24 + sat.seriesIndex * .025);
+        const x = Math.cos(a) * sat.radius;
+        const y = Math.sin(a) * sat.radius * .48;
+        const el = satellites.children[index];
+        if (el) {
+          el.style.setProperty("--x", `${x}px`);
+          el.style.setProperty("--y", `${y}px`);
+        }
+        ctx.beginPath();
+        ctx.ellipse(cx, cy, sat.radius, sat.radius * .48, 0, 0, Math.PI * 2);
+        ctx.strokeStyle = "rgba(183,218,159,.08)";
+        ctx.stroke();
+      });
+
+      requestAnimationFrame(drawGlobe);
+    }
+
+    function applyYearLock(year) {
+      lockedYear = year;
+      yearReadout.textContent = year ? String(year) : "ALL";
+      const pct = (Number(yearRange.value) - Number(yearRange.min)) / (Number(yearRange.max) - Number(yearRange.min)) * 100;
+      beam.style.setProperty("--beam", `${pct}%`);
+      allYearsButton.classList.toggle("active", !lockedYear);
+      lockYearButton.classList.toggle("active", !!lockedYear);
+      setActiveIssue(visibleIssues()[0]);
+      update();
+    }
+
+    async function boot() {
+      stats = await fetch("../data/wholeearth_macro_stats.json").then(r => r.json());
+      document.getElementById("totalCount").textContent = stats.total;
+      document.getElementById("yearSpan").textContent = `${stats.year_min}-${stats.year_max}`;
+      yearRange.min = stats.year_min;
+      yearRange.max = stats.year_max;
+      yearRange.value = stats.year_max;
+      renderTimeline();
+      setActiveIssue(stats.issues[0]);
+      update();
+      resizeCanvas();
+      drawGlobe();
+    }
+
+    yearRange.addEventListener("input", e => {
+      const year = Number(e.target.value);
+      yearReadout.textContent = lockedYear ? String(year) : "ALL";
+      const pct = (year - Number(yearRange.min)) / (Number(yearRange.max) - Number(yearRange.min)) * 100;
+      beam.style.setProperty("--beam", `${pct}%`);
+      if (lockedYear) applyYearLock(year);
+    });
+    lockYearButton.onclick = () => applyYearLock(Number(yearRange.value));
+    allYearsButton.onclick = () => applyYearLock(null);
+    addEventListener("resize", resizeCanvas);
+    boot();
+  </script>
+</body>
+</html>
