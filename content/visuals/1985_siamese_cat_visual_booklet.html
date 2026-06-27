@@ -1,0 +1,659 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>个人计算机现场：1985</title>
+  <style>
+    :root {
+      --paper: #f5eddd;
+      --ink: #241c15;
+      --muted: #746b5e;
+      --line: #c9bda8;
+      --blue: #245c83;
+      --seal: #3b2a20;
+      --tan: #d9c49e;
+      --white: #fffaf0;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        linear-gradient(rgba(36, 28, 21, 0.025) 1px, transparent 1px),
+        var(--paper);
+      background-size: 100% 24px;
+      font-family: "Iowan Old Style", "Songti SC", "STSong", Georgia, serif;
+      line-height: 1.65;
+      overflow-x: hidden;
+    }
+
+    a {
+      color: inherit;
+      text-decoration-color: var(--blue);
+      text-decoration-thickness: 1px;
+      text-underline-offset: 3px;
+    }
+
+    .book {
+      display: grid;
+      grid-template-columns: 248px minmax(0, 1fr);
+      min-height: 100vh;
+      max-width: 100%;
+      overflow-x: hidden;
+    }
+
+    .toc {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      padding: 28px 22px;
+      border-right: 1px solid var(--line);
+      background: rgba(245, 237, 221, 0.94);
+      overflow: auto;
+    }
+
+    .toc h2 {
+      margin: 0 0 8px;
+      color: var(--blue);
+      font-size: 18px;
+      line-height: 1.2;
+      letter-spacing: 0;
+    }
+
+    .toc p {
+      margin: 0 0 18px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.5;
+    }
+
+    .toc ol {
+      list-style: decimal-leading-zero;
+      margin: 0;
+      padding-left: 28px;
+      font-size: 14px;
+    }
+
+    .toc li {
+      margin: 0 0 8px;
+      padding-left: 2px;
+    }
+
+    .content {
+      min-width: 0;
+    }
+
+    .toc,
+    .cover,
+    .chapter,
+    .note,
+    .chapter figure {
+      min-width: 0;
+    }
+
+    h1,
+    h2,
+    .kicker,
+    .toc p,
+    .anchor,
+    .reader-note,
+    .range,
+    .meta-strip span {
+      overflow-wrap: anywhere;
+      word-break: break-word;
+    }
+
+    .cover {
+      min-height: 82vh;
+      display: grid;
+      align-content: center;
+      gap: 24px;
+      padding: 64px clamp(24px, 5vw, 72px);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .kicker {
+      color: var(--blue);
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    h1 {
+      max-width: 900px;
+      margin: 0;
+      font-size: clamp(42px, 7vw, 88px);
+      line-height: 0.98;
+      letter-spacing: 0;
+      font-weight: 600;
+    }
+
+    .cover .lede {
+      max-width: 860px;
+      margin: 0;
+      font-size: 22px;
+      line-height: 1.55;
+    }
+
+    .meta-strip {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 8px;
+      min-width: 0;
+    }
+
+    .meta-strip span {
+      border: 1px solid var(--line);
+      background: rgba(255, 250, 240, 0.55);
+      padding: 6px 10px;
+      font-size: 13px;
+      min-width: 0;
+      max-width: 100%;
+    }
+
+    .chapter {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(280px, 360px);
+      gap: clamp(24px, 4vw, 54px);
+      align-items: start;
+      padding: clamp(28px, 5vw, 72px);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .chapter figure {
+      margin: 0;
+      border: 1px solid var(--seal);
+      background: var(--white);
+      padding: 10px;
+      box-shadow: 10px 10px 0 rgba(59, 42, 32, 0.08);
+    }
+
+    .chapter img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 1672 / 941;
+      object-fit: contain;
+      background: var(--white);
+    }
+
+    .chapter figcaption {
+      margin-top: 8px;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .note {
+      padding-top: 4px;
+    }
+
+    .number {
+      color: var(--blue);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    h2 {
+      margin: 8px 0 10px;
+      font-size: clamp(30px, 4vw, 52px);
+      line-height: 1.04;
+      letter-spacing: 0;
+      font-weight: 600;
+    }
+
+    .range {
+      color: var(--muted);
+      font-size: 15px;
+      margin-bottom: 18px;
+    }
+
+    .anchor {
+      margin: 0 0 16px;
+      font-size: 20px;
+      line-height: 1.55;
+      border-left: 3px solid var(--blue);
+      padding-left: 14px;
+    }
+
+    .reader-note {
+      margin: 0;
+      color: var(--muted);
+      font-size: 16px;
+    }
+
+    .appendix {
+      background: rgba(36, 28, 21, 0.035);
+    }
+
+    .footer {
+      padding: 36px clamp(24px, 5vw, 72px) 56px;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    @media (max-width: 980px) {
+      .book {
+        display: block;
+      }
+
+      .toc {
+        position: static;
+        height: auto;
+        border-right: 0;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .toc ol {
+        columns: 2;
+      }
+
+      .chapter {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .book,
+      .toc,
+      .content,
+      .cover,
+      .chapter,
+      .footer {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+      }
+
+      .cover {
+        min-height: auto;
+        padding: 36px 18px;
+      }
+
+      h1 {
+        font-size: 34px;
+        line-height: 1.14;
+      }
+
+      .cover .lede {
+        font-size: 18px;
+      }
+
+      .kicker {
+        display: block;
+        max-width: 100%;
+        font-size: 12px;
+        line-height: 1.45;
+        letter-spacing: 0.04em;
+        white-space: normal;
+      }
+
+      .toc p,
+      .cover .lede {
+        max-width: 100%;
+        white-space: normal;
+        overflow-wrap: anywhere;
+      }
+
+      .meta-strip {
+        display: block;
+      }
+
+      .meta-strip span {
+        display: block;
+        width: fit-content;
+        margin: 0 0 8px;
+      }
+
+      h2 {
+        font-size: 32px;
+      }
+
+      .toc ol {
+        columns: 1;
+      }
+
+      .chapter {
+        padding: 28px 18px;
+      }
+
+      .chapter figure {
+        padding: 6px;
+        box-shadow: 6px 6px 0 rgba(59, 42, 32, 0.08);
+      }
+
+      .anchor {
+        font-size: 18px;
+      }
+    }
+
+    @media print {
+      body {
+        background: #fff;
+      }
+
+      .book {
+        display: block;
+      }
+
+      .toc {
+        position: static;
+        height: auto;
+        border-right: 0;
+      }
+
+      .chapter {
+        page-break-inside: avoid;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="book">
+    <aside class="toc" aria-label="目录">
+      <h2>1985 视觉导读</h2>
+      <p>一册面向中文读者的章节导读。17 个章节入口，附一个 Micro-Prolog 页级插页。</p>
+      <ol>
+        <li><a href="#how-to-use">How to Use</a></li>
+        <li><a href="#shopping">Shopping</a></li>
+        <li><a href="#magazines">Magazines</a></li>
+        <li><a href="#hardware">Hardware</a></li>
+        <li><a href="#buying">Buying</a></li>
+        <li><a href="#playing">Playing</a></li>
+        <li><a href="#writing">Writing</a></li>
+        <li><a href="#analyzing">Analyzing</a></li>
+        <li><a href="#organizing">Organizing</a></li>
+        <li><a href="#accounting">Accounting</a></li>
+        <li><a href="#managing">Managing</a></li>
+        <li><a href="#drawing">Drawing</a></li>
+        <li><a href="#telecommunicating">Telecommunicating</a></li>
+        <li><a href="#programming">Programming</a></li>
+        <li><a href="#learning">Learning</a></li>
+        <li><a href="#etc">Etc.</a></li>
+        <li><a href="#update">Update</a></li>
+      </ol>
+    </aside>
+
+    <section class="content">
+      <header class="cover">
+        <div class="kicker">Whole Earth Software Catalog 2.0 / Fall 1985</div>
+        <h1>个人计算机现场：1985</h1>
+        <p class="lede">从商店货架到家庭书桌，从磁盘盒到电话线，从文字处理到专家系统，1985 年的软件世界正在迅速展开。《Whole Earth Software Catalog 2.0》记录的正是这个现场：人们开始用软件购物、写作、计算、组织信息、学习和连接他人。这本小册子用章节插画带读者穿过这本目录，重新看见早期个人计算机文化的日常面貌。</p>
+        <div class="meta-strip">
+          <span>17 chapters</span>
+          <span>visual reading guide</span>
+          <span>archive page ranges</span>
+          <span>Micro-Prolog appendix</span>
+        </div>
+      </header>
+
+      <article class="chapter" id="how-to-use">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-how-to-use.png" alt="How to Use This Book 暹罗猫插画">
+          <figcaption>How to Use This Book / pp.2-3</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">01 / pp.2-3</div>
+          <h2>How to Use This Book</h2>
+          <p class="range">开场方法论</p>
+          <p class="anchor">这本书不是软件清单，而是一套按人的活动来判断工具的方法。</p>
+          <p class="reader-note">开篇已经说明本书的读法：不要从厂商、平台或功能列表出发，而要先看人的活动，再看软件如何成为工具。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="shopping">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-shopping.png" alt="Shopping 暹罗猫插画">
+          <figcaption>Shopping / pp.4-9</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">02 / pp.4-9</div>
+          <h2>Shopping</h2>
+          <p class="range">软件选择作为需求分析</p>
+          <p class="anchor">买软件之前，先把目标、指标、支持和共存关系说清楚。</p>
+          <p class="reader-note">这章把购买软件变成一场评估练习：目标能否被观察，指标能否被验证，工具能否和现有流程一起工作。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="magazines">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-computer-magazines.png" alt="Computer Magazines 暹罗猫插画">
+          <figcaption>Computer Magazines / pp.10-13</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">03 / pp.10-13</div>
+          <h2>Computer Magazines</h2>
+          <p class="range">信息生态和判断免疫</p>
+          <p class="anchor">软件世界变化太快，读者需要信息生态，也需要免疫系统。</p>
+          <p class="reader-note">软件世界变化太快，读者需要不止一个信息源；真正重要的是在评论、比较和技术深度之间建立辨别力。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="hardware">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-hardware.png" alt="Hardware 暹罗猫插画">
+          <figcaption>Hardware / pp.14-21</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">04 / pp.14-21</div>
+          <h2>Hardware</h2>
+          <p class="range">硬件选择就是生态选择</p>
+          <p class="anchor">买硬件不是买参数，而是在选择能进入哪个软件世界。</p>
+          <p class="reader-note">这章提醒读者：每台机器背后都有一座可进入的软件库，也有一批从此被排除在外的工具。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="buying">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-buying.png" alt="Buying 暹罗猫插画">
+          <figcaption>Buying / pp.22-27</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">05 / pp.22-27</div>
+          <h2>Buying</h2>
+          <p class="range">渠道、时间和风险</p>
+          <p class="anchor">买软件也是管理时间、风险、服务和社群的渠道选择。</p>
+          <p class="reader-note">零售店、邮购、用户组和公共领域软件并不是单纯价格差异，而是时间、服务、兼容性和风险的不同组合。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="playing">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-playing.png" alt="Playing 暹罗猫插画">
+          <figcaption>Playing / pp.28-45</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">06 / pp.28-45</div>
+          <h2>Playing</h2>
+          <p class="range">游戏作为交互实验室</p>
+          <p class="anchor">游戏不是低级用途，而是大众理解互动、规则、反馈和模拟的实验室。</p>
+          <p class="reader-note">Whole Earth 把游戏放在前面，因为游戏最早让普通人感到计算机可以回应、模拟、设定规则并允许改造。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="writing">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-writing.png" alt="Writing 暹罗猫插画">
+          <figcaption>Writing / pp.46-63</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">07 / pp.46-63</div>
+          <h2>Writing</h2>
+          <p class="range">文字处理改变写作动作</p>
+          <p class="anchor">文字处理改变的不只是打字速度，而是修改、重排和思考文本的方式。</p>
+          <p class="reader-note">这里的重点不是打字更快，而是写作者能否轻松修改、重排、打印、传递，并在限制中保持自己的工作节奏。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="analyzing">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-analyzing.png" alt="Analyzing 暹罗猫插画">
+          <figcaption>Analyzing / pp.64-77</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">08 / pp.64-77</div>
+          <h2>Analyzing</h2>
+          <p class="range">电子表格作为非正式建模</p>
+          <p class="anchor">电子表格让非程序员把数字关系变成可操作的未来模型。</p>
+          <p class="reader-note">电子表格把数字关系变成可操作模型，让非程序员也能试算未来；同时，模型错误也会成为新的风险。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="organizing">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-organizing.png" alt="Organizing 暹罗猫插画">
+          <figcaption>Organizing / pp.78-93</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">09 / pp.78-93</div>
+          <h2>Organizing</h2>
+          <p class="range">数据库和未来找回方式</p>
+          <p class="anchor">数据库不是存东西的箱子，而是设计未来找回方式的工具。</p>
+          <p class="reader-note">数据库的意义不只是保存资料，而是让人通过命名、分类、字段和关系设计未来的找回方式。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="accounting">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-accounting.png" alt="Accounting 暹罗猫插画">
+          <figcaption>Accounting / pp.94-105</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">10 / pp.94-105</div>
+          <h2>Accounting</h2>
+          <p class="range">小企业的现金流和风险</p>
+          <p class="anchor">会计软件不是让账本好看，而是让小企业及时看见现金流和风险。</p>
+          <p class="reader-note">会计软件进入企业核心流程之后，电脑不再只是玩具或写作辅助，而是现金流、报表和风险判断的一部分。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="managing">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-managing.png" alt="Managing 暹罗猫插画">
+          <figcaption>Managing / pp.106-121</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">11 / pp.106-121</div>
+          <h2>Managing</h2>
+          <p class="range">一体化平台和小工具生态</p>
+          <p class="anchor">现代办公软件的两条路线早已出现：一体化平台，或围绕工作流的小工具生态。</p>
+          <p class="reader-note">这章已经能看到现代办公软件的两条路线：把所有功能放进一个环境，或用小工具补强具体工作流。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="drawing">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-drawing.png" alt="Drawing 暹罗猫插画">
+          <figcaption>Drawing / pp.122-137</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">12 / pp.122-137</div>
+          <h2>Drawing</h2>
+          <p class="range">视觉生产民主化</p>
+          <p class="anchor">图形软件把儿童涂鸦、桌面出版、商业图表、CAD 和动画放进同一条视觉生产谱系。</p>
+          <p class="reader-note">图形软件把屏幕、打印机、输入设备和创作工具连在一起，让视觉生产开始从专业设备走向个人电脑。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="telecommunicating">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-telecommunicating.png" alt="Telecommunicating 暹罗猫插画">
+          <figcaption>Telecommunicating / pp.138-157</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">13 / pp.138-157</div>
+          <h2>Telecommunicating</h2>
+          <p class="range">电话线上的社会未来</p>
+          <p class="anchor">1985 年的电脑通信不是外设功能，而是个人计算机的社会未来。</p>
+          <p class="reader-note">这一章几乎是互联网前夜的社会学笔记：电子邮件、公告板、文件传输、在线服务和远程协作已经露出轮廓。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="programming">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-programming.png" alt="Programming 暹罗猫插画">
+          <figcaption>Programming / pp.158-174</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">14 / pp.158-174</div>
+          <h2>Programming</h2>
+          <p class="range">软件黑箱和用户控制权</p>
+          <p class="anchor">编程素养不是职业专利，而是理解软件黑箱、判断工具、重新获得控制权的方法。</p>
+          <p class="reader-note">Programming 在这里不是职业训练，而是一种软件素养：理解黑箱、判断工具、设计流程，并在必要时修补环境。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="learning">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-learning.png" alt="Learning 暹罗猫插画">
+          <figcaption>Learning / pp.175-191</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">15 / pp.175-191</div>
+          <h2>Learning</h2>
+          <p class="range">电子练习册与可试错微世界</p>
+          <p class="anchor">好的学习软件不是电子练习册，而是可试错、可操纵、可想象的微世界。</p>
+          <p class="reader-note">Whole Earth 反对把电脑变成电子练习册；它期待的是能回应、能模拟、能让错误变成探索的学习环境。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="etc">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-etc.png" alt="Etc 暹罗猫插画">
+          <figcaption>Etc. / pp.192-199</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">16 / pp.192-199</div>
+          <h2>Etc.</h2>
+          <p class="range">软件渗入生活边界</p>
+          <p class="anchor">软件不只属于办公室和学校，它开始连接影像、身体、音乐、仪器和物理世界。</p>
+          <p class="reader-note">这些杂项显示软件正在越过办公室和学校，进入影像、音乐、身体、家庭设备和物理世界。</p>
+        </div>
+      </article>
+
+      <article class="chapter" id="update">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/final-siamese-cat-update.png" alt="Indexes / Update 暹罗猫插画">
+          <figcaption>Indexes / Update / pp.200-224</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">17 / pp.200-224</div>
+          <h2>Indexes / Update</h2>
+          <p class="range">标准、兼容性和生态</p>
+          <p class="anchor">标准不是单纯由最好技术决定，而是由软件生态、兼容性和开发者承诺滚出来。</p>
+          <p class="reader-note">最后的行业更新指出一个持续至今的问题：标准往往不是由最好技术决定，而是由生态、兼容性和承诺滚出来。</p>
+        </div>
+      </article>
+
+      <article class="chapter appendix" id="micro-prolog">
+        <figure>
+          <img src="../../assets/wholeearth_1985_visuals/siamese-cat-micro-prolog-editorial-v3.png" alt="Micro-Prolog 页级补充插画">
+          <figcaption>Programming / Micro-Prolog / p.167</figcaption>
+        </figure>
+        <div class="note">
+          <div class="number">Appendix / p.167</div>
+          <h2>Micro-Prolog</h2>
+          <p class="range">Programming 章页级补充</p>
+          <p class="anchor">1985 年的 AI 不是魔法，而是一台逻辑关系机器。</p>
+          <p class="reader-note">这页把 1985 年的 AI 想象放在逻辑、关系、专家系统、数据库和语言处理的语境里，兴奋但不神化。</p>
+        </div>
+      </article>
+
+      <footer class="footer">
+        <p>阅读提示：可以先沿着这些章节插画抓住每章的核心判断，再回到页码范围和原始页面，看软件、书籍、价格、平台和评论细节如何共同构成 1985 年的软件现场。</p>
+      </footer>
+    </section>
+  </main>
+</body>
+</html>

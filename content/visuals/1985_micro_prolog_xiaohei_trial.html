@@ -1,0 +1,300 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Micro-Prolog 小黑插画试验</title>
+  <style>
+    :root {
+      --paper: #fbfaf6;
+      --ink: #171512;
+      --muted: #69635b;
+      --rule: #d8d0c2;
+      --red: #d64025;
+      --blue: #1d5f9f;
+      --green: #556b36;
+      --white: #fffefb;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: "Songti SC", "STSong", Georgia, serif;
+      line-height: 1.72;
+    }
+
+    a {
+      color: inherit;
+      text-decoration-color: var(--red);
+      text-decoration-thickness: 1px;
+      text-underline-offset: 4px;
+    }
+
+    main {
+      width: min(1180px, calc(100vw - 36px));
+      margin: 0 auto;
+      padding: 28px 0 48px;
+    }
+
+    .topbar {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 18px;
+      align-items: end;
+      border-bottom: 1px solid var(--ink);
+      padding-bottom: 12px;
+      margin-bottom: 22px;
+      font-family: "Courier New", monospace;
+      font-size: 13px;
+      letter-spacing: 0;
+    }
+
+    .issue {
+      color: var(--muted);
+    }
+
+    .page-link {
+      color: var(--red);
+      white-space: nowrap;
+    }
+
+    .reader {
+      display: grid;
+      grid-template-columns: minmax(0, 1.02fr) minmax(320px, 0.72fr);
+      gap: clamp(20px, 4vw, 54px);
+      align-items: start;
+    }
+
+    .reader > * {
+      min-width: 0;
+    }
+
+    figure {
+      margin: 0;
+    }
+
+    .plate {
+      background: var(--white);
+      border: 1px solid var(--rule);
+      padding: clamp(10px, 1.6vw, 18px);
+    }
+
+    .plate img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+
+    figcaption {
+      display: flex;
+      justify-content: space-between;
+      gap: 18px;
+      margin-top: 10px;
+      color: var(--muted);
+      font-family: "Courier New", monospace;
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .note {
+      padding-top: 8px;
+    }
+
+    h1 {
+      margin: 0 0 18px;
+      font-size: clamp(30px, 5vw, 68px);
+      line-height: 1.04;
+      font-weight: 500;
+      letter-spacing: 0;
+    }
+
+    .dek {
+      margin: 0 0 24px;
+      max-width: 36em;
+      color: #2f2a24;
+      font-size: clamp(18px, 2.1vw, 24px);
+      line-height: 1.55;
+    }
+
+    .anchor {
+      border-top: 2px solid var(--ink);
+      border-bottom: 1px solid var(--rule);
+      padding: 14px 0 16px;
+      margin: 24px 0;
+    }
+
+    .anchor-label {
+      margin: 0 0 7px;
+      color: var(--red);
+      font-family: "Courier New", monospace;
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+
+    .anchor p {
+      margin: 0;
+      font-size: clamp(20px, 2.4vw, 30px);
+      line-height: 1.34;
+    }
+
+    .evidence {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1px;
+      background: var(--rule);
+      border: 1px solid var(--rule);
+      margin: 24px 0;
+    }
+
+    .evidence div {
+      background: var(--paper);
+      padding: 14px 13px;
+      min-height: 112px;
+    }
+
+    .evidence b {
+      display: block;
+      margin-bottom: 7px;
+      font-family: "Courier New", monospace;
+      font-size: 12px;
+      color: var(--blue);
+    }
+
+    .evidence p {
+      margin: 0;
+      color: #35302a;
+      font-size: 15px;
+      line-height: 1.58;
+    }
+
+    .margin-note {
+      border-left: 3px solid var(--green);
+      padding-left: 14px;
+      color: #3d382f;
+      font-size: 16px;
+    }
+
+    .sequence {
+      margin-top: 34px;
+      border-top: 1px solid var(--ink);
+      padding-top: 18px;
+    }
+
+    .sequence h2 {
+      margin: 0 0 12px;
+      font-size: 18px;
+      font-weight: 600;
+      letter-spacing: 0;
+    }
+
+    ol {
+      margin: 0;
+      padding-left: 22px;
+    }
+
+    li {
+      margin: 0 0 10px;
+      padding-left: 4px;
+    }
+
+    @media (max-width: 860px) {
+      main {
+        width: min(100% - 24px, 680px);
+        padding-top: 16px;
+      }
+
+      .topbar,
+      .reader,
+      .evidence {
+        grid-template-columns: 1fr;
+      }
+
+      .topbar {
+        gap: 8px;
+      }
+
+      .topbar > * {
+        min-width: 0;
+      }
+
+      .issue,
+      .page-link,
+      h1 {
+        overflow-wrap: anywhere;
+      }
+
+      .page-link {
+        white-space: normal;
+      }
+
+      figcaption {
+        display: block;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="topbar" aria-label="issue metadata">
+      <div>
+        <span class="issue">Whole Earth Software Catalog 2.0 / Fall 1985 / Programming</span>
+      </div>
+      <a class="page-link" href="https://archive.org/download/wholeearthsoftwa00unse_3/page/n168_w500.jpg">p.167 / leaf 168 scan</a>
+    </div>
+
+    <section class="reader">
+      <figure>
+        <div class="plate">
+          <img src="../../assets/wholeearth_1985_visuals/micro-prolog-logic-machine-xiaohei.png" alt="小黑操作一台由事实、关系、规则驱动的逻辑机器，输出专家系统、智能数据库和语言处理三个方向">
+        </div>
+        <figcaption>
+          <span>试验图：Micro-Prolog as a logic machine</span>
+          <span>asset / wholeearth_1985_visuals</span>
+        </figcaption>
+      </figure>
+
+      <article class="note">
+        <h1>1985 年的 AI，不是魔法，是关系机器。</h1>
+        <p class="dek">这一页把 Micro-Prolog 放进专家系统、智能数据库、自然语言处理的早期语境里。Whole Earth 的判断不是“AI 万能”，而是：逻辑编程给微机带来一种新工具，但它只适合知道自己在做什么的人。</p>
+
+        <div class="anchor">
+          <p class="anchor-label">knowledge anchor</p>
+          <p>事实、关系、规则被组织起来，才可能变成推理；但微机上的结果仍要接受现实检验。</p>
+        </div>
+
+        <div class="evidence" aria-label="reading anchors">
+          <div>
+            <b>CONTEXT</b>
+            <p>日本第五代计算机计划让 Prolog 在 1985 年变成热门词，Whole Earth 借这一页观察 AI 工具如何进入个人电脑文化。</p>
+          </div>
+          <div>
+            <b>USES</b>
+            <p>页面提到的入口不是聊天界面，而是专家系统、智能数据库、自然语言处理这些基于逻辑关系的任务。</p>
+          </div>
+          <div>
+            <b>LIMIT</b>
+            <p>它没有被神化：输入输出简陋、数学函数少，在 16 位微机上能做出什么仍是开放问题。</p>
+          </div>
+        </div>
+
+        <p class="margin-note">插画只负责把误读拦下来：这里的 AI 不是“像人一样聊天”的形象，而是把关系卡片放进机器里试着推理。读者仍需要回到扫描页和页级笔记。</p>
+
+        <section class="sequence">
+          <h2>后续批量化时的最小格式</h2>
+          <ol>
+            <li>先写一句知识锚点，必须能回到页级证据。</li>
+            <li>再画一个单一隐喻，不把整页信息塞成图表。</li>
+            <li>最后保留限制条件，避免把历史页读成今天的技术宣传。</li>
+          </ol>
+        </section>
+      </article>
+    </section>
+  </main>
+</body>
+</html>
