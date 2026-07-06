@@ -39,6 +39,7 @@
 - **Whole Earth Epilog, October 1974**
   - 导读作序：`content/readings/1974_whole_earth_epilog_reader_chinese.md`
   - 章节译写正文：`content/readings/1974_whole_earth_epilog_chapter_translation_zh.md`
+  - 阅读入口：`reader-prototype/index.html`（当前最适合对外展示的对照阅读器）
   - 覆盖：前置页、Whole Systems、Land Use、Shelter、Soft Technology、Craft、Community、Nomadics、Communications、Learning、出版机制、索引、封底
   - QA：内容页按 Archive leaf 0-321 读取；正文印刷页号按 `leaf + 449` 映射；封底 `Stay hungry. Stay foolish.` 于 leaf 321 扫描确认，leaf 322 为扫描校准页；书目审计 216 条（140 条确认可用链接，76 条明确不链）
   - 待办：成稿校对一遍（已知残留：导读稿"夜shade"、"Epiog"）
@@ -93,6 +94,7 @@ content/
 - `content/readings/`：当前的成品与工作稿混合目录（见上节归位计划）。
 - `content/samples/`：页级阅读样本（1985 Programming 章，历史基准）。
 - `content/notes/`：明确标注的 legacy 过渡笔记，不作公开文案。
+- `reader-prototype/`：1974 Epilog 对照阅读器，当前的读者展示入口。
 - `assets/`：读稿引用的小型扫描/图片资产。
 - `_local/`：不入库的本地缓存、PDF 源、日志与历史实验。
 

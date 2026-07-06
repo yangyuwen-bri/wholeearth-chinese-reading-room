@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Whole Earth Epilog, 1974 · 中文精读本</title>
+<style>
+  :root {
+    --paper: #f5efe0;
+    --card: #fbf7ec;
+    --ink: #2b261c;
+    --muted: #8a7f68;
+    --line: #d9cfb6;
+    --blue: #4f6e94;
+    --blue-deep: #3c5573;
+    --red: #b24e3d;
+    --wash: #eee7d3;
+    --serif: "Songti SC", "Noto Serif SC", "Source Han Serif SC", Georgia, serif;
+    --mono: "SF Mono", Menlo, Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--serif);
+    line-height: 1.9;
+  }
+  .masthead {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 28px 20px 14px;
+    display: flex;
+    align-items: flex-end;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .masthead h1 {
+    font-size: 26px;
+    margin: 0;
+    letter-spacing: 0.5px;
+  }
+  .masthead .sub {
+    margin: 2px 0 0;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .masthead .spacer { flex: 1; }
+  .view-toggle {
+    display: flex;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    overflow: hidden;
+    background: var(--card);
+  }
+  .view-toggle button {
+    border: 0;
+    background: transparent;
+    font-family: var(--mono);
+    font-size: 12px;
+    padding: 7px 16px;
+    cursor: pointer;
+    color: var(--muted);
+  }
+  .view-toggle button.active {
+    background: var(--blue);
+    color: #f6f2e6;
+  }
+  nav.chapters {
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    background: var(--paper);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  nav.chapters .row {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 8px 20px;
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+  }
+  nav.chapters button {
+    border: 1px solid transparent;
+    background: transparent;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+    padding: 4px 10px;
+    border-radius: 999px;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  nav.chapters button.active {
+    background: var(--ink);
+    color: var(--paper);
+  }
+  nav.chapters button.lens-member {
+    border-color: var(--blue);
+    color: var(--blue-deep);
+  }
+  #lensPanel {
+    border-bottom: 1px solid var(--line);
+    background: var(--wash);
+  }
+  #lensPanel .inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 14px 20px 18px;
+  }
+  .lens-pills { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 10px; }
+  .lens-pills button {
+    font-family: var(--mono);
+    font-size: 12px;
+    border: 1px solid var(--line);
+    background: var(--card);
+    color: var(--muted);
+    border-radius: 999px;
+    padding: 5px 12px;
+    cursor: pointer;
+  }
+  .lens-pills button.active {
+    background: var(--red);
+    border-color: var(--red);
+    color: #f6f2e6;
+  }
+  .lens-note { font-size: 14px; color: var(--ink); margin: 0 0 12px; max-width: 72ch; }
+  .lens-modules { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 10px; }
+  .lens-module {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+  .lens-module b { display: block; font-size: 14px; margin-bottom: 2px; }
+  .lens-module .range { font-family: var(--mono); font-size: 11px; color: var(--muted); }
+  .lens-module p { margin: 6px 0 8px; color: #5c5443; line-height: 1.7; }
+  .lens-module a {
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--blue-deep);
+    text-decoration: none;
+    border-bottom: 1px solid var(--blue);
+    cursor: pointer;
+  }
+  main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 24px 20px 90px;
+    display: grid;
+    grid-template-columns: 320px minmax(0, 1fr);
+    gap: 32px;
+    align-items: start;
+  }
+  aside.scan {
+    position: sticky;
+    top: 56px;
+  }
+  .scan-frame {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 10px;
+  }
+  .scan-frame img {
+    display: block;
+    width: 100%;
+    min-height: 300px;
+    background: var(--wash);
+    border: 1px solid var(--line);
+  }
+  .scan-meta {
+    margin-top: 8px;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .scan-meta .leaf-label { color: var(--ink); font-size: 13px; }
+  .scan-controls { display: flex; align-items: center; gap: 8px; margin: 8px 0; }
+  .scan-controls button {
+    border: 1px solid var(--line);
+    background: var(--card);
+    color: var(--ink);
+    border-radius: 6px;
+    width: 30px;
+    height: 26px;
+    cursor: pointer;
+    font-family: var(--mono);
+  }
+  .scan-controls input[type=range] { flex: 1; accent-color: var(--blue); }
+  .scan-meta a { color: var(--blue-deep); }
+  .scan-note { font-size: 11px; line-height: 1.6; margin-top: 8px; }
+  article.chapter { margin-bottom: 56px; }
+  article.chapter > h2 {
+    font-size: 22px;
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 8px;
+    margin: 0 0 6px;
+  }
+  .chapter-meta { font-family: var(--mono); font-size: 12px; color: var(--muted); margin-bottom: 20px; }
+  section.entry { margin-bottom: 34px; }
+  section.entry > h3 { font-size: 17px; margin: 0 0 4px; }
+  .entry-meta {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--muted);
+    margin-bottom: 10px;
+  }
+  .entry-meta a { color: var(--blue-deep); text-decoration: none; border-bottom: 1px dotted var(--blue); cursor: pointer; }
+  section.entry p { margin: 0 0 14px; font-size: 15.5px; }
+  section.entry p.li { margin: 0 0 6px; padding-left: 1em; color: #4d4535; }
+  section.entry blockquote {
+    margin: 0 0 14px;
+    padding: 4px 0 4px 16px;
+    border-left: 3px solid var(--red);
+    color: #6b6250;
+  }
+  section.entry blockquote p { margin: 0; font-size: 14.5px; }
+  section.entry code {
+    font-family: var(--mono);
+    font-size: 0.85em;
+    background: var(--wash);
+    padding: 1px 5px;
+    border-radius: 4px;
+  }
+  .preface-tag {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--red);
+    border: 1px solid var(--red);
+    border-radius: 999px;
+    padding: 1px 9px;
+    margin-bottom: 8px;
+  }
+  footer.progress {
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    background: var(--card);
+    border-top: 1px solid var(--line);
+    z-index: 40;
+  }
+  footer.progress .inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 8px 20px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .bar { flex: 1; height: 4px; background: var(--wash); border-radius: 999px; overflow: hidden; }
+  .bar i { display: block; height: 100%; width: 0; background: var(--blue); }
+  @media (max-width: 900px) {
+    main { grid-template-columns: 1fr; gap: 16px; padding-top: 12px; }
+    aside.scan {
+      top: 46px;
+      z-index: 20;
+    }
+    .scan-frame { display: flex; gap: 10px; padding: 8px; }
+    .scan-frame img { width: 96px; min-height: 0; height: 128px; object-fit: cover; object-position: top; }
+    .scan-frame .scan-meta { margin-top: 0; flex: 1; }
+    .scan-note { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div>
+    <h1>Whole Earth Epilog <span style="font-size:15px; color:var(--muted);">October 1974</span></h1>
+    <p class="sub">中文精读本 · 图文对照阅读器 · 原型</p>
+  </div>
+  <div class="spacer"></div>
+  <div class="view-toggle">
+    <button data-view="order" class="active">原书顺序</button>
+    <button data-view="lens">暗线视图</button>
+  </div>
+</header>
+
+<nav class="chapters"><div class="row" id="chapterNav"></div></nav>
+<div id="lensPanel" hidden><div class="inner">
+  <div class="lens-pills" id="lensPills"></div>
+  <p class="lens-note" id="lensNote"></p>
+  <div class="lens-modules" id="lensModules"></div>
+</div></div>
+
+<main>
+  <aside class="scan">
+    <div class="scan-frame">
+      <img id="scanImg" alt="原书扫描页">
+      <div class="scan-meta">
+        <div class="leaf-label" id="leafLabel">leaf –</div>
+        <div class="scan-controls">
+          <button id="leafPrev" aria-label="上一页">‹</button>
+          <input type="range" id="leafSlider" min="0" max="321" value="0" step="1">
+          <button id="leafNext" aria-label="下一页">›</button>
+        </div>
+        <a id="archiveLink" target="_blank" rel="noopener">在 Internet Archive 打开本页 ↗</a>
+        <p class="scan-note">扫描页随正文滚动自动切换（章节内为近似对齐），也可以手动翻页。图片来自 archive.org。</p>
+      </div>
+    </div>
+  </aside>
+  <div id="content"></div>
+</main>
+
+<footer class="progress"><div class="inner">
+  <span id="chapterLabel">–</span>
+  <div class="bar"><i id="progressFill"></i></div>
+  <span id="progressLabel">leaf – / 321</span>
+</div></footer>
+
+<script>
+(async function () {
+  const data = await (await fetch("data/epilog_reader.json")).json();
+  const content = document.getElementById("content");
+  const nav = document.getElementById("chapterNav");
+  const scanImg = document.getElementById("scanImg");
+  const leafLabel = document.getElementById("leafLabel");
+  const leafSlider = document.getElementById("leafSlider");
+  const archiveLink = document.getElementById("archiveLink");
+  const progressFill = document.getElementById("progressFill");
+  const progressLabel = document.getElementById("progressLabel");
+  const chapterLabel = document.getElementById("chapterLabel");
+  const lensPanel = document.getElementById("lensPanel");
+  const lensPills = document.getElementById("lensPills");
+  const lensNote = document.getElementById("lensNote");
+  const lensModules = document.getElementById("lensModules");
+
+  let currentLeaf = 1;
+  let activeLens = null;
+
+  function scanUrl(leaf) { return data.scan_url.replace("{leaf}", leaf); }
+  function pageUrl(leaf) { return data.archive_page_url.replace("{leaf}", leaf); }
+  function printedPage(leaf) {
+    return (leaf >= 5 && leaf <= 320) ? " · p." + (leaf + data.printed_page_offset) : "";
+  }
+
+  function setLeaf(leaf, fromSlider) {
+    leaf = Math.max(data.leaf_min ?? 0, Math.min(data.leaf_total, leaf));
+    if (leaf === currentLeaf && scanImg.src) return;
+    currentLeaf = leaf;
+    scanImg.src = scanUrl(leaf);
+    leafLabel.textContent = "leaf " + leaf + printedPage(leaf);
+    archiveLink.href = pageUrl(leaf);
+    if (!fromSlider) leafSlider.value = leaf;
+    progressFill.style.width = (leaf / data.leaf_total * 100).toFixed(1) + "%";
+    progressLabel.textContent = "leaf " + leaf + " / " + data.leaf_total;
+  }
+
+  leafSlider.addEventListener("input", () => setLeaf(Number(leafSlider.value), true));
+  document.getElementById("leafPrev").addEventListener("click", () => setLeaf(currentLeaf - 1));
+  document.getElementById("leafNext").addEventListener("click", () => setLeaf(currentLeaf + 1));
+
+  const navButtons = {};
+  function addNavButton(id, label) {
+    const btn = document.createElement("button");
+    btn.textContent = label;
+    btn.addEventListener("click", () => {
+      document.getElementById(id).scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+    nav.appendChild(btn);
+    navButtons[id] = btn;
+    return btn;
+  }
+
+  function shortTitle(title) {
+    return title.replace(/^[一二三四五六七八九十]+、/, "").replace("封面、开篇引文与使用说明", "封面与使用说明")
+      .replace("出版业务、索引与封底", "出版与封底");
+  }
+
+  const preface = document.createElement("article");
+  preface.className = "chapter";
+  preface.id = "preface";
+  preface.innerHTML = "<span class='preface-tag'>序</span><h2>导读：怎样读这本书</h2>" +
+    "<div class='chapter-meta'>面向读者的全书导读 · 正文译写从下一章开始</div>";
+  data.preface.sections.forEach(sec => {
+    const el = document.createElement("section");
+    el.className = "entry";
+    el.innerHTML = "<h3>" + sec.title + "</h3>" + sec.html;
+    preface.appendChild(el);
+  });
+  content.appendChild(preface);
+  addNavButton("preface", "序 · 导读");
+
+  data.chapters.forEach(chap => {
+    const article = document.createElement("article");
+    article.className = "chapter";
+    article.id = chap.id;
+    const range = chap.leaf_start != null
+      ? "leaf " + chap.leaf_start + "–" + chap.leaf_end + printedPage(chap.leaf_start).replace(" · ", " · 印刷页起 ")
+      : "无对应扫描页";
+    article.innerHTML = "<h2>" + chap.title + "</h2><div class='chapter-meta'>" + range + "</div>";
+    chap.sections.forEach(sec => {
+      const el = document.createElement("section");
+      el.className = "entry";
+      el.id = sec.id;
+      el.dataset.leaf = sec.leaf ?? "";
+      el.dataset.chapter = chap.id;
+      const meta = sec.leaf != null
+        ? "<div class='entry-meta'>≈ leaf " + sec.leaf + printedPage(sec.leaf) +
+          " · <a data-leaf='" + sec.leaf + "'>看这一页</a></div>"
+        : "";
+      const heading = sec.title === chap.title ? "" : "<h3>" + sec.title + "</h3>";
+      el.innerHTML = heading + meta + sec.html;
+      article.appendChild(el);
+    });
+    content.appendChild(article);
+    addNavButton(chap.id, shortTitle(chap.title));
+  });
+
+  content.addEventListener("click", event => {
+    const target = event.target.closest("a[data-leaf]");
+    if (target) setLeaf(Number(target.dataset.leaf));
+  });
+
+  const observer = new IntersectionObserver(entries => {
+    for (const entry of entries) {
+      if (!entry.isIntersecting) continue;
+      const leaf = Number(entry.target.dataset.leaf);
+      if (!Number.isNaN(leaf)) setLeaf(leaf);
+      const chapterId = entry.target.dataset.chapter || entry.target.id;
+      for (const [id, btn] of Object.entries(navButtons)) {
+        btn.classList.toggle("active", id === chapterId);
+      }
+      const heading = document.getElementById(chapterId)?.querySelector("h2");
+      if (heading) chapterLabel.textContent = heading.textContent.slice(0, 14);
+    }
+  }, { rootMargin: "-15% 0px -70% 0px" });
+  document.querySelectorAll("section.entry, article.chapter").forEach(el => observer.observe(el));
+
+  const toggle = document.querySelectorAll(".view-toggle button");
+  toggle.forEach(btn => btn.addEventListener("click", () => {
+    toggle.forEach(b => b.classList.toggle("active", b === btn));
+    const lensMode = btn.dataset.view === "lens";
+    lensPanel.hidden = !lensMode;
+    if (lensMode && !activeLens) selectLens(data.lenses[0].id);
+    if (!lensMode) highlightLensChapters(null);
+  }));
+
+  function highlightLensChapters(lens) {
+    Object.values(navButtons).forEach(btn => btn.classList.remove("lens-member"));
+    if (!lens) return;
+    lens.nodes.forEach(moduleId => {
+      const mod = data.modules[moduleId];
+      if (mod && navButtons[mod.chapter_id]) navButtons[mod.chapter_id].classList.add("lens-member");
+    });
+  }
+
+  function selectLens(lensId) {
+    activeLens = lensId;
+    const lens = data.lenses.find(l => l.id === lensId);
+    lensPills.querySelectorAll("button").forEach(btn =>
+      btn.classList.toggle("active", btn.dataset.lens === lensId));
+    lensNote.textContent = lens.note;
+    lensModules.innerHTML = "";
+    lens.nodes.forEach(moduleId => {
+      const mod = data.modules[moduleId];
+      const focus = mod.lens_focus[lensId] || "";
+      const card = document.createElement("div");
+      card.className = "lens-module";
+      card.innerHTML = "<b>" + shortTitle(mod.title) + "</b>" +
+        "<span class='range'>leaf " + mod.leaf_start + "–" + mod.leaf_end + "</span>" +
+        (focus ? "<p>" + focus + "</p>" : "") +
+        "<a data-chapter='" + mod.chapter_id + "'>进入本章 →</a>";
+      lensModules.appendChild(card);
+    });
+    highlightLensChapters(lens);
+  }
+
+  data.lenses.forEach(lens => {
+    const btn = document.createElement("button");
+    btn.dataset.lens = lens.id;
+    btn.textContent = lens.title + " " + lens.code;
+    btn.addEventListener("click", () => selectLens(lens.id));
+    lensPills.appendChild(btn);
+  });
+
+  lensModules.addEventListener("click", event => {
+    const target = event.target.closest("a[data-chapter]");
+    if (target) document.getElementById(target.dataset.chapter)
+      .scrollIntoView({ behavior: "smooth", block: "start" });
+  });
+
+  setLeaf(0);
+})();
+</script>
+</body>
+</html>
