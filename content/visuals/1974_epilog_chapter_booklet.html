@@ -1,0 +1,464 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Whole Earth Epilog 1974 章节视觉册</title>
+  <style>
+    :root {
+      --paper: #f4eddf;
+      --sheet: #fffaf0;
+      --ink: #241d16;
+      --muted: #766d60;
+      --line: #c8baa2;
+      --blue: #245c83;
+      --brown: #3b2a20;
+      --tan: #d7c096;
+      --red: #9f3f2e;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        linear-gradient(rgba(36, 29, 22, 0.03) 1px, transparent 1px),
+        var(--paper);
+      background-size: 100% 23px;
+      font-family: "Iowan Old Style", "Songti SC", "STSong", Georgia, serif;
+      line-height: 1.65;
+      overflow-x: hidden;
+    }
+
+    a {
+      color: inherit;
+      text-decoration-color: var(--blue);
+      text-underline-offset: 3px;
+    }
+
+    .book {
+      display: grid;
+      grid-template-columns: 270px minmax(0, 1fr);
+      min-height: 100vh;
+      max-width: 100%;
+      overflow-x: hidden;
+    }
+
+    .toc {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      padding: 26px 22px;
+      border-right: 1px solid var(--line);
+      background: rgba(244, 237, 223, 0.96);
+      overflow-y: auto;
+    }
+
+    .toc h1 {
+      margin: 0 0 8px;
+      color: var(--blue);
+      font-size: 20px;
+      line-height: 1.22;
+      letter-spacing: 0;
+    }
+
+    .toc p {
+      margin: 0 0 18px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.55;
+    }
+
+    .toc ol {
+      margin: 0;
+      padding-left: 28px;
+      list-style: decimal-leading-zero;
+      font-size: 14px;
+    }
+
+    .toc li {
+      margin: 0 0 8px;
+      padding-left: 2px;
+    }
+
+    .content {
+      min-width: 0;
+      max-width: 100%;
+      overflow-x: hidden;
+    }
+
+    .chapter {
+      padding: clamp(30px, 5vw, 70px) clamp(22px, 5vw, 76px);
+      border-bottom: 1px solid var(--line);
+    }
+
+    .chapter-heading {
+      max-width: 980px;
+      margin: 0 0 24px;
+      display: grid;
+      gap: 10px;
+    }
+
+    .chapter-kicker {
+      color: var(--blue);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    h2 {
+      margin: 0;
+      max-width: 920px;
+      font-size: clamp(31px, 4.3vw, 58px);
+      line-height: 1.08;
+      letter-spacing: 0;
+      font-weight: 650;
+    }
+
+    .chapter-note {
+      max-width: 850px;
+      margin: 0;
+      color: var(--muted);
+      font-size: 18px;
+    }
+
+    .modules {
+      display: grid;
+      gap: 18px;
+    }
+
+    .module {
+      display: grid;
+      gap: 12px;
+      padding: clamp(14px, 2vw, 22px);
+      border: 1px solid var(--line);
+      background: rgba(255, 250, 240, 0.62);
+    }
+
+    .module-copy {
+      min-width: 0;
+      display: grid;
+      align-content: start;
+      gap: 12px;
+    }
+
+    .module-head {
+      display: grid;
+      gap: 7px;
+    }
+
+    .module-number {
+      color: var(--blue);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    h3 {
+      margin: 0;
+      font-size: clamp(24px, 2.8vw, 36px);
+      line-height: 1.16;
+      letter-spacing: 0;
+      font-weight: 650;
+    }
+
+    .anchor {
+      margin: 0;
+      padding-left: 13px;
+      border-left: 3px solid var(--blue);
+      font-size: 18px;
+      line-height: 1.56;
+    }
+
+    .body {
+      margin: 0;
+      color: #342a20;
+      font-size: 16px;
+      line-height: 1.72;
+    }
+
+    .labels {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      padding: 0;
+      margin: 2px 0 0;
+      list-style: none;
+    }
+
+    .labels li {
+      max-width: 100%;
+      border: 1px solid var(--line);
+      background: rgba(36, 92, 131, 0.08);
+      color: var(--blue);
+      padding: 3px 8px;
+      font-size: 13px;
+      line-height: 1.35;
+      overflow-wrap: anywhere;
+    }
+
+    .source {
+      margin: 0;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.45;
+      overflow-wrap: anywhere;
+    }
+
+    .footer {
+      padding: 28px clamp(22px, 5vw, 76px) 46px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.55;
+      overflow-wrap: anywhere;
+      word-break: break-word;
+    }
+
+    @media (max-width: 1000px) {
+      .book {
+        display: block;
+      }
+
+      .toc {
+        position: static;
+        height: auto;
+        border-right: 0;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .toc ol {
+        columns: 2;
+      }
+
+    }
+
+    @media (max-width: 640px) {
+      .toc,
+      .chapter,
+      .footer {
+        padding-left: 18px;
+        padding-right: 18px;
+      }
+
+      .toc ol {
+        columns: 1;
+      }
+
+      .chapter-note {
+        font-size: 16px;
+      }
+
+      .module {
+        padding: 12px;
+      }
+
+      .anchor {
+        font-size: 17px;
+      }
+    }
+
+    @media print {
+      body {
+        background: #fff;
+      }
+
+      .book {
+        display: block;
+      }
+
+      .toc {
+        position: static;
+        height: auto;
+        border-right: 0;
+      }
+
+      .module {
+        page-break-inside: avoid;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="book">
+    <aside class="toc" aria-label="章节目录">
+      <h1>Whole Earth Epilog 1974 章节视觉册</h1>
+      <p>10 个原书章节，38 个内容模块。每个模块对应 leaf/page/scan 证据。</p>
+      <ol id="toc"></ol>
+    </aside>
+    <section class="content" id="content"></section>
+  </main>
+
+  <script>
+    const chapters = [
+      {
+        id: "systems",
+        title: "整体系统：工具进入系统以后会发生什么",
+        note: "这一章把后面所有工具都放回系统里看：工具可能扩大人的能力，也可能让人变成巨型制度的看护者。",
+        modules: [
+          ["反馈与元层级", "系统的智慧不属于某个中心，局部控制整体的幻想本身就有病。", "Gregory Bateson、《心智生态学的步骤》、控制论、回路、语境、悖论、学习层级。Whole Earth 从 Bateson 那里借来的不是机器迷信，而是一种谦卑。", ["反馈", "回路", "语境", "悖论", "系统心智"], "leaf 5 / p.452", "https://archive.org/download/wholeearthepilog00unse/page/n5_w500.jpg"],
+          ["关系不是控制", "关系不等于占有，理解不等于控制。", "Whole Earth 把 Buber 放在控制论旁边，是为了防止系统思考退化成另一种控制学。工具世界里也需要“我-你”：读者、土地、动物、材料、共同体和技术之间，不只是对象和功能的关系。", ["我-你", "关系", "不占有", "对话", "共同进化"], "leaf 8 / p.455", "https://archive.org/download/wholeearthepilog00unse/page/n8_w500.jpg"],
+          ["从太空和身体重新看地球", "从远处看地球，从内部看身体，从空中看土地。", "这些条目把图像当作认识工具，而不是装饰。太空照片让地球变成一个整体，人体照片让皮肤之内也成为复杂宇宙，航空和卫星影像让土地表面变成可以学习的文本。", ["地外视角", "卫星影像", "身体宇宙", "航空照片", "重新估计人类"], "leaf 11 / p.458", "https://archive.org/download/wholeearthepilog00unse/page/n11_w500.jpg"],
+          ["增长模型与能源政治", "工具要问净能量、速度、公平、污染和系统延迟。", "整体系统章最硬的部分，是把能源、生态和经济放在同一张图里。增长不是单项指标，速度不是单纯进步，核能不是中性动力。", ["增长", "速度", "核能", "净能量", "崩溃延迟"], "leaf 21 / p.468", "https://archive.org/download/wholeearthepilog00unse/page/n21_w500.jpg"]
+        ]
+      },
+      {
+        id: "land-use",
+        title: "土地使用：土地不是空地，生命循环才是主角",
+        note: "这一章从识别蘑菇和鸟开始，最后落到厕所、污水和土壤，因为土地不是背景，而是许多生命共同维持的系统。",
+        modules: [
+          ["先学会识别生命", "识别不是收藏名词，而是进入生命关系。", "土地使用章不是从开发开始，而是从看见开始。蘑菇要求耐心和风险判断，鸟类指南要服务眼前的观察，足迹让不在场的动物仍能被读出。", ["地貌", "蘑菇", "鸟", "足迹", "风险"], "leaf 28 / p.475", "https://archive.org/download/wholeearthepilog00unse/page/n28_w500.jpg"],
+          ["植物、草药和树", "植物不是背景装饰，而是药物、气味、食物、恢复和代际农业的入口。", "Whole Earth 让读者进入植物词汇，也进入植物的实际用途。草药把烹饪、香味、染料、驱虫和药用连在一起；树则把个人劳动、村庄恢复和长期农业放在一起。", ["植物词汇", "草药", "树", "恢复", "永久农业"], "leaf 35 / p.482", "https://archive.org/download/wholeearthepilog00unse/page/n35_w500.jpg"],
+          ["不要把循环叫废物", "粪便、污水和土壤不是单独问题，而是营养循环。", "这一组条目直接挑战现代卫生系统的惯性：饮用水被拿去冲走肥料，污水被叫作废物，城市再花巨大成本处理污染。Whole Earth 关心的是怎样把水、固体、营养、土壤和食物重新接回循环。", ["水", "厕所", "污水", "堆肥", "土壤"], "leaf 40 / p.487", "https://archive.org/download/wholeearthepilog00unse/page/n40_w500.jpg"],
+          ["小农和活物边界", "自学有力量，但活物要求师承、观察和承担后果。", "土地使用章最后回到人的尺度：小农怎样计划轮作，牲畜怎样进入土壤循环，害虫控制怎样从毒杀转向关系修复。", ["轮作", "牲畜", "师承", "害虫控制", "园艺"], "leaf 46 / p.493", "https://archive.org/download/wholeearthepilog00unse/page/n46_w500.jpg"]
+        ]
+      },
+      {
+        id: "shelter",
+        title: "住所：房子要能被地点、材料和失败纠正",
+        note: "Whole Earth 不把房子当地产或造型，而把它当作人、地点、结构、材料、气候和维护之间的长期关系。",
+        modules: [
+          ["从小开始", "建房不是先确定宏大形式，而是先在地点中学习。", "住所章从 Lloyd Kahn 的经验开始：先小、先简单，先观察土地。房子不是抽象设计落到地面，而是在太阳、月亮、风、雨、视野、植被和人的变化中逐步长出来。", ["小棚屋", "太阳", "风", "土地观察", "分步建造"], "leaf 59 / p.506", "https://archive.org/download/wholeearthepilog00unse/page/n59_w500.jpg"],
+          ["当地材料和旧料", "材料不只是采购清单，也是地点给出的限制和机会。", "拆除现场的旧木、坡地上的杆式框架、草原上的草皮墙、沙漠里的泥砖和石头，都让住所从商品房回到地点、手和判断。", ["旧料", "泥砖", "石头", "茅草", "地点材料"], "leaf 67 / p.514", "https://archive.org/download/wholeearthepilog00unse/page/n67_w500.jpg"],
+          ["房子也要维护生命", "住所不是建完的物体，而是需要照料的系统。", "一间房子要取暖、防震、通风、维修，也要经受火、水、电和时间。住所章真正反对的是不可理解的住房。", ["木火", "地震固定", "通风", "修理", "安全"], "leaf 70 / p.517", "https://archive.org/download/wholeearthepilog00unse/page/n70_w500.jpg"],
+          ["移动和气候", "好的住所会把气候、移动性和旧结构纳入设计。", "tipi 和 yurt 让居住重新接近移动生活；张拉结构用更少材料覆盖空间；气候设计提醒人不要用燃料弥补所有错误。", ["tipi", "yurt", "张拉结构", "气候", "老房"], "leaf 76 / p.523", "https://archive.org/download/wholeearthepilog00unse/page/n76_w500.jpg"]
+        ]
+      },
+      {
+        id: "soft-tech",
+        title: "软技术：替代不是口号，能交付才算数",
+        note: "这一章最反浪漫：太阳、风和沼气可以是工具，但只有经得起成本、天气、材料和维护检验，才不是口号。",
+        modules: [
+          ["交付而不是推销", "替代技术不能只反对建制，还必须说明什么能用、花多少钱、怎样失败。", "太阳、风和沼气本身免费，但捕获、储存和维护它们的硬件不免费。Whole Earth 要的不是口号，而是能让人真正交付、计算和修理的技术判断。", ["成本", "需求", "失败", "工作手册"], "leaf 80 / p.527", "https://archive.org/download/wholeearthepilog00unse/page/n80_w500.jpg"],
+          ["太阳能硬件细节", "太阳能不是越热越好，细节决定它是否能工作。", "泳池低温集热器、会填充泡珠的 Beadwall、自动转动的 Skylids、55 加仑桶储热墙，都在回答同一个问题：阳光怎样被可靠地留在生活里。", ["低温", "集热器", "保温", "储热"], "leaf 84 / p.531", "https://archive.org/download/wholeearthepilog00unse/page/n84_w500.jpg"],
+          ["实验共同体", "软技术不是孤立产品，而是研究网络和生活实验。", "Zomeworks 像发明者公司，Ouroboros 像学校工作台，New Alchemy 像生态实验室，ILS 像山地能源生活套件。", ["研究网络", "Ark", "风", "太阳", "水产"], "leaf 87 / p.534", "https://archive.org/download/wholeearthepilog00unse/page/n87_w500.jpg"],
+          ["风能和凑合着做", "小技术也要面对天气、金属疲劳、废料和维护。", "风能最能暴露幻想和现实之间的距离。塔架、电池、冰、尘、雷击、维护和成本都会回来。真正的软技术常常从会凑合、会修、会判断开始。", ["天气", "维护", "旧工具", "废料", "组件"], "leaf 90 / p.537", "https://archive.org/download/wholeearthepilog00unse/page/n90_w500.jpg"]
+        ]
+      },
+      {
+        id: "craft",
+        title: "手艺：身体保存的知识",
+        note: "手艺让人重新理解锋利、阻力、湿度、压力、火、纤维、针脚和尺寸，也让被低估的女性与民间技术重新成为知识。",
+        modules: [
+          ["工具制作", "用工具制作工具，是从购买者变成制作者的关键一步。", "《工具制作》让人从螺丝刀开始，慢慢进入剪刀、凿子、铲和自己的工具。这里最重要的不是浪漫，而是眼力、锉削、材料和安全控制。", ["废钢", "锉削", "淬火", "控制"], "leaf 100 / p.547", "https://archive.org/download/wholeearthepilog00unse/page/n100_w500.jpg"],
+          ["材料会反抗", "材料不是被动对象，它们会阻挡、裂开、变形、粘住、烧焦。", "手艺章里的知识往往藏在动作里。刀要够锋利，皮革缝线要一致，陶土会留下手指痕，玻璃和湿木块之间隔着过热蒸汽。", ["锋利", "湿度", "火", "压力", "耐心"], "leaf 104 / p.551", "https://archive.org/download/wholeearthepilog00unse/page/n104_w500.jpg"],
+          ["纤维和女性技术", "纤维技术保存了大量被低估的女性、民间和地方知识。", "从纺线到被缝，这一组条目让人看见长期被当作家务或装饰的技术。针密、图案、篮子的曲线、被子的颜色结构，都是材料、身体和记忆共同形成的知识。", ["纺线", "染色", "针密", "篮编", "被缝"], "leaf 114 / p.561", "https://archive.org/download/wholeearthepilog00unse/page/n114_w500.jpg"]
+        ]
+      },
+      {
+        id: "community",
+        title: "共同体：愿望必须长出基础设施",
+        note: "共同体如果没有钱、法律、卫生、食物、身体知识和信息渠道，很快就会退化成愿望。",
+        modules: [
+          ["可达性网络", "共同体首先是遇到麻烦时知道去哪、打给谁。", "共同体章开头不是田园合照，而是黄页和热线。性病、逃家、药物、暴力、住房和精神危机都需要具体入口。没有可达性，共同体只是漂亮词。", ["黄页", "热线", "转介", "危机"], "leaf 129 / p.576", "https://archive.org/download/wholeearthepilog00unse/page/n129_w500.jpg"],
+          ["共同生活的硬件", "共同生活需要组织、预算、厨房、储备和可重复的做法。", "从 The Farm 到食物合作社，从布餐巾算账到两周应急罐头，Whole Earth 把共同体拆成日常硬件。共同生活不是情绪，而是钱、食物、秤、车、厨房和储藏室。", ["合作社", "厨房", "储备", "预算"], "leaf 141 / p.588", "https://archive.org/download/wholeearthepilog00unse/page/n141_w500.jpg"],
+          ["身体和风险", "共同体要能处理身体的真实事件。", "身体知识让共同体变得严肃。发烧、传染病、性病、避孕、助产、领养哺乳、老年和死亡，都不能交给浪漫愿景处理。", ["急救", "健康", "出生", "死亡", "身体知识"], "leaf 156 / p.603", "https://archive.org/download/wholeearthepilog00unse/page/n156_w500.jpg"],
+          ["权利和出版网络", "access 也是政治问题，谁出版、谁保存历史、谁替谁说话。", "法律手册让人更能使用律师，监狱书让制度逻辑暴露出来，黑人书目和期刊建立被主流排除的知识网络，Access to China 则越过冷战滤镜寻找另一种社会经验。", ["法律", "基金", "监狱", "黑人出版", "中国资料"], "leaf 180 / p.627", "https://archive.org/download/wholeearthepilog00unse/page/n180_w500.jpg"]
+        ]
+      },
+      {
+        id: "nomadics",
+        title: "游牧：移动能力来自地图、维修和风险意识",
+        note: "这一章问的是：离开固定房屋、学校、维修店和交通网络后，人还剩下什么能力？",
+        modules: [
+          ["移动者的资料入口", "真正的移动者先学会找图、读图、查资料。", "Nomadics 不是旅游消费。它从 Source Book 开始，因为移动需要资料网络：地图、路线、组织、学校、供应商、档案和前人的实地经验。", ["地图", "目录", "路线", "边境"], "leaf 187 / p.634", "https://archive.org/download/wholeearthepilog00unse/page/n187_w500.jpg"],
+          ["低能量交通和维修", "拥有交通工具，首先意味着能理解和修理它。", "自行车和汽车在这里不是身份符号，而是可修理系统。车轮、钢丝、链条、锁、发动机、门、床、临时铁丝螺帽，都决定一个人能不能真正移动。", ["自行车", "修车", "车居", "零件"], "leaf 190 / p.637", "https://archive.org/download/wholeearthepilog00unse/page/n190_w500.jpg"],
+          ["空气、水和野外", "自由必须和训练、天气、装备和风险账本放在一起。", "飞行、航海和野外移动都有梦，也都有代价。Whole Earth 会写悬挂滑翔的兴奋，也会立刻写死亡数字；会推荐睡袋，也会讲湿冷、雪崩和裂缝里的身体力学。", ["天气", "导航", "睡袋", "攀登", "风险"], "leaf 197 / p.644", "https://archive.org/download/wholeearthepilog00unse/page/n197_w500.jpg"],
+          ["观察和动物伦理", "感知不能被过量火力替代，动物也不是工具的附件。", "Nomadics 的末端变得谨慎。刀要可靠，气枪奖励技巧，鹰猎不能只靠书，鱼类指南要看见鱼怎样生活。移动自由也可能毁掉被抵达的地方。", ["观察", "刀", "鹰", "鱼", "荒野"], "leaf 214 / p.661", "https://archive.org/download/wholeearthepilog00unse/page/n214_w500.jpg"]
+        ]
+      },
+      {
+        id: "communications",
+        title: "通信：谁能说、听、复制、查找、修理媒介",
+        note: "Whole Earth 关心的不是信息更多，而是谁能说，谁能听，谁能复制，谁能查找，谁能修理媒介本身。",
+        modules: [
+          ["目录、电话和办公室", "通信先落在纸、重量、电话线、文件和时间上。", "Communications 不从媒体理论开始，而从目录、电话和办公室开始。商品怎样被找到，信件怎样称重，电话怎样留言，多人怎样接入，都是 access 的基础设施。", ["目录", "电话", "留言", "文件"], "leaf 223 / p.670", "https://archive.org/download/wholeearthepilog00unse/page/n223_w500.jpg"],
+          ["造书和自行出版", "信息要成为工具，必须能被做成物、复制、查找和保存。", "这一组让人看见一本书怎样被写、印、装订、修复和查找。小报让社区看见自己，参考书让查找变快，OED 让词变成历史工具。", ["书法", "装订", "小报", "索引"], "leaf 230 / p.677", "https://archive.org/download/wholeearthepilog00unse/page/n230_w500.jpg"],
+          ["图像、声音和视频", "媒介不是内容容器，它会改变感知和现实感。", "从 Pynchon 到 TVTV，从墙画到电子音乐，Whole Earth 把感知本身当成工具领域。video 不是小型电视台，而可能是反馈、治疗、参与和本地信息生产。", ["图像", "视频", "声音", "反馈"], "leaf 244 / p.691", "https://archive.org/download/wholeearthepilog00unse/page/n244_w500.jpg"],
+          ["无线电、计算和管理", "逻辑、信号和计算也能回到个人桌面。", "业余无线电穿过灾难，短波让世界重新活跃，TTL 和算法让逻辑机器变得可学，计算器让出版账目可算。信息工具最后进入组织、经济和管理。", ["无线电", "算法", "计算器", "管理"], "leaf 256 / p.703", "https://archive.org/download/wholeearthepilog00unse/page/n256_w500.jpg"]
+        ]
+      },
+      {
+        id: "learning",
+        title: "学习：没有错误，只有制作",
+        note: "这一章把学习从学校拿回来，放进玩具、厨房、实验、开放课堂、地图、身体、药物、治疗、宗教和漫画里。",
+        modules: [
+          ["儿童、玩具和制作", "孩子不是被动学习者，材料和游戏本身就是学习条件。", "Learning 从孩子开始，但不是从学校开始。纸板玩具、管子电话、风筝、木偶和厨房配方，都让孩子通过材料、动作和失败理解世界。", ["玩具", "风筝", "木偶", "厨房"], "leaf 266 / p.713", "https://archive.org/download/wholeearthepilog00unse/page/n266_w500.jpg"],
+          ["去学校化和开放课堂", "学习权会被上学义务限制，教材也可以是任何能引发学习活动的材料。", "Whole Earth 不只是批评学校，它寻找替代结构：价值澄清、开放课堂、学生和教师共同生产的材料，以及让广告和媒介环境变得可见的练习。", ["去学校化", "开放课堂", "教材", "媒体环境"], "leaf 272 / p.719", "https://archive.org/download/wholeearthepilog00unse/page/n272_w500.jpg"],
+          ["实验和想象地图", "想象和实验都能让世界变成可学习对象。", "幻想地图让文学世界像去过的地方，战争游戏让规则和地形显形，电学实验让魔法变成可重复现象，污染测量则把社区环境变成科学对象。", ["地图", "游戏", "星图", "实验"], "leaf 283 / p.730", "https://archive.org/download/wholeearthepilog00unse/page/n283_w500.jpg"],
+          ["意识、治疗和宗教", "意识改变也需要知识、实验、风险判断和训练。", "这一章最远处进入意识、治疗和宗教，但仍保持工具感。药物需要分析，灵能需要实验设计，治疗看重实际效果，佛教和禅不应变成新身份，而是叫醒人的方法。", ["药物", "治疗", "冥想", "无意识"], "leaf 290 / p.737", "https://archive.org/download/wholeearthepilog00unse/page/n290_w500.jpg"]
+        ]
+      },
+      {
+        id: "publishing",
+        title: "出版业务、索引与封底：一本书公开自己的生产系统",
+        note: "Epilog 最后把一本书如何被生产、花多少钱、谁拿走什么、索引如何工作都交给读者看。",
+        modules: [
+          ["一本书怎样被生产", "Whole Earth 的声音不是一个人的声音，而是一套协作机器。", "Epilog 在尾部公开制作人员，让读者看见一本书背后的劳动系统。编辑、研究、校对、贴版、印刷、发行和联络共同组成它的声音。", ["编辑", "研究", "排版", "印刷"], "leaf 303 / p.750", "https://archive.org/download/wholeearthepilog00unse/page/n303_w500.jpg"],
+          ["钱和组织结构", "工具伦理也包括公开钱怎样流动。", "一本四美元的书怎样分钱，工资、印刷、电话、旅行和研究花多少，POINT 的钱支持什么，Epilog 都摊开给读者看。商业在这里是出版、赠款和实验共同体之间的摇摆。", ["钱", "POINT", "成本", "赠款"], "leaf 304 / p.751", "https://archive.org/download/wholeearthepilog00unse/page/n304_w500.jpg"],
+          ["索引和封底句子", "索引也是 access device，封底句子则把寻找和试错留给读者。", "索引把整本工具宇宙重新折叠成查找路径。最后的 Stay hungry. Stay foolish. 在这本书里不是鸡汤，而是持续需要、持续寻找、愿意试错和离开体面路径的能力。", ["索引", "查找", "hungry", "foolish"], "leaf 322 / p.769", "https://archive.org/download/wholeearthepilog00unse/page/n322_w500.jpg"]
+        ]
+      }
+    ];
+
+    const toc = document.querySelector("#toc");
+    const content = document.querySelector("#content");
+    let moduleIndex = 1;
+
+    chapters.forEach((chapter, chapterIndex) => {
+      const tocItem = document.createElement("li");
+      tocItem.innerHTML = `<a href="#${chapter.id}">${chapter.title}</a>`;
+      toc.appendChild(tocItem);
+
+      const section = document.createElement("section");
+      section.className = "chapter";
+      section.id = chapter.id;
+      section.innerHTML = `
+        <header class="chapter-heading">
+          <div class="chapter-kicker">${String(chapterIndex + 1).padStart(2, "0")} / Chapter</div>
+          <h2>${chapter.title}</h2>
+          <p class="chapter-note">${chapter.note}</p>
+        </header>
+        <div class="modules"></div>
+      `;
+
+      const moduleList = section.querySelector(".modules");
+
+      chapter.modules.forEach((item) => {
+        const [title, anchor, body, labels, evidence, scan] = item;
+        const article = document.createElement("article");
+        article.className = "module";
+        article.innerHTML = `
+          <div class="module-copy">
+            <div class="module-head">
+              <div class="module-number">Module ${String(moduleIndex).padStart(2, "0")}</div>
+              <h3>${title}</h3>
+            </div>
+            <p class="anchor">${anchor}</p>
+            <p class="body">${body}</p>
+            <ul class="labels">${labels.map((label) => `<li>${label}</li>`).join("")}</ul>
+            <p class="source">Whole Earth Epilog 1974 / ${evidence}</p>
+          </div>
+        `;
+        moduleIndex += 1;
+        moduleList.appendChild(article);
+      });
+
+      content.appendChild(section);
+    });
+
+    const footer = document.createElement("footer");
+    footer.className = "footer";
+    footer.textContent = "Source: /Users/yuwen/work/wholeearth/ai-https-wholeearth-info/content/readings/1974_whole_earth_epilog_chapter_translation_zh.md";
+    content.appendChild(footer);
+  </script>
+</body>
+</html>
