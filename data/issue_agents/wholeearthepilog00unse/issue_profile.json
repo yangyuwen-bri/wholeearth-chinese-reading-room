@@ -1,0 +1,104 @@
+{
+  "schema_version": "issue-agent-bundle-v1",
+  "issue_id": "wholeearthepilog00unse",
+  "title": "Whole Earth Epilog, October 1974",
+  "year": 1974,
+  "date_label": "October 1974",
+  "internet_archive_identifier": "wholeearthepilog00unse",
+  "archive_url": "https://archive.org/details/wholeearthepilog00unse",
+  "pdf_url": "https://archive.org/download/wholeearthepilog00unse/wholeearthepilog00unse.pdf",
+  "local_pdf": "_local/pdf_sources/wholeearthepilog00unse.pdf",
+  "page_count": 322,
+  "leaf_range": [
+    0,
+    321
+  ],
+  "sections": [
+    {
+      "section": "Front Matter",
+      "section_zh": "入口与方法",
+      "leaf_start": 0,
+      "leaf_end": 4
+    },
+    {
+      "section": "Whole Systems",
+      "section_zh": "整体系统",
+      "leaf_start": 5,
+      "leaf_end": 25
+    },
+    {
+      "section": "Land Use",
+      "section_zh": "土地使用",
+      "leaf_start": 26,
+      "leaf_end": 57
+    },
+    {
+      "section": "Shelter",
+      "section_zh": "住所",
+      "leaf_start": 58,
+      "leaf_end": 77
+    },
+    {
+      "section": "Soft Technology",
+      "section_zh": "软技术",
+      "leaf_start": 78,
+      "leaf_end": 97
+    },
+    {
+      "section": "Craft",
+      "section_zh": "手艺",
+      "leaf_start": 98,
+      "leaf_end": 127
+    },
+    {
+      "section": "Community",
+      "section_zh": "共同体",
+      "leaf_start": 128,
+      "leaf_end": 185
+    },
+    {
+      "section": "Nomadics",
+      "section_zh": "游牧",
+      "leaf_start": 186,
+      "leaf_end": 221
+    },
+    {
+      "section": "Communications",
+      "section_zh": "通信",
+      "leaf_start": 222,
+      "leaf_end": 261
+    },
+    {
+      "section": "Learning",
+      "section_zh": "学习",
+      "leaf_start": 262,
+      "leaf_end": 301
+    },
+    {
+      "section": "Business / Index",
+      "section_zh": "出版业务、索引与封底",
+      "leaf_start": 302,
+      "leaf_end": 321
+    }
+  ],
+  "source_paths": {
+    "chapter_translation": "content/readings/1974_whole_earth_epilog_chapter_translation_zh.md",
+    "page_level_reading": "content/readings/1974_whole_earth_epilog_page_level_chinese_reading.md",
+    "page_dossier": "_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json",
+    "bibliography_json": "data/bibliography/1974_whole_earth_epilog_links.json",
+    "evidence_dossier": "data/evidence_dossiers/issues/whole-earth-epilog-october-1974.json"
+  },
+  "bibliography_status_counts": {
+    "confirmed": 140,
+    "not_linked_ambiguous_title": 13,
+    "not_linked_candidate_mismatch": 26,
+    "not_linked_no_reliable_match": 8,
+    "not_linked_source_not_located": 29
+  },
+  "editorial_status": {
+    "page_coverage": "322/322 leaves",
+    "chapter_translation": "full-issue chapter-structured Chinese source draft",
+    "bibliography_audit": "216 references audited",
+    "answer_policy": "Use Chinese reader-facing synthesis with leaf/page/scan citations; verify against scans before quoting original English."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Issue Agent Manifest",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "issue_id",
+    "title",
+    "record_counts",
+    "outputs"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "generated_at": {
+      "type": "string"
+    },
+    "issue_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "bundle_path": {
+      "type": "string"
+    },
+    "record_counts": {
+      "type": "object"
+    },
+    "outputs": {
+      "type": "object"
+    },
+    "source_paths": {
+      "type": "object"
+    },
+    "runtime_notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

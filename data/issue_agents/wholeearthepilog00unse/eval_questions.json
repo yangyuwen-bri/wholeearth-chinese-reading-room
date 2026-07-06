@@ -1,0 +1,316 @@
+[
+  {
+    "id": "epilog-eval-001",
+    "category": "overview",
+    "question_zh": "这本 Epilog 和普通商品目录有什么不同？",
+    "required_sources": [
+      "chapter",
+      "page"
+    ],
+    "expected_evidence": [
+      "leaf 3",
+      "access to tools"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-002",
+    "category": "overview",
+    "question_zh": "为什么开篇要引用《约伯记》？",
+    "required_sources": [
+      "chapter",
+      "page"
+    ],
+    "expected_evidence": [
+      "leaf 2",
+      "humility"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-003",
+    "category": "quote",
+    "question_zh": "Stay hungry. Stay foolish. 在哪一页？",
+    "required_sources": [
+      "page"
+    ],
+    "expected_evidence": [
+      "leaf 321",
+      "封底"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-004",
+    "category": "section",
+    "question_zh": "Whole Systems 这一章的核心作用是什么？",
+    "required_sources": [
+      "chapter",
+      "page"
+    ],
+    "expected_evidence": [
+      "Whole Systems",
+      "Bateson"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-005",
+    "category": "section",
+    "question_zh": "Land Use 章如何把生态和具体工具连起来？",
+    "required_sources": [
+      "chapter",
+      "page"
+    ],
+    "expected_evidence": [
+      "Land Use"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-006",
+    "category": "section",
+    "question_zh": "Shelter 章是不是只讲房子？",
+    "required_sources": [
+      "chapter",
+      "page"
+    ],
+    "expected_evidence": [
+      "Shelter"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-007",
+    "category": "section",
+    "question_zh": "Soft Technology 在这本书里是什么意思？",
+    "required_sources": [
+      "chapter",
+      "page"
+    ],
+    "expected_evidence": [
+      "Soft Technology"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-008",
+    "category": "section",
+    "question_zh": "Craft 章和现代 DIY 文化有什么关系？",
+    "required_sources": [
+      "chapter",
+      "page"
+    ],
+    "expected_evidence": [
+      "Craft"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-009",
+    "category": "section",
+    "question_zh": "Community 章处理了哪些社会议题？",
+    "required_sources": [
+      "chapter",
+      "page"
+    ],
+    "expected_evidence": [
+      "Community"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-010",
+    "category": "section",
+    "question_zh": "Nomadics 章为什么重要？",
+    "required_sources": [
+      "chapter",
+      "page"
+    ],
+    "expected_evidence": [
+      "Nomadics"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-011",
+    "category": "section",
+    "question_zh": "Communications 章如何理解出版和媒介？",
+    "required_sources": [
+      "chapter",
+      "page"
+    ],
+    "expected_evidence": [
+      "Communications"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-012",
+    "category": "section",
+    "question_zh": "Learning 章的教育观是什么？",
+    "required_sources": [
+      "chapter",
+      "page"
+    ],
+    "expected_evidence": [
+      "Learning"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-013",
+    "category": "bibliography",
+    "question_zh": "《Steps to an Ecology of Mind》在书中承担什么角色？",
+    "required_sources": [
+      "bibliography",
+      "chapter"
+    ],
+    "expected_evidence": [
+      "confirmed",
+      "Bateson"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-014",
+    "category": "bibliography",
+    "question_zh": "Small is Beautiful 有没有外部链接？",
+    "required_sources": [
+      "bibliography"
+    ],
+    "expected_evidence": [
+      "confirmed"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-015",
+    "category": "bibliography",
+    "question_zh": "Acres, U.S.A. 为什么没有挂链接？",
+    "required_sources": [
+      "bibliography"
+    ],
+    "expected_evidence": [
+      "not_linked"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-016",
+    "category": "bibliography",
+    "question_zh": "哪些书目是确认链接，哪些是不挂链接？",
+    "required_sources": [
+      "bibliography"
+    ],
+    "expected_evidence": [
+      "status counts"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-017",
+    "category": "risk",
+    "question_zh": "如果我要引用原英文原句，需要注意什么？",
+    "required_sources": [
+      "page"
+    ],
+    "expected_evidence": [
+      "scan verification",
+      "OCR risk"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-018",
+    "category": "risk",
+    "question_zh": "多栏和索引页为什么不适合直接按 OCR 回答？",
+    "required_sources": [
+      "page"
+    ],
+    "expected_evidence": [
+      "qa_flags"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-019",
+    "category": "cross",
+    "question_zh": "Bateson、Buber 和 Whole Earth 的工具观有什么关系？",
+    "required_sources": [
+      "chapter",
+      "bibliography"
+    ],
+    "expected_evidence": [
+      "Whole Systems"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-020",
+    "category": "cross",
+    "question_zh": "这本书如何把'像神一样'这句话变得不那么傲慢？",
+    "required_sources": [
+      "chapter",
+      "page"
+    ],
+    "expected_evidence": [
+      "purpose",
+      "Job"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-021",
+    "category": "navigation",
+    "question_zh": "我想从生态/土地使用开始读，应该从哪些 leaf 进入？",
+    "required_sources": [
+      "page"
+    ],
+    "expected_evidence": [
+      "leaf 26",
+      "leaf 57"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-022",
+    "category": "navigation",
+    "question_zh": "我想查一本册子或书，智能体应该怎么回答？",
+    "required_sources": [
+      "bibliography"
+    ],
+    "expected_evidence": [
+      "confirmed",
+      "not_linked"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-023",
+    "category": "boundary",
+    "question_zh": "你能给我逐字翻译整本书吗？",
+    "required_sources": [
+      "system"
+    ],
+    "expected_evidence": [
+      "refuse full-text claim",
+      "reading guide"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  },
+  {
+    "id": "epilog-eval-024",
+    "category": "boundary",
+    "question_zh": "这本书里的邮购地址今天还能用吗？",
+    "required_sources": [
+      "bibliography",
+      "system"
+    ],
+    "expected_evidence": [
+      "historical",
+      "do not treat as current"
+    ],
+    "answer_policy": "Answer in Chinese; cite leaf/page/scan when factual; state uncertainty when retrieval context is insufficient."
+  }
+]

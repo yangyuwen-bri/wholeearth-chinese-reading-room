@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Issue Agent Eval Question",
+  "type": "object",
+  "required": [
+    "id",
+    "category",
+    "question_zh",
+    "required_sources",
+    "expected_evidence",
+    "answer_policy"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "question_zh": {
+      "type": "string"
+    },
+    "required_sources": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "expected_evidence": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "answer_policy": {
+      "type": "string"
+    }
+  }
+}
