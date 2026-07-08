@@ -22,6 +22,11 @@
       --violet: #9d84cf;
       --mono: "Courier New", ui-monospace, monospace;
       --serif: "Iowan Old Style", "Songti SC", "STSong", Georgia, serif;
+      --status-reader: #8cff72;
+      --status-guide: #e8a93b;
+      --status-map: #61b5c7;
+      --status-index: #d6c480;
+      --status-scan: #8b856a;
     }
 
     * { box-sizing: border-box; }
@@ -339,7 +344,7 @@
       min-height: 0;
       overflow: hidden;
       display: grid;
-      grid-template-rows: auto auto auto minmax(0, 1fr);
+      grid-template-rows: auto auto auto auto minmax(0, 1fr);
       border: 2px solid #090d08;
       border-radius: 18px;
       background:
@@ -382,19 +387,20 @@
     .mini h3 {
       position: relative;
       z-index: 1;
-      margin: 12px 0 10px;
+      margin: 10px 0 8px;
       color: var(--cream);
-      font-size: clamp(24px, 2.15vw, 38px);
-      line-height: .95;
+      font-size: clamp(20px, 1.75vw, 30px);
+      line-height: 1;
       font-weight: 500;
+      text-wrap: balance;
     }
 
     .selected-cover {
       position: relative;
       z-index: 1;
-      width: min(92px, 34%);
+      width: min(82px, 30%);
       aspect-ratio: 3 / 4;
-      margin-top: 12px;
+      margin-top: 10px;
       border: 1px solid rgba(244,232,185,.38);
       background: #10130c;
       object-fit: cover;
@@ -402,13 +408,47 @@
       transform: rotate(-1.5deg);
     }
 
+    .status-strip {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 7px;
+      margin-top: 10px;
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .status-badge {
+      display: inline-flex;
+      align-items: center;
+      min-height: 22px;
+      padding: 4px 8px;
+      border: 1px solid currentColor;
+      background: rgba(0,0,0,.35);
+      color: var(--status-scan);
+      box-shadow: 0 0 16px color-mix(in srgb, currentColor 24%, transparent);
+    }
+
+    .status-badge[data-status="reader"] { color: var(--status-reader); }
+    .status-badge[data-status="guide"] { color: var(--status-guide); }
+    .status-badge[data-status="map"] { color: var(--status-map); }
+    .status-badge[data-status="indexed"] { color: var(--status-index); }
+
+    .status-path {
+      color: rgba(216,255,205,.7);
+    }
+
     .mini p {
       position: relative;
       z-index: 1;
       margin: 0;
       color: #d8ffcd;
-      font-size: 13px;
-      line-height: 1.38;
+      font-size: 12px;
+      line-height: 1.32;
     }
 
     .tape {
@@ -436,6 +476,22 @@
       letter-spacing: .12em;
       text-transform: uppercase;
       box-shadow: inset 0 1px rgba(255,255,255,.14), 0 4px 0 rgba(0,0,0,.35);
+    }
+
+    .scan-link[data-status="reader"] {
+      border-color: rgba(140,255,114,.85);
+      background: linear-gradient(180deg, #24411c, #101d0d);
+      box-shadow: inset 0 1px rgba(255,255,255,.16), 0 4px 0 rgba(0,0,0,.35), 0 0 20px rgba(140,255,114,.12);
+    }
+
+    .scan-link[data-status="guide"] {
+      border-color: rgba(232,169,59,.9);
+      background: linear-gradient(180deg, #483212, #1d170d);
+    }
+
+    .scan-link[data-status="map"] {
+      border-color: rgba(97,181,199,.8);
+      background: linear-gradient(180deg, #18313a, #0d181d);
     }
 
     .controls {
@@ -618,7 +674,7 @@
 
     .ticker-line {
       display: grid;
-      grid-template-columns: 46px minmax(0, 1fr);
+      grid-template-columns: 46px minmax(0, 1fr) auto;
       gap: 8px;
       padding: 4px 0;
       border-bottom: 1px dashed rgba(140,255,114,.12);
@@ -634,6 +690,16 @@
       white-space: nowrap;
       text-overflow: ellipsis;
     }
+
+    .ticker-line em {
+      color: rgba(244,232,185,.72);
+      font-style: normal;
+      white-space: nowrap;
+    }
+
+    .ticker-line[data-status="reader"] em { color: var(--status-reader); }
+    .ticker-line[data-status="guide"] em { color: var(--status-guide); }
+    .ticker-line[data-status="map"] em { color: var(--status-map); }
 
     .upper > .bay:first-child h2 {
       visibility: hidden;
@@ -652,6 +718,9 @@
       .controls {
         grid-template-columns: 1fr;
       }
+      .crt { order: 1; }
+      .side { order: 2; }
+      .upper > .bay:first-child { order: 3; }
       .crt { min-height: 660px; }
       .screen { min-height: 600px; }
       .upper > .bay:first-child h2 { visibility: hidden; }
@@ -682,6 +751,7 @@
           <section class="mini">
             <div class="meta"><span id="issueSeries">series</span><span id="issueYear">year</span></div>
             <img class="selected-cover" id="issueCover" alt="">
+            <div class="status-strip"><span class="status-badge" id="issueStatus" data-status="scan">acquiring</span><span class="status-path" id="issuePath">library route</span></div>
             <h3 id="issueTitle">Acquiring signal</h3>
             <p id="issueSummary">正在读取本地索引。</p>
           </section>
@@ -733,16 +803,43 @@
       "专题出版物": 0xd36b50
     };
     const colorCss = Object.fromEntries(Object.entries(colors).map(([k, v]) => [k, "#" + v.toString(16).padStart(6, "0")]));
-    const mapHost = window.location.origin;
+    const here = path => new URL(path, window.location.href).href;
     const localMaps = {
-      wholeearthreview00unse: `${mapHost}/content/maps/1985/wholeearthreview00unse.html`,
-      wholeearthreview00unse_0: `${mapHost}/content/maps/1985/wholeearthreview00unse_0.html`,
-      wholeearthreview00unse_1: `${mapHost}/content/maps/1985/wholeearthreview00unse_1.html`,
-      wholeearthreview00unse_2: `${mapHost}/content/maps/1985/wholeearthreview00unse_2.html`,
-      wholeearthreview00unse_3: `${mapHost}/content/maps/1985/wholeearthreview00unse_3.html`,
-      wholeearthreview00unse_4: `${mapHost}/content/maps/1985/wholeearthreview00unse_4.html`,
-      wholeearthsoftwa00unse_3: `${mapHost}/content/maps/1985/wholeearthsoftwa00unse_3.html`
+      wholeearthreview00unse: here("../maps/1985/wholeearthreview00unse.html"),
+      wholeearthreview00unse_0: here("../maps/1985/wholeearthreview00unse_0.html"),
+      wholeearthreview00unse_1: here("../maps/1985/wholeearthreview00unse_1.html"),
+      wholeearthreview00unse_2: here("../maps/1985/wholeearthreview00unse_2.html"),
+      wholeearthreview00unse_3: here("../maps/1985/wholeearthreview00unse_3.html"),
+      wholeearthreview00unse_4: here("../maps/1985/wholeearthreview00unse_4.html"),
+      wholeearthsoftwa00unse_3: here("../maps/1985/wholeearthsoftwa00unse_3.html")
     };
+    const readingDestinations = {
+      wholeearthepilog00unse: {
+        kind: "reader",
+        label: "开放阅读室",
+        path: "中文精读 / 1974 Epilog",
+        action: "Enter Chinese Reading Room",
+        url: here("../../reader-prototype/index.html"),
+        note: "这一期已开放中文对照阅读室：左侧是真实扫描页，右侧是中文精读正文。"
+      },
+      wholeearthsoftwa00unse_3: {
+        kind: "guide",
+        label: "导读本",
+        path: "中文导读 / 1985 Software",
+        action: "Open Chinese Guide",
+        url: localMaps.wholeearthsoftwa00unse_3,
+        note: "这一期已有中文导读和知识地图，是下一间阅读室的候选。"
+      },
+      wholeearthreview00unse_3: {
+        kind: "map",
+        label: "样本地图",
+        path: "可视化导读 / 1985 Review",
+        action: "Open Reading Map",
+        url: localMaps.wholeearthreview00unse_3,
+        note: "这一期已有可视化导读样本，可从地图进入原刊结构。"
+      }
+    };
+    const featuredIdentifier = "wholeearthepilog00unse";
 
     const canvas = document.getElementById("webgl");
     const screen = document.getElementById("screen");
@@ -843,7 +940,44 @@
     }
 
     function readingMapUrl(issue) {
-      return localMaps[issue.identifier] || issue.archive_url || issue.url || "#";
+      return issueStatus(issue).url;
+    }
+
+    function archiveUrl(issue) {
+      return issue.archive_url || issue.url || "#";
+    }
+
+    function issueStatus(issue) {
+      const explicit = readingDestinations[issue.identifier];
+      if (explicit) return explicit;
+      if (localMaps[issue.identifier]) {
+        return {
+          kind: "map",
+          label: "阅读地图",
+          path: "可视化导读 / map",
+          action: "Open Reading Map",
+          url: localMaps[issue.identifier],
+          note: "这一期已有可视化阅读地图，可先从地图进入原刊结构。"
+        };
+      }
+      if (readableSections(issue).length) {
+        return {
+          kind: "indexed",
+          label: "已建索引",
+          path: "档案索引 / dossier",
+          action: "Open Archive Page",
+          url: archiveUrl(issue),
+          note: "这一期已进入文库索引，暂未整理成中文阅读室。"
+        };
+      }
+      return {
+        kind: "scan",
+        label: "原始扫描",
+        path: "Archive / scan",
+        action: "Open Archive Page",
+        url: archiveUrl(issue),
+        note: "这一期暂时只作为原始扫描信号保留。"
+      };
     }
 
     function textureFromCanvas(draw) {
@@ -1221,29 +1355,37 @@
 
     function renderTicker() {
       const list = visibleIssues().slice(0, 18);
-      tickerEl.innerHTML = list.map(issue => `
-        <div class="ticker-line"><b>${issue.year}</b><span>${safe(issue.title)}</span></div>
-      `).join("");
+      tickerEl.innerHTML = list.map(issue => {
+        const status = issueStatus(issue);
+        return `<div class="ticker-line" data-status="${safe(status.kind)}"><b>${issue.year}</b><span>${safe(issue.title)}</span><em>${safe(status.label)}</em></div>`;
+      }).join("");
     }
 
     function setSelected(issue) {
       selected = issue || visibleIssues()[0] || stats.issues[0];
       const series = stats.series.find(item => item.collection === selected.collection);
+      const status = issueStatus(selected);
       document.getElementById("issueSeries").textContent = selected.collection;
       document.getElementById("issueYear").textContent = [selected.year, selected.season].filter(Boolean).join(" ");
       document.getElementById("issueTitle").textContent = selected.title;
       document.getElementById("issueCover").src = coverPath(selected);
+      const statusBadge = document.getElementById("issueStatus");
+      statusBadge.textContent = status.label;
+      statusBadge.dataset.status = status.kind;
+      document.getElementById("issuePath").textContent = status.path;
       const entries = readableSections(selected);
       const topicLine = (selected.topics || []).slice(0, 4).join(" / ");
       document.getElementById("issueSummary").textContent = entries.length
-        ? `${series?.role || "这一期"}。这期可以先从「${entries.join("」「")}」进入原刊；${topicLine ? `主题信号集中在「${topicLine}」。` : "它更像一组等待继续深读的档案信号。"}`
-        : `${series?.summary || "索引里暂无稳定目录入口"} 这一期需要回到原始扫描继续整理。`;
-      document.getElementById("issueTape").textContent = `signals: ${(selected.topics || []).join(" / ") || "--"} · pages: ${selected.pages || "--"} · archive id: ${selected.identifier || "--"}`;
+        ? `${status.note} ${series?.role || "这一期"}。可先从「${entries.join("」「")}」进入；${topicLine ? `主题信号集中在「${topicLine}」。` : "它更像一组等待继续深读的档案信号。"}`
+        : `${status.note} ${series?.summary || "索引里暂无稳定目录入口"}`;
+      document.getElementById("issueTape").textContent = `route: ${status.label} · signals: ${(selected.topics || []).join(" / ") || "--"} · pages: ${selected.pages || "--"} · archive id: ${selected.identifier || "--"}`;
       const mapLink = document.getElementById("mapLink");
-      const localMap = localMaps[selected.identifier];
       mapLink.href = readingMapUrl(selected);
-      mapLink.textContent = localMap ? "Open Reading Map" : "Open Archive Page";
-      document.getElementById("scanLink").href = selected.archive_url || selected.url || "#";
+      mapLink.textContent = status.action;
+      mapLink.dataset.status = status.kind;
+      const scanLink = document.getElementById("scanLink");
+      scanLink.href = archiveUrl(selected);
+      scanLink.textContent = "Open Archive Scan";
       issueMeshes.forEach(mesh => {
         const isSelected = mesh.userData.issue.identifier === selected.identifier;
         const focused = isFocusedIssue(mesh.userData.issue);
@@ -1370,16 +1512,17 @@
     async function boot() {
       stats = await fetch("../data/wholeearth_macro_stats.json").then(response => response.json());
       coverManifest = (await fetch("../assets/covers_manifest.json").then(response => response.json())).covers || {};
+      const featuredIssue = stats.issues.find(issue => issue.identifier === featuredIdentifier) || stats.issues[0];
       document.getElementById("rangeReadout").textContent = `RANGE ${stats.year_min}-${stats.year_max}`;
       rangeEl.min = stats.year_min;
       rangeEl.max = stats.year_max;
-      rangeEl.value = 1985;
+      rangeEl.value = featuredIssue?.year || 1974;
       makeEarth();
       renderChannels();
       renderBars();
       renderTicker();
       rebuildSignals();
-      setSelected(stats.issues[0]);
+      setSelected(featuredIssue);
       updateKnob(Number(rangeEl.value));
       resize();
       animate();

@@ -34,6 +34,14 @@
 
 ## 文库现状
 
+### 对外入口
+
+- **文库控制台首页**：`index.html` 会进入 `content/demos/wholeearth_webgl_console_demo.html`。
+- WebGL 控制台保留 147 期围绕地球运行的信号视图，并按阅读状态分流：
+  - `开放阅读室`：进入对应中文阅读室（当前为 1974 Epilog）。
+  - `导读本` / `阅读地图`：进入已有中文导读或可视化地图。
+  - `已建索引` / `原始扫描`：进入 Archive 原刊页，等待后续整理。
+
 ### 精读本（导读 + 章节译写齐备）
 
 - **Whole Earth Epilog, October 1974**
@@ -65,9 +73,9 @@
 - `content/readings/1974_whole_earth_epilog_page_level_chinese_reading.md`（页级证据工作台）
 - `content/readings/1974_whole_earth_epilog_bibliography_links.md`（书目/链接审计）
 
-### 实验归档（非产品方向）
+### 实验归档（非当前读者产品）
 
-知识地图、科幻控制台 demo、issue-agent 问答（`content/maps/`、`content/demos/`、`data/issue_agents/`、`scripts/serve_issue_agent.py`）为读期过程中的衍生实验，保留但不承担产品承诺。
+`content/maps/` 中的知识地图已作为文库控制台的导读入口之一保留；`data/issue_agents/` 与 `scripts/serve_issue_agent.py` 仍为实验工作台，不承担公开产品承诺。
 
 ## 目录规划（拟议，文件尚未搬移）
 
