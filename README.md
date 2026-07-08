@@ -1,129 +1,113 @@
-# 全球概览中文精读文库 / Whole Earth Chinese Close-Reading Library
+# 全球概览中文阅读室
 
-把 Whole Earth 系列出版物（Whole Earth Catalog / Epilog / Software Catalog / CoEvolution Quarterly 等）做成中文读者可以真正读进去的精读本。工作基于 `wholeearth.info` 与 Internet Archive 扫描，以 OCR、页级证据和扫描图链接为编辑底线：不靠标题和目录猜内容。
+Whole Earth Chinese Reading Room is a Chinese close-reading project for the Whole Earth family of publications, including *Whole Earth Catalog*, *Whole Earth Epilog*, *CoEvolution Quarterly*, *Whole Earth Software Catalog*, and *Whole Earth Review*.
 
-## 产品定义
+The project turns scanned issues into reader-facing Chinese guides, structured reading rooms, and page-linked research material. It is not a bulk OCR dump. Each published issue is treated as an edited reading object: original scan, Chinese guide, section structure, and page-level evidence stay connected.
 
-一期的产品是**一部中文精读本**，由两层组成：
+**Live site:** <https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/>
 
-1. **导读作序**：这期是什么、为什么值得读、怎么读。面向读者的完整叙述，不带内部工作语言。
-2. **章节译写正文**：按原书顺序，保留"条目—判断—摘录"的肌理，把原书转成可连续阅读的中文。这是精读本的主体。对失效地址、旧价格和重复出版信息做压缩处理。
+## What is published now
 
-**证据层是内部基础设施，不是读者产品**：页级证据稿、编辑结构稿、书目审计、147 期 dossier 都属于工作台。它们支撑精读本的可信度（每一处判断可回溯到 leaf / 印刷页 / 扫描图），但不和成品混同展示。
+| Status | Issue | Entry point | Notes |
+| --- | --- | --- | --- |
+| Open reading room | *Whole Earth Epilog*, October 1974 | `reader-prototype/index.html` | Chinese close-reading text with synchronized Internet Archive scan pages. |
+| Chinese guide | *Whole Earth Software Catalog 2.0*, Fall 1985 | `content/readings/1985_software_catalog_full_chinese_reading.md` | Full guide and page-level reading notes; not yet promoted to a complete reading room. |
+| Archive atlas | 147 Whole Earth issues | `content/demos/wholeearth_webgl_console_demo.html` | WebGL console for navigating the publication series and routing issues by reading status. |
 
-明确不做的：
+## Public interface
 
-- 不承诺 147 期全集覆盖。一年做几期，看兴趣和精力。
-- 不做逐字对照的全文翻译档案。译写以可读性和忠实肌理为准，不是 diplomatic edition。
-- 质量线以 1974 Epilog 章节译写版为基准；自用即发布，不为发布降低标准。
+The public home page is a WebGL signal console:
 
-## 每期完成标准
+- 147 issues orbit a central Earth model.
+- The right-hand signal panel shows the selected issue and its reading status.
+- Issues are routed as `开放阅读室`, `导读本`, `阅读地图`, `已建索引`, or `原始扫描`.
+- The current featured issue is *Whole Earth Epilog*, October 1974, with a direct link into the Chinese reading room.
 
-一期精读本视为完成，需要全部满足：
+This interface is intended to become the front door for future Chinese reading rooms, not just a one-off demo.
 
-1. 导读作序完成，无模板化章节节奏，无内部选题/生产语言。
-2. 章节译写正文覆盖原书全部章节结构（含前置页、出版机制、索引、封底）。
-3. 通过三项 QA：章节覆盖检查、重复模板语言检查、过度声称检查。
-4. **成稿校对一遍**：半翻译残留（如"夜shade"）、专名拼写、页码/leaf 引用抽查。
-5. 页级证据稿在工作台中可回溯，OCR/版面高风险页有标注。
+## Editorial model
 
-## 发布分层
+The project separates three layers:
 
-- **自用与私下分享**：精读本全部内容。
-- **公开发布**：导读作序可全文公开；章节译写正文接近整书译写，原书版权仍然有效（Point Foundation 等），公开时需收缩为"精编+评述"形态或节选。公开任何一期之前先按此分层裁剪，不直接把译写正文全文公开。
+1. **Reading room**: the reader-facing product. It combines Chinese editorial text with source scan navigation.
+2. **Guide and map**: intermediate public material for issues that have been studied but not yet rewritten as full reading rooms.
+3. **Workbench**: OCR dossiers, page evidence, bibliography audits, anchor checks, and scripts used to verify the reading material.
 
-## 文库现状
+Promotion from workbench to public reading room is manual and selective. The goal is a small number of high-quality Chinese reading rooms, not automatic coverage of every issue.
 
-### 对外入口
+## Current data foundation
 
-- **文库控制台首页**：`index.html` 会进入 `content/demos/wholeearth_webgl_console_demo.html`。
-- WebGL 控制台保留 147 期围绕地球运行的信号视图，并按阅读状态分流：
-  - `开放阅读室`：进入对应中文阅读室（当前为 1974 Epilog）。
-  - `导读本` / `阅读地图`：进入已有中文导读或可视化地图。
-  - `已建索引` / `原始扫描`：进入 Archive 原刊页，等待后续整理。
+- 147 issues are indexed.
+- Page-level OCR dossiers cover 22,162 pages.
+- Coverage QA currently passes for 147/147 issues.
+- The 1974 Epilog reader uses Archive leaves 0-321; leaf 321 is the back cover and leaf 322 is a scanner calibration page.
+- Body printed-page mapping for 1974 Epilog uses `printed page = leaf + 449`.
 
-### 精读本（导读 + 章节译写齐备）
-
-- **Whole Earth Epilog, October 1974**
-  - 导读作序：`content/readings/1974_whole_earth_epilog_reader_chinese.md`
-  - 章节译写正文：`content/readings/1974_whole_earth_epilog_chapter_translation_zh.md`
-  - 阅读入口：`reader-prototype/index.html`（当前最适合对外展示的对照阅读器）
-  - 覆盖：前置页、Whole Systems、Land Use、Shelter、Soft Technology、Craft、Community、Nomadics、Communications、Learning、出版机制、索引、封底
-  - QA：内容页按 Archive leaf 0-321 读取；正文印刷页号按 `leaf + 449` 映射；封底 `Stay hungry. Stay foolish.` 于 leaf 321 扫描确认，leaf 322 为扫描校准页；书目审计 216 条（140 条确认可用链接，76 条明确不链）
-  - 待办：成稿校对一遍（已知残留：导读稿"夜shade"、"Epiog"）
-
-### 导读本（仅导读层，无译写正文）
-
-- **Whole Earth Software Catalog 2.0, Fall 1985**
-  - 全书导读：`content/readings/1985_software_catalog_full_chinese_reading.md`
-  - 页级导读：`content/readings/1985_software_catalog_page_level_chinese_reading.md`
-  - QA：17/17 章节覆盖；leaf 0-227 页级覆盖
-  - 按新产品定义，本期为导读本。是否升格为精读本（补章节译写正文）另行决定。
-
-### 证据基础设施（工作台，非成品）
-
-- 147 期 issue 全部有页级 dossier，合计 22,162 页；覆盖 QA 147/147 通过。
-- dossier 是选题和证据基础，不作为"已完成阅读"呈现。
-
-### 内部工作稿（当前仍在 `content/readings/` 内，待归位）
-
-以下文件是编辑工作台产物，不是读者成品，计划迁出读者目录（迁移方案见下节）：
-
-- `content/readings/1974_whole_earth_epilog_chinese_reading.md`（编辑结构稿）
-- `content/readings/1974_whole_earth_epilog_page_level_chinese_reading.md`（页级证据工作台）
-- `content/readings/1974_whole_earth_epilog_bibliography_links.md`（书目/链接审计）
-
-### 实验归档（非当前读者产品）
-
-`content/maps/` 中的知识地图已作为文库控制台的导读入口之一保留；`data/issue_agents/` 与 `scripts/serve_issue_agent.py` 仍为实验工作台，不承担公开产品承诺。
-
-## 目录规划（拟议，文件尚未搬移）
-
-目标：读者成品与工作台分离。
+## Repository structure
 
 ```text
 content/
-  books/                      # 读者成品：每期一个目录
-    1974_whole_earth_epilog/
-      00_reader_preface.md    # 导读作序
-      01_chapter_translation.md  # 章节译写正文
-  workbench/                  # 内部工作台：结构稿、页级证据稿、书目审计
+  assets/          # cover thumbnails, Earth textures, and small visual assets
+  data/            # publication-level metadata for the public atlas
+  demos/           # WebGL and visual navigation prototypes
+  maps/            # issue maps and visual reading guides
+  readings/        # Chinese guide and close-reading drafts
+  samples/         # historical page-level reading samples
+  vendor/          # static browser dependencies
+
+data/
+  evidence_dossiers/  # issue-level OCR evidence
+  issue_agents/       # experimental per-issue retrieval bundles
+  issue_index.json    # 147-issue index
+
+reader-prototype/
+  index.html          # 1974 Epilog synchronized reading room
+  data/               # generated reader JSON and anchor audit data
+
+scripts/
+  *.py                # extraction, audit, and experimental retrieval scripts
 ```
 
-搬移前保持现状；本节仅为方向声明。
+`_local/` is intentionally ignored. It contains local caches, source PDFs, logs, and QA screenshots that can be regenerated or are not meant for the repository.
 
-## 现有目录结构
+## Run locally
 
-- `scripts/`：issue 级与页级证据抽取脚本。
-- `data/issue_index.json`：147 期索引元数据。
-- `data/evidence_dossiers/`：issue 级 OCR 证据 dossier。
-- `data/issue_agents/`：单期知识 bundle（实验）。
-- `data/bibliography/`：书目审计数据。
-- `content/readings/`：当前的成品与工作稿混合目录（见上节归位计划）。
-- `content/samples/`：页级阅读样本（1985 Programming 章，历史基准）。
-- `content/notes/`：明确标注的 legacy 过渡笔记，不作公开文案。
-- `reader-prototype/`：1974 Epilog 对照阅读器，当前的读者展示入口。
-- `assets/`：读稿引用的小型扫描/图片资产。
-- `_local/`：不入库的本地缓存、PDF 源、日志与历史实验。
+The site must be served over HTTP because the reading room and WebGL console load JSON and module scripts.
 
-## Git 范围
+```bash
+python3 -m http.server 8911 -d /Users/yuwen/work/wholeearth/ai-https-wholeearth-info
+```
 
-跟踪：抽取/生成脚本、issue 级证据 dossier、精读本与导读本成品、小型扫描资产。
+Then open:
 
-忽略：页级 OCR/XML 缓存、页级 dossier 全量输出、运行日志、QA 截图、`_local/` 全部内容。大文件均可从 Internet Archive 重建。
+```text
+http://127.0.0.1:8911/
+```
 
-## 关键脚本
+Useful direct paths:
 
-- `scripts/extract_wholeearth_evidence.py`：构建 issue 级 OCR 证据 dossier。
-- `scripts/extract_issue_pages.py`：为单个 Internet Archive identifier 构建页级 dossier（输出 `_local/page_dossiers/`）。
-- `scripts/extract_all_issue_pages.py`：为全部 147 期构建页级 dossier。
-- `scripts/build_epilog_agent_bundle.py` / `build_epilog_web_agent_data.py` / `query_issue_agent_bundle.py` / `serve_issue_agent.py`：issue-agent 实验线（非产品承诺）。
+- `content/demos/wholeearth_webgl_console_demo.html`
+- `reader-prototype/index.html`
+- `content/maps/wholeearth_macro_atlas.html`
 
-## 每期工作流
+## Deployment
 
-1. 选期：从 147 期 dossier 里挑当下最想读的一期。
-2. 建工作台：页级 dossier + 扫描链接 + 结构稿。
-3. 写章节译写正文：逐章回到扫描页，保留条目—判断—摘录肌理。
-4. 写导读作序。
-5. 过完成标准五项（含成稿校对）。
-6. 录入文库现状，标注精读本/导读本身份。
+The public site is currently deployed with GitHub Pages from the `gh-pages` branch.
+
+Development happens on normal source branches such as `codex/visual-atlas-prototype`. Static files are then copied to `gh-pages` for publication.
+
+Future hosting can move to Cloudflare Pages without changing the core architecture: this repository already works as a static site. A Worker or Pages Function should only be added when the experimental issue-agent layer needs a server-side API key.
+
+## Roadmap
+
+- Stabilize the WebGL console as the permanent library home page.
+- Promote future issues into `/readers/<issue>/` style reading rooms.
+- Move finished reader-facing content away from workbench drafts.
+- Add issue-level status metadata so the homepage does not hard-code publication routes.
+- Keep the issue-agent retrieval system separate until it has a public-safe backend.
+
+## Sources and rights
+
+This is an independent educational and research project. Source scans and publication metadata are linked back to Internet Archive and Whole Earth source pages where available. Original Whole Earth publications remain the property of their respective rightsholders.
+
+Public pages should prioritize commentary, guide text, structured navigation, and links to original scans. Workbench material may contain fuller OCR-derived notes for private research and editorial verification.
