@@ -1,7 +1,7 @@
 # Whole Earth Epilog 1974 章节小册子开发稿
 
 状态：内部开发稿，不面向读者发布。  
-上游内容源：`/Users/yuwen/work/wholeearth/ai-https-wholeearth-info/content/readings/1974_whole_earth_epilog_chapter_translation_zh.md`  
+上游内容源：`content/readings/1974_whole_earth_epilog_chapter_translation_zh.md`
 本 worktree 产物目录：`content/visuals/`、`assets/wholeearth_1974_epilog_visuals/`、`outputs/`
 
 ## 方向修正
@@ -16,9 +16,9 @@
 
 优先使用这些上游证据文件：
 
-- 页级中文工作稿：`/Users/yuwen/work/wholeearth/ai-https-wholeearth-info/content/readings/1974_whole_earth_epilog_page_level_chinese_reading.md`
-- 结构化页级 dossier：`/Users/yuwen/work/wholeearth/ai-https-wholeearth-info/_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json`
-- 页级 dossier Markdown：`/Users/yuwen/work/wholeearth/ai-https-wholeearth-info/_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.md`
+- 页级中文工作稿：`content/readings/1974_whole_earth_epilog_page_level_chinese_reading.md`
+- 结构化页级 dossier：`_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json`
+- 页级 dossier Markdown：`_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.md`
 
 扫描图格式已经固定：
 

@@ -1,7 +1,7 @@
 # 1974 Epilog 手艺小册子模块稿
 
 状态：内部开发稿。用于 `五、手艺` 暹罗猫知识小册子。  
-唯一内容源：`/Users/yuwen/work/wholeearth/ai-https-wholeearth-info/content/readings/1974_whole_earth_epilog_chapter_translation_zh.md` 的 `五、手艺`。
+唯一内容源：`content/readings/1974_whole_earth_epilog_chapter_translation_zh.md` 的 `五、手艺`。
 
 ## 章节判断
 

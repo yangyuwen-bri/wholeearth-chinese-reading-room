@@ -1,7 +1,7 @@
 # 1974 Epilog 插画证据索引
 
 状态：内部开发稿。用于 `skills/siamese-cat-knowledge-illustrations/SKILL.md` 的模块级插画准备。  
-结构化证据源：`/Users/yuwen/work/wholeearth/ai-https-wholeearth-info/_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json`  
+结构化证据源：`_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json`
 扫描图格式：`https://archive.org/download/wholeearthepilog00unse/page/n{leaf}_w500.jpg`
 
 ## 使用规则

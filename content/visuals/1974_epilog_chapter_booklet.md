@@ -1,6 +1,6 @@
 # Whole Earth Epilog 1974 章节视觉册
 
-上游内容源：`/Users/yuwen/work/wholeearth/ai-https-wholeearth-info/content/readings/1974_whole_earth_epilog_chapter_translation_zh.md`
+上游内容源：`content/readings/1974_whole_earth_epilog_chapter_translation_zh.md`
 
 ## 一、整体系统
 

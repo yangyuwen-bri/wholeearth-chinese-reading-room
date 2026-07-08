@@ -2,11 +2,11 @@
 
 ## Scope
 
-This file applies to `/Users/yuwen/work/wholeearth/ai-https-wholeearth-info-xiaohei` on branch `codex/xiaohei-visual-prototype`.
+This file applies to the checkout for branch `codex/xiaohei-visual-prototype`.
 
 This worktree is for illustrated booklet and visual-reading experiments for the Whole Earth / 全球概览 project. It is the output workspace for reader-facing visual interpretation, booklet assembly, illustration-system experiments, and social-post visual adaptations.
 
-The source Chinese reading content is not maintained in this worktree. Treat `/Users/yuwen/work/wholeearth/ai-https-wholeearth-info/content/readings/` as the upstream source directory for complete Chinese issue texts. Read from it as needed, but do not edit it unless the user explicitly asks.
+The source Chinese reading content is not maintained in this worktree. Treat `content/readings/` as the upstream source directory for complete Chinese issue texts. Read from it as needed, but do not edit it unless the user explicitly asks.
 
 Do not hard-code one issue, year, book, visual character, or topic as the identity of the whole project. Each booklet may focus on a different issue, year, publication type, theme, or chapter group.
 
@@ -34,7 +34,7 @@ Before booklet or illustration work, read:
 
 - `README.md`
 - `content/visuals/siamese_cat_visual_identity.md`
-- the relevant source file under `/Users/yuwen/work/wholeearth/ai-https-wholeearth-info/content/readings/`
+- the relevant source file under `content/readings/`
 - the relevant local visual skill, such as `skills/siamese-cat-knowledge-illustrations/SKILL.md`, when using a recurring character or illustration system
 
 For every new booklet, record the upstream source file in the planning or booklet Markdown.

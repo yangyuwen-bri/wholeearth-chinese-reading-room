@@ -1,7 +1,7 @@
 # 1974 Epilog 整体系统小册子模块稿
 
 状态：内部开发稿。用于 `一、整体系统` 暹罗猫知识小册子。  
-唯一内容源：`/Users/yuwen/work/wholeearth/ai-https-wholeearth-info/content/readings/1974_whole_earth_epilog_chapter_translation_zh.md` 的 `一、整体系统`。
+唯一内容源：`content/readings/1974_whole_earth_epilog_chapter_translation_zh.md` 的 `一、整体系统`。
 
 ## 章节判断
 
