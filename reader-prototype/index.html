@@ -339,7 +339,30 @@
   function scanUrl(leaf) { return data.scan_url.replace("{leaf}", leaf); }
   function pageUrl(leaf) { return data.archive_page_url.replace("{leaf}", leaf); }
   function printedPage(leaf) {
-    return (leaf >= 5 && leaf <= 320) ? " · p." + (leaf + data.printed_page_offset) : "";
+    return (leaf >= 3 && leaf <= 320) ? " · p." + (leaf + data.printed_page_offset) : "";
+  }
+  function leafSpanText(start, end) {
+    return start === end ? "leaf " + start : "leaf " + start + "–" + end;
+  }
+  function printedSpanLabel(start, end) {
+    if (start < 3 || end > 320) return "";
+    return start === end
+      ? "p." + (start + data.printed_page_offset)
+      : "p." + (start + data.printed_page_offset) + "–" + (end + data.printed_page_offset);
+  }
+  function entryMeta(sec) {
+    if (sec.leaf == null) return "";
+    const hasRanges = Array.isArray(sec.leaf_ranges) && sec.leaf_ranges.length;
+    const ranges = hasRanges
+      ? sec.leaf_ranges.map(r => leafSpanText(r.leaf_start, r.leaf_end)).join(", ")
+      : leafSpanText(sec.leaf_start ?? sec.leaf, sec.leaf_end ?? sec.leaf);
+    const start = sec.leaf_start ?? sec.leaf;
+    const end = sec.leaf_end ?? sec.leaf;
+    const pages = hasRanges
+      ? sec.leaf_ranges.map(r => printedSpanLabel(r.leaf_start, r.leaf_end)).filter(Boolean).join(", ")
+      : printedSpanLabel(start, end);
+    return "<div class='entry-meta'>≈ " + ranges + (pages ? " · " + pages : "") +
+      " · <a data-leaf='" + sec.leaf + "'>看这一页</a></div>";
   }
 
   function setLeaf(leaf, fromSlider) {
@@ -403,10 +426,7 @@
       el.id = sec.id;
       el.dataset.leaf = sec.leaf ?? "";
       el.dataset.chapter = chap.id;
-      const meta = sec.leaf != null
-        ? "<div class='entry-meta'>≈ leaf " + sec.leaf + printedPage(sec.leaf) +
-          " · <a data-leaf='" + sec.leaf + "'>看这一页</a></div>"
-        : "";
+      const meta = entryMeta(sec);
       const heading = sec.title === chap.title ? "" : "<h3>" + sec.title + "</h3>";
       el.innerHTML = heading + meta + sec.html;
       article.appendChild(el);
