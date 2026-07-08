@@ -1,0 +1,37 @@
+{
+  "schema_version": "issue-agent-bundle-v1",
+  "generated_at": "2026-07-06T12:15:28Z",
+  "issue_id": "wholeearthepilog00unse",
+  "title": "Whole Earth Epilog, October 1974",
+  "bundle_path": "data/issue_agents/wholeearthepilog00unse",
+  "record_counts": {
+    "pages": 322,
+    "chapters": 121,
+    "bibliography": 216,
+    "retrieval_units": 659,
+    "page_review_records": 221
+  },
+  "outputs": {
+    "manifest": "data/issue_agents/wholeearthepilog00unse/manifest.json",
+    "system_prompt": "data/issue_agents/wholeearthepilog00unse/system_prompt.md",
+    "issue_profile": "data/issue_agents/wholeearthepilog00unse/issue_profile.json",
+    "pages": "data/issue_agents/wholeearthepilog00unse/pages.jsonl",
+    "chapters": "data/issue_agents/wholeearthepilog00unse/chapters.jsonl",
+    "bibliography": "data/issue_agents/wholeearthepilog00unse/bibliography.jsonl",
+    "retrieval_units": "data/issue_agents/wholeearthepilog00unse/retrieval_units.jsonl",
+    "eval_questions": "data/issue_agents/wholeearthepilog00unse/eval_questions.json",
+    "qa_report": "data/issue_agents/wholeearthepilog00unse/qa_report.md"
+  },
+  "source_paths": {
+    "chapter_translation": "content/readings/1974_whole_earth_epilog_chapter_translation_zh.md",
+    "page_level_reading": "content/readings/1974_whole_earth_epilog_page_level_chinese_reading.md",
+    "page_dossier": "_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json",
+    "bibliography_json": "data/bibliography/1974_whole_earth_epilog_links.json",
+    "evidence_dossier": "data/evidence_dossiers/issues/whole-earth-epilog-october-1974.json"
+  },
+  "runtime_notes": [
+    "This bundle is the standard reference layer for an Epilog issue agent.",
+    "Embeddings, vector caches, and chat transcripts should be generated outside this tracked bundle, normally under _local/.",
+    "The agent must cite leaf/page/scan evidence and must not represent Chinese reading notes as a verbatim full-text translation."
+  ]
+}

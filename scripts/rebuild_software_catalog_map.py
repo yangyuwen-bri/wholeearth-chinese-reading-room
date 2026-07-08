@@ -1,0 +1,376 @@
+#!/usr/bin/env python3
+"""Rebuild the missing Software Catalog 1985 map HTML.
+
+The original generated HTML was iCloud-dataless during migration. This script
+recreates the two public entry files from the cleaned local reading notes.
+"""
+
+from __future__ import annotations
+
+import html
+import json
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parents[1]
+OUT_MAIN = ROOT / "content" / "maps" / "1985_software_catalog_knowledge_map.html"
+OUT_ISSUE = ROOT / "content" / "maps" / "1985" / "wholeearthsoftwa00unse_3.html"
+
+ISSUE = {
+    "id": "wholeearthsoftwa00unse_3",
+    "short": "Software",
+    "label": "Software Catalog",
+    "title": "Whole Earth Software Catalog 2.0, Fall 1985",
+    "subtitle": "从工具判断进入编程、网络与学习",
+    "pages": 228,
+    "accent": "#d8912f",
+    "scanBase": "https://archive.org/download/wholeearthsoftwa00unse_3/page/n{leaf}_w500.jpg",
+}
+
+THEMES = [
+    {
+        "id": "judgment",
+        "title": "判断工具",
+        "text": "软件不是功能表，而是流程、支持、文档、价格和长期使用的集合。",
+        "color": "#d8912f",
+    },
+    {
+        "id": "platform",
+        "title": "平台生态",
+        "text": "硬件选择会决定你能进入哪个软件世界，标准和兼容性比参数更硬。",
+        "color": "#3d7f91",
+    },
+    {
+        "id": "making",
+        "title": "生产与创作",
+        "text": "游戏、写作、表格、数据库和图形正在训练新的交互审美和工作方式。",
+        "color": "#5f8a5f",
+    },
+    {
+        "id": "network",
+        "title": "连接社会",
+        "text": "调制解调器、在线服务和 BBS 让个人电脑开始变成公共空间。",
+        "color": "#a94f38",
+    },
+    {
+        "id": "literacy",
+        "title": "编程素养",
+        "text": "普通用户不必成为职业程序员，但要理解机制、流程、风格和系统。",
+        "color": "#8368b3",
+    },
+]
+
+NODES = [
+    {
+        "id": "how-to-use",
+        "title": "先建立软件判断法",
+        "theme": "judgment",
+        "pages": "p. 2-3 / leaf 3-4",
+        "leaf": 3,
+        "claim": "这本书不是穷尽软件清单，而是一次比较、试用、争论之后形成的工具判断系统。",
+        "role": "开篇先说明 2.0 版为何比第一版更可靠：市场稍微稳定、标准更牢、读者和评测者反馈已经回流。它把个人电脑称作 skill machines，所以全书按人的活动组织，而不是按厂商、语言或机器组织。",
+        "objects": ["2.0 版更新", "street price", "skill machines", "多声部评测"],
+        "links": "连接 Shopping，因为判断法马上落到购买；也连接 Programming，因为软件素养最终要求理解机制。",
+        "x": 18,
+        "y": 22,
+        "tilt": "-2deg",
+    },
+    {
+        "id": "shopping",
+        "title": "买软件前先定义问题",
+        "theme": "judgment",
+        "pages": "p. 4-9 / leaf 6-11",
+        "leaf": 6,
+        "claim": "不要先问哪个软件最火，先问你要改变哪个流程、怎样衡量改变。",
+        "role": "Shopping 是全书地基。它提醒读者少买、深用、重视支持、警惕拷贝保护，并把“好用”“可靠”“快”翻译成可观察标准。这里的软件购买像需求分析，而不是消费冲动。",
+        "objects": ["需求标准", "支持服务", "拷贝保护", "How to Buy Software"],
+        "links": "连接 Buying，因为判断会进入供应链；连接今天的 SaaS、AI 工具采购逻辑。",
+        "x": 34,
+        "y": 18,
+        "tilt": "1deg",
+    },
+    {
+        "id": "hardware-buying",
+        "title": "机器选择就是生态选择",
+        "theme": "platform",
+        "pages": "p. 14-27 / leaf 16-29",
+        "leaf": 16,
+        "claim": "买硬件不是买参数，而是在选择软件库、兼容性、售后和未来标准。",
+        "role": "Hardware 和 Buying 把 Apple II、Commodore 64、IBM PC、Mac、UNIX PC 与零售店、邮购、公共领域软件、用户组放在一起看。Mac 有未来感但软件少，IBM PC 不迷人却正在成为默认生态。",
+        "objects": ["IBM PC", "Macintosh", "UNIX PC", "用户组", "公共领域软件"],
+        "links": "连接 Platform 主题，也连接 Telecommunicating，因为网络服务同样受机器和标准限制。",
+        "x": 52,
+        "y": 21,
+        "tilt": "-1deg",
+    },
+    {
+        "id": "playing",
+        "title": "游戏是交互设计实验室",
+        "theme": "making",
+        "pages": "p. 28-45 / leaf 30-47",
+        "leaf": 30,
+        "claim": "游戏最早让大众体验规则、反馈、模拟、建造和沉浸。",
+        "role": "Playing 不是怀旧游戏清单。M.U.L.E.、Seven Cities of Gold、Pinball Construction Set、Zork、Ultima 等软件展示了策略、经济、叙事、物理和角色扮演如何变成可操作系统。",
+        "objects": ["M.U.L.E.", "Seven Cities of Gold", "Pinball Construction Set", "Zork", "Ultima"],
+        "links": "连接 Learning，因为许多学习软件继承游戏的反馈结构；连接 Programming，因为可改造游戏把玩家推向作者。",
+        "x": 70,
+        "y": 30,
+        "tilt": "2deg",
+    },
+    {
+        "id": "writing",
+        "title": "文字处理改变写作动作",
+        "theme": "making",
+        "pages": "p. 46-63 / leaf 48-65",
+        "leaf": 48,
+        "claim": "好写作软件的审美在日常动作里：移动、删除、打印、重排、找回位置。",
+        "role": "Writing 章关心工具怎样改变修改和重组文本的勇气。它故意列出“不要买的理由”，用限制、脚注、打印、文件大小、兼容性来抵抗广告式功能表。",
+        "objects": ["WordStar", "WordPerfect", "XyWrite", "Microsoft Word", "不要买的理由矩阵"],
+        "links": "连接 Analyzing 和 Organizing，因为文字、数字和资料都在训练新型办公室判断。",
+        "x": 80,
+        "y": 48,
+        "tilt": "-1.5deg",
+    },
+    {
+        "id": "analyzing-organizing",
+        "title": "电子表格与数据库让用户半编程",
+        "theme": "making",
+        "pages": "p. 64-93 / leaf 66-95",
+        "leaf": 66,
+        "claim": "非程序员开始用模型、字段、关系和流程组织现实。",
+        "role": "Analyzing 从 VisiCalc 到 1-2-3，说明表格是无代码建模的早期形态；Organizing 则把数据库看作命名、分类、找回和重新连接信息的工具。强大到一定程度，数据库就接近编程。",
+        "objects": ["VisiCalc", "Lotus 1-2-3", "FileVision", "dBASE II", "ThinkTank"],
+        "links": "连接 Programming，因为表格和数据库让普通用户进入程序化思维；连接今天的 Notion、Airtable、BI 和向量库。",
+        "x": 68,
+        "y": 68,
+        "tilt": "1deg",
+    },
+    {
+        "id": "accounting-managing",
+        "title": "办公室在一体化平台和小工具之间摇摆",
+        "theme": "platform",
+        "pages": "p. 94-121 / leaf 96-123",
+        "leaf": 96,
+        "claim": "商业软件一旦进入现金流、项目和行业流程，就变成组织基础设施。",
+        "role": "Accounting 要求像找会计师一样找软件；Managing 则比较 AppleWorks、Framework、Symphony、SideKick 等工具。一条路线是一体化平台，一条路线是贴着工作流的小工具生态。",
+        "objects": ["AppleWorks", "Framework", "Symphony", "SideKick", "行业软件"],
+        "links": "连接 Hardware，因为平台选择影响办公室工具；也连接 Shopping，因为商业软件最需要长期支持。",
+        "x": 47,
+        "y": 77,
+        "tilt": "-2deg",
+    },
+    {
+        "id": "drawing",
+        "title": "视觉生产开始民主化",
+        "theme": "making",
+        "pages": "p. 122-137 / leaf 124-139",
+        "leaf": 124,
+        "claim": "图形软件把儿童涂鸦、商业图表、桌面出版、CAD 和艺术放到同一条谱系。",
+        "role": "Drawing 从显卡、显示器、打印机、绘图仪讲起，再进入 MacPaint、MacDraw、ReadySetGo、PC Paint、AutoCAD。它记录了图形界面、桌面出版和 CAD 从专业站点走向个人电脑的瞬间。",
+        "objects": ["MacPaint", "MacDraw", "ReadySetGo", "AutoCAD", "CADKEY"],
+        "links": "连接今天的 Figma、Canva、Blender 和 AI 图像工具；也连接 Playing，因为图形和交互共同训练用户感知。",
+        "x": 28,
+        "y": 72,
+        "tilt": "1.5deg",
+    },
+    {
+        "id": "telecommunicating",
+        "title": "电脑首先是通信设备",
+        "theme": "network",
+        "pages": "p. 138-157 / leaf 140-159",
+        "leaf": 140,
+        "claim": "调制解调器和在线服务让个人电脑从私人机器变成社会空间。",
+        "role": "Telecommunicating 讨论 CompuServe、The Source、Delphi、EIES、公告板、通信软件、文件传输和局域网。它最有价值的地方是把网络看成人类活动：公共法案、远程讨论、文件共享、社区组织都已经出现。",
+        "objects": ["CompuServe", "Delphi", "EIES", "BBS", "1200 baud modem"],
+        "links": "连接 Network 主题，也连接 Whole Earth Review 的 WELL 和读者共同体。",
+        "x": 17,
+        "y": 52,
+        "tilt": "-1deg",
+    },
+    {
+        "id": "programming",
+        "title": "编程是一种审美活动",
+        "theme": "literacy",
+        "pages": "p. 158-174 / leaf 159-176",
+        "leaf": 159,
+        "claim": "编程首先是组织复杂性的能力，其次才是某种语言或职业身份。",
+        "role": "Programming 从 Weinberg 的汽车机械师类比出发，把普通用户带向程序风格、C、Pascal、BASIC、FORTH、Micro-Prolog、UNIX、结构化设计、软件工程和 Utilities。这里的审美不浪漫化代码，而是强调清晰、风格、可读性、工具环境和人的判断。",
+        "objects": ["The Elements of Programming Style", "C", "FORTH", "Micro-Prolog", "Norton Utilities"],
+        "links": "连接 Analyzing/Organizing，因为表格和数据库已经让用户半编程；连接 Learning，因为 Logo 和微世界把编程变成学习环境。",
+        "x": 31,
+        "y": 34,
+        "tilt": "2deg",
+    },
+    {
+        "id": "learning",
+        "title": "学习软件不该只是电子练习册",
+        "theme": "literacy",
+        "pages": "p. 175-191 / leaf 177-193",
+        "leaf": 177,
+        "claim": "好的学习软件要让错误变成探索，让电脑成为可操纵的微世界。",
+        "role": "Learning 反对把工作簿搬到屏幕上。Logo、Rocky's Boots、Robot Odyssey、The Voyage of the Mimi 等软件展示了模拟、反馈、图形和现实经验如何结合。",
+        "objects": ["Logo", "Rocky's Boots", "Robot Odyssey", "The Voyage of the Mimi", "Reader Rabbit"],
+        "links": "连接 Playing 和 Programming，因为学习在这里不是灌输，而是进入系统、试错和建构。",
+        "x": 51,
+        "y": 41,
+        "tilt": "-1deg",
+    },
+    {
+        "id": "etc-update",
+        "title": "收尾其实是未来接口",
+        "theme": "network",
+        "pages": "p. 192-224 / leaf 194-226",
+        "leaf": 194,
+        "claim": "书末的互动视频、音乐、天文、接口和更新，把目录变成持续变化的系统。",
+        "role": "Etc.、Inside Point、Last-Minute Supplement 和索引说明这本书不是封闭书籍，而是一个版本化的知识系统。软件太快，目录必须承认自己会过期，并通过 Review、补遗、索引和公开利益关系维持可信度。",
+        "objects": ["互动视频", "音乐软件", "硬件接口", "Inside Point", "Last-Minute Supplement"],
+        "links": "连接 How to Use This Book，因为更新机制就是这本目录的方法论；也连接 WebGL 总览里的出版系列。",
+        "x": 60,
+        "y": 58,
+        "tilt": "1.5deg",
+    },
+]
+
+
+def enrich_nodes() -> list[dict]:
+    colors = {t["id"]: t["color"] for t in THEMES}
+    out = []
+    for node in NODES:
+        item = dict(node)
+        item["color"] = colors[item["theme"]]
+        out.append(item)
+    return out
+
+
+def render() -> str:
+    data = {
+        "issue": ISSUE,
+        "themes": THEMES,
+        "nodes": enrich_nodes(),
+        "timeline": ["判断", "平台", "游戏", "写作", "数据", "图形", "网络", "编程", "学习", "更新"],
+    }
+    payload = json.dumps(data, ensure_ascii=False)
+    return f"""<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{html.escape(ISSUE["title"])} · 中文知识地图</title>
+  <link rel="icon" href="data:,">
+  <style>
+    :root{{--ink:#171713;--paper:#ece7da;--panel:rgba(244,239,225,.76);--line:rgba(23,23,19,.2);--muted:#6b6558;--accent:{ISSUE["accent"]};--shadow:0 22px 55px rgba(43,35,22,.18)}}*{{box-sizing:border-box}}body{{margin:0;color:var(--ink);background:radial-gradient(circle at 50% 44%,rgba(216,145,47,.18),transparent 24rem),linear-gradient(90deg,rgba(23,23,19,.04) 1px,transparent 1px),linear-gradient(rgba(23,23,19,.04) 1px,transparent 1px),var(--paper);background-size:auto,28px 28px,28px 28px,auto;font-family:"Iowan Old Style","Songti SC","STSong",Georgia,serif}}button{{font:inherit;color:inherit;cursor:pointer;border:0}}.desk{{min-height:100vh;padding:20px;display:grid;grid-template-rows:auto 1fr;gap:16px}}.rail{{min-height:54px;border-bottom:1px solid var(--line);display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap}}.identity{{display:flex;align-items:baseline;gap:10px 14px;flex-wrap:wrap}}.stamp{{display:inline-flex;align-items:center;min-height:24px;padding:2px 9px;border:1px solid rgba(23,23,19,.28);background:rgba(255,251,239,.58);font-family:"Courier New",monospace;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.08em}}h1{{margin:0;font-size:clamp(22px,2.6vw,36px);line-height:.98;font-weight:600}}.identity span:last-child{{color:var(--muted);font-size:14px}}.links{{display:flex;gap:8px;flex-wrap:wrap}}.links a{{min-height:34px;padding:7px 11px;border:1px solid rgba(23,23,19,.22);background:rgba(255,251,239,.46);font-family:"Courier New",monospace;font-size:12px;text-decoration:none;color:inherit}}.links a:hover{{background:var(--ink);color:var(--paper)}}.workspace{{display:grid;grid-template-columns:minmax(230px,300px) minmax(560px,1fr) minmax(290px,380px);gap:16px;min-height:0}}.routes,.inspector,.stage{{border:1px solid var(--line);background:var(--panel);box-shadow:var(--shadow);min-width:0}}.routes h2,.inspector h2{{margin:0;padding:15px 16px 11px;font:700 14px "Courier New",monospace;letter-spacing:.09em;text-transform:uppercase;border-bottom:1px solid rgba(23,23,19,.17)}}.theme-list{{padding:10px}}.theme{{width:100%;display:grid;grid-template-columns:12px minmax(0,1fr);gap:10px;padding:12px 9px;background:transparent;text-align:left;border-bottom:1px dashed rgba(23,23,19,.18)}}.theme i{{width:11px;height:11px;margin-top:4px;background:var(--theme-color);transform:rotate(45deg);box-shadow:0 0 0 4px rgba(255,251,239,.62)}}.theme b{{display:block;font-size:18px;line-height:1.15}}.theme span{{display:block;margin-top:4px;color:var(--muted);font-size:13px;line-height:1.45;overflow-wrap:anywhere}}.theme.active,.theme:hover{{background:rgba(255,251,239,.72)}}.source-note{{margin:0;padding:12px 14px;border-top:1px solid rgba(23,23,19,.17);color:var(--muted);font-size:12px;line-height:1.5}}.stage{{position:relative;overflow:hidden;min-height:720px;background:linear-gradient(115deg,rgba(255,255,255,.28),transparent 44%),repeating-linear-gradient(0deg,rgba(23,23,19,.07) 0 1px,transparent 1px 42px),repeating-linear-gradient(90deg,rgba(23,23,19,.045) 0 1px,transparent 1px 42px),rgba(236,231,218,.78)}}.stage:before{{content:"";position:absolute;inset:20px;border:1px dashed rgba(23,23,19,.25);pointer-events:none}}.orbit-label{{position:absolute;left:28px;top:22px;z-index:3;display:flex;gap:8px;align-items:center;font:700 12px "Courier New",monospace;letter-spacing:.07em;text-transform:uppercase}}.connections{{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:1}}.connections path{{fill:none;stroke:rgba(23,23,19,.25);stroke-width:1.1;stroke-dasharray:8 7}}.connections path.strong{{stroke:var(--accent);stroke-width:2;stroke-dasharray:none}}.center{{position:absolute;left:50%;top:50%;width:160px;min-height:160px;transform:translate(-50%,-50%);border-radius:999px;background:var(--ink);color:var(--paper);display:grid;place-items:center;text-align:center;z-index:2;box-shadow:0 20px 50px rgba(23,23,19,.24)}}.center b{{display:block;font-size:26px;line-height:1.05}}.center span{{display:block;max-width:13ch;margin-top:5px;font:700 10px "Courier New",monospace;letter-spacing:.08em;text-transform:uppercase}}.nodes{{position:absolute;inset:0;z-index:2}}.node{{position:absolute;left:var(--x);top:var(--y);width:158px;min-height:92px;transform:translate(-50%,-50%) rotate(var(--tilt));border:1px solid rgba(23,23,19,.24);background:rgba(255,251,239,.86);box-shadow:8px 10px 0 color-mix(in srgb,var(--node-color) 42%,transparent);padding:10px 12px;text-align:left;transition:opacity .2s ease,transform .2s ease,box-shadow .2s ease}}.node:hover,.node.active{{transform:translate(-50%,-50%) rotate(0deg) scale(1.05);background:#fffdf5;z-index:5}}.node.dim{{opacity:.22;filter:grayscale(.45)}}.node b{{display:block;font-size:18px;line-height:1.06}}.node span{{display:block;margin-top:7px;color:var(--muted);font:12px "Courier New",monospace;line-height:1.15}}.node em{{display:block;margin-top:7px;color:var(--node-color);font:700 10px "Courier New",monospace;font-style:normal;text-transform:uppercase}}.mini-timeline{{position:absolute;left:34px;right:34px;bottom:18px;z-index:3;display:grid;grid-template-columns:repeat(10,minmax(0,1fr));border-top:2px solid rgba(23,23,19,.5)}}.phase{{position:relative;padding-top:12px;font-size:12px;line-height:1.25;color:var(--muted)}}.phase:before{{content:"";position:absolute;top:-5px;left:0;width:10px;height:10px;border-radius:999px;background:var(--ink)}}.reader-card{{padding:18px 16px 16px;border-bottom:1px solid rgba(23,23,19,.17);background:rgba(255,251,239,.54)}}.kicker{{display:flex;justify-content:space-between;gap:12px;color:var(--muted);font:11px "Courier New",monospace;text-transform:uppercase}}.reader-card h3{{margin:12px 0 8px;font-size:clamp(25px,2.7vw,38px);line-height:1.02;font-weight:500}}.reader-card p,.field p,.field li{{font-size:15px;line-height:1.58}}.field{{padding:15px 16px;border-bottom:1px solid rgba(23,23,19,.17)}}.field b{{display:block;margin-bottom:8px;font:700 12px "Courier New",monospace;text-transform:uppercase;letter-spacing:.08em}}.field p{{margin:0}}.field ul{{margin:0;padding-left:18px}}.field li+li{{margin-top:6px}}.evidence{{padding:16px;background:var(--ink);color:var(--paper)}}.evidence a{{display:block;color:var(--paper);text-decoration:none;font-size:18px;margin-bottom:10px}}.evidence small{{display:block;color:rgba(236,231,218,.72);line-height:1.5;font-family:"Courier New",monospace}}@media(max-width:1120px){{.workspace{{grid-template-columns:1fr}}.stage{{min-height:980px}}.node{{width:140px}}}}@media(max-width:680px){{.desk{{padding:12px}}.stage{{min-height:auto;overflow:visible;padding:14px}}.stage:before,.connections,.center,.mini-timeline{{display:none}}.orbit-label{{position:static;margin-bottom:12px}}.nodes{{position:static;display:grid;gap:10px}}.node{{position:relative;left:auto!important;top:auto!important;width:100%;min-height:auto;transform:none!important}}.node:hover,.node.active{{transform:translateX(3px)!important}}}}
+  </style>
+</head>
+<body>
+  <script id="map-data" type="application/json">{payload}</script>
+  <main class="desk">
+    <header class="rail"><div class="identity"><span class="stamp">{html.escape(ISSUE["label"])}</span><h1>{html.escape(ISSUE["title"])}</h1><span>{html.escape(ISSUE["subtitle"])}</span></div><nav class="links"><a href="https://archive.org/details/wholeearthsoftwa00unse_3" target="_blank" rel="noreferrer">original scan</a><a href="./1985/index.html">1985 maps</a></nav></header>
+    <section class="workspace"><aside class="routes"><h2>暗线</h2><div class="theme-list" id="themeList"></div><p class="source-note">依据 content/readings/1985_software_catalog_full_chinese_reading.md 和逐页 clean_pages.md 重建；这是中文阅读地图，不替代原扫描。</p></aside><section class="stage" aria-label="知识地图"><div class="orbit-label"><span class="stamp">228 leaves</span><span>点击节点看关系</span></div><svg class="connections" id="connections"></svg><div class="center"><div><b>工具判断</b><span>Software 1985</span></div></div><div class="nodes" id="nodes"></div><div class="mini-timeline" id="timeline"></div></section><aside class="inspector"><h2>当前节点</h2><section class="reader-card"><div class="kicker"><span id="panelTheme"></span><span id="panelPages"></span></div><h3 id="panelTitle"></h3><p id="panelClaim"></p></section><section class="field"><b>这一章解决什么问题</b><p id="panelRole"></p></section><section class="field"><b>关键物件</b><ul id="panelObjects"></ul></section><section class="field"><b>连接关系</b><p id="panelLinks"></p></section><section class="evidence"><a id="scanLink" href="#" target="_blank" rel="noreferrer">打开对应扫描页</a><small id="panelEvidence"></small></section></aside></section>
+  </main>
+  <script>
+    const data = JSON.parse(document.getElementById('map-data').textContent);
+    const themes = data.themes;
+    const nodes = data.nodes;
+    const byId = Object.fromEntries(nodes.map(n => [n.id, n]));
+    const themeById = Object.fromEntries(themes.map(t => [t.id, t]));
+    const edges = nodes.slice(0, -1).map((n, i) => [n.id, nodes[i + 1].id]).concat([["shopping","programming"],["playing","learning"],["telecommunicating","etc-update"],["analyzing-organizing","programming"],["hardware-buying","accounting-managing"]]);
+    let activeTheme = null;
+    let activeNode = "shopping";
+    function scan(leaf) {{ return data.issue.scanBase.replace("{{leaf}}", leaf); }}
+    function renderThemes() {{
+      themeList.innerHTML = "";
+      themes.forEach(t => {{
+        const count = nodes.filter(n => n.theme === t.id).length;
+        const b = document.createElement("button");
+        b.className = "theme";
+        b.dataset.theme = t.id;
+        b.style.setProperty("--theme-color", t.color);
+        b.innerHTML = `<i></i><div><b>${{t.title}} <span>${{count}}</span></b><span>${{t.text}}</span></div>`;
+        b.onclick = () => {{ activeTheme = activeTheme === t.id ? null : t.id; update(); }};
+        themeList.appendChild(b);
+      }});
+    }}
+    function renderNodes() {{
+      nodesEl = document.getElementById("nodes");
+      nodesEl.innerHTML = "";
+      nodes.forEach(n => {{
+        const b = document.createElement("button");
+        b.className = "node";
+        b.dataset.id = n.id;
+        b.style.left = `${{n.x}}%`;
+        b.style.top = `${{n.y}}%`;
+        b.style.setProperty("--tilt", n.tilt);
+        b.style.setProperty("--node-color", n.color);
+        b.innerHTML = `<b>${{n.title}}</b><span>${{n.pages}}</span><em>${{themeById[n.theme].title}}</em>`;
+        b.onclick = () => setNode(n.id);
+        nodesEl.appendChild(b);
+      }});
+    }}
+    function drawEdges() {{
+      const svg = connections;
+      svg.innerHTML = "";
+      const st = svg.getBoundingClientRect();
+      if (!st.width || matchMedia("(max-width:680px)").matches) return;
+      const c = {{x: st.width / 2, y: st.height / 2}};
+      edges.forEach(([f, t]) => {{
+        const a = document.querySelector(`.node[data-id="${{f}}"]`);
+        const b = document.querySelector(`.node[data-id="${{t}}"]`);
+        if (!a || !b) return;
+        const ar = a.getBoundingClientRect();
+        const br = b.getBoundingClientRect();
+        const ax = ar.left + ar.width / 2 - st.left;
+        const ay = ar.top + ar.height / 2 - st.top;
+        const bx = br.left + br.width / 2 - st.left;
+        const by = br.top + br.height / 2 - st.top;
+        const p = document.createElementNS("http://www.w3.org/2000/svg", "path");
+        p.setAttribute("d", `M ${{ax}} ${{ay}} Q ${{c.x}} ${{c.y}} ${{bx}} ${{by}}`);
+        if (f === activeNode || t === activeNode) p.classList.add("strong");
+        svg.appendChild(p);
+      }});
+    }}
+    function update() {{
+      document.querySelectorAll(".theme").forEach(b => b.classList.toggle("active", activeTheme === b.dataset.theme));
+      document.querySelectorAll(".node").forEach(b => {{
+        const n = byId[b.dataset.id];
+        b.classList.toggle("dim", activeTheme && n.theme !== activeTheme);
+        b.classList.toggle("active", n.id === activeNode);
+      }});
+      drawEdges();
+    }}
+    function setNode(id) {{
+      activeNode = id;
+      const n = byId[id] || nodes[0];
+      const t = themeById[n.theme];
+      panelTheme.textContent = t.title;
+      panelPages.textContent = n.pages;
+      panelTitle.textContent = n.title;
+      panelClaim.textContent = n.claim;
+      panelRole.textContent = n.role;
+      panelObjects.innerHTML = n.objects.map(o => `<li>${{o}}</li>`).join("");
+      panelLinks.textContent = n.links;
+      scanLink.href = scan(n.leaf);
+      panelEvidence.textContent = `${{n.pages}} / Archive 原扫描可复核 OCR、版式和图片。`;
+      update();
+    }}
+    timeline.innerHTML = data.timeline.map(x => `<div class="phase">${{x}}</div>`).join("");
+    renderThemes();
+    renderNodes();
+    setNode(activeNode);
+    addEventListener("resize", drawEdges);
+  </script>
+</body>
+</html>
+"""
+
+
+def main() -> None:
+    html_text = render()
+    OUT_MAIN.parent.mkdir(parents=True, exist_ok=True)
+    OUT_ISSUE.parent.mkdir(parents=True, exist_ok=True)
+    OUT_MAIN.write_text(html_text, encoding="utf-8")
+    OUT_ISSUE.write_text(html_text.replace('href="./1985/index.html"', 'href="./index.html"'), encoding="utf-8")
+    print(json.dumps({"ok": True, "files": [str(OUT_MAIN), str(OUT_ISSUE)]}, ensure_ascii=False))
+
+
+if __name__ == "__main__":
+    main()

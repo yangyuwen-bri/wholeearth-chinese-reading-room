@@ -1,0 +1,943 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Whole Earth CRT Mission Console</title>
+  <link rel="icon" href="data:,">
+  <style>
+    :root {
+      --room: #050604;
+      --metal: #24251e;
+      --metal-2: #151711;
+      --edge: #595745;
+      --cream: #f1e6b8;
+      --paper: #cbbd85;
+      --phosphor: #8cff72;
+      --dim: #5f7558;
+      --amber: #e5a83b;
+      --red: #d2684e;
+      --blue: #58a7bd;
+      --violet: #9a82c6;
+      --mono: "Courier New", ui-monospace, monospace;
+      --serif: "Iowan Old Style", "Songti SC", "STSong", Georgia, serif;
+    }
+
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      overflow: hidden;
+      color: var(--cream);
+      background:
+        radial-gradient(circle at 50% 18%, rgba(140, 255, 114, .12), transparent 24rem),
+        radial-gradient(circle at 50% 110%, rgba(229, 168, 59, .12), transparent 22rem),
+        linear-gradient(#090a07, var(--room));
+      font-family: var(--serif);
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background:
+        repeating-linear-gradient(0deg, rgba(255,255,255,.035) 0 1px, transparent 1px 4px),
+        radial-gradient(circle at 50% 45%, transparent 36%, rgba(0,0,0,.52));
+      opacity: .55;
+      mix-blend-mode: screen;
+      z-index: 30;
+    }
+
+    button, input { font: inherit; color: inherit; }
+    button { cursor: pointer; }
+
+    .room {
+      min-height: 100%;
+      padding: clamp(10px, 2vw, 26px);
+      display: grid;
+      place-items: center;
+      perspective: 1200px;
+    }
+
+    .console {
+      width: min(1520px, 100%);
+      height: min(980px, calc(100vh - 28px));
+      display: grid;
+      grid-template-rows: minmax(0, 1fr) 230px;
+      gap: 14px;
+      padding: 18px;
+      border: 2px solid #474737;
+      border-radius: 12px 12px 28px 28px;
+      background:
+        linear-gradient(135deg, rgba(255,255,255,.08), transparent 25%),
+        linear-gradient(180deg, #2b2c22, #12140f 55%, #0d0f0b);
+      box-shadow:
+        inset 0 2px 0 rgba(255,255,255,.1),
+        inset 0 -30px 70px rgba(0,0,0,.55),
+        0 38px 90px rgba(0,0,0,.65);
+      transform: rotateX(1.2deg);
+      overflow: hidden;
+    }
+
+    .upper {
+      min-height: 0;
+      display: grid;
+      grid-template-columns: 230px minmax(480px, 1fr) 330px;
+      gap: 14px;
+    }
+
+    .nameplate {
+      position: absolute;
+      left: 38px;
+      top: 26px;
+      z-index: 10;
+      display: inline-flex;
+      gap: 9px;
+      align-items: center;
+      padding: 6px 10px;
+      border: 1px solid rgba(241,230,184,.42);
+      background: rgba(10,10,7,.78);
+      color: #ffe7a7;
+      font-family: var(--mono);
+      font-size: 12px;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      box-shadow: 0 0 18px rgba(229,168,59,.12);
+    }
+
+    .lamp {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: var(--phosphor);
+      box-shadow: 0 0 10px var(--phosphor), 0 0 22px rgba(140,255,114,.35);
+      animation: pulse 1.8s steps(2,end) infinite;
+    }
+
+    .bay {
+      position: relative;
+      min-height: 0;
+      border: 1px solid #4a4938;
+      border-radius: 7px;
+      background:
+        repeating-linear-gradient(90deg, rgba(255,255,255,.025) 0 1px, transparent 1px 9px),
+        linear-gradient(180deg, rgba(0,0,0,.1), rgba(0,0,0,.28)),
+        var(--metal-2);
+      box-shadow: inset 0 0 36px rgba(0,0,0,.55);
+      overflow: hidden;
+    }
+
+    .bay-title {
+      margin: 0;
+      padding: 12px 13px;
+      border-bottom: 1px solid rgba(241,230,184,.18);
+      color: #ffe7a7;
+      font-family: var(--mono);
+      font-size: 12px;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .channel-bank {
+      padding: 42px 12px 12px;
+      display: grid;
+      gap: 10px;
+      align-content: start;
+    }
+
+    .channel {
+      position: relative;
+      display: grid;
+      grid-template-columns: 28px minmax(0, 1fr);
+      gap: 10px;
+      align-items: center;
+      border: 1px solid rgba(241,230,184,.15);
+      border-radius: 5px;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.06), rgba(0,0,0,.18)),
+        #1f2119;
+      padding: 10px 9px;
+      text-align: left;
+      box-shadow: inset 0 1px rgba(255,255,255,.08), 0 5px 0 rgba(0,0,0,.28);
+    }
+
+    .channel::before {
+      content: "";
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: var(--tone);
+      box-shadow: 0 0 14px var(--tone);
+      opacity: .66;
+    }
+
+    .channel strong {
+      display: block;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      color: var(--cream);
+      font-size: 16px;
+      line-height: 1.1;
+    }
+
+    .channel small {
+      display: block;
+      margin-top: 3px;
+      color: var(--dim);
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: .05em;
+    }
+
+    .channel b {
+      position: absolute;
+      right: 10px;
+      top: 9px;
+      color: var(--tone);
+      font-family: var(--mono);
+      font-size: 16px;
+    }
+
+    .channel.active {
+      color: #111;
+      border-color: color-mix(in srgb, var(--tone) 70%, #fff);
+      box-shadow: inset 0 0 22px color-mix(in srgb, var(--tone) 18%, transparent), 0 5px 0 rgba(0,0,0,.3);
+    }
+
+    .main-crt {
+      position: relative;
+      min-height: 0;
+      padding: 26px;
+      border: 2px solid #3e3f32;
+      border-radius: 30px;
+      background:
+        radial-gradient(circle at 50% 48%, rgba(140,255,114,.08), transparent 42%),
+        linear-gradient(145deg, #313327, #10120d 58%, #080907);
+      box-shadow:
+        inset 0 2px 0 rgba(255,255,255,.1),
+        inset 0 -14px 30px rgba(0,0,0,.55),
+        0 0 0 8px rgba(0,0,0,.22);
+    }
+
+    .crt-screen {
+      position: relative;
+      height: 100%;
+      min-height: 520px;
+      border: 2px solid #11150d;
+      border-radius: 48% / 6%;
+      overflow: hidden;
+      background:
+        radial-gradient(circle at 50% 46%, rgba(140,255,114,.14), transparent 32rem),
+        radial-gradient(circle at 50% 50%, #10200f, #020402 68%);
+      box-shadow:
+        inset 0 0 32px rgba(0,0,0,.8),
+        inset 0 0 80px rgba(140,255,114,.1),
+        0 0 20px rgba(140,255,114,.14);
+    }
+
+    .crt-screen::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background:
+        repeating-linear-gradient(0deg, rgba(255,255,255,.055) 0 1px, transparent 1px 5px),
+        radial-gradient(circle at 50% 50%, transparent 50%, rgba(0,0,0,.45));
+      z-index: 3;
+    }
+
+    .crt-screen::after {
+      content: "";
+      position: absolute;
+      left: -25%;
+      right: -25%;
+      top: var(--scan-y, 20%);
+      height: 34px;
+      pointer-events: none;
+      background: linear-gradient(180deg, transparent, rgba(140,255,114,.16), transparent);
+      filter: blur(2px);
+      z-index: 4;
+      animation: vscan 5s linear infinite;
+    }
+
+    #radar {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    .screen-label {
+      position: absolute;
+      left: 22px;
+      top: 18px;
+      z-index: 5;
+      display: flex;
+      gap: 12px;
+      align-items: center;
+      color: var(--phosphor);
+      font-family: var(--mono);
+      font-size: 12px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      text-shadow: 0 0 12px rgba(140,255,114,.65);
+    }
+
+    .screen-label b {
+      color: #ffe7a7;
+    }
+
+    .target-readout {
+      position: absolute;
+      left: 22px;
+      right: 22px;
+      bottom: 18px;
+      z-index: 5;
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      color: rgba(216,255,205,.78);
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: .06em;
+      text-shadow: 0 0 10px rgba(140,255,114,.45);
+    }
+
+    .side-crt {
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      min-height: 0;
+      padding: 14px;
+      gap: 12px;
+    }
+
+    .mini-screen {
+      min-height: 0;
+      border: 2px solid #10140e;
+      border-radius: 18px;
+      background:
+        linear-gradient(180deg, rgba(140,255,114,.08), transparent),
+        #061006;
+      box-shadow: inset 0 0 40px rgba(0,0,0,.8), 0 0 18px rgba(140,255,114,.12);
+      padding: 18px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .mini-screen::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background: repeating-linear-gradient(0deg, rgba(255,255,255,.045) 0 1px, transparent 1px 4px);
+    }
+
+    .mini-screen .meta {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      color: var(--phosphor);
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .mini-screen h2 {
+      margin: 24px 0 14px;
+      color: var(--cream);
+      font-size: clamp(32px, 3.2vw, 52px);
+      line-height: .88;
+      font-weight: 500;
+      text-shadow: 0 0 15px rgba(241,230,184,.2);
+    }
+
+    .mini-screen p {
+      margin: 0;
+      color: #d8ffcd;
+      font-size: 15px;
+      line-height: 1.62;
+      text-shadow: 0 0 10px rgba(140,255,114,.18);
+    }
+
+    .tape {
+      border: 1px dashed rgba(241,230,184,.35);
+      background: rgba(214, 196, 125, .12);
+      padding: 9px 10px;
+      color: #ffe7a7;
+      font-family: var(--mono);
+      font-size: 11px;
+      line-height: 1.45;
+      min-height: 54px;
+    }
+
+    .open-scan {
+      display: block;
+      border: 1px solid rgba(229,168,59,.65);
+      border-radius: 3px;
+      background: linear-gradient(180deg, #3a2a10, #1d170d);
+      color: #ffe7a7;
+      text-align: center;
+      text-decoration: none;
+      padding: 12px;
+      font-family: var(--mono);
+      font-size: 12px;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      box-shadow: inset 0 1px rgba(255,255,255,.14), 0 4px 0 rgba(0,0,0,.35);
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 280px minmax(360px, 1fr) 320px;
+      gap: 14px;
+      transform: rotateX(4deg);
+      transform-origin: top;
+    }
+
+    .control-panel {
+      position: relative;
+      border: 1px solid #4a4938;
+      border-radius: 7px 7px 18px 18px;
+      background:
+        linear-gradient(160deg, rgba(255,255,255,.08), transparent 34%),
+        linear-gradient(180deg, #303125, #151710);
+      box-shadow: inset 0 1px rgba(255,255,255,.12), inset 0 -20px 35px rgba(0,0,0,.45);
+      padding: 16px;
+      overflow: hidden;
+    }
+
+    .paper-label {
+      display: inline-block;
+      margin-bottom: 12px;
+      padding: 4px 9px;
+      background: rgba(241,230,184,.9);
+      color: #17150e;
+      font-family: var(--mono);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      transform: rotate(-1deg);
+      box-shadow: 0 2px 0 rgba(0,0,0,.3);
+    }
+
+    .big-knob-row {
+      display: grid;
+      grid-template-columns: 118px 1fr;
+      gap: 16px;
+      align-items: center;
+    }
+
+    .knob {
+      width: 104px;
+      height: 104px;
+      border-radius: 50%;
+      border: 2px solid #0a0a07;
+      background:
+        radial-gradient(circle at 36% 30%, rgba(255,255,255,.16), transparent 18%),
+        radial-gradient(circle, #444337 0 24%, #202219 25% 48%, #0b0c08 49% 53%, #333326 54% 100%);
+      box-shadow: inset 0 0 20px rgba(0,0,0,.65), 0 9px 0 rgba(0,0,0,.35);
+      position: relative;
+    }
+
+    .knob::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      top: 9px;
+      width: 3px;
+      height: 28px;
+      transform: translateX(-50%) rotate(var(--knob-angle));
+      transform-origin: 50% 43px;
+      background: var(--amber);
+      box-shadow: 0 0 10px rgba(229,168,59,.55);
+    }
+
+    .year-number {
+      color: var(--amber);
+      font-family: var(--mono);
+      font-size: 44px;
+      line-height: .9;
+    }
+
+    .year-number span {
+      display: block;
+      margin-top: 8px;
+      color: var(--dim);
+      font-size: 11px;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+    }
+
+    .tuner {
+      height: 86px;
+      display: grid;
+      align-items: center;
+      position: relative;
+    }
+
+    .rail {
+      height: 34px;
+      border: 1px solid rgba(241,230,184,.22);
+      background:
+        repeating-linear-gradient(90deg, rgba(241,230,184,.16) 0 1px, transparent 1px 25px),
+        #0c100b;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .rail .bars {
+      position: absolute;
+      inset: 3px;
+      display: grid;
+      grid-template-columns: repeat(var(--years), 1fr);
+      gap: 2px;
+      align-items: end;
+    }
+
+    .rail i {
+      display: block;
+      height: var(--h);
+      background: rgba(140,255,114,.38);
+    }
+
+    .needle {
+      position: absolute;
+      top: -18px;
+      bottom: -18px;
+      left: var(--needle);
+      width: 3px;
+      background: var(--amber);
+      box-shadow: 0 0 18px var(--amber);
+      pointer-events: none;
+    }
+
+    input[type=range] {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      opacity: 0;
+      cursor: ew-resize;
+      z-index: 3;
+    }
+
+    .switches {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-top: 8px;
+    }
+
+    .switch {
+      border: 1px solid rgba(241,230,184,.2);
+      background: #171910;
+      padding: 9px;
+      font-family: var(--mono);
+      color: var(--dim);
+      font-size: 11px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      box-shadow: inset 0 1px rgba(255,255,255,.07), 0 4px 0 rgba(0,0,0,.32);
+    }
+
+    .switch.active {
+      color: #17150e;
+      background: var(--amber);
+      border-color: #ffc65c;
+    }
+
+    .ticker {
+      height: 128px;
+      overflow: hidden;
+      border: 1px solid rgba(241,230,184,.2);
+      background: #0b0e09;
+      padding: 8px;
+      font-family: var(--mono);
+      font-size: 11px;
+      color: #b6f0a8;
+    }
+
+    .ticker-line {
+      display: grid;
+      grid-template-columns: 46px minmax(0, 1fr);
+      gap: 8px;
+      padding: 4px 0;
+      border-bottom: 1px dashed rgba(140,255,114,.12);
+    }
+
+    .ticker-line b {
+      color: var(--amber);
+      font-weight: 400;
+    }
+
+    .ticker-line span {
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+
+    @keyframes pulse { 50% { opacity: .35; } }
+    @keyframes vscan { from { top: -12%; } to { top: 108%; } }
+
+    @media (max-width: 1100px) {
+      body { overflow: auto; }
+      .console {
+        height: auto;
+        min-height: 100vh;
+      }
+      .upper,
+      .controls {
+        grid-template-columns: 1fr;
+      }
+      .main-crt { min-height: 620px; }
+      .crt-screen { min-height: 560px; }
+    }
+  </style>
+</head>
+<body>
+  <main class="room">
+    <section class="console" aria-label="Whole Earth archive mission control">
+      <div class="nameplate"><i class="lamp"></i>WHOLE EARTH / SIGNAL ACQUISITION</div>
+      <section class="upper">
+        <aside class="bay">
+          <h2 class="bay-title">Channel Patchbay</h2>
+          <div class="channel-bank" id="channels"></div>
+        </aside>
+
+        <section class="main-crt">
+          <div class="crt-screen">
+            <canvas id="radar"></canvas>
+            <div class="screen-label"><span>TRACKING</span><b id="screenMode">ALL PUBLICATIONS</b></div>
+            <div class="target-readout">
+              <span id="rangeReadout">RANGE 1968-2002</span>
+              <span id="visibleReadout">147 SIGNALS</span>
+              <span id="lockReadout">YEAR FREE</span>
+            </div>
+          </div>
+        </section>
+
+        <aside class="bay side-crt">
+          <h2 class="bay-title">Selected Signal</h2>
+          <section class="mini-screen">
+            <div class="meta"><span id="issueSeries">series</span><span id="issueYear">year</span></div>
+            <h2 id="issueTitle">Acquiring signal</h2>
+            <p id="issueSummary">正在读取本地索引。</p>
+          </section>
+          <div class="tape" id="issueTape">目录入口：--</div>
+          <a class="open-scan" id="scanLink" href="#" target="_blank" rel="noreferrer">Open Original Scan</a>
+        </aside>
+      </section>
+
+      <section class="controls">
+        <div class="control-panel">
+          <span class="paper-label">frequency year</span>
+          <div class="big-knob-row">
+            <div class="knob" id="knob"></div>
+            <div class="year-number" id="yearNumber">ALL<span>turn to tune archive year</span></div>
+          </div>
+        </div>
+
+        <div class="control-panel">
+          <span class="paper-label">publication tuner</span>
+          <div class="tuner">
+            <div class="rail" id="rail"><div class="bars" id="bars"></div><div class="needle" id="needle"></div></div>
+            <input id="yearRange" type="range" min="1968" max="2002" value="1985" step="1" aria-label="Publication year">
+          </div>
+          <div class="switches">
+            <button class="switch active" id="allYears">all years</button>
+            <button class="switch" id="lockYear">lock year</button>
+            <button class="switch active" id="autoScan">auto scan</button>
+          </div>
+        </div>
+
+        <div class="control-panel">
+          <span class="paper-label">signal tape</span>
+          <div class="ticker" id="ticker"></div>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <script>
+    const seriesColor = {
+      "Whole Earth 目录系列": "#c7683d",
+      "共同进化季刊": "#6fa45f",
+      "Whole Earth Review": "#58a7bd",
+      "软件目录与评论": "#e5a83b",
+      "Whole Earth Magazine": "#9a82c6",
+      "专题出版物": "#d2684e"
+    };
+
+    const canvas = document.getElementById("radar");
+    const ctx = canvas.getContext("2d");
+    const channelsEl = document.getElementById("channels");
+    const tickerEl = document.getElementById("ticker");
+    const barsEl = document.getElementById("bars");
+    const rangeEl = document.getElementById("yearRange");
+    const knobEl = document.getElementById("knob");
+    const needleEl = document.getElementById("needle");
+    const allYearsEl = document.getElementById("allYears");
+    const lockYearEl = document.getElementById("lockYear");
+    const autoScanEl = document.getElementById("autoScan");
+
+    let stats;
+    let activeSeries = null;
+    let lockedYear = null;
+    let selected = null;
+    let phase = 0;
+    let autoScan = true;
+    let blips = [];
+
+    function safe(text) {
+      return String(text ?? "").replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[ch]));
+    }
+
+    function resize() {
+      const box = canvas.getBoundingClientRect();
+      const dpr = Math.min(devicePixelRatio || 1, 2);
+      canvas.width = Math.max(1, Math.floor(box.width * dpr));
+      canvas.height = Math.max(1, Math.floor(box.height * dpr));
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    }
+
+    function filtered() {
+      return stats.issues.filter(issue => {
+        if (activeSeries && issue.collection !== activeSeries) return false;
+        if (lockedYear && issue.year !== lockedYear) return false;
+        return true;
+      });
+    }
+
+    function setSelected(issue) {
+      selected = issue || filtered()[0] || stats.issues[0];
+      document.getElementById("issueSeries").textContent = selected.collection;
+      document.getElementById("issueYear").textContent = [selected.year, selected.season].filter(Boolean).join(" ");
+      document.getElementById("issueTitle").textContent = selected.title;
+      const entries = (selected.content_map || []).slice(0, 5).map(item => item.title).filter(Boolean);
+      document.getElementById("issueSummary").textContent = entries.length
+        ? `目录信号：${entries.join(" / ")}`
+        : "索引里暂无稳定目录入口，需要回到原始扫描继续整理。";
+      document.getElementById("issueTape").textContent = `topics: ${(selected.topics || []).join(" / ") || "--"} · pages: ${selected.pages || "--"}`;
+      document.getElementById("scanLink").href = selected.archive_url || selected.url || "#";
+      buildBlips();
+      renderTicker();
+    }
+
+    function renderChannels() {
+      channelsEl.innerHTML = stats.series.map(series => `
+        <button class="channel ${activeSeries === series.collection ? "active" : ""}" data-series="${safe(series.collection)}" style="--tone:${series.color}">
+          <span><strong>${safe(series.zh)}</strong><small>${series.count} objects · ${series.year_min}-${series.year_max}</small></span>
+          <b>${series.count}</b>
+        </button>
+      `).join("");
+      channelsEl.querySelectorAll(".channel").forEach(button => {
+        button.onclick = () => {
+          activeSeries = activeSeries === button.dataset.series ? null : button.dataset.series;
+          document.getElementById("screenMode").textContent = activeSeries || "ALL PUBLICATIONS";
+          setSelected(filtered()[0]);
+          renderChannels();
+          renderTicker();
+        };
+      });
+    }
+
+    function renderBars() {
+      const years = [];
+      for (let y = stats.year_min; y <= stats.year_max; y++) years.push(y);
+      barsEl.style.setProperty("--years", years.length);
+      const byYear = Object.fromEntries(stats.yearly.map(row => [row.year, row.total]));
+      const max = Math.max(...stats.yearly.map(row => row.total));
+      barsEl.innerHTML = years.map(year => `<i style="--h:${Math.max(5, (byYear[year] || 0) / max * 28)}px"></i>`).join("");
+    }
+
+    function renderTicker() {
+      const list = filtered().slice(0, 18);
+      document.getElementById("visibleReadout").textContent = `${filtered().length} SIGNALS`;
+      tickerEl.innerHTML = list.map(issue => `
+        <div class="ticker-line"><b>${issue.year}</b><span>${safe(issue.title)}</span></div>
+      `).join("");
+    }
+
+    function setYearLock(year) {
+      lockedYear = year;
+      const label = year ? String(year) : "ALL";
+      document.getElementById("yearNumber").innerHTML = `${label}<span>turn to tune archive year</span>`;
+      document.getElementById("lockReadout").textContent = year ? `YEAR ${year}` : "YEAR FREE";
+      allYearsEl.classList.toggle("active", !year);
+      lockYearEl.classList.toggle("active", !!year);
+      setSelected(filtered()[0]);
+      renderTicker();
+    }
+
+    function updateKnob(year) {
+      const pct = (year - stats.year_min) / (stats.year_max - stats.year_min);
+      knobEl.style.setProperty("--knob-angle", `${-140 + pct * 280}deg`);
+      needleEl.style.setProperty("--needle", `${pct * 100}%`);
+      if (!lockedYear) {
+        document.getElementById("yearNumber").innerHTML = `ALL<span>tuned near ${year}</span>`;
+      }
+    }
+
+    function buildBlips() {
+      const list = filtered();
+      blips = list.map((issue, index) => {
+        const seriesIndex = stats.series.findIndex(series => series.collection === issue.collection);
+        return {
+          issue,
+          angle: index / Math.max(1, list.length) * Math.PI * 2 + seriesIndex * .55,
+          radius: .23 + (seriesIndex % 6) * .065 + ((issue.year - stats.year_min) % 7) * .007,
+          color: seriesColor[issue.collection] || "#8cff72",
+          major: selected && issue.identifier === selected.identifier
+        };
+      });
+    }
+
+    function draw() {
+      const w = canvas.clientWidth;
+      const h = canvas.clientHeight;
+      const cx = w / 2;
+      const cy = h / 2 + h * .02;
+      const r = Math.min(w, h) * .25;
+      phase += autoScan ? .009 : .002;
+      ctx.clearRect(0, 0, w, h);
+      ctx.save();
+
+      ctx.strokeStyle = "rgba(140,255,114,.12)";
+      ctx.lineWidth = 1;
+      for (let ring = 1; ring <= 5; ring++) {
+        ctx.beginPath();
+        ctx.ellipse(cx, cy, r * (1 + ring * .33), r * (1 + ring * .33) * .48, 0, 0, Math.PI * 2);
+        ctx.stroke();
+      }
+
+      ctx.strokeStyle = "rgba(229,168,59,.28)";
+      ctx.beginPath();
+      ctx.moveTo(cx, cy - r * 1.55);
+      ctx.lineTo(cx, cy + r * 1.55);
+      ctx.moveTo(cx - r * 2.1, cy);
+      ctx.lineTo(cx + r * 2.1, cy);
+      ctx.stroke();
+
+      const glow = ctx.createRadialGradient(cx, cy, r * .2, cx, cy, r * 1.2);
+      glow.addColorStop(0, "rgba(140,255,114,.18)");
+      glow.addColorStop(1, "rgba(140,255,114,0)");
+      ctx.fillStyle = glow;
+      ctx.beginPath();
+      ctx.arc(cx, cy, r * 1.2, 0, Math.PI * 2);
+      ctx.fill();
+
+      ctx.strokeStyle = "rgba(140,255,114,.55)";
+      ctx.lineWidth = 1.15;
+      ctx.beginPath();
+      ctx.arc(cx, cy, r, 0, Math.PI * 2);
+      ctx.stroke();
+
+      for (let lat = -60; lat <= 60; lat += 15) {
+        const y = Math.sin(lat * Math.PI / 180) * r;
+        const rr = Math.cos(lat * Math.PI / 180) * r;
+        ctx.beginPath();
+        ctx.ellipse(cx, cy + y, rr, rr * .2, 0, 0, Math.PI * 2);
+        ctx.strokeStyle = "rgba(140,255,114,.28)";
+        ctx.stroke();
+      }
+
+      for (let lon = 0; lon < 180; lon += 15) {
+        ctx.beginPath();
+        ctx.ellipse(cx, cy, r * Math.abs(Math.cos(phase + lon * Math.PI / 180)), r, 0, 0, Math.PI * 2);
+        ctx.strokeStyle = "rgba(140,255,114,.2)";
+        ctx.stroke();
+      }
+
+      const sweep = phase * 1.9;
+      ctx.save();
+      ctx.translate(cx, cy);
+      ctx.rotate(sweep);
+      ctx.beginPath();
+      ctx.moveTo(0, 0);
+      ctx.arc(0, 0, r * 2.25, -.12, .12);
+      ctx.closePath();
+      ctx.fillStyle = "rgba(229,168,59,.18)";
+      ctx.fill();
+      ctx.restore();
+
+      blips.forEach(blip => {
+        const a = blip.angle + phase * (.22 + blip.radius * .4);
+        const rr = r * (1 + blip.radius * 3.2);
+        const x = cx + Math.cos(a) * rr;
+        const y = cy + Math.sin(a) * rr * .48;
+        ctx.save();
+        ctx.translate(x, y);
+        ctx.rotate(Math.PI / 4 + a * .2);
+        ctx.fillStyle = blip.color;
+        ctx.strokeStyle = "rgba(255,255,255,.42)";
+        ctx.shadowColor = blip.color;
+        ctx.shadowBlur = blip.major ? 18 : 8;
+        const size = blip.major ? 11 : 5;
+        ctx.fillRect(-size / 2, -size / 2, size, size);
+        ctx.strokeRect(-size / 2, -size / 2, size, size);
+        ctx.restore();
+      });
+
+      ctx.restore();
+      requestAnimationFrame(draw);
+    }
+
+    canvas.addEventListener("click", event => {
+      const rect = canvas.getBoundingClientRect();
+      const x = event.clientX - rect.left;
+      const y = event.clientY - rect.top;
+      const w = canvas.clientWidth;
+      const h = canvas.clientHeight;
+      const cx = w / 2;
+      const cy = h / 2 + h * .02;
+      const r = Math.min(w, h) * .25;
+      let best = null;
+      let bestDistance = Infinity;
+      blips.forEach(blip => {
+        const a = blip.angle + phase * (.22 + blip.radius * .4);
+        const rr = r * (1 + blip.radius * 3.2);
+        const bx = cx + Math.cos(a) * rr;
+        const by = cy + Math.sin(a) * rr * .48;
+        const distance = Math.hypot(x - bx, y - by);
+        if (distance < bestDistance) {
+          best = blip;
+          bestDistance = distance;
+        }
+      });
+      if (best && bestDistance < 42) setSelected(best.issue);
+    });
+
+    rangeEl.addEventListener("input", () => {
+      const year = Number(rangeEl.value);
+      updateKnob(year);
+      if (lockedYear) setYearLock(year);
+    });
+    allYearsEl.onclick = () => setYearLock(null);
+    lockYearEl.onclick = () => setYearLock(Number(rangeEl.value));
+    autoScanEl.onclick = () => {
+      autoScan = !autoScan;
+      autoScanEl.classList.toggle("active", autoScan);
+    };
+
+    async function boot() {
+      stats = await fetch("../data/wholeearth_macro_stats.json").then(response => response.json());
+      rangeEl.min = stats.year_min;
+      rangeEl.max = stats.year_max;
+      rangeEl.value = 1985;
+      document.getElementById("rangeReadout").textContent = `RANGE ${stats.year_min}-${stats.year_max}`;
+      renderChannels();
+      renderBars();
+      setSelected(stats.issues[0]);
+      updateKnob(Number(rangeEl.value));
+      resize();
+      draw();
+    }
+
+    addEventListener("resize", resize);
+    boot();
+  </script>
+</body>
+</html>

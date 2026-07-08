@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Whole Earth Review, March 1985 · 中文知识地图</title>
+  <link rel="icon" href="data:,">
+  <style>
+    :root { --ink:#171713; --paper:#ece7da; --panel:rgba(244,239,225,.72); --line:rgba(23,23,19,.18); --muted:#6b6558; --accent:#5f8a5f; --shadow:0 22px 55px rgba(43,35,22,.18); }
+    *{box-sizing:border-box} body{margin:0;color:var(--ink);background:radial-gradient(circle at 14% 12%, color-mix(in srgb,var(--accent) 24%,transparent), transparent 24rem),radial-gradient(circle at 84% 22%,rgba(57,111,144,.16),transparent 25rem),linear-gradient(90deg,rgba(23,23,19,.04) 1px,transparent 1px),linear-gradient(rgba(23,23,19,.04) 1px,transparent 1px),var(--paper);background-size:auto,auto,28px 28px,28px 28px,auto;font-family:"Iowan Old Style","Songti SC","STSong",Georgia,serif} button{border:0;font:inherit;color:inherit;cursor:pointer}
+    .desk{min-height:100vh;padding:20px;display:grid;grid-template-rows:auto 1fr;gap:16px}.rail{min-height:54px;border-bottom:1px solid rgba(23,23,19,.2);display:grid;grid-template-columns:minmax(220px,1fr) auto;align-items:center;gap:18px}.identity{display:flex;align-items:baseline;flex-wrap:wrap;gap:10px 14px}.stamp{display:inline-flex;align-items:center;min-height:24px;padding:2px 9px;border:1px solid rgba(23,23,19,.28);background:rgba(255,251,239,.55);font-family:"Courier New",monospace;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.08em}.identity strong{font-size:clamp(18px,2.5vw,32px);line-height:.96;font-weight:600}.identity span:last-child{color:var(--muted);font-size:14px}
+    .modes,.issue-jump{display:flex;flex-wrap:wrap;justify-content:flex-end;gap:8px}.issue-jump{margin-top:8px;justify-content:flex-start}.mode,.issue-link{min-height:34px;padding:7px 11px;border:1px solid rgba(23,23,19,.22);background:rgba(255,251,239,.46);font-family:"Courier New",monospace;font-size:12px;transition:transform .2s ease,background .2s ease;text-decoration:none;color:inherit}.mode:hover,.mode.active,.issue-link.active{transform:translateY(-2px);background:var(--ink);color:var(--paper)}
+    .workspace{display:grid;grid-template-columns:minmax(210px,260px) minmax(520px,1fr) minmax(260px,360px);gap:16px;min-height:0}.routes,.inspector{border:1px solid rgba(23,23,19,.18);background:var(--panel);box-shadow:var(--shadow);min-width:0}.routes{display:grid;grid-template-rows:auto 1fr auto;overflow:hidden}.routes h2,.inspector h2{margin:0;padding:15px 16px 11px;font-size:14px;font-family:"Courier New",monospace;text-transform:uppercase;letter-spacing:.09em;border-bottom:1px solid rgba(23,23,19,.17)}
+    .theme-list{overflow-y:auto;overflow-x:visible;padding:10px}.theme{width:100%;max-width:100%;min-width:0;text-align:left;display:grid;grid-template-columns:12px minmax(0,1fr);gap:10px;padding:12px 9px;background:transparent;border-bottom:1px dashed rgba(23,23,19,.18)}.theme i{width:11px;height:11px;margin-top:4px;background:var(--theme-color);transform:rotate(45deg);box-shadow:0 0 0 4px rgba(255,251,239,.62)}.theme-copy b{display:block;font-size:17px;line-height:1.15;font-weight:600}.theme-copy span{display:block;max-width:20ch;margin-top:4px;color:var(--muted);font-size:13px;line-height:1.45;overflow-wrap:anywhere}.theme.active,.theme:hover{background:rgba(255,251,239,.7)}.source-note{margin:0;padding:12px 14px;border-top:1px solid rgba(23,23,19,.17);color:var(--muted);font-size:12px;line-height:1.5;overflow-wrap:anywhere;word-break:break-word}
+    .map-stage{position:relative;overflow:hidden;border:1px solid rgba(23,23,19,.22);background:linear-gradient(115deg,rgba(255,255,255,.26),rgba(255,255,255,0) 44%),repeating-linear-gradient(0deg,rgba(23,23,19,.07) 0 1px,transparent 1px 42px),repeating-linear-gradient(90deg,rgba(23,23,19,.045) 0 1px,transparent 1px 42px),rgba(236,231,218,.78);box-shadow:var(--shadow);min-height:720px}.map-stage:before{content:"";position:absolute;inset:20px;border:1px dashed rgba(23,23,19,.25);pointer-events:none}.orbit-label{position:absolute;left:28px;top:22px;z-index:3;display:flex;gap:8px;align-items:center;font-family:"Courier New",monospace;font-size:12px;text-transform:uppercase;letter-spacing:.07em}.scan-strip{position:absolute;right:26px;top:26px;z-index:3;width:min(27vw,260px);display:grid;grid-template-columns:repeat(4,1fr);gap:6px;opacity:.9}.scan-card{position:relative;display:block;min-height:96px;border:1px solid rgba(23,23,19,.22);background:rgba(255,251,239,.62);overflow:hidden;text-decoration:none;color:inherit}.scan-card img{width:100%;aspect-ratio:3/4;object-fit:cover;display:block}.scan-card span{position:absolute;left:4px;right:4px;bottom:4px;padding:2px 4px;background:rgba(255,251,239,.82);font-family:"Courier New",monospace;font-size:9px;line-height:1.1}.scan-card.missing{display:grid;place-items:center;font-family:"Courier New",monospace;font-size:10px;color:var(--muted)}
+    .connections{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:1}.connections path{fill:none;stroke:rgba(23,23,19,.25);stroke-width:1.1;stroke-dasharray:8 7}.connections path.strong{stroke:var(--accent);stroke-width:2;stroke-dasharray:none}.center{position:absolute;left:50%;top:50%;width:158px;min-height:158px;transform:translate(-50%,-50%);border-radius:999px;background:var(--ink);color:var(--paper);display:grid;place-items:center;text-align:center;z-index:2;box-shadow:0 20px 50px rgba(23,23,19,.24)}.center b{display:block;font-size:25px;line-height:1.05}.center span{display:block;max-width:12ch;margin-top:5px;font-family:"Courier New",monospace;font-size:10px;text-transform:uppercase;letter-spacing:.08em}
+    .nodes{position:absolute;inset:0;z-index:2}.node{position:absolute;left:var(--x);top:var(--y);width:142px;min-height:86px;transform:translate(-50%,-50%) rotate(var(--tilt));border:1px solid rgba(23,23,19,.24);background:rgba(255,251,239,.84);box-shadow:8px 10px 0 color-mix(in srgb,var(--node-color) 42%,transparent);padding:10px 12px;text-align:left;transition:opacity .2s ease,transform .2s ease,box-shadow .2s ease}.node:hover,.node.active{transform:translate(-50%,-50%) rotate(0deg) scale(1.05);background:#fffdf5;z-index:5}.node.dim{opacity:.24;filter:grayscale(.4)}.node b{display:block;font-size:17px;line-height:1.05}.node span{display:block;margin-top:6px;color:var(--muted);font-family:"Courier New",monospace;font-size:11px;line-height:1.15}.node em{display:block;margin-top:7px;color:var(--node-color);font-style:normal;font-family:"Courier New",monospace;font-size:10px;font-weight:700;text-transform:uppercase}
+    .mini-timeline{position:absolute;left:34px;right:34px;bottom:18px;z-index:3;display:grid;grid-template-columns:repeat(var(--cols),minmax(0,1fr));border-top:2px solid rgba(23,23,19,.5)}.phase{position:relative;padding-top:12px;font-size:12px;line-height:1.25;color:var(--muted)}.phase:before{content:"";position:absolute;top:-5px;left:0;width:10px;height:10px;border-radius:999px;background:var(--ink)}
+    .inspector{overflow:auto}.reader-card{padding:18px 16px 16px;border-bottom:1px solid rgba(23,23,19,.17);background:rgba(255,251,239,.54)}.kicker{display:flex;justify-content:space-between;gap:12px;color:var(--muted);font-family:"Courier New",monospace;font-size:11px;text-transform:uppercase}.reader-card h3{margin:12px 0 8px;font-size:clamp(25px,2.7vw,38px);line-height:1.02;font-weight:500}.reader-card p,.field p,.field li{font-size:15px;line-height:1.58}.field{padding:15px 16px;border-bottom:1px solid rgba(23,23,19,.17)}.field b{display:block;margin-bottom:8px;font-family:"Courier New",monospace;font-size:12px;text-transform:uppercase;letter-spacing:.08em}.field p{margin:0}.field ul{margin:0;padding-left:18px}.field li+li{margin-top:6px}.field:empty{display:none}.theme-count{float:right;color:var(--muted);font-family:"Courier New",monospace;font-size:11px}.evidence{padding:16px;background:var(--ink);color:var(--paper)}.evidence a{display:block;color:var(--paper);text-decoration:none;font-size:18px;margin-bottom:10px}.evidence small{display:block;color:rgba(236,231,218,.72);line-height:1.5;font-family:"Courier New",monospace}
+    @media(max-width:1120px){.workspace{grid-template-columns:1fr}.modes{justify-content:flex-start}.map-stage{min-height:980px}.scan-strip{width:190px;right:18px;top:64px}.center{width:142px;min-height:142px}.node{width:126px;min-height:82px}.mini-timeline{grid-template-columns:1fr;border-top:0;left:18px;right:18px}.phase{border-left:2px solid rgba(23,23,19,.55);padding:7px 0 7px 16px}.phase:before{top:12px;left:-6px}}@media(max-width:680px){.desk{padding:12px}.rail{grid-template-columns:minmax(0,1fr);align-items:start}.identity,.modes,.issue-jump{min-width:0}.mode,.issue-link{white-space:normal;max-width:100%;overflow-wrap:anywhere}.map-stage{min-height:auto;overflow:visible;padding:14px}.map-stage:before,.connections,.center,.scan-strip,.mini-timeline{display:none}.orbit-label{position:static;margin-bottom:12px}.nodes{position:static;display:grid;gap:10px}.node{position:relative;left:auto!important;top:auto!important;width:100%;min-height:auto;transform:none!important;overflow-wrap:anywhere}.node:hover,.node.active{transform:translateX(3px)!important}.theme-copy span{max-width:none}}
+  </style>
+</head>
+<body>
+  <script id="map-data" type="application/json">{"issue": {"id": "wholeearthreview00unse_0", "short": "Mar", "label": "No. 45", "title": "Whole Earth Review, March 1985", "pages": 110, "words": 57728, "flagged": "26 / 110", "accent": "#5f8a5f", "scanBase": "https://archive.org/download/wholeearthreview00unse_0/page/n{leaf}_w500.jpg", "source": "_local/reading_sources/wholeearthreview00unse_0/map_content_draft.md", "sections": ["这本自己的结构", "中文入口问题"], "center": "反教条", "subtitle": "环保运动的自我校准", "timeline": ["城市", "自批判", "地球图像", "修复", "复杂政治", "软件更新"], "themes": [["ecology", "城市生态", "城市和自然不是简单敌我关系。"], ["movement", "运动自批判", "成功后的环保主义可能僵化、专业化和恐慌化。"], ["image", "图像政治", "Whole Earth 图像也可能制造疏离。"], ["repair", "修复尺度", "有些地方要设计，有些地方要撤回人的痕迹。"], ["politics", "复杂政治", "原住民、革命政府和冷战不能被压成阵营选择题。"], ["platform", "工具转向", "工具观进入电脑、软件和地方网络。"]]}, "map": {"subtitle": "环保运动的自我校准", "center": "反教条", "center_sub": "环保运动的自我校准", "source_note": "依据 _local/reading_sources/wholeearthreview00unse_0/map_content_draft.md；不是全文翻译，节点来自这本自己的草案结构。", "themes": [{"id": "ecology", "title": "城市生态", "text": "城市和自然不是简单敌我关系。", "color": "#5f8a5f"}, {"id": "movement", "title": "运动自批判", "text": "成功后的环保主义可能僵化、专业化和恐慌化。", "color": "#bb6c35"}, {"id": "image", "title": "图像政治", "text": "Whole Earth 图像也可能制造疏离。", "color": "#426f7f"}, {"id": "repair", "title": "修复尺度", "text": "有些地方要设计，有些地方要撤回人的痕迹。", "color": "#6f7d45"}, {"id": "politics", "title": "复杂政治", "text": "原住民、革命政府和冷战不能被压成阵营选择题。", "color": "#a94f38"}, {"id": "platform", "title": "工具转向", "text": "工具观进入电脑、软件和地方网络。", "color": "#396f90"}], "modes": [{"id": "all", "title": "全部", "nodes": null}, {"id": "section-1", "title": "这本自己的结构", "nodes": ["node-0", "node-1", "whole-earth", "node-3", "miskito-nicaragua", "node-5"]}, {"id": "section-2", "title": "中文入口问题", "nodes": ["node-6", "node-7", "node-8", "node-9", "node-10", "node-11"]}], "timeline": ["城市", "自批判", "地球图像", "修复", "复杂政治", "软件更新"], "nodes": [{"id": "node-0", "title": "开场：城市、增长和环保想象的翻转", "source_title": "开场：城市、增长和环保想象的翻转", "theme": "ecology", "themes": ["ecology", "image", "politics"], "pages": "leaf 1", "leaf": 1, "thumb": "https://archive.org/download/wholeearthreview00unse_0/page/n1_w500.jpg", "claim": "城市不一定是生态的敌人，也可能是减少消耗的工具。", "role": "Calthorpe 从城市密度、公共空间和可步行生活谈起，把环保主义从反城市情绪里拉出来。它真正问的是：什么样的居住结构能减少能源、土地和交通消耗，而不是简单把自然想象成城市之外的地方。", "objects": ["重新定义城市", "生态城市", "公共空间", "步行尺度", "反郊区"], "links": "连接“运动自批判”，因为城市问题迫使环保主义修正自己的直觉；也连接“修复尺度”，因为二者都在问哪里该设计、哪里该撤回。", "x": 35, "y": 22, "tilt": "-2deg", "color": "#5f8a5f"}, {"id": "node-1", "title": "运动的自我批判：环保成功之后为什么变僵硬", "source_title": "运动的自我批判：环保成功之后为什么变僵硬", "theme": "movement", "themes": ["movement", "image", "ecology"], "pages": "leaf 5", "leaf": 5, "thumb": "https://archive.org/download/wholeearthreview00unse_0/page/n5_w500.jpg", "claim": "成功后的环保运动也会产生惯性、恐慌和专业化。", "role": "Brand 和其他作者不是否定环保，而是在检查一个正确运动如何变得不能学习：道德姿态会变成自我免疫，专业组织会远离现场，持续恐慌会让运动失去节奏。这是一份运动维护手册。", "objects": ["环保主义会中毒吗", "生态伦理", "专业化批判", "恐慌区", "运动维护"], "links": "连接“城市生态”，因为城市议题挑战了环保运动的习惯敌我；也连接“复杂政治”，因为现实议题不能靠单一阵营判断。", "x": 24, "y": 39, "tilt": "1deg", "color": "#bb6c35"}, {"id": "whole-earth", "title": "杂志的自我反省：地球图像也可能制造疏离", "source_title": "Whole Earth 的自我反省：地球图像也可能制造疏离", "theme": "image", "themes": ["image"], "pages": "leaf 19-26", "leaf": 19, "thumb": "https://archive.org/download/wholeearthreview00unse_0/page/n19_w500.jpg", "claim": "完整地球图像既能唤起整体感，也可能制造远距离控制欲。", "role": "Garb 批判的是 Whole Earth 自己最核心的视觉符号。太空视角让人看见整体，却也可能让地球变成可观看、可掌控、可商品化的对象；它带来环保意识，也可能抽走地方感和身体参与。", "objects": ["完整地球图像", "上帝视角", "地方感", "太空视角", "图像自省"], "links": "连接“修复尺度”，因为图像决定我们想怎样干预自然；也连接“工具转向”，因为电脑图像会继续放大这种观看方式。", "x": 32, "y": 57, "tilt": "-1deg", "color": "#426f7f"}, {"id": "node-3", "title": "修复不是征服：从“建造荒野”到“拆掉人的痕迹”", "source_title": "修复不是征服：从“建造荒野”到“拆掉人的痕迹”", "theme": "image", "themes": ["image", "ecology", "repair"], "pages": "leaf 29-33", "leaf": 29, "thumb": "https://archive.org/download/wholeearthreview00unse_0/page/n29_w500.jpg", "claim": "最好的生态修复，有时是让人的设计消失。", "role": "Sorensen 从国家公园步道队经验写起，讲的是一个悖论：最爱荒野的人也可能因修路、搭桥和整理秩序而伤害荒野。后来的修复工作不是继续建设，而是填平痕迹、恢复草甸，让自然秩序重新接手。", "objects": ["草甸修复", "反设计", "步道痕迹", "荒野维护", "撤回人工秩序"], "links": "连接“城市生态”，因为城市需要有形设计，而荒野修复常常需要设计退场；也连接“图像政治”，因为看见自然的方式会影响修复尺度。", "x": 45, "y": 15, "tilt": "2deg", "color": "#426f7f"}, {"id": "miskito-nicaragua", "title": "政治复杂性：米斯基托人与尼加拉瓜不是阵营选择题", "source_title": "政治复杂性：Miskito/Nicaragua 不是阵营选择题", "theme": "politics", "themes": ["politics", "image"], "pages": "leaf 51", "leaf": 51, "thumb": "scans/wholeearthreview00unse_0_n51_w500.png", "claim": "冷战政治会把原住民处境压成阵营口号。", "role": "这一组围绕米斯基托人、桑地诺政府、美国政策和军事组织展开。它要求读者同时看见国家主权、原住民自治、革命政府的压力、美国的选择性道德和代理战争结构，而不是选择一个舒服立场。", "objects": ["米斯基托人处境", "桑地诺政府", "原住民自治", "冷战代理战", "读者争论"], "links": "连接“运动自批判”，因为政治现实会检验道德姿态；也连接“地方政治”，因为两者都要求从现场材料出发。", "x": 17, "y": 62, "tilt": "1.5deg", "color": "#a94f38"}, {"id": "node-5", "title": "后半本的软件转向：工具不再只是铲子、书和炉子", "source_title": "后半本的软件转向：工具不再只是铲子、书和炉子", "theme": "platform", "themes": ["platform", "image"], "pages": "leaf 79", "leaf": 79, "thumb": "scans/wholeearthreview00unse_0_n79_w500.png", "claim": "环保杂志里的软件更新，说明工具文化正在换材料。", "role": "从软件目录更新开始，电脑杂志、硬盘、游戏、写作、数据库、绘图、通信和学习软件进入同一本环保/社会杂志。重点不是产品清单，而是 Whole Earth 读者的工具世界已经从土地和炉子扩展到屏幕和网络。", "objects": ["软件目录更新", "生活工具转向", "地方网络", "学习软件", "电脑维护工具"], "links": "连接“地方政治能不能被电脑放大”，因为软件不只提高个人效率，也开始改变公共参与。", "x": 28, "y": 79, "tilt": "-2deg", "color": "#396f90"}, {"id": "node-6", "title": "城市到底是生态灾难，还是生态工具？", "source_title": "城市到底是生态灾难，还是生态工具？", "theme": "ecology", "themes": ["ecology", "politics", "movement"], "pages": "leaf 1-2", "leaf": 1, "thumb": "scans/wholeearthreview00unse_0_n1_w500.png", "claim": "城市问题要从生活密度和资源流动读起。", "role": "这个入口把城市从环保主义的敌人改写成可设计的生态对象。Calthorpe 的城市文章、地方园艺和可移动居住放在一起，说明生态不只在荒野，也在街道、租屋、交通和气候适应里。", "objects": ["生态城市", "生活密度", "可移动居住", "地域园艺", "公共空间"], "links": "连接“开场城市节点”，并把它推进到中文读者更熟悉的居住和通勤问题。", "x": 43, "y": 83, "tilt": "1deg", "color": "#5f8a5f"}, {"id": "node-7", "title": "环保运动为什么需要批判自己？", "source_title": "环保运动为什么需要批判自己？", "theme": "movement", "themes": ["movement", "ecology"], "pages": "leaf 5", "leaf": 5, "thumb": "scans/wholeearthreview00unse_0_n5_w500.png", "claim": "一个正确运动也需要防止自己变硬。", "role": "这组内容最好读成运动维护手册。它讨论成功后的环保主义如何僵化、专业化、恐慌化，如何把复杂现实压成道德姿态；也提醒运动需要节奏、学习能力和自我修正机制。", "objects": ["运动维护", "生态伦理压力测试", "专业化", "恐慌节奏", "自我修正"], "links": "连接“运动自批判”主节点，也连接“复杂政治”，因为复杂处境最容易暴露运动语言的不足。", "x": 58, "y": 82, "tilt": "-1.5deg", "color": "#bb6c35"}, {"id": "node-8", "title": "图像会帮助我们爱地球，还是让我们离开地球？", "source_title": "图像会帮助我们爱地球，还是让我们离开地球？", "theme": "image", "themes": ["image", "platform", "ecology"], "pages": "leaf 19", "leaf": 19, "thumb": "scans/wholeearthreview00unse_0_n19_w500.png", "claim": "图像能制造爱，也能制造距离。", "role": "Whole Earth 的地球图像让人获得整体视野，但也可能让人从太空、地图和屏幕上观看地球，失去触感、地方和身体参与。这个节点适合中文读者理解：视觉符号不是中性的，它会组织行动。", "objects": ["完整地球照片", "远距离观看", "地方感", "太空实验", "视觉权力"], "links": "连接“图像自省”主节点，也连接“修复自然”，因为修复方式常常来自观看方式。", "x": 72, "y": 73, "tilt": "1.8deg", "color": "#426f7f"}, {"id": "node-9", "title": "修复自然是不是另一种控制自然？", "source_title": "修复自然是不是另一种控制自然？", "theme": "ecology", "themes": ["ecology", "repair", "image"], "pages": "leaf 16", "leaf": 16, "thumb": "scans/wholeearthreview00unse_0_n16_w500.png", "claim": "修复自然的关键不是多做，而是知道何时退场。", "role": "这一组讨论干预尺度：有些地方需要设计能源、材料和城市，有些地方需要撤销人的痕迹。草甸修复文章尤其重要，因为它把生态修复写成一种反设计：真正成功的工作，是最后看不出你做过什么。", "objects": ["草甸修复", "干预尺度", "反设计", "竹材资源", "能源自给"], "links": "连接“图像政治”，因为自然被怎样看见会决定怎样被修复；也连接“城市生态”，因为城市和荒野需要相反的设计伦理。", "x": 84, "y": 57, "tilt": "-1deg", "color": "#5f8a5f"}, {"id": "node-10", "title": "地方政治能不能被电脑放大？", "source_title": "地方政治能不能被电脑放大？", "theme": "platform", "themes": ["platform", "politics"], "pages": "leaf 90", "leaf": 90, "thumb": "scans/wholeearthreview00unse_0_n90_w500.png", "claim": "个人电脑开始从效率工具转向地方公共基础设施。", "role": "Dave Hughes 把地方条例文本放到公告板系统，让普通居民读原文、讨论和回应。这不是电脑怀旧，而是早期网络公共性的实验：机器互通、会议系统和维护工具开始服务地方自治。", "objects": ["地方公告板", "社区条例", "居民讨论", "电脑互通", "维护工具"], "links": "连接“软件转向”，因为工具评价开始进入公共生活；也连接“复杂政治”，因为地方政治需要可访问的信息。", "x": 84, "y": 39, "tilt": "1.2deg", "color": "#396f90"}, {"id": "node-11", "title": "政治判断如何避免被阵营叙事吃掉？", "source_title": "政治判断如何避免被阵营叙事吃掉？", "theme": "politics", "themes": ["politics"], "pages": "leaf 18", "leaf": 18, "thumb": "scans/wholeearthreview00unse_0_n18_w500.png", "claim": "复杂政治要求读者抵抗快速站队。", "role": "米斯基托人与尼加拉瓜争论让本期从环保运动转向冷战现场。它不是要求读者选择亲谁反谁，而是训练一种判断：同时看见国家、革命、原住民、美国干预和军事组织各自的限制。", "objects": ["米斯基托人争论", "冷战叙事", "原住民自治", "革命国家", "代理战争"], "links": "连接“政治复杂性”主节点，也连接“运动自批判”，因为任何运动语言遇到现场都会变得不够用。", "x": 74, "y": 22, "tilt": "-2deg", "color": "#a94f38"}]}, "issues": [{"id": "wholeearthreview00unse", "short": "Jan", "label": "No. 44", "title": "Whole Earth Review, January 1985", "pages": 108, "flagged": "31 / 108", "accent": "#d35f45", "scanBase": "https://archive.org/download/wholeearthreview00unse/page/n{leaf}_w500.jpg"}, {"id": "wholeearthreview00unse_0", "short": "Mar", "label": "No. 45", "title": "Whole Earth Review, March 1985", "pages": 110, "flagged": "26 / 110", "accent": "#5f8a5f", "scanBase": "https://archive.org/download/wholeearthreview00unse_0/page/n{leaf}_w500.jpg"}, {"id": "wholeearthreview00unse_1", "short": "May", "label": "No. 46", "title": "Whole Earth Review, May 1985", "pages": 118, "flagged": "33 / 118", "accent": "#8368b3", "scanBase": "https://archive.org/download/wholeearthreview00unse_1/page/n{leaf}_w500.jpg"}, {"id": "wholeearthreview00unse_2", "short": "Jul", "label": "No. 47", "title": "Whole Earth Review, July 1985", "pages": 124, "flagged": "45 / 124", "accent": "#3d7f91", "scanBase": "https://archive.org/download/wholeearthreview00unse_2/page/n{leaf}_w500.jpg"}, {"id": "wholeearthreview00unse_3", "short": "Fall", "label": "No. 48", "title": "Whole Earth Review, Fall 1985", "pages": 148, "flagged": "27 / 148", "accent": "#bb6c35", "scanBase": "https://archive.org/download/wholeearthreview00unse_3/page/n{leaf}_w500.jpg"}, {"id": "wholeearthreview00unse_4", "short": "Winter", "label": "No. 49", "title": "Whole Earth Review, Winter 1985", "pages": 146, "flagged": "25 / 146", "accent": "#426f7f", "scanBase": "https://archive.org/download/wholeearthreview00unse_4/page/n{leaf}_w500.jpg"}, {"id": "wholeearthsoftwa00unse_3", "short": "Software", "label": "Software Catalog", "title": "Whole Earth Software Catalog 2.0, Fall 1985", "pages": 228, "flagged": "58 / 228 refined", "accent": "#d8912f", "scanBase": "https://archive.org/download/wholeearthsoftwa00unse_3/page/n{leaf}_w500.jpg"}]}</script>
+  <main class="desk">
+    <header class="rail"><div><div class="identity"><span class="stamp" id="issueLabel"></span><strong id="issueTitle"></strong><span id="issueSubtitle"></span></div><nav class="issue-jump" id="issueJump"></nav></div><nav class="modes" id="modes"></nav></header>
+    <section class="workspace"><aside class="routes"><h2>暗线</h2><div class="theme-list" id="themeList"></div><p class="source-note" id="sourceNote"></p></aside><section class="map-stage" aria-label="知识地图"><div class="orbit-label"><span class="stamp" id="leafCount"></span><span>点击节点看关系</span></div><div class="scan-strip" id="scanStrip"></div><svg class="connections" id="connections"></svg><div class="center"><div><b id="centerTitle"></b><span id="centerSub"></span></div></div><div class="nodes" id="nodes"></div><div class="mini-timeline" id="timeline"></div></section><aside class="inspector"><h2>当前节点</h2><section class="reader-card"><div class="kicker"><span id="panelTheme"></span><span id="panelPages"></span></div><h3 id="panelTitle"></h3><p id="panelClaim"></p></section><section class="field"><b>这一章解决什么问题</b><p id="panelRole"></p></section><section class="field"><b>关键物件</b><ul id="panelObjects"></ul></section><section class="field"><b>连接关系</b><p id="panelLinks"></p></section><section class="evidence"><a id="scanLink" href="#" target="_blank" rel="noreferrer">打开对应扫描页</a><small id="panelEvidence"></small></section></aside></section>
+  </main>
+  <script>
+    const payload = JSON.parse(document.getElementById('map-data').textContent);
+    const issue = payload.issue;
+    const map = payload.map;
+    const nodes = map.nodes;
+    const themes = map.themes;
+    const byId = Object.fromEntries(nodes.map(n => [n.id, n]));
+    const edges = [];
+    for (let i = 0; i < nodes.length - 1; i++) edges.push([nodes[i].id, nodes[i + 1].id]);
+    map.modes.forEach(m => {
+      if (!m.nodes) return;
+      for (let i = 0; i < m.nodes.length - 1; i++) edges.push([m.nodes[i], m.nodes[i + 1]]);
+    });
+    let activeTheme = null;
+    let activeMode = 'all';
+    let activeNode = nodes[Math.min(1, nodes.length - 1)].id;
+    function scan(leaf) { return issue.scanBase.replace('{leaf}', leaf); }
+    function nodeThemes(node) {
+      return node.themes && node.themes.length ? node.themes : [node.theme];
+    }
+    function boot() {
+      document.getElementById('issueLabel').textContent = issue.label;
+      document.getElementById('issueTitle').textContent = issue.title;
+      document.getElementById('issueSubtitle').textContent = map.subtitle;
+      document.getElementById('sourceNote').textContent = map.source_note;
+      document.getElementById('leafCount').textContent = `${issue.pages} leaves`;
+      document.getElementById('centerTitle').textContent = map.center;
+      document.getElementById('centerSub').textContent = map.center_sub;
+      document.documentElement.style.setProperty('--accent', issue.accent);
+      document.getElementById('issueJump').innerHTML = payload.issues.map(item => `<a class="issue-link ${item.id === issue.id ? 'active' : ''}" href="${item.id}.html">${item.short}</a>`).join('');
+      document.getElementById('modes').innerHTML = map.modes.map(m => `<button class="mode ${m.id === activeMode ? 'active' : ''}" data-mode="${m.id}">${m.title}</button>`).join('');
+      document.getElementById('timeline').style.setProperty('--cols', map.timeline.length);
+      document.getElementById('timeline').innerHTML = map.timeline.map(x => `<div class="phase">${x}</div>`).join('');
+      document.getElementById('scanStrip').innerHTML = nodes.slice(0, 4).map(n => `<a class="scan-card" href="${scan(n.leaf)}" target="_blank" rel="noreferrer"><img src="${n.thumb}" alt="${n.pages}" loading="eager"><span>${n.pages}</span></a>`).join('');
+      document.querySelectorAll('.scan-card img').forEach(img => {
+        img.onerror = () => {
+          img.closest('.scan-card').classList.add('missing');
+          img.closest('.scan-card').textContent = 'scan';
+        };
+      });
+    }
+    function renderThemes() {
+      themeList.innerHTML = '';
+      themes.forEach(t => {
+        const count = nodes.filter(n => nodeThemes(n).includes(t.id)).length;
+        const b = document.createElement('button');
+        b.className = 'theme';
+        b.style.setProperty('--theme-color', t.color);
+        b.dataset.theme = t.id;
+        b.innerHTML = `<i></i><div class="theme-copy"><b>${t.title}<span class="theme-count">${count}</span></b><span>${t.text}</span></div>`;
+        b.onclick = () => {
+          activeTheme = activeTheme === t.id ? null : t.id;
+          update();
+        };
+        themeList.appendChild(b);
+      });
+    }
+    function renderNodes() {
+      nodesEl = document.getElementById('nodes');
+      nodesEl.innerHTML = '';
+      nodes.forEach(n => {
+        const b = document.createElement('button');
+        b.className = 'node';
+        b.type = 'button';
+        b.dataset.id = n.id;
+        b.dataset.theme = n.theme;
+        b.style.left = `${n.x}%`;
+        b.style.top = `${n.y}%`;
+        b.style.setProperty('--tilt', n.tilt);
+        b.style.setProperty('--node-color', n.color);
+        const theme = themes.find(t => t.id === n.theme);
+        b.innerHTML = `<b>${n.title}</b><span>${n.pages}</span><em>${theme ? theme.title : n.theme}</em>`;
+        b.onclick = () => setNode(n.id);
+        nodesEl.appendChild(b);
+      });
+    }
+    function drawEdges() {
+      const svg = document.getElementById('connections');
+      svg.innerHTML = '';
+      const st = svg.getBoundingClientRect();
+      if (!st.width || matchMedia('(max-width:680px)').matches) return;
+      const c = { x: st.width / 2, y: st.height / 2 };
+      const seen = new Set();
+      edges.forEach(([f, t]) => {
+        const k = f + '>' + t;
+        if (seen.has(k)) return;
+        seen.add(k);
+        const a = document.querySelector(`.node[data-id="${f}"]`);
+        const b = document.querySelector(`.node[data-id="${t}"]`);
+        if (!a || !b) return;
+        const ar = a.getBoundingClientRect();
+        const br = b.getBoundingClientRect();
+        const ax = ar.left + ar.width / 2 - st.left;
+        const ay = ar.top + ar.height / 2 - st.top;
+        const bx = br.left + br.width / 2 - st.left;
+        const by = br.top + br.height / 2 - st.top;
+        const p = document.createElementNS('http://www.w3.org/2000/svg', 'path');
+        p.setAttribute('d', `M ${ax} ${ay} Q ${c.x} ${c.y} ${bx} ${by}`);
+        if (f === activeNode || t === activeNode) p.classList.add('strong');
+        svg.appendChild(p);
+      });
+    }
+    function setNode(id) {
+      activeNode = id;
+      const n = byId[id] || nodes[0];
+      const theme = themes.find(t => t.id === n.theme) || { title: n.theme };
+      panelTheme.textContent = nodeThemes(n).map(id => (themes.find(t => t.id === id) || { title: id }).title).join(' / ');
+      panelPages.textContent = n.pages;
+      panelTitle.textContent = n.title;
+      panelClaim.textContent = n.claim;
+      panelRole.textContent = n.role;
+      panelObjects.innerHTML = n.objects.map(object => `<li>${object}</li>`).join('');
+      panelLinks.textContent = n.links;
+      scanLink.href = scan(n.leaf);
+      panelEvidence.textContent = `${n.pages} / 原始扫描图可用来复核 OCR、版式和图像。`;
+      update();
+      drawEdges();
+    }
+    function update() {
+      const mode = map.modes.find(m => m.id === activeMode) || map.modes[0];
+      const filter = mode.nodes ? new Set(mode.nodes) : null;
+      document.querySelectorAll('.theme').forEach(b => b.classList.toggle('active', activeTheme === b.dataset.theme));
+      document.querySelectorAll('.node').forEach(b => {
+        const n = byId[b.dataset.id];
+        const hide = (activeTheme && !nodeThemes(n).includes(activeTheme)) || (filter && !filter.has(n.id));
+        b.classList.toggle('dim', hide);
+        b.classList.toggle('active', n.id === activeNode);
+      });
+    }
+    document.addEventListener('click', e => {
+      const b = e.target.closest('.mode');
+      if (!b) return;
+      activeMode = b.dataset.mode;
+      document.querySelectorAll('.mode').forEach(x => x.classList.remove('active'));
+      b.classList.add('active');
+      update();
+    });
+    boot();
+    renderThemes();
+    renderNodes();
+    setNode(activeNode);
+    addEventListener('resize', drawEdges);
+  </script>
+</body>
+</html>

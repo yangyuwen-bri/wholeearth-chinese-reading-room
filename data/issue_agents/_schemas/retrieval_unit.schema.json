@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Issue Agent Retrieval Unit",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "unit_id",
+    "issue_id",
+    "source_type",
+    "source_record_id",
+    "title",
+    "text"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "unit_id": {
+      "type": "string"
+    },
+    "issue_id": {
+      "type": "string"
+    },
+    "source_type": {
+      "enum": [
+        "page",
+        "chapter",
+        "bibliography"
+      ]
+    },
+    "source_record_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "section": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "leaf_start": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "leaf_end": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "scan_urls": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "text": {
+      "type": "string"
+    },
+    "key_terms": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "qa_flags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "citation_hint": {
+      "type": "string"
+    }
+  }
+}

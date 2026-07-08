@@ -1,92 +1,129 @@
-# Whole Earth Chinese Reading Room
+# 全球概览中文精读文库 / Whole Earth Chinese Close-Reading Library
 
-Local research workspace for exploring `wholeearth.info` / Internet Archive scans and turning Whole Earth publications into readable Chinese guides.
+把 Whole Earth 系列出版物（Whole Earth Catalog / Epilog / Software Catalog / CoEvolution Quarterly 等）做成中文读者可以真正读进去的精读本。工作基于 `wholeearth.info` 与 Internet Archive 扫描，以 OCR、页级证据和扫描图链接为编辑底线：不靠标题和目录猜内容。
 
-This project is not a full-text translation archive. The product goal is to help Chinese readers understand what each Whole Earth issue is about, why it matters, and where to enter the original scans. The editorial standard is: do not rely on titles or index guesses alone; use OCR, page-level evidence, and scan links.
+## 产品定义
 
-## Current Editorial Status
+一期的产品是**一部中文精读本**，由两层组成：
 
-### Completed Reading Drafts
+1. **导读作序**：这期是什么、为什么值得读、怎么读。面向读者的完整叙述，不带内部工作语言。
+2. **章节译写正文**：按原书顺序，保留"条目—判断—摘录"的肌理，把原书转成可连续阅读的中文。这是精读本的主体。对失效地址、旧价格和重复出版信息做压缩处理。
 
-The only issue currently treated as a complete Chinese reading draft is:
+**证据层是内部基础设施，不是读者产品**：页级证据稿、编辑结构稿、书目审计、147 期 dossier 都属于工作台。它们支撑精读本的可信度（每一处判断可回溯到 leaf / 印刷页 / 扫描图），但不和成品混同展示。
 
-- `Whole Earth Software Catalog 2.0, Fall 1985`
-  - full guide: `content/readings/1985_software_catalog_full_chinese_reading.md`
-  - chapter coverage: 17/17 chapters
-  - format: Chinese reading guide, not full-text translation
-  - QA status: passed chapter coverage / duplicate-paragraph / overclaim checks
+明确不做的：
 
-The same issue also has a deeper page-level sample for the Programming section:
+- 不承诺 147 期全集覆盖。一年做几期，看兴趣和精力。
+- 不做逐字对照的全文翻译档案。译写以可读性和忠实肌理为准，不是 diplomatic edition。
+- 质量线以 1974 Epilog 章节译写版为基准；自用即发布，不为发布降低标准。
 
-- `content/samples/1985_software_catalog_programming_pages_158_174.md`
-  - covers the Programming section around printed pages 158-174
-  - includes leaf/page mapping and scan links
-  - used as the quality benchmark for future issue-level reading work
+## 每期完成标准
 
-### Data Layer Completed, Not Yet Editorially Complete
+一期精读本视为完成，需要全部满足：
 
-- 147 issues have local page-level dossiers.
-- Total local page count: 22,162 pages.
-- Coverage QA result: 147/147 dossiers present, 0 missing, 0 empty, 0 invalid JSON.
-- These dossiers are evidence infrastructure, not finished understanding. They should not be presented as completed Chinese reading notes.
+1. 导读作序完成，无模板化章节节奏，无内部选题/生产语言。
+2. 章节译写正文覆盖原书全部章节结构（含前置页、出版机制、索引、封底）。
+3. 通过三项 QA：章节覆盖检查、重复模板语言检查、过度声称检查。
+4. **成稿校对一遍**：半翻译残留（如"夜shade"）、专名拼写、页码/leaf 引用抽查。
+5. 页级证据稿在工作台中可回溯，OCR/版面高风险页有标注。
 
-### Prototype Only
+## 发布分层
 
-Earlier static site prototypes were moved out of the clean project tree into `_local/legacy/`. They are useful only as historical experiments and should not be treated as final editorial content. Many issue summaries still need real reading work.
+- **自用与私下分享**：精读本全部内容。
+- **公开发布**：导读作序可全文公开；章节译写正文接近整书译写，原书版权仍然有效（Point Foundation 等），公开时需收缩为"精编+评述"形态或节选。公开任何一期之前先按此分层裁剪，不直接把译写正文全文公开。
 
-## Structure
+## 文库现状
 
-- `scripts/`: extraction scripts for issue-level and page-level evidence.
-- `data/issue_index.json`: 147-issue index metadata.
-- `data/evidence_dossiers/`: issue-level OCR evidence dossiers.
-- `data/1985_software_catalog_architecture.*`: section architecture for the 1985 Software Catalog.
-- `content/readings/`: finished Chinese reading drafts.
-- `content/samples/`: page-level reading samples.
-- `content/notes/`: explicitly marked legacy or transitional notes.
-- `assets/`: small tracked scan/image assets used by readings.
-- `_local/`: ignored local cache and legacy experiment area.
+### 对外入口
 
-Large regenerated page OCR/XML caches and old experiments are intentionally ignored:
+- **文库控制台首页**：`index.html` 会进入 `content/demos/wholeearth_webgl_console_demo.html`。
+- WebGL 控制台保留 147 期围绕地球运行的信号视图，并按阅读状态分流：
+  - `开放阅读室`：进入对应中文阅读室（当前为 1974 Epilog）。
+  - `导读本` / `阅读地图`：进入已有中文导读或可视化地图。
+  - `已建索引` / `原始扫描`：进入 Archive 原刊页，等待后续整理。
 
-- `_local/page_xml/`
-- `_local/page_dossiers/`
-- `_local/legacy/`
+### 精读本（导读 + 章节译写齐备）
 
-They remain available locally on this machine, but they are not tracked in Git because they are large and reproducible from Internet Archive sources.
+- **Whole Earth Epilog, October 1974**
+  - 导读作序：`content/readings/1974_whole_earth_epilog_reader_chinese.md`
+  - 章节译写正文：`content/readings/1974_whole_earth_epilog_chapter_translation_zh.md`
+  - 阅读入口：`reader-prototype/index.html`（当前最适合对外展示的对照阅读器）
+  - 覆盖：前置页、Whole Systems、Land Use、Shelter、Soft Technology、Craft、Community、Nomadics、Communications、Learning、出版机制、索引、封底
+  - QA：内容页按 Archive leaf 0-321 读取；正文印刷页号按 `leaf + 449` 映射；封底 `Stay hungry. Stay foolish.` 于 leaf 321 扫描确认，leaf 322 为扫描校准页；书目审计 216 条（140 条确认可用链接，76 条明确不链）
+  - 待办：成稿校对一遍（已知残留：导读稿"夜shade"、"Epiog"）
 
-## Git Scope
+### 导读本（仅导读层，无译写正文）
 
-Tracked:
+- **Whole Earth Software Catalog 2.0, Fall 1985**
+  - 全书导读：`content/readings/1985_software_catalog_full_chinese_reading.md`
+  - 页级导读：`content/readings/1985_software_catalog_page_level_chinese_reading.md`
+  - QA：17/17 章节覆盖；leaf 0-227 页级覆盖
+  - 按新产品定义，本期为导读本。是否升格为精读本（补章节译写正文）另行决定。
 
-- extraction and generation scripts
-- issue-level evidence dossiers
-- the 1985 complete Chinese reading draft
-- the 1985 Programming page-level sample
-- small supporting scan assets
+### 证据基础设施（工作台，非成品）
 
-Ignored:
+- 147 期 issue 全部有页级 dossier，合计 22,162 页；覆盖 QA 147/147 通过。
+- dossier 是选题和证据基础，不作为"已完成阅读"呈现。
 
-- page-level OCR/XML caches
-- full page-level dossier JSON/Markdown output
-- runtime logs
-- QA screenshots and design trials
-- legacy `outputs/` and `work/` material from earlier experiments
+### 内部工作稿（当前仍在 `content/readings/` 内，待归位）
 
-## Key Scripts
+以下文件是编辑工作台产物，不是读者成品，计划迁出读者目录（迁移方案见下节）：
 
-- `scripts/extract_wholeearth_evidence.py`: builds issue-level OCR evidence dossiers.
-- `scripts/extract_issue_pages.py`: builds page-level dossier for one Internet Archive identifier into `_local/page_dossiers/`.
-- `scripts/extract_all_issue_pages.py`: builds page-level dossiers for all 147 issues into `_local/page_dossiers/`.
+- `content/readings/1974_whole_earth_epilog_chinese_reading.md`（编辑结构稿）
+- `content/readings/1974_whole_earth_epilog_page_level_chinese_reading.md`（页级证据工作台）
+- `content/readings/1974_whole_earth_epilog_bibliography_links.md`（书目/链接审计）
 
-## Important Caveat
+### 实验归档（非当前读者产品）
 
-Earlier issue notes under `content/notes/` are explicitly marked as initial OCR-based judgments, not page-level readings. They should not be used as finished public-facing copy.
+`content/maps/` 中的知识地图已作为文库控制台的导读入口之一保留；`data/issue_agents/` 与 `scripts/serve_issue_agent.py` 仍为实验工作台，不承担公开产品承诺。
 
-## Suggested Next Step
+## 目录规划（拟议，文件尚未搬移）
 
-Continue issue by issue. For each issue:
+目标：读者成品与工作台分离。
 
-1. Read from the page-level dossier and scan links.
-2. Write a Chinese guide in `content/readings/`.
-3. Run a small QA check for chapter coverage, repeated template language, and overclaims.
-4. Only then promote the issue into the product UI as editorially complete.
+```text
+content/
+  books/                      # 读者成品：每期一个目录
+    1974_whole_earth_epilog/
+      00_reader_preface.md    # 导读作序
+      01_chapter_translation.md  # 章节译写正文
+  workbench/                  # 内部工作台：结构稿、页级证据稿、书目审计
+```
+
+搬移前保持现状；本节仅为方向声明。
+
+## 现有目录结构
+
+- `scripts/`：issue 级与页级证据抽取脚本。
+- `data/issue_index.json`：147 期索引元数据。
+- `data/evidence_dossiers/`：issue 级 OCR 证据 dossier。
+- `data/issue_agents/`：单期知识 bundle（实验）。
+- `data/bibliography/`：书目审计数据。
+- `content/readings/`：当前的成品与工作稿混合目录（见上节归位计划）。
+- `content/samples/`：页级阅读样本（1985 Programming 章，历史基准）。
+- `content/notes/`：明确标注的 legacy 过渡笔记，不作公开文案。
+- `reader-prototype/`：1974 Epilog 对照阅读器，当前的读者展示入口。
+- `assets/`：读稿引用的小型扫描/图片资产。
+- `_local/`：不入库的本地缓存、PDF 源、日志与历史实验。
+
+## Git 范围
+
+跟踪：抽取/生成脚本、issue 级证据 dossier、精读本与导读本成品、小型扫描资产。
+
+忽略：页级 OCR/XML 缓存、页级 dossier 全量输出、运行日志、QA 截图、`_local/` 全部内容。大文件均可从 Internet Archive 重建。
+
+## 关键脚本
+
+- `scripts/extract_wholeearth_evidence.py`：构建 issue 级 OCR 证据 dossier。
+- `scripts/extract_issue_pages.py`：为单个 Internet Archive identifier 构建页级 dossier（输出 `_local/page_dossiers/`）。
+- `scripts/extract_all_issue_pages.py`：为全部 147 期构建页级 dossier。
+- `scripts/build_epilog_agent_bundle.py` / `build_epilog_web_agent_data.py` / `query_issue_agent_bundle.py` / `serve_issue_agent.py`：issue-agent 实验线（非产品承诺）。
+
+## 每期工作流
+
+1. 选期：从 147 期 dossier 里挑当下最想读的一期。
+2. 建工作台：页级 dossier + 扫描链接 + 结构稿。
+3. 写章节译写正文：逐章回到扫描页，保留条目—判断—摘录肌理。
+4. 写导读作序。
+5. 过完成标准五项（含成稿校对）。
+6. 录入文库现状，标注精读本/导读本身份。
