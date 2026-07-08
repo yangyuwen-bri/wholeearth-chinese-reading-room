@@ -30,6 +30,7 @@ SRC = readings_dir()
 TRANSLATION = SRC / "1974_whole_earth_epilog_chapter_translation_zh.md"
 PREFACE = SRC / "1974_whole_earth_epilog_reader_chinese.md"
 OUT = HERE / "data" / "epilog_reader.json"
+ANCHOR_AUDIT = HERE / "data" / "epilog_anchor_audit.json"
 
 CHAPTER_LEAVES = {
     "译者说明": None,
@@ -263,9 +264,39 @@ def assign_leaves(chapters: list[dict]) -> None:
             sec["id"] = f"{chap['id']}-s{j:02d}"
 
 
+def apply_anchor_audit(chapters: list[dict]) -> None:
+    if not ANCHOR_AUDIT.exists():
+        return
+    audit = json.loads(ANCHOR_AUDIT.read_text(encoding="utf-8"))
+    anchors = {item["section_id"]: item for item in audit.get("anchors", [])}
+    for chap in chapters:
+        starts = []
+        ends = []
+        for sec in chap["sections"]:
+            anchor = anchors.get(sec["id"])
+            if anchor is None:
+                continue
+            sec["leaf"] = anchor.get("primary_leaf")
+            sec["leaf_start"] = anchor.get("leaf_start")
+            sec["leaf_end"] = anchor.get("leaf_end")
+            sec["anchor_status"] = anchor.get("status")
+            if anchor.get("leaf_ranges"):
+                sec["leaf_ranges"] = anchor["leaf_ranges"]
+            if sec["leaf_start"] is not None:
+                starts.append(sec["leaf_start"])
+            if sec["leaf_end"] is not None:
+                ends.append(sec["leaf_end"])
+        if starts and ends:
+            chap["leaf_start"] = min(starts)
+            chap["leaf_end"] = max(ends)
+        elif chap["leaf_start"] is None:
+            chap["leaf_end"] = None
+
+
 def main() -> None:
     chapters = parse_markdown(TRANSLATION)
     assign_leaves(chapters)
+    apply_anchor_audit(chapters)
 
     preface_chapters = parse_markdown(PREFACE)
     preface_sections = []
