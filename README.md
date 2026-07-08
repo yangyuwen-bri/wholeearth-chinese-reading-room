@@ -74,8 +74,10 @@ scripts/
 
 The site must be served over HTTP because the reading room and WebGL console load JSON and module scripts.
 
+From the repository root:
+
 ```bash
-python3 -m http.server 8911 -d /Users/yuwen/work/wholeearth/ai-https-wholeearth-info
+python3 -m http.server 8911
 ```
 
 Then open:
