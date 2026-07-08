@@ -18,9 +18,11 @@
 ## 构建与运行
 
 ```bash
+cd reader-prototype
 python3 build_data.py          # 重新生成 data/epilog_reader.json
-python3 -m http.server 8901 -d ..   # 从仓库根目录起服务
-# 打开 http://localhost:8901/reader-prototype/index.html
+cd ..                          # 回到仓库根目录
+python3 -m http.server 8911
+# 打开 http://127.0.0.1:8911/reader-prototype/index.html
 ```
 
 `index.html` 通过 fetch 读取 JSON，必须走 HTTP，不能直接双击打开文件。
