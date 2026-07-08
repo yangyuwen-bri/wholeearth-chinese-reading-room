@@ -1,0 +1,1480 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Whole Earth Epilog, 1974</title>
+  <link rel="icon" href="data:,">
+  <style>
+    :root {
+      --ink: #171713;
+      --paper: #eee9dc;
+      --panel: rgba(248, 243, 231, .88);
+      --line: rgba(23, 23, 19, .18);
+      --line-strong: rgba(23, 23, 19, .36);
+      --muted: #696356;
+      --mono: "Courier New", ui-monospace, monospace;
+      --serif: "Iowan Old Style", "Songti SC", "STSong", Georgia, serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        linear-gradient(90deg, rgba(23, 23, 19, .045) 1px, transparent 1px),
+        linear-gradient(rgba(23, 23, 19, .045) 1px, transparent 1px),
+        var(--paper);
+      background-size: 28px 28px;
+      font-family: var(--serif);
+    }
+
+    button,
+    input,
+    textarea {
+      color: inherit;
+      font: inherit;
+    }
+
+    button { cursor: pointer; }
+    a { color: inherit; }
+
+    .desk {
+      min-height: 100vh;
+      padding: 18px;
+      display: grid;
+      grid-template-rows: auto 1fr;
+      gap: 14px;
+    }
+
+    .topline {
+      min-width: 0;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 12px;
+      align-items: end;
+      border-bottom: 1px solid var(--line-strong);
+      padding-bottom: 14px;
+    }
+
+    .issue {
+      min-width: 0;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 10px 14px;
+    }
+
+    .issue-title {
+      min-width: 0;
+      font-size: 24px;
+      line-height: 1.1;
+      font-weight: 700;
+      overflow-wrap: anywhere;
+    }
+
+    .issue-note {
+      min-width: 180px;
+      max-width: 660px;
+      color: var(--muted);
+      font-size: 16px;
+      line-height: 1.45;
+      overflow-wrap: anywhere;
+    }
+
+    .links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 8px;
+    }
+
+    .links a {
+      min-height: 36px;
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid rgba(23, 23, 19, .28);
+      background: rgba(255, 251, 239, .54);
+      padding: 7px 11px;
+      text-decoration: none;
+      font: 13px var(--mono);
+      overflow-wrap: anywhere;
+    }
+
+    .links a:hover {
+      background: var(--ink);
+      color: var(--paper);
+    }
+
+    .workspace {
+      min-width: 0;
+      display: grid;
+      grid-template-columns: minmax(250px, 315px) minmax(500px, 1fr) minmax(330px, 430px);
+      gap: 14px;
+      align-items: start;
+    }
+
+    .panel {
+      min-width: 0;
+      border: 1px solid var(--line-strong);
+      background: var(--panel);
+    }
+
+    .panel-title {
+      margin: 0;
+      padding: 14px 15px 11px;
+      border-bottom: 1px solid var(--line);
+      font: 700 13px var(--mono);
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .lenses,
+    .inspector {
+      position: sticky;
+      top: 12px;
+      max-height: calc(100vh - 24px);
+      overflow: auto;
+    }
+
+    .lens-list {
+      display: grid;
+      gap: 0;
+      padding: 8px;
+    }
+
+    .lens {
+      min-width: 0;
+      width: 100%;
+      display: grid;
+      grid-template-columns: 16px minmax(0, 1fr);
+      gap: 10px;
+      border: 0;
+      border-bottom: 1px dashed rgba(23, 23, 19, .18);
+      background: transparent;
+      padding: 12px 8px;
+      text-align: left;
+    }
+
+    .lens::before {
+      content: "";
+      width: 11px;
+      height: 11px;
+      margin-top: 5px;
+      background: var(--tone);
+      transform: rotate(45deg);
+      box-shadow: 0 0 0 5px rgba(255, 251, 239, .66);
+    }
+
+    .lens b {
+      display: block;
+      font-size: 22px;
+      line-height: 1.12;
+      overflow-wrap: anywhere;
+    }
+
+    .lens span {
+      display: block;
+      margin-top: 6px;
+      color: var(--muted);
+      font: 12px var(--mono);
+      line-height: 1.35;
+      overflow-wrap: anywhere;
+    }
+
+    .lens p {
+      margin: 8px 0 0;
+      color: #3f392f;
+      font-size: 14px;
+      line-height: 1.45;
+      overflow-wrap: anywhere;
+    }
+
+    .lens.active,
+    .lens:hover {
+      background: rgba(255, 251, 239, .76);
+    }
+
+    .network-stage {
+      position: relative;
+      min-height: 730px;
+      overflow: hidden;
+      background:
+        radial-gradient(circle at 50% 48%, rgba(255, 251, 239, .62), rgba(255, 251, 239, 0) 46%),
+        rgba(244, 239, 225, .32);
+    }
+
+    .network-lines {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+    }
+
+    .network-lines line {
+      stroke: var(--tone);
+      stroke-width: .55;
+      stroke-linecap: square;
+      opacity: .74;
+    }
+
+    .module-node {
+      position: absolute;
+      left: calc(var(--x) * 1%);
+      top: calc(var(--y) * 1%);
+      width: 132px;
+      min-height: 58px;
+      transform: translate(-50%, -50%);
+      border: 1px solid rgba(23, 23, 19, .26);
+      border-top: 5px solid var(--tone);
+      background: rgba(255, 251, 239, .82);
+      padding: 9px 10px;
+      text-align: left;
+      transition: opacity .16s ease, transform .16s ease, background .16s ease, box-shadow .16s ease;
+    }
+
+    .module-node.dimmed {
+      opacity: .28;
+    }
+
+    .module-node.outside {
+      width: 124px;
+      min-height: 52px;
+      opacity: .58;
+      border-color: rgba(23, 23, 19, .16);
+      background: rgba(255, 251, 239, .46);
+    }
+
+    .module-node.outside .node-tags {
+      display: none;
+    }
+
+    .module-node.related {
+      width: 158px;
+      min-height: 96px;
+      opacity: 1;
+      z-index: 2;
+      background: #fffdf5;
+      box-shadow: 6px 6px 0 color-mix(in srgb, var(--tone) 34%, transparent);
+    }
+
+    .module-node.search-hit {
+      opacity: 1;
+      outline: 1px dashed rgba(23, 23, 19, .5);
+      outline-offset: 2px;
+    }
+
+    .module-node.active {
+      opacity: 1;
+      z-index: 6;
+      outline: 2px solid var(--ink);
+      outline-offset: -2px;
+      transform: translate(-50%, -50%) scale(1.03);
+    }
+
+    .module-node:hover {
+      opacity: 1;
+      background: #fffdf5;
+      transform: translate(-50%, -50%) scale(1.03);
+      z-index: 5;
+    }
+
+    .module-node b {
+      display: block;
+      font-size: 16px;
+      line-height: 1.12;
+      overflow-wrap: anywhere;
+    }
+
+    .module-node span {
+      display: block;
+      margin-top: 5px;
+      color: var(--muted);
+      font: 12px var(--mono);
+      line-height: 1.25;
+      overflow-wrap: anywhere;
+    }
+
+    .node-tags {
+      margin: 8px 0 0;
+      padding: 7px 0 0;
+      border-top: 1px dashed rgba(23, 23, 19, .22);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 4px;
+    }
+
+    .node-tags i {
+      display: inline-flex;
+      max-width: 100%;
+      border: 1px solid rgba(23, 23, 19, .16);
+      background: rgba(244, 239, 225, .66);
+      padding: 2px 4px;
+      color: #3f392f;
+      font-style: normal;
+      font-size: 11px;
+      line-height: 1.18;
+      overflow-wrap: anywhere;
+    }
+
+    .reader-card {
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 251, 239, .58);
+      padding: 16px 15px;
+    }
+
+    .kicker {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      color: var(--muted);
+      font: 700 11px var(--mono);
+      letter-spacing: .07em;
+      text-transform: uppercase;
+    }
+
+    .reader-card h2 {
+      margin: 12px 0 9px;
+      font-size: 33px;
+      line-height: 1.04;
+      font-weight: 600;
+      overflow-wrap: anywhere;
+    }
+
+    .reader-card p {
+      margin: 0;
+      color: #373228;
+      font-size: 16px;
+      line-height: 1.58;
+      overflow-wrap: anywhere;
+    }
+
+    .field {
+      padding: 14px 15px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .field:last-child { border-bottom: 0; }
+
+    .field b {
+      display: block;
+      margin-bottom: 8px;
+      font: 700 12px var(--mono);
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .field p,
+    .field li {
+      margin: 0;
+      color: #3d382f;
+      font-size: 15px;
+      line-height: 1.56;
+      overflow-wrap: anywhere;
+    }
+
+    .field ul {
+      margin: 0;
+      padding-left: 18px;
+    }
+
+    .field li + li { margin-top: 6px; }
+
+    .section-list {
+      display: grid;
+      gap: 6px;
+    }
+
+    .section-list span {
+      display: block;
+      border-left: 3px solid var(--tone, rgba(23, 23, 19, .32));
+      background: rgba(255, 251, 239, .46);
+      padding: 7px 8px;
+      color: #3d382f;
+      font-size: 14px;
+      line-height: 1.35;
+      overflow-wrap: anywhere;
+    }
+
+    .tool-list {
+      display: grid;
+      gap: 8px;
+    }
+
+    .tool-item {
+      border: 1px solid rgba(23, 23, 19, .18);
+      background: rgba(255, 251, 239, .5);
+      padding: 9px 10px;
+    }
+
+    .tool-item strong {
+      display: block;
+      font-size: 16px;
+      line-height: 1.25;
+      overflow-wrap: anywhere;
+    }
+
+    .tool-item span {
+      display: block;
+      margin-top: 5px;
+      color: #4a4439;
+      font-size: 14px;
+      line-height: 1.45;
+      overflow-wrap: anywhere;
+    }
+
+    .case-box {
+      border: 1px solid rgba(23, 23, 19, .22);
+      border-left: 5px solid var(--tone, rgba(23, 23, 19, .32));
+      background: rgba(255, 251, 239, .56);
+      padding: 10px 11px;
+    }
+
+    .case-box strong {
+      display: block;
+      font-size: 17px;
+      line-height: 1.25;
+      overflow-wrap: anywhere;
+    }
+
+    .case-box p {
+      margin-top: 6px;
+    }
+
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+    }
+
+    .chips span {
+      display: inline-flex;
+      min-height: 28px;
+      align-items: center;
+      border: 1px solid var(--line);
+      background: rgba(255, 251, 239, .54);
+      padding: 4px 7px;
+      font-size: 13px;
+      line-height: 1.25;
+      max-width: 100%;
+      overflow-wrap: anywhere;
+    }
+
+    .scan-link {
+      display: inline-flex;
+      max-width: 100%;
+      min-height: 38px;
+      align-items: center;
+      border: 1px solid rgba(23, 23, 19, .3);
+      background: var(--ink);
+      color: var(--paper);
+      padding: 8px 10px;
+      text-decoration: none;
+      font: 700 12px var(--mono);
+      letter-spacing: .07em;
+      text-transform: uppercase;
+      overflow-wrap: anywhere;
+    }
+
+    .chat-launch {
+      position: fixed;
+      right: 16px;
+      bottom: 14px;
+      z-index: 40;
+      width: 82px;
+      height: 82px;
+      border: 0;
+      background: transparent;
+      padding: 0;
+      cursor: pointer;
+    }
+
+    .chat-launch:hover {
+      transform: translateY(-2px);
+    }
+
+    .chat-launch:focus-visible {
+      outline: 2px solid var(--blue);
+      outline-offset: 2px;
+    }
+
+    .chat-launch img {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      filter: drop-shadow(4px 5px 0 rgba(23, 23, 19, .14));
+      transition: filter .16s ease, transform .16s ease;
+    }
+
+    .chat-launch:hover img {
+      filter: drop-shadow(5px 7px 0 rgba(23, 23, 19, .18));
+    }
+
+    .chat-widget {
+      position: fixed;
+      right: 22px;
+      bottom: 106px;
+      z-index: 41;
+      width: min(390px, calc(100vw - 28px));
+      height: min(560px, calc(100vh - 112px));
+      display: none;
+      grid-template-rows: auto minmax(0, 1fr) auto;
+      border: 1px solid var(--line-strong);
+      background: rgba(248, 243, 231, .96);
+      box-shadow: 8px 8px 0 rgba(23, 23, 19, .12);
+    }
+
+    .chat-widget.open {
+      display: grid;
+    }
+
+    .chat-head {
+      min-width: 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      border-bottom: 1px solid var(--line);
+      padding: 10px 12px;
+      font: 700 13px var(--mono);
+    }
+
+    .chat-head button {
+      width: 30px;
+      height: 30px;
+      border: 1px solid rgba(23, 23, 19, .22);
+      background: rgba(255, 251, 239, .62);
+      font: 700 16px var(--mono);
+    }
+
+    .chat-messages {
+      min-height: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      overflow: auto;
+      padding: 12px;
+    }
+
+    .chat-message {
+      max-width: 92%;
+      border: 1px solid rgba(23, 23, 19, .16);
+      background: rgba(255, 251, 239, .62);
+      padding: 9px 10px;
+      font-size: 14px;
+      line-height: 1.48;
+      overflow-wrap: anywhere;
+    }
+
+    .chat-message.user {
+      align-self: flex-end;
+      background: var(--ink);
+      color: var(--paper);
+    }
+
+    .chat-message.assistant {
+      align-self: flex-start;
+    }
+
+    .chat-evidence {
+      display: grid;
+      gap: 5px;
+      margin-top: 8px;
+      font: 12px var(--mono);
+    }
+
+    .chat-evidence a,
+    .chat-evidence span {
+      color: var(--muted);
+      text-decoration: none;
+    }
+
+    .chat-evidence a:hover {
+      color: var(--ink);
+      text-decoration: underline;
+    }
+
+    .chat-form {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 8px;
+      border-top: 1px solid var(--line);
+      padding: 10px;
+    }
+
+    .chat-form textarea {
+      min-width: 0;
+      min-height: 42px;
+      max-height: 110px;
+      resize: vertical;
+      border: 1px solid rgba(23, 23, 19, .22);
+      background: rgba(255, 251, 239, .72);
+      padding: 8px 9px;
+      font-size: 14px;
+      line-height: 1.35;
+    }
+
+    .chat-form button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-width: 48px;
+      border: 1px solid rgba(23, 23, 19, .28);
+      background: rgba(255, 251, 239, .82);
+      color: var(--ink);
+      padding: 0 9px;
+      cursor: pointer;
+      box-shadow: 3px 3px 0 rgba(23, 23, 19, .1);
+      transition: background .16s ease, border-color .16s ease, box-shadow .16s ease, transform .16s ease;
+    }
+
+    .chat-form button:hover {
+      border-color: rgba(76, 111, 146, .58);
+      background: rgba(239, 244, 242, .94);
+      box-shadow: 4px 4px 0 rgba(76, 111, 146, .16);
+      transform: translateY(-1px);
+    }
+
+    .chat-form button:focus-visible {
+      outline: 2px solid var(--blue);
+      outline-offset: 2px;
+    }
+
+    .send-symbol {
+      width: 25px;
+      height: 25px;
+      display: block;
+    }
+
+    .send-symbol .send-eye {
+      fill: var(--blue);
+    }
+
+    @media (max-width: 1180px) {
+      .workspace {
+        grid-template-columns: 1fr;
+      }
+
+      .lenses,
+      .inspector {
+        position: static;
+        max-height: none;
+      }
+
+      .lens-list {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    @media (max-width: 760px) {
+      .desk {
+        padding: 12px;
+        gap: 12px;
+      }
+
+      .chat-launch {
+        right: 10px;
+        bottom: 10px;
+        width: 68px;
+        height: 68px;
+      }
+
+      .chat-widget {
+        right: 10px;
+        bottom: 88px;
+        width: min(390px, calc(100vw - 20px));
+        height: min(560px, calc(100vh - 106px));
+      }
+
+      .topline {
+        grid-template-columns: 1fr;
+      }
+
+      .chat-form {
+        grid-template-columns: minmax(0, 1fr) 44px;
+        gap: 6px;
+      }
+
+      .chat-form button {
+        min-width: 44px;
+        min-height: 42px;
+        padding: 0;
+      }
+
+      .issue {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr);
+      }
+
+      .issue-note {
+        min-width: 0;
+        max-width: none;
+        word-break: break-word;
+      }
+
+      .issue-title {
+        font-size: 21px;
+      }
+
+      .links {
+        justify-content: flex-start;
+      }
+
+      .lens-list {
+        grid-template-columns: 1fr;
+      }
+
+      .network-stage {
+        display: grid;
+        gap: 9px;
+        min-height: 0;
+        padding: 12px;
+      }
+
+      .network-lines {
+        display: none;
+      }
+
+      .module-node {
+        position: static;
+        width: 100%;
+        min-height: 0;
+        transform: none;
+      }
+
+      .module-node.outside .node-tags {
+        display: flex;
+      }
+
+      .module-node.active,
+      .module-node:hover {
+        transform: none;
+      }
+
+      .reader-card h2 {
+        font-size: 29px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="desk">
+    <header class="topline">
+      <div class="issue">
+        <div class="issue-title">Whole Earth Epilog, October 1974</div>
+        <div class="issue-note">Access to tools：从地球尺度、生活维护、共同体、通信与学习重新理解工具。</div>
+      </div>
+      <nav class="links">
+        <a href="https://archive.org/details/wholeearthepilog00unse" target="_blank" rel="noreferrer">original scan</a>
+        <a href="../readings/1974_whole_earth_epilog_chapter_translation_zh.md">中文译写稿</a>
+      </nav>
+    </header>
+
+    <section class="workspace">
+      <aside class="panel lenses">
+        <h1 class="panel-title">暗线</h1>
+        <div class="lens-list" id="lensList"></div>
+      </aside>
+
+      <section class="panel map">
+        <div class="network-stage" id="networkStage">
+          <svg class="network-lines" viewBox="0 0 100 100" preserveAspectRatio="none" id="networkLines"></svg>
+        </div>
+      </section>
+
+      <aside class="panel inspector">
+        <h1 class="panel-title">模块内容</h1>
+        <section class="reader-card">
+          <div class="kicker"><span id="panelRange"></span><span id="panelLens"></span></div>
+          <h2 id="panelTitle"></h2>
+          <p id="panelThesis"></p>
+        </section>
+        <section class="field">
+          <b>在全书中的位置</b>
+          <p id="panelRole"></p>
+        </section>
+        <section class="field">
+          <b>当前暗线下怎么看</b>
+          <p id="panelLensFocus"></p>
+        </section>
+        <section class="field">
+          <b>内部条目群</b>
+          <div class="section-list" id="panelSections"></div>
+        </section>
+        <section class="field">
+          <b>代表工具</b>
+          <div class="tool-list" id="panelTools"></div>
+        </section>
+        <section class="field">
+          <b>关键案例</b>
+          <div class="case-box" id="panelCase"></div>
+        </section>
+        <section class="field">
+          <b>关联暗线</b>
+          <div class="chips" id="panelLenses"></div>
+        </section>
+        <section class="field">
+          <a class="scan-link" id="panelScan" target="_blank" rel="noreferrer"></a>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <button class="chat-launch" id="chatLaunch" type="button" aria-label="问这本杂志">
+    <img src="../assets/agents/epilog-siamese-agent-icon.png" alt="" aria-hidden="true">
+  </button>
+  <section class="chat-widget" id="chatWidget" aria-label="Epilog agent">
+    <div class="chat-head">
+      <span>Epilog agent</span>
+      <button id="chatClose" type="button" aria-label="关闭">×</button>
+    </div>
+    <div class="chat-messages" id="chatMessages"></div>
+    <form class="chat-form" id="chatForm">
+      <textarea id="chatInput" rows="1" placeholder="问问暹罗猫"></textarea>
+      <button type="submit" aria-label="发送">
+        <svg class="send-symbol" viewBox="0 0 32 32" aria-hidden="true">
+          <path d="M10 7 6 12h8L10 7Z" fill="currentColor"/>
+          <path d="M22 7 18 12h8L22 7Z" fill="currentColor"/>
+          <path d="M7.5 14.5c2.2-2 5.3-3.1 8.5-3.1 5.4 0 9.7 3.2 9.7 7.1 0 3.3-3 5.2-6.7 5.2" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+          <path d="M19 23.7c-1.7 0-2.8.9-2.8 2.1" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round"/>
+          <circle cx="12.2" cy="17.8" r="1.2" fill="#f8f3e7"/>
+          <circle class="send-eye" cx="19.8" cy="17.8" r="1.2"/>
+          <circle cx="16" cy="28.2" r="1.6" fill="currentColor"/>
+        </svg>
+      </button>
+    </form>
+  </section>
+
+  <script src="./1974_epilog_agent_data.js"></script>
+  <script>
+    const scanBase = "https://archive.org/download/wholeearthepilog00unse/page/n{leaf}_w500.jpg";
+
+    const modules = {
+      method: {
+        zh: "入口与方法", en: "Method", range: "leaf 1-4", leaf: 3, tone: "#b75c3e", x: 50, y: 16,
+        short: "把目录声明为评价和获取装置。",
+        thesis: "Epilog 开头给出整本书的使用协议：它不是杂志文章汇编，而是 evaluation and access device。",
+        role: "封面、Purpose、约伯记和条目标准共同定义了 Whole Earth 的工具观：工具必须有用、可取得、质量好或成本低，并且服务独立教育。",
+        entries: ["access to tools", "Purpose 段", "约伯记开篇", "条目选择标准", "阿波罗 12 号地外视角"],
+        mapTags: ["标准", "Purpose", "地外视角"],
+        signals: ["有用 / 可取得 / 低成本", "自主教育入口", "地外视角与敬畏", "目录也是工具"]
+      },
+      systems: {
+        zh: "整体系统", en: "Whole Systems", range: "leaf 5-25", leaf: 5, tone: "#8b5a3c", x: 50, y: 31,
+        short: "先校准尺度，再判断工具。",
+        thesis: "整体系统章为后面所有条目建立尺度：反馈、关系、生态、能源、经济和工具规模。",
+        role: "Bateson、Buber、Sagan、Limits to Growth、Illich 和 Odum 不是理论装饰，而是在训练读者判断工具进入系统后的代价。",
+        entries: ["Gregory Bateson", "I and Thou", "The Limits to Growth", "Tools for Conviviality", "Howard T. Odum"],
+        mapTags: ["反馈", "净能量", "工具尺度"],
+        signals: ["反馈与控制论", "增长极限 / 稳态经济", "友好工具尺度", "净能量账本"]
+      },
+      land: {
+        zh: "土地使用", en: "Land Use", range: "leaf 26-57", leaf: 26, tone: "#667f4f", x: 23, y: 43,
+        short: "从识别自然到修复循环。",
+        thesis: "土地章不是自然知识堆叠，而是把观察、食物、水、粪便、土壤和农业重新接成循环。",
+        role: "自然区域、蘑菇、鸟、足迹、草药、水处理、堆肥厕所、小农和园艺共同反对把土地当容器或库存。",
+        entries: ["自然区域", "初学者采蘑菇", "动物足迹指南", "停止五加仑冲水", "Grow It!"],
+        mapTags: ["土壤", "水", "园艺"],
+        signals: ["自然区域 / 生物区", "蘑菇、鸟、足迹", "水 / 污水 / 堆肥厕所", "小农、园艺、土壤"]
+      },
+      shelter: {
+        zh: "住所", en: "Shelter", range: "leaf 58-77", leaf: 58, tone: "#b36b42", x: 50, y: 44,
+        short: "房子必须能学、能修、能被地点纠正。",
+        thesis: "住所章修正了 Whole Earth 早期对圆顶形式的迷恋，转向材料、结构、气候和维护。",
+        role: "建筑学习、手造房、旧料、泥砖、木火、地震、家具、tipi、yurt 和气候设计，都把房子看成长期关系。",
+        entries: ["Shelter", "Handmade Houses", "旧料回收", "Adobe", "Design With Climate"],
+        mapTags: ["旧料", "修理", "气候"],
+        signals: ["手造房 / 旧料", "Adobe、茅草、杆屋", "木火、地震、修理", "tipi、yurt、气候设计"]
+      },
+      soft: {
+        zh: "软技术", en: "Soft Technology", range: "leaf 78-97", leaf: 78, tone: "#d29635", x: 77, y: 43,
+        short: "替代技术必须接受维护和成本检验。",
+        thesis: "软技术章不推销太阳能、风能和沼气的浪漫图像，而是看硬件、天气、组件和长期可靠性。",
+        role: "Zomeworks、Ouroboros、New Alchemy、ILS 和风能条目把替代技术变成工作台，而不是信仰展示。",
+        entries: ["Solar Energy", "Beadwall", "Drumwall", "Zomeworks", "New Alchemy Ark"],
+        mapTags: ["太阳热", "风能", "组件"],
+        signals: ["太阳热 / Beadwall / Drumwall", "风能塔架与电池", "沼气、温室、Ark", "Zomeworks / ILS / New Alchemy"]
+      },
+      craft: {
+        zh: "手艺", en: "Craft", range: "leaf 98-127", leaf: 98, tone: "#9c6a3d", x: 50, y: 61,
+        short: "身体知识和材料判断。",
+        thesis: "手艺章不是 hobby 集合，而是恢复工业系统隐藏起来的材料知识。",
+        role: "从工具制作到木雕、皮革、陶艺、玻璃、绳结、染织、篮子和制版，重点是用身体理解工具与材料。",
+        entries: ["Foxfire", "The Making of Tools", "Brendan 的皮革书", "陶瓷配方", "古秘鲁纺织"],
+        mapTags: ["工具", "材料", "纺织"],
+        signals: ["工具制作工具", "木、皮、陶、玻璃", "绳结、蜡染、纺织", "制版与缝纫"]
+      },
+      community: {
+        zh: "共同体", en: "Community", range: "leaf 128-185", leaf: 128, tone: "#b24e3d", x: 24, y: 76,
+        short: "共同体是社会基础设施。",
+        thesis: "共同体章不是温暖社群叙事，而是把生活所需的社会接口一项项列出来。",
+        role: "黄页、热线、公社、合作社、医疗、性、出生、死亡、基金、法律、监狱、黑人出版网络和中国资料入口共同构成替代性基础设施。",
+        entries: ["Yellow Pages of Learning Resources", "The Farm", "Public Citizen", "Basic Black Books", "Access to China"],
+        mapTags: ["黄页", "法律", "中国"],
+        signals: ["黄页、热线、危机中心", "公社、合作社、城市住房", "健康、出生、死亡、法律", "Black Interest / Access to China"]
+      },
+      communications: {
+        zh: "通信", en: "Communications", range: "leaf 222-261", leaf: 222, tone: "#4f6e94", x: 73, y: 68,
+        short: "信息生产、复制、传输和检索。",
+        thesis: "通信章把目录、电话、印刷、小报、影像、无线电和计算机放在同一张信息网络里。",
+        role: "这里已经看见个人计算、自行出版、媒介控制和参考工具之间的关系；纸、电话和 OED 与计算机同样重要。",
+        entries: ["Catalogue of Catalogues", "Phone-Mate", "Real Time", "Publish-it Yourself", "People's Computer Company"],
+        mapTags: ["目录", "出版", "计算机"],
+        signals: ["目录、电话、办公室", "书法、造书、小报", "摄影、电影、video、音乐", "无线电、计算机、算法"]
+      },
+      nomadics: {
+        zh: "游牧", en: "Nomadics", range: "leaf 186-221", leaf: 186, tone: "#3f7985", x: 17, y: 90,
+        short: "移动是一种可维护系统。",
+        thesis: "游牧章不是旅行消费指南，而是离开固定基础设施后的移动能力训练。",
+        role: "地图、青年旅舍、自行车、修车、车居、飞行、气象、航海、背包、攀岩和荒野伦理共同组成自由的风险账本。",
+        entries: ["Explorers Ltd. Source Book", "Bike Tripping", "Roll Your Own", "Practical Navigation", "Desert Solitaire"],
+        mapTags: ["地图", "车辆", "荒野"],
+        signals: ["地图、旅舍、铁路", "自行车、修车、车居", "飞行、天气、航海", "背包、攀岩、荒野伦理"]
+      },
+      learning: {
+        zh: "学习", en: "Learning", range: "leaf 262-301", leaf: 262, tone: "#7564a5", x: 55, y: 86,
+        short: "把学习从学校中取回。",
+        thesis: "学习章把儿童、游戏、实验、另类大学、意识训练、心理和宗教汇成全书收束。",
+        role: "材料、游戏、错误、自然、仪器、共同体和意识训练都成为 access；学习不是学校制度的专属活动。",
+        entries: ["Toy Book", "Deschooling Society", "The Seed Catalog", "Zen and the Art of Motorcycle Maintenance", "Zen Mind, Beginner's Mind"],
+        mapTags: ["儿童", "去学校化", "意识"],
+        signals: ["儿童书、玩具、厨房", "去学校化、开放课堂", "星图、望远镜、电学实验", "Zen、Jung、心理治疗"]
+      },
+      business: {
+        zh: "出版机制、索引与封底", en: "Business / Index", range: "leaf 302-321", leaf: 302, tone: "#5f6c5a", x: 84, y: 89,
+        short: "出版本身也是工具。",
+        thesis: "尾部公开成本、制作、POINT、联合索引和封底姿态，让读者看见出版机器。",
+        role: "Whole Earth 不只推荐工具，也把自己的财务、劳动、索引和社群机制作为可学习的工具展示出来。",
+        entries: ["Money page", "POINT", "Demise Party", "联合索引", "Stay hungry. Stay foolish."],
+        mapTags: ["成本", "POINT", "索引"],
+        signals: ["制作人员与成本", "POINT 和后续计划", "联合索引", "Stay hungry. Stay foolish."]
+      }
+    };
+
+    const moduleProfiles = {
+      method: {
+        sections: ["封面：access to tools", "约伯记：能力与敬畏", "评价和获取的装置", "条目标准：有用、低成本、可邮购、自主教育", "Purpose：在坠落中翻滚", "阿波罗 12 号：从地球之外看地球"],
+        tools: [
+          ["access to tools", "把书、地图、目录、热线和社群都纳入工具范围。"],
+          ["页边索引", "让读者把厚目录当作可折叠、可跳转的检索装置。"],
+          ["Purpose 段", "把技术能力和韧性、基本技能、敬畏感绑在一起。"]
+        ],
+        caseStudy: ["阿波罗 12 号封面", "月球前景和地球图像不是装饰，而是把读者从本地问题拉到行星尺度：先改变观看位置，再谈工具。"],
+        lensFocus: {
+          access: "这是全书的入口协议：读者不是被动阅读，而是学习判断什么值得取得、怎样取得。",
+          publishing: "这里已经把出版定义为工具系统，后面的索引、价格、地址和财务公开都从这里展开。"
+        }
+      },
+      systems: {
+        sections: ["Bateson 与心智生态", "Wilden：系统与结构", "自然图案与关系伦理", "Sagan 与地外视角", "生态、进化和地球影像", "增长极限、稳态经济和友好工具", "能源、核能和 Odum 净能量"],
+        tools: [
+          ["Gregory Bateson", "把控制论变成谦卑训练：任何局部都不能单方面控制整体。"],
+          ["Tools for Conviviality", "把汽车、工厂、医生、学校、政府都重新看成工具。"],
+          ["Howard T. Odum", "用净能量把能源、生态和经济拉回同一个系统。"]
+        ],
+        caseStudy: ["Odum 的净能量账本", "能源不能只算总量；取得、运输、浓缩、维护能源本身也会消耗能源。这个判断直接影响软技术、交通和农业。"],
+        lensFocus: {
+          scale: "在这条暗线下，它是全书的尺度校准器：之后每个工具都要被放回反馈、能源和生态边界里。",
+          risk: "它提示风险常来自系统延迟和隐藏输入，比如增长模型、核能和净能量下降。"
+        }
+      },
+      land: {
+        sections: ["自然区域与农业起源", "蘑菇：耐心、风险与拉丁名", "昆虫、蜘蛛与鸟类识别", "动物、足迹与濒危生命", "植物、草药与树", "水、厕所、污水与土地再利用", "土壤、生态农业与小农", "牲畜、马与活物边界", "害虫控制与园艺", "室内植物与无土栽培"],
+        tools: [
+          ["New Alchemy 鱼池花园", "把风、水、太阳、藻类、鱼和菜园连接成循环。"],
+          ["初学者采蘑菇", "危险食物要求多书互证、孢子印和耐心。"],
+          ["停止五加仑冲水", "把厕所从废物处理问题改写成水、能源和营养循环问题。"]
+        ],
+        caseStudy: ["土地不是库存", "章节从自然识别开始，到水、粪便、土壤、牲畜和园艺结束：真正的土地使用是参与循环，而不是把土地用尽。"],
+        lensFocus: {
+          scale: "它把生态尺度落到地貌、土壤、水和营养循环。",
+          maintenance: "维护在这里表现为修复循环：粪便、污水、土壤和花园重新接上。",
+          embodied: "识别鸟、足迹、蘑菇和植物，是用身体进入土地。"
+        }
+      },
+      shelter: {
+        sections: ["Shelter：手造房作为一本书", "低成本生态房、自由建造与穷人建筑", "传统、动物建筑与绘图", "手造房、谷仓与家屋内部", "木工、旧料和泥土墙", "茅草、石屋、杆屋和棚屋", "修理、木火、地震与自然力", "家具与可移动生活", "tipi、yurt、张拉结构、圆顶与气候"],
+        tools: [
+          ["Shelter", "把手造房作为可学习、可扩展、可被地点纠正的过程。"],
+          ["Architecture for the Poor", "建筑师不是替穷人设计，而是帮助他们用当地材料建造。"],
+          ["旧料回收", "拆除现场、二手门窗和木料也是住房工具。"]
+        ],
+        caseStudy: ["从圆顶热到反圆顶", "Lloyd Kahn 的转向很关键：Whole Earth 不再迷恋形式，开始追问漏水、材料、气候、维修和地点。"],
+        lensFocus: {
+          maintenance: "这条暗线下，房子是长期维护系统：结构、火、地震、通风、旧料和修补都同等重要。",
+          embodied: "建房不是看图纸消费，而是画、锯、搬、修、观察风和太阳。"
+        }
+      },
+      soft: {
+        sections: ["交付，而不是推销", "人民的能源与保留怀疑", "太阳能低温、热水和集热器", "会工作的太阳能硬件", "Zomeworks、Ouroboros、New Alchemy、ILS", "风能：天气比梦想更大", "能源期刊和大机构阴影", "动物、沼气、组件和乡村工具"],
+        tools: [
+          ["Zomeworks", "小公司、玩具精神和成熟太阳能硬件在同一处出现。"],
+          ["Beadwall / Skylid", "软技术的价值在会工作的细节，而不是替代能源口号。"],
+          ["New Alchemy Institute", "买到的不是产品，而是参与地方自给研究网络。"]
+        ],
+        caseStudy: ["Baldwin 的冷水", "许多替代能源书不够批判。真正需要的是工作手册：什么有效、多少钱、怎样维护。"],
+        lensFocus: {
+          scale: "它把能源愿望放回净能量、天气、材料和维护成本。",
+          maintenance: "软技术只有在普通人能理解组件、修理失败、判断成本时才成立。",
+          risk: "漏水圆顶、吹走的风机、泡沫爆燃都属于技术判断，而不是题外话。"
+        }
+      },
+      craft: {
+        sections: ["找书、找传统、尊重边界", "工具制作：最高的手艺之一", "木雕与皮革", "陶艺：手指、窑和化学", "蜡、皂石、珠宝、珠子与玻璃", "绳结、蜡染、纺线与染色", "编织、古纺织、篮子与钩针", "刺绣、拼布、被缝、缝纫与制版"],
+        tools: [
+          ["The Making of Tools", "能制作工具，就从消费者变成能修造工具的人。"],
+          ["Foxfire", "把民间经验、老人记忆和地方技能保存为可学习材料。"],
+          ["古纺织与篮子", "让读者看见工业进步消灭了哪些触觉和地方能力。"]
+        ],
+        caseStudy: ["身体保存知识", "手艺不是漂亮手作，而是让手重新理解锋利、湿度、火、阻力、纤维和材料。"],
+        lensFocus: {
+          embodied: "这条暗线下，它是全书最直接的身体学习章节。",
+          maintenance: "工具制作、缝纫、皮革和陶艺都把修补能力从商品系统里拿回来。"
+        }
+      },
+      community: {
+        sections: ["黄页、热线与危机中心", "公社、合作社与实验城市", "家务、宠物与女性资源", "城市生活、老房和土地规划", "低成本生活、食物和厨房", "肥皂、酿酒与食物储备", "急救、生存、健康与中国医学", "亲密关系、性、出生与死亡", "钱、政治、法律与监狱", "Black Interest", "Access to China"],
+        tools: [
+          ["People's Yellow Pages", "把医疗、法律、住房、食物、危机帮助等制度外服务变成可找到的入口。"],
+          ["The Farm", "公社不是想象图，而是接生、厕所、邻里关系和错误修正。"],
+          ["Basic Black Books", "黑人出版网络说明 access 有明确的政治性。"],
+          ["Access to China", "越过冷战滤镜，寻找中国的医疗、农业、住房、能源和社会组织资料。"]
+        ],
+        caseStudy: ["共同体作为基础设施", "这一章把出生、死亡、厨房、法律、监狱、基金、黑人期刊和中国资料放在一起：共同体必须能住、能病、能争、能学、能死。"],
+        lensFocus: {
+          access: "在找入口视角下，黄页、热线、目录、黑人书目和中国资料是最重要的通道。",
+          community: "在组织社会视角下，它展示共同体需要钱、法律、医疗、食物、住房和出版网络。",
+          scale: "它把系统问题落到可运行的社会接口：谁接电话、谁给钱、谁懂法、谁出版。"
+        }
+      },
+      nomadics: {
+        sections: ["Explorers Source Book", "墨西哥、青年旅舍和铁轨", "自行车与低能量交通", "汽车、车居和摩托", "悬挂滑翔、气象和自制滑翔机", "航海、导航和船", "野外生存、背包、露营和攀登", "观察、狩猎、刀和鹰", "鱼、荒野书写和车身改造"],
+        tools: [
+          ["Explorers Ltd. Source Book", "移动者总入口：地图、组织、学校、设备和供应商。"],
+          ["Bike Tripping / Anybody's Bike Book", "自行车是低能量交通，也是可修理身体的训练。"],
+          ["Roll Your Own", "车居把住所缩成可移动、可重排的生活装置。"],
+          ["Practical Navigation", "航海导航教的是语法，不是口诀。"]
+        ],
+        caseStudy: ["自由必须带风险账本", "悬挂滑翔页面同时写梦和死亡数字；Whole Earth 的自由不是酷，而是训练、维修、天气和边界。"],
+        lensFocus: {
+          maintenance: "移动能力取决于链条、刹车、车锁、海图、天气、工具箱和临时修理。",
+          embodied: "地图、攀岩、航海和野外观察都要求身体判断。",
+          risk: "飞行、鹰猎、刀和荒野生存都在提醒：书能引路，但不能替代训练。"
+        }
+      },
+      communications: {
+        sections: ["目录、办公室和电话", "媒体哲学", "说话、伦理和身体语言", "书法、纸、装订和书籍设计", "自行出版、小报和参考工具", "文学、诗歌和视觉艺术", "摄影、电影、戏剧和视频", "音乐、乐器和电子音乐", "无线电、计算机、算法和计算器", "经济和管理"],
+        tools: [
+          ["Catalogue of Catalogues", "把邮购目录本身变成 access 工具。"],
+          ["Publish-it Yourself", "自办出版不是表达姿态，而是一套生产、发行和读者网络。"],
+          ["TVTV / porta-pak", "视频的意义是反馈、参与和本地信息生产，不只是成片。"],
+          ["People's Computer Company", "计算机被放回个人学习、电路、算法和桌面工具尺度。"]
+        ],
+        caseStudy: ["无边无中心的信息海洋", "通信章把纸、电话、书法、OED、电影、视频、无线电和计算机放在一起，说明 access 依赖媒介本身可被理解和修理。"],
+        lensFocus: {
+          access: "这里是 access 的媒体层：目录、电话、参考书、无线电和计算机让工具可找到、可复制、可传播。",
+          community: "小报、视频和自行出版让共同体能记录自己，而不是只被广播。",
+          publishing: "它把出版拆成书写、装订、设计、印刷、发行、参考工具和读者网络。"
+        }
+      },
+      learning: {
+        sections: ["育儿和儿童书", "玩具、制作、木偶和游戏空间", "去学校化、开放课堂和教育材料", "想象、游戏、自然史和实验科学", "另类学院、科学人文和技术哲学", "灵能、围棋、药物和心理治疗", "宗教、苏菲、佛教和禅", "Jung、漫画和尾声"],
+        tools: [
+          ["Toy Book", "半数乐趣在制作本身：废料、风、线、纸和失败都是教材。"],
+          ["Deschooling Society", "拆开学校制造的“教学等于学习”的幻觉。"],
+          ["The Seed Catalog", "把教材定义为能引发学习活动的一切材料。"],
+          ["Zen and the Art of Motorcycle Maintenance", "技术问题会打穿只靠态度维持的世界观。"]
+        ],
+        caseStudy: ["没有错误，只有制作", "Learning 开头的规则把学习从学校拿回到工作、试验、材料、电影、保存和持续在场。"],
+        lensFocus: {
+          embodied: "儿童、玩具、游戏、厨房、实验和摩托维修都把学习放回手和材料。",
+          risk: "药物、治疗、宗教和意识训练被纳入学习，但必须保持判断。",
+          access: "学习在这里不是课程，而是进入材料、他人经验、错误和工作的方法。"
+        }
+      },
+      business: {
+        sections: ["制作人员和钱", "POINT 和 Whole Earth 后续", "Demise Party", "联合索引", "封底：Stay hungry. Stay foolish", "全书收束"],
+        tools: [
+          ["Money page", "公开一本四美元 Epilog 的钱怎样分配。"],
+          ["POINT", "把出版、CoEvolution Quarterly、未来 Catalog 和 grants 接在一起。"],
+          ["联合索引", "把 Catalog 和 Epilog 重新折叠成可检索系统。"],
+          ["Stay hungry. Stay foolish.", "不是创业格言，而是继续寻找和愿意试错的出版姿态。"]
+        ],
+        caseStudy: ["出版机器摊开", "尾部列出编辑、研究、排版、索引、校对、发行、成本和后续组织，让读者看见一本工具书怎样被生产。"],
+        lensFocus: {
+          access: "索引和价格结构说明 access 也依赖检索、发行和成本。",
+          community: "POINT 和 Demise Party 把出版、赠款、公共事件和读者反馈接成社群机制。",
+          publishing: "这是全书的元工具层：出版不只承载内容，它自己也被做成可学习对象。"
+        }
+      }
+    };
+
+    const lenses = [
+      {
+        id: "access", code: "ACCESS", title: "找入口", tone: "#4f6e94",
+        caption: "目录、地址、索引、热线、通信网络",
+        note: "这条线把 Epilog 看成 access machine：最重要的不是工具本身，而是找到、购买、检索、联系和继续追踪工具的通道。",
+        nodes: ["method", "community", "communications", "business"],
+        edges: [["method", "community"], ["community", "communications"], ["communications", "business"], ["method", "business"]]
+      },
+      {
+        id: "scale", code: "SCALE", title: "看尺度", tone: "#667f4f",
+        caption: "地球、生态、能源、经济、反馈回路",
+        note: "这条线从系统尺度出发：工具进入生态、能源和制度边界后才显出真实成本。",
+        nodes: ["systems", "land", "soft", "community"],
+        edges: [["systems", "land"], ["systems", "soft"], ["land", "soft"], ["soft", "community"]]
+      },
+      {
+        id: "maintenance", code: "MAINTAIN", title: "会维护", tone: "#d29635",
+        caption: "修房、土壤、水、车辆、组件、失败经验",
+        note: "这条线强调可修理性。Epilog 评价工具时，总会追问谁能维护、成本如何、失败经验是否可见。",
+        nodes: ["land", "shelter", "soft", "nomadics"],
+        edges: [["land", "shelter"], ["shelter", "soft"], ["soft", "nomadics"], ["land", "soft"]]
+      },
+      {
+        id: "embodied", code: "BODY", title: "用身体学", tone: "#9c6a3d",
+        caption: "手艺、建造、园艺、导航、游戏和观察",
+        note: "这条线把知识放回身体：看、摸、做、错、修正，比单纯阅读更接近 Whole Earth 的学习观。",
+        nodes: ["land", "shelter", "craft", "nomadics", "learning"],
+        edges: [["land", "craft"], ["shelter", "craft"], ["craft", "learning"], ["craft", "nomadics"], ["nomadics", "learning"]]
+      },
+      {
+        id: "community", code: "SOCIAL", title: "组织社会", tone: "#b24e3d",
+        caption: "合作、健康、法律、出版、黑人网络、中国",
+        note: "这条线把共同体从情感词改成社会基础设施：医疗、法律、出版、资金和跨文化资料入口都在其中。",
+        nodes: ["community", "communications", "business"],
+        edges: [["community", "communications"], ["communications", "business"], ["community", "business"]]
+      },
+      {
+        id: "risk", code: "RISK", title: "穿越风险", tone: "#b75c3e",
+        caption: "蘑菇、核能、飞行、药物、荒野、宗教",
+        note: "这条线提醒自由不是姿态。蘑菇、核能、飞行、荒野和意识探索都要求风险账本。",
+        nodes: ["systems", "land", "soft", "nomadics", "learning"],
+        edges: [["systems", "soft"], ["land", "nomadics"], ["soft", "nomadics"], ["nomadics", "learning"], ["systems", "learning"]]
+      },
+      {
+        id: "publishing", code: "PUBLISH", title: "出版成工具", tone: "#5f6c5a",
+        caption: "成本、劳动、索引、读者反馈、封底",
+        note: "这条线看出版机制本身：目录、索引、电话、小报、成本和组织方式也是 Whole Earth 的工具。",
+        nodes: ["method", "communications", "business"],
+        edges: [["method", "communications"], ["communications", "business"], ["method", "business"]]
+      }
+    ];
+
+    let activeLens = "access";
+    let activeModule = "method";
+    let query = "";
+
+    const lensById = Object.fromEntries(lenses.map(lens => [lens.id, lens]));
+    const moduleIds = Object.keys(modules);
+    const lensList = document.getElementById("lensList");
+    const stage = document.getElementById("networkStage");
+    const lines = document.getElementById("networkLines");
+    const agentData = window.EPILOG_AGENT_DATA || { record_counts: {}, prompts: [], units: [] };
+    const chatLaunch = document.getElementById("chatLaunch");
+    const chatWidget = document.getElementById("chatWidget");
+    const chatClose = document.getElementById("chatClose");
+    const chatForm = document.getElementById("chatForm");
+    const chatInput = document.getElementById("chatInput");
+    const chatMessages = document.getElementById("chatMessages");
+
+    function scanUrl(leaf) {
+      return scanBase.replace("{leaf}", leaf);
+    }
+
+    function moduleText(id) {
+      const item = modules[id];
+      const profile = moduleProfiles[id];
+      const profileText = profile
+        ? [profile.sections.join(" "), profile.tools.flat().join(" "), profile.caseStudy.join(" "), Object.values(profile.lensFocus).join(" ")]
+        : [];
+      return [item.zh, item.en, item.range, item.short, item.thesis, item.role, item.entries.join(" "), item.mapTags.join(" "), item.signals.join(" "), ...profileText].join(" ").toLowerCase();
+    }
+
+    function isSearchHit(id) {
+      if (!query) return true;
+      const text = moduleText(id);
+      const lowered = query.toLowerCase();
+      if (text.includes(lowered)) return true;
+      const usefulTokens = tokens(query).filter(token => token.length > 2 && !/哪一页|有没有|是什么|为什么|怎么|这里|这本/.test(token));
+      return usefulTokens.some(token => text.includes(token));
+    }
+
+    function moduleLenses(id) {
+      return lenses.filter(lens => lens.nodes.includes(id));
+    }
+
+    function escapeHtml(value) {
+      return String(value ?? "").replace(/[&<>"']/g, char => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#39;"
+      }[char]));
+    }
+
+    function tokens(text) {
+      const lowered = text.toLowerCase();
+      const latin = lowered.match(/[a-z0-9][a-z0-9'._-]{1,}/g) || [];
+      const cjkRuns = lowered.match(/[\u4e00-\u9fff]{2,}/g) || [];
+      const cjkPairs = [];
+      cjkRuns.forEach(run => {
+        for (let index = 0; index < run.length - 1; index += 1) {
+          cjkPairs.push(run.slice(index, index + 2));
+        }
+      });
+      return [...latin, ...cjkRuns, ...cjkPairs];
+    }
+
+    function latinPhrases(text) {
+      const matches = text.match(/[A-Za-z0-9][A-Za-z0-9'._-]*(?:\s+[A-Za-z0-9][A-Za-z0-9'._-]*)+/g) || [];
+      return matches.map(item => item.toLowerCase()).filter(item => item.split(/\s+/).length >= 2);
+    }
+
+    function scoreUnit(question, questionTokens, unit) {
+      const title = unit.title || "";
+      const titleLower = title.toLowerCase();
+      const haystack = [title, unit.section || "", unit.text || "", ...(unit.key_terms || [])].join("\n").toLowerCase();
+      let score = 0;
+      if (haystack.includes(question.toLowerCase())) score += 20;
+      latinPhrases(question).forEach(phrase => {
+        if (titleLower.includes(phrase)) score += 30;
+        else if (haystack.includes(phrase)) score += 12;
+      });
+      questionTokens.forEach(token => {
+        if (titleLower.includes(token)) score += 3 + Math.min(3, token.length / 6);
+        else if (haystack.includes(token)) score += 1 + Math.min(2, token.length / 8);
+      });
+      if (unit.source_type === "chapter") score *= 1.08;
+      if (unit.source_type === "bibliography") score *= 1.05;
+      return score;
+    }
+
+    function retrieveAgent(question, limit = 4) {
+      const questionTokens = new Set(tokens(question));
+      return agentData.units
+        .map(unit => ({ ...unit, score: scoreUnit(question, questionTokens, unit) }))
+        .filter(unit => unit.score > 0)
+        .sort((a, b) => b.score - a.score || a.unit_id.localeCompare(b.unit_id))
+        .slice(0, limit);
+    }
+
+    function leafLabel(unit) {
+      if (!unit.leaf_start) return "无 leaf";
+      if (unit.leaf_end && unit.leaf_end !== unit.leaf_start) return `leaf ${unit.leaf_start}-${unit.leaf_end}`;
+      return `leaf ${unit.leaf_start}`;
+    }
+
+    function printedPageFromText(text) {
+      const match = String(text || "").match(/printed page ([^/\n,， ]+)/i);
+      return match && match[1] !== "n/a" ? `p.${match[1]}` : "";
+    }
+
+    function unitModule(unit) {
+      const section = `${unit.section || ""} ${unit.text || ""}`;
+      if (/Front Matter|入口|Method/.test(section)) return "method";
+      if (/Whole Systems|整体系统|Bateson|Odum/.test(section)) return "systems";
+      if (/Land Use|土地使用/.test(section)) return "land";
+      if (/Shelter|住所/.test(section)) return "shelter";
+      if (/Soft Technology|软技术/.test(section)) return "soft";
+      if (/Craft|手艺/.test(section)) return "craft";
+      if (/Community|共同体/.test(section)) return "community";
+      if (/Nomadics|游牧/.test(section)) return "nomadics";
+      if (/Communications|通信/.test(section)) return "communications";
+      if (/Learning|学习/.test(section)) return "learning";
+      if (/Business|Index|出版业务|索引|封底/.test(section)) return "business";
+      return null;
+    }
+
+    function bestSentence(question, unit) {
+      const queryTokens = tokens(question).filter(token => token.length > 1);
+      const sentences = String(unit.text || "")
+        .split(/(?<=[。！？.!?])\s+/)
+        .map(item => item.trim())
+        .filter(Boolean);
+      const scored = sentences.map(sentence => {
+        const lowered = sentence.toLowerCase();
+        const score = queryTokens.reduce((sum, token) => sum + (lowered.includes(token) ? 1 : 0), 0);
+        return { sentence, score };
+      }).sort((a, b) => b.score - a.score);
+      return (scored[0]?.sentence || sentences[0] || unit.text || "").slice(0, 260);
+    }
+
+    function evidenceHtml(items) {
+      return (items || []).map(item => {
+        const leafEnd = item.leaf_end && item.leaf_end !== item.leaf_start ? `-${item.leaf_end}` : "";
+        const label = `${item.title || "source"} · leaf ${item.leaf_start || "n/a"}${leafEnd}`;
+        if (item.scan_url) {
+          return `<a href="${escapeHtml(item.scan_url)}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>`;
+        }
+        return `<span>${escapeHtml(label)}</span>`;
+      }).join("");
+    }
+
+    function addChatMessage(role, text, evidence = []) {
+      const item = document.createElement("div");
+      item.className = `chat-message ${role}`;
+      item.innerHTML = `${escapeHtml(text).replace(/\n/g, "<br>")}${evidence.length ? `<div class="chat-evidence">${evidenceHtml(evidence)}</div>` : ""}`;
+      chatMessages.appendChild(item);
+      chatMessages.scrollTop = chatMessages.scrollHeight;
+      return item;
+    }
+
+    function openChat() {
+      chatWidget.classList.add("open");
+      chatInput.focus();
+    }
+
+    async function askAgent(question) {
+      const clean = question.trim();
+      if (!clean) return;
+      const matches = retrieveAgent(clean);
+      query = clean;
+      const targetModule = unitModule(matches[0] || {});
+      if (targetModule) activeModule = targetModule;
+      renderNetwork();
+      renderPanel();
+      openChat();
+      addChatMessage("user", clean);
+      chatInput.value = "";
+      const pending = addChatMessage("assistant", "…");
+      if (window.location.protocol === "file:") {
+        pending.innerHTML = "需要通过本地服务启动：<br>python3 scripts/serve_issue_agent.py";
+        return;
+      }
+      try {
+        const response = await fetch("/api/issue-agent", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ question: clean })
+        });
+        const payload = await response.json();
+        if (!response.ok) throw new Error(payload.error || "request failed");
+        if (payload.module) {
+          activeModule = payload.module;
+          renderNetwork();
+          renderPanel();
+        }
+        pending.innerHTML = `${escapeHtml(payload.answer || "").replace(/\n/g, "<br>")}${payload.evidence?.length ? `<div class="chat-evidence">${evidenceHtml(payload.evidence)}</div>` : ""}`;
+      } catch (error) {
+        pending.textContent = `LLM 暂时不可用：${error.message}`;
+      }
+    }
+
+    function renderLenses() {
+      lensList.innerHTML = "";
+      lenses.forEach(lens => {
+        const button = document.createElement("button");
+        button.className = "lens";
+        button.style.setProperty("--tone", lens.tone);
+        button.classList.toggle("active", lens.id === activeLens);
+        button.innerHTML = `
+          <div>
+            <b>${lens.title}</b>
+            <span>${lens.code} · ${lens.nodes.length} modules</span>
+            <p>${lens.caption}</p>
+          </div>
+        `;
+        button.onclick = () => {
+          activeLens = lens.id;
+          render();
+        };
+        lensList.appendChild(button);
+      });
+    }
+
+    function renderNetwork() {
+      const lens = lensById[activeLens];
+      lines.innerHTML = lens.edges.map(edge => {
+        const from = modules[edge[0]];
+        const to = modules[edge[1]];
+        return `<line x1="${from.x}" y1="${from.y}" x2="${to.x}" y2="${to.y}" style="--tone:${lens.tone}"></line>`;
+      }).join("");
+
+      stage.querySelectorAll(".module-node").forEach(node => node.remove());
+      moduleIds.forEach(id => {
+        const item = modules[id];
+        const inLens = lens.nodes.includes(id);
+        const hit = isSearchHit(id);
+        const button = document.createElement("button");
+        button.className = "module-node";
+        button.style.setProperty("--x", item.x);
+        button.style.setProperty("--y", item.y);
+        button.style.setProperty("--tone", item.tone);
+        button.classList.toggle("related", inLens);
+        button.classList.toggle("outside", !inLens);
+        button.classList.toggle("search-hit", Boolean(query && hit));
+        button.classList.toggle("dimmed", Boolean(query && !hit));
+        button.classList.toggle("active", activeModule === id);
+        const tags = item.mapTags.slice(0, 3).map(tag => `<i>${tag}</i>`).join("");
+        button.innerHTML = `<b>${item.zh}</b><span>${item.en} · ${item.range}</span><div class="node-tags">${tags}</div>`;
+        button.onclick = () => {
+          activeModule = id;
+          renderNetwork();
+          renderPanel();
+        };
+        stage.appendChild(button);
+      });
+    }
+
+    function renderPanel() {
+      const item = modules[activeModule];
+      const profile = moduleProfiles[activeModule];
+      const currentLens = lensById[activeLens];
+      document.getElementById("panelRange").textContent = item.range;
+      document.getElementById("panelLens").textContent = currentLens.nodes.includes(activeModule) ? `in ${currentLens.code}` : `outside ${currentLens.code}`;
+      document.getElementById("panelTitle").textContent = `${item.zh} / ${item.en}`;
+      document.getElementById("panelThesis").textContent = item.thesis;
+      document.getElementById("panelRole").textContent = item.role;
+      document.getElementById("panelLensFocus").textContent =
+        profile?.lensFocus[activeLens] ||
+        (currentLens.nodes.includes(activeModule) ? currentLens.note : "这个模块不在当前暗线的主路径上；可以点击左侧其他暗线，看它在不同读法中的位置。");
+      document.getElementById("panelSections").style.setProperty("--tone", item.tone);
+      document.getElementById("panelSections").innerHTML = (profile?.sections || item.entries).map(section => `<span>${section}</span>`).join("");
+      document.getElementById("panelTools").innerHTML = (profile?.tools || item.entries.map(entry => [entry, ""])).map(tool => `
+        <article class="tool-item">
+          <strong>${tool[0]}</strong>
+          <span>${tool[1]}</span>
+        </article>
+      `).join("");
+      const caseEl = document.getElementById("panelCase");
+      caseEl.style.setProperty("--tone", item.tone);
+      const caseStudy = profile?.caseStudy || [item.zh, item.thesis];
+      caseEl.innerHTML = `<strong>${caseStudy[0]}</strong><p>${caseStudy[1]}</p>`;
+      document.getElementById("panelLenses").innerHTML = moduleLenses(activeModule).map(lens => `<span>${lens.title}</span>`).join("");
+      const scan = document.getElementById("panelScan");
+      scan.href = scanUrl(item.leaf);
+      scan.textContent = `open ${item.range}`;
+    }
+
+    function render() {
+      renderLenses();
+      renderNetwork();
+      renderPanel();
+    }
+
+    chatLaunch.addEventListener("click", openChat);
+
+    chatClose.addEventListener("click", () => {
+      chatWidget.classList.remove("open");
+    });
+
+    chatForm.addEventListener("submit", event => {
+      event.preventDefault();
+      askAgent(chatInput.value);
+    });
+
+    chatInput.addEventListener("keydown", event => {
+      if (event.key === "Enter" && !event.shiftKey) {
+        event.preventDefault();
+        askAgent(chatInput.value);
+      }
+    });
+
+    render();
+  </script>
+</body>
+</html>

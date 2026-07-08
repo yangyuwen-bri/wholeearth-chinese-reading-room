@@ -3,12 +3,49 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="refresh" content="0; url=reader-prototype/index.html">
-  <title>Whole Earth Epilog 中文精读本</title>
-  <style>body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;margin:3rem;line-height:1.7;color:#2b261c;background:#f5efe0}a{color:#3c5573}</style>
+  <title>全球概览中文阅读室</title>
+  <meta name="description" content="Whole Earth 系列中文精读文库入口。">
+  <meta http-equiv="refresh" content="0; url=content/demos/wholeearth_webgl_console_demo.html">
+  <link rel="canonical" href="content/demos/wholeearth_webgl_console_demo.html">
+  <style>
+    :root {
+      color-scheme: dark;
+      --cream: #f4e8b9;
+      --green: #8cff72;
+      --deep: #090b07;
+    }
+    * { box-sizing: border-box; }
+    body {
+      min-height: 100dvh;
+      margin: 0;
+      display: grid;
+      place-items: center;
+      background: radial-gradient(circle at 50% 38%, rgba(140,255,114,.18), transparent 28rem), var(--deep);
+      color: var(--cream);
+      font-family: "Iowan Old Style", "Songti SC", "STSong", Georgia, serif;
+    }
+    main {
+      width: min(560px, calc(100% - 32px));
+      border: 1px solid rgba(244,232,185,.28);
+      background: rgba(0,0,0,.38);
+      padding: 24px;
+    }
+    p { margin: 0 0 18px; line-height: 1.7; }
+    a {
+      color: var(--green);
+      font-family: "Courier New", ui-monospace, monospace;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+  </style>
 </head>
 <body>
-  <h1>Whole Earth Epilog 中文精读本</h1>
-  <p>正在打开对照阅读器。若没有自动跳转，请进入 <a href="reader-prototype/index.html">reader-prototype/index.html</a>。</p>
+  <main>
+    <p>正在进入《全球概览》中文阅读室控制台。</p>
+    <a href="content/demos/wholeearth_webgl_console_demo.html">Enter WebGL Signal Console</a>
+  </main>
+  <script>
+    location.replace("content/demos/wholeearth_webgl_console_demo.html");
+  </script>
 </body>
 </html>

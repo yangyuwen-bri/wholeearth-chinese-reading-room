@@ -1,0 +1,1535 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Whole Earth WebGL Signal Console</title>
+  <link rel="icon" href="data:,">
+  <style>
+    :root {
+      --black: #030402;
+      --deep: #090b07;
+      --metal: #2b2d22;
+      --metal-dark: #11130d;
+      --edge: #5f5d47;
+      --cream: #f4e8b9;
+      --paper: #d6c480;
+      --green: #8cff72;
+      --green-dim: #52794b;
+      --amber: #e8a93b;
+      --red: #d36b50;
+      --blue: #61b5c7;
+      --violet: #9d84cf;
+      --mono: "Courier New", ui-monospace, monospace;
+      --serif: "Iowan Old Style", "Songti SC", "STSong", Georgia, serif;
+      --status-reader: #8cff72;
+      --status-guide: #e8a93b;
+      --status-map: #61b5c7;
+      --status-index: #d6c480;
+      --status-scan: #8b856a;
+    }
+
+    * { box-sizing: border-box; }
+    html, body { min-height: 100%; }
+    body {
+      margin: 0;
+      overflow: hidden;
+      color: var(--cream);
+      background:
+        radial-gradient(circle at 50% 14%, rgba(140,255,114,.16), transparent 26rem),
+        radial-gradient(circle at 70% 88%, rgba(232,169,59,.16), transparent 28rem),
+        radial-gradient(circle at 15% 62%, rgba(97,181,199,.08), transparent 22rem),
+        linear-gradient(180deg, #11140d, var(--black));
+      font-family: var(--serif);
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 40;
+      background:
+        repeating-linear-gradient(0deg, rgba(255,255,255,.032) 0 1px, transparent 1px 4px),
+        radial-gradient(circle at 50% 47%, transparent 42%, rgba(0,0,0,.54));
+      mix-blend-mode: screen;
+      opacity: .55;
+    }
+
+    button, input { font: inherit; color: inherit; }
+    button { cursor: pointer; }
+
+    .deck {
+      min-height: 100vh;
+      padding: clamp(10px, 2vw, 24px);
+      display: grid;
+      place-items: center;
+      perspective: 1200px;
+    }
+
+    .machine {
+      position: relative;
+      width: min(1560px, 100%);
+      height: min(1000px, calc(100vh - 24px));
+      display: grid;
+      grid-template-rows: minmax(0, 1fr) 178px;
+      gap: 10px;
+      padding: 14px;
+      border: 2px solid #474637;
+      border-radius: 16px 16px 34px 34px;
+      background:
+        repeating-linear-gradient(90deg, transparent 0 48px, rgba(255,255,255,.025) 48px 49px),
+        linear-gradient(135deg, rgba(255,255,255,.08), transparent 22%),
+        linear-gradient(180deg, #303226, #15170f 54%, #0a0b07);
+      box-shadow:
+        inset 0 2px 0 rgba(255,255,255,.12),
+        inset 0 -42px 70px rgba(0,0,0,.58),
+        0 40px 100px rgba(0,0,0,.72);
+      transform: rotateX(1deg);
+      overflow: hidden;
+    }
+
+    .plate {
+      position: absolute;
+      left: 34px;
+      top: 26px;
+      z-index: 12;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 6px 10px;
+      border: 1px solid rgba(244,232,185,.42);
+      background: rgba(8,8,5,.82);
+      color: #ffe6a6;
+      font-family: var(--mono);
+      font-size: 12px;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      box-shadow: 0 0 20px rgba(232,169,59,.16);
+    }
+
+    .plate i {
+      width: 9px;
+      height: 9px;
+      border-radius: 50%;
+      background: var(--green);
+      box-shadow: 0 0 12px var(--green), 0 0 26px rgba(140,255,114,.42);
+      animation: blink 1.6s steps(2,end) infinite;
+    }
+
+    .upper {
+      min-height: 0;
+      display: grid;
+      grid-template-columns: 238px minmax(560px, 1fr) 370px;
+      gap: 14px;
+    }
+
+    .bay {
+      min-height: 0;
+      border: 1px solid #4a4938;
+      border-radius: 8px;
+      background:
+        repeating-linear-gradient(90deg, rgba(255,255,255,.022) 0 1px, transparent 1px 9px),
+        linear-gradient(180deg, rgba(255,255,255,.04), rgba(0,0,0,.28)),
+        var(--metal-dark);
+      box-shadow: inset 0 0 38px rgba(0,0,0,.62);
+      overflow: hidden;
+    }
+
+    .bay h2 {
+      margin: 0;
+      padding: 12px 13px;
+      border-bottom: 1px solid rgba(244,232,185,.18);
+      color: #ffe7a7;
+      font-family: var(--mono);
+      font-size: 12px;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+
+    .channels {
+      padding: 42px 12px 12px;
+      display: grid;
+      gap: 10px;
+    }
+
+    .channel {
+      position: relative;
+      display: grid;
+      grid-template-columns: 28px minmax(0, 1fr);
+      gap: 10px;
+      align-items: center;
+      min-height: 58px;
+      border: 1px solid rgba(244,232,185,.16);
+      border-radius: 5px;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.07), rgba(0,0,0,.18)),
+        #20221a;
+      box-shadow: inset 0 1px rgba(255,255,255,.08), 0 5px 0 rgba(0,0,0,.28);
+      padding: 9px;
+      text-align: left;
+    }
+
+    .channel::before {
+      content: "";
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: var(--tone);
+      box-shadow: 0 0 15px var(--tone);
+      opacity: .72;
+    }
+
+    .channel strong {
+      display: block;
+      max-width: calc(100% - 36px);
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      font-size: 16px;
+      line-height: 1.08;
+    }
+
+    .channel small {
+      display: block;
+      margin-top: 3px;
+      color: var(--green-dim);
+      font-family: var(--mono);
+      font-size: 10px;
+      line-height: 1.2;
+    }
+
+    .channel b {
+      position: absolute;
+      right: 10px;
+      top: 9px;
+      color: var(--tone);
+      font-family: var(--mono);
+      font-size: 16px;
+    }
+
+    .channel.active {
+      border-color: color-mix(in srgb, var(--tone) 70%, #fff);
+      background:
+        linear-gradient(90deg, color-mix(in srgb, var(--tone) 25%, transparent), transparent),
+        #24261d;
+    }
+
+    .crt {
+      position: relative;
+      min-height: 0;
+      padding: 20px;
+      border: 2px solid #414236;
+      border-radius: 32px;
+      background:
+        radial-gradient(circle at 50% 10%, rgba(255,255,255,.06), transparent 40%),
+        linear-gradient(145deg, #333529, #11130e 55%, #070806);
+      box-shadow: inset 0 2px 0 rgba(255,255,255,.12), inset 0 -18px 34px rgba(0,0,0,.62), 0 0 0 8px rgba(0,0,0,.2);
+    }
+
+    .screen {
+      position: relative;
+      width: 100%;
+      height: 100%;
+      min-height: 0;
+      overflow: hidden;
+      border: 2px solid #080b07;
+      border-radius: 46% / 7%;
+      background:
+        radial-gradient(circle at 50% 48%, rgba(140,255,114,.18), transparent 30%),
+        radial-gradient(circle at 50% 62%, rgba(232,169,59,.08), transparent 45%),
+        #020402;
+      box-shadow: inset 0 0 38px rgba(0,0,0,.85), inset 0 0 130px rgba(140,255,114,.2), 0 0 34px rgba(140,255,114,.16);
+      isolation: isolate;
+    }
+
+    .screen canvas {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      display: block;
+      filter: contrast(1.08) saturate(1.15);
+    }
+
+    .screen::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      z-index: 4;
+      background:
+        linear-gradient(128deg, transparent 0 16%, rgba(255,255,255,.08) 18%, transparent 33%),
+        repeating-linear-gradient(0deg, rgba(255,255,255,.055) 0 1px, transparent 1px 5px),
+        radial-gradient(circle at 50% 50%, transparent 52%, rgba(0,0,0,.5));
+      mix-blend-mode: screen;
+    }
+
+    .screen::after {
+      content: "";
+      position: absolute;
+      left: -24%;
+      right: -24%;
+      top: -12%;
+      height: 38px;
+      pointer-events: none;
+      z-index: 5;
+      background: linear-gradient(180deg, transparent, rgba(140,255,114,.18), transparent);
+      filter: blur(2px);
+      animation: vertical-scan 5.4s linear infinite;
+    }
+
+    .hud {
+      position: absolute;
+      z-index: 6;
+      left: 24px;
+      right: 24px;
+      top: 18px;
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      color: var(--green);
+      font-family: var(--mono);
+      font-size: 12px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      text-shadow: 0 0 12px rgba(140,255,114,.72);
+      pointer-events: none;
+    }
+
+    .hud::before,
+    .hud::after {
+      content: "";
+      position: absolute;
+      top: 22px;
+      width: 90px;
+      height: 1px;
+      background: linear-gradient(90deg, rgba(140,255,114,.65), transparent);
+      opacity: .65;
+    }
+
+    .hud::before { left: 0; }
+    .hud::after {
+      right: 0;
+      transform: rotate(180deg);
+    }
+
+    .hud b { color: #ffe7a7; }
+
+    .hud-bottom {
+      top: auto;
+      bottom: 18px;
+      left: 40px;
+      right: 40px;
+      color: rgba(216,255,205,.8);
+      font-size: 11px;
+    }
+
+    .hud b {
+      max-width: 56%;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+
+    .side {
+      display: grid;
+      grid-template-rows: auto 1fr auto auto;
+      gap: 10px;
+      padding: 12px;
+    }
+
+    .mini {
+      position: relative;
+      min-height: 0;
+      overflow: hidden;
+      display: grid;
+      grid-template-rows: auto auto auto auto minmax(0, 1fr);
+      border: 2px solid #090d08;
+      border-radius: 18px;
+      background:
+        linear-gradient(180deg, rgba(140,255,114,.1), transparent),
+        #061006;
+      box-shadow: inset 0 0 42px rgba(0,0,0,.85), 0 0 18px rgba(140,255,114,.12);
+      padding: 14px;
+    }
+
+    .mini::before {
+      content: "";
+      position: absolute;
+      inset: 12px;
+      border: 1px solid rgba(140,255,114,.14);
+      border-radius: 12px;
+      pointer-events: none;
+    }
+
+    .mini::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background: repeating-linear-gradient(0deg, rgba(255,255,255,.045) 0 1px, transparent 1px 4px);
+    }
+
+    .mini .meta {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      color: var(--green);
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .mini h3 {
+      position: relative;
+      z-index: 1;
+      margin: 10px 0 8px;
+      color: var(--cream);
+      font-size: clamp(20px, 1.75vw, 30px);
+      line-height: 1;
+      font-weight: 500;
+      text-wrap: balance;
+    }
+
+    .selected-cover {
+      position: relative;
+      z-index: 1;
+      width: min(82px, 30%);
+      aspect-ratio: 3 / 4;
+      margin-top: 10px;
+      border: 1px solid rgba(244,232,185,.38);
+      background: #10130c;
+      object-fit: cover;
+      box-shadow: 0 0 0 5px rgba(140,255,114,.05), 0 16px 34px rgba(0,0,0,.48);
+      transform: rotate(-1.5deg);
+    }
+
+    .status-strip {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 7px;
+      margin-top: 10px;
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+
+    .status-badge {
+      display: inline-flex;
+      align-items: center;
+      min-height: 22px;
+      padding: 4px 8px;
+      border: 1px solid currentColor;
+      background: rgba(0,0,0,.35);
+      color: var(--status-scan);
+      box-shadow: 0 0 16px color-mix(in srgb, currentColor 24%, transparent);
+    }
+
+    .status-badge[data-status="reader"] { color: var(--status-reader); }
+    .status-badge[data-status="guide"] { color: var(--status-guide); }
+    .status-badge[data-status="map"] { color: var(--status-map); }
+    .status-badge[data-status="indexed"] { color: var(--status-index); }
+
+    .status-path {
+      color: rgba(216,255,205,.7);
+    }
+
+    .mini p {
+      position: relative;
+      z-index: 1;
+      margin: 0;
+      color: #d8ffcd;
+      font-size: 12px;
+      line-height: 1.32;
+    }
+
+    .tape {
+      border: 1px dashed rgba(244,232,185,.34);
+      background: rgba(214,196,125,.12);
+      padding: 10px;
+      color: #ffe7a7;
+      font-family: var(--mono);
+      font-size: 10px;
+      line-height: 1.32;
+      min-height: 46px;
+    }
+
+    .scan-link {
+      display: block;
+      border: 1px solid rgba(232,169,59,.68);
+      border-radius: 3px;
+      background: linear-gradient(180deg, #3a2a10, #1d170d);
+      color: #ffe7a7;
+      text-align: center;
+      text-decoration: none;
+      padding: 10px;
+      font-family: var(--mono);
+      font-size: 12px;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+      box-shadow: inset 0 1px rgba(255,255,255,.14), 0 4px 0 rgba(0,0,0,.35);
+    }
+
+    .scan-link[data-status="reader"] {
+      border-color: rgba(140,255,114,.85);
+      background: linear-gradient(180deg, #24411c, #101d0d);
+      box-shadow: inset 0 1px rgba(255,255,255,.16), 0 4px 0 rgba(0,0,0,.35), 0 0 20px rgba(140,255,114,.12);
+    }
+
+    .scan-link[data-status="guide"] {
+      border-color: rgba(232,169,59,.9);
+      background: linear-gradient(180deg, #483212, #1d170d);
+    }
+
+    .scan-link[data-status="map"] {
+      border-color: rgba(97,181,199,.8);
+      background: linear-gradient(180deg, #18313a, #0d181d);
+    }
+
+    .controls {
+      display: grid;
+      grid-template-columns: 250px minmax(400px, 1fr) 300px;
+      gap: 10px;
+      transform: rotateX(2deg);
+      transform-origin: top;
+    }
+
+    .control {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid #4a4938;
+      border-radius: 8px 8px 20px 20px;
+      background:
+        linear-gradient(150deg, rgba(255,255,255,.08), transparent 35%),
+        linear-gradient(180deg, #303125, #14160f);
+      box-shadow: inset 0 1px rgba(255,255,255,.12), inset 0 -20px 35px rgba(0,0,0,.46);
+      padding: 12px;
+    }
+
+    .paper-label {
+      display: inline-block;
+      margin-bottom: 8px;
+      padding: 4px 9px;
+      background: rgba(244,232,185,.9);
+      color: #17150e;
+      font-family: var(--mono);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      transform: rotate(-1deg);
+      box-shadow: 0 2px 0 rgba(0,0,0,.32);
+    }
+
+    .knob-row {
+      display: grid;
+      grid-template-columns: 88px 1fr;
+      gap: 12px;
+      align-items: center;
+    }
+
+    .knob {
+      width: 78px;
+      height: 78px;
+      border-radius: 50%;
+      border: 2px solid #090a07;
+      background:
+        radial-gradient(circle at 35% 28%, rgba(255,255,255,.16), transparent 18%),
+        radial-gradient(circle, #4a493b 0 24%, #202219 25% 48%, #0a0b07 49% 53%, #343528 54% 100%);
+      box-shadow: inset 0 0 20px rgba(0,0,0,.68), 0 9px 0 rgba(0,0,0,.36);
+      position: relative;
+    }
+
+    .knob::after {
+      content: "";
+      position: absolute;
+      left: 50%;
+      top: 7px;
+      width: 3px;
+      height: 21px;
+      transform: translateX(-50%) rotate(var(--knob-angle));
+      transform-origin: 50% 32px;
+      background: var(--amber);
+      box-shadow: 0 0 10px rgba(232,169,59,.6);
+    }
+
+    .year-number {
+      color: var(--amber);
+      font-family: var(--mono);
+      font-size: 34px;
+      line-height: .9;
+    }
+
+    .year-number span {
+      display: block;
+      margin-top: 6px;
+      color: var(--green-dim);
+      font-size: 10px;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+    }
+
+    .tuner {
+      height: 62px;
+      display: grid;
+      align-items: center;
+      position: relative;
+    }
+
+    .rail {
+      position: relative;
+      height: 28px;
+      border: 1px solid rgba(244,232,185,.22);
+      background:
+        repeating-linear-gradient(90deg, rgba(244,232,185,.16) 0 1px, transparent 1px 25px),
+        #0c100b;
+      overflow: hidden;
+    }
+
+    .bars {
+      position: absolute;
+      inset: 3px;
+      display: grid;
+      grid-template-columns: repeat(var(--years), 1fr);
+      gap: 2px;
+      align-items: end;
+    }
+
+    .bars i {
+      display: block;
+      height: var(--h);
+      background: rgba(140,255,114,.4);
+      box-shadow: 0 0 8px rgba(140,255,114,.22);
+    }
+
+    .needle {
+      position: absolute;
+      top: -18px;
+      bottom: -18px;
+      left: var(--needle);
+      width: 3px;
+      background: var(--amber);
+      box-shadow: 0 0 18px var(--amber);
+      pointer-events: none;
+    }
+
+    input[type=range] {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      opacity: 0;
+      z-index: 3;
+      cursor: ew-resize;
+    }
+
+    .switches {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 10px;
+      margin-top: 6px;
+    }
+
+    .switch {
+      border: 1px solid rgba(244,232,185,.2);
+      background: #171910;
+      padding: 8px;
+      color: var(--green-dim);
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+      box-shadow: inset 0 1px rgba(255,255,255,.07), 0 4px 0 rgba(0,0,0,.32);
+    }
+
+    .switch.active {
+      color: #17150e;
+      background: var(--amber);
+      border-color: #ffc65c;
+    }
+
+    .ticker {
+      height: 96px;
+      overflow: hidden;
+      border: 1px solid rgba(244,232,185,.2);
+      background: #0b0e09;
+      padding: 8px;
+      color: #b6f0a8;
+      font-family: var(--mono);
+      font-size: 10px;
+    }
+
+    .scan-link:hover,
+    .switch:hover,
+    .channel:hover {
+      filter: brightness(1.12);
+    }
+
+    .ticker-line {
+      display: grid;
+      grid-template-columns: 46px minmax(0, 1fr) auto;
+      gap: 8px;
+      padding: 4px 0;
+      border-bottom: 1px dashed rgba(140,255,114,.12);
+    }
+
+    .ticker-line b {
+      color: var(--amber);
+      font-weight: 400;
+    }
+
+    .ticker-line span {
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+    }
+
+    .ticker-line em {
+      color: rgba(244,232,185,.72);
+      font-style: normal;
+      white-space: nowrap;
+    }
+
+    .ticker-line[data-status="reader"] em { color: var(--status-reader); }
+    .ticker-line[data-status="guide"] em { color: var(--status-guide); }
+    .ticker-line[data-status="map"] em { color: var(--status-map); }
+
+    .upper > .bay:first-child h2 {
+      visibility: hidden;
+    }
+
+    @keyframes blink { 50% { opacity: .35; } }
+    @keyframes vertical-scan { from { top: -12%; } to { top: 108%; } }
+
+    @media (max-width: 1100px) {
+      body { overflow: auto; }
+      .machine {
+        height: auto;
+        min-height: 100vh;
+      }
+      .upper,
+      .controls {
+        grid-template-columns: 1fr;
+      }
+      .crt { order: 1; }
+      .side { order: 2; }
+      .upper > .bay:first-child { order: 3; }
+      .crt { min-height: 660px; }
+      .screen { min-height: 600px; }
+      .upper > .bay:first-child h2 { visibility: hidden; }
+    }
+  </style>
+</head>
+<body>
+  <main class="deck">
+    <section class="machine" aria-label="Whole Earth WebGL signal console">
+      <div class="plate"><i></i>WHOLE EARTH / WEBGL SIGNAL ACQUISITION</div>
+
+      <section class="upper">
+        <aside class="bay">
+          <h2>Channel Patchbay</h2>
+          <div class="channels" id="channels"></div>
+        </aside>
+
+        <section class="crt">
+          <div class="screen" id="screen">
+            <canvas id="webgl"></canvas>
+            <div class="hud"><span>TRACKING</span><b id="screenMode">ALL PUBLICATIONS</b></div>
+            <div class="hud hud-bottom"><span id="rangeReadout">RANGE</span><span id="visibleReadout">0 SIGNALS</span><span id="lockReadout">YEAR FREE</span></div>
+          </div>
+        </section>
+
+        <aside class="bay side">
+          <h2>Selected Signal</h2>
+          <section class="mini">
+            <div class="meta"><span id="issueSeries">series</span><span id="issueYear">year</span></div>
+            <img class="selected-cover" id="issueCover" alt="">
+            <div class="status-strip"><span class="status-badge" id="issueStatus" data-status="scan">acquiring</span><span class="status-path" id="issuePath">library route</span></div>
+            <h3 id="issueTitle">Acquiring signal</h3>
+            <p id="issueSummary">正在读取本地索引。</p>
+          </section>
+          <div class="tape" id="issueTape">topics: --</div>
+          <a class="scan-link map-link" id="mapLink" href="#" rel="noreferrer">Open Reading Map</a>
+          <a class="scan-link" id="scanLink" href="#" target="_blank" rel="noreferrer">Open Original Scan</a>
+        </aside>
+      </section>
+
+      <section class="controls">
+        <div class="control">
+          <span class="paper-label">frequency year</span>
+          <div class="knob-row">
+            <div class="knob" id="knob"></div>
+            <div class="year-number" id="yearNumber">ALL<span>turn to tune archive year</span></div>
+          </div>
+        </div>
+
+        <div class="control">
+          <span class="paper-label">publication tuner</span>
+          <div class="tuner">
+            <div class="rail"><div class="bars" id="bars"></div><div class="needle" id="needle"></div></div>
+            <input id="yearRange" type="range" min="1968" max="2002" value="1985" step="1" aria-label="Publication year">
+          </div>
+          <div class="switches">
+            <button class="switch active" id="allYears">all years</button>
+            <button class="switch" id="lockYear">lock year</button>
+            <button class="switch active" id="autoScan">auto scan</button>
+          </div>
+        </div>
+
+        <div class="control">
+          <span class="paper-label">signal tape</span>
+          <div class="ticker" id="ticker"></div>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <script type="module">
+    import * as THREE from "../vendor/three.module.min.js";
+
+    const colors = {
+      "Whole Earth 目录系列": 0xc7683d,
+      "共同进化季刊": 0x6fa45f,
+      "Whole Earth Review": 0x61b5c7,
+      "软件目录与评论": 0xe8a93b,
+      "Whole Earth Magazine": 0x9d84cf,
+      "专题出版物": 0xd36b50
+    };
+    const colorCss = Object.fromEntries(Object.entries(colors).map(([k, v]) => [k, "#" + v.toString(16).padStart(6, "0")]));
+    const here = path => new URL(path, window.location.href).href;
+    const localMaps = {
+      wholeearthreview00unse: here("../maps/1985/wholeearthreview00unse.html"),
+      wholeearthreview00unse_0: here("../maps/1985/wholeearthreview00unse_0.html"),
+      wholeearthreview00unse_1: here("../maps/1985/wholeearthreview00unse_1.html"),
+      wholeearthreview00unse_2: here("../maps/1985/wholeearthreview00unse_2.html"),
+      wholeearthreview00unse_3: here("../maps/1985/wholeearthreview00unse_3.html"),
+      wholeearthreview00unse_4: here("../maps/1985/wholeearthreview00unse_4.html"),
+      wholeearthsoftwa00unse_3: here("../maps/1985/wholeearthsoftwa00unse_3.html")
+    };
+    const readingDestinations = {
+      wholeearthepilog00unse: {
+        kind: "reader",
+        label: "开放阅读室",
+        path: "中文精读 / 1974 Epilog",
+        action: "Enter Chinese Reading Room",
+        url: here("../../reader-prototype/index.html"),
+        note: "这一期已开放中文对照阅读室：左侧是真实扫描页，右侧是中文精读正文。"
+      },
+      wholeearthsoftwa00unse_3: {
+        kind: "guide",
+        label: "导读本",
+        path: "中文导读 / 1985 Software",
+        action: "Open Chinese Guide",
+        url: localMaps.wholeearthsoftwa00unse_3,
+        note: "这一期已有中文导读和知识地图，是下一间阅读室的候选。"
+      },
+      wholeearthreview00unse_3: {
+        kind: "map",
+        label: "样本地图",
+        path: "可视化导读 / 1985 Review",
+        action: "Open Reading Map",
+        url: localMaps.wholeearthreview00unse_3,
+        note: "这一期已有可视化导读样本，可从地图进入原刊结构。"
+      }
+    };
+    const featuredIdentifier = "wholeearthepilog00unse";
+
+    const canvas = document.getElementById("webgl");
+    const screen = document.getElementById("screen");
+    const channelsEl = document.getElementById("channels");
+    const tickerEl = document.getElementById("ticker");
+    const barsEl = document.getElementById("bars");
+    const rangeEl = document.getElementById("yearRange");
+    const knobEl = document.getElementById("knob");
+    const needleEl = document.getElementById("needle");
+    const allYearsEl = document.getElementById("allYears");
+    const lockYearEl = document.getElementById("lockYear");
+    const autoScanEl = document.getElementById("autoScan");
+
+    let stats;
+    let coverManifest = {};
+    let activeSeries = null;
+    let lockedYear = null;
+    let selected = null;
+    let autoScan = true;
+    let issueMeshes = [];
+    let ringMeshes = [];
+    let earthGroup;
+    let signalGroup;
+    let selectedMarker;
+    let selectedBeam;
+    let radarGroup;
+    let cloudLayer;
+    let cityLightsLayer;
+    let stars;
+    let frame = 0;
+
+    const renderer = new THREE.WebGLRenderer({ canvas, antialias: true, alpha: true, powerPreference: "high-performance" });
+    renderer.setClearColor(0x000000, 0);
+    renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+    renderer.outputColorSpace = THREE.SRGBColorSpace;
+
+    const scene = new THREE.Scene();
+    scene.fog = new THREE.FogExp2(0x020402, 0.045);
+    const camera = new THREE.PerspectiveCamera(42, 1, 0.1, 100);
+    camera.position.set(0, 1.05, 8.9);
+    camera.lookAt(0, 0.12, 0);
+
+    const ambient = new THREE.AmbientLight(0x9cff84, 1.1);
+    scene.add(ambient);
+    const key = new THREE.PointLight(0xe8a93b, 2.2, 14);
+    key.position.set(3, 2, 5);
+    scene.add(key);
+    const fill = new THREE.PointLight(0x61b5c7, 1.2, 10);
+    fill.position.set(-4, -1, 3);
+    scene.add(fill);
+    const rim = new THREE.PointLight(0x8cff72, 2.1, 9);
+    rim.position.set(-1, 3.4, -2.4);
+    scene.add(rim);
+    const textureLoader = new THREE.TextureLoader();
+
+    function safe(value) {
+      return String(value ?? "").replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[ch]));
+    }
+
+    function readableSections(issue) {
+      return (issue.content_map || [])
+        .map(item => String(item.title || "").trim())
+        .filter(title => title.length > 3 && title.length < 46)
+        .filter(title => !/\$|access to tools|canadian|subscribers|^[\\d\\s,.-]+$|\\bUSA\\b|\\bMA\\b/i.test(title))
+        .filter(title => !/^and\b|^[A-Z]\s*[,.]/i.test(title))
+        .filter(title => !/\b(Lane|Consultants|Director|Pennsylvania|Massachusetts)\b/i.test(title))
+        .filter((title, index, all) => all.indexOf(title) === index)
+        .slice(0, 4);
+    }
+
+    function visibleIssues() {
+      return stats.issues.filter(issue => {
+        return isFocusedIssue(issue);
+      });
+    }
+
+    function isFocusedIssue(issue) {
+      if (activeSeries && issue.collection !== activeSeries) return false;
+      if (lockedYear && issue.year !== lockedYear) return false;
+      return true;
+    }
+
+    function coverPath(issue) {
+      return coverManifest[issue.identifier] || issue.cover_url || "";
+    }
+
+    function coverTexture(issue) {
+      const src = coverPath(issue);
+      if (!src) return null;
+      if (!coverTexture.cache) coverTexture.cache = new Map();
+      if (!coverTexture.cache.has(src)) {
+        const texture = textureLoader.load(src);
+        texture.colorSpace = THREE.SRGBColorSpace;
+        texture.anisotropy = 4;
+        coverTexture.cache.set(src, texture);
+      }
+      return coverTexture.cache.get(src);
+    }
+
+    function readingMapUrl(issue) {
+      return issueStatus(issue).url;
+    }
+
+    function archiveUrl(issue) {
+      return issue.archive_url || issue.url || "#";
+    }
+
+    function issueStatus(issue) {
+      const explicit = readingDestinations[issue.identifier];
+      if (explicit) return explicit;
+      if (localMaps[issue.identifier]) {
+        return {
+          kind: "map",
+          label: "阅读地图",
+          path: "可视化导读 / map",
+          action: "Open Reading Map",
+          url: localMaps[issue.identifier],
+          note: "这一期已有可视化阅读地图，可先从地图进入原刊结构。"
+        };
+      }
+      if (readableSections(issue).length) {
+        return {
+          kind: "indexed",
+          label: "已建索引",
+          path: "档案索引 / dossier",
+          action: "Open Archive Page",
+          url: archiveUrl(issue),
+          note: "这一期已进入文库索引，暂未整理成中文阅读室。"
+        };
+      }
+      return {
+        kind: "scan",
+        label: "原始扫描",
+        path: "Archive / scan",
+        action: "Open Archive Page",
+        url: archiveUrl(issue),
+        note: "这一期暂时只作为原始扫描信号保留。"
+      };
+    }
+
+    function textureFromCanvas(draw) {
+      const canvas = document.createElement("canvas");
+      canvas.width = 2048;
+      canvas.height = 1024;
+      const ctx = canvas.getContext("2d");
+      draw(ctx, canvas.width, canvas.height);
+      const texture = new THREE.CanvasTexture(canvas);
+      texture.colorSpace = THREE.SRGBColorSpace;
+      texture.anisotropy = 8;
+      texture.wrapS = THREE.RepeatWrapping;
+      texture.wrapT = THREE.ClampToEdgeWrapping;
+      return texture;
+    }
+
+    function projectPoint(lon, lat, width, height) {
+      return [(lon + 180) / 360 * width, (90 - lat) / 180 * height];
+    }
+
+    function drawLand(ctx, width, height, points, fill, stroke) {
+      ctx.beginPath();
+      points.forEach(([lon, lat], index) => {
+        const [x, y] = projectPoint(lon, lat, width, height);
+        if (index) ctx.lineTo(x, y);
+        else ctx.moveTo(x, y);
+      });
+      ctx.closePath();
+      ctx.fillStyle = fill;
+      ctx.fill();
+      ctx.strokeStyle = stroke;
+      ctx.lineWidth = 5;
+      ctx.stroke();
+    }
+
+    function makeEarthTexture() {
+      return textureFromCanvas((ctx, width, height) => {
+        const ocean = ctx.createLinearGradient(0, 0, width, height);
+        ocean.addColorStop(0, "#082814");
+        ocean.addColorStop(.5, "#0e3f19");
+        ocean.addColorStop(1, "#03160d");
+        ctx.fillStyle = ocean;
+        ctx.fillRect(0, 0, width, height);
+
+        ctx.globalAlpha = .32;
+        ctx.strokeStyle = "#8cff72";
+        ctx.lineWidth = 1;
+        for (let lon = -180; lon <= 180; lon += 15) {
+          const [x] = projectPoint(lon, 0, width, height);
+          ctx.beginPath();
+          ctx.moveTo(x, 0);
+          ctx.lineTo(x, height);
+          ctx.stroke();
+        }
+        for (let lat = -75; lat <= 75; lat += 15) {
+          const [, y] = projectPoint(0, lat, width, height);
+          ctx.beginPath();
+          ctx.moveTo(0, y);
+          ctx.lineTo(width, y);
+          ctx.stroke();
+        }
+        ctx.globalAlpha = 1;
+
+        const land = "rgba(216, 192, 104, .9)";
+        const edge = "rgba(140, 255, 114, .55)";
+        drawLand(ctx, width, height, [[-168,70],[-132,72],[-86,55],[-62,48],[-82,23],[-105,16],[-123,32],[-150,44]], land, edge);
+        drawLand(ctx, width, height, [[-83,12],[-54,7],[-39,-20],[-53,-55],[-75,-39],[-81,-9]], land, edge);
+        drawLand(ctx, width, height, [[-12,35],[20,35],[44,19],[51,-7],[31,-35],[7,-33],[-7,-4]], land, edge);
+        drawLand(ctx, width, height, [[-10,70],[48,72],[118,62],[154,50],[143,22],[100,8],[58,20],[38,44],[3,43]], land, edge);
+        drawLand(ctx, width, height, [[68,30],[91,25],[99,8],[80,6],[71,18]], land, edge);
+        drawLand(ctx, width, height, [[113,-11],[154,-14],[150,-39],[119,-44],[111,-28]], land, edge);
+        drawLand(ctx, width, height, [[-52,76],[-19,77],[-24,60],[-48,59]], land, edge);
+
+        ctx.globalAlpha = .24;
+        for (let i = 0; i < 1100; i++) {
+          const x = Math.random() * width;
+          const y = Math.random() * height;
+          const r = Math.random() * 1.7;
+          ctx.fillStyle = Math.random() > .56 ? "#8cff72" : "#e8a93b";
+          ctx.fillRect(x, y, r, r);
+        }
+        ctx.globalAlpha = 1;
+      });
+    }
+
+    function makeCloudTexture() {
+      return textureFromCanvas((ctx, width, height) => {
+        ctx.clearRect(0, 0, width, height);
+        for (let band = 0; band < 18; band++) {
+          const y = (band + .5) / 18 * height + (Math.random() - .5) * 36;
+          const x0 = Math.random() * width;
+          const length = width * (.18 + Math.random() * .24);
+          const gradient = ctx.createLinearGradient(x0, y, x0 + length, y);
+          gradient.addColorStop(0, "rgba(140,255,114,0)");
+          gradient.addColorStop(.45, "rgba(216,255,205,.24)");
+          gradient.addColorStop(1, "rgba(140,255,114,0)");
+          ctx.strokeStyle = gradient;
+          ctx.lineWidth = 16 + Math.random() * 24;
+          ctx.beginPath();
+          ctx.moveTo(x0, y);
+          ctx.bezierCurveTo(x0 + length * .3, y - 36, x0 + length * .68, y + 28, x0 + length, y);
+          ctx.stroke();
+        }
+      });
+    }
+
+    function addStarField() {
+      const count = 900;
+      const positions = new Float32Array(count * 3);
+      const colorsArray = new Float32Array(count * 3);
+      const palette = [new THREE.Color(0x8cff72), new THREE.Color(0xe8a93b), new THREE.Color(0x61b5c7)];
+      for (let i = 0; i < count; i++) {
+        const r = 8 + Math.random() * 10;
+        const theta = Math.random() * Math.PI * 2;
+        const phi = Math.acos(THREE.MathUtils.randFloatSpread(2));
+        positions[i * 3] = Math.sin(phi) * Math.cos(theta) * r;
+        positions[i * 3 + 1] = Math.cos(phi) * r * .62;
+        positions[i * 3 + 2] = Math.sin(phi) * Math.sin(theta) * r - 3;
+        const color = palette[Math.floor(Math.random() * palette.length)];
+        colorsArray[i * 3] = color.r;
+        colorsArray[i * 3 + 1] = color.g;
+        colorsArray[i * 3 + 2] = color.b;
+      }
+      const geometry = new THREE.BufferGeometry();
+      geometry.setAttribute("position", new THREE.BufferAttribute(positions, 3));
+      geometry.setAttribute("color", new THREE.BufferAttribute(colorsArray, 3));
+      stars = new THREE.Points(geometry, new THREE.PointsMaterial({
+        size: .028,
+        vertexColors: true,
+        transparent: true,
+        opacity: .42,
+        blending: THREE.AdditiveBlending,
+        depthWrite: false
+      }));
+      scene.add(stars);
+    }
+
+    function makeEarth() {
+      earthGroup = new THREE.Group();
+      scene.add(earthGroup);
+
+      const sphere = new THREE.Mesh(
+        new THREE.SphereGeometry(1.18, 96, 48),
+        new THREE.MeshStandardMaterial({
+          map: textureLoader.load("../assets/earth/earth_atmos_2048.jpg"),
+          color: 0x9bff74,
+          emissive: 0x0a260d,
+          emissiveIntensity: .44,
+          metalness: .04,
+          roughness: .62
+        })
+      );
+      earthGroup.add(sphere);
+
+      const wire = new THREE.LineSegments(
+        new THREE.WireframeGeometry(new THREE.SphereGeometry(1.192, 64, 32)),
+        new THREE.LineBasicMaterial({ color: 0x8cff72, transparent: true, opacity: 0.28, blending: THREE.AdditiveBlending })
+      );
+      earthGroup.add(wire);
+
+      cloudLayer = new THREE.Mesh(
+        new THREE.SphereGeometry(1.245, 96, 48),
+        new THREE.MeshBasicMaterial({
+          map: textureLoader.load("../assets/earth/earth_clouds_1024.png"),
+          color: 0xccffd5,
+          transparent: true,
+          opacity: .34,
+          blending: THREE.AdditiveBlending,
+          depthWrite: false
+        })
+      );
+      earthGroup.add(cloudLayer);
+
+      cityLightsLayer = new THREE.Mesh(
+        new THREE.SphereGeometry(1.192, 96, 48),
+        new THREE.MeshBasicMaterial({
+          map: textureLoader.load("../assets/earth/earth_lights_2048.png"),
+          color: 0xffd36a,
+          transparent: true,
+          opacity: .36,
+          blending: THREE.AdditiveBlending,
+          depthWrite: false
+        })
+      );
+      earthGroup.add(cityLightsLayer);
+
+      const atmosphere = new THREE.Mesh(
+        new THREE.SphereGeometry(1.38, 96, 48),
+        new THREE.MeshBasicMaterial({
+          color: 0x8cff72,
+          transparent: true,
+          opacity: 0.11,
+          blending: THREE.AdditiveBlending,
+          depthWrite: false
+        })
+      );
+      earthGroup.add(atmosphere);
+
+      const outerGlow = new THREE.Mesh(
+        new THREE.SphereGeometry(1.66, 96, 48),
+        new THREE.MeshBasicMaterial({
+          color: 0x61b5c7,
+          transparent: true,
+          opacity: .045,
+          blending: THREE.AdditiveBlending,
+          depthWrite: false
+        })
+      );
+      earthGroup.add(outerGlow);
+
+      const latitudeMaterial = new THREE.LineBasicMaterial({ color: 0x8cff72, transparent: true, opacity: 0.36 });
+      for (let lat = -60; lat <= 60; lat += 15) {
+        const points = [];
+        const y = Math.sin(THREE.MathUtils.degToRad(lat)) * 1.58;
+        const r = Math.cos(THREE.MathUtils.degToRad(lat)) * 1.58;
+        for (let i = 0; i <= 160; i++) {
+          const a = i / 160 * Math.PI * 2;
+          points.push(new THREE.Vector3(Math.cos(a) * r, y, Math.sin(a) * r));
+        }
+        earthGroup.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(points), latitudeMaterial));
+      }
+
+      const longitudeMaterial = new THREE.LineBasicMaterial({ color: 0x8cff72, transparent: true, opacity: 0.24 });
+      for (let lon = 0; lon < 180; lon += 15) {
+        const points = [];
+        const rot = THREE.MathUtils.degToRad(lon);
+        for (let i = 0; i <= 160; i++) {
+          const a = i / 160 * Math.PI * 2;
+          const x = Math.cos(a) * 1.58;
+          const y = Math.sin(a) * 1.58;
+          const z = 0;
+          points.push(new THREE.Vector3(x * Math.cos(rot) - z * Math.sin(rot), y, x * Math.sin(rot) + z * Math.cos(rot)));
+        }
+        earthGroup.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(points), longitudeMaterial));
+      }
+
+      selectedMarker = new THREE.Mesh(
+        new THREE.TorusGeometry(0.16, 0.012, 8, 32),
+        new THREE.MeshBasicMaterial({ color: 0xe8a93b, transparent: true, opacity: 0.95 })
+      );
+      selectedMarker.visible = false;
+      scene.add(selectedMarker);
+
+      selectedBeam = new THREE.Line(
+        new THREE.BufferGeometry().setFromPoints([new THREE.Vector3(), new THREE.Vector3()]),
+        new THREE.LineBasicMaterial({ color: 0xe8a93b, transparent: true, opacity: .74 })
+      );
+      selectedBeam.visible = false;
+      scene.add(selectedBeam);
+
+      radarGroup = new THREE.Group();
+      const radarMaterial = new THREE.LineBasicMaterial({ color: 0xe8a93b, transparent: true, opacity: .34, blending: THREE.AdditiveBlending });
+      for (let i = 0; i < 4; i++) {
+        const points = [];
+        const radius = 2.05 + i * .42;
+        for (let j = 0; j <= 38; j++) {
+          const a = j / 38 * Math.PI * .62;
+          points.push(new THREE.Vector3(Math.cos(a) * radius, .03, Math.sin(a) * radius * .72));
+        }
+        radarGroup.add(new THREE.Line(new THREE.BufferGeometry().setFromPoints(points), radarMaterial));
+      }
+      radarGroup.rotation.x = THREE.MathUtils.degToRad(63);
+      scene.add(radarGroup);
+
+      addStarField();
+    }
+
+    function clearSignals() {
+      issueMeshes.forEach(mesh => {
+        mesh.geometry.dispose();
+        mesh.material.dispose();
+        signalGroup.remove(mesh);
+      });
+      ringMeshes.forEach(line => {
+        line.geometry.dispose();
+        line.material.dispose();
+        signalGroup.remove(line);
+      });
+      issueMeshes = [];
+      ringMeshes = [];
+    }
+
+    function makeOrbitRing(radius, tilt, color, opacity) {
+      const points = [];
+      for (let i = 0; i <= 240; i++) {
+        const a = i / 240 * Math.PI * 2;
+        const p = new THREE.Vector3(Math.cos(a) * radius, 0, Math.sin(a) * radius * 0.72);
+        p.applyEuler(new THREE.Euler(tilt, 0, 0.05, "XYZ"));
+        points.push(p);
+      }
+      const line = new THREE.Line(
+        new THREE.BufferGeometry().setFromPoints(points),
+        new THREE.LineBasicMaterial({ color, transparent: true, opacity, blending: THREE.AdditiveBlending })
+      );
+      signalGroup.add(line);
+      ringMeshes.push(line);
+    }
+
+    function rebuildSignals() {
+      if (!signalGroup) {
+        signalGroup = new THREE.Group();
+        scene.add(signalGroup);
+      }
+      clearSignals();
+      const focusedList = visibleIssues();
+      const list = stats.issues;
+      const seriesOrder = stats.series.map(s => s.collection);
+      seriesOrder.forEach((series, index) => {
+        const opacity = !activeSeries ? 0.18 : activeSeries === series ? 0.46 : 0.055;
+        makeOrbitRing(2.25 + index * 0.27, THREE.MathUtils.degToRad(62 - index * 6), colors[series] || 0x8cff72, opacity);
+      });
+      list.forEach((issue, index) => {
+        const focused = isFocusedIssue(issue);
+        const seriesIndex = Math.max(0, seriesOrder.indexOf(issue.collection));
+        const radius = 2.18 + seriesIndex * 0.31 + ((issue.year - stats.year_min) % 5) * 0.022;
+        const angle = index / Math.max(1, list.length) * Math.PI * 2 + seriesIndex * 0.47;
+        const tilt = THREE.MathUtils.degToRad(62 - seriesIndex * 6);
+        const color = colors[issue.collection] || 0x8cff72;
+        const geometry = new THREE.PlaneGeometry(0.31, 0.42);
+        const material = new THREE.MeshBasicMaterial({
+          color: 0xffffff,
+          map: coverTexture(issue),
+          transparent: true,
+          opacity: selected && selected.identifier === issue.identifier ? 1 : focused ? 0.82 : 0.16,
+          depthWrite: false,
+          side: THREE.DoubleSide
+        });
+        const mesh = new THREE.Mesh(geometry, material);
+        mesh.renderOrder = 3 + seriesIndex;
+        mesh.userData = {
+          issue,
+          radius,
+          angle,
+          tilt,
+          speed: 0.12 + seriesIndex * 0.014,
+          bob: Math.random() * Math.PI * 2,
+          focused,
+          seriesIndex
+        };
+        mesh.scale.setScalar(focused ? 1.22 : 0.42);
+        signalGroup.add(mesh);
+        issueMeshes.push(mesh);
+      });
+      document.getElementById("visibleReadout").textContent = activeSeries || lockedYear ? `${focusedList.length} FOCUSED / 147` : "147 SIGNALS";
+      setSelected(selected && isFocusedIssue(selected) ? selected : focusedList[0] || stats.issues[0]);
+    }
+
+    function renderChannels() {
+      channelsEl.innerHTML = stats.series.map(series => `
+        <button class="channel ${activeSeries === series.collection ? "active" : ""}" data-series="${safe(series.collection)}" style="--tone:${series.color}">
+          <span><strong>${safe(series.zh)}</strong><small>${series.count} objects · ${series.year_min}-${series.year_max}</small></span>
+          <b>${series.count}</b>
+        </button>
+      `).join("");
+      channelsEl.querySelectorAll(".channel").forEach(button => {
+        button.onclick = () => {
+          activeSeries = activeSeries === button.dataset.series ? null : button.dataset.series;
+          document.getElementById("screenMode").textContent = activeSeries || "ALL PUBLICATIONS";
+          setSelected(visibleIssues()[0]);
+          renderChannels();
+          renderTicker();
+          rebuildSignals();
+        };
+      });
+    }
+
+    function renderBars() {
+      const years = [];
+      for (let y = stats.year_min; y <= stats.year_max; y++) years.push(y);
+      barsEl.style.setProperty("--years", years.length);
+      const byYear = Object.fromEntries(stats.yearly.map(row => [row.year, row.total]));
+      const max = Math.max(...stats.yearly.map(row => row.total));
+      barsEl.innerHTML = years.map(year => `<i style="--h:${Math.max(5, (byYear[year] || 0) / max * 28)}px"></i>`).join("");
+    }
+
+    function renderTicker() {
+      const list = visibleIssues().slice(0, 18);
+      tickerEl.innerHTML = list.map(issue => {
+        const status = issueStatus(issue);
+        return `<div class="ticker-line" data-status="${safe(status.kind)}"><b>${issue.year}</b><span>${safe(issue.title)}</span><em>${safe(status.label)}</em></div>`;
+      }).join("");
+    }
+
+    function setSelected(issue) {
+      selected = issue || visibleIssues()[0] || stats.issues[0];
+      const series = stats.series.find(item => item.collection === selected.collection);
+      const status = issueStatus(selected);
+      document.getElementById("issueSeries").textContent = selected.collection;
+      document.getElementById("issueYear").textContent = [selected.year, selected.season].filter(Boolean).join(" ");
+      document.getElementById("issueTitle").textContent = selected.title;
+      document.getElementById("issueCover").src = coverPath(selected);
+      const statusBadge = document.getElementById("issueStatus");
+      statusBadge.textContent = status.label;
+      statusBadge.dataset.status = status.kind;
+      document.getElementById("issuePath").textContent = status.path;
+      const entries = readableSections(selected);
+      const topicLine = (selected.topics || []).slice(0, 4).join(" / ");
+      document.getElementById("issueSummary").textContent = entries.length
+        ? `${status.note} ${series?.role || "这一期"}。可先从「${entries.join("」「")}」进入；${topicLine ? `主题信号集中在「${topicLine}」。` : "它更像一组等待继续深读的档案信号。"}`
+        : `${status.note} ${series?.summary || "索引里暂无稳定目录入口"}`;
+      document.getElementById("issueTape").textContent = `route: ${status.label} · signals: ${(selected.topics || []).join(" / ") || "--"} · pages: ${selected.pages || "--"} · archive id: ${selected.identifier || "--"}`;
+      const mapLink = document.getElementById("mapLink");
+      mapLink.href = readingMapUrl(selected);
+      mapLink.textContent = status.action;
+      mapLink.dataset.status = status.kind;
+      const scanLink = document.getElementById("scanLink");
+      scanLink.href = archiveUrl(selected);
+      scanLink.textContent = "Open Archive Scan";
+      issueMeshes.forEach(mesh => {
+        const isSelected = mesh.userData.issue.identifier === selected.identifier;
+        const focused = isFocusedIssue(mesh.userData.issue);
+        mesh.userData.focused = focused;
+        mesh.material.opacity = isSelected ? 1 : focused ? 0.82 : 0.16;
+        mesh.scale.setScalar(isSelected ? 3 : focused ? 1.22 : 0.42);
+      });
+      updateSelectedMarker();
+    }
+
+    function setYearLock(year) {
+      lockedYear = year;
+      const label = year ? String(year) : "ALL";
+      document.getElementById("yearNumber").innerHTML = `${label}<span>turn to tune archive year</span>`;
+      document.getElementById("lockReadout").textContent = year ? `YEAR ${year}` : "YEAR FREE";
+      allYearsEl.classList.toggle("active", !year);
+      lockYearEl.classList.toggle("active", !!year);
+      setSelected(visibleIssues()[0]);
+      renderTicker();
+      rebuildSignals();
+    }
+
+    function updateKnob(year) {
+      const pct = (year - stats.year_min) / (stats.year_max - stats.year_min);
+      knobEl.style.setProperty("--knob-angle", `${-140 + pct * 280}deg`);
+      needleEl.style.setProperty("--needle", `${pct * 100}%`);
+      if (!lockedYear) {
+        document.getElementById("yearNumber").innerHTML = `ALL<span>tuned near ${year}</span>`;
+      }
+    }
+
+    function updateSelectedMarker() {
+      const mesh = issueMeshes.find(item => item.userData.issue.identifier === selected?.identifier);
+      if (!mesh) {
+        selectedMarker.visible = false;
+        selectedBeam.visible = false;
+        return;
+      }
+      selectedMarker.visible = true;
+      selectedBeam.visible = true;
+      selectedMarker.position.copy(mesh.position);
+      selectedMarker.lookAt(camera.position);
+      selectedBeam.geometry.setFromPoints([new THREE.Vector3(0, 0, 0), mesh.position.clone()]);
+    }
+
+    function resize() {
+      const rect = screen.getBoundingClientRect();
+      renderer.setSize(Math.max(1, rect.width), Math.max(1, rect.height), false);
+      camera.aspect = Math.max(1, rect.width) / Math.max(1, rect.height);
+      camera.updateProjectionMatrix();
+    }
+
+    function animate() {
+      frame += autoScan ? 0.011 : 0.003;
+      earthGroup.rotation.y += autoScan ? 0.0038 : 0.001;
+      earthGroup.rotation.x = Math.sin(frame * 0.4) * 0.04;
+      if (cloudLayer) cloudLayer.rotation.y -= autoScan ? 0.0013 : 0.0004;
+      if (cityLightsLayer) cityLightsLayer.rotation.y += autoScan ? 0.00025 : 0.00008;
+      if (radarGroup) radarGroup.rotation.z -= autoScan ? 0.012 : 0.004;
+      if (stars) stars.rotation.y += 0.0005;
+      signalGroup.rotation.y = Math.sin(frame * 0.14) * 0.09;
+      issueMeshes.forEach(mesh => {
+        const data = mesh.userData;
+        const a = data.angle + frame * data.speed;
+        const position = new THREE.Vector3(
+          Math.cos(a) * data.radius,
+          Math.sin(frame * 1.7 + data.bob) * .08,
+          Math.sin(a) * data.radius * 0.72
+        );
+        position.applyEuler(new THREE.Euler(data.tilt, 0, 0.05, "XYZ"));
+        if (mesh.userData.issue.identifier === selected?.identifier) {
+          const lift = camera.position.clone().sub(position).normalize().multiplyScalar(0.24);
+          position.add(lift);
+          position.x += 0.18;
+          position.y -= 0.08;
+        }
+        mesh.position.copy(position);
+        mesh.lookAt(camera.position);
+        mesh.rotation.z = Math.sin(frame + data.bob) * 0.045;
+      });
+      updateSelectedMarker();
+      if (selectedMarker?.visible) {
+        selectedMarker.scale.setScalar(1 + Math.sin(frame * 5) * .16);
+      }
+      renderer.render(scene, camera);
+      requestAnimationFrame(animate);
+    }
+
+    const raycaster = new THREE.Raycaster();
+    const pointer = new THREE.Vector2();
+    canvas.addEventListener("pointerdown", event => {
+      const rect = canvas.getBoundingClientRect();
+      pointer.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
+      pointer.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
+      raycaster.setFromCamera(pointer, camera);
+      const hit = raycaster.intersectObjects(issueMeshes, false)[0];
+      if (hit) {
+        const issue = hit.object.userData.issue;
+        if (selected?.identifier === issue.identifier) {
+          window.location.href = readingMapUrl(issue);
+        } else {
+          setSelected(issue);
+        }
+      }
+    });
+
+    rangeEl.addEventListener("input", () => {
+      const year = Number(rangeEl.value);
+      updateKnob(year);
+      if (lockedYear) setYearLock(year);
+    });
+    allYearsEl.onclick = () => setYearLock(null);
+    lockYearEl.onclick = () => setYearLock(Number(rangeEl.value));
+    autoScanEl.onclick = () => {
+      autoScan = !autoScan;
+      autoScanEl.classList.toggle("active", autoScan);
+    };
+    document.getElementById("mapLink").addEventListener("click", event => {
+      if (!selected) return;
+      event.preventDefault();
+      window.location.href = readingMapUrl(selected);
+    });
+
+    async function boot() {
+      stats = await fetch("../data/wholeearth_macro_stats.json").then(response => response.json());
+      coverManifest = (await fetch("../assets/covers_manifest.json").then(response => response.json())).covers || {};
+      const featuredIssue = stats.issues.find(issue => issue.identifier === featuredIdentifier) || stats.issues[0];
+      document.getElementById("rangeReadout").textContent = `RANGE ${stats.year_min}-${stats.year_max}`;
+      rangeEl.min = stats.year_min;
+      rangeEl.max = stats.year_max;
+      rangeEl.value = featuredIssue?.year || 1974;
+      makeEarth();
+      renderChannels();
+      renderBars();
+      renderTicker();
+      rebuildSignals();
+      setSelected(featuredIssue);
+      updateKnob(Number(rangeEl.value));
+      resize();
+      animate();
+    }
+
+    addEventListener("resize", resize);
+    boot();
+  </script>
+</body>
+</html>
