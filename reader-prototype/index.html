@@ -284,6 +284,47 @@
     margin-bottom: 10px;
   }
   .entry-meta a { color: var(--blue-deep); text-decoration: none; border-bottom: 1px dotted var(--blue); cursor: pointer; }
+  .book-links {
+    margin: -4px 0 14px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .book-links summary {
+    display: inline-block;
+    list-style: none;
+    cursor: pointer;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--blue-deep);
+    border-bottom: 1px dotted var(--blue);
+  }
+  .book-links summary::-webkit-details-marker { display: none; }
+  .book-links summary::after {
+    content: " +";
+    color: var(--muted);
+  }
+  .book-links[open] summary::after { content: " −"; }
+  .book-links ul {
+    margin: 7px 0 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    gap: 4px;
+  }
+  .book-links li {
+    line-height: 1.55;
+  }
+  .book-links .book-title {
+    color: #4d4535;
+    margin-right: 6px;
+  }
+  .book-links a {
+    color: var(--blue-deep);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--blue);
+    margin-right: 6px;
+    white-space: nowrap;
+  }
   section.entry p { margin: 0 0 14px; font-size: 15.5px; }
   section.entry p.li { margin: 0 0 6px; padding-left: 1em; color: #4d4535; }
   section.entry blockquote {
@@ -459,6 +500,19 @@
       " · <a data-leaf='" + sec.leaf + "'>看原页</a></div>";
   }
 
+  function bookLinks(sec) {
+    if (!Array.isArray(sec.bibliography_links) || !sec.bibliography_links.length) return "";
+    const count = sec.bibliography_links.length;
+    const rows = sec.bibliography_links.map(item => {
+      const links = (item.links || []).map(link =>
+        "<a href=\"" + escapeHtml(link.url) + "\" target=\"_blank\" rel=\"noopener noreferrer\">" +
+        escapeHtml(link.label || link.provider || "link") + "</a>"
+      ).join("");
+      return "<li><span class='book-title'>" + escapeHtml(item.title) + "</span>" + links + "</li>";
+    }).join("");
+    return "<details class='book-links'><summary>相关书目 " + count + "</summary><ul>" + rows + "</ul></details>";
+  }
+
   function renderSection(sec, chap) {
     const el = document.createElement("section");
     el.className = "entry";
@@ -467,7 +521,7 @@
     el.dataset.chapter = chap.id;
     const meta = entryMeta(sec);
     const heading = sec.title === chap.title ? "" : "<h3>" + escapeHtml(sec.title) + "</h3>";
-    el.innerHTML = heading + meta + sec.html;
+    el.innerHTML = heading + meta + bookLinks(sec) + sec.html;
     return el;
   }
 

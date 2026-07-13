@@ -21,6 +21,7 @@ ROOT = HERE.parent
 TRANSLATION_ROOT = ROOT / "content" / "translations" / "wholeearthepilog00unse"
 STATUS_PATH = TRANSLATION_ROOT / "status.jsonl"
 LEAF_DIR = TRANSLATION_ROOT / "leaves"
+LINK_INDEX_PATH = ROOT / "data" / "bibliography" / "1974_whole_earth_epilog_links.json"
 OUT = HERE / "data" / "epilog_reader.json"
 
 SECTION_TITLES = {
@@ -51,8 +52,8 @@ READER_GUIDE_SECTIONS = [
     {
         "title": "阅读方式",
         "html": (
-            "<p>每章开头有一段导读，帮助你先抓住这一章的主题。目录默认收起，展开后可以直接跳到本章条目；原书自带的目录页也被保留在折叠区里，需要时再查看。</p>"
-            "<p>如果只想浏览，可以从章节导读和本章目录进入；如果想细读，可以顺着正文逐页读，并随时对照左侧扫描页。</p>"
+            "<p>每章开头有一段导读，帮助你先抓住这一章的主题。目录默认收起，展开后可以直接跳到本章条目。</p>"
+            "<p>如果只想浏览，可以从章节导读和本章条目进入；如果想细读，可以顺着正文逐页读，并随时对照左侧扫描页。部分已核实的书籍和出版物会在条目下方提供外部书目链接。</p>"
         ),
     },
 ]
@@ -343,6 +344,72 @@ def load_status() -> list[dict]:
     return rows
 
 
+def provider_label(provider: str) -> str:
+    labels = {
+        "openlibrary": "Open Library",
+        "internet_archive": "Internet Archive",
+    }
+    return labels.get(provider, provider)
+
+
+def compact_links(links: list[dict]) -> list[dict]:
+    compacted = []
+    seen_urls = set()
+    ia_count = 0
+    sorted_links = sorted(links, key=lambda link: 0 if link.get("provider") == "openlibrary" else 1)
+    for link in sorted_links:
+        url = link.get("url")
+        provider = link.get("provider", "")
+        if not url or url in seen_urls:
+            continue
+        if provider == "internet_archive":
+            ia_count += 1
+            if ia_count > 2:
+                continue
+        seen_urls.add(url)
+        compacted.append(
+            {
+                "provider": provider,
+                "label": provider_label(provider),
+                "url": url,
+            }
+        )
+        if len(compacted) >= 3:
+            break
+    return compacted
+
+
+def load_bibliography_links() -> dict[int, list[dict]]:
+    if not LINK_INDEX_PATH.exists():
+        return {}
+    data = json.loads(LINK_INDEX_PATH.read_text())
+    by_leaf: dict[int, list[dict]] = {}
+    seen = set()
+    for item in data.get("items", []):
+        if item.get("status") != "confirmed" or not item.get("links"):
+            continue
+        links = compact_links(item["links"])
+        if not links:
+            continue
+        for mention in item.get("source_mentions", []):
+            leaf = mention.get("leaf")
+            if leaf is None or mention.get("section") == "Business / Index":
+                continue
+            key = (leaf, item["title"])
+            if key in seen:
+                continue
+            seen.add(key)
+            by_leaf.setdefault(leaf, []).append(
+                {
+                    "title": item["title"],
+                    "links": links,
+                }
+            )
+    for items in by_leaf.values():
+        items.sort(key=lambda item: item["title"].lower())
+    return by_leaf
+
+
 def is_source_toc(section: str, leaf: int, body: str) -> bool:
     if section == "Front Matter":
         return False
@@ -364,6 +431,7 @@ def toc_entry(section: dict) -> dict:
 
 def build_payload(rows: list[dict]) -> dict:
     grouped: dict[str, list[dict]] = {key: [] for key in SECTION_ORDER}
+    bibliography_by_leaf = load_bibliography_links()
     for row in rows:
         grouped.setdefault(row["section"], []).append(row)
 
@@ -380,6 +448,7 @@ def build_payload(rows: list[dict]) -> dict:
             path = LEAF_DIR / f"leaf_{leaf:03d}.md"
             raw_body = final_translation(path.read_text(), leaf)
             title, body = split_display_title(raw_body, SECTION_TITLES[section])
+            source_toc = is_source_toc(section, leaf, raw_body)
             section_payload = {
                 "title": title,
                 "display_leaf_label": entry_title(row),
@@ -394,7 +463,9 @@ def build_payload(rows: list[dict]) -> dict:
                 "review_path": row.get("review_path"),
                 "translation_path": row.get("translation_path"),
             }
-            if is_source_toc(section, leaf, raw_body):
+            if not source_toc and bibliography_by_leaf.get(leaf):
+                section_payload["bibliography_links"] = bibliography_by_leaf[leaf]
+            if source_toc:
                 source_toc_sections.append(section_payload)
             else:
                 sections.append(section_payload)
