@@ -11,7 +11,7 @@
 - retrieval units: 659
 - retrieval unit counts: {'bibliography': 216, 'chapter': 121, 'page': 322}
 - bibliography status counts: {'confirmed': 140, 'not_linked_ambiguous_title': 13, 'not_linked_candidate_mismatch': 26, 'not_linked_no_reliable_match': 8, 'not_linked_source_not_located': 29}
-- page QA flags: {'cover_or_back_matter': 6, 'layout_risk': 216, 'ocr_risk': 142, 'scan_required': 218, 'short_text_or_image_page': 4}
+- page QA flags: {'cover_or_back_matter': 6, 'dense_ocr_page': 104, 'layout_risk': 216, 'ocr_risk': 141, 'scan_required': 218, 'short_text_or_image_page': 2}
 - scan URL format issues: none
 
 ## Source Boundary

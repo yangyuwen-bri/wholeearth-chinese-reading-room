@@ -1,6 +1,6 @@
 {
   "schema_version": "issue-agent-bundle-v1",
-  "generated_at": "2026-07-06T12:15:28Z",
+  "generated_at": "2026-07-08T13:38:32Z",
   "issue_id": "wholeearthepilog00unse",
   "title": "Whole Earth Epilog, October 1974",
   "bundle_path": "data/issue_agents/wholeearthepilog00unse",
@@ -9,7 +9,7 @@
     "chapters": 121,
     "bibliography": 216,
     "retrieval_units": 659,
-    "page_review_records": 221
+    "page_review_records": 226
   },
   "outputs": {
     "manifest": "data/issue_agents/wholeearthepilog00unse/manifest.json",
@@ -23,15 +23,20 @@
     "qa_report": "data/issue_agents/wholeearthepilog00unse/qa_report.md"
   },
   "source_paths": {
+    "full_translation": "content/translations/wholeearthepilog00unse",
+    "reader_data": "reader-prototype/data/epilog_reader.json",
     "chapter_translation": "content/readings/1974_whole_earth_epilog_chapter_translation_zh.md",
     "page_level_reading": "content/readings/1974_whole_earth_epilog_page_level_chinese_reading.md",
-    "page_dossier": "_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json",
+    "official_djvu_xml": "_local/legacy/work/wholeearth/page_xml/wholeearthepilog00unse_djvu.xml",
+    "page_dossier_fallback": "_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json",
     "bibliography_json": "data/bibliography/1974_whole_earth_epilog_links.json",
     "evidence_dossier": "data/evidence_dossiers/issues/whole-earth-epilog-october-1974.json"
   },
   "runtime_notes": [
+    "The public Chinese reading room is now generated from full_translation, not from the older content/readings summary drafts.",
     "This bundle is the standard reference layer for an Epilog issue agent.",
     "Embeddings, vector caches, and chat transcripts should be generated outside this tracked bundle, normally under _local/.",
-    "The agent must cite leaf/page/scan evidence and must not represent Chinese reading notes as a verbatim full-text translation."
+    "The agent must cite leaf/page/scan evidence and must not represent Chinese reading notes as a verbatim full-text translation.",
+    "For Epilog OCR, use Internet Archive public page order: djvu.xml OBJECT index == /page/n{leaf}; PARAM PAGE and scandata leafNum are internal scan-file coordinates."
   ]
 }

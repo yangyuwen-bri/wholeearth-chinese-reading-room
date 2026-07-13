@@ -1,16 +1,22 @@
 #!/usr/bin/env python3
-"""Build the issue-agent knowledge bundle for Whole Earth Epilog.
+"""Build the legacy issue-agent knowledge bundle for Whole Earth Epilog.
 
 The bundle is a structured, reader-facing reference layer for a future chat
 agent. It does not call a model or create embeddings. It normalizes the existing
 Epilog editorial work into page, chapter, bibliography, and retrieval records
 with stable IDs and source citations.
+
+This script still uses the older content/readings summaries. The public Chinese
+reading room is now generated from leaf-level translations under
+content/translations/wholeearthepilog00unse via
+reader-prototype/build_translation_reader_data.py.
 """
 
 from __future__ import annotations
 
 import json
 import re
+import xml.etree.ElementTree as ET
 from collections import Counter
 from datetime import UTC, datetime
 from pathlib import Path
@@ -32,7 +38,9 @@ CHAPTER_SOURCE = ROOT / "content/readings/1974_whole_earth_epilog_chapter_transl
 PAGE_SOURCE = ROOT / "content/readings/1974_whole_earth_epilog_page_level_chinese_reading.md"
 BIB_SOURCE = ROOT / "data/bibliography/1974_whole_earth_epilog_links.json"
 DOSSIER_SOURCE = ROOT / "_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json"
+OFFICIAL_DJVU_XML_SOURCE = ROOT / "_local/legacy/work/wholeearth/page_xml/wholeearthepilog00unse_djvu.xml"
 EVIDENCE_DOSSIER_SOURCE = ROOT / "data/evidence_dossiers/issues/whole-earth-epilog-october-1974.json"
+OCR_SUPPLEMENT_DIR = ROOT / "data/ocr_supplements" / ISSUE_ID
 
 OUTPUTS = {
     "manifest": BUNDLE_DIR / "manifest.json",
@@ -47,17 +55,17 @@ OUTPUTS = {
 }
 
 SECTION_RANGES = [
-    ("Front Matter", "入口与方法", 0, 4),
-    ("Whole Systems", "整体系统", 5, 25),
-    ("Land Use", "土地使用", 26, 57),
-    ("Shelter", "住所", 58, 77),
-    ("Soft Technology", "软技术", 78, 97),
-    ("Craft", "手艺", 98, 127),
-    ("Community", "共同体", 128, 185),
-    ("Nomadics", "游牧", 186, 221),
-    ("Communications", "通信", 222, 261),
-    ("Learning", "学习", 262, 301),
-    ("Business / Index", "出版业务、索引与封底", 302, 321),
+    ("Front Matter", "入口与方法", 0, 2),
+    ("Whole Systems", "整体系统", 3, 24),
+    ("Land Use", "土地使用", 25, 56),
+    ("Shelter", "住所", 57, 76),
+    ("Soft Technology", "软技术", 77, 96),
+    ("Craft", "手艺", 97, 126),
+    ("Community", "共同体", 127, 184),
+    ("Nomadics", "游牧", 185, 220),
+    ("Communications", "通信", 221, 260),
+    ("Learning", "学习", 261, 300),
+    ("Business / Index", "出版业务、索引与封底", 301, 321),
 ]
 
 QA_PATTERNS = {
@@ -102,7 +110,9 @@ def section_for_leaf(leaf: int) -> dict[str, Any]:
 
 
 def printed_page_for_leaf(leaf: int) -> str | None:
-    if 5 <= leaf <= 320:
+    if leaf == 2:
+        return "450"
+    if 3 <= leaf <= 319:
         return str(leaf + PRINTED_PAGE_OFFSET)
     return None
 
@@ -137,6 +147,52 @@ def qa_flags_for_text(text: str, raw_lines: list[str]) -> list[str]:
     if len(" ".join(raw_lines)) > 9000:
         flags.append("dense_ocr_page")
     return sorted(set(flags))
+
+
+def lines_from_djvu_object(obj: ET.Element) -> list[str]:
+    lines = []
+    for line in obj.findall(".//LINE"):
+        words = [word.text for word in line.findall("WORD") if word.text]
+        text = compact_text(" ".join(words))
+        if text:
+            lines.append(text)
+    return lines
+
+
+def supplement_ocr(leaf: int) -> tuple[list[str], str | None]:
+    for path in [OCR_SUPPLEMENT_DIR / f"leaf_{leaf:03d}.txt", OCR_SUPPLEMENT_DIR / f"leaf_{leaf}.txt"]:
+        if path.exists():
+            lines = [compact_text(line) for line in path.read_text(encoding="utf-8", errors="replace").splitlines()]
+            return [line for line in lines if line], str(path.relative_to(ROOT))
+    return [], None
+
+
+def load_page_ocr_source() -> tuple[dict[int, dict[str, Any]], str]:
+    if OFFICIAL_DJVU_XML_SOURCE.exists():
+        root = ET.parse(OFFICIAL_DJVU_XML_SOURCE).getroot()
+        pages = {}
+        for leaf, obj in enumerate(root.findall(".//OBJECT")):
+            if leaf > CONTENT_LEAF_MAX:
+                continue
+            lines = lines_from_djvu_object(obj)
+            supplement_path = None
+            if not lines:
+                lines, supplement_path = supplement_ocr(leaf)
+            pages[leaf] = {
+                "leaf": leaf,
+                "access_index": leaf,
+                "image_url": f"https://archive.org/download/{ISSUE_ID}/page/n{leaf}_w500.jpg",
+                "lines": lines,
+                "ocr_supplement": supplement_path,
+            }
+        return pages, str(OFFICIAL_DJVU_XML_SOURCE.relative_to(ROOT))
+
+    pages = {
+        int(page["leaf"]): page
+        for page in read_json(DOSSIER_SOURCE)["pages"]
+        if int(page["leaf"]) <= CONTENT_LEAF_MAX
+    }
+    return pages, str(DOSSIER_SOURCE.relative_to(ROOT))
 
 
 def parse_page_level_reading() -> tuple[dict[int, dict[str, Any]], dict[int, str]]:
@@ -183,16 +239,12 @@ def parse_page_level_reading() -> tuple[dict[int, dict[str, Any]], dict[int, str
 
 def build_pages() -> list[dict[str, Any]]:
     page_notes, _ = parse_page_level_reading()
-    source_pages = {
-        int(page["leaf"]): page
-        for page in read_json(DOSSIER_SOURCE)["pages"]
-        if int(page["leaf"]) <= CONTENT_LEAF_MAX
-    }
+    source_pages, ocr_source_path = load_page_ocr_source()
     records = []
-    for leaf in sorted(set(source_pages) | set(page_notes)):
+    for leaf in sorted(set(range(CONTENT_LEAF_MAX + 1)) | set(page_notes)):
         if leaf > CONTENT_LEAF_MAX:
             continue
-        page = source_pages.get(leaf, {"leaf": leaf, "lines": []})
+        page = source_pages.get(leaf, {"leaf": leaf, "lines": [], "access_index": leaf})
         note = page_notes.get(leaf, {})
         lines = page.get("lines") or []
         raw_ocr = "\n".join(lines).strip()
@@ -210,7 +262,7 @@ def build_pages() -> list[dict[str, Any]]:
             },
             "page": {
                 "leaf": leaf,
-                "access_index": page.get("access_index"),
+                "access_index": leaf,
                 "printed_page": printed_page,
                 "scan_url": scan_url,
                 **section,
@@ -236,7 +288,8 @@ def build_pages() -> list[dict[str, Any]]:
             "evidence": {
                 "scan_url": scan_url,
                 "source_paths": {
-                    "page_dossier": str(DOSSIER_SOURCE.relative_to(ROOT)),
+                    "page_ocr": ocr_source_path,
+                    **({"ocr_supplement": page["ocr_supplement"]} if page.get("ocr_supplement") else {}),
                     "page_level_reading": str(PAGE_SOURCE.relative_to(ROOT)),
                 },
             },
@@ -355,7 +408,7 @@ def leaf_range_for_chapter(title: str) -> tuple[int | None, int | None]:
         if section_zh in title or section_en in title:
             return start, end
     if "封面" in title or "开篇" in title or "使用说明" in title:
-        return 0, 4
+        return 0, 2
     if "出版" in title or "索引" in title or "封底" in title:
         return 302, 321
     return None, None
@@ -552,10 +605,12 @@ def build_issue_profile(pages: list[dict[str, Any]], bibliography: list[dict[str
         "source_paths": {
             "chapter_translation": str(CHAPTER_SOURCE.relative_to(ROOT)),
             "page_level_reading": str(PAGE_SOURCE.relative_to(ROOT)),
-            "page_dossier": str(DOSSIER_SOURCE.relative_to(ROOT)),
+            "official_djvu_xml": str(OFFICIAL_DJVU_XML_SOURCE.relative_to(ROOT)),
+            "page_dossier_fallback": str(DOSSIER_SOURCE.relative_to(ROOT)),
             "bibliography_json": str(BIB_SOURCE.relative_to(ROOT)),
             "evidence_dossier": str(EVIDENCE_DOSSIER_SOURCE.relative_to(ROOT)),
         },
+        "ocr_page_audit": evidence.get("ocr_page_audit"),
         "bibliography_status_counts": dict(sorted(bib_counts.items())),
         "editorial_status": {
             "page_coverage": "322/322 leaves",
@@ -591,7 +646,8 @@ def build_manifest(
         "source_paths": {
             "chapter_translation": str(CHAPTER_SOURCE.relative_to(ROOT)),
             "page_level_reading": str(PAGE_SOURCE.relative_to(ROOT)),
-            "page_dossier": str(DOSSIER_SOURCE.relative_to(ROOT)),
+            "official_djvu_xml": str(OFFICIAL_DJVU_XML_SOURCE.relative_to(ROOT)),
+            "page_dossier_fallback": str(DOSSIER_SOURCE.relative_to(ROOT)),
             "bibliography_json": str(BIB_SOURCE.relative_to(ROOT)),
             "evidence_dossier": str(EVIDENCE_DOSSIER_SOURCE.relative_to(ROOT)),
         },
@@ -599,6 +655,7 @@ def build_manifest(
             "This bundle is the standard reference layer for an Epilog issue agent.",
             "Embeddings, vector caches, and chat transcripts should be generated outside this tracked bundle, normally under _local/.",
             "The agent must cite leaf/page/scan evidence and must not represent Chinese reading notes as a verbatim full-text translation.",
+            "For Epilog OCR, use Internet Archive public page order: djvu.xml OBJECT index == /page/n{leaf}; PARAM PAGE and scandata leafNum are internal scan-file coordinates.",
         ],
     }
 

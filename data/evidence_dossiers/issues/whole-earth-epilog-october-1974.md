@@ -6,23 +6,34 @@
 - OCR: `_local/legacy/work/wholeearth/ocr/wholeearthepilog00unse_djvu.txt`, 2643421 chars
 - archive: https://archive.org/details/wholeearthepilog00unse
 
-## Page Markers
-- p.1 line 2350: EUGENE AVERY | https://archive.org/download/wholeearthepilog00unse/page/n2_w500.jpg
-- p.22 line 13452: OCTOBER 1969 | https://archive.org/download/wholeearthepilog00unse/page/n23_w500.jpg
-- p.3 line 21773: MEASURES MORTAR SANO | https://archive.org/download/wholeearthepilog00unse/page/n4_w500.jpg
-- p.6 line 21792: MEASURES MORTAR SAND | https://archive.org/download/wholeearthepilog00unse/page/n7_w500.jpg
-- p.4 line 24481: QUEEN ANSE | https://archive.org/download/wholeearthepilog00unse/page/n5_w500.jpg
-- p.7 line 30187: SPLIT G.R.P. FEMALE MOULD | https://archive.org/download/wholeearthepilog00unse/page/n8_w500.jpg
-- p.562 line 36111: WEAVING | https://archive.org/download/wholeearthepilog00unse/page/n563_w500.jpg
-- p.55 line 49458: E. 300 S. | https://archive.org/download/wholeearthepilog00unse/page/n56_w500.jpg
-- p.660 line 69594: CAMPING | https://archive.org/download/wholeearthepilog00unse/page/n661_w500.jpg
-- p.35 line 76726: LBS. | https://archive.org/download/wholeearthepilog00unse/page/n36_w500.jpg
-- p.120 line 84836: INPUT P | https://archive.org/download/wholeearthepilog00unse/page/n121_w500.jpg
-- p.140 line 84840: INPUT R | https://archive.org/download/wholeearthepilog00unse/page/n141_w500.jpg
-- p.160 line 84844: INPUT N | https://archive.org/download/wholeearthepilog00unse/page/n161_w500.jpg
-- p.180 line 84848: PRINT | https://archive.org/download/wholeearthepilog00unse/page/n181_w500.jpg
-- p.15 line 89902: BUS DIREC | https://archive.org/download/wholeearthepilog00unse/page/n16_w500.jpg
-- p.2 line 102353: BD-4 298 | https://archive.org/download/wholeearthepilog00unse/page/n3_w500.jpg
+## OCR Page Audit
+- page OCR: `_local/legacy/work/wholeearth/page_xml/wholeearthepilog00unse_djvu.xml`
+- coordinate rule: Internet Archive public page order: djvu.xml OBJECT index == /page/n{leaf}. Do not use PARAM PAGE as Archive leaf.
+- pages: 322
+- total OCR words: 430766
+- empty leafs: [313, 317]
+- short leafs: leaf 0 (26 words), leaf 313 (0 words), leaf 317 (0 words), leaf 320 (12 words), leaf 321 (7 words)
+- supplemental OCR: leaf 313 (2396 words, `data/ocr_supplements/wholeearthepilog00unse/leaf_313.txt`), leaf 317 (2268 words, `data/ocr_supplements/wholeearthepilog00unse/leaf_317.txt`)
+- note: Official OCR is suitable as translation draft input, but scan review is required for dense multi-column pages, index pages, tables, captions, and very short OCR pages.
+
+## OCR Line Heuristics
+These are full-text OCR line heuristics for search only; they are not verified page anchors.
+- p.1 line 2350: EUGENE AVERY (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.22 line 13452: OCTOBER 1969 (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.3 line 21773: MEASURES MORTAR SANO (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.6 line 21792: MEASURES MORTAR SAND (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.4 line 24481: QUEEN ANSE (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.7 line 30187: SPLIT G.R.P. FEMALE MOULD (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.562 line 36111: WEAVING (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.55 line 49458: E. 300 S. (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.660 line 69594: CAMPING (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.35 line 76726: LBS. (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.120 line 84836: INPUT P (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.140 line 84840: INPUT R (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.160 line 84844: INPUT N (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.180 line 84848: PRINT (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.15 line 89902: BUS DIREC (Full-text OCR line heuristic only; not a verified Archive page anchor.)
+- p.2 line 102353: BD-4 298 (Full-text OCR line heuristic only; not a verified Archive page anchor.)
 
 ## Candidate Headings
 - line 2350: 1 EUGENE AVERY

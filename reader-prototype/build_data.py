@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Build reader JSON for the 1974 Epilog 对照阅读器.
+"""Legacy summary builder for the 1974 Epilog 对照阅读器.
+
+The production Chinese reading room now uses build_translation_reader_data.py,
+which is based on leaf-level faithful translations under content/translations.
+This older script is kept only for historical comparison of the previous
+summarized reading draft.
 
 Read-only inputs (never modified):
 - content/readings/1974_whole_earth_epilog_chapter_translation_zh.md
@@ -14,6 +19,7 @@ from __future__ import annotations
 import html
 import json
 import re
+import sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -294,6 +300,13 @@ def apply_anchor_audit(chapters: list[dict]) -> None:
 
 
 def main() -> None:
+    if "--legacy" not in sys.argv:
+        raise SystemExit(
+            "build_data.py is legacy and would rebuild the old summarized reader. "
+            "Use build_translation_reader_data.py for the Chinese reading room, "
+            "or pass --legacy for historical comparison."
+        )
+
     chapters = parse_markdown(TRANSLATION)
     assign_leaves(chapters)
     apply_anchor_audit(chapters)
@@ -325,6 +338,10 @@ def main() -> None:
         "leaf_min": 0,
         "leaf_total": 321,
         "printed_page_offset": 449,
+        "printed_page_rules": [
+            {"leaf_start": 2, "leaf_end": 2, "printed_start": 450},
+            {"leaf_start": 3, "leaf_end": 319, "printed_start": 452},
+        ],
         "preface": {"title": "导读", "sections": preface_sections},
         "chapters": chapters,
         "lenses": LENSES,

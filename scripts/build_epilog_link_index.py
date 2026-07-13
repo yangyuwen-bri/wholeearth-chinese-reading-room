@@ -4,6 +4,10 @@
 The script is intentionally conservative. It only promotes a link when the
 original issue text contains the title and the external bibliographic record
 matches the title closely enough to support reader-facing use.
+
+Legacy note: this script reads the older content/readings summary draft. The
+Chinese reading room itself is now generated from leaf-level translations under
+content/translations/wholeearthepilog00unse.
 """
 
 from __future__ import annotations
@@ -20,7 +24,10 @@ from typing import Any
 
 ROOT = Path(__file__).resolve().parents[1]
 ZH_PATH = ROOT / "content/readings/1974_whole_earth_epilog_chapter_translation_zh.md"
-PAGES_PATH = ROOT / "_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json"
+PAGES_PATHS = [
+    ROOT / "_local/page_dossiers/wholeearthepilog00unse/pages.json",
+    ROOT / "_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json",
+]
 JSON_OUT = ROOT / "data/bibliography/1974_whole_earth_epilog_links.json"
 MD_OUT = ROOT / "content/readings/1974_whole_earth_epilog_bibliography_links.md"
 
@@ -31,9 +38,11 @@ PRINTED_PAGE_OFFSET = 449
 
 
 SECTION_RANGES = [
-    ("Whole Systems", 0, 56),
-    ("Land Use", 57, 96),
-    ("Shelter", 97, 126),
+    ("Front Matter", 0, 2),
+    ("Whole Systems", 3, 24),
+    ("Land Use", 25, 56),
+    ("Shelter", 57, 76),
+    ("Soft Technology", 77, 96),
     ("Craft", 97, 126),
     ("Community", 127, 184),
     ("Nomadics", 185, 220),
@@ -382,9 +391,19 @@ def section_for_leaf(leaf: int) -> str:
 
 
 def printed_page_for_leaf(leaf: int) -> str | None:
-    if 5 <= leaf <= 320:
+    if leaf == 2:
+        return "450"
+    if 3 <= leaf <= 319:
         return str(leaf + PRINTED_PAGE_OFFSET)
     return None
+
+
+def load_pages() -> list[dict[str, Any]]:
+    for path in PAGES_PATHS:
+        if path.exists():
+            return json.loads(path.read_text())["pages"]
+    searched = ", ".join(str(path.relative_to(ROOT)) for path in PAGES_PATHS)
+    raise FileNotFoundError(f"No Epilog page dossier found. Searched: {searched}")
 
 
 def extract_titles() -> list[str]:
@@ -663,7 +682,7 @@ def build_markdown(payload: dict[str, Any]) -> str:
 
 
 def main() -> None:
-    pages = json.loads(PAGES_PATH.read_text())["pages"]
+    pages = load_pages()
     titles = extract_titles()
     items = []
     for index, title in enumerate(titles, 1):

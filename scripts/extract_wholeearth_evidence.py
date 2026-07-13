@@ -5,6 +5,7 @@ import json
 import re
 import shutil
 import time
+import xml.etree.ElementTree as ET
 from collections import Counter
 from pathlib import Path
 
@@ -14,6 +15,7 @@ WORK = LOCAL / "legacy" / "work" / "wholeearth"
 GUIDES = ROOT / "data" / "issue_index.json"
 EVIDENCE = ROOT / "data" / "evidence_dossiers"
 ISSUES = EVIDENCE / "issues"
+OCR_SUPPLEMENTS = ROOT / "data" / "ocr_supplements"
 
 THEMES = {
     "software_computing": [
@@ -61,6 +63,16 @@ def slugify(value: str) -> str:
 
 def ocr_path(identifier: str) -> Path | None:
     for path in [WORK / "ocr" / f"{identifier}_djvu.txt", WORK / f"{identifier}_djvu.txt"]:
+        if path.exists():
+            return path
+    return None
+
+
+def page_xml_path(identifier: str) -> Path | None:
+    for path in [
+        WORK / "page_xml" / f"{identifier}_djvu.xml",
+        ROOT / "_local" / "page_xml" / f"{identifier}_djvu.xml",
+    ]:
         if path.exists():
             return path
     return None
@@ -154,12 +166,55 @@ def page_markers(rows: list[tuple[int, str]], identifier: str, limit: int = 24) 
                 "line": line_no,
                 "page": page,
                 "title": title,
-                "image_url": f"https://archive.org/download/{identifier}/page/n{page + 1}_w500.jpg",
+                "image_url": None,
+                "note": "Full-text OCR line heuristic only; not a verified Archive page anchor.",
             }
         )
         if len(out) >= limit:
             break
     return out
+
+
+def page_ocr_audit(identifier: str) -> dict | None:
+    xml_path = page_xml_path(identifier)
+    if not xml_path:
+        return None
+    root = ET.parse(xml_path).getroot()
+    pages = []
+    for leaf, obj in enumerate(root.findall(".//OBJECT")):
+        words = [word.text for word in obj.findall(".//WORD") if word.text]
+        pages.append({"leaf": leaf, "word_count": len(words)})
+    if not pages:
+        return None
+    empty = [page["leaf"] for page in pages if page["word_count"] == 0]
+    short = [page for page in pages if page["word_count"] <= 50]
+    supplements = []
+    supplement_dir = OCR_SUPPLEMENTS / identifier
+    if supplement_dir.exists():
+        for supplement_path in sorted(supplement_dir.glob("leaf_*.txt")):
+            m = re.search(r"leaf_(\d+)\.txt$", supplement_path.name)
+            if not m:
+                continue
+            text = supplement_path.read_text(encoding="utf-8", errors="replace")
+            supplements.append(
+                {
+                    "leaf": int(m.group(1)),
+                    "path": str(supplement_path.relative_to(ROOT)),
+                    "word_count": len(text.split()),
+                }
+            )
+    return {
+        "source": str(xml_path.relative_to(ROOT)),
+        "coordinate_rule": "Internet Archive public page order: djvu.xml OBJECT index == /page/n{leaf}. Do not use PARAM PAGE as Archive leaf.",
+        "page_count": len(pages),
+        "total_words": sum(page["word_count"] for page in pages),
+        "empty_leafs": empty,
+        "short_leafs": short,
+        "supplemental_ocr": supplements,
+        "notes": [
+            "Official OCR is suitable as translation draft input, but scan review is required for dense multi-column pages, index pages, tables, captions, and very short OCR pages.",
+        ],
+    }
 
 
 def theme_counts(text: str) -> dict[str, int]:
@@ -212,6 +267,7 @@ def make_issue_dossier(issue: dict) -> dict:
         "cover_url": issue.get("cover_url"),
         "ocr_path": str(path.relative_to(ROOT)),
         "ocr_chars": len(text),
+        "ocr_page_audit": page_ocr_audit(ident),
         "significant_line_count": len(rows),
         "theme_counts": counts,
         "top_themes": top_themes,
@@ -232,10 +288,36 @@ def write_markdown(dossier: dict, dest: Path) -> None:
         f"- OCR: `{dossier['ocr_path']}`, {dossier['ocr_chars']} chars",
         f"- archive: {dossier.get('archive_url')}",
         "",
-        "## Page Markers",
+        "## OCR Page Audit",
     ]
+    audit = dossier.get("ocr_page_audit")
+    if audit:
+        lines.extend(
+            [
+                f"- page OCR: `{audit['source']}`",
+                f"- coordinate rule: {audit['coordinate_rule']}",
+                f"- pages: {audit['page_count']}",
+                f"- total OCR words: {audit['total_words']}",
+                f"- empty leafs: {audit['empty_leafs']}",
+                "- short leafs: "
+                + ", ".join(f"leaf {item['leaf']} ({item['word_count']} words)" for item in audit["short_leafs"]),
+                "- supplemental OCR: "
+                + (
+                    ", ".join(
+                        f"leaf {item['leaf']} ({item['word_count']} words, `{item['path']}`)"
+                        for item in audit.get("supplemental_ocr", [])
+                    )
+                    or "none"
+                ),
+                f"- note: {audit['notes'][0]}",
+            ]
+        )
+    else:
+        lines.append("- page-level OCR XML not found; use full-text OCR only for search, not page anchoring.")
+    lines.extend(["", "## OCR Line Heuristics"])
+    lines.append("These are full-text OCR line heuristics for search only; they are not verified page anchors.")
     for item in dossier["page_markers"][:16]:
-        lines.append(f"- p.{item['page']} line {item['line']}: {item['title']} | {item['image_url']}")
+        lines.append(f"- p.{item['page']} line {item['line']}: {item['title']} ({item['note']})")
     lines.extend(["", "## Candidate Headings"])
     for item in dossier["candidate_headings"][:30]:
         lines.append(f"- line {item['line']}: {item['text']}")

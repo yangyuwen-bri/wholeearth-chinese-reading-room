@@ -12,6 +12,53 @@
   "cover_url": "https://archive.org/download/wholeearthepilog00unse/page/cover_w500.jpg",
   "ocr_path": "_local/legacy/work/wholeearth/ocr/wholeearthepilog00unse_djvu.txt",
   "ocr_chars": 2643421,
+  "ocr_page_audit": {
+    "source": "_local/legacy/work/wholeearth/page_xml/wholeearthepilog00unse_djvu.xml",
+    "coordinate_rule": "Internet Archive public page order: djvu.xml OBJECT index == /page/n{leaf}. Do not use PARAM PAGE as Archive leaf.",
+    "page_count": 322,
+    "total_words": 430766,
+    "empty_leafs": [
+      313,
+      317
+    ],
+    "short_leafs": [
+      {
+        "leaf": 0,
+        "word_count": 26
+      },
+      {
+        "leaf": 313,
+        "word_count": 0
+      },
+      {
+        "leaf": 317,
+        "word_count": 0
+      },
+      {
+        "leaf": 320,
+        "word_count": 12
+      },
+      {
+        "leaf": 321,
+        "word_count": 7
+      }
+    ],
+    "supplemental_ocr": [
+      {
+        "leaf": 313,
+        "path": "data/ocr_supplements/wholeearthepilog00unse/leaf_313.txt",
+        "word_count": 2396
+      },
+      {
+        "leaf": 317,
+        "path": "data/ocr_supplements/wholeearthepilog00unse/leaf_317.txt",
+        "word_count": 2268
+      }
+    ],
+    "notes": [
+      "Official OCR is suitable as translation draft input, but scan review is required for dense multi-column pages, index pages, tables, captions, and very short OCR pages."
+    ]
+  },
   "significant_line_count": 63858,
   "theme_counts": {
     "software_computing": 393,
@@ -30,97 +77,113 @@
       "line": 2350,
       "page": 1,
       "title": "EUGENE AVERY",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n2_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 13452,
       "page": 22,
       "title": "OCTOBER 1969",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n23_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 21773,
       "page": 3,
       "title": "MEASURES MORTAR SANO",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n4_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 21792,
       "page": 6,
       "title": "MEASURES MORTAR SAND",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n7_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 24481,
       "page": 4,
       "title": "QUEEN ANSE",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n5_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 30187,
       "page": 7,
       "title": "SPLIT G.R.P. FEMALE MOULD",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n8_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 36111,
       "page": 562,
       "title": "WEAVING",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n563_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 49458,
       "page": 55,
       "title": "E. 300 S.",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n56_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 69594,
       "page": 660,
       "title": "CAMPING",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n661_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 76726,
       "page": 35,
       "title": "LBS.",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n36_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 84836,
       "page": 120,
       "title": "INPUT P",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n121_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 84840,
       "page": 140,
       "title": "INPUT R",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n141_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 84844,
       "page": 160,
       "title": "INPUT N",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n161_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 84848,
       "page": 180,
       "title": "PRINT",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n181_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 89902,
       "page": 15,
       "title": "BUS DIREC",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n16_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     },
     {
       "line": 102353,
       "page": 2,
       "title": "BD-4 298",
-      "image_url": "https://archive.org/download/wholeearthepilog00unse/page/n3_w500.jpg"
+      "image_url": null,
+      "note": "Full-text OCR line heuristic only; not a verified Archive page anchor."
     }
   ],
   "candidate_headings": [

@@ -13,6 +13,7 @@ from urllib.request import urlretrieve
 ROOT = Path(__file__).resolve().parents[1]
 PAGE_XML = ROOT / "_local" / "page_xml"
 OUT = ROOT / "_local" / "page_dossiers"
+OCR_SUPPLEMENTS = ROOT / "data" / "ocr_supplements"
 
 
 def fetch(identifier: str, suffix: str) -> Path:
@@ -39,6 +40,15 @@ def clean(text: str) -> str:
     return text.strip()
 
 
+def supplement_lines(identifier: str, leaf: int) -> list[str]:
+    path = OCR_SUPPLEMENTS / identifier / f"leaf_{leaf:03d}.txt"
+    if not path.exists():
+        path = OCR_SUPPLEMENTS / identifier / f"leaf_{leaf}.txt"
+    if not path.exists():
+        return []
+    return [clean(line) for line in path.read_text(encoding="utf-8", errors="replace").splitlines() if clean(line)]
+
+
 def parse_scandata(path: Path) -> dict[int, dict]:
     root = ET.parse(path).getroot()
     out = {}
@@ -54,21 +64,22 @@ def parse_scandata(path: Path) -> dict[int, dict]:
     return out
 
 
-def object_leaf(obj: ET.Element, fallback: int) -> int:
+def object_scan_leaf(obj: ET.Element) -> int | None:
     page_param = obj.find("PARAM[@name='PAGE']")
     if page_param is not None:
         value = page_param.attrib.get("value", "")
         m = re.search(r"_(\d+)\.djvu", value)
         if m:
-            return int(m.group(1)) - 1
-    return fallback
+            return int(m.group(1))
+    return None
 
 
 def parse_djvu(path: Path, scandata: dict[int, dict], identifier: str) -> list[dict]:
     root = ET.parse(path).getroot()
     pages = []
     for idx, obj in enumerate(root.findall(".//OBJECT")):
-        leaf = object_leaf(obj, idx)
+        leaf = idx
+        scan_leaf = object_scan_leaf(obj)
         words = []
         lines = []
         for line in obj.findall(".//LINE"):
@@ -80,14 +91,18 @@ def parse_djvu(path: Path, scandata: dict[int, dict], identifier: str) -> list[d
             if text:
                 lines.append(text)
                 words.extend(line_words)
+        if not lines:
+            lines = supplement_lines(identifier, leaf)
+            words = " ".join(lines).split()
         page_text = clean(" ".join(lines))
-        meta = scandata.get(leaf, {"leaf": leaf})
+        meta = scandata.get(scan_leaf, {"leaf": scan_leaf}) if scan_leaf is not None else {"leaf": leaf}
         access_index = leaf
-        page_no = meta.get("pageNumber") or infer_printed_page(page_text)
+        page_no = infer_printed_page(page_text) or meta.get("pageNumber")
         pages.append(
             {
                 "leaf": leaf,
                 "access_index": access_index,
+                "internal_scan_leaf": scan_leaf,
                 "page_number": page_no,
                 "page_type": meta.get("pageType", ""),
                 "image_url": f"https://archive.org/download/{identifier}/page/n{access_index}_w500.jpg",
