@@ -202,8 +202,75 @@
     margin: 0 0 6px;
   }
   .chapter-meta { font-family: var(--mono); font-size: 12px; color: var(--muted); margin-bottom: 20px; }
+  .chapter-summary {
+    margin: 0 0 14px;
+    max-width: 72ch;
+    color: #4d4535;
+    font-size: 15px;
+  }
+  .chapter-tools {
+    display: grid;
+    gap: 8px;
+    margin: 0 0 22px;
+  }
+  .chapter-tools details {
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    background: rgba(251, 247, 236, 0.45);
+  }
+  .chapter-tools summary {
+    list-style: none;
+    cursor: pointer;
+    padding: 8px 0;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--blue-deep);
+  }
+  .chapter-tools summary::-webkit-details-marker { display: none; }
+  .chapter-tools summary::after {
+    content: " +";
+    color: var(--muted);
+  }
+  .chapter-tools details[open] summary::after { content: " −"; }
+  .chapter-toc-list {
+    margin: 2px 0 14px;
+    padding: 0;
+    list-style: none;
+    columns: 2;
+    column-gap: 24px;
+  }
+  .chapter-toc-list li {
+    break-inside: avoid;
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+    padding: 3px 0;
+    font-size: 14px;
+    line-height: 1.55;
+  }
+  .chapter-toc-list a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--blue);
+    cursor: pointer;
+  }
+  .chapter-toc-list .page {
+    margin-left: auto;
+    white-space: nowrap;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .source-toc-body {
+    padding: 2px 0 12px;
+  }
+  .source-toc-body .entry {
+    margin-bottom: 18px;
+  }
   section.entry { margin-bottom: 34px; }
   section.entry > h3 { font-size: 17px; margin: 0 0 4px; }
+  section.entry h4 { font-size: 15.5px; margin: 18px 0 6px; }
+  section.entry h5 { font-size: 14px; margin: 14px 0 4px; color: #4d4535; }
   .entry-meta {
     font-family: var(--mono);
     font-size: 11px;
@@ -267,6 +334,7 @@
     .scan-frame img { width: 96px; min-height: 0; height: 128px; object-fit: cover; object-position: top; }
     .scan-frame .scan-meta { margin-top: 0; flex: 1; }
     .scan-note { display: none; }
+    .chapter-toc-list { columns: 1; }
   }
 </style>
 </head>
@@ -338,31 +406,110 @@
 
   function scanUrl(leaf) { return data.scan_url.replace("{leaf}", leaf); }
   function pageUrl(leaf) { return data.archive_page_url.replace("{leaf}", leaf); }
+  function printedNumber(leaf) {
+    const rules = data.printed_page_rules || [];
+    for (const rule of rules) {
+      if (leaf >= rule.leaf_start && leaf <= rule.leaf_end) {
+        return rule.printed_start + (leaf - rule.leaf_start);
+      }
+    }
+    return null;
+  }
   function printedPage(leaf) {
-    return (leaf >= 3 && leaf <= 320) ? " · p." + (leaf + data.printed_page_offset) : "";
+    const page = printedNumber(leaf);
+    return page == null ? "" : " · p." + page;
   }
   function leafSpanText(start, end) {
     return start === end ? "leaf " + start : "leaf " + start + "–" + end;
   }
   function printedSpanLabel(start, end) {
-    if (start < 3 || end > 320) return "";
+    const startPage = printedNumber(start);
+    const endPage = printedNumber(end);
+    if (startPage == null || endPage == null) return "";
     return start === end
-      ? "p." + (start + data.printed_page_offset)
-      : "p." + (start + data.printed_page_offset) + "–" + (end + data.printed_page_offset);
+      ? "p." + startPage
+      : "p." + startPage + "–" + endPage;
+  }
+  function escapeHtml(value) {
+    return String(value ?? "")
+      .replaceAll("&", "&amp;")
+      .replaceAll("<", "&lt;")
+      .replaceAll(">", "&gt;")
+      .replaceAll('"', "&quot;");
+  }
+  function publicPageLabel(start, end) {
+    const pages = printedSpanLabel(start, end);
+    return pages ? "原书 " + pages : "原书扫描页";
   }
   function entryMeta(sec) {
     if (sec.leaf == null) return "";
     const hasRanges = Array.isArray(sec.leaf_ranges) && sec.leaf_ranges.length;
-    const ranges = hasRanges
-      ? sec.leaf_ranges.map(r => leafSpanText(r.leaf_start, r.leaf_end)).join(", ")
-      : leafSpanText(sec.leaf_start ?? sec.leaf, sec.leaf_end ?? sec.leaf);
     const start = sec.leaf_start ?? sec.leaf;
     const end = sec.leaf_end ?? sec.leaf;
     const pages = hasRanges
       ? sec.leaf_ranges.map(r => printedSpanLabel(r.leaf_start, r.leaf_end)).filter(Boolean).join(", ")
       : printedSpanLabel(start, end);
-    return "<div class='entry-meta'>≈ " + ranges + (pages ? " · " + pages : "") +
-      " · <a data-leaf='" + sec.leaf + "'>看这一页</a></div>";
+    return "<div class='entry-meta'>" + (pages ? "原书 " + pages : "原书扫描页") +
+      " · <a data-leaf='" + sec.leaf + "'>看原页</a></div>";
+  }
+
+  function renderSection(sec, chap) {
+    const el = document.createElement("section");
+    el.className = "entry";
+    el.id = sec.id;
+    el.dataset.leaf = sec.leaf ?? "";
+    el.dataset.chapter = chap.id;
+    const meta = entryMeta(sec);
+    const heading = sec.title === chap.title ? "" : "<h3>" + escapeHtml(sec.title) + "</h3>";
+    el.innerHTML = heading + meta + sec.html;
+    return el;
+  }
+
+  function renderChapterTools(article, chap) {
+    if (chap.summary) {
+      const summary = document.createElement("p");
+      summary.className = "chapter-summary";
+      summary.textContent = chap.summary;
+      article.appendChild(summary);
+    }
+    if (!chap.toc?.length && !chap.source_toc_sections?.length) return;
+    const tools = document.createElement("div");
+    tools.className = "chapter-tools";
+
+    if (chap.toc?.length) {
+      const details = document.createElement("details");
+      details.className = "chapter-toc";
+      const summary = document.createElement("summary");
+      summary.textContent = "本章目录（" + chap.toc.length + "）";
+      details.appendChild(summary);
+      const list = document.createElement("ol");
+      list.className = "chapter-toc-list";
+      chap.toc.forEach((item, index) => {
+        const li = document.createElement("li");
+        const page = item.printed_page ? "p." + item.printed_page : "";
+        li.innerHTML = "<a data-target='" + escapeHtml(item.target_id) + "'>" +
+          String(index + 1).padStart(2, "0") + " " + escapeHtml(item.title) + "</a>" +
+          (page ? "<span class='page'>" + page + "</span>" : "");
+        list.appendChild(li);
+      });
+      details.appendChild(list);
+      tools.appendChild(details);
+    }
+
+    if (chap.source_toc_sections?.length) {
+      const details = document.createElement("details");
+      details.className = "source-toc";
+      const summary = document.createElement("summary");
+      summary.textContent = "查看原书目录页";
+      details.appendChild(summary);
+      const body = document.createElement("div");
+      body.className = "source-toc-body";
+      chap.source_toc_sections.forEach(sec => body.appendChild(renderSection(sec, chap)));
+      details.appendChild(body);
+      tools.appendChild(details);
+    }
+
+    article.appendChild(tools);
   }
 
   function setLeaf(leaf, fromSlider) {
@@ -417,19 +564,12 @@
     article.className = "chapter";
     article.id = chap.id;
     const range = chap.leaf_start != null
-      ? "leaf " + chap.leaf_start + "–" + chap.leaf_end + printedPage(chap.leaf_start).replace(" · ", " · 印刷页起 ")
+      ? publicPageLabel(chap.leaf_start, chap.leaf_end)
       : "无对应扫描页";
     article.innerHTML = "<h2>" + chap.title + "</h2><div class='chapter-meta'>" + range + "</div>";
+    renderChapterTools(article, chap);
     chap.sections.forEach(sec => {
-      const el = document.createElement("section");
-      el.className = "entry";
-      el.id = sec.id;
-      el.dataset.leaf = sec.leaf ?? "";
-      el.dataset.chapter = chap.id;
-      const meta = entryMeta(sec);
-      const heading = sec.title === chap.title ? "" : "<h3>" + sec.title + "</h3>";
-      el.innerHTML = heading + meta + sec.html;
-      article.appendChild(el);
+      article.appendChild(renderSection(sec, chap));
     });
     content.appendChild(article);
     addNavButton(chap.id, shortTitle(chap.title));
@@ -438,6 +578,11 @@
   content.addEventListener("click", event => {
     const target = event.target.closest("a[data-leaf]");
     if (target) setLeaf(Number(target.dataset.leaf));
+    const sectionTarget = event.target.closest("a[data-target]");
+    if (sectionTarget) {
+      document.getElementById(sectionTarget.dataset.target)
+        ?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
   });
 
   const observer = new IntersectionObserver(entries => {
