@@ -1,58 +1,99 @@
-# 1974 Epilog 对照阅读器
+# 1974 Epilog 中文阅读室
 
-「中文精读本」的对外展示入口：左侧原书扫描页，右侧章节译写正文，滚动时两边保持对照。
+对外展示入口：左侧原书扫描页，右侧中文译文，滚动时两边保持对照。
 
 当前入口：`reader-prototype/index.html`。部署为静态站点时，可直接指向 `/reader-prototype/index.html`。
 
-## 数据来源（只读）
+## 内容原则
 
-构建脚本从仓库内读取两份成品稿，不修改源稿：
+中文阅读室的正文来源是 leaf 级忠实译稿，不再使用早期概括性精读稿。
 
-- `../content/readings/1974_whole_earth_epilog_chapter_translation_zh.md`（章节译写正文）
-- `../content/readings/1974_whole_earth_epilog_reader_chinese.md`（导读作序）
+生产正文应当：
 
-暗线数据（七条暗线、章节在各暗线下的解读）取自主仓库 `content/maps/1974_epilog_access_atlas.html` 中的编辑成果，以静态形式内嵌在 `build_data.py` 里。
+- 基于原书 OCR 与扫描页核对后的 `Final Translation`；
+- 保留原书中的评论、摘录、标题、署名、图注和论证节奏；
+- 压缩或省略价格、订购地址、库存编号等低价值交易信息；
+- 把章节导读、现代目录、原书目录页折叠区作为阅读辅助层，而不是把工作流说明展示给读者。
 
-扫描图直接从 Internet Archive 加载：`https://archive.org/download/wholeearthepilog00unse/page/n{leaf}_w500.jpg`，本地不缓存图片。
+早期概括性精读稿不再作为阅读室生产内容来源。
+
+## 数据来源
+
+主构建脚本读取：
+
+- `../content/translations/wholeearthepilog00unse/status.jsonl`
+- `../content/translations/wholeearthepilog00unse/leaves/leaf_###.md`
+
+每个 leaf 只抽取 `## Final Translation`。`Source Pack`、`Context Notes`、`OCR / Uncertainty Notes`、`Self Critique`、review 文件等只用于翻译和审核，不进入读者正文。
+
+扫描图直接从 Internet Archive 加载：
+
+`https://archive.org/download/wholeearthepilog00unse/page/n{leaf}_w500.jpg`
+
+本地不缓存图片。
 
 ## 构建与运行
 
 ```bash
 cd reader-prototype
-python3 build_data.py          # 重新生成 data/epilog_reader.json
-cd ..                          # 回到仓库根目录
+python3 build_translation_reader_data.py
+cd ..
 python3 -m http.server 8911
 # 打开 http://127.0.0.1:8911/reader-prototype/index.html
 ```
 
 `index.html` 通过 fetch 读取 JSON，必须走 HTTP，不能直接双击打开文件。
 
+`build_data.py` 仅作为兼容入口保留，会调用同一个 leaf 级构建流程：
+
+```bash
+python3 build_data.py
+```
+
 ## 功能
 
-- 序（导读）+ 12 章 121 节译写正文，单页连续阅读
+- 导读 + 11 个原书内容章节，按 leaf 级完整译稿连续阅读
+- 每章有读者导读
+- 每章有默认折叠的现代目录，展开后占据正文空间，可点击跳转条目
+- 原书目录页默认隐藏在“查看原书目录页”折叠区
 - 左侧扫描页随正文滚动自动切换；可用滑杆/按钮手动翻 322 个 leaf；每页有 Archive 原页链接
-- 每节标注 `≈ leaf / 印刷页`，点「看这一页」跳到对应扫描
-- 「暗线视图」：七条暗线（找入口、看尺度、会维护、用身体学、组织社会、穿越风险、出版成工具），每条列出成员章节及该暗线下的解读，可跳转；导航栏高亮成员章节
+- 每个条目标注原书印刷页，点“看原页”跳到对应扫描
+- “暗线视图”：七条暗线（找入口、看尺度、会维护、用身体学、组织社会、穿越风险、出版成工具），可跳转成员章节
 - 底部进度条按 leaf 计
 - 窄屏时扫描页收成顶部固定小卡片
 
-## leaf / 印刷页映射（2026-07-06 实证核对）
+## leaf / 印刷页映射
 
-对 leaf 5、9、60、150、250 五个采样点逐张目检确认：
+- leaf 0 是封面，不标正文印刷页。
+- leaf 1 是《约伯记》引文内封页，不标正文印刷页。
+- leaf 2 = p.450。
+- leaf 3-319 按 `leaf + 449` 映射，例如 leaf 4 = p.453，leaf 142 = p.591。
+- leaf 320-321 是封底相关页，不标正文印刷页。
+- Archive 内容范围只收 leaf 0-321，leaf 322 是扫描校准页，不属于书。
 
-- **印刷页号 = leaf + 449**（如 leaf 9 = p.458，leaf 60 = p.509，leaf 150 = p.599，leaf 250 = p.699）。
-- **leaf 0 是真正的封面**（阿波罗照片 + access to tools + 价格）。
-- **leaf 321 是封底**（`Stay hungry. Stay foolish.` + ISBN）；**leaf 322 是扫描仪校准页（"Test Shot"），不是书的内容**，阅读器不收录。
-- 早期主仓库 1974 工作稿曾按 `leaf + 447` 推算，系统性偏小 2；且"封底在 leaf 322、leaf 321 是制作痕迹"的说法与实际相反（疑为 1 起数的 PDF 页码对 0 起数的 Archive leaf 造成的错位）。当前阅读器和主仓库文档已按实证结果修正。
+## 当前 QA 状态
 
-## 已知近似与待决
+`content/translations/wholeearthepilog00unse/status.jsonl` 是翻译状态来源。
 
-- **条目级 leaf 对齐是线性插值的近似**（章节 leaf 范围来自页级证据稿）。要做到条目级精确对齐，需要在译写稿或页级 dossier 里为每个 `###` 条目补一个 leaf 锚点。
-- issue-agent 问答未接入（主仓库 `scripts/serve_issue_agent.py` 已具备，接入只需换用该服务并加一个聊天组件）。
-- 小黑猫章节扉页插画未接入（xiaohei worktree 的成品图可作为每章开头的分隔页）。
+当前生成数据保留 QA 元数据，但普通读者界面不直接展示内部状态。状态含义：
+
+- `accepted`：译文已通过当前复核。
+- `needs_highres_scan`：正文已翻译，但图表、小字、手写标注或技术标签仍需高分辨率扫描复核。
+- `no_translation_needed`：封面、索引、订单或非连续正文材料。
 
 ## 文件
 
-- `build_data.py` — 解析译稿生成阅读器数据
-- `data/epilog_reader.json` — 生成物（约 250KB）
+- `build_translation_reader_data.py` — 从 leaf 级完整译稿生成阅读器数据
+- `data/epilog_reader.json` — 生产阅读器数据
 - `index.html` — 阅读器本体（无依赖、无构建工具）
+- `build_data.py` — 兼容入口，调用当前 leaf 级构建器
+
+## 后续杂志复用规则
+
+后续 Whole Earth 杂志也按同一逻辑建立中文内容：
+
+1. 先建立 leaf 级翻译目录：`content/translations/{issue_id}/`。
+2. 每页译稿分离工作流信息和 `Final Translation`。
+3. 阅读室只读取 `Final Translation`。
+4. 章节导读、现代目录、原书目录折叠区由构建脚本生成。
+5. 旧式概括性精读稿不能作为生产正文来源。

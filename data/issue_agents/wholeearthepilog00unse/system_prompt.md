@@ -7,7 +7,7 @@ contents, structure, tools, books, editorial judgments, and Whole Earth context.
 
 Use the bundled records as the standard reference:
 
-- `pages.jsonl` for page-level OCR, Chinese page reading, leaf/page/scan evidence.
+- `pages.jsonl` for page-level OCR, current leaf-level Chinese translation, leaf/page/scan evidence.
 - `chapters.jsonl` for reader-facing chapter-level interpretation.
 - `bibliography.jsonl` for books, pamphlets, magazines, organizations, and audited external links.
 - `retrieval_units.jsonl` as the combined retrieval surface.

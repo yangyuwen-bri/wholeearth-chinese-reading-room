@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import json
 import re
+from html import unescape
 from collections import Counter
 from datetime import UTC, datetime
 from pathlib import Path
@@ -28,8 +29,9 @@ AGENT_ROOT = ROOT / "data/issue_agents"
 BUNDLE_DIR = AGENT_ROOT / ISSUE_ID
 SCHEMA_DIR = AGENT_ROOT / "_schemas"
 
-CHAPTER_SOURCE = ROOT / "content/readings/1974_whole_earth_epilog_chapter_translation_zh.md"
-PAGE_SOURCE = ROOT / "content/readings/1974_whole_earth_epilog_page_level_chinese_reading.md"
+READER_SOURCE = ROOT / "reader-prototype/data/epilog_reader.json"
+TRANSLATION_SOURCE = ROOT / "content/translations/wholeearthepilog00unse"
+STATUS_SOURCE = TRANSLATION_SOURCE / "status.jsonl"
 BIB_SOURCE = ROOT / "data/bibliography/1974_whole_earth_epilog_links.json"
 DOSSIER_SOURCE = ROOT / "_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json"
 EVIDENCE_DOSSIER_SOURCE = ROOT / "data/evidence_dossiers/issues/whole-earth-epilog-october-1974.json"
@@ -139,45 +141,36 @@ def qa_flags_for_text(text: str, raw_lines: list[str]) -> list[str]:
     return sorted(set(flags))
 
 
+def html_to_text(value: str) -> str:
+    text = re.sub(r"<br\s*/?>", "\n", value)
+    text = re.sub(r"</(p|li|blockquote|h[1-6])>", "\n", text)
+    text = re.sub(r"<[^>]+>", "", text)
+    return compact_text(unescape(text))
+
+
 def parse_page_level_reading() -> tuple[dict[int, dict[str, Any]], dict[int, str]]:
-    text = PAGE_SOURCE.read_text()
-    h2_matches = list(re.finditer(r"^## (.+)$", text, flags=re.MULTILINE))
-    h3_matches = list(re.finditer(r"^### (.+?) / leaf (\d+)\s*$", text, flags=re.MULTILINE))
-    h2_by_start = [(match.start(), match.group(1).strip()) for match in h2_matches]
-
-    def current_h2(position: int) -> str:
-        current = ""
-        for start, heading in h2_by_start:
-            if start < position:
-                current = heading
-            else:
-                break
-        return current
-
+    reader = read_json(READER_SOURCE)
     page_notes: dict[int, dict[str, Any]] = {}
     leaf_to_heading: dict[int, str] = {}
-    for index, match in enumerate(h3_matches):
-        leaf = int(match.group(2))
-        start = match.end()
-        next_h3 = h3_matches[index + 1].start() if index + 1 < len(h3_matches) else len(text)
-        next_h2 = next((h2.start() for h2 in h2_matches if h2.start() > match.start()), len(text))
-        end = min(next_h3, next_h2)
-        body = text[start:end].strip()
-        scan_match = re.search(r"扫描图[:：]\s*(\S+)", body)
-        clue_match = re.search(r"页面线索[:：]\s*(.+)", body)
-        scan_url = scan_match.group(1).strip() if scan_match else f"https://archive.org/download/{ISSUE_ID}/page/n{leaf}_w500.jpg"
-        clues = [item.strip(" `；;") for item in (clue_match.group(1).split("；") if clue_match else []) if item.strip()]
-        reading = re.sub(r"扫描图[:：]\s*\S+", "", body)
-        reading = re.sub(r"页面线索[:：].+", "", reading).strip()
-        heading = match.group(1).strip()
-        page_notes[leaf] = {
-            "page_heading": heading,
-            "section_heading": current_h2(match.start()),
-            "scan_url": scan_url,
-            "clues": clues,
-            "zh_page_reading": compact_text(reading),
-        }
-        leaf_to_heading[leaf] = heading
+    for chapter in reader.get("chapters", []):
+        for section in chapter.get("sections", []) + chapter.get("source_toc_sections", []):
+            leaf = section.get("leaf")
+            if leaf is None:
+                continue
+            heading = section.get("title") or f"leaf {leaf}"
+            body = " ".join(part for part in [heading, html_to_text(section.get("html") or "")] if part)
+            note = page_notes.setdefault(
+                int(leaf),
+                {
+                    "page_heading": heading,
+                    "section_heading": chapter.get("title"),
+                    "scan_url": f"https://archive.org/download/{ISSUE_ID}/page/n{leaf}_w500.jpg",
+                    "clues": [],
+                    "zh_page_reading": "",
+                },
+            )
+            note["zh_page_reading"] = compact_text(" ".join([note["zh_page_reading"], body]).strip())
+            leaf_to_heading[int(leaf)] = heading
     return page_notes, leaf_to_heading
 
 
@@ -225,7 +218,7 @@ def build_pages() -> list[dict[str, Any]]:
                 "qa_flags": qa_flags_for_text(zh_reading, lines),
             },
             "zh_reading": {
-                "status": "page_evidence_workbench",
+                "status": "leaf_translation",
                 "page_heading": note.get("page_heading"),
                 "section_heading": note.get("section_heading"),
                 "clues": note.get("clues") or [],
@@ -237,7 +230,8 @@ def build_pages() -> list[dict[str, Any]]:
                 "scan_url": scan_url,
                 "source_paths": {
                     "page_dossier": str(DOSSIER_SOURCE.relative_to(ROOT)),
-                    "page_level_reading": str(PAGE_SOURCE.relative_to(ROOT)),
+                    "reader_json": str(READER_SOURCE.relative_to(ROOT)),
+                    "translation_source": str(TRANSLATION_SOURCE.relative_to(ROOT)),
                 },
             },
             "agent_notes": {
@@ -245,7 +239,7 @@ def build_pages() -> list[dict[str, Any]]:
                 "key_terms": extract_terms(raw_ocr + "\n" + zh_reading),
                 "limitations": [
                     "Use scan_url for final verification before quoting the original.",
-                    "This page-level Chinese reading is an evidence workbench, not a diplomatic full-text translation.",
+                    "Chinese text is derived from the current leaf-level translation; check qa_flags before treating small print as settled.",
                 ],
             },
         }
@@ -290,75 +284,48 @@ def extract_terms(text: str) -> list[str]:
     return cleaned[:20]
 
 
-def parse_markdown_sections(text: str) -> list[dict[str, Any]]:
-    matches = list(re.finditer(r"^(##|###) (.+)$", text, flags=re.MULTILINE))
-    records = []
-    for index, match in enumerate(matches):
-        level = 2 if match.group(1) == "##" else 3
-        title = match.group(2).strip()
-        start = match.end()
-        end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
-        content = compact_text(text[start:end])
-        if not content and level != 2:
-            continue
-        if not content:
-            content = f"{title} 章节标题。"
-        if title in {"译者说明"}:
-            section = "Translator Note"
-        else:
-            section = title
-        records.append(
-            {
-                "level": level,
-                "title": title,
-                "section": section,
-                "content": content,
-            }
-        )
-    return records
-
-
 def build_chapters() -> list[dict[str, Any]]:
-    sections = parse_markdown_sections(CHAPTER_SOURCE.read_text())
+    reader = read_json(READER_SOURCE)
     records = []
-    counters: Counter[str] = Counter()
-    current_h2 = "front"
-    for section in sections:
-        if section["level"] == 2:
-            current_h2 = section["title"]
-        counters[current_h2] += 1
-        leaf_range = leaf_range_for_chapter(current_h2)
-        record_id = f"{ISSUE_ID}:chapter:{slugify(current_h2)}:{counters[current_h2]:03d}"
-        if section["level"] == 2:
-            record_id = f"{ISSUE_ID}:chapter:{slugify(section['title'])}:000"
+    for chapter in reader.get("chapters", []):
+        chapter_text = chapter.get("summary") or f"{chapter['title']} 章节。"
         records.append(
             {
                 "schema_version": SCHEMA_VERSION,
-                "record_id": record_id,
+                "record_id": f"{ISSUE_ID}:chapter:{slugify(chapter['title'])}:000",
                 "issue_id": ISSUE_ID,
-                "title": section["title"],
-                "parent_section": current_h2 if section["level"] == 3 else None,
-                "level": section["level"],
-                "leaf_start": leaf_range[0],
-                "leaf_end": leaf_range[1],
-                "text_zh": section["content"],
-                "summary_zh": first_sentence(section["content"]),
-                "key_terms": extract_terms(section["content"]),
-                "source_path": str(CHAPTER_SOURCE.relative_to(ROOT)),
+                "title": chapter["title"],
+                "parent_section": None,
+                "level": 2,
+                "leaf_start": chapter.get("leaf_start"),
+                "leaf_end": chapter.get("leaf_end"),
+                "text_zh": chapter_text,
+                "summary_zh": first_sentence(chapter_text),
+                "key_terms": extract_terms(chapter_text),
+                "source_path": str(READER_SOURCE.relative_to(ROOT)),
             }
         )
+        for index, section in enumerate(chapter.get("sections", []), 1):
+            text = compact_text(html_to_text(section.get("html") or ""))
+            if not text:
+                continue
+            records.append(
+                {
+                    "schema_version": SCHEMA_VERSION,
+                    "record_id": f"{ISSUE_ID}:chapter:{slugify(chapter['title'])}:{index:03d}",
+                    "issue_id": ISSUE_ID,
+                    "title": section["title"],
+                    "parent_section": chapter["title"],
+                    "level": 3,
+                    "leaf_start": section.get("leaf_start"),
+                    "leaf_end": section.get("leaf_end"),
+                    "text_zh": text,
+                    "summary_zh": first_sentence(text),
+                    "key_terms": extract_terms(section["title"] + "\n" + text),
+                    "source_path": str(READER_SOURCE.relative_to(ROOT)),
+                }
+            )
     return records
-
-
-def leaf_range_for_chapter(title: str) -> tuple[int | None, int | None]:
-    for section_en, section_zh, start, end in SECTION_RANGES:
-        if section_zh in title or section_en in title:
-            return start, end
-    if "封面" in title or "开篇" in title or "使用说明" in title:
-        return 0, 4
-    if "出版" in title or "索引" in title or "封底" in title:
-        return 302, 321
-    return None, None
 
 
 def build_bibliography() -> list[dict[str, Any]]:
@@ -550,8 +517,9 @@ def build_issue_profile(pages: list[dict[str, Any]], bibliography: list[dict[str
             for en, zh, start, end in SECTION_RANGES
         ],
         "source_paths": {
-            "chapter_translation": str(CHAPTER_SOURCE.relative_to(ROOT)),
-            "page_level_reading": str(PAGE_SOURCE.relative_to(ROOT)),
+            "reader_json": str(READER_SOURCE.relative_to(ROOT)),
+            "translation_source": str(TRANSLATION_SOURCE.relative_to(ROOT)),
+            "translation_status": str(STATUS_SOURCE.relative_to(ROOT)),
             "page_dossier": str(DOSSIER_SOURCE.relative_to(ROOT)),
             "bibliography_json": str(BIB_SOURCE.relative_to(ROOT)),
             "evidence_dossier": str(EVIDENCE_DOSSIER_SOURCE.relative_to(ROOT)),
@@ -559,7 +527,7 @@ def build_issue_profile(pages: list[dict[str, Any]], bibliography: list[dict[str
         "bibliography_status_counts": dict(sorted(bib_counts.items())),
         "editorial_status": {
             "page_coverage": "322/322 leaves",
-            "chapter_translation": "full-issue chapter-structured Chinese source draft",
+            "reader_translation": "leaf-level Chinese translation generated from Final Translation blocks",
             "bibliography_audit": "216 references audited",
             "answer_policy": "Use Chinese reader-facing synthesis with leaf/page/scan citations; verify against scans before quoting original English.",
         },
@@ -589,8 +557,9 @@ def build_manifest(
         },
         "outputs": {name: str(path.relative_to(ROOT)) for name, path in OUTPUTS.items()},
         "source_paths": {
-            "chapter_translation": str(CHAPTER_SOURCE.relative_to(ROOT)),
-            "page_level_reading": str(PAGE_SOURCE.relative_to(ROOT)),
+            "reader_json": str(READER_SOURCE.relative_to(ROOT)),
+            "translation_source": str(TRANSLATION_SOURCE.relative_to(ROOT)),
+            "translation_status": str(STATUS_SOURCE.relative_to(ROOT)),
             "page_dossier": str(DOSSIER_SOURCE.relative_to(ROOT)),
             "bibliography_json": str(BIB_SOURCE.relative_to(ROOT)),
             "evidence_dossier": str(EVIDENCE_DOSSIER_SOURCE.relative_to(ROOT)),
@@ -613,7 +582,7 @@ contents, structure, tools, books, editorial judgments, and Whole Earth context.
 
 Use the bundled records as the standard reference:
 
-- `pages.jsonl` for page-level OCR, Chinese page reading, leaf/page/scan evidence.
+- `pages.jsonl` for page-level OCR, current leaf-level Chinese translation, leaf/page/scan evidence.
 - `chapters.jsonl` for reader-facing chapter-level interpretation.
 - `bibliography.jsonl` for books, pamphlets, magazines, organizations, and audited external links.
 - `retrieval_units.jsonl` as the combined retrieval surface.
@@ -694,7 +663,7 @@ Bundle layers:
 
 - `manifest.json`: bundle entry point, source paths, counts, QA status.
 - `issue_profile.json`: issue metadata, section map, source locations.
-- `pages.jsonl`: page-level OCR, Chinese page reading, scan evidence.
+- `pages.jsonl`: page-level OCR, current leaf-level Chinese translation, scan evidence.
 - `chapters.jsonl`: chapter/topic-level Chinese interpretation chunks.
 - `bibliography.jsonl`: audited books, pamphlets, periodicals, and links.
 - `retrieval_units.jsonl`: combined RAG retrieval surface.
@@ -801,7 +770,7 @@ def build_qa_report(
         "",
         "## Source Boundary",
         "",
-        "- `pages.jsonl` combines local OCR, scan URL evidence, and the page-level Chinese evidence workbench.",
+        "- `pages.jsonl` combines local OCR, scan URL evidence, and the current leaf-level Chinese translation.",
         "- `chapters.jsonl` comes from the reader-facing chapter translation draft.",
         "- `bibliography.jsonl` comes from the audited bibliography/link JSON.",
         "- Runtime chat transcripts, model outputs, vector caches, and embeddings are intentionally excluded from this tracked bundle.",

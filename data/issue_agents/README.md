@@ -13,7 +13,7 @@ Bundle layers:
 
 - `manifest.json`: bundle entry point, source paths, counts, QA status.
 - `issue_profile.json`: issue metadata, section map, source locations.
-- `pages.jsonl`: page-level OCR, Chinese page reading, scan evidence.
+- `pages.jsonl`: page-level OCR, current leaf-level Chinese translation, scan evidence.
 - `chapters.jsonl`: chapter/topic-level Chinese interpretation chunks.
 - `bibliography.jsonl`: audited books, pamphlets, periodicals, and links.
 - `retrieval_units.jsonl`: combined RAG retrieval surface.

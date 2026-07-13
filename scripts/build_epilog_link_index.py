@@ -19,7 +19,7 @@ from typing import Any
 
 
 ROOT = Path(__file__).resolve().parents[1]
-ZH_PATH = ROOT / "content/readings/1974_whole_earth_epilog_chapter_translation_zh.md"
+TRANSLATION_LEAVES = ROOT / "content/translations/wholeearthepilog00unse/leaves"
 PAGES_PATH = ROOT / "_local/legacy/outputs/wholeearth_page_dossiers/wholeearthepilog00unse/pages.json"
 JSON_OUT = ROOT / "data/bibliography/1974_whole_earth_epilog_links.json"
 MD_OUT = ROOT / "content/readings/1974_whole_earth_epilog_bibliography_links.md"
@@ -388,7 +388,7 @@ def printed_page_for_leaf(leaf: int) -> str | None:
 
 
 def extract_titles() -> list[str]:
-    text = ZH_PATH.read_text()
+    text = "\n".join(path.read_text() for path in sorted(TRANSLATION_LEAVES.glob("leaf_*.md")))
     bracketed = set(re.findall(r"《([^》]+)》", text))
     english = {
         item.strip()
