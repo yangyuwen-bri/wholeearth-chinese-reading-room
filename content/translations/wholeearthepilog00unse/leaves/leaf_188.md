@@ -74,7 +74,7 @@
 
 短语示例：
 
-- 英语：你的食物是有机的吗？
+- 英语：Is your food organic?
 - 法语：Votre nourriture, est-elle biologique?
 - 德语：Ist Ihr Nahrungsmittel ohne Chemikalien gewachsen?
 - 西班牙语：Es su comida organica?
