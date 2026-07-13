@@ -210,62 +210,68 @@
   }
   .chapter-tools {
     display: grid;
-    gap: 8px;
-    margin: 0 0 22px;
+    gap: 6px;
+    max-width: 72ch;
+    margin: 4px 0 26px;
   }
   .chapter-tools details {
-    border-top: 1px solid var(--line);
-    border-bottom: 1px solid var(--line);
-    background: rgba(251, 247, 236, 0.45);
+    border-top: 1px solid rgba(137, 126, 104, 0.42);
+    border-bottom: 1px solid rgba(137, 126, 104, 0.24);
   }
   .chapter-tools summary {
     list-style: none;
     cursor: pointer;
-    padding: 8px 0;
-    font-family: var(--mono);
-    font-size: 12px;
-    color: var(--blue-deep);
+    padding: 9px 0;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 14px;
+    color: #5a503f;
+    font-size: 14px;
   }
   .chapter-tools summary::-webkit-details-marker { display: none; }
   .chapter-tools summary::after {
-    content: " +";
+    content: "+";
+    font-family: var(--mono);
+    font-size: 12px;
     color: var(--muted);
   }
-  .chapter-tools details[open] summary::after { content: " −"; }
+  .chapter-tools details[open] summary::after { content: "−"; }
+  .chapter-tools .count {
+    margin-left: 8px;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--muted);
+  }
   .chapter-toc-list {
-    margin: 2px 0 14px;
+    margin: 2px 0 16px;
     padding: 0;
     list-style: none;
     columns: 2;
-    column-gap: 24px;
+    column-gap: 28px;
   }
   .chapter-toc-list li {
     break-inside: avoid;
     display: flex;
-    gap: 10px;
+    gap: 12px;
     align-items: baseline;
-    padding: 3px 0;
+    padding: 4px 0;
     font-size: 14px;
     line-height: 1.55;
   }
   .chapter-toc-list a {
     color: var(--ink);
     text-decoration: none;
-    border-bottom: 1px dotted var(--blue);
+    border-bottom: 1px solid transparent;
     cursor: pointer;
   }
+  .chapter-toc-list a:hover { border-bottom-color: var(--blue); color: var(--blue-deep); }
   .chapter-toc-list .page {
     margin-left: auto;
     white-space: nowrap;
     font-family: var(--mono);
     font-size: 11px;
     color: var(--muted);
-  }
-  .source-toc-body {
-    padding: 2px 0 12px;
-  }
-  .source-toc-body .entry {
-    margin-bottom: 18px;
   }
   section.entry { margin-bottom: 34px; }
   section.entry > h3 { font-size: 17px; margin: 0 0 4px; }
@@ -472,7 +478,7 @@
       summary.textContent = chap.summary;
       article.appendChild(summary);
     }
-    if (!chap.toc?.length && !chap.source_toc_sections?.length) return;
+    if (!chap.toc?.length) return;
     const tools = document.createElement("div");
     tools.className = "chapter-tools";
 
@@ -480,7 +486,7 @@
       const details = document.createElement("details");
       details.className = "chapter-toc";
       const summary = document.createElement("summary");
-      summary.textContent = "本章目录（" + chap.toc.length + "）";
+      summary.innerHTML = "本章条目 <span class='count'>" + chap.toc.length + " 项</span>";
       details.appendChild(summary);
       const list = document.createElement("ol");
       list.className = "chapter-toc-list";
@@ -488,24 +494,11 @@
         const li = document.createElement("li");
         const page = item.printed_page ? "p." + item.printed_page : "";
         li.innerHTML = "<a data-target='" + escapeHtml(item.target_id) + "'>" +
-          String(index + 1).padStart(2, "0") + " " + escapeHtml(item.title) + "</a>" +
+          escapeHtml(item.title) + "</a>" +
           (page ? "<span class='page'>" + page + "</span>" : "");
         list.appendChild(li);
       });
       details.appendChild(list);
-      tools.appendChild(details);
-    }
-
-    if (chap.source_toc_sections?.length) {
-      const details = document.createElement("details");
-      details.className = "source-toc";
-      const summary = document.createElement("summary");
-      summary.textContent = "查看原书目录页";
-      details.appendChild(summary);
-      const body = document.createElement("div");
-      body.className = "source-toc-body";
-      chap.source_toc_sections.forEach(sec => body.appendChild(renderSection(sec, chap)));
-      details.appendChild(body);
       tools.appendChild(details);
     }
 
