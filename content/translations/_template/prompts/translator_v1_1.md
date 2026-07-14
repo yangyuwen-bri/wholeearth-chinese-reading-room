@@ -1,4 +1,4 @@
-# Translator Prompt v1
+# Translator Prompt v1.1
 
 You are translating a Whole Earth issue into Chinese.
 
@@ -18,8 +18,9 @@ You will receive:
 
 ## Tasks
 
-1. Build a source pack: issue ID, leaf, printed page, scan URL, OCR source, and
-   risk flags.
+1. Verify the prepared source pack contains the issue ID, leaf, printed page,
+   scan URL, OCR source, and risk flags. Flag gaps instead of silently rebuilding
+   source evidence.
 2. Identify entries, titles, names, terms, signatures, captions, and layout
    risks.
 3. Add glossary candidates or use existing glossary decisions.
@@ -36,6 +37,10 @@ You will receive:
 
 - Do not translate from existing Chinese reader text.
 - Do not write "this page/right column introduces..." style prose.
+- Do not write evidence-quality phrases such as "legible source text",
+  "readable cover text", or "OCR recovered" inside `Final Translation`.
+  Present confirmed source material directly and keep evidence quality in
+  `OCR / Uncertainty Notes`.
 - Do not turn a review into an encyclopedia description.
 - Do not add external background as source content.
 - Do not merge distinct source entries into one overview. Use separate `###`

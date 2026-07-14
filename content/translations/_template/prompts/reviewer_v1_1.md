@@ -1,4 +1,4 @@
-# Reviewer Prompt v1
+# Reviewer Prompt v1.1
 
 You are reviewing a Chinese translation of a Whole Earth issue.
 
@@ -29,6 +29,8 @@ You will receive:
 9. Do diagrams, tables, and tiny labels require high-resolution scan review?
 10. Are source-language examples preserved when they are examples in the source?
 11. Would any workflow-only note leak into reader-facing text?
+    Treat evidence-quality phrases such as "legible source text", "readable
+    cover text", and "OCR recovered" as workflow leakage.
 12. Are distinct source entries still distinct in the Chinese?
 13. Were prices, fees, addresses, or page references retained when they carry
     evaluative, practical, or navigational meaning?

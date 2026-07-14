@@ -31,3 +31,5 @@ Record any wording pattern that must stay out of public reader text.
 - `OCR Notes`
 - `leaf 001` as body heading
 - page-description prose such as "right column" or "this page introduces"
+- evidence-quality prose such as "legible source text", "readable cover text",
+  or "OCR recovered"

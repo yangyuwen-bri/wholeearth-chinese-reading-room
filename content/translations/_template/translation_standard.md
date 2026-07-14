@@ -18,7 +18,8 @@ Translate substantive content:
 - section or column titles when they carry meaning;
 - arguments, examples, jokes, irony, hesitation, and evaluative tone.
 
-You may omit or compress low-value order metadata:
+You may omit or compress low-value order metadata only when it does not carry
+editorial, historical, navigational, or practical meaning:
 
 - prices;
 - stock numbers;
@@ -27,6 +28,9 @@ You may omit or compress low-value order metadata:
 - purely bibliographic details that do not affect the prose.
 
 Any omission must be recorded outside the reader-facing body.
+
+Retain a price, fee, cost, address, or page reference when the source uses it as
+part of an evaluation, comparison, access method, or navigation structure.
 
 ## Prohibited Drift
 
@@ -38,6 +42,7 @@ Do not:
 - add background knowledge as if it appeared in the source;
 - silently guess OCR-unclear words;
 - improve readability by deleting argument steps;
+- merge distinct source entries into one Chinese overview;
 - translate source-language example phrases when the page is displaying that
   language as an example.
 
@@ -94,3 +99,7 @@ Reviewer decisions:
 - `blocked_ocr`: source cannot be recovered enough for translation.
 
 Reviewers identify fidelity problems first. Style polish is secondary.
+
+`no_translation_needed` does not remove the file/review requirement. Translate
+any visible non-index heading, instruction, caption, or quotation before using
+that status.

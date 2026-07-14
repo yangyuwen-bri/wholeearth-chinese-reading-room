@@ -1,6 +1,6 @@
 # Whole Earth Chinese Translation Workflow
 
-Version: v1
+Version: v1.1
 
 This document defines the repeatable workflow for turning one Whole Earth issue
 into a faithful Chinese reading-room package.
@@ -51,9 +51,16 @@ content/translations/<issue_id>/
   qa_report.md
   agent_kickoff.md
   prompts/
+    source_provenance_v1.md
     translator_v1.md
+    translator_v1_1.md
     reviewer_v1.md
+    reviewer_v1_1.md
+    orchestrator_review_v1.md
     anchor_auditor_v1.md
+  examples/
+    leaf_example.md
+    review_example.md
   leaves/
     leaf_000.md
   reviews/
@@ -92,22 +99,46 @@ Examples of issues that should create a lesson:
 
 ## Agent Roles
 
-Use separate agents or separate passes for these roles:
+For full-issue production, use separate agents for source preparation,
+translation, and review. The orchestrator is a fourth role and owns the final
+quality gate.
 
 - `source-provenance`: verifies leaf range, printed page, OCR source, scan URLs,
-  and known OCR problems.
+  entry boundaries, and known OCR problems. It initializes only the `Source
+  Pack` and `Context Notes` sections for assigned leaves.
 - `translator`: produces faithful Chinese translation from the source pack.
+  It owns `Glossary Updates`, `Final Translation`, `Omitted
+  Bibliographic/Order Info`, `OCR / Uncertainty Notes`, and `Self Critique` for
+  assigned leaves.
 - `reviewer`: checks coverage, mistranslation, summary drift, OCR guessing, and
-  terminology consistency.
+  terminology consistency. It writes only the matching review files and does
+  not mark a leaf finally accepted.
+- `orchestrator`: assigns batches, resolves translator/reviewer disagreements,
+  promotes glossary decisions, updates `status.jsonl` and `qa_report.md`, and
+  is the only role that may set the final status to `accepted`.
 - `anchor-auditor`: verifies entry-level leaf anchors against scan/OCR evidence.
 - `link-auditor`: matches books, tools, organizations, and named references to
   stable external or internal links.
 - `reader-integrator`: converts accepted translation output into reader JSON and
   UI data.
 
-For small issues, one Codex session can run the roles sequentially. For large
-issues, use separate agents for translation and review, but keep all outputs in
-the same issue package.
+Keep all outputs in the same issue package. Agents may propose shared-state
+changes in their leaf or review files, but only the orchestrator edits
+`glossary.md`, `status.jsonl`, and `qa_report.md`. One leaf has only one writer
+at a time.
+
+For parallel production, stagger batches:
+
+```text
+source-provenance: prepare batch N+1
+translator: translate batch N
+reviewer: review batch N-1
+orchestrator: accept or return batch N-2
+```
+
+The first batch for a new issue is a calibration batch. Do not start a large
+run until the orchestrator has accepted its source mapping, translation shape,
+glossary behavior, and review evidence.
 
 ## Translation Loop
 
@@ -125,8 +156,63 @@ Each leaf or entry goes through this loop:
 6. `faithful_revision`: revise before review; self-critique must not appear in
    reader-facing text.
 7. `independent_review`: compare against OCR and scan, then assign a status.
-8. `human_accept`: only accepted or explicitly allowed output enters reader
+8. `orchestrator_accept`: the orchestrator checks the translation, review
+   evidence, glossary, omissions, and scan risks before setting the final
+   status. Only accepted or explicitly allowed output enters reader
    integration.
+
+Human release review may happen at issue milestones or before publication. It
+is separate from the per-leaf orchestrator gate.
+
+## Content Scope Decisions
+
+Translate all substantive visible content, including editorial evaluations,
+recommendations, excerpts, signatures, captions, and meaningful labels.
+
+Use semantic value, not field type alone, to decide whether transactional
+metadata belongs in the final translation:
+
+| Source content | Default treatment |
+| --- | --- |
+| Editorial review, argument, excerpt, signature | Translate in full |
+| Legible caption, table heading, or diagram label | Translate; block on scan if unresolved |
+| Title, author, editor, publication year | Retain |
+| Price, fee, or cost that affects the recommendation | Retain |
+| Repeated price, stock number, postage, supplier/order address | Omit or compress and record outside `Final Translation` |
+| Page reference that organizes navigation | Retain |
+| Dense alphabetical index entries | May omit as lookup metadata; still translate visible instructions, captions, headings, and quotations |
+
+`no_translation_needed` never means "skip the leaf." The leaf still requires a
+translation file, review file, explicit reason, and treatment of any visible
+non-index or non-order text.
+
+Do not merge distinct entries into one Chinese overview. A single leaf may
+contain multiple `###` entry headings inside `Final Translation`.
+
+## File Ownership and Handoff
+
+The canonical leaf file uses these exact sections:
+
+```text
+# Leaf ### Translation
+## Source Pack
+## Context Notes
+## Glossary Updates
+## Final Translation
+## Omitted Bibliographic/Order Info
+## OCR / Uncertainty Notes
+## Self Critique
+```
+
+The source agent initializes the first two sections. The translator completes
+the remaining sections without rewriting source evidence silently. The
+reviewer writes `reviews/leaf_###.review.md` with `Conclusion`, `Reasons`,
+`Required Fixes`, and `Residual Risks`. The orchestrator applies required
+revisions or returns the leaf, then updates shared state.
+
+Reviewer conclusion and final status are not the same event. A reviewer may
+recommend `accepted`; the leaf remains unaccepted until the orchestrator gate
+is complete.
 
 ## Statuses
 
@@ -148,6 +234,10 @@ Each leaf or entry goes through this loop:
 Do not mark a leaf `accepted` to hide uncertainty. A small number of unresolved
 items is better than false confidence.
 
+`needs_highres_scan` may contain a complete prose translation while still
+blocking on a substantive table, map, caption, diagram, or small label. Record
+the exact unresolved element in both the review and `qa_report.md`.
+
 ## Reader-Facing Rules
 
 Reader-facing output may include:
@@ -164,6 +254,9 @@ Reader-facing output must not include:
 - page-description prose such as "the right column introduces...";
 - instructions about what should or should not be translated;
 - leaf headings like `leaf 001` as body content;
+- evidence-quality phrases such as "legible source text", "readable cover
+  text", or "OCR recovered"; present confirmed source material directly and
+  keep evidence quality in workflow notes;
 - unreviewed OCR fragments unless explicitly marked as unresolved.
 
 ## Source Priority
@@ -180,6 +273,10 @@ High-risk leaves must be checked against high-resolution scan images, normally:
 ```text
 https://archive.org/download/<issue_id>/page/n<leaf>_w2000.jpg
 ```
+
+An OCR-based translation may advance through drafting and self-check while scan
+access is unavailable, but it cannot receive final `accepted` status until the
+orchestrator has adequate visual source evidence.
 
 ## Branch and Session Pattern
 

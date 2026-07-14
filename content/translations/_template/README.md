@@ -37,7 +37,32 @@ not be used as the translation source.
 - `qa_report.md`: status counts and blockers.
 - `workflow_lessons.md`: issue-specific workflow findings and reusable lessons.
 - `prompts/`: agent prompts used for this issue.
+- `examples/`: canonical leaf and review shapes.
 - `agent_kickoff.md`: text to paste into a new Codex session.
+
+## Content Boundary
+
+Translate all substantive visible content. Repeated price, stock, postage, and
+supplier/address lines may be omitted or compressed only when they do not
+carry editorial, historical, navigational, or practical meaning. Record every
+such omission in `Omitted Bibliographic/Order Info`.
+
+Do not merge distinct source entries into one overview. Use multiple `###`
+headings inside `Final Translation` when a leaf contains multiple entries.
+
+`no_translation_needed` still requires a leaf file and review. Translate any
+visible heading, instruction, caption, quotation, or other non-index text.
+
+## Agent Ownership
+
+- Source agent: `Source Pack` and `Context Notes` for assigned leaves.
+- Translator: remaining sections in assigned leaf files.
+- Reviewer: matching files under `reviews/` only.
+- Orchestrator: `glossary.md`, `status.jsonl`, `qa_report.md`, final acceptance,
+  and workflow promotion decisions.
+
+One leaf has one writer at a time. Agents propose shared-state changes in their
+own output; they do not edit shared files concurrently.
 
 ## Operating Rule
 

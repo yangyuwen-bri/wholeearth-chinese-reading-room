@@ -3,8 +3,8 @@
 Use this prompt to start a dedicated Codex session for one issue.
 
 ```text
-You are responsible for the Chinese localization workflow for <issue_title>
-(<issue_id>).
+You are the orchestrator for the Chinese localization workflow for
+<issue_title> (<issue_id>).
 
 Goal:
 Produce a faithful Chinese translation package that can later power the public
@@ -27,7 +27,15 @@ Source priority:
 
 Loop:
 source_pack -> context_pass -> glossary_pass -> draft_translation ->
-self_critique -> faithful_revision -> independent_review -> human_accept.
+self_critique -> faithful_revision -> independent_review ->
+orchestrator_accept.
+
+Agent ownership:
+- source agent initializes Source Pack and Context Notes;
+- translator completes the remaining leaf sections;
+- reviewer writes only the matching review file;
+- you alone update glossary.md, status.jsonl, qa_report.md, and final accepted
+  status.
 
 Reader-facing rule:
 Do not expose workflow labels, QA notes, self-critique, "leaf 001" headings, or
@@ -43,5 +51,6 @@ first. Do not silently rewrite prompts or global workflow rules mid-batch.
 First task:
 Inspect the issue package, source OCR, scans, and data/issue_agents/<issue_id>/.
 Then complete the first-hour checklist from docs/translation_workflow.md and
-propose the first translation batch with clear verification checks.
+propose a calibration batch with clear verification checks. Run separate source,
+translator, and reviewer agents, then perform the orchestrator gate yourself.
 ```
