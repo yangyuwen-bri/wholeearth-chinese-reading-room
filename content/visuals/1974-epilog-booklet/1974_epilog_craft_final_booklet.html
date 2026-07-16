@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1974《全球概览·尾声》 / 手艺暹罗猫小册子</title>
+  <style>
+    :root { --paper:#efe4cf; --sheet:#fff8e9; --ink:#211911; --muted:#6d6255; --line:#c7b796; --heavy:#3b2a1e; --blue:#245c83; --green:#546f46; }
+    * { box-sizing:border-box; } html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:linear-gradient(rgba(33,25,17,.035) 1px,transparent 1px),radial-gradient(circle at 14% 8%,rgba(255,248,233,.88),transparent 26%),var(--paper); background-size:100% 22px,auto,auto; font-family:"Iowan Old Style","Songti SC","STSong","Noto Serif CJK SC",Georgia,serif; line-height:1.62; }
+    .booklet { width:min(1360px,100%); margin:0 auto; padding:clamp(16px,3vw,38px); }
+    .chapter-strip { display:flex; flex-wrap:wrap; gap:10px 18px; align-items:baseline; padding:4px 0 18px; border-bottom:1px solid var(--line); color:var(--muted); font-size:14px; }
+    .chapter-strip strong { color:var(--ink); font-size:clamp(22px,3vw,34px); font-weight:650; }
+    .reader-guide,.phase { border-bottom:1px solid rgba(199,183,150,.72); }
+    .reader-guide { display:grid; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); gap:clamp(18px,4vw,48px); padding:clamp(22px,4vw,44px) 0; align-items:start; }
+    .reader-guide h1,.phase h2 { margin:0; color:var(--ink); font-size:clamp(28px,4vw,52px); line-height:1.26; font-weight:650; letter-spacing:0; padding:0 0 .12em; }
+    .guide-copy { display:grid; gap:12px; color:#392d22; font-size:clamp(17px,1.6vw,21px); line-height:1.68; }
+    .guide-copy p,.phase p,.copy p,h2 { margin:0; }
+    .toc { display:flex; flex-wrap:wrap; gap:8px; padding:18px 0 10px; border-bottom:1px solid rgba(199,183,150,.66); }
+    .toc a { color:var(--blue); text-decoration:none; border:1px solid rgba(36,92,131,.34); background:rgba(255,248,233,.62); padding:4px 9px; font-size:13px; }
+    .phase { display:grid; grid-template-columns:minmax(0,.46fr) minmax(0,1fr); gap:clamp(18px,4vw,44px); padding:clamp(20px,4vw,38px) 0 0; color:var(--muted); }
+    .phase h2 { font-size:clamp(24px,3.2vw,42px); line-height:1.3; }
+    .phase p { max-width:780px; font-size:clamp(16px,1.45vw,19px); line-height:1.72; }
+    .spread { display:grid; grid-template-columns:minmax(0,1.42fr) minmax(320px,.58fr); gap:clamp(18px,3.5vw,42px); align-items:center; min-height:min(860px,calc(100vh - 24px)); padding:clamp(26px,5vw,66px) 0; border-bottom:1px solid rgba(199,183,150,.76); }
+    .spread:nth-of-type(even) { grid-template-columns:minmax(320px,.58fr) minmax(0,1.42fr); } .spread:nth-of-type(even) .art { order:2; }
+    .art { margin:0; padding:clamp(8px,1.2vw,14px); border:1.5px solid var(--heavy); border-radius:18px; background:var(--sheet); box-shadow:12px 12px 0 rgba(59,42,30,.09); min-width:0; }
+    .art img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; border-radius:12px; background:#f7ecd6; }
+    .copy { min-width:0; display:grid; gap:14px; align-content:center; }
+    .module { color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; }
+    .copy h2 { font-size:clamp(28px,4.3vw,54px); line-height:1.26; font-weight:650; letter-spacing:0; padding-bottom:.08em; }
+    .anchor { padding-left:14px; border-left:3px solid var(--green); font-size:clamp(18px,2vw,23px); line-height:1.58; }
+    .body { color:#392d22; font-size:15.5px; line-height:1.72; } .body + .body { margin-top:-4px; } .body strong { color:var(--ink); font-weight:700; }
+    .tags { display:flex; flex-wrap:wrap; gap:8px; } .tags span { border:1px solid rgba(36,92,131,.42); color:var(--blue); background:rgba(255,248,233,.78); padding:3px 8px; font-size:13px; }
+    @media (max-width:960px) { .reader-guide,.phase,.spread,.spread:nth-of-type(even) { grid-template-columns:1fr; min-height:auto; } .spread:nth-of-type(even) .art { order:0; } }
+    @media (max-width:560px) { .booklet { padding:14px; } .art { border-radius:12px; box-shadow:6px 6px 0 rgba(59,42,30,.09); } .art img { border-radius:8px; } .body { font-size:15px; } }
+  </style>
+</head>
+<body>
+  <main class="booklet">
+    <div class="chapter-strip"><strong>五、手艺</strong><span>1974《全球概览·尾声》 / 暹罗猫知识小册子</span></div>
+
+    <section class="reader-guide" aria-label="读法">
+      <h1>这章说的是手知道的事。</h1>
+      <div class="guide-copy">
+        <p>手艺不是“漂亮手作”。它保存的是工业社会常常藏起来的知识：工具怎样锋利，皮革怎样受力，泥土怎样进火，线怎样有捻度，针密怎样改变衣服尺寸，传统物件为什么不能随便复制。</p>
+        <p>这一章可以按材料读，也可以按身体动作读：找资料、做工具、切、缝、捏、烧、染、织、量、改，最后把世界重新理解为可以被做出来的东西。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="手艺小册子目录">
+      <a href="#cr-01">01 资料边界</a><a href="#cr-02">02 工具制作</a><a href="#cr-03">03 木雕皮革</a><a href="#cr-04">04 泥火玻璃</a><a href="#cr-05">05 纺线染色</a><a href="#cr-06">06 编织篮子</a><a href="#cr-07">07 针线制版</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、先找到可靠入口</h2>
+      <p>手艺的第一步不是买材料，而是找到能带你开始、练习并尊重传统边界的资料。</p>
+    </section>
+
+    <article class="spread" id="cr-01">
+      <figure class="art"><img src="assets/craft-siamese-final/01-access-tradition-boundaries.png" alt="手艺资料传统边界 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 01</div>
+        <h2>找书、找传统、尊重边界</h2>
+        <p class="anchor">可靠资料本身就是工具；传统物件也不是随手可复制的装饰。</p>
+        <p class="body"><strong>先看图：</strong>目录、纺织书店、北美原住民手艺手册、《狐火》和纺线老人被放在同一间资料室。进入手艺的第一步，是找到对的书和对的传统。</p>
+        <p class="body"><strong>有趣的是：</strong>《北美印第安手艺》谨慎处理鼓、烟斗、面具等有精神意义的物件。若不了解它们的位置，复制可能把面具降成万圣节服装。</p>
+        <p class="body"><strong>为什么重要：</strong>《全球概览》 这里不是把所有传统都拿来消费，而是在提醒：手艺既是技术，也是关系和责任。</p>
+        <div class="tags"><span>读图线索：资料也是工具</span><span>不要随便复制</span><span>乡土知识</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cr-02">
+      <figure class="art"><img src="assets/craft-siamese-final/02-tool-making.png" alt="工具制作 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 02</div>
+        <h2>工具制作：用工具做工具</h2>
+        <p class="anchor">一旦能做自己的工具，人就不必只能购买别人为别的目的设计的工具。</p>
+        <p class="body"><strong>先看图：</strong>锻炉、铁砧、钻床、台钳、废钢、锉刀、螺丝刀、剪刀和凿子构成了一条学习路线。工具制作被称为最高的手艺之一。</p>
+        <p class="body"><strong>有趣的是：</strong>威格斯在荷兰做学生时，第一年工坊时间都只学平锉，直到能达到机器般精度。锉刀常常能像砂轮一样有效，却更可控。</p>
+        <p class="body"><strong>为什么重要：</strong>安全也是手艺的一部分。活火、锐利工具和分心不能共存；健全的工具制作者始终处在控制中。</p>
+        <div class="tags"><span>读图线索：先练平锉</span><span>废钢也是材料</span><span>安全是手艺</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、材料会教手</h2>
+      <p>木头、皮革、陶土、蜡、玻璃和珠子都不是被动材料。它们会用阻力、温度、湿度、裂纹和重量训练人的判断。</p>
+    </section>
+
+    <article class="spread" id="cr-03">
+      <figure class="art"><img src="assets/craft-siamese-final/03-woodcarving-leather.png" alt="木雕和皮革 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 03</div>
+        <h2>木雕工具与皮革</h2>
+        <p class="anchor">工具名不是术语负担，而是进入材料语言的钥匙。</p>
+        <p class="body"><strong>先看图：</strong>V 形刀、小 U 形刀、弯凿、匙形圆凿、皮革刀、染色、边缘整理和鞍针缝法被放在同一张工作台上。木头和皮革都要求手稳定。</p>
+        <p class="body"><strong>有趣的是：</strong>鞍针缝法最怕“不一致”。若第一针左针在前，后面每一针都要保持左针在前，否则缝线会粗糙不均。</p>
+        <p class="body"><strong>为什么重要：</strong>好的教学常常来自朋友型工匠在每一步纠正你：再压重点，那只是表面抛光。手艺要靠细节和苦工进入。</p>
+        <div class="tags"><span>读图线索：工具形状说明功能</span><span>每针一致</span><span>锋利才好切</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cr-04">
+      <figure class="art"><img src="assets/craft-siamese-final/04-clay-wax-glass.png" alt="陶艺蜡玻璃 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 04</div>
+        <h2>陶艺、蜡、珠子与玻璃</h2>
+        <p class="anchor">火和热会让材料显形，也会把人的错误留下来。</p>
+        <p class="body"><strong>先看图：</strong>指痕陶壶、锯末窑、釉配方、蜡烛模具、回收珠宝、珠子、彩色玻璃和吹玻璃的湿木块围成一个热工作室。</p>
+        <p class="body"><strong>有趣的是：</strong>贝伦森喜欢壶留下手指痕迹，因为那是你的手。吹玻璃时，湿木块不直接接触玻璃，中间有一层过热蒸汽，太干就会粘住并留下气泡。</p>
+        <p class="body"><strong>为什么重要：</strong>这些材料不允许只凭想象。冷却太快、釉配方不准、木块太干，都会在成品上留下证据。</p>
+        <div class="tags"><span>读图线索：火会记录手</span><span>控制冷却</span><span>热玻璃要敬畏</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、线、布和尺寸会反驳想象</h2>
+      <p>纺线、染色、编织、篮编、钩针、针织、刺绣和制版都在训练同一件事：材料和身体尺寸最终会给出答案。</p>
+    </section>
+
+    <article class="spread" id="cr-05">
+      <figure class="art"><img src="assets/craft-siamese-final/05-knots-batik-spinning-dyeing.png" alt="绳结蜡染纺线染色 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 05</div>
+        <h2>绳结、蜡染、纺线与染色</h2>
+        <p class="anchor">线不是抽象线条，它有捻度、张力、颜色、来源和设备。</p>
+        <p class="body"><strong>先看图：</strong>海事绳结、蜡染、普施安染料、纺车、剪羊毛、天然植物染色和织机计划被放在一个纺织工作室里。</p>
+        <p class="body"><strong>有趣的是：</strong>阿丽姨妈说自己爱极了纺线，爱把线带上去、让轮子转。莎拉·卡恩则在煮胡萝卜叶染色时发现，自己以前竟没想到可以这样染。</p>
+        <p class="body"><strong>为什么重要：</strong>《全球概览》 关心的不只是成品布，而是设备能否被人制造，染料是否耐洗，布料准备是否正确。</p>
+        <div class="tags"><span>读图线索：线有身体</span><span>布料准备很关键</span><span>设备能否自造</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cr-06">
+      <figure class="art"><img src="assets/craft-siamese-final/06-weaving-baskets-crochet-knitting.png" alt="编织篮子钩针针密 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 06</div>
+        <h2>编织、篮子、钩针与针密</h2>
+        <p class="anchor">一根线、一根柳条、半针密度，都能改变最终形状。</p>
+        <p class="body"><strong>先看图：</strong>古秘鲁纺织、纳瓦霍织机、篮子结构、钩针造型和针织样片被放在同一张纺织墙上。这里的复杂不是炫技，而是结构判断。</p>
+        <p class="body"><strong>有趣的是：</strong>针织密度很残酷：30 英寸腰围，每英寸 7.5 针是 225 针，每英寸 8 针是 240 针，差出来就是两英寸。</p>
+        <p class="body"><strong>为什么重要：</strong>篮编部分最清楚地讲出技术进步的损失：工业发展一来，手工篮编传统就会消失，使用篮子的感官愉悦也会失去。</p>
+        <div class="tags"><span>读图线索：半针也重要</span><span>篮子是结构艺术</span><span>技术会消灭手感</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cr-07">
+      <figure class="art"><img src="assets/craft-siamese-final/07-embroidery-quilts-sewing-patterns.png" alt="刺绣拼布缝纫制版 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 07</div>
+        <h2>刺绣、拼布被、缝纫与制版</h2>
+        <p class="anchor">针线不是家务残余，而是结构、颜色、身体尺寸和女性表达的历史。</p>
+        <p class="body"><strong>先看图：</strong>刺绣针法按结构归组，拼布被作为视觉艺术被挂起，缝纫机旁是插片、商业纸样和个人基本纸样。</p>
+        <p class="body"><strong>有趣的是：</strong>拼布、被缝和针线艺术曾长期是女性少数能创造性表达自己的途径。许多一两百年前被子里的色彩组合，早于现代艺术运动，却长期被忽视。</p>
+        <p class="body"><strong>为什么重要：</strong>制版把身体带回纸面。所谓平面纸样法，是从已经适合个人身体的基本纸样出发，把它改成选定设计。</p>
+        <div class="tags"><span>读图线索：针法有结构</span><span>被子不是残余</span><span>纸样从身体来</span></div>
+      </section>
+    </article>
+  </main>
+</body>
+</html>

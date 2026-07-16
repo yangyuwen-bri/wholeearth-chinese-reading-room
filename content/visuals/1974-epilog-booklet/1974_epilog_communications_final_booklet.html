@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1974《全球概览·尾声》 / 通信暹罗猫小册子</title>
+  <style>
+    :root { --paper:#efe4cf; --sheet:#fff8e9; --ink:#211911; --muted:#6d6255; --line:#c7b796; --heavy:#3b2a1e; --blue:#245c83; --green:#546f46; }
+    * { box-sizing:border-box; } html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:linear-gradient(rgba(33,25,17,.035) 1px,transparent 1px),radial-gradient(circle at 14% 8%,rgba(255,248,233,.88),transparent 26%),var(--paper); background-size:100% 22px,auto,auto; font-family:"Iowan Old Style","Songti SC","STSong","Noto Serif CJK SC",Georgia,serif; line-height:1.62; }
+    .booklet { width:min(1360px,100%); margin:0 auto; padding:clamp(16px,3vw,38px); }
+    .chapter-strip { display:flex; flex-wrap:wrap; gap:10px 18px; align-items:baseline; padding:4px 0 18px; border-bottom:1px solid var(--line); color:var(--muted); font-size:14px; }
+    .chapter-strip strong { color:var(--ink); font-size:clamp(22px,3vw,34px); font-weight:650; }
+    .reader-guide,.phase { border-bottom:1px solid rgba(199,183,150,.72); }
+    .reader-guide { display:grid; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); gap:clamp(18px,4vw,48px); padding:clamp(22px,4vw,44px) 0; align-items:start; }
+    .reader-guide h1,.phase h2 { margin:0; color:var(--ink); font-size:clamp(28px,4vw,52px); line-height:1.26; font-weight:650; letter-spacing:0; padding:0 0 .12em; }
+    .guide-copy { display:grid; gap:12px; color:#392d22; font-size:clamp(17px,1.6vw,21px); line-height:1.68; }
+    .guide-copy p,.phase p,.copy p,h2 { margin:0; }
+    .toc { display:flex; flex-wrap:wrap; gap:8px; padding:18px 0 10px; border-bottom:1px solid rgba(199,183,150,.66); }
+    .toc a { color:var(--blue); text-decoration:none; border:1px solid rgba(36,92,131,.34); background:rgba(255,248,233,.62); padding:4px 9px; font-size:13px; }
+    .phase { display:grid; grid-template-columns:minmax(0,.46fr) minmax(0,1fr); gap:clamp(18px,4vw,44px); padding:clamp(20px,4vw,38px) 0 0; color:var(--muted); }
+    .phase h2 { font-size:clamp(24px,3.2vw,42px); line-height:1.3; }
+    .phase p { max-width:800px; font-size:clamp(16px,1.45vw,19px); line-height:1.72; }
+    .spread { display:grid; grid-template-columns:minmax(0,1.42fr) minmax(320px,.58fr); gap:clamp(18px,3.5vw,42px); align-items:center; min-height:min(860px,calc(100vh - 24px)); padding:clamp(26px,5vw,66px) 0; border-bottom:1px solid rgba(199,183,150,.76); }
+    .spread:nth-of-type(even) { grid-template-columns:minmax(320px,.58fr) minmax(0,1.42fr); } .spread:nth-of-type(even) .art { order:2; }
+    .art { margin:0; padding:clamp(8px,1.2vw,14px); border:1.5px solid var(--heavy); border-radius:18px; background:var(--sheet); box-shadow:12px 12px 0 rgba(59,42,30,.09); min-width:0; }
+    .art img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; border-radius:12px; background:#f7ecd6; }
+    .copy { min-width:0; display:grid; gap:14px; align-content:center; }
+    .module { color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; }
+    .copy h2 { font-size:clamp(28px,4.3vw,54px); line-height:1.26; font-weight:650; letter-spacing:0; padding-bottom:.08em; }
+    .anchor { padding-left:14px; border-left:3px solid var(--green); font-size:clamp(18px,2vw,23px); line-height:1.58; }
+    .body { color:#392d22; font-size:15.5px; line-height:1.72; } .body + .body { margin-top:-4px; } .body strong { color:var(--ink); font-weight:700; }
+    .tags { display:flex; flex-wrap:wrap; gap:8px; } .tags span { border:1px solid rgba(36,92,131,.42); color:var(--blue); background:rgba(255,248,233,.78); padding:3px 8px; font-size:13px; }
+    @media (max-width:960px) { .reader-guide,.phase,.spread,.spread:nth-of-type(even) { grid-template-columns:1fr; min-height:auto; } .spread:nth-of-type(even) .art { order:0; } }
+    @media (max-width:560px) { .booklet { padding:14px; } .art { border-radius:12px; box-shadow:6px 6px 0 rgba(59,42,30,.09); } .art img { border-radius:8px; } .body { font-size:15px; } }
+  </style>
+</head>
+<body>
+  <main class="booklet">
+    <div class="chapter-strip"><strong>八、通信</strong><span>1974《全球概览·尾声》 / 暹罗猫知识小册子</span></div>
+
+    <section class="reader-guide" aria-label="读法">
+      <h1>通信不是传播学，是信息怎样变成工具。</h1>
+      <div class="guide-copy">
+        <p>这一章从邮购目录、文件抽屉、电话答录机，一路走到书法、装订、自出版、诗歌、地图、摄影、电影、视频、音乐、合成器、无线电、计算机、算法、计算器、经济和管理。</p>
+        <p>它的中心不是“媒介很多”，而是谁能进入这些媒介：谁能说，谁能听，谁能复制，谁能查找，谁能修理媒介本身，谁不再只是被广播。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="通信小册子目录">
+      <a href="#co-01">01 目录电话</a><a href="#co-02">02 媒体哲学</a><a href="#co-03">03 演讲伦理</a><a href="#co-04">04 造书</a><a href="#co-05">05 自出版</a><a href="#co-06">06 文学视觉</a><a href="#co-07">07 摄影视频</a><a href="#co-08">08 音乐</a><a href="#co-09">09 无线电计算机</a><a href="#co-10">10 经济管理</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、信息先落在纸、线和身体上</h2>
+      <p>目录、电话、媒介哲学、演讲伦理和书籍手艺，让通信从抽象概念落回纸张、线路、感知、声音和手。</p>
+    </section>
+
+    <article class="spread" id="co-01">
+      <figure class="art"><img src="assets/communications-siamese-final/01-catalogs-office-telephone.png" alt="目录办公室电话 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 01</div>
+        <h2>目录、办公室和电话</h2>
+        <p class="anchor">通信先不是理论，而是商品从哪里找，信件多重，文件怎么放，留言能否被留下。</p>
+        <p class="body"><strong>先看图：</strong>目录、邮政秤、文件抽屉、答录机、会议电话和线路图被放在一间办公室里。可达性在这里非常物质：纸张、重量、时间和线。</p>
+        <p class="body"><strong>有趣的是：</strong>邮购目录被看成对大销量商品营销的修补。即便身在大城市，消费者也未必能接触到完整商品谱系，目录让冷僻但有用的东西重新可见。</p>
+        <p class="body"><strong>为什么重要：</strong>电话伴侣答录机用三十秒招呼和三十秒留言保存来电，会议电话设备省掉会议午餐，《电话爱好者通讯》则让电话系统成为爱好者和电话公司共同进化的奇观。</p>
+        <div class="tags"><span>读图线索：通信有重量</span><span>目录是入口</span><span>电话也是可研究系统</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-02">
+      <figure class="art"><img src="assets/communications-siamese-final/02-media-philosophy-perception.png" alt="媒体哲学感知控制 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 02</div>
+        <h2>媒体哲学：图像为什么难以说“不”</h2>
+        <p class="anchor">媒体不是承载内容的管道，它会改变人相信什么、看见什么、怎样行动。</p>
+        <p class="body"><strong>先看图：</strong>文字屏、动态图像屏、《实时》目录、卡彭特的媒体人类学和视频反馈回路互相缠绕。这里的通信已经进入感知结构。</p>
+        <p class="body"><strong>有趣的是：</strong>卡彭特说，图像不能像语言那样容易地说“不”。动态图像像现实，因此要不相信自己看见的东西，需要意志。</p>
+        <p class="body"><strong>为什么重要：</strong>怀特海、布罗克曼、卡彭特和保罗·瑞安让本章从工具目录转向“无重量的难题”：媒体如何塑造社会控制、感知和行动条件。</p>
+        <div class="tags"><span>读图线索：媒介会塑形</span><span>图像很有说服力</span><span>反馈改变行动</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-03">
+      <figure class="art"><img src="assets/communications-siamese-final/03-speaking-ethics-body-language.png" alt="演讲伦理身体语言 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 03</div>
+        <h2>说话、伦理和身体语言</h2>
+        <p class="anchor">通信不是效率技术，它也有诚实、主题、公平、克制、姿势、颜色和沉默。</p>
+        <p class="body"><strong>先看图：</strong>讲台、伦理天平、姿势剪影、动物拟态、植物色彩和静默符号被连在一起。人的演讲只是通信的一种，颜色和身体也在说话。</p>
+        <p class="body"><strong>有趣的是：</strong>《公共演讲的艺术》把好演讲压缩得很硬：有话才说，只说相信为真的话，准备充分，清楚、公平、简短，说完就停。</p>
+        <p class="body"><strong>为什么重要：</strong>《全球概览》 从通信的把手抓伦理，是因为信息会影响信任、行为、权力和误解。媒介越强，克制越重要。</p>
+        <div class="tags"><span>读图线索：说完就停</span><span>身体也在传讯</span><span>伦理不是附录</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-04">
+      <figure class="art"><img src="assets/communications-siamese-final/04-calligraphy-bookmaking-design.png" alt="书法纸装订书籍设计 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 04</div>
+        <h2>书法、纸、装订和书籍设计</h2>
+        <p class="anchor">信息成为书之前，会经过笔角、纸浆、水印、折页、缝线、修复和版面判断。</p>
+        <p class="body"><strong>先看图：</strong>猫在练斜体笔角，旁边是造纸、装订、皮革修复和页面网格。通信在这里重新变成手工和材料。</p>
+        <p class="body"><strong>有趣的是：</strong>劳埃德·雷诺兹要求一开始就保持四十五度笔角，否则后续都会错。他甚至建议听莫扎特第四十交响曲练字，让节奏进入笔触。</p>
+        <p class="body"><strong>为什么重要：</strong>《用设计编辑》把设计定义为清晰传递信息。页面不是装饰，版面本身就是通信工具。</p>
+        <div class="tags"><span>读图线索：笔角决定后面</span><span>书是可修复的物</span><span>清晰也是设计</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、边缘也能出版、朗读、拍摄和反馈</h2>
+      <p>自办出版、诗歌朗读、墙画、漫画、摄影、电影和便携视频，都在改变谁能把经验变成公共材料。</p>
+    </section>
+
+    <article class="spread" id="co-05">
+      <figure class="art"><img src="assets/communications-siamese-final/05-self-publishing-reference.png" alt="自出版小报参考工具 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 05</div>
+        <h2>自行出版、小报和参考工具</h2>
+        <p class="anchor">小出版社、小报、书评期刊、研究指南和词典，改变的是谁能发声，谁能查到。</p>
+        <p class="body"><strong>先看图：</strong>手摇印刷机、油印小报、书评堆、索引卡和打开的《牛津英语词典》被连成一个出版参考台。它把发声和查找放在同一个系统里。</p>
+        <p class="body"><strong>有趣的是：</strong>农村油印报纸的朴素规则是：名字是新闻的血液。人们会在聚会报道里找自己的名字，名字拼错会制造敌人。</p>
+        <p class="body"><strong>为什么重要：</strong>《图书馆杂志》被称为评论最好、覆盖最广、废话最少的书评期刊。《牛津英语词典》则让词变成历史用法的化石和活体。</p>
+        <div class="tags"><span>读图线索：名字很重要</span><span>自出版不是玩票</span><span>参考书节省生命</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-06">
+      <figure class="art"><img src="assets/communications-siamese-final/06-literature-poetry-visual-art.png" alt="文学诗歌视觉艺术 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 06</div>
+        <h2>文学、诗歌和视觉艺术</h2>
+        <p class="anchor">小说、诗歌朗读、墙画、视觉素养、漫画和地图，都在重排人的感知。</p>
+        <p class="body"><strong>先看图：</strong>厚小说、诗歌麦克风、墙画刷子、视觉素养卡、漫画面板和制图工具被放进一间文化工作室。不同媒介都在问：经验怎样被组织成可感知的形式？</p>
+        <p class="body"><strong>有趣的是：</strong>安妮·沃尔德曼说进入当代诗歌最好通过诗人本人：朗读、唱片、磁带、书和杂志。诗的性质转瞬即逝，听诗人读常常最有回报。</p>
+        <p class="body"><strong>为什么重要：</strong>地下漫画被放在文化变形中心，因为低成本漫画让反主流文化能自我批评、夸张、冒犯和传播。</p>
+        <div class="tags"><span>读图线索：诗要被听见</span><span>墙画连接邻里</span><span>地图也是想法</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-07">
+      <figure class="art"><img src="assets/communications-siamese-final/07-photo-film-theater-video.png" alt="摄影电影戏剧视频 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 07</div>
+        <h2>摄影、电影、戏剧和视频</h2>
+        <p class="anchor">这些媒介不只是成片，而是观看、实验、在场互动、反馈和本地信息生产。</p>
+        <p class="body"><strong>先看图：</strong>摄影构图框、电影冲印笔记、即兴戏剧的地点人物事件、便携录像机和反馈屏幕在同一间工作室里。现实感被一层层重新打开。</p>
+        <p class="body"><strong>有趣的是：</strong>莱尼·利普顿像会修车的朋友，把电影行业黑话降到实验者能进入的程度。但他也承认，没有书能替代真正完成几部电影得到的智慧。</p>
+        <p class="body"><strong>为什么重要：</strong>游击电视团体对便携视频很冷静：革命没有马上发生，但成千上万便携录像机已经在个人手中。留下的人开始发展电视的新标准。</p>
+        <div class="tags"><span>读图线索：视频是反馈</span><span>即兴不是乱来</span><span>现实感可被训练</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、声音、信号、逻辑和组织</h2>
+      <p>音乐、无线电、计算机、算法、计算器、经济和管理，把通信推到声波、电路、步骤和组织结构里。</p>
+    </section>
+
+    <article class="spread" id="co-08">
+      <figure class="art"><img src="assets/communications-siamese-final/08-music-sound-electronics.png" alt="音乐乐器音响电子音乐 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 08</div>
+        <h2>音乐、乐器、音响和电子音乐</h2>
+        <p class="anchor">声音也可以被读、被做、被调试，从民歌谱到手工吉他，从喇叭到合成器。</p>
+        <p class="body"><strong>先看图：</strong>乐谱、民歌小刊、手工制琴、喇叭对比、合成器接线和电子套件被放在一张声音工作台上。声学和电子不是敌人，而是两种可做工具。</p>
+        <p class="body"><strong>有趣的是：</strong>《古典吉他制作》说好声音来自处于松弛、顺畅状态的材料。一把各部分应力最少的吉他，调好后声音最好。</p>
+        <p class="body"><strong>为什么重要：</strong>唐·布克拉强调合成器制造的是“合成出来的音乐”，不是“假音乐”。电子音乐是真音乐，不是人工假货。</p>
+        <div class="tags"><span>读图线索：声音也可制作</span><span>先听喇叭</span><span>电子不等于假</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-09">
+      <figure class="art"><img src="assets/communications-siamese-final/09-radio-computing-algorithms.png" alt="无线电计算机算法计算器 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 09</div>
+        <h2>无线电、计算机、算法和计算器</h2>
+        <p class="anchor">业余无线电、短波、晶体管逻辑电路、算法、几何和口袋计算器，把通信和逻辑放到个人桌面。</p>
+        <p class="body"><strong>先看图：</strong>业余无线电、短波地图、晶体管逻辑电路面包板、算法卡、几何模型、囚徒困境表和口袋计算器连在一张工作台上。信号和逻辑都变得可练习。</p>
+        <p class="body"><strong>有趣的是：</strong>业余无线电在灾难期间常常是最好甚至唯一的外部联络。小功率设备通过中继台也能覆盖二十到五十英里。</p>
+        <p class="body"><strong>为什么重要：</strong>克努特的算法被拿来和食谱比较：有限步骤，规定怎样把输入转成输出。计算机不是魔法，而是可读、可做、可检查的过程。</p>
+        <div class="tags"><span>读图线索：逻辑可上桌</span><span>灾难里信号很重要</span><span>算法像食谱</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-10">
+      <figure class="art"><img src="assets/communications-siamese-final/10-economics-management.png" alt="经济管理控制论组织 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 10</div>
+        <h2>经济和管理</h2>
+        <p class="anchor">通信末端会进入组织和资源分配：礼物、管理任务、控制论，以及消解问题。</p>
+        <p class="body"><strong>先看图：</strong>礼物经济圆圈、管理任务板、控制论反馈回路和被重新整理的问题结，被放在同一张组织桌上。信息最终要改变资源怎样流动。</p>
+        <p class="body"><strong>有趣的是：</strong>萨林斯写“原初富足社会”时反转了贫穷想象：随食物移动的人，占有物反而碍事。行动自由可能比物品更多更重要。</p>
+        <p class="body"><strong>为什么重要：</strong>斯塔福德·比尔说，比解决问题更聪明的是“消解问题”。那不是完成任务，而是重新组织系统，让原来的问题不再以同样形式存在。</p>
+        <div class="tags"><span>读图线索：礼物也是政治</span><span>组织会反馈</span><span>消解不是绕开</span></div>
+      </section>
+    </article>
+  </main>
+</body>
+</html>
