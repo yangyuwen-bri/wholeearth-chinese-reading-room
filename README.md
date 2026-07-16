@@ -6,6 +6,7 @@
 [![Static site](https://img.shields.io/badge/site-static_HTML%2FCSS%2FJS-6b7280?style=flat-square)](#run-locally)
 [![Issues indexed](https://img.shields.io/badge/issues_indexed-147-3b6ea8?style=flat-square)](#current-status)
 [![Reading rooms](https://img.shields.io/badge/open_reading_rooms-1-b17a2c?style=flat-square)](#featured-entries)
+[![Visual booklets](https://img.shields.io/badge/visual_booklets-1-7c4d9e?style=flat-square)](#featured-entries)
 [![License](https://img.shields.io/badge/license-not_declared-lightgrey?style=flat-square)](#license-and-rights)
 
 **Whole Earth Chinese Reading Room** builds Chinese reading rooms for the Whole Earth family of publications: *Whole Earth Catalog*, *Whole Earth Epilog*, *CoEvolution Quarterly*, *Whole Earth Software Catalog*, and *Whole Earth Review*.
@@ -18,15 +19,19 @@ The project treats each published issue as an edited reading object. A finished 
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="25%">
       <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/reader-prototype/index.html"><strong>1974 Epilog Reading Room</strong></a><br>
       Chinese close reading of <em>Whole Earth Epilog</em>, synchronized with Internet Archive scan pages.
     </td>
-    <td width="33%">
+    <td width="25%">
+      <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/content/visuals/1974-epilog-booklet/"><strong>1974 Epilog Visual Booklet</strong></a><br>
+      Illustrated chapter booklet for <em>Whole Earth Epilog</em>, built from the complete Chinese chapter translation.
+    </td>
+    <td width="25%">
       <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/content/demos/wholeearth_webgl_console_demo.html"><strong>WebGL Library Console</strong></a><br>
       A visual index for 147 Whole Earth issues, with reading status and publication routes.
     </td>
-    <td width="33%">
+    <td width="25%">
       <a href="content/readings/1985_software_catalog_full_chinese_reading.md"><strong>1985 Software Catalog Guide</strong></a><br>
       Full Chinese guide for <em>Whole Earth Software Catalog 2.0</em>, ready for future reading-room work.
     </td>
@@ -51,6 +56,7 @@ Promotion from workbench to reading room is manual. The near-term goal is a smal
 | --- | --- |
 | Public home | WebGL console deployed on GitHub Pages |
 | Open reading room | *Whole Earth Epilog*, October 1974 |
+| Visual booklet | *Whole Earth Epilog*, 1974 chapter booklet |
 | Full Chinese guide | *Whole Earth Software Catalog 2.0*, Fall 1985 |
 | Indexed issues | 147 |
 | Page-level OCR dossiers | 22,162 pages |
@@ -68,6 +74,7 @@ content/
   readings/        # Chinese guides and close-reading drafts
   samples/         # historical page-level reading samples
   vendor/          # static browser dependencies
+  visuals/         # independent illustrated booklets and visual guides
 
 data/
   evidence_dossiers/  # issue-level OCR evidence
@@ -103,6 +110,7 @@ http://127.0.0.1:8911/
 Useful local paths:
 
 - `reader-prototype/index.html`
+- `content/visuals/1974-epilog-booklet/index.html`
 - `content/demos/wholeearth_webgl_console_demo.html`
 - `content/maps/wholeearth_macro_atlas.html`
 

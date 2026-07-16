@@ -1,0 +1,490 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1974《全球概览·尾声》 / 土地使用暹罗猫小册子</title>
+  <style>
+    :root {
+      --paper: #efe4cf;
+      --sheet: #fff8e9;
+      --ink: #211911;
+      --muted: #6d6255;
+      --line: #c7b796;
+      --heavy: #3b2a1e;
+      --blue: #245c83;
+      --green: #546f46;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        linear-gradient(rgba(33, 25, 17, 0.035) 1px, transparent 1px),
+        radial-gradient(circle at 14% 8%, rgba(255, 248, 233, 0.88), transparent 26%),
+        var(--paper);
+      background-size: 100% 22px, auto, auto;
+      font-family: "Iowan Old Style", "Songti SC", "STSong", "Noto Serif CJK SC", Georgia, serif;
+      line-height: 1.62;
+    }
+
+    .booklet {
+      width: min(1360px, 100%);
+      margin: 0 auto;
+      padding: clamp(16px, 3vw, 38px);
+    }
+
+    .chapter-strip {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px 18px;
+      align-items: baseline;
+      padding: 4px 0 18px;
+      border-bottom: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .chapter-strip strong {
+      color: var(--ink);
+      font-size: clamp(22px, 3vw, 34px);
+      font-weight: 650;
+    }
+
+    .toc {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      padding: 18px 0 10px;
+      border-bottom: 1px solid rgba(199, 183, 150, 0.66);
+    }
+
+    .toc a {
+      color: var(--blue);
+      text-decoration: none;
+      border: 1px solid rgba(36, 92, 131, 0.34);
+      background: rgba(255, 248, 233, 0.62);
+      padding: 4px 9px;
+      font-size: 13px;
+    }
+
+    .reader-guide,
+    .phase {
+      border-bottom: 1px solid rgba(199, 183, 150, 0.72);
+    }
+
+    .reader-guide {
+      display: grid;
+      grid-template-columns: minmax(0, 0.7fr) minmax(0, 1.3fr);
+      gap: clamp(18px, 4vw, 48px);
+      padding: clamp(22px, 4vw, 44px) 0;
+      align-items: start;
+    }
+
+    .reader-guide h1,
+    .phase h2 {
+      font-size: clamp(28px, 4vw, 52px);
+      line-height: 1.26;
+      font-weight: 650;
+      letter-spacing: 0;
+      padding: 0 0 0.12em;
+    }
+
+    .guide-copy {
+      display: grid;
+      gap: 12px;
+      color: #392d22;
+      font-size: clamp(17px, 1.6vw, 21px);
+      line-height: 1.68;
+    }
+
+    .phase {
+      display: grid;
+      grid-template-columns: minmax(0, 0.46fr) minmax(0, 1fr);
+      gap: clamp(18px, 4vw, 44px);
+      padding: clamp(20px, 4vw, 38px) 0 0;
+      color: var(--muted);
+    }
+
+    .phase h2 {
+      color: var(--ink);
+      font-size: clamp(24px, 3.2vw, 42px);
+      line-height: 1.3;
+    }
+
+    .phase p {
+      max-width: 760px;
+      font-size: clamp(16px, 1.45vw, 19px);
+      line-height: 1.72;
+    }
+
+    .spread {
+      display: grid;
+      grid-template-columns: minmax(0, 1.42fr) minmax(320px, 0.58fr);
+      gap: clamp(18px, 3.5vw, 42px);
+      align-items: center;
+      min-height: min(860px, calc(100vh - 24px));
+      padding: clamp(26px, 5vw, 66px) 0;
+      border-bottom: 1px solid rgba(199, 183, 150, 0.76);
+    }
+
+    .spread:nth-of-type(even) {
+      grid-template-columns: minmax(320px, 0.58fr) minmax(0, 1.42fr);
+    }
+
+    .spread:nth-of-type(even) .art {
+      order: 2;
+    }
+
+    .art {
+      margin: 0;
+      padding: clamp(8px, 1.2vw, 14px);
+      border: 1.5px solid var(--heavy);
+      border-radius: 18px;
+      background: var(--sheet);
+      box-shadow: 12px 12px 0 rgba(59, 42, 30, 0.09);
+      min-width: 0;
+    }
+
+    .art img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      border-radius: 12px;
+      background: #f7ecd6;
+    }
+
+    .copy {
+      min-width: 0;
+      display: grid;
+      gap: 14px;
+      align-content: center;
+    }
+
+    .module {
+      color: var(--blue);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    h1,
+    h2,
+    p {
+      margin: 0;
+    }
+
+    h2 {
+      font-size: clamp(28px, 4.3vw, 56px);
+      line-height: 1.26;
+      font-weight: 650;
+      letter-spacing: 0;
+      padding-bottom: 0.08em;
+    }
+
+    .anchor {
+      padding-left: 14px;
+      border-left: 3px solid var(--green);
+      font-size: clamp(18px, 2vw, 23px);
+      line-height: 1.58;
+    }
+
+    .body {
+      color: #392d22;
+      font-size: 15.5px;
+      line-height: 1.72;
+    }
+
+    .body + .body {
+      margin-top: -4px;
+    }
+
+    .body strong {
+      color: var(--ink);
+      font-weight: 700;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .tags span {
+      border: 1px solid rgba(36, 92, 131, 0.42);
+      color: var(--blue);
+      background: rgba(255, 248, 233, 0.78);
+      padding: 3px 8px;
+      font-size: 13px;
+    }
+
+    .evidence {
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    @media (max-width: 960px) {
+      .spread,
+      .spread:nth-of-type(even) {
+        grid-template-columns: 1fr;
+        min-height: auto;
+      }
+
+      .reader-guide,
+      .phase {
+        grid-template-columns: 1fr;
+      }
+
+      .spread:nth-of-type(even) .art {
+        order: 0;
+      }
+    }
+
+    @media (max-width: 560px) {
+      .booklet {
+        padding: 14px;
+      }
+
+      .art {
+        border-radius: 12px;
+        box-shadow: 6px 6px 0 rgba(59, 42, 30, 0.09);
+      }
+
+      .art img {
+        border-radius: 8px;
+      }
+
+      .body {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="booklet">
+    <div class="chapter-strip">
+      <strong>二、土地使用</strong>
+      <span>1974《全球概览·尾声》 / 暹罗猫知识小册子</span>
+    </div>
+
+    <section class="reader-guide" aria-label="读法">
+      <h1>这章说的不是“开发土地”。</h1>
+      <div class="guide-copy">
+        <p>在 《全球概览》 的语境里，“土地使用”不是占地、规划或开发，而是重新学会和土地上的生命一起生活：先认出地貌、蘑菇、昆虫、鸟、足迹和植物，再把水、粪便、土壤、鱼池、牲畜和菜园重新接成循环。</p>
+        <p>这册可以按图读。每一页先给一个能看见的现场，再拎出一个反常识细节，最后说明它为什么也算“土地使用”。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="土地使用小册子目录">
+      <a href="#lu-01">01 新炼金术</a>
+      <a href="#lu-02">02 自然区域</a>
+      <a href="#lu-03">03 蘑菇</a>
+      <a href="#lu-04">04 昆虫鸟类</a>
+      <a href="#lu-05">05 动物足迹</a>
+      <a href="#lu-06">06 植物树木</a>
+      <a href="#lu-07">07 水与污水</a>
+      <a href="#lu-08">08 土壤小农</a>
+      <a href="#lu-09">09 牲畜马</a>
+      <a href="#lu-10">10 害虫园艺</a>
+      <a href="#lu-11">11 室内水培</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、先看见系统</h2>
+      <p>开头先给一个缩影：风车、地下水、太阳热量、鱼池、藻类、罗非鱼和菜园互相接住。后面的所有内容，都在不同尺度上回答同一个问题：怎样使用土地，而不把它耗尽？</p>
+    </section>
+
+    <article class="spread" id="lu-01">
+      <figure class="art">
+        <img src="assets/land-use-siamese-final/01-new-alchemy-cycle.png" alt="新炼金术循环 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 01</div>
+        <h2>本章缩影：新炼金术循环</h2>
+        <p class="anchor">真正的土地使用，不是把土地榨干，而是让风、水、太阳、鱼和菜园彼此接上。</p>
+        <p class="body"><strong>先看图：</strong>这不是普通生态农场，而是一台活的循环机器。新炼金术研究所用翼帆风车抽地下水，鱼池像温室一样留住太阳热量，藻类繁生后喂养罗非鱼。</p>
+        <p class="body"><strong>有趣的是：</strong>最关键的动作发生在“收鱼”之后：富含营养的池水不被排走，而是顺坡流向菜园。本章开头说，农场和园艺教人借助其他生命，把阳光变成可以吃的东西；这套系统把这句话做成了实物。</p>
+        <p class="body"><strong>为什么重要：</strong>如果一开始就把土地看成面积或资源，后面会读错。《全球概览》 想让读者先看到关系：风、水、太阳、鱼、藻类和蔬菜如何彼此供养。</p>
+        <div class="tags"><span>读图线索：循环</span><span>鱼池不是排水终点</span><span>把阳光变成食物</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、先学会识别生命</h2>
+      <p>这组看起来很散：地貌、潮间带、蘑菇、昆虫、鸟、青蛙、乌龟、树和草药。它们共同完成一个训练：在谈种植、耕作或改造之前，先知道身边有什么生命、痕迹和风险。</p>
+    </section>
+
+    <article class="spread" id="lu-02">
+      <figure class="art">
+        <img src="assets/land-use-siamese-final/02-natural-regions-agriculture.png" alt="北美自然区域与农业起源 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 02</div>
+        <h2>北美自然区域与农业起源</h2>
+        <p class="anchor">先把自己所在的地貌和流域看清，再问农业从哪里开始。</p>
+        <p class="body"><strong>先看图：</strong>地图、流域、潮间带和沼泽不是背景资料，而是“我住在哪里”的真正答案。《美国与加拿大自然区域》的用法，是拿来对照自己熟悉的山、土壤颜色、植物和水系。</p>
+        <p class="body"><strong>有趣的是：</strong>潮间带像垂直分层的生命课堂：藤壶、海藻和岩缝里的小生命各有高度。湖泊也不是静止的水面，水下植物会一代代填高湖底，让湖慢慢变成沼泽。</p>
+        <p class="body"><strong>为什么重要：</strong>索尔对农业起源的看法很反常识：农业可能不是饥饿逼出来的，而是丰裕生活中的闲暇和好奇慢慢长出来的。土地使用从“看清自己所在的地方”开始。</p>
+        <div class="tags"><span>读图线索：从地址到流域</span><span>湖会变沼泽</span><span>农业也来自好奇</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-03">
+      <figure class="art">
+        <img src="assets/land-use-siamese-final/03-mushroom-risk-latin.png" alt="蘑菇、风险与拉丁名 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 03</div>
+        <h2>蘑菇：耐心、风险与拉丁名</h2>
+        <p class="anchor">面对危险食物，浪漫不够，必须有词汇、孢子印、耐心和多本指南。</p>
+        <p class="body"><strong>先看图：</strong>桌上不是一本蘑菇图鉴，而是一整套鉴定现场：多本指南、孢子印、拉丁名、标本和风险提示。这里的知识不是装饰性的，是为了避免吃错。</p>
+        <p class="body"><strong>有趣的是：</strong>沃肖尔把新手阶段叫作“危险食物时期”。有了小词汇表和孢子印，也许能吃得不错，也能平安无事；但要真正进入蘑菇的多样性，就得认真学习这些“家伙”的名字。</p>
+        <p class="body"><strong>为什么重要：</strong>《全球概览》 并不把自然浪漫化。它鼓励自学，但也不断提醒：有些知识急不得，尤其当错误会被你吃进肚子里。</p>
+        <div class="tags"><span>读图线索：不要只看形状</span><span>危险食物时期</span><span>耐心也是工具</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-04">
+      <figure class="art">
+        <img src="assets/land-use-siamese-final/04-insects-spiders-birds.png" alt="昆虫蜘蛛与鸟类 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 04</div>
+        <h2>昆虫、蜘蛛与鸟类</h2>
+        <p class="anchor">识别工具应让观察继续，而不是替代观察。</p>
+        <p class="body"><strong>先看图：</strong>昆虫、蜘蛛和鸟被放在同一张观察板上。重点不是收藏名字，而是学会看身体结构、武器、防御、栖息地和行为。</p>
+        <p class="body"><strong>有趣的是：</strong>昆虫部分像一场武器展：雌蜂的刺、猎蝽的刺吸口器、毒血和酸从身体开口喷出，甚至有爆炸甲虫能从肛门排出会轻响爆开的气体。蟑螂也被重新看见：它是从石炭纪延续下来的古老昆虫。</p>
+        <p class="body"><strong>为什么重要：</strong>鸟类指南的价值不在书本本身。沃肖尔说，真正让人兴奋的不是鸟的图片或资料，而是鸟本身；好指南只是为了不打断你拿着望远镜、用耳朵和眼前的翅膀相处。</p>
+        <div class="tags"><span>读图线索：识别服务观察</span><span>昆虫武器展</span><span>兴奋对象是鸟本身</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-05">
+      <figure class="art">
+        <img src="assets/land-use-siamese-final/05-animals-tracks-endangered.png" alt="动物足迹与濒危生命 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 05</div>
+        <h2>动物、足迹与濒危生命</h2>
+        <p class="anchor">动物不在场时，土地仍留下它们生活的证据；濒危生命会把人卷入辩护。</p>
+        <p class="body"><strong>先看图：</strong>这里没有把动物画成可爱对象，而是画成线索：足迹、粪便、啃咬痕、通道、迁徙路线和图腾。动物不在眼前，土地仍然记录它们。</p>
+        <p class="body"><strong>有趣的是：</strong>章稿把常见动物重新变陌生。青蛙变色不是为了好看，而是皮肤对湿度、温度和神经状态的反应；陆栖青蛙眼睛高出头骨，因为它们几乎是周围所有野生动物眼中的美味。</p>
+        <p class="body"><strong>为什么重要：</strong>阿奇·卡尔研究海龟的故事说明了《全球概览》很核心的一件事：人会被某种生物或地貌打动，慢慢卷入其中，最后愿意为它说话。土地使用也会变成责任。</p>
+        <div class="tags"><span>读图线索：动物留下证据</span><span>足迹也能阅读</span><span>被生物打动</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-06">
+      <figure class="art">
+        <img src="assets/land-use-siamese-final/06-plants-herbs-trees.png" alt="植物草药与树 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 06</div>
+        <h2>植物、草药与树</h2>
+        <p class="anchor">植物不是背景装饰，而是药物、气味、恢复和代际农业的入口。</p>
+        <p class="body"><strong>先看图：</strong>植物被拆成几种入口：术语、发光真菌、草药、药物来源、植树恢复、树木作物和永久农业。它们不是风景背景，而是人重新接近土地的具体路径。</p>
+        <p class="body"><strong>有趣的是：</strong>“跳跃仙人掌”其实不会跳，只是节段连接太松，轻轻擦到就整段挂到人身上，让人误以为它扑过来攻击。草药也不只是药，它同时通向烹饪、气味、染料和驱虫。</p>
+        <p class="body"><strong>为什么重要：</strong>布菲耶每天种一百颗橡子，三年种下十万颗。多年后，贫瘠山谷重新有水、气味、村庄和野餐笑声。土地修复在这里不是口号，而是长期、重复、具体的动作。</p>
+        <div class="tags"><span>读图线索：植物是入口</span><span>会“跳”的仙人掌</span><span>十万颗橡子</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、把废物改回循环</h2>
+      <p>从这里开始，小册子进入更刺耳也更实际的问题：厕所、水、污水、土壤、粪肥和小农。《全球概览》 的判断很明确：很多所谓废物，其实是被系统切断了去路的养分。</p>
+    </section>
+
+    <article class="spread" id="lu-07">
+      <figure class="art">
+        <img src="assets/land-use-siamese-final/07-water-toilet-wastewater.png" alt="水厕所污水与土地再利用 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 07</div>
+        <h2>水、厕所、污水与土地再利用</h2>
+        <p class="anchor">不要急着把粪便和污水叫成废物，它们本来可以回到养分循环里。</p>
+        <p class="body"><strong>先看图：</strong>水从山地来，经过厕所、堆肥厕所、活土、污水农场和水产，最后回到作物与人。猫手里划掉的“废物”，就是这一页的核心。</p>
+        <p class="body"><strong>有趣的是：</strong>抽水马桶每次用四到五加仑饮用水，普通家庭约 40% 用水被冲进厕所；它还把“好粪便”贬成废物。《清水》反过来说，一茶匙活土里有数百万细菌、数千万真菌，还有原生动物和藻类。</p>
+        <p class="body"><strong>为什么重要：</strong>污水不一定要被稀释进河海或送进昂贵工厂，也可以通过污水农场、土地复垦、喷灌和堆肥回到养分循环。土地使用在这里变成了城市卫生问题。</p>
+        <div class="tags"><span>读图线索：废物只是被叫错了</span><span>五加仑冲水</span><span>一茶匙活土</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-08">
+      <figure class="art">
+        <img src="assets/land-use-siamese-final/08-soil-ecological-farming.png" alt="土壤生态农业与小农 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 08</div>
+        <h2>土壤、生态农业与小农</h2>
+        <p class="anchor">小农不是浪漫身份，而是把土壤、粪肥、轮作、经济和公共知识重新接起来。</p>
+        <p class="body"><strong>先看图：</strong>土壤剖面、粪肥、钾循环、动物健康、轮作和小农工具被画在同一桌上。这里的小农不是田园想象，而是一整套物质流动和公共知识。</p>
+        <p class="body"><strong>有趣的是：</strong>《土壤的世界》用一个比例把土壤写活：肉眼看不见的土壤缝隙，对氧分子来说像一条约 120 英里宽的山谷。另一处细节是粪肥：一头公牛一年留下的粪便，足以支撑大量昆虫，更不用说细菌、真菌和线虫。</p>
+        <p class="body"><strong>为什么重要：</strong>生态农业不是道德表态。它重新接上钾循环、动物健康、轮作、县级农业推广办公室和小农经济，让“土地使用”从理念落到农场账本和日常操作。</p>
+        <div class="tags"><span>读图线索：土壤是活系统</span><span>120 英里山谷</span><span>小农也用公共知识</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第四组">
+      <h2>四、技术要回到活的生命面前</h2>
+      <p>最后三页不是简单的操作指南。牲畜、园艺、害虫控制、室内植物和水培都在提醒读者：工具有用，但不能替代观察；书本有用，但面对活的生命，总会遇到边界。</p>
+    </section>
+
+    <article class="spread" id="lu-09">
+      <figure class="art">
+        <img src="assets/land-use-siamese-final/09-livestock-horses-boundary.png" alt="牲畜马与活物边界 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 09</div>
+        <h2>牲畜、马与活的边界</h2>
+        <p class="anchor">《全球概览》 鼓励自学，但面对活的生命，仍然需要师承、观察、谦卑和承担后果。</p>
+        <p class="body"><strong>先看图：</strong>记录簿、奶山羊、马、预防医学和“师承”被放在一起。它不是宠物页，而是在讲人如何对活的生命负责。</p>
+        <p class="body"><strong>有趣的是：</strong>小牲畜部分非常务实：兔肉脂肪低、矿物质高；商业蛋鸡第二年产蛋率下降，初学者有时可以买到蛋农淘汰下来的鸡。真正被强调的是选择育种、记录和预防医学。</p>
+        <p class="body"><strong>为什么重要：</strong>马把自学推到边界处。《马跛行》可以教定义、病因、诊断和预后，但也警告：没有可靠老师，不该尝试修蹄，更不用说钉掌。《全球概览》 鼓励自学，但不假装书能替代一手指导。</p>
+        <div class="tags"><span>读图线索：活的生命有边界</span><span>记录也是照护</span><span>书不能替代老师</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-10">
+      <figure class="art">
+        <img src="assets/land-use-siamese-final/10-pest-control-gardening.png" alt="害虫控制与园艺 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 10</div>
+        <h2>害虫控制与园艺</h2>
+        <p class="anchor">问题不是消灭所有“不想要”的生命，而是看懂关系、减少毒性、恢复平衡。</p>
+        <p class="body"><strong>先看图：</strong>一边是捕食蚂蚁、伴生种植和观察记录，一边是广谱毒性。图里真正的主题不是“杀虫”，而是关系管理。</p>
+        <p class="body"><strong>有趣的是：</strong>中世纪阿拉伯枣农会把山上的捕食蚂蚁搬到绿洲，用来控制攻击枣椰的植食蚂蚁。和它相对的是现代广谱杀虫剂，一夜之间把节肢动物生态网打碎。</p>
+        <p class="body"><strong>为什么重要：</strong>园艺细节都在训练观察：种床土粒只要足够细到覆盖种子即可，弄得更细只是为了好看；实际氮量就是氮百分比乘以肥料重量。贝利的旧苗圃手册珍贵，正因为那个年代没有技术可以替人细看。</p>
+        <div class="tags"><span>读图线索：少杀，多看关系</span><span>捕食蚂蚁</span><span>技术不能替代观察</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-11">
+      <figure class="art">
+        <img src="assets/land-use-siamese-final/11-indoor-hydroponics.png" alt="室内植物与无土栽培 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 11</div>
+        <h2>室内植物与无土栽培</h2>
+        <p class="anchor">室内也有土地使用问题：环境、照明、根、微量元素和对技术捷径的怀疑。</p>
+        <p class="body"><strong>先看图：</strong>最后一页把土地使用带进房间：湿度、空气流动、昆虫生活、植物灯、温室来源、病株和水培，都成了同一个室内环境问题。</p>
+        <p class="body"><strong>有趣的是：</strong>《公寓园丁》的关键不是装饰，而是把房间重新看成园艺环境。植物灯的判断很干脆：一般来说，忘了它们。温室植物也被拆穿：长得越快、价格越低，转到干燥家庭空气后可能越难活。</p>
+        <p class="body"><strong>为什么重要：</strong>最实用的一句是不要给病植物施肥。水培则保留怀疑：如果是植物，宁可让根在土里吃饭，也不想靠化学液“打点滴”。小册子最后回到一个朴素判断：技术捷径不能替代根与土的关系。</p>
+        <div class="tags"><span>读图线索：房间也是生态环境</span><span>病株不要施肥</span><span>根在土里吃饭</span></div>
+      </section>
+    </article>
+  </main>
+</body>
+</html>
