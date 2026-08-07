@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1968《全球概览》/ 庇护所与土地利用暹罗猫小册子</title>
+  <style>
+    :root { --paper:#efe4cf; --sheet:#fff8e9; --ink:#211911; --muted:#6d6255; --line:#c7b796; --heavy:#3b2a1e; --blue:#245c83; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:linear-gradient(rgba(33,25,17,.035) 1px,transparent 1px),radial-gradient(circle at 14% 8%,rgba(255,248,233,.88),transparent 26%),var(--paper); background-size:100% 22px,auto,auto; font-family:"Iowan Old Style","Songti SC","STSong","Noto Serif CJK SC",Georgia,serif; line-height:1.62; }
+    .booklet { width:min(1360px,100%); margin:0 auto; padding:clamp(16px,3vw,38px); }
+    .chapter-strip { display:flex; flex-wrap:wrap; gap:10px 18px; align-items:baseline; padding:4px 0 18px; border-bottom:1px solid var(--line); color:var(--muted); font-size:14px; }
+    .chapter-strip strong { color:var(--ink); font-size:clamp(22px,3vw,34px); font-weight:650; }
+    .chapter-strip a { color:var(--blue); text-decoration:none; }
+    .toc { display:flex; flex-wrap:wrap; gap:8px; padding:18px 0 10px; border-bottom:1px solid rgba(199,183,150,.66); }
+    .toc a { color:var(--blue); text-decoration:none; border:1px solid rgba(36,92,131,.34); background:rgba(255,248,233,.62); padding:4px 9px; font-size:13px; }
+    .reader-guide,.phase { border-bottom:1px solid rgba(199,183,150,.72); }
+    .reader-guide { display:grid; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); gap:clamp(18px,4vw,48px); padding:clamp(22px,4vw,44px) 0; align-items:start; }
+    .reader-guide h1,.phase h2 { margin:0; font-size:clamp(28px,4vw,52px); line-height:1.26; font-weight:650; letter-spacing:0; padding:0 0 .12em; }
+    .guide-copy { display:grid; gap:12px; color:#392d22; font-size:clamp(17px,1.6vw,21px); line-height:1.68; }
+    .phase { display:grid; grid-template-columns:minmax(0,.46fr) minmax(0,1fr); gap:clamp(18px,4vw,44px); padding:clamp(20px,4vw,38px) 0 0; color:var(--muted); }
+    .phase h2 { color:var(--ink); font-size:clamp(24px,3.2vw,42px); line-height:1.3; }
+    .phase p { max-width:780px; margin:0; font-size:clamp(16px,1.45vw,19px); line-height:1.72; }
+    .spread { display:grid; grid-template-columns:minmax(0,1.42fr) minmax(320px,.58fr); gap:clamp(18px,3.5vw,42px); align-items:center; min-height:min(860px,calc(100vh - 24px)); padding:clamp(26px,5vw,66px) 0; border-bottom:1px solid rgba(199,183,150,.76); }
+    .spread:nth-of-type(even) { grid-template-columns:minmax(320px,.58fr) minmax(0,1.42fr); }
+    .spread:nth-of-type(even) .art { order:2; }
+    .art { margin:0; padding:clamp(8px,1.2vw,14px); border:1.5px solid var(--heavy); border-radius:18px; background:var(--sheet); box-shadow:12px 12px 0 rgba(59,42,30,.09); min-width:0; }
+    .art img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; border-radius:12px; background:#f7ecd6; }
+    .copy { min-width:0; display:grid; gap:14px; align-content:center; }
+    .module { color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; }
+    .copy h2 { margin:0; font-size:clamp(26px,3.4vw,48px); line-height:1.25; font-weight:650; letter-spacing:0; padding-bottom:.08em; }
+    .copy p { margin:0; color:#392d22; font-size:clamp(17px,1.55vw,21px); line-height:1.72; }
+    .source { color:var(--muted); font-size:13px; border-top:1px solid rgba(199,183,150,.64); padding-top:10px; }
+    footer { color:var(--muted); font-size:13px; padding:20px 0 4px; }
+    @media (max-width:960px) { .reader-guide,.phase,.spread,.spread:nth-of-type(even) { grid-template-columns:1fr; min-height:auto; } .spread:nth-of-type(even) .art { order:0; } .art { border-radius:14px; } }
+  </style>
+</head>
+<body>
+  <main class="booklet">
+    <nav class="chapter-strip" aria-label="章节">
+      <strong>1968《全球概览》</strong>
+      <span>庇护所与土地利用</span>
+      <span>leaf n14-n22</span>
+      <span><a href="1968_first_catalog_siamese_booklet_index.html">返回入口</a></span>
+    </nav>
+
+    <nav class="toc" aria-label="模块导航">
+      <a href="#sl-01">穹顶</a>
+      <a href="#sl-02">充气结构</a>
+      <a href="#sl-03">废品场建造</a>
+      <a href="#sl-04">可改造住宅</a>
+      <a href="#sl-05">技术手册</a>
+      <a href="#sl-06">乡村技术</a>
+      <a href="#sl-07">圆锥帐篷</a>
+      <a href="#sl-08">改变地貌</a>
+      <a href="#sl-09">园艺与蘑菇</a>
+      <a href="#sl-10">蜂与研磨机</a>
+    </nav>
+
+    <section class="reader-guide">
+      <h1>住所从来不只是房子</h1>
+      <div class="guide-copy">
+        <p>“庇护所与土地利用”这一章很杂：测地线穹顶、充气膜、废车顶、MIT 学生自己搭夹层、日本住宅、奥德尔维修手册、阿拉斯加锯木机、VITA 乡村技术、圆锥帐篷、煤油灯、人类改造地球、蘑菇、有机园艺、养蜂和手摇研磨机都在里面。</p>
+        <p>读完会发现，首刊关心的“住”包括亲手修、亲手搭、亲手种，也包括理解土地、水、材料、火、光、昆虫和工具之间的关系。</p>
+      </div>
+    </section>
+
+    <section class="phase">
+      <h2>这章的尺度一直在变</h2>
+      <p>一会儿是 30 英尺阳光穹顶，一会儿是 3/16 英寸绳子；一会儿是 Alexandria 港和 Wisconsin 林地变化，一会儿是一罐蜂蜜、一台研磨机。它把庇护所放回生活现场，也把土地利用落到很小的手部动作上。</p>
+    </section>
+
+    <article class="spread" id="sl-01">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/shelter-land-siamese-final/01-geodesic-buildable-geometry.png" alt="测地线穹顶和可建造几何 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 01</div>
+        <h2>几何要能变成木条和许可证</h2>
+        <p>这一章开头仍然有富勒，但焦点变得更能上手。《戴马克松世界》适合正在做穹顶、几何、汽车、人口地图和图表的人；《空间结构》则是厚达 1,233 页的大参考书，讲穹顶、桁架、索网和大跨度结构。</p>
+        <p>最接地气的是《测地线阳光穹顶》：5 美元买到计划和建造许可，用木条和便宜的聚乙烯蒙皮，最大可以做到 30 英尺直径。几何在这里不是漂亮概念，最后要落到材料、尺寸和能不能搭起来。</p>
+        <p class="source">依据 leaf n14：《The Dymaxion World of Buckminster Fuller》《Space Structures》《Geodesic Sun Dome》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="sl-02">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/shelter-land-siamese-final/02-pneumatic-structures.png" alt="Frei Otto 充气结构 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 02</div>
+        <h2>空气也可以成为建筑材料</h2>
+        <p>Frei Otto 的《张力结构》第一卷讲充气结构。编辑说，见过这本书的设计师会兴奋到指指点点、上蹿下跳，因为它把柔性蒙皮、气压、环形主管、地下分配管、加湿器、气闸这些东西组织成了建筑。</p>
+        <p>这页从肥皂泡讲到空气房屋：两个大小不同的气泡之间，隔膜会弯曲；建筑里的“皮”也会随压力、湿度和进出通道一起工作。</p>
+        <p class="source">依据 leaf n15：《Tensile Structures, Volume One: Pneumatic Structures》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="sl-03">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/shelter-land-siamese-final/03-baer-dome-load-sharing.png" alt="Drop City 和 Baer 穹顶 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 03</div>
+        <h2>废品场里也能长出结构理论</h2>
+        <p>《穹顶建造手册》来自 Drop City 和 Steve Baer。它同时讲晶体学理论和废品场实践：怎样扭曲多面体而不改连接角度，怎样把汽车车顶切下来又不伤到自己。</p>
+        <p>书里那段抬面板的经历很有戏：几个人苦撑一块 8 × 19 英尺的重面板，等穹顶自己找到形状，原本支撑它的三根杆子竟然全被抬离地面，像钟摆一样挂着。编辑顺势把它写成一种社会隐喻：真正共同分担荷载的结构，会让某些“承重支柱”显出多余。</p>
+        <p>同页的《好消息》也很 Whole Earth：免费单页报里装着 Toffler、McHale、Fuller、John Cage、Heinz von Foerster。它和 Baer 放在一起，像是在说，建筑、信息和社会想象会互相碰撞。</p>
+        <p class="source">依据 leaf n16：《Dome Cookbook》《Good News》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="sl-04">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/shelter-land-siamese-final/04-adaptive-house-japanese-grid.png" alt="可改造住宅与日本住宅网格 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 04</div>
+        <h2>住处要允许人动手改变</h2>
+        <p>《建筑设计》被推荐，是因为它持续刊载真正的新信息。页中有一个 MIT 制图室案例：学生嫌空间不够，偷偷搬隔墙、找材料、搭夹层。教师也面对空间紧张，却请外部设计师和承包商解决，最后少了兴奋、投入和成就感。</p>
+        <p>《日本住宅》提供另一种改法。房间可以先剪成纸片，在 ken 网格上排来排去；障子纸会把光变成柔和的黄昏，破了再补，纸面反而更有生命。这里的住宅是一套可以持续调整的环境。</p>
+        <p class="source">依据 leaf n17：《Architectural Design》《The Japanese House》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="sl-05">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/shelter-land-siamese-final/05-manuals-alaskan-mill.png" alt="奥德尔技术手册和阿拉斯加锯木机 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 05</div>
+        <h2>一箱技术手册，就是一套生存底盘</h2>
+        <p>奥德尔指南在这一页列了 56 种，从汽车、家电、无线电、电视维修，到电学、木工、焊工、柴油机、管道、制图、供水、污水处理、流体动力。编辑承认自己没有能力逐本比较，所以公开征求更懂行的读者评介。</p>
+        <p>同页的阿拉斯加锯木机更直接：把附件装到链锯导板上，就能在偏远地方锯出足尺木材。页面里有型号、重量、价格和四步切割法，把人从原木一路带到梁木、木屋原木和铁路枕木。</p>
+        <p class="source">依据 leaf n18：Audel Guides、Alaskan mill。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="sl-06">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/shelter-land-siamese-final/06-vita-village-technology.png" alt="VITA 乡村技术 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 06</div>
+        <h2>乡村技术是一整套小群体工具箱</h2>
+        <p>VITA 被称为小群体技术信息的少数可靠来源。它有《乡村技术手册》、免费目录和低价专题论文，题目从小型水力、腌鱼、CINVA-Ram 制砖到太阳灶建造。</p>
+        <p>这一页列出的东西很具体：蜂巢式建筑、木工切割台、太阳能热水器、受保护泉眼、蒸发式食物冷却柜、太阳灶。它还列出 54 项仍在征集或开发设计的设备，包含泵、深井泵、孵化器、自动冲水厕所、混凝土砌块机、竹制科学器材、铁匠炉、陶轮和纺织设备。</p>
+        <p class="source">依据 leaf n19：Village Technology / VITA。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="sl-07">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/shelter-land-siamese-final/07-tipi-kerosene-lamp.png" alt="圆锥帐篷和煤油灯 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 07</div>
+        <h2>便宜、可搬、和天气贴得很近</h2>
+        <p>《印第安圆锥帐篷》写得特别动人：这种住所让人和火、大地、天空、圆形空间贴得很近。白天树影在帆布上演戏，夜里换成人影；深秋骑行回来，满月从排烟口照进来，火光和月光混在一起。</p>
+        <p>页面也非常实用：18 英尺西乌圆锥帐篷的裁片、绳结、帐杆、木桩环都给了细节。现成帐篷则列出 10、14、20 英尺三种直径和不同帆布价格。旁边的 Aladdin 煤油灯被拿来对比 Coleman 灯：安静、明亮、不用打气，只要照看好纱罩。</p>
+        <p class="source">依据 leaf n20：《The Indian Tipi》、Tipis、Aladdin Kerosene Lamps。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="sl-08">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/shelter-land-siamese-final/08-human-changing-earth.png" alt="人类改变地球面貌 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 08</div>
+        <h2>土地利用是一部人类改写地貌的历史</h2>
+        <p>《人类在改变地球面貌中的作用》接近 1,200 页，来自 1955 年一场大型研讨会。它讨论火、林地、草、农民生活生态、海洋收获、港口、航道、海岸线和污水处理。</p>
+        <p>这页反复指出：我们以为“天然”的景观，常常已经被人类重新披上外衣。欧洲草种、玉米带、加州草地与橡树景观、港口工程、地产边界、排水和水量收支，都在改变地球表面。土地利用构成了人类生活留在地球表面的巨大手迹。</p>
+        <p class="source">依据 leaf n21：《Man's Role in Changing the Face of the Earth》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="sl-09">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/shelter-land-siamese-final/09-mushrooms-organic-garden.png" alt="蘑菇指南和有机园艺 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 09</div>
+        <h2>从一枚孢子印，到一张家庭菜园表</h2>
+        <p>两本蘑菇书的评介很像野外现场：发现陌生、黏滑、发亮的菌类，等孢子印，查检索表，最后才决定能不能下锅。Smith 的《采蘑菇者野外指南》更技术，McKenny 的《美味野生蘑菇》则让人想立刻冲进树林。</p>
+        <p>《怎样用有机方法种植蔬菜和水果》则厚到 926 页、55 万字。评介者把它放在餐桌上随手翻，不愿收进书架。它讲土壤、堆肥、育苗、灌溉、采收、秋冬园艺、虫害防治、约 100 种蔬菜和 60 种北美水果，还细到维生素流失、豆科接种固氮细菌、排水瓦管和食虫鸟。</p>
+        <p class="source">依据 leaf n21-n22：Two Mushroom Books、有机园艺。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="sl-10">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/shelter-land-siamese-final/10-bees-universal-mill.png" alt="养蜂和通用研磨机 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 10</div>
+        <h2>蜂箱、蜂蜜和一台红色研磨机</h2>
+        <p>《养蜂全书 ABC 与 XYZ》从 1877 年一路修到第 33 版。页面把养蜂写得既能补贴收入，又有乡野冒险感：几箱蜂蜜就能卖给邻居，操作蜂箱要避开入口正前方，先向入口吹烟，再轻轻开箱。</p>
+        <p>同页的通用研磨机有很典型的 Whole Earth 口吻：作者在 Hopi 和 Navajo 保留地之间的贸易站见过它，订来后发现它像红色消防栓一样粗笨，还得锉主轴一小时才能装进手柄。但它确实能磨玉米、豆子、香料、花生、小麦、肉、盐、燕麦和类似材料，而且便宜。</p>
+        <p class="source">依据 leaf n22：《ABC and XYZ of Bee Culture》、Universal Mill。</p>
+      </div>
+    </article>
+
+    <footer>章节依据 1968《全球概览》leaf n14-n22 中文译稿整理。</footer>
+  </main>
+</body>
+</html>

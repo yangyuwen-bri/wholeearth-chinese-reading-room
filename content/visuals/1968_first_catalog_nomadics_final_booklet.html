@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1968《全球概览》/ 游牧暹罗猫小册子</title>
+  <style>
+    :root { --paper:#efe4cf; --sheet:#fff8e9; --ink:#211911; --muted:#6d6255; --line:#c7b796; --heavy:#3b2a1e; --blue:#245c83; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:linear-gradient(rgba(33,25,17,.035) 1px,transparent 1px),radial-gradient(circle at 14% 8%,rgba(255,248,233,.88),transparent 26%),var(--paper); background-size:100% 22px,auto,auto; font-family:"Iowan Old Style","Songti SC","STSong","Noto Serif CJK SC",Georgia,serif; line-height:1.62; }
+    .booklet { width:min(1360px,100%); margin:0 auto; padding:clamp(16px,3vw,38px); }
+    .chapter-strip { display:flex; flex-wrap:wrap; gap:10px 18px; align-items:baseline; padding:4px 0 18px; border-bottom:1px solid var(--line); color:var(--muted); font-size:14px; }
+    .chapter-strip strong { color:var(--ink); font-size:clamp(22px,3vw,34px); font-weight:650; }
+    .chapter-strip a { color:var(--blue); text-decoration:none; }
+    .toc { display:flex; flex-wrap:wrap; gap:8px; padding:18px 0 10px; border-bottom:1px solid rgba(199,183,150,.66); }
+    .toc a { color:var(--blue); text-decoration:none; border:1px solid rgba(36,92,131,.34); background:rgba(255,248,233,.62); padding:4px 9px; font-size:13px; }
+    .reader-guide,.phase { border-bottom:1px solid rgba(199,183,150,.72); }
+    .reader-guide { display:grid; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); gap:clamp(18px,4vw,48px); padding:clamp(22px,4vw,44px) 0; align-items:start; }
+    .reader-guide h1,.phase h2 { margin:0; font-size:clamp(28px,4vw,52px); line-height:1.26; font-weight:650; letter-spacing:0; padding:0 0 .12em; }
+    .guide-copy { display:grid; gap:12px; color:#392d22; font-size:clamp(17px,1.6vw,21px); line-height:1.68; }
+    .phase { display:grid; grid-template-columns:minmax(0,.46fr) minmax(0,1fr); gap:clamp(18px,4vw,44px); padding:clamp(20px,4vw,38px) 0 0; color:var(--muted); }
+    .phase h2 { color:var(--ink); font-size:clamp(24px,3.2vw,42px); line-height:1.3; }
+    .phase p { max-width:780px; margin:0; font-size:clamp(16px,1.45vw,19px); line-height:1.72; }
+    .spread { display:grid; grid-template-columns:minmax(0,1.42fr) minmax(320px,.58fr); gap:clamp(18px,3.5vw,42px); align-items:center; min-height:min(860px,calc(100vh - 24px)); padding:clamp(26px,5vw,66px) 0; border-bottom:1px solid rgba(199,183,150,.76); }
+    .spread:nth-of-type(even) { grid-template-columns:minmax(320px,.58fr) minmax(0,1.42fr); }
+    .spread:nth-of-type(even) .art { order:2; }
+    .art { margin:0; padding:clamp(8px,1.2vw,14px); border:1.5px solid var(--heavy); border-radius:18px; background:var(--sheet); box-shadow:12px 12px 0 rgba(59,42,30,.09); min-width:0; }
+    .art img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; border-radius:12px; background:#f7ecd6; }
+    .copy { min-width:0; display:grid; gap:14px; align-content:center; }
+    .module { color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; }
+    .copy h2 { margin:0; font-size:clamp(26px,3.4vw,48px); line-height:1.25; font-weight:650; letter-spacing:0; padding-bottom:.08em; }
+    .copy p { margin:0; color:#392d22; font-size:clamp(17px,1.55vw,21px); line-height:1.72; }
+    .source { color:var(--muted); font-size:13px; border-top:1px solid rgba(199,183,150,.64); padding-top:10px; }
+    footer { color:var(--muted); font-size:13px; padding:20px 0 4px; }
+    @media (max-width:960px) { .reader-guide,.phase,.spread,.spread:nth-of-type(even) { grid-template-columns:1fr; min-height:auto; } .spread:nth-of-type(even) .art { order:0; } .art { border-radius:14px; } }
+  </style>
+</head>
+<body>
+  <main class="booklet">
+    <nav class="chapter-strip" aria-label="章节">
+      <strong>1968《全球概览》</strong>
+      <span>游牧</span>
+      <span>leaf n46-n52</span>
+      <span><a href="1968_first_catalog_siamese_booklet_index.html">返回入口</a></span>
+    </nav>
+
+    <nav class="toc" aria-label="模块导航">
+      <a href="#nm-01">体制之外</a><a href="#nm-02">风险陈列</a><a href="#nm-03">旧生存手册</a>
+      <a href="#nm-04">派尤特知识</a><a href="#nm-05">筛读旧经验</a><a href="#nm-06">轻量设计</a>
+      <a href="#nm-07">目录即编辑</a><a href="#nm-08">合作社装备</a><a href="#nm-09">重量与修理</a>
+      <a href="#nm-10">温泉地图</a><a href="#nm-11">探险信息</a><a href="#nm-12">芭蕉上路</a><a href="#nm-13">荒诞公路</a>
+    </nav>
+
+    <section class="reader-guide">
+      <h1>离开固定住处以后，真正随身携带的是什么</h1>
+      <div class="guide-copy">
+        <p>“游牧”章表面上塞满背包、靴子、地图和露营书，读下去却会发现，它关心的是另一件事：一个人离开熟悉系统以后，怎样选择信息、减轻负重、判断旧经验、找到补给，并在移动中继续学习。</p>
+        <p>这一章也保留了不少时代杂质。1950 年代军事手册给出未经说明的冻伤和饮水表格，老野外书混着过时的食物与武器建议，探险通讯甚至把越战航运工作说成“不危险”。它们适合用来观察当时的知识世界，不能拿来安排今天的生存、医疗或旅行。</p>
+      </div>
+    </section>
+
+    <section class="phase">
+      <h2>移动是一整套编辑工作</h2>
+      <p>先决定什么值得带走，再判断哪本旧书还能信；目录连接供应商，合作社降低装备门槛，地图保存地点信息，旅行文学则记录人在路上怎样改变。游牧在这里既是身体移动，也是一种随时重组生活的能力。</p>
+    </section>
+
+    <article class="spread" id="nm-01">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/01-retreater-bibliography.png" alt="隐退书目与便携资料箱 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 01</div><h2>想住到体制之外，先会遇见一张很长的采购单</h2>
+        <p>《创新者》的读者预想社会秩序可能崩溃，于是讨论自我保护、游牧技术、社群技术和安全通信。《隐退者书目》则把“离开体制”拆得更细：哪里能住，吃什么，怎样养牲畜，房子由谁建，医疗、教育、娱乐、交通和废物处理从哪里获得。</p>
+        <p>这份只有十八页的书目让浪漫想象迅速落地。退隐从来不等于摆脱系统，只是把原先由城市和机构承担的工作重新装进行李箱。真正要带走的第一件东西，往往是一套能继续找到资源的目录。</p>
+        <p class="source">依据 leaf n46：《创新者》《隐退者书目》。</p></div>
+    </article>
+
+    <article class="spread" id="nm-02">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/02-survival-cabinet.png" alt="荒诞生存风险陈列柜 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 02</div><h2>一本生存书，把公牛和外星人放进同一只柜子</h2>
+        <p>1967 年的《生存之书》靠荒诞感让警告留在脑中：暴怒公牛、走下飞碟的生物、恶犬、醉汉、碰撞、攀绳、紧急分娩和野外取水，全被编进一部应急百科。编辑说它“朗读起来非常可笑”，笑声正是记忆装置。</p>
+        <p>问题也同样明显。书中夹着暴力动作、安全带普及前的碰撞姿势、未经验证的绳结和早已过时的医疗步骤。这一页值得保留的是 1960 年代如何想象危险；具体做法已经封进历史陈列柜，现实紧急情况应依照今天的专业指引。</p>
+        <p class="source">依据 leaf n46：《生存之书》。</p></div>
+    </article>
+
+    <article class="spread" id="nm-03">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/03-survival-manual-1959.png" alt="1959年生存手册与沙漠礼数 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 03</div><h2>五角钱的折刀，换来一生难忘的款待</h2>
+        <p>《生存手册》原为被击落的美国空军飞行员编写。书里主张把五十磅背包减到二十至三十磅，也画出全球主要沙漠，并列出寒冷、炎热和饮水条件下的生存表格。后两类数字没有交代样本、衣着、湿度或健康条件，今天不能拿来判断冻伤、热病和用水。</p>
+        <p>书中最动人的片段反倒与装备无关。一位作者把一把五角钱的瑞士折刀送给图阿雷格贵族，后来得到远超礼俗要求的款待。对方解释，他一辈子都想要一把能够折起来的刀。野外知识在这里忽然变成了待客、观察和一件恰到好处的小礼物。</p>
+        <p class="source">依据 leaf n47：《生存手册》。</p></div>
+    </article>
+
+    <article class="spread" id="nm-04">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/04-paiute-knowledge.png" alt="派尤特地方知识档案 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 04</div><h2>一条八英尺半的芦苇舟，可以单手提起来</h2>
+        <p>Margaret M. Wheat 用大量插图记录北派尤特人的日常知识。Jimmy 站到芦苇舟中央，把船身的凹槽踩得更深；成船长八英尺半，却轻到能用一只手提起。另一组画面记录松子怎样在簸扬盘里受热翻动，以及“手戏”中藏棍、猜手和计分的过程。</p>
+        <p>这些材料的价值不在于让外来读者照着表演，而在于看见知识怎样依附于湿地、松林、材料、季节和共同游戏。原书标题带有今天已经不合适的“原始”称呼，小册子保留书目背景，同时把注意力放回具体的人、地方和技艺。</p>
+        <p class="source">依据 leaf n47：Margaret M. Wheat 关于派尤特人生活知识的记录。</p></div>
+    </article>
+
+    <article class="spread" id="nm-05">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/05-kephart-field-notes.png" alt="旧野外笔记筛读工作台 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 05</div><h2>读一百年前的野外书，游戏规则是先找出错的部分</h2>
+        <p>《露营与野外技艺》写于 1910 年代。1968 年的编辑仍把它当杰作，因为书里保存了大量具体观察，同时也提醒读者别把每条建议照单全收。最好的读法被说得很直白：先挑出已经过时的部分，再寻找那些仍然有用、别处又不容易看到的经验。</p>
+        <p>原页于是形成一只复杂的旧档案箱：营火、蚊虫、步态、木工、浑水澄清、野兔疾病、常备汤锅、吸烟材料和武器判断都混在一起。它能训练历史阅读，却不能充当现代净水、食品、雷暴、医疗或枪械手册。</p>
+        <p class="source">依据 leaf n48：Horace Kephart《露营与野外技艺》。</p></div>
+    </article>
+
+    <article class="spread" id="nm-06">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/06-lightweight-patterns.png" alt="轻量装备纸样与材料工作台 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 06</div><h2>轻量化从来不只是在秤上少几磅</h2>
+        <p>《轻量露营装备及制作方法》把设计、纸样、装配、材料和供应商放在同一张裁剪台上。书中甚至给出 parka 的前片、后片、袖子、过肩和帽片布局，也告诉读者可以去布料店、帆具厂、修鞋店、军品剩余店和普通五金店找材料。</p>
+        <p>即使不亲手缝制，这种组织方式仍然有用：先了解环境，再考虑材料性能、总重量、修补条件和替换来源。轻量装备并非一件神奇商品，它更像一连串相互约束的设计选择。</p>
+        <p class="source">依据 leaf n48：《轻量露营装备及制作方法》《徒步背包旅行》。</p></div>
+    </article>
+
+    <article class="spread" id="nm-07">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/07-bean-catalog.png" alt="老式商品目录与缅因猎靴 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 07</div><h2>《全球概览》的榜样，原来是一本卖靴子的目录</h2>
+        <p>编辑称 L. L. Bean 目录里的“直接与正直”贯穿产品和服务，并明确说它是《全球概览》的榜样。目录先解释猎靴要解决什么问题：重皮靴湿、疼，橡胶靴闷、笨。1912 年的方案把轻皮靴筒和橡胶下部接在一起。</p>
+        <p>同一目录还卖折叠雪橇、皮带、羊毛保温裤、步行鞋和一把三明治涂抹刀。它最值得学的地方是写法：说清用途、材料、价格和限制，让商品说明本身承担编辑责任。1968 年广告里的承重与救援说法则没有现代认证。</p>
+        <p class="source">依据 leaf n49-n50：L. L. Bean 目录与 Maine Hunting Shoe。</p></div>
+    </article>
+
+    <article class="spread" id="nm-08">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/08-rei-cooperative.png" alt="户外装备合作社仓库 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 08</div><h2>一美元终身会费，把两千种装备拉到读者面前</h2>
+        <p>Recreational Equipment 1938 年以合作社形式成立，到原刊时期已有约七万九千名成员，目录列出两千种商品，终身会费只收一美元。专业装备昂贵又难找，合作社用共同采购和会员规模降低了进入门槛。</p>
+        <p>原页逐项展示冻干食品、铝架背包、可套叠杯具、尼龙搭扣、帐杆和动力绳，连重量和价格都写得很细。这些细节帮助读者比较系统总重，却也提醒我们目录会老化：1968 年的攀登绳规格、医疗小册子和保质说明都不能替代今天的装备标准。</p>
+        <p class="source">依据 leaf n49：Recreational Equipment 合作社目录。</p></div>
+    </article>
+
+    <article class="spread" id="nm-09">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/09-gerry-weight-repair.png" alt="保温空气层、背负平衡与修鞋工作台 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 09</div><h2>同样十磅，离背越远就越累</h2>
+        <p>Gerry 的目录把轻量化画成一套力学问题：保温材料要留住静止空气，睡眠系统要看恢复厚度，背包重量贴近身体时力矩更小，最后再把帐篷、睡袋、锅、食物、雨披和急救用品逐项相加。广告中的低温参数已经过时，但“看整个系统”仍是清楚的设计思路。</p>
+        <p>同页的 Kaibab 靴广告提供另一种耐用观：鞋底磨穿以后，把鞋面寄回去换底继续穿。它同时警告湿滑路面很危险。产品所借用的原住民来源缺乏可靠说明，不过“先修、再换”的消费逻辑仍值得放在目录史里观察。</p>
+        <p class="source">依据 leaf n50：Gerry 户外装备与 Kaibab 靴广告。</p></div>
+    </article>
+
+    <article class="spread" id="nm-10">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/10-hot-springs-atlas.png" alt="世界温泉地质图册 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 10</div><h2>有人真的把全世界的温泉编成了一本地质目录</h2>
+        <p>美国地质调查局这本《温泉》记录已知泉点的位置、温度、流量、矿物含量，以及它们当时属于商业经营还是野生状态。编辑读到后兴奋地说，一个人简直可以用余生从一处温泉走向下一处。</p>
+        <p>书中既有珠峰西北方向的泉池，也有阿尔及利亚古罗马浴场，还列出阿根廷泉井的温度、化学成分和相关岩层。它让旅行欲望长在地质数据上。所有地点、可达性和水质信息都停留在 1965 年，不能据此饮水、洗浴或规划今天的路线。</p>
+        <p class="source">依据 leaf n51：Gerald Waring《温泉》。</p></div>
+    </article>
+
+    <article class="spread" id="nm-11">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/11-explorer-information.png" alt="探险者信息公告室 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 11</div><h2>远行之前，先去读那些“真正上路的人”写的消息</h2>
+        <p>《探险家贸易市场日志》强调自己由探险者写给探险者，内容横跨背包、航海、飞行、洞穴、考古、摄影、登山和自然保护。它的价值不只在故事，还在工具、进入途径和正在发生的远征消息。旁边的《国家地理》和塞拉俱乐部，则分别提供大众地理阅读、地点书籍、组织旅行与保护行动。</p>
+        <p>这种小道消息也可能把时代偏见带进读者行李。原刊有一篇借越战航运缺人介绍海上工作的文章，甚至声称危险海域对商船船员“一点也不危险”。今天读它，更像一张被盖章封存的警示：即时信息需要核验，战争中的招工尤其不能被包装成便宜旅行。</p>
+        <p class="source">依据 leaf n51-n52：《探险家贸易市场日志》《国家地理》与塞拉俱乐部。</p></div>
+    </article>
+
+    <article class="spread" id="nm-12">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/12-basho-road.png" alt="芭蕉秋日旅途与记忆 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 12</div><h2>离开住了十年的江户，故乡反而在身后出现</h2>
+        <p>芭蕉在《奥州小道》开头写自己仿效远行僧人，离开隅田川边破败的房子，走进秋风。他一面预想身体可能倒在路边，一面承认十年江户生活已经把那里变成故乡。出发并没有抹掉依恋，反倒让它变得清楚。</p>
+        <p>这本 1689 年的旅行随笔被放进装备和目录之间，提醒读者：人在路上携带的不只有帐篷、杯子和地图，还有离家时才显现的记忆。游牧因此多了一层尺度，脚步丈量地方，短句保存心境。</p>
+        <p class="source">依据 leaf n52：芭蕉《奥州小道及其他旅行随笔》。</p></div>
+    </article>
+
+    <article class="spread" id="nm-13">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/nomadics-siamese-final/13-brautigan-collage.png" alt="美国公路、溪流与语言拼贴 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">模块 13</div><h2>楼梯可能变成溪流，厕所也会拒绝陌生人</h2>
+        <p>Richard Brautigan 的《在美国钓鳟鱼》把书名拆成不断变形的语言游戏。“钓鳟鱼”一会儿像人，一会儿像地点，一位老妇人甚至被误认成佛蒙特州的溪流；路边厕所长出一张愤怒的脸，冲经过的人发表自己的纪念碑宣言。</p>
+        <p>同页还有一只插着枯花的蛋黄酱罐和一段粗粝的酒吧墓志铭。芭蕉把旅途压进短句，Brautigan 则把美国公路剪碎后重新拼贴。两本书并排收尾，让“游牧”脱离装备清单，进入人在移动中如何重新命名世界。</p>
+        <p class="source">依据 leaf n52：Richard Brautigan《在美国钓鳟鱼》。</p></div>
+    </article>
+
+    <footer>章节依据 1968《全球概览》leaf n46-n52 中文译稿整理。历史生存、医疗、攀登、火源和旅行资料不构成当代操作建议。</footer>
+  </main>
+</body>
+</html>

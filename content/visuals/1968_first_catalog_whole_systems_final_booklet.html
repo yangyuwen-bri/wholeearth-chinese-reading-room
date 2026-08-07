@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1968《全球概览》/ 整体系统暹罗猫小册子</title>
+  <style>
+    :root { --paper:#efe4cf; --sheet:#fff8e9; --ink:#211911; --muted:#6d6255; --line:#c7b796; --heavy:#3b2a1e; --blue:#245c83; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:linear-gradient(rgba(33,25,17,.035) 1px,transparent 1px),radial-gradient(circle at 14% 8%,rgba(255,248,233,.88),transparent 26%),var(--paper); background-size:100% 22px,auto,auto; font-family:"Iowan Old Style","Songti SC","STSong","Noto Serif CJK SC",Georgia,serif; line-height:1.62; }
+    .booklet { width:min(1360px,100%); margin:0 auto; padding:clamp(16px,3vw,38px); }
+    .chapter-strip { display:flex; flex-wrap:wrap; gap:10px 18px; align-items:baseline; padding:4px 0 18px; border-bottom:1px solid var(--line); color:var(--muted); font-size:14px; }
+    .chapter-strip strong { color:var(--ink); font-size:clamp(22px,3vw,34px); font-weight:650; }
+    .chapter-strip a { color:var(--blue); text-decoration:none; }
+    .toc { display:flex; flex-wrap:wrap; gap:8px; padding:18px 0 10px; border-bottom:1px solid rgba(199,183,150,.66); }
+    .toc a { color:var(--blue); text-decoration:none; border:1px solid rgba(36,92,131,.34); background:rgba(255,248,233,.62); padding:4px 9px; font-size:13px; }
+    .reader-guide,.phase { border-bottom:1px solid rgba(199,183,150,.72); }
+    .reader-guide { display:grid; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); gap:clamp(18px,4vw,48px); padding:clamp(22px,4vw,44px) 0; align-items:start; }
+    .reader-guide h1,.phase h2 { margin:0; font-size:clamp(28px,4vw,52px); line-height:1.26; font-weight:650; letter-spacing:0; padding:0 0 .12em; }
+    .guide-copy { display:grid; gap:12px; color:#392d22; font-size:clamp(17px,1.6vw,21px); line-height:1.68; }
+    .phase { display:grid; grid-template-columns:minmax(0,.46fr) minmax(0,1fr); gap:clamp(18px,4vw,44px); padding:clamp(20px,4vw,38px) 0 0; color:var(--muted); }
+    .phase h2 { color:var(--ink); font-size:clamp(24px,3.2vw,42px); line-height:1.3; }
+    .phase p { max-width:780px; margin:0; font-size:clamp(16px,1.45vw,19px); line-height:1.72; }
+    .spread { display:grid; grid-template-columns:minmax(0,1.42fr) minmax(320px,.58fr); gap:clamp(18px,3.5vw,42px); align-items:center; min-height:min(860px,calc(100vh - 24px)); padding:clamp(26px,5vw,66px) 0; border-bottom:1px solid rgba(199,183,150,.76); }
+    .spread:nth-of-type(even) { grid-template-columns:minmax(320px,.58fr) minmax(0,1.42fr); }
+    .spread:nth-of-type(even) .art { order:2; }
+    .art { margin:0; padding:clamp(8px,1.2vw,14px); border:1.5px solid var(--heavy); border-radius:18px; background:var(--sheet); box-shadow:12px 12px 0 rgba(59,42,30,.09); min-width:0; }
+    .art img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; border-radius:12px; background:#f7ecd6; }
+    .copy { min-width:0; display:grid; gap:14px; align-content:center; }
+    .module { color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; }
+    .copy h2 { margin:0; font-size:clamp(26px,3.4vw,48px); line-height:1.25; font-weight:650; letter-spacing:0; padding-bottom:.08em; }
+    .copy p { margin:0; color:#392d22; font-size:clamp(17px,1.55vw,21px); line-height:1.72; }
+    .source { color:var(--muted); font-size:13px; border-top:1px solid rgba(199,183,150,.64); padding-top:10px; }
+    footer { color:var(--muted); font-size:13px; padding:20px 0 4px; }
+    @media (max-width:960px) { .reader-guide,.phase,.spread,.spread:nth-of-type(even) { grid-template-columns:1fr; min-height:auto; } .spread:nth-of-type(even) .art { order:0; } .art { border-radius:14px; } }
+  </style>
+</head>
+<body>
+  <main class="booklet">
+    <nav class="chapter-strip" aria-label="章节">
+      <strong>1968《全球概览》</strong>
+      <span>整体系统</span>
+      <span>leaf n4-n13</span>
+      <span><a href="1968_first_catalog_siamese_booklet_index.html">返回入口</a></span>
+    </nav>
+
+    <nav class="toc" aria-label="模块导航">
+      <a href="#ws-01">富勒</a>
+      <a href="#ws-02">尺度</a>
+      <a href="#ws-03">地球与身体</a>
+      <a href="#ws-04">地貌与水流</a>
+      <a href="#ws-05">形式与生长</a>
+      <a href="#ws-06">图像专注</a>
+      <a href="#ws-07">心理与消息</a>
+      <a href="#ws-08">未来研究</a>
+    </nav>
+
+    <section class="reader-guide">
+      <h1>先把世界当作整体来练习</h1>
+      <div class="guide-copy">
+        <p>1968 年首刊的第一章叫“整体系统”。它没有把系统讲成一套术语，而是拿出一组很不一样的书：富勒的设计科学、卫星拍到的地球、人体表面图谱、航空地质照片、肥皂膜和骨小梁、荣格、维纳、Koestler、未来研究通讯。</p>
+        <p>这些条目的共同点，是训练读者换一个尺度、换一个角度看东西。一个人、一座房子、一条河、一条消息、一个未来情景，都可以被当作会相互牵动的整体。</p>
+      </div>
+    </section>
+
+    <section class="phase">
+      <h2>这一章怎么读</h2>
+      <p>不要把它读成“系统论书单”。更适合的读法是：每一页都在换一种观察工具。有时是世界地图和卫星照片，有时是显微镜、肥皂膜、维护中的房子，有时是心理学、控制论和未来预测。</p>
+    </section>
+
+    <!-- Evidence: leaf_004.md and leaf_005.md Final Translation, Fuller entries, tensegrity, redesign environment, self-discipline. -->
+    <article class="spread" id="ws-01">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/whole-systems-siamese-final/01-fuller-design-science.png" alt="富勒设计科学 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 01</div>
+        <h2>富勒不是装饰性的开场白</h2>
+        <p>首刊把 Buckminster Fuller 放在这一章开头。他提供了一种看世界的姿势：从张力和压力看结构，从世界地图看地球，从环境设计看人的行为。</p>
+        <p>最有意思的一句是“重塑环境；不要试图重塑人”。在交通事故的例子里，富勒直接讨论道路分隔、立体交叉、弯道倾斜和自动信号。系统思维在这里很务实：先改会反复制造问题的环境。</p>
+        <p class="source">依据 leaf n4-n5：Buckminster Fuller、整体系统、张力/压力、重塑环境、自我约束。</p>
+      </div>
+    </article>
+
+    <!-- Evidence: leaf_006.md Final Translation, Cosmic View, Full Earth, Earth Photographs. -->
+    <article class="spread" id="ws-02">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/whole-systems-siamese-final/02-scale-full-earth.png" alt="尺度跳跃与全地球 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 02</div>
+        <h2>把视线从手边推到全地球</h2>
+        <p>《Cosmic View》用四十次尺度跳跃，把读者从近处一路带到宇宙尺度。紧接着的《Full Earth》和 NASA 地球照片，又把抽象尺度变成真实影像：ATS 卫星每半小时拍一次地球，Gemini 飞船带回大片彩色地表。</p>
+        <p>这里的震动不在“地球很美”这么简单。读者第一次被迫从外部看自己生活的地方：云带、海岸、沙漠、旋涡全都在同一个画面里。首刊后来反复出现的“全地球”感，就是从这种视觉训练里长出来的。</p>
+        <p class="source">依据 leaf n6：《Cosmic View》《Full Earth》《Earth Photographs》。</p>
+      </div>
+    </article>
+
+    <!-- Evidence: leaf_006.md and leaf_007.md Final Translation, Earth Photographs and Surface Anatomy. -->
+    <article class="spread" id="ws-03">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/whole-systems-siamese-final/03-earth-body-surface.png" alt="地球照片与身体表面 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 03</div>
+        <h2>身体也需要一张“地球照片”</h2>
+        <p>《Surface Anatomy》被放在地球摄影后面，安排得很妙。编辑说，我们其实不太会使用镜子；一本从身体表面看身体的书，可以像卫星照片那样，把熟悉之物重新变陌生。</p>
+        <p>这页读起来很像一组双镜头：一边是大气、海岸和陆地，一边是皮肤、肌肉和手掌表面。它提醒读者，系统不只在远处，自己的身体也是一个需要被观察、被学习的整体。</p>
+        <p class="source">依据 leaf n6-n7：《Earth Photographs》《Surface Anatomy》。</p>
+      </div>
+    </article>
+
+    <!-- Evidence: leaf_008.md Final Translation, Geology Illustrated and Sensitive Chaos. -->
+    <article class="spread" id="ws-04">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/whole-systems-siamese-final/04-geology-water-patterns.png" alt="地貌和水流形态 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 04</div>
+        <h2>有些页面要求你多看几遍</h2>
+        <p>《Geology Illustrated》有四百张航空照片，文字说明很少。编辑喜欢这一点：山、崖、河流没有替读者贴满标签，读者只能像在野外一样反复看，慢慢把地貌读出来。</p>
+        <p>旁边的《Sensitive Chaos》把注意力转到水和空气的运动。书里有神秘主义色彩，编辑并没有全盘接受，但仍然认为它抓住了水流形态中的洞见。整体系统不只关心静态结构，也关心流动、旋涡和变化中的形状。</p>
+        <p class="source">依据 leaf n8：《Geology Illustrated》《Sensitive Chaos》。</p>
+      </div>
+    </article>
+
+    <!-- Evidence: leaf_010.md Final Translation, Notes on the Synthesis of Form and On Growth and Form. -->
+    <article class="spread" id="ws-05">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/whole-systems-siamese-final/05-form-growth.png" alt="形式综合与生长形态 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 05</div>
+        <h2>形式不是画出来的，是被问题磨出来的</h2>
+        <p>Christopher Alexander 的《形式综合札记》讨论“失配”：哪里不合适，哪里反复出问题，哪里就逼着设计者重新组织形式。他特别看重日常维护，因为维护的人最早碰到细节中的不顺手。</p>
+        <p>D’Arcy Thompson 的《论生长与形态》把这个问题推到自然里。肥皂膜会自己形成几何结构，骨小梁会沿受力方向排列。首刊把这两本书并排放，让读者看见压力、材料、使用和生长怎样一起塑造形式。</p>
+        <p class="source">依据 leaf n10：《Notes on the Synthesis of Form》《On Growth and Form》。</p>
+      </div>
+    </article>
+
+    <!-- Evidence: leaf_011.md Final Translation, Tantra Art. -->
+    <article class="spread" id="ws-06">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/whole-systems-siamese-final/06-tantra-art.png" alt="坦陀罗艺术与图像专注 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 06</div>
+        <h2>唯一一本艺术书，也被当成工具</h2>
+        <p>《Tantra Art》是首刊标出的唯一一本艺术书。它进入“整体系统”，因为这页把图像看成一种专注练习：现象、模式、中心和观看方式都会在图像里重新组织。</p>
+        <p>编辑的评价也很克制：复制品惊人，文字有诗意，但想掌握细节的读者可能会觉得不够精确。这个判断很 Whole Earth：喜欢它的强度，同时保留使用者的警觉。</p>
+        <p class="source">依据 leaf n11：《Tantra Art》。</p>
+      </div>
+    </article>
+
+    <!-- Evidence: leaf_009.md and leaf_012.md Final Translation, General Systems Yearbook, Psychological Reflections, Human Use of Human Beings. -->
+    <article class="spread" id="ws-07">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/whole-systems-siamese-final/07-psychology-cybernetics.png" alt="心理学 控制论 系统年鉴 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 07</div>
+        <h2>消息、心灵和社会也进了同一个抽屉柜</h2>
+        <p>《General Systems Yearbook》把生物、社会、心理、博弈、语言、政治、控制论、天气这些领域放到一起找共同动力。它很技术、很重，但偶尔会闪出真正有用的连接。</p>
+        <p>这一页旁边的荣格和维纳让范围更大。荣格把疾病、冲突、土地、个性发展都放进“心灵”的张力里；维纳则说，要理解社会，必须研究社会拥有的消息和通信设施。系统在这里不只是机器，也包括人怎样感受、学习、传递消息。</p>
+        <p class="source">依据 leaf n9、n12：《General Systems Yearbook》《Psychological Reflections》《The Human Use of Human Beings》。</p>
+      </div>
+    </article>
+
+    <!-- Evidence: leaf_013.md Final Translation, Ghost in the Machine, Year 2000, Futurist. -->
+    <article class="spread" id="ws-08">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/whole-systems-siamese-final/08-future-scenarios.png" alt="未来研究与情景 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">模块 08</div>
+        <h2>未来不是预言，是一张现在的剖面图</h2>
+        <p>Koestler 的《机器中的幽灵》谈旧脑、新脑、自毁冲动，也谈幼态持续怎样让物种从进化死胡同里退出来。首刊把焦点落在一个尖锐问题上：大脑的组织方式会不会把人类带向危险。</p>
+        <p>《2000 年》和《未来学家》则把系统方法带到预测。Kahn 的未来研究有趋势、情景和“无意外预测”，但编辑说得很清楚：这本书未必给出准确未来，却给出一幅很周全的“现在”。我们拿来规划未来的，常常正是当下的统计、幻想和预期。</p>
+        <p class="source">依据 leaf n13：《The Ghost in the Machine》《The Year 2000》《The Futurist》。</p>
+      </div>
+    </article>
+
+    <footer>章节依据 1968《全球概览》leaf n4-n13 中文译稿整理。</footer>
+  </main>
+</body>
+</html>
