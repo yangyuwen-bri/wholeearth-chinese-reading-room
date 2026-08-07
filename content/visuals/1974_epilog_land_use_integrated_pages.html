@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>土地使用 图文一体样张</title>
+  <style>
+    :root {
+      --paper: #f2ead9;
+      --sheet: #fff9ed;
+      --ink: #241d16;
+      --muted: #70675b;
+      --line: #c8b99f;
+      --blue: #245c83;
+      --green: #526f48;
+      --seal: #3a291f;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: #d8cdb8;
+      color: var(--ink);
+      font-family: "Iowan Old Style", "Songti SC", "STSong", Georgia, serif;
+    }
+
+    .page {
+      width: 1600px;
+      height: 900px;
+      display: grid;
+      grid-template-columns: 930px 1fr;
+      gap: 44px;
+      padding: 54px 62px;
+      background:
+        linear-gradient(rgba(36, 29, 22, 0.03) 1px, transparent 1px),
+        var(--paper);
+      background-size: 100% 24px;
+      border-bottom: 1px solid #b7aa94;
+    }
+
+    .art {
+      align-self: center;
+      border: 1px solid var(--seal);
+      background: var(--sheet);
+      padding: 12px;
+      box-shadow: 12px 12px 0 rgba(58, 41, 31, 0.08);
+    }
+
+    .art img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+    }
+
+    .copy {
+      align-self: center;
+      display: grid;
+      gap: 22px;
+      min-width: 0;
+    }
+
+    .kicker {
+      color: var(--blue);
+      font-size: 16px;
+      line-height: 1.2;
+      letter-spacing: 0.08em;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 64px;
+      line-height: 1.08;
+      letter-spacing: 0;
+      font-weight: 650;
+    }
+
+    .anchor {
+      margin: 0;
+      padding-left: 16px;
+      border-left: 4px solid var(--green);
+      font-size: 27px;
+      line-height: 1.55;
+      color: #2a241c;
+    }
+
+    .body {
+      margin: 0;
+      color: #342a20;
+      font-size: 21px;
+      line-height: 1.78;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      padding-top: 4px;
+    }
+
+    .tags span {
+      border: 1px solid rgba(36, 92, 131, 0.58);
+      background: rgba(255, 249, 237, 0.9);
+      color: var(--blue);
+      padding: 6px 12px;
+      font-size: 18px;
+      line-height: 1.25;
+    }
+
+    .evidence {
+      color: var(--muted);
+      font-size: 15px;
+      line-height: 1.4;
+    }
+  </style>
+</head>
+<body>
+  <section class="page" id="identify-life">
+    <figure class="art">
+      <img src="../../assets/wholeearth_1974_epilog_visuals/land-use/01-identify-life.png" alt="先学会识别生命">
+    </figure>
+    <div class="copy">
+      <div class="kicker">Whole Earth Epilog 1974 / Land Use / 01</div>
+      <h1>先学会识别生命</h1>
+      <p class="anchor">识别不是收藏名词，而是进入生命关系。</p>
+      <p class="body">土地使用章不是从开发开始，而是从看见开始。蘑菇要求耐心和风险判断，鸟类指南要服务眼前的观察，足迹让不在场的动物仍能被读出。土地首先是一张活物留下的文本。</p>
+      <div class="tags"><span>地貌</span><span>蘑菇</span><span>鸟</span><span>足迹</span><span>风险</span><span>关系</span></div>
+      <div class="evidence">Evidence: leaf 26 / p.473；leaf 28 / p.475；leaf 30-31 / p.477-478。</div>
+    </div>
+  </section>
+
+  <section class="page" id="plants">
+    <figure class="art">
+      <img src="../../assets/wholeearth_1974_epilog_visuals/land-use/02-plants-herbs-trees.png" alt="植物、草药和树">
+    </figure>
+    <div class="copy">
+      <div class="kicker">Whole Earth Epilog 1974 / Land Use / 02</div>
+      <h1>植物、草药和树</h1>
+      <p class="anchor">植物不是背景装饰，而是药物、气味、食物、恢复和代际农业的入口。</p>
+      <p class="body">Whole Earth 让读者进入植物词汇，也进入植物的实际用途。草药把烹饪、香味、染料、驱虫和药用连在一起；树则把个人劳动、村庄恢复和长期农业放在一起。</p>
+      <div class="tags"><span>植物词汇</span><span>草药</span><span>树</span><span>恢复</span><span>永久农业</span></div>
+      <div class="evidence">Evidence: leaf 34 / p.481；leaf 35 / p.482；leaf 36-37 / p.483-484。</div>
+    </div>
+  </section>
+
+  <section class="page" id="cycle">
+    <figure class="art">
+      <img src="../../assets/wholeearth_1974_epilog_visuals/land-use/03-nutrient-cycle.png" alt="不要把循环叫废物">
+    </figure>
+    <div class="copy">
+      <div class="kicker">Whole Earth Epilog 1974 / Land Use / 03</div>
+      <h1>不要把循环叫废物</h1>
+      <p class="anchor">粪便、污水和土壤不是单独问题，而是营养循环。</p>
+      <p class="body">饮用水被拿去冲走肥料，污水被叫作废物，城市再花巨大成本处理污染。Whole Earth 关心的是怎样把水、固体、营养、土壤和食物重新接回循环。</p>
+      <div class="tags"><span>水</span><span>厕所</span><span>污水</span><span>堆肥</span><span>土壤</span><span>营养循环</span></div>
+      <div class="evidence">Evidence: leaf 39 / p.486；leaf 40 / p.487。</div>
+    </div>
+  </section>
+
+  <section class="page" id="small-farm">
+    <figure class="art">
+      <img src="../../assets/wholeearth_1974_epilog_visuals/land-use/04-small-farm-living-boundary.png" alt="小农和活物边界">
+    </figure>
+    <div class="copy">
+      <div class="kicker">Whole Earth Epilog 1974 / Land Use / 04</div>
+      <h1>小农和活物边界</h1>
+      <p class="anchor">自学有力量，但活物要求师承、观察和承担后果。</p>
+      <p class="body">小农怎样计划轮作，牲畜怎样进入土壤循环，害虫控制怎样从毒杀转向关系修复。书本自学有力量，但活物会让这个边界突然出现。</p>
+      <div class="tags"><span>轮作</span><span>牲畜</span><span>师承</span><span>害虫控制</span><span>园艺</span><span>后果</span></div>
+      <div class="evidence">Evidence: leaf 44-46 / p.491-493；leaf 48-50 / p.495-497。</div>
+    </div>
+  </section>
+</body>
+</html>

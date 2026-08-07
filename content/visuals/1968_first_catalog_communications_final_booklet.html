@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1968《全球概览》图解导读：传播</title>
+  <style>
+    :root { --paper:#efe4cf; --sheet:#fff8e9; --ink:#211911; --muted:#6d6255; --line:#c7b796; --heavy:#3b2a1e; --blue:#245c83; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:linear-gradient(rgba(33,25,17,.035) 1px,transparent 1px),radial-gradient(circle at 14% 8%,rgba(255,248,233,.88),transparent 26%),var(--paper); background-size:100% 22px,auto,auto; font-family:"Iowan Old Style","Songti SC","STSong","Noto Serif CJK SC",Georgia,serif; line-height:1.62; }
+    .booklet { width:min(1360px,100%); margin:0 auto; padding:clamp(16px,3vw,38px); }
+    .chapter-strip { display:flex; flex-wrap:wrap; gap:10px 18px; align-items:baseline; padding:4px 0 18px; border-bottom:1px solid var(--line); color:var(--muted); font-size:14px; }
+    .chapter-strip strong { color:var(--ink); font-size:clamp(22px,3vw,34px); font-weight:650; }
+    .chapter-strip a { color:var(--blue); text-decoration:none; }
+    .toc { display:flex; flex-wrap:wrap; gap:8px; padding:18px 0 10px; border-bottom:1px solid rgba(199,183,150,.66); }
+    .toc a { color:var(--blue); text-decoration:none; border:1px solid rgba(36,92,131,.34); background:rgba(255,248,233,.62); padding:4px 9px; font-size:13px; }
+    .reader-guide,.phase { border-bottom:1px solid rgba(199,183,150,.72); }
+    .reader-guide { display:grid; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); gap:clamp(18px,4vw,48px); padding:clamp(22px,4vw,44px) 0; align-items:start; }
+    .reader-guide h1,.phase h2 { margin:0; font-size:clamp(28px,4vw,52px); line-height:1.26; font-weight:650; letter-spacing:0; padding:0 0 .12em; }
+    .guide-copy { display:grid; gap:12px; color:#392d22; font-size:clamp(17px,1.6vw,21px); line-height:1.68; }
+    .phase { display:grid; grid-template-columns:minmax(0,.46fr) minmax(0,1fr); gap:clamp(18px,4vw,44px); padding:clamp(20px,4vw,38px) 0 0; color:var(--muted); }
+    .phase h2 { color:var(--ink); font-size:clamp(24px,3.2vw,42px); line-height:1.3; }
+    .phase p { max-width:780px; margin:0; font-size:clamp(16px,1.45vw,19px); line-height:1.72; }
+    .spread { display:grid; grid-template-columns:minmax(0,1.42fr) minmax(320px,.58fr); gap:clamp(18px,3.5vw,42px); align-items:center; min-height:min(860px,calc(100vh - 24px)); padding:clamp(26px,5vw,66px) 0; border-bottom:1px solid rgba(199,183,150,.76); }
+    .spread:nth-of-type(even) { grid-template-columns:minmax(320px,.58fr) minmax(0,1.42fr); }
+    .spread:nth-of-type(even) .art { order:2; }
+    .art { margin:0; padding:clamp(8px,1.2vw,14px); border:1.5px solid var(--heavy); border-radius:18px; background:var(--sheet); box-shadow:12px 12px 0 rgba(59,42,30,.09); min-width:0; }
+    .art img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; border-radius:12px; background:#f7ecd6; }
+    .copy { min-width:0; display:grid; gap:14px; align-content:center; }
+    .module { color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; }
+    .copy h2 { margin:0; font-size:clamp(26px,3.4vw,48px); line-height:1.25; font-weight:650; letter-spacing:0; padding-bottom:.08em; }
+    .copy p { margin:0; color:#392d22; font-size:clamp(17px,1.55vw,21px); line-height:1.72; }
+    .source { color:var(--muted); font-size:13px; border-top:1px solid rgba(199,183,150,.64); padding-top:10px; }
+    footer { color:var(--muted); font-size:13px; padding:20px 0 4px; }
+    @media (max-width:960px) { .reader-guide,.phase,.spread,.spread:nth-of-type(even) { grid-template-columns:1fr; min-height:auto; } .spread:nth-of-type(even) .art { order:0; } .art { border-radius:14px; } }
+  </style>
+</head>
+<body>
+  <main class="booklet">
+    <nav class="chapter-strip" aria-label="章节">
+      <strong>1968《全球概览》</strong>
+      <span>传播</span>
+      <span>原刊 n33–n41</span>
+      <span><a href="1968_first_catalog_siamese_booklet_index.html">返回入口</a></span>
+    </nav>
+
+    <nav class="toc" aria-label="条目导航">
+      <a href="#co-01">心智与海豚</a>
+      <a href="#co-02">信息逻辑</a>
+      <a href="#co-03">计算与反馈</a>
+      <a href="#co-04">视觉学习</a>
+      <a href="#co-05">教育网络</a>
+      <a href="#co-06">星际消息</a>
+      <a href="#co-07">电子目录</a>
+      <a href="#co-08">电影制作</a>
+      <a href="#co-09">电视制作</a>
+      <a href="#co-10">汽车手册</a>
+      <a href="#co-11">发现新书</a>
+      <a href="#co-12">艺术复制</a>
+    </nav>
+
+    <section class="reader-guide">
+      <h1>一条信号，怎样变成可以理解的信息</h1>
+      <div class="guide-copy">
+        <p>“传播”从人的内心开始，穿过海豚的哨声、计算机的逻辑门、电视演播室和星际无线电，最后落在一本新书或一张教室墙上的画。这里的“传播”比说话宽得多：感知、记忆、反馈、索引、剪辑和维修手册，都在帮人把陌生事物变得可读。</p>
+        <p>这九页塞进了心智研究、控制论、视觉心理学、教育自动化、天文学、电子邮购、电影、电视、汽车维修、出版业和艺术复制。它读起来像一座同时开着十二扇门的资料室。</p>
+      </div>
+    </section>
+
+    <section class="phase">
+      <h2>理解需要回路</h2>
+      <p>海豚发出哨声，接收者要把它算成信息；手在延迟画面里失去协调，说明动作依赖即时反馈；电视切换员改变镜头，观众才得到一个连贯场面。章节里的技术差异很大，却都在追问同一件事：信息怎样经过感知、选择和回应，真正进入另一个心智。</p>
+    </section>
+
+    <article class="spread" id="co-01">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/communications-siamese-final/01-human-biocomputer-dolphin.png" alt="心智与海豚传播 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 01</div>
+        <h2>先学会观察自己的“程序”</h2>
+        <p>约翰·C·利利把心智叫作“人体生物计算机”。他关心一个人能否辨认那些自动运行的习惯，再修改支配它们的“元程序”。书里甚至把反复困住人的问题想象成上锁的房间；换一个角度，房间便成了可以重新理解的空间谜题。</p>
+        <p>到了《海豚之心》，问题从内在转向另一个物种。利利区分了信号和信息：声音穿过水面时还只是信号，接收者在心里识别、计算并赋予意义以后，它才成为信息。海豚的哨声、咔嗒声与人类语言之间，隔着发音器官，也隔着信任、回报和漫长的相互学习。</p>
+        <p>原章也保留了 1960 年代的药物、隔离与跨物种实验记录。这些材料在此作为传播研究史阅读，不转写为当代实验或健康建议。</p>
+        <p class="source">原刊 n33-n34：《人体生物计算机》《海豚之心》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="co-02">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/communications-siamese-final/02-information-logic.png" alt="信息逻辑与计算机 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 02</div>
+        <h2>“信息”曾经是一整期杂志的新世界</h2>
+        <p>1966 年 9 月号《科学美国人》把整期篇幅交给信息技术，后来又单独结集成书。目录从逻辑门、存储器、输入输出和编程，一路讲到分时计算、数据传输、组织应用、教育、检索与人工智能，几乎把后来几十年的计算机议题先摆上了桌。</p>
+        <p>这一页还放进一幅很迷人的数值实验：计算机模拟瀑布越过悬崖，掉进水池并溅起水花。计算不再只处理账目，它开始替人观察流体、运动和形态。另一边的移位寄存器与“与、或、非”逻辑门，则展示复杂结果怎样从一串最简单的选择长出来。</p>
+        <p class="source">原刊 n34：《信息》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="co-03">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/communications-siamese-final/03-hp9100a-cybernetics.png" alt="9100A 计算器与控制论 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 03</div>
+        <h2>一台桌面计算器，旁边站着整个控制论</h2>
+        <p>HP 9100A 在 1968 年还是一台 40 磅、售价 4,900 美元的“探究机器”。它能存下 196 个程序步骤，程序可以写进钱包大小的磁卡；打印机、绘图仪和输入输出接口也已在路上。目录编辑把它拿给孩子用，希望他们尽早碰到可编程计算。</p>
+        <p>同页的诺伯特·维纳把反馈从机器扩大到身体和社会。伸手拿杯子时，人不会逐块指挥肌肉；身体会不断感知“距离目标还差多少”。一个社群有多大，也取决于信息能否在其中有效传递。技术、神经系统和共同体由此出现在同一条回路里。</p>
+        <p class="source">原刊 n35：9100A 计算器与《控制论》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="co-04">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/communications-siamese-final/04-eye-brain-perception.png" alt="视觉心理与延迟反馈 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 04</div>
+        <h2>看见，不等于眼睛收到一幅图</h2>
+        <p>《眼与脑》收集了一批会让日常视觉突然变陌生的实验。镜面装置可以把身体移到视野中的另一个位置；模棱两可的图形会迫使知觉在多种解释间来回寻找；早期的小猫研究则把主动行动与知觉学习联系起来。</p>
+        <p>最直观的是延迟视频：受试者在监视器里看到稍早以前的手。只差约半秒，动作就会变得急促、不协调，画星形和写字都迅速走样。人平时觉得“手听我的”，其实手、眼睛和大脑一直在交换极短的反馈；回路一慢，熟练感便开始松动。</p>
+        <p class="source">原刊 n36：《眼与脑——视觉心理学》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="co-05">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/communications-siamese-final/05-education-automation.png" alt="双向教育网络 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 05</div>
+        <h2>富勒设想的校园，像一座可以变形的马戏团</h2>
+        <p>巴克敏斯特·富勒把《教育自动化》放在“传播”章，因为他首先关心信息怎样被人调取。学习者可以在家中选择纪录片，通过双向电视提问；各地系统彼此连接，知识不再被一间教室或一个固定课表锁住。</p>
+        <p>他对实体校园的建议也很具体：做成一个能适应不同用途的综合环境，像马戏团那样随时改变。这里最有意思的是把教育重新看成一种访问能力：想知道时能找到材料，想回应时有通道，想聚在一起时空间也能跟着变化。</p>
+        <p class="source">原刊 n36：《教育自动化》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="co-06">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/communications-siamese-final/06-interstellar-message.png" alt="星际消息与文明尺度 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 06</div>
+        <h2>如果对方没有语言，551 个零和一能说什么</h2>
+        <p>《宇宙中的智能生命》提出一条由 551 个零和一组成的消息。接收者若发现 551 可以拆成 19 乘 29，就能把信号排成矩形，试着从黑白格中辨认图像。这是一道关于共同基础的难题：两个从未接触的文明，能否从数字、形状和比例开始互相猜懂。</p>
+        <p>书中还列出三种文明尺度：能使用行星能量、恒星全部辐射，乃至整个星系能量的文明。它把通讯距离从房间拉到银河，也把“听不听得见”改成更难的问题：对方的技术、感官和思维方式可能远超我们的经验，我们甚至未必认得那是一条消息。</p>
+        <p class="source">原刊 n37：《宇宙中的智能生命》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="co-07">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/communications-siamese-final/07-electronics-catalogs.png" alt="电子元件邮购目录 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 07</div>
+        <h2>电子世界先以一本厚目录进入家里</h2>
+        <p>拉斐特和联合无线电的目录各有五百页左右，塞满电容、晶体管、扬声器、唱机、对讲机、定时开关和各种配件。对于住在远离工业供应地的人，目录本身就是一张地图：你先在纸上认识元件，再知道它的价格、尺寸和来源。</p>
+        <p>Heathkit 又在成品与从零制作之间开出一条路。厂商备齐零件和说明，购买者用时间换来较低价格，也在装配中认识系统。旁边的商业表格目录则处理另一半麻烦：订单、信封、消息副本和回复怎样留档。做东西与组织通信，在这页被摆到了一张工作台上。</p>
+        <p>原页包含蚀刻化学品、交流电和无线电设备的历史广告规格。这些规格用于说明当年的电子商品目录；现实操作须遵循今天的产品标准和专业安全要求。</p>
+        <p class="source">原刊 n38：拉斐特、联合无线电、Heathkit 与《现代商业表格》目录。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="co-08">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/communications-siamese-final/08-cinematography-film.png" alt="纪录片与电影剪辑 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 08</div>
+        <h2>电影最实际的学问，常藏在很小的麻烦里</h2>
+        <p>《美国电影摄影师》从七十毫米大片讲到八毫米教学短片，设备广告和技术文章同样重要。《纪录片制作技术》更像一本随手查的现场书：镜头焦距、叠化、工作拷贝标记、声画同步和连续性，都在拍摄真正卡住时派上用场。</p>
+        <p>它举了一个很生活化的例子：解说员翻剧本时，纸张沙沙声会被麦克风收进去。把纸粘到硬卡片上、使用回形针或橡皮筋，各自又会制造新的声音和麻烦。电影的专业感常常就藏在这些细枝末节里——观众没注意到，说明摄制组处理对了。</p>
+        <p class="source">原刊 n39：《美国电影摄影师》《美国电影摄影师手册》《纪录片制作技术》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="co-09">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/communications-siamese-final/09-television-production.png" alt="电视演播室与场面分析 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 09</div>
+        <h2>一个电视场面，是许多选择同时发生</h2>
+        <p>《电视制作技术》把演播室拆得很细：机位、画面、灯光、声音、布景、化妆、组织、切换、字幕、特效和色彩。切换员的一次按键，会决定观众此刻看到全景、反应镜头、叠化还是黑场。</p>
+        <p>书里用一场夜间入侵戏展示效果如何层层累积：钥匙转动、门缝出现光、人物坐起、对话变紧、枪响、身体切断光束，最后电话铃响。动作、构图、灯光、剪辑、环境声和音乐各有自己的时间线，合在一起才成为观众感受到的“场面”。</p>
+        <p class="source">原刊 n40：《电视制作技术》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="co-10">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/communications-siamese-final/10-auto-repair-manual.png" alt="汽车故障诊断手册 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 10</div>
+        <h2>修车手册先教人描述症状</h2>
+        <p>奇尔顿的《汽车维修手册》按年更新，覆盖多种车系与约三十七个品牌。它最像传播工具的部分，是把“车不对劲”翻译成可检查的问题：高速挡为什么自动脱出，为什么会卡住，可能涉及对准、轴承、齿轮、拨叉、润滑或腐蚀中的哪一类。</p>
+        <p>爆炸图又把一个看似密封的总成展开，让零件之间的关系一眼可见。这样的手册提供了共同语言：车主描述症状，修理者定位系统，图解帮助双方核对理解。原页缺少明确车型与现代适用条件，因此这里只阅读它的诊断结构，不拿它指导现实车辆维修。</p>
+        <p class="source">原刊 n40：《汽车维修手册》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="co-11">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/communications-siamese-final/11-books-subject-guide.png" alt="主题书目与新书发现 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 11</div>
+        <h2>搜索框出现以前，人们怎样追新书</h2>
+        <p>月刊《Books》像一张从出版业内部冒出来的粗粝报纸。1968 年 3 月号同时谈詹尼斯·乔普林、生态设计照片集、即将问世的《未来冲击》、电影《2001》，以及科幻小说的改编消息。书在这里连着音乐、电影、街头文化和政治气候。</p>
+        <p>想系统查找，就要翻《在版图书主题指南》：1967 年版有 2,724 页，把仍在销售的书按主题列出，并附价格和出版社。若想知道接下来会出什么，还有双月更新的《即将出版图书主题指南》。一张剪报负责制造好奇，一部巨型索引负责把好奇变成书名和地址。</p>
+        <p class="source">原刊 n41：《Books》《在版图书主题指南》《即将出版图书主题指南》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="co-12">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/communications-siamese-final/12-art-prints-catalog.png" alt="艺术复制品目录与课堂 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 12</div>
+        <h2>一张好复制品，也能改变一面空墙</h2>
+        <p>联合国教科文组织从 1949 年起建立绘画复制品档案，由专家按照印刷质量、艺术家和作品的重要性挑选目录条目。每条记录都很完整：作品图像、年代、材料、尺寸、收藏地，以及复制品的印刷工艺、出版者、大小和价格。</p>
+        <p>目录的选择标准带着当时明显的欧洲偏见，编辑对此直言不讳；它仍有一个朴素用途：替教室、社区空间或家里“恼人的空墙”找到印刷可靠、买得到的画。博物馆里的作品经过纸张、印刷和邮购系统，进入普通人的日常视野。</p>
+        <p class="source">原刊 n41：联合国教科文组织《绘画彩色复制品目录》。</p>
+      </div>
+    </article>
+
+    <footer>资料范围：1968《全球概览》“传播”，原刊 n33–n41。</footer>
+  </main>
+</body>
+</html>

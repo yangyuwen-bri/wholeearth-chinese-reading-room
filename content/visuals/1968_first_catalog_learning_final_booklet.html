@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1968《全球概览》图解导读：学习</title>
+  <style>
+    :root { --paper:#efe4cf; --sheet:#fff8e9; --ink:#211911; --muted:#6d6255; --line:#c7b796; --heavy:#3b2a1e; --blue:#245c83; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:linear-gradient(rgba(33,25,17,.035) 1px,transparent 1px),radial-gradient(circle at 86% 5%,rgba(36,92,131,.07),transparent 24%),var(--paper); background-size:100% 22px,auto,auto; font-family:"Iowan Old Style","Songti SC","STSong","Noto Serif CJK SC",Georgia,serif; line-height:1.62; }
+    .booklet { width:min(1360px,100%); margin:0 auto; padding:clamp(16px,3vw,38px); }
+    .chapter-strip { display:flex; flex-wrap:wrap; gap:10px 18px; align-items:baseline; padding:4px 0 18px; border-bottom:1px solid var(--line); color:var(--muted); font-size:14px; }
+    .chapter-strip strong { color:var(--ink); font-size:clamp(22px,3vw,34px); font-weight:650; }
+    .chapter-strip a { color:var(--blue); text-decoration:none; }
+    .toc { display:flex; flex-wrap:wrap; gap:8px; padding:18px 0 10px; border-bottom:1px solid rgba(199,183,150,.66); }
+    .toc a { color:var(--blue); text-decoration:none; border:1px solid rgba(36,92,131,.34); background:rgba(255,248,233,.62); padding:4px 9px; font-size:13px; }
+    .reader-guide,.phase { border-bottom:1px solid rgba(199,183,150,.72); }
+    .reader-guide { display:grid; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); gap:clamp(18px,4vw,48px); padding:clamp(22px,4vw,44px) 0; align-items:start; }
+    .reader-guide h1,.phase h2 { margin:0; font-size:clamp(28px,4vw,52px); line-height:1.26; font-weight:650; letter-spacing:0; padding:0 0 .12em; }
+    .guide-copy { display:grid; gap:12px; color:#392d22; font-size:clamp(17px,1.6vw,21px); line-height:1.68; }
+    .phase { display:grid; grid-template-columns:minmax(0,.46fr) minmax(0,1fr); gap:clamp(18px,4vw,44px); padding:clamp(24px,4vw,42px) 0; color:var(--muted); }
+    .phase h2 { color:var(--ink); font-size:clamp(24px,3.2vw,42px); line-height:1.3; }
+    .phase p { max-width:780px; margin:0; font-size:clamp(16px,1.45vw,19px); line-height:1.72; }
+    .phase-label { display:block; color:var(--blue); font-size:12px; font-weight:700; letter-spacing:.12em; margin-bottom:7px; }
+    .spread { display:grid; grid-template-columns:minmax(0,1.42fr) minmax(320px,.58fr); gap:clamp(18px,3.5vw,42px); align-items:center; min-height:min(860px,calc(100vh - 24px)); padding:clamp(26px,5vw,66px) 0; border-bottom:1px solid rgba(199,183,150,.76); scroll-margin-top:18px; }
+    .spread:nth-of-type(even) { grid-template-columns:minmax(320px,.58fr) minmax(0,1.42fr); }
+    .spread:nth-of-type(even) .art { order:2; }
+    .art { margin:0; padding:clamp(8px,1.2vw,14px); border:1.5px solid var(--heavy); border-radius:18px; background:var(--sheet); box-shadow:12px 12px 0 rgba(59,42,30,.09); min-width:0; }
+    .art img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; border-radius:12px; background:#f7ecd6; }
+    .copy { min-width:0; display:grid; gap:14px; align-content:center; }
+    .module { color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; }
+    .copy h2 { margin:0; font-size:clamp(26px,3.4vw,48px); line-height:1.25; font-weight:650; letter-spacing:0; padding-bottom:.08em; }
+    .copy p { margin:0; color:#392d22; font-size:clamp(17px,1.55vw,21px); line-height:1.72; }
+    .source { color:var(--muted); font-size:13px; border-top:1px solid rgba(199,183,150,.64); padding-top:10px; }
+    footer { color:var(--muted); font-size:13px; padding:20px 0 4px; }
+    @media (max-width:960px) { .reader-guide,.phase,.spread,.spread:nth-of-type(even) { grid-template-columns:1fr; min-height:auto; } .spread:nth-of-type(even) .art { order:0; } .art { border-radius:14px; } }
+  </style>
+</head>
+<body>
+  <main class="booklet">
+    <nav class="chapter-strip" aria-label="章节">
+      <strong>1968《全球概览》</strong>
+      <span>学习</span>
+      <span>原刊 n53–n62</span>
+      <span><a href="1968_first_catalog_siamese_booklet_index.html">返回入口</a></span>
+    </nav>
+
+    <nav class="toc" aria-label="条目导航">
+      <a href="#lr-01">探究箱</a><a href="#lr-02">软硬学校</a><a href="#lr-03">彩色算棒</a><a href="#lr-04">初始字母</a>
+      <a href="#lr-05">科学丛书</a><a href="#lr-06">七百个实验</a><a href="#lr-07">科学目录</a><a href="#lr-08">逻辑游戏</a>
+      <a href="#lr-09">自制计算机</a><a href="#lr-10">手册与海报</a><a href="#lr-11">感官与禅</a><a href="#lr-12">心理黑箱</a>
+      <a href="#lr-13">唐望叙事</a><a href="#lr-14">瑜伽声柜</a><a href="#lr-15">双联</a><a href="#lr-16">易经叠页</a>
+    </nav>
+
+    <section class="reader-guide">
+      <h1>学习从动手试探开始，也会一路走到自己的心智</h1>
+      <div class="guide-copy">
+        <p>这一章从一只看不见内部结构的黑箱开始，经过学校空间、算棒、字母、科学实验和逻辑游戏，最后落到感官、冥想、创造理论与《易经》。它把学习铺成一张很宽的桌子：材料可以摆弄，规则可以试验，书页可以并置，连阅读自己的反应也算其中一门功课。</p>
+        <p>桌上也有明显的年代痕迹。旧书中的催眠诱导、身体练习、精神活性植物、医疗声称、明火、化学和电气实验都属于 1968 年的历史材料，不能当作今天可以照做的步骤。</p>
+      </div>
+    </section>
+
+    <section class="phase">
+      <h2><span class="phase-label">第一桌 · 条目 01–04</span>先让材料回答</h2>
+      <p>黑箱不公开内部答案，算棒不先公布数值，软硬学校把环境变成一项可比较的设计，初始教学字母表则试图重新安排声音与拼写。这里的共同动作是让人先接触一套材料，再形成自己的解释。</p>
+    </section>
+
+    <!-- leaf n53 -->
+    <article class="spread" id="lr-01">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/01-inquiry-box.png" alt="探究箱与理论记录纸 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 01</div><h2>箱子不肯开口，理论只好从拉杆和绳子之间长出来</h2>
+        <p>探究箱是一只内部结构未知的黑木箱。使用者只能从外面推、拉、观察：一根绳动了，另一侧的杆为什么也跟着动？推测可以画在十六格记录纸上，再用下一次试探检验。滑轮、木钉、弹簧和绳索留在箱内，答案不会提前交出来。</p>
+        <p>它把“建立理论”和“检验理论”变成手上的动作。教师手册虽有程序，原刊评论更喜欢少加指导，让孩子和成人都先摆弄。1967 年的器材含小部件、弹簧与绳索，今天若实际使用仍须另做产品与课堂安全判断。</p>
+        <p class="source">原刊 n53：《黑箱》／探究箱。</p></div>
+    </article>
+
+    <!-- leaf n54 -->
+    <article class="spread" id="lr-02">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/02-hard-soft-school.png" alt="硬式与软式学校空间对照 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 02</div><h2>一所学校的教育观，早已写进栏杆、课桌和储物间</h2>
+        <p>《THIS：一本谈学校的杂志》把“硬式生活”“软式生活”和两者之间的学校逐项对照。固定课桌、上锁器材室和威严入口维持秩序；活动区、终端、混音器、可移动器材与泥水草木鼓励探索。中间地带让师生看见环境怎样改变人的工作方式。</p>
+        <p>这张学校平面图是一篇空间评论。谁能取用工具，房间能否改动，教师与儿童在哪里相遇，这些空间安排让抽象的教育立场变得可见。</p>
+        <p class="source">原刊 n54：《THIS：一本谈学校的杂志》。</p></div>
+    </article>
+
+    <!-- leaf n54 -->
+    <article class="spread" id="lr-03">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/03-cuisenaire-rods.png" alt="古氏彩色算棒长度关系 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 03</div><h2>白棒加红棒等于绿棒，数字可以晚一点再出现</h2>
+        <p>古氏彩色算棒用不同长度和颜色保存关系。白棒与红棒首尾相接，长度总与绿棒相同；等到孩子发现这件事，再把它写成 1 + 2 = 3。若改把绿棒定为 1，同一组木条又能表示 ⅓ + ⅔ = 1。</p>
+        <p>数值会改变，长度关系仍然成立。原刊把发现过程看得很重，提醒成人别急着揭晓规律。小木条在桌上先构成一种可触摸的代数，符号随后才来命名经验。</p>
+        <p class="source">原刊 n54：古氏彩色算棒。</p></div>
+    </article>
+
+    <!-- leaf n55 -->
+    <article class="spread" id="lr-04">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/04-initial-teaching-alphabet.png" alt="初始教学字母表字音卡片 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 04</div><h2>四十四个符号，试着给英语拼写搭一座临时桥</h2>
+        <p>初始教学字母表用四十四个符号尽量做到“一音一符”，让初学者先在较一致的系统中读写，再过渡到传统英语拼写。原页甚至用这种拼法重写评论和《小熊维尼》片段，让读者直接感受它与普通字母的差别。</p>
+        <p>推广者声称儿童能更早读写、顺利转写；《全球概览》的编辑却主动征求更有见识的评论。页面因此同时保留了一项大胆的教学设计和对证据不足的警觉。它记录的是 1960 年代试验，不能替代今天的识字研究与个体评估。</p>
+        <p class="source">原刊 n55：初始教学字母表（i.t.a.）。</p></div>
+    </article>
+
+    <section class="phase">
+      <h2><span class="phase-label">第二桌 · 条目 05–10</span>把知识拆成可翻、可玩、可制作的东西</h2>
+      <p>科学丛书用图解留住偶然翻书的人，实验册让普通材料进入课堂，商品目录提供器材入口，逻辑游戏把抽象规则变成回合，自制计算机则把概念压回零件和工作台。学习在这一段拥有很强的物质重量。</p>
+    </section>
+
+    <!-- leaf n55 -->
+    <article class="spread" id="lr-05">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/05-life-science-library.png" alt="LIFE科学丛书与图解阅读桌 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 05</div><h2>把科学书留在手边，偶然翻开也能读上几个小时</h2>
+        <p>《LIFE 科学丛书》的阅读办法很松：把书散放在屋里，随手拿起一本，让图解自己抓住注意力。原页从《光与视觉》的缺图知觉题、双焦镜和重复词句，跳到木星大红斑与营养不良图文，像一只不断换抽屉的科学柜。</p>
+        <p>这种编排把复杂主题做成可进入的页面，但时间也封存在图里。1968 年的行星解释、视觉说明和儿童营养材料都需要现代资料复核，尤其不能从历史图注推出诊断或治疗。</p>
+        <p class="source">原刊 n55：《LIFE 科学丛书》。</p></div>
+    </article>
+
+    <!-- leaf n56 -->
+    <article class="spread" id="lr-06">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/06-seven-hundred-experiments.png" alt="普通材料与实验观察桌 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 06</div><h2>实验室被毁以后，科学从药房、五金店和废品场重新开张</h2>
+        <p>《人人都能做的 700 个科学实验》源自战后为缺少校舍和实验室的教师准备的小册子。它用常见材料制作观察器材，文字直接，插图清楚，而且常把结果藏到最后，让试验仍然保有未知。</p>
+        <p>原页展示日食模型、水压、渗透压、叶片烟印和旋转装置，也强调低成本材料同样能用来提出问题。酸、尖器、明火、玻璃、旋转部件和电灯装置均属于历史实验资料，现实操作须遵循今天的实验室与课堂安全要求。</p>
+        <p class="source">原刊 n56：《人人都能做的 700 个科学实验》。</p></div>
+    </article>
+
+    <!-- leaf n56 -->
+    <article class="spread" id="lr-07">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/07-edmund-scientific-catalog.png" alt="埃德蒙科学目录与光学数学器材 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 07</div><h2>四千种科学小玩意，让“去哪里找”也成为一门课</h2>
+        <p>埃德蒙科学目录把尼姆博士、实验书、几何搭建棒、微型灯泡、望远镜资料和太空钟放在同一条供应链上。对读者来说，它既是商品目录，也是器材索引：一个模糊想法可以沿货号、规格和价格找到实物入口。</p>
+        <p>目录也把风险包装得很轻快。聚光太阳炉、灯泡规格、光学加工和模型结构都来自 1968 年广告，不能当作今天的电气、火源、医疗或工程说明。它最持久的价值，是让人知道知识往往还需要一张可靠的采购地图。</p>
+        <p class="source">原刊 n56：埃德蒙科学目录。</p></div>
+    </article>
+
+    <!-- leaf n57 -->
+    <article class="spread" id="lr-08">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/08-logic-games.png" alt="WFF逻辑游戏与尼姆博士机械装置 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 08</div><h2>学习逻辑的第一条原则：游戏得先让人想继续玩</h2>
+        <p>WFF 'N PROOF 来自“逻辑加速学习”计划。手册把好玩放在第一位，让小学生先对符号操作产生兴趣，再进入数理逻辑和抽象思考。二十一种游戏一路加深，原刊也坦率指出，后面的证明游戏容易变成苦差事。</p>
+        <p>尼姆博士把另一类规则压进弹珠与触发机构里：人先走，机器按固定策略回应。它让“程序”变成一件看得见、会落下一颗弹珠的机械物，同时借说明书追问人的回忆与再认怎样不同。</p>
+        <p class="source">原刊 n57：WFF 'N PROOF 与尼姆博士。</p></div>
+    </article>
+
+    <!-- leaf n57 -->
+    <article class="spread" id="lr-09">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/09-built-own-computers.png" alt="自制逻辑计算机部件工作台 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 09</div><h2>亲手造过一台简单机器，所有计算机都会显得近一些</h2>
+        <p>《我们造了自己的计算机》由五名在校男孩写成。原刊看重制作经验怎样改变人与技术的关系：马达、步进选择器、变量区、问题板和控制面板从书上的名词变成一台具体装置里的分工。</p>
+        <p>原页只给出埃克塞特电动逻辑计算机的结构标注，没有电源、接线、护罩或装配条件。这些信息不足以构成儿童可照做的电气机械教程。</p>
+        <p class="source">原刊 n57：《我们造了自己的计算机》。</p></div>
+    </article>
+
+    <!-- leaf n58 -->
+    <article class="spread" id="lr-10">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/10-handy-book-pioneer-posters.png" alt="旧式手册与先锋历史海报档案桌 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 10</div><h2>旧手册教人做东西，旧海报暴露一个时代怎样说话</h2>
+        <p>1882 年的《美国男孩实用手册》保存冰船、变声器、万花筒和平底船等制作想象；先锋海报目录则把旅行、马戏、征募、奴隶买卖、专利药、公司规章和“笑气表演”并排出售。两种材料都让历史从抽象年份变成可见物件。</p>
+        <p>这些物件也带着伤害。捕鼠机关、尖器、船具、药物广告、种族歧视、奴隶制与战争图像需要历史语境和来源判断。读它们可以练习辨认时代口吻，不能把旧制作法或宣传声称直接搬到今天。</p>
+        <p class="source">原刊 n58：《美国男孩实用手册》与先锋海报。</p></div>
+    </article>
+
+    <section class="phase">
+      <h2><span class="phase-label">第三桌 · 条目 11–16</span>当观察转回观察者</h2>
+      <p>后六个条目把感官、习惯、叙事、身体、创造与变化都放进阅读现场。它们保留 1960 年代编辑的好奇心，也把文化归属、心理声称、身体风险和版本层级清楚标出。</p>
+    </section>
+
+    <!-- leaf n59 -->
+    <article class="spread" id="lr-11">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/11-sense-relaxation-zen.png" alt="感官样本、鱼与海寓言及冥想坐垫 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 11</div><h2>触觉、鱼与海、两只坐垫，共用一张低矮的阅读桌</h2>
+        <p>《感官放松》邀请读者留意触摸时的态度与感受；《禅肉禅骨》收进故事、无门关、十牛图和“鱼问海在哪里”的寓言；Dharma Pillow Works 则给出蒲团和方垫的尺寸、面料与价格。抽象经验在这一页始终伴着纸张、身体和物件。</p>
+        <p>原书还印有呼吸、喊叫、针刺和多人身体练习，涉及医疗、创伤、同意与自伤风险，动作顺序从略。坐垫的舒适、婴儿用途、防火和露营性能也只属于 1968 年广告声称。</p>
+        <p class="source">原刊 n59：《感官放松》《禅肉禅骨》与冥想坐垫。</p></div>
+    </article>
+
+    <!-- leaf n60 -->
+    <article class="spread" id="lr-12">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/12-self-hypnosis-psycho-cybernetics.png" alt="自我催眠黑箱与心理控制论习惯档案 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 12</div><h2>一个黑箱谈未知机制，一只工具箱出售改变自己的愿望</h2>
+        <p>《自我催眠》的评论直接承认机制未知，也找不到一组稳定特征来区分谁容易受催眠；《心理控制论》则被形容为装满练习的工具箱，鼓励人用新的反应改写习惯。它著名的“二十一天”说法，在原页里已经带着浓厚的推销语调。</p>
+        <p>催眠脚本涉及闭眼、呼吸、肌肉放松、倒数与烛光，另有身体改变和紧急情况会自动醒来的保证；这些都不能视作临床证据。这里将它们作为“黑箱”与历史主张来阅读，不提供诱导或心理治疗程序。</p>
+        <p class="source">原刊 n60：《自我催眠》与《心理控制论》。</p></div>
+    </article>
+
+    <!-- leaf n61 -->
+    <article class="spread" id="lr-13">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/13-don-juan-path.png" alt="唐望叙事层与有心之路档案 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 13</div><h2>一条“有心之路”，先要穿过叙述者与书页的边界</h2>
+        <p>《唐望的教诲》以一名人类学学生的学徒叙事展开。唐望的对话谈知识、恐惧、清明和“有心之路”，书中把学习写成长期劳动，也提醒清明本身会让人盲目。原刊读到的是一部会扰动读者确信的作品。</p>
+        <p>这仍是卡斯塔尼达 1968 年著作中的叙述，不能据此概括当代亚基族文化或确认民族志真实性。书中精神活性植物与神奇经验只作为被归属的历史文本出现，不提供辨认、制备、剂量、摄取或法律建议。</p>
+        <p class="source">原刊 n61：《唐望的教诲：亚基族的知识之道》。</p></div>
+    </article>
+
+    <!-- leaf n61 -->
+    <article class="spread" id="lr-14">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/14-yoga-sound-cabinet.png" alt="瑜伽身体图解与内在声振名录 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 14</div><h2>蜜蜂、瀑布、钟、海螺和远雷，被排进一只声音标本柜</h2>
+        <p>《瑜伽基础》以清楚的身体图解和编号材料见长。原页把 nadam 的十种内在声振比作蜜蜂、雨、海洋、钟、海螺、弦乐器、鼓、笛、回声与远雷；一串听觉隐喻被整理成可比较的名录。</p>
+        <p>同书还谈屏息、心率、“磁化身体”、麻醉、激素与心理治疗。它们是 1959 年文本中的高风险声称，没有在这里转成练习。身体与心理问题应依今天的专业资料判断。</p>
+        <p class="source">原刊 n61：《瑜伽基础》。</p></div>
+    </article>
+
+    <!-- leaf n62 -->
+    <article class="spread" id="lr-15">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/15-act-of-creation-bisociation.png" alt="双联透明印版与创造结果 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 15</div><h2>两块互不相干的印版重叠，第三幅图忽然出现</h2>
+        <p>柯斯特勒把“独创性”描述为两个原本分开的经验矩阵发生双联。它们相撞时可能引出笑，熔合时形成智识综合，相互对峙时产生审美经验。创造由此像一次套印：旧材料还在，观看平面已经改变。</p>
+        <p>原页也用“习惯／独创性”表格对照重复与新异、保守与破坏—建设。双联是一套历史创造理论，无法充当性格测验或灵感公式；自行车与知觉例子用于解释熟练规则怎样藏在意识之外。</p>
+        <p class="source">原刊 n62：阿瑟·柯斯特勒《创造的行为》。</p></div>
+    </article>
+
+    <!-- leaf n62 -->
+    <article class="spread" id="lr-16">
+      <figure class="art"><img src="../../assets/wholeearth_1968_first_catalog_visuals/learning-siamese-final/16-i-ching-layers.png" alt="易经第四十九卦版本叠页 暹罗猫知识插图"></figure>
+      <div class="copy"><div class="module">条目 16</div><h2>一页“革”卦，叠着卦画、卦辞、象传和译本评论</h2>
+        <p>原刊介绍的是卫礼贤—贝恩斯英译本的小开本，并重印第四十九卦“革”。兑泽在上，离火在下；页面从兽皮蜕换谈到政治变化，又把“泽中有火”连到历法与季节秩序。不同文字层来自特定译本与评论传统。</p>
+        <p>《全球概览》把求问神谕理解为跳出循环思路、借偶然得到新联想的办法，并称其为祈祷。这是 1968 年编辑的判断，不能把《易经》当作预测工具、决策科学或政治行动指令。</p>
+        <p class="source">原刊 n62：《易经》及第四十九卦“革”。</p></div>
+    </article>
+
+    <footer>资料范围：1968《全球概览》“学习”，原刊 n53–n62。历史药物、医疗、心理、火源、化学、电气与户外制作资料不构成当代操作建议。</footer>
+  </main>
+</body>
+</html>

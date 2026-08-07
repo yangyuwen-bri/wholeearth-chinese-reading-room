@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1968《全球概览》图解导读：工业与手艺</title>
+  <style>
+    :root { --paper:#efe4cf; --sheet:#fff8e9; --ink:#211911; --muted:#6d6255; --line:#c7b796; --heavy:#3b2a1e; --blue:#245c83; }
+    * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:linear-gradient(rgba(33,25,17,.035) 1px,transparent 1px),radial-gradient(circle at 14% 8%,rgba(255,248,233,.88),transparent 26%),var(--paper); background-size:100% 22px,auto,auto; font-family:"Iowan Old Style","Songti SC","STSong","Noto Serif CJK SC",Georgia,serif; line-height:1.62; }
+    .booklet { width:min(1360px,100%); margin:0 auto; padding:clamp(16px,3vw,38px); }
+    .chapter-strip { display:flex; flex-wrap:wrap; gap:10px 18px; align-items:baseline; padding:4px 0 18px; border-bottom:1px solid var(--line); color:var(--muted); font-size:14px; }
+    .chapter-strip strong { color:var(--ink); font-size:clamp(22px,3vw,34px); font-weight:650; }
+    .chapter-strip a { color:var(--blue); text-decoration:none; }
+    .toc { display:flex; flex-wrap:wrap; gap:8px; padding:18px 0 10px; border-bottom:1px solid rgba(199,183,150,.66); }
+    .toc a { color:var(--blue); text-decoration:none; border:1px solid rgba(36,92,131,.34); background:rgba(255,248,233,.62); padding:4px 9px; font-size:13px; }
+    .reader-guide,.phase { border-bottom:1px solid rgba(199,183,150,.72); }
+    .reader-guide { display:grid; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); gap:clamp(18px,4vw,48px); padding:clamp(22px,4vw,44px) 0; align-items:start; }
+    .reader-guide h1,.phase h2 { margin:0; font-size:clamp(28px,4vw,52px); line-height:1.26; font-weight:650; letter-spacing:0; padding:0 0 .12em; }
+    .guide-copy { display:grid; gap:12px; color:#392d22; font-size:clamp(17px,1.6vw,21px); line-height:1.68; }
+    .phase { display:grid; grid-template-columns:minmax(0,.46fr) minmax(0,1fr); gap:clamp(18px,4vw,44px); padding:clamp(20px,4vw,38px) 0 0; color:var(--muted); }
+    .phase h2 { color:var(--ink); font-size:clamp(24px,3.2vw,42px); line-height:1.3; }
+    .phase p { max-width:780px; margin:0; font-size:clamp(16px,1.45vw,19px); line-height:1.72; }
+    .spread { display:grid; grid-template-columns:minmax(0,1.42fr) minmax(320px,.58fr); gap:clamp(18px,3.5vw,42px); align-items:center; min-height:min(860px,calc(100vh - 24px)); padding:clamp(26px,5vw,66px) 0; border-bottom:1px solid rgba(199,183,150,.76); }
+    .spread:nth-of-type(even) { grid-template-columns:minmax(320px,.58fr) minmax(0,1.42fr); }
+    .spread:nth-of-type(even) .art { order:2; }
+    .art { margin:0; padding:clamp(8px,1.2vw,14px); border:1.5px solid var(--heavy); border-radius:18px; background:var(--sheet); box-shadow:12px 12px 0 rgba(59,42,30,.09); min-width:0; }
+    .art img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; border-radius:12px; background:#f7ecd6; }
+    .copy { min-width:0; display:grid; gap:14px; align-content:center; }
+    .module { color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; }
+    .copy h2 { margin:0; font-size:clamp(26px,3.4vw,48px); line-height:1.25; font-weight:650; letter-spacing:0; padding-bottom:.08em; }
+    .copy p { margin:0; color:#392d22; font-size:clamp(17px,1.55vw,21px); line-height:1.72; }
+    .source { color:var(--muted); font-size:13px; border-top:1px solid rgba(199,183,150,.64); padding-top:10px; }
+    footer { color:var(--muted); font-size:13px; padding:20px 0 4px; }
+    @media (max-width:960px) { .reader-guide,.phase,.spread,.spread:nth-of-type(even) { grid-template-columns:1fr; min-height:auto; } .spread:nth-of-type(even) .art { order:0; } .art { border-radius:14px; } }
+  </style>
+</head>
+<body>
+  <main class="booklet">
+    <nav class="chapter-strip" aria-label="章节">
+      <strong>1968《全球概览》</strong>
+      <span>工业与手艺</span>
+      <span>原刊 n23–n32</span>
+      <span><a href="1968_first_catalog_siamese_booklet_index.html">返回入口</a></span>
+    </nav>
+
+    <nav class="toc" aria-label="条目导航">
+      <a href="#ic-01">万物运作</a>
+      <a href="#ic-02">工程取舍</a>
+      <a href="#ic-03">人体尺度</a>
+      <a href="#ic-04">工业名录</a>
+      <a href="#ic-05">科技剪报</a>
+      <a href="#ic-06">设计原型</a>
+      <a href="#ic-07">中国机械</a>
+      <a href="#ic-08">工具目录</a>
+      <a href="#ic-09">太阳与仿生</a>
+      <a href="#ic-10">书籍与摄影</a>
+      <a href="#ic-11">雕塑玻璃</a>
+      <a href="#ic-12">手艺材料</a>
+    </nav>
+
+    <section class="reader-guide">
+      <h1>工业知识也可以变成手边的东西</h1>
+      <div class="guide-copy">
+        <p>“工业与手艺”这一章很像一间杂乱但好用的工作室。桌上一边是水轮机、数据处理、人体尺度、工业黄页、政府研究报告；另一边是太阳能热水器、摄影暗房、校对符号、雕塑材料、玻璃器皿、毛线、皮革和切面珠。</p>
+        <p>它关心普通人怎样读懂工业世界，怎样把目录、期刊、手册和材料来源变成可用的判断力。你可以从飞机翼型看到一支圆珠笔，也可以从一张珠子订单看到一件手工作品的价值。</p>
+      </div>
+    </section>
+
+    <section class="phase">
+      <h2>尺度从水轮机缩到一颗珠子</h2>
+      <p>这章不断切换尺度：十万页级的工业目录、几百页的设计手册、几十美元的工具、几美分一平方英尺的材料、半公斤起订的切面珠。它把生产系统拆开，让读者看到机器、身体、材料、出版、照片和手艺之间的真实连接。</p>
+    </section>
+
+    <article class="spread" id="ic-01">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/industry-craft-siamese-final/01-way-things-work.png" alt="万物如何运作 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 01</div>
+        <h2>先把东西拆开，看它怎么工作</h2>
+        <p>《万物如何运作》被编辑称为最好的厕所读物之一，因为它适合随手翻，也适合真的拿来理解世界。它从圆珠笔讲到数据处理，从飞机到粘胶纤维工艺，从 Francis 水轮机到 Kaplan 水轮机。</p>
+        <p>这一页把“工业”变成一组可观察的过程。水怎么推动叶片，气流怎么托住机翼，纤维怎么从化学流程里出来，数据怎么被打孔卡片搬运，都可以被画出来、看明白。</p>
+        <p class="source">原刊 n23：《The Way Things Work》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="ic-02">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/industry-craft-siamese-final/02-engineering-water-supply.png" alt="工程设计与山地供水 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 02</div>
+        <h2>工程设计，就是一路做取舍</h2>
+        <p>Steve Baer 推荐《工程设计导论》，特别看重书里那个山间小屋供水案例。设计者要比较管道、明渠、水槽、塑料管等方案，还要把坡度、流速、供水量、材料和施工难度放到同一张图上。</p>
+        <p>这本书迷人的地方，是它没有把工程写成公式崇拜。公式只是工具，真正难的是把一个需求拆成可比较的方案，再接受现实条件的摩擦。水从山上流到屋里，中间经过的是设计判断。</p>
+        <p class="source">原刊 n23：《Introduction to Engineering Design》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="ic-03">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/industry-craft-siamese-final/03-measure-of-man.png" alt="人体工学与尺度 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 03</div>
+        <h2>所有设计，最后都会碰到人的身体</h2>
+        <p>Henry Dreyfuss 的《人的尺度》是一部人体因素图谱：站姿、坐姿、视线范围、手能握住什么形状、控制器该放在哪里、开口要多宽、人在环境变化里能承受什么。</p>
+        <p>它把“舒服”拆成了可以讨论的尺寸。座椅、车厢、把手、门洞、仪表和视野都不再凭感觉决定。设计如果要进入日常生活，就必须尊重人的手、眼睛、腿、反应时间和疲劳。</p>
+        <p class="source">原刊 n24：《The Measure of Man》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="ic-04">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/industry-craft-siamese-final/04-thomas-register.png" alt="Thomas Register 工业名录 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 04</div>
+        <h2>消费世界有 Sears，生产世界有 Thomas Register</h2>
+        <p>《Thomas Register》像工业世界的黄页：7 卷、约 10,000 页、50,000 个广告、70,000 个分类。编辑说，如果 Sears 目录是消费品世界的镜子，那么 Thomas Register 就是生产系统的镜子。</p>
+        <p>它能让你从“我需要某种东西”一路找到“谁生产它”。夹具、呼吸器、水泥搅拌机、管件、开关、机器零件，都能被索引、分类和追踪到厂家。它把工业供应链变成可以查询的地图。</p>
+        <p class="source">原刊 n24：《Thomas Register》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="ic-05">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/industry-craft-siamese-final/05-science-clippings.png" alt="科技期刊和政府研究报告 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 05</div>
+        <h2>科学也要读新闻、剪报和冷门报告</h2>
+        <p>《New Scientist》被描述成一群年轻、有政治意识的科学家写出来的周刊。它既有新闻，也有批评和八卦：光子自干涉、爬楼机器人、脐带处理、运动员兴奋剂、ESP、DNA、酒精与药物、分子结构和迷幻药效都能同页出现。</p>
+        <p>《Scientific American》提供更稳的深读，话题包括免耕作物、纽瓦克和底特律骚乱分析、生物全息、气压计难题。旁边的联邦科技信息交换所则每年收进约 30,000 份未分类政府研发报告，从低成本自助住房到声学全息，都可能在里面。</p>
+        <p class="source">原刊 n25-n26：《New Scientist》《Scientific American》及 Clearinghouse for Federal Scientific and Technical Information。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="ic-06">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/industry-craft-siamese-final/06-industrial-design.png" alt="工业设计与产品工程 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 06</div>
+        <h2>设计杂志最有趣的地方，是它还在试</h2>
+        <p>《Industrial Design》把设计机构、材料、工具和争论放在一起：火焰切割钢板剩料可以成为艺术，设计师是否会被淘汰也可以成为问题。它还会介绍聚氨酯泡沫“茧屋”这类半认真、半实验的东西。</p>
+        <p>《Product Engineering》更像产品现场的观察窗：肌肉动力飞行带、发明者援助联盟、可扣合的尼龙和缩醛表面、移动全息图。1968 年的工业想象在这里还没有定型，很多东西都像刚从工作台上推出来。</p>
+        <p class="source">原刊 n26：《Industrial Design》《Product Engineering》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="ic-07">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/industry-craft-siamese-final/07-chinese-mechanical-history.png" alt="中国机械文明 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 07</div>
+        <h2>中国机械也写进技术史</h2>
+        <p>Needham 的《中国科学技术史》第四卷第二分册被放进这一章，理由很清楚：那些想重新学习技术、重新组织小共同体的人，需要看到非西方的机械传统。</p>
+        <p>这一页列出的例子很丰富：苏颂水运仪象台、载人风筝、指南车、竹蜻蜓、水平风车、链泵、风帆独轮车。技术史跨越不同地区，许多想象和解决办法早在现代欧洲工厂出现以前便已存在。</p>
+        <p class="source">原刊 n27：《Science and Civilisation in China IV/2: Mechanical Engineering》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="ic-08">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/industry-craft-siamese-final/08-tool-catalogs.png" alt="工具目录和安全边界 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 08</div>
+        <h2>好工具目录，会让你知道自己缺什么</h2>
+        <p>Silvo、Brookstone、Jensen 和 Miners Catalog 被放在一起，像一组不同性格的工具来源。Silvo 适合已经知道自己要什么的人；Brookstone 精准、讲究，列出无尽锯、剪刀、内管扳手和柔性锉；Jensen 偏电工和检查工具；Miners Catalog 则把《Moving the Earth》、工程罗盘和地貌图册带进来。</p>
+        <p>这一页也出现了爆破手册。它在这里仅作为目录史材料出现，具体危险步骤从略。Whole Earth 所说的“工具”始终需要知识、条件和安全边界。</p>
+        <p class="source">原刊 n27-n28：Silvo Catalog、Brookstone Tools、Jensen Tools、Miners Catalog、Blasters' Handbook。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="ic-09">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/industry-craft-siamese-final/09-solar-bionics.png" alt="太阳能与仿生 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 09</div>
+        <h2>太阳能和仿生，都从仔细观察开始</h2>
+        <p>Steve Baer 评介《太阳能的直接利用》时说，这是当时最好的太阳能书。它会把家庭热水讲到很具体：每人每天约 20 加仑热水，80 加仑储水罐，60 平方英尺吸热面，还会讨论太阳能蒸馏和光化学反应。</p>
+        <p>《结构、形态与运动》则把视线转向动物和植物。金雕起飞、鳟鱼游动、羽毛抑制颤振、植物形态，都可以成为工程思考的材料。这一页把太阳和生物放在一起，核心都是先观察能量和运动怎样真实发生。</p>
+        <p class="source">原刊 n29：《Direct Use of the Sun's Energy》《Structure, Form and Movement》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="ic-10">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/industry-craft-siamese-final/10-bookmaking-zone-system.png" alt="书籍制作与区域系统 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 10</div>
+        <h2>一本书、一张照片，都要先在脑中成形</h2>
+        <p>《书籍制作》给作者、编辑、印刷商和读者一套共同语言。它提醒人先规划理想，再根据机械和经济条件调整；页面可读性则受字体、字号、行长、行距、页边距、纸张、对比和内容适配影响。</p>
+        <p>《区域系统手册》讲摄影里的“预先视觉化”：先在心里看见你要的照片，再用曝光、显影和印放控制把它做出来。同页的 Van Waters & Rogers 目录则带来一个更生活化的例子：用耐腐蚀涂料做胶合板暗房水槽。出版、摄影和材料，在这里共用同一种工作习惯：先想清楚，再动手。</p>
+        <p class="source">原刊 n30：《Bookmaking》《Zone System Manual》及 Van Waters & Rogers。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="ic-11">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/industry-craft-siamese-final/11-sculpture-glass.png" alt="雕塑家手册和玻璃吹制 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 11</div>
+        <h2>手艺书最诚实的时候，会告诉你门槛有多高</h2>
+        <p>《雕塑家手册》讲石膏、铸造、焊接、塑料、水泥、石材、木材、重复铸造和表面处理。书评说它把细节讲得容易接近，却没有把耐心和技术要求藏起来；失蜡法铸青铜尤其需要长期准备。</p>
+        <p>《创意玻璃吹制》开头说“任何人都能学会吹玻璃”，评介者马上补了一句：前 50 页都在讲工具，你还得懂管道、金属、木工和电气，另有几百美元设备投入。这里的浪漫很有限，真正动人的是它把兴趣说成一种认真投入的手艺。</p>
+        <p class="source">原刊 n31：《A Sculptor's Manual》《Creative Glass Blowing》。</p>
+      </div>
+    </article>
+
+    <article class="spread" id="ic-12">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1968_first_catalog_visuals/industry-craft-siamese-final/12-craft-materials.png" alt="皮革毛线切面珠邮购材料 暹罗猫知识插图">
+      </figure>
+      <div class="copy">
+        <div class="module">条目 12</div>
+        <h2>工业章的结尾，落在皮革、毛线和珠子上</h2>
+        <p>最后一页突然变得很小、很软、很有触感：鹿皮革每平方英尺 0.90 美元，铬鞣所以更耐水；带毛小牛皮有剪毛和未剪毛两种；Melrose 毛线目录和样卡只要 0.50 美元。</p>
+        <p>切面珠的评介尤其具体。它说判断印第安珠饰时，可以留意用的是切面珠还是米珠；切面珠因为会闪、取得更费工、作品也可能更老，所以会提高价值。宏大的工业系统最后回到一件手工作品：材料从哪里来、为什么贵、谁能买到，都影响作品本身。</p>
+        <p class="source">原刊 n32：Buckskin、Melrose Yarns、Cut Beads。</p>
+      </div>
+    </article>
+
+    <footer>资料范围：1968《全球概览》“工业与手艺”，原刊 n23–n32。</footer>
+  </main>
+</body>
+</html>
