@@ -6,6 +6,22 @@ This project is not a full-text translation archive. The product goal is to help
 
 ## Current Editorial Status
 
+### Completed Visual Reading Rooms
+
+Three issue-level visual reading rooms now have a single continuous reader page:
+
+- `Fall 1968 Whole Earth Catalog`
+  - integrated guide: `content/visuals/1968_first_catalog_siamese_booklet_index.html`
+  - coverage: 9 chapters / 91 illustrated entries
+- `Whole Earth Epilog, 1974`
+  - integrated guide: `content/visuals/1974_epilog_siamese_booklet_index.html`
+  - coverage: 10 chapters / 81 illustrated entries
+- `Whole Earth Software Catalog 2.0, Fall 1985`
+  - integrated guide: `content/visuals/1985_siamese_cat_visual_booklet.html`
+  - coverage: 17 chapters
+
+The separate 1968 and 1974 chapter HTML files remain as editing and QA units. The integrated guide is the canonical reader-facing booklet for each completed issue.
+
 ### Completed Reading Drafts
 
 The only issue currently treated as a complete Chinese reading draft is:

@@ -3,42 +3,1603 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>1974《全球概览·尾声》 / 暹罗猫章节小册子入口</title>
+  <meta name="description" content="1974《全球概览·尾声》图解导读，按原刊章节连续阅读。">
+  <title>1974《全球概览·尾声》图解导读</title>
   <style>
-    :root { --paper:#efe4cf; --sheet:#fff8e9; --ink:#211911; --muted:#6d6255; --line:#c7b796; --heavy:#3b2a1e; --blue:#245c83; }
+    :root { --paper:#efe4cf; --sheet:#fff8e9; --ink:#211911; --muted:#6d6255; --line:#c7b796; --heavy:#3b2a1e; --blue:#245c83; --green:#546f46; }
     * { box-sizing:border-box; }
-    body { margin:0; color:var(--ink); background:linear-gradient(rgba(33,25,17,.035) 1px,transparent 1px),var(--paper); background-size:100% 22px; font-family:"Iowan Old Style","Songti SC","STSong","Noto Serif CJK SC",Georgia,serif; line-height:1.62; }
-    main { width:min(1180px,100%); margin:0 auto; padding:clamp(18px,4vw,44px); }
-    header { border-bottom:1px solid var(--line); padding-bottom:22px; margin-bottom:22px; display:grid; gap:10px; }
-    h1 { margin:0; font-size:clamp(28px,4.4vw,56px); line-height:1.28; font-weight:650; letter-spacing:0; padding-bottom:.08em; }
-    p { margin:0; color:#392d22; font-size:clamp(16px,1.5vw,20px); }
-    .grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:14px; }
-    a { color:inherit; text-decoration:none; }
-    .item { display:grid; grid-template-columns:auto 1fr; gap:14px; align-items:start; min-height:126px; padding:18px; border:1.5px solid var(--heavy); border-radius:14px; background:rgba(255,248,233,.72); box-shadow:8px 8px 0 rgba(59,42,30,.08); }
-    .num { color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.05em; padding-top:4px; }
-    .title { font-size:clamp(22px,2.8vw,34px); line-height:1.24; font-weight:650; }
-    .meta { color:var(--muted); font-size:14px; margin-top:6px; }
-    @media (max-width:760px) { .grid { grid-template-columns:1fr; } .item { min-height:auto; } }
+    html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:linear-gradient(rgba(33,25,17,.035) 1px,transparent 1px),radial-gradient(circle at 14% 8%,rgba(255,248,233,.88),transparent 26%),var(--paper); background-size:100% 22px,auto,auto; font-family:"Iowan Old Style","Songti SC","STSong","Noto Serif CJK SC",Georgia,serif; line-height:1.62; }
+    a { color:inherit; }
+    .skip-link { position:absolute; left:12px; top:-60px; z-index:2; padding:8px 12px; background:var(--ink); color:var(--sheet); }
+    .skip-link:focus { top:12px; }
+    .booklet { width:min(1360px,100%); margin:0 auto; padding:clamp(16px,3vw,38px); }
+    .issue-header { display:grid; grid-template-columns:minmax(0,.78fr) minmax(0,1.22fr); gap:clamp(22px,5vw,72px); padding:clamp(30px,6vw,84px) 0 clamp(28px,5vw,68px); border-bottom:1px solid var(--line); align-items:end; }
+    .eyebrow { margin:0 0 12px; color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.14em; font-variant-numeric:tabular-nums; }
+    .issue-header h1 { margin:0; max-width:12ch; font-size:clamp(42px,7vw,92px); line-height:1.02; font-weight:650; letter-spacing:-.025em; text-wrap:balance; }
+    .issue-intro { display:grid; gap:24px; }
+    .issue-intro > p { margin:0; max-width:42em; color:#392d22; font-size:clamp(18px,2vw,25px); line-height:1.72; text-wrap:pretty; }
+    .issue-meta { display:flex; flex-wrap:wrap; gap:8px 18px; color:var(--muted); font-size:14px; font-variant-numeric:tabular-nums; }
+    .issue-meta span + span { padding-left:18px; border-left:1px solid var(--line); }
+    .issue-toc { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); border-bottom:1px solid var(--line); padding:18px 0 34px; }
+    .issue-toc a { display:grid; grid-template-columns:38px 1fr auto; gap:12px; align-items:baseline; padding:15px 10px 15px 0; border-bottom:1px solid rgba(199,183,150,.58); text-decoration:none; transition:color .2s ease,transform .2s ease; }
+    .issue-toc a:nth-child(odd) { margin-right:20px; }
+    .issue-toc a:hover { color:var(--blue); transform:translateX(3px); }
+    .issue-toc a:active { transform:translateX(3px) translateY(1px); }
+    .issue-toc a:focus-visible,.toc a:focus-visible,.back-top:focus-visible { outline:2px solid var(--blue); outline-offset:3px; }
+    .chapter-number { color:var(--blue); font-size:12px; font-weight:700; letter-spacing:.08em; font-variant-numeric:tabular-nums; }
+    .chapter-title { font-size:clamp(18px,2vw,25px); font-weight:650; }
+    .chapter-count { color:var(--muted); font-size:13px; }
+    .chapter { padding-top:clamp(42px,7vw,96px); scroll-margin-top:12px; }
+    .chapter-marker { display:flex; justify-content:space-between; gap:18px; align-items:baseline; padding-bottom:14px; border-bottom:1px solid var(--heavy); }
+    .chapter-marker strong { font-size:14px; letter-spacing:.08em; font-variant-numeric:tabular-nums; }
+    .back-top { color:var(--blue); font-size:13px; text-decoration:none; }
+    .reader-guide,.phase { border-bottom:1px solid rgba(199,183,150,.72); }
+    .reader-guide { display:grid; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); gap:clamp(18px,4vw,48px); padding:clamp(22px,4vw,44px) 0; align-items:start; }
+    .reader-guide h1,.phase h2 { margin:0; color:var(--ink); font-size:clamp(28px,4vw,52px); line-height:1.26; font-weight:650; letter-spacing:0; padding:0 0 .12em; text-wrap:balance; }
+    .guide-copy { display:grid; gap:12px; color:#392d22; font-size:clamp(17px,1.6vw,21px); line-height:1.68; }
+    .guide-copy p,.phase p,.copy p,h2 { margin:0; }
+    .toc { display:flex; flex-wrap:wrap; gap:8px; padding:18px 0 10px; border-bottom:1px solid rgba(199,183,150,.66); }
+    .toc a { color:var(--blue); text-decoration:none; border:1px solid rgba(36,92,131,.34); background:rgba(255,248,233,.62); padding:4px 9px; font-size:13px; transition:background .2s ease,color .2s ease; }
+    .toc a:hover { background:var(--blue); color:var(--sheet); }
+    .phase { display:grid; grid-template-columns:minmax(0,.46fr) minmax(0,1fr); gap:clamp(18px,4vw,44px); padding:clamp(24px,4vw,42px) 0; color:var(--muted); }
+    .phase h2 { font-size:clamp(24px,3.2vw,42px); line-height:1.3; }
+    .phase p { max-width:800px; font-size:clamp(16px,1.45vw,19px); line-height:1.72; }
+    .phase-label { display:block; color:var(--blue); font-size:12px; font-weight:700; letter-spacing:.12em; margin-bottom:7px; }
+    .spread { display:grid; grid-template-columns:minmax(0,1.42fr) minmax(320px,.58fr); gap:clamp(18px,3.5vw,42px); align-items:center; min-height:min(860px,calc(100vh - 24px)); padding:clamp(26px,5vw,66px) 0; border-bottom:1px solid rgba(199,183,150,.76); scroll-margin-top:18px; }
+    .spread:nth-of-type(even) { grid-template-columns:minmax(320px,.58fr) minmax(0,1.42fr); }
+    .spread:nth-of-type(even) .art { order:2; }
+    .art { margin:0; padding:clamp(8px,1.2vw,14px); border:1.5px solid var(--heavy); border-radius:18px; background:var(--sheet); box-shadow:12px 12px 0 rgba(59,42,30,.09); min-width:0; }
+    .art img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; border-radius:12px; background:#f7ecd6; }
+    .spread-final .art { background:#17120e; box-shadow:12px 12px 0 rgba(33,25,17,.18); }
+    .copy { min-width:0; display:grid; gap:14px; align-content:center; }
+    .module { color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; }
+    .copy h2 { margin:0; font-size:clamp(27px,4vw,52px); line-height:1.25; font-weight:650; letter-spacing:0; padding-bottom:.08em; text-wrap:balance; }
+    .copy p { margin:0; color:#392d22; font-size:clamp(16px,1.5vw,20px); line-height:1.72; }
+    .anchor { padding-left:14px; border-left:3px solid var(--green); font-size:clamp(18px,2vw,23px) !important; line-height:1.58 !important; }
+    .body { color:#392d22; font-size:15.5px !important; line-height:1.72; }
+    .body + .body { margin-top:-4px; }
+    .body strong { color:var(--ink); font-weight:700; }
+    .tags { display:flex; flex-wrap:wrap; gap:8px; }
+    .tags span { border:1px solid rgba(36,92,131,.42); color:var(--blue); background:rgba(255,248,233,.78); padding:3px 8px; font-size:13px; }
+    .source { color:var(--muted) !important; font-size:13px !important; border-top:1px solid rgba(199,183,150,.64); padding-top:10px; }
+    .issue-footer { color:var(--muted); font-size:13px; padding:28px 0 6px; border-top:1px solid var(--line); }
+    @media (max-width:960px) { .issue-header,.reader-guide,.phase,.spread,.spread:nth-of-type(even) { grid-template-columns:1fr; min-height:auto; } .spread:nth-of-type(even) .art { order:0; } .art { border-radius:14px; } }
+    @media (max-width:680px) { .booklet { padding:14px; } .issue-header { padding-top:34px; } .issue-header h1 { max-width:none; } .issue-toc { grid-template-columns:1fr; } .issue-toc a:nth-child(odd) { margin-right:0; } .issue-meta span + span { padding-left:0; border-left:0; } .chapter { padding-top:58px; } .chapter-count { display:none; } .art { border-radius:12px; box-shadow:6px 6px 0 rgba(59,42,30,.09); } .art img { border-radius:8px; } .body { font-size:15px !important; } }
+
   </style>
 </head>
 <body>
-  <main>
-    <header>
-      <h1>1974《全球概览·尾声》章节小册子入口</h1>
-      <p>按章节进入。每页基于完整中文章稿制作，包含章节拆分、暹罗猫知识插图和读者正文。</p>
+  <a class="skip-link" href="#reading">跳到正文</a>
+  <main class="booklet" id="reading">
+    <header class="issue-header" id="top">
+      <div>
+        <p class="eyebrow">1974 · EPILOG</p>
+        <h1>《全球概览·尾声》</h1>
+      </div>
+      <div class="issue-intro">
+        <p>整体系统为全书定下判断框架，土地、住所、软技术与手艺把问题放回材料和生活，随后进入共同体、游牧、通信与学习。出版业务、索引和封底收拢了这部“尾声”的生产网络。</p>
+        <div class="issue-meta"><span>10 章</span><span>81 个条目</span><span>连续阅读</span></div>
+      </div>
     </header>
-    <section class="grid" aria-label="章节入口">
-      <a class="item" href="1974_epilog_overall_systems_final_booklet.html"><span class="num">01</span><span><span class="title">整体系统</span><span class="meta">8 个模块</span></span></a>
-      <a class="item" href="1974_epilog_land_use_final_booklet.html"><span class="num">02</span><span><span class="title">土地使用</span><span class="meta">11 个模块</span></span></a>
-      <a class="item" href="1974_epilog_shelter_final_booklet.html"><span class="num">03</span><span><span class="title">住所</span><span class="meta">9 个模块</span></span></a>
-      <a class="item" href="1974_epilog_soft_technology_final_booklet.html"><span class="num">04</span><span><span class="title">软技术</span><span class="meta">6 个模块</span></span></a>
-      <a class="item" href="1974_epilog_craft_final_booklet.html"><span class="num">05</span><span><span class="title">手艺</span><span class="meta">7 个模块</span></span></a>
-      <a class="item" href="1974_epilog_community_final_booklet.html"><span class="num">06</span><span><span class="title">共同体</span><span class="meta">9 个模块</span></span></a>
-      <a class="item" href="1974_epilog_nomadics_final_booklet.html"><span class="num">07</span><span><span class="title">游牧</span><span class="meta">8 个模块</span></span></a>
-      <a class="item" href="1974_epilog_communications_final_booklet.html"><span class="num">08</span><span><span class="title">通信</span><span class="meta">10 个模块</span></span></a>
-      <a class="item" href="1974_epilog_learning_final_booklet.html"><span class="num">09</span><span><span class="title">学习</span><span class="meta">9 个模块</span></span></a>
-      <a class="item" href="1974_epilog_publishing_index_final_booklet.html"><span class="num">10</span><span><span class="title">出版业务、索引与封底</span><span class="meta">4 个模块</span></span></a>
+
+    <nav class="issue-toc" aria-label="全书章节">
+      <a href="#chapter-overall-systems">
+        <span class="chapter-number">01</span>
+        <span class="chapter-title">整体系统</span>
+        <span class="chapter-count">8 个条目</span>
+      </a>
+      <a href="#chapter-land-use">
+        <span class="chapter-number">02</span>
+        <span class="chapter-title">土地使用</span>
+        <span class="chapter-count">11 个条目</span>
+      </a>
+      <a href="#chapter-shelter">
+        <span class="chapter-number">03</span>
+        <span class="chapter-title">住所</span>
+        <span class="chapter-count">9 个条目</span>
+      </a>
+      <a href="#chapter-soft-technology">
+        <span class="chapter-number">04</span>
+        <span class="chapter-title">软技术</span>
+        <span class="chapter-count">6 个条目</span>
+      </a>
+      <a href="#chapter-craft">
+        <span class="chapter-number">05</span>
+        <span class="chapter-title">手艺</span>
+        <span class="chapter-count">7 个条目</span>
+      </a>
+      <a href="#chapter-community">
+        <span class="chapter-number">06</span>
+        <span class="chapter-title">共同体</span>
+        <span class="chapter-count">9 个条目</span>
+      </a>
+      <a href="#chapter-nomadics">
+        <span class="chapter-number">07</span>
+        <span class="chapter-title">游牧</span>
+        <span class="chapter-count">8 个条目</span>
+      </a>
+      <a href="#chapter-communications">
+        <span class="chapter-number">08</span>
+        <span class="chapter-title">通信</span>
+        <span class="chapter-count">10 个条目</span>
+      </a>
+      <a href="#chapter-learning">
+        <span class="chapter-number">09</span>
+        <span class="chapter-title">学习</span>
+        <span class="chapter-count">9 个条目</span>
+      </a>
+      <a href="#chapter-publishing-index">
+        <span class="chapter-number">10</span>
+        <span class="chapter-title">出版业务、索引与封底</span>
+        <span class="chapter-count">4 个条目</span>
+      </a>
+    </nav>
+
+    <section class="chapter" id="chapter-overall-systems" aria-labelledby="chapter-overall-systems-label">
+      <div class="chapter-marker">
+        <strong id="chapter-overall-systems-label">01 · 整体系统</strong>
+        <a class="back-top" href="#top">回到全书目录</a>
+      </div>
+<section class="reader-guide" aria-label="读法">
+      <h1>这是整本书的判断框架。</h1>
+      <div class="guide-copy">
+        <p>“整体系统”不是理论炫技。它在提醒读者：任何工具、房子、农场、学校、能源方案和共同体，都不能只问“好不好用”，还要问它进入了什么反馈回路，消耗多少净能量，交给谁控制，又把谁变成工具的看护人。</p>
+        <p>这章的内容跨度很大，从贝特森、布伯、萨根到伊利奇、戴利、奥德姆。读法不是记名字，而是看它们怎样一起训练一种系统眼光。</p>
+      </div>
     </section>
+
+    <nav class="toc" aria-label="整体系统条目目录">
+      <a href="#os-01">01 贝特森</a>
+      <a href="#os-02">02 系统与关系</a>
+      <a href="#os-03">03 宇宙地球</a>
+      <a href="#os-04">04 生态游戏</a>
+      <a href="#os-05">05 增长工具</a>
+      <a href="#os-06">06 政治生态</a>
+      <a href="#os-07">07 能源政治</a>
+      <a href="#os-08">08 奥德姆</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、系统不是控制欲</h2>
+      <p>这一组把控制论从机器迷信里救出来。系统思维不是让某个中心控制整体，而是承认回路、语境、悖论和关系都比单个目的更大。</p>
+    </section>
+
+    <article class="spread" id="os-01">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/overall-systems-siamese-final/01-bateson-cybernetic-humility.png" alt="贝特森控制论谦卑 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 01</div>
+        <h2>贝特森：控制论不是控制欲</h2>
+        <p class="anchor">系统的智慧不属于某个中心，局部控制整体的幻想本身就有病。</p>
+        <p class="body"><strong>先看图：</strong>贝特森的关键词不是“机器”，而是回路、语境和元层级。意识常常只看见目的指向的短弧，生命却依靠许多相互扣连的长回路。</p>
+        <p class="body"><strong>有趣的是：</strong>他批评现代社会里的“自我最大化实体”：公司、政党、工会、国家。法律上它们像人，生物事实中却只是人的片段集合，会把局部目的放大成整体命令。</p>
+        <p class="body"><strong>为什么重要：</strong>《全球概览》借贝特森得到的不是控制技术，而是一种谦卑：在显示出心智特征的系统里，任何部分都不能单方面控制整体。</p>
+        <div class="tags"><span>读图线索：短弧很危险</span><span>没有中心</span><span>控制论的谦卑</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="os-02">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/overall-systems-siamese-final/02-systems-patterns-relation.png" alt="系统自然图案和我与你 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 02</div>
+        <h2>系统工具、自然图案与我-你关系</h2>
+        <p class="anchor">反馈、涌现、螺旋、分枝和“我-你”都在说同一件事：关系不是背景，而是现实本身。</p>
+        <p class="body"><strong>先看图：</strong>威尔登的系统工具、史蒂文斯的自然图案和布伯的“我-你”被放在同一张桌上。一个处理概念，一个处理形式，一个处理伦理关系。</p>
+        <p class="body"><strong>有趣的是：</strong>自然反复使用某些形态：螺旋、曲流、分枝、120 度接合。布伯则提醒，若只用“我-它”看世界，自然和人都会变成可控制对象。</p>
+        <p class="body"><strong>为什么重要：</strong>系统关系如果只剩反馈和编码，就可能变成另一种控制学。布伯把关系重新打开到爱、伦理和不可占有的相遇。</p>
+        <div class="tags"><span>读图线索：关系不是背景</span><span>自然有形态语法</span><span>不要只剩我-它</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、换一个观看位置</h2>
+      <p>从深空、卫星、身体内部、生态剧场和游戏规则看世界，熟悉的事物会变成可读的系统。《全球概览》 喜欢图像，不是因为好看，而是因为它会改变判断位置。</p>
+    </section>
+
+    <article class="spread" id="os-03">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/overall-systems-siamese-final/03-cosmos-earth-images.png" alt="宇宙地球影像身体内部 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 03</div>
+        <h2>宇宙、地球影像与身体内部</h2>
+        <p class="anchor">更远的视角不是逃离地球，而是迫使人重新估计自己的位置。</p>
+        <p class="body"><strong>先看图：</strong>萨根的宇宙尺度、海豚词语、外星文明、卫星假色影像和人体内部照片被放在一起。它们都在训练一种陌生化的观看。</p>
+        <p class="body"><strong>有趣的是：</strong>约翰·沃尔默说，坐在椅子上买卫星影像，就像当一次宇航员。假色影像会让绿色植被变红，清澈蓝水变黑，混凝土城市变蓝。</p>
+        <p class="body"><strong>为什么重要：</strong>从空中看家园、从皮肤下看身体、从宇宙看文明，都会改变自我形象。《全球概览》 把图像当认识工具，而不是装饰。</p>
+        <div class="tags"><span>读图线索：视角改变判断</span><span>假色不是假信息</span><span>身体也有宇宙</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="os-04">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/overall-systems-siamese-final/04-living-earth-ecology-game.png" alt="活的地球生态游戏 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 04</div>
+        <h2>活的地球、生态、进化和游戏</h2>
+        <p class="anchor">生命不是物种清单，而是栖息地、能量、时间、规则和冲突的过程。</p>
+        <p class="body"><strong>先看图：</strong>生物地理、生态系统、文化进化和游戏规则被放进同一座剧场。相似环境会让远隔地区的动物长出相似办法；文化信息则比基因传播更快，也更容易出错。</p>
+        <p class="body"><strong>有趣的是：</strong>赫伊津哈的《游戏的人》被接到伊利奇的“友好工具”谱系里。游戏有边界、规则、公平参与和不确定结果，可以把冲突转成可承受的形式。</p>
+        <p class="body"><strong>为什么重要：</strong>这一页让读者明白，历史、战争和生态不是互不相关的栏目。人类也在建立规则、竞争、限制攻击性，并把危险转成仪式。</p>
+        <div class="tags"><span>读图线索：生态是一场剧</span><span>文化信息会变异</span><span>游戏限制冲突</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、规模会改变伦理</h2>
+      <p>增长、工具、法律和自然权利都在问同一件事：当系统变大、延迟变长、后果变远，普通人还能不能看见、参与和纠正？</p>
+    </section>
+
+    <article class="spread" id="os-05">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/overall-systems-siamese-final/05-limits-steady-convivial-tools.png" alt="增长极限稳态经济友好工具 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 05</div>
+        <h2>增长极限、稳态经济与友好工具</h2>
+        <p class="anchor">问题不只是增长太快，而是巨型工具会反过来支配使用者。</p>
+        <p class="body"><strong>先看图：</strong>人口、农业、资源、工业和污染被放进同一个模型。延迟会让系统越界后还继续冲一段，最后不是平稳停下，而是崩溃。</p>
+        <p class="body"><strong>有趣的是：</strong>戴利用“五分镍币”的故事提醒人：短期最大化未必聪明，游戏能否持续更重要。伊利奇则把汽车、工厂、公司、医学会、政府单位都看成工具。</p>
+        <p class="body"><strong>为什么重要：</strong>工具太大时，人会从使用者变成看护人。《全球概览》 要找的是人的尺度：普通人能理解、使用、参与和纠正的工具。</p>
+        <div class="tags"><span>读图线索：延迟会骗人</span><span>工具也会统治</span><span>人的尺度</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="os-06">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/overall-systems-siamese-final/06-political-ecology-tree-court.png" alt="政治生态树木诉讼资格 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 06</div>
+        <h2>政治生态：树能不能上法庭</h2>
+        <p class="anchor">生态问题如果进不了制度结构，就很容易只剩道德呼吁。</p>
+        <p class="body"><strong>先看图：</strong>树、河流、森林、公司、婴儿和市政机构一起出现在法庭里。克里斯托弗·斯通的问题很尖锐：自然对象能不能拥有诉讼资格？</p>
+        <p class="body"><strong>有趣的是：</strong>反对者说河流和森林不能说话。但公司也不能说话，州、遗产、婴儿、大学也不能。法律一直在让代理人替不能说话者发声。</p>
+        <p class="body"><strong>为什么重要：</strong>政治生态不是抽象绿色姿态，而是人口、疾病、法律、土地、媒体和组织的连锁。谁替自然说话，损害怎样计算，会改变整套系统。</p>
+        <div class="tags"><span>读图线索：谁能发声</span><span>公司也不能说话</span><span>生态进入制度</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第四组">
+      <h2>四、能源要算净账</h2>
+      <p>能源不只是“有多少”。速度会制造新的不平等，核能会制造不可承受的风险，能源取得本身也会消耗能源。最后必须问：真正剩下多少可用功？</p>
+    </section>
+
+    <article class="spread" id="os-07">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/overall-systems-siamese-final/07-energy-speed-nuclear-net.png" alt="速度核能净能量 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 07</div>
+        <h2>速度、核能与净能量</h2>
+        <p class="anchor">高能量系统不仅改变环境，也改变社会关系。</p>
+        <p class="body"><strong>先看图：</strong>伊利奇的速度阈值、核能事故和净能量账本被放在同一页。车辆超过每小时 15 英里后，会创造出只有机动车才能缩短的新距离。</p>
+        <p class="body"><strong>有趣的是：</strong>费米核电站事故后，一段时间里人们不知道是否必须疏散底特律。爱德华·泰勒也承认，随着更多不完全理解系统的人操作核设施，迟早会有一个傻瓜比防傻系统更强。</p>
+        <p class="body"><strong>为什么重要：</strong>能源成本不能只看燃料，还要看制造汽车、修路、维护道路、维持相关结构的隐藏投入。只看表面能量，会错估真实成本。</p>
+        <div class="tags"><span>读图线索：速度会造距离</span><span>核能不是朋友</span><span>算隐藏投入</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="os-08">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/overall-systems-siamese-final/08-odum-energy-ecology-economy.png" alt="奥德姆能源生态经济 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 08</div>
+        <h2>奥德姆：能源、生态与经济是一张图</h2>
+        <p class="anchor">如果十单位能源只能送来十单位能源，那就没有净能量。</p>
+        <p class="body"><strong>先看图：</strong>奥德姆把能源、生态和经济画成一个系统。越挖越深、越挖越远，越来越多能源会被反馈到寻找能源的过程，真正交给社会使用的净能量反而下降。</p>
+        <p class="body"><strong>有趣的是：</strong>他把森林、沼泽、土壤都算作经济输入：森林吸收营养，沼泽调节洪水，土壤吸收碳。若城市密度高到必须用昂贵技术处理环境废物，说明密度已经超过自然缓冲能力。</p>
+        <p class="body"><strong>为什么重要：</strong>这章最后把系统判断推到最硬处：能源储备、通货膨胀、国家位置、太阳能和城市增长，都要回到净能量与环境输入来算。</p>
+        <div class="tags"><span>读图线索：算净账</span><span>环境也是经济输入</span><span>太阳能很稀薄</span></div>
+      </section>
+    </article>
+    </section>
+
+    <section class="chapter" id="chapter-land-use" aria-labelledby="chapter-land-use-label">
+      <div class="chapter-marker">
+        <strong id="chapter-land-use-label">02 · 土地使用</strong>
+        <a class="back-top" href="#top">回到全书目录</a>
+      </div>
+<section class="reader-guide" aria-label="读法">
+      <h1>这章说的不是“开发土地”。</h1>
+      <div class="guide-copy">
+        <p>在 《全球概览》 的语境里，“土地使用”不是占地、规划或开发，而是重新学会和土地上的生命一起生活：先认出地貌、蘑菇、昆虫、鸟、足迹和植物，再把水、粪便、土壤、鱼池、牲畜和菜园重新接成循环。</p>
+        <p>这册可以按图读。每一页先给一个能看见的现场，再拎出一个反常识细节，最后说明它为什么也算“土地使用”。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="土地使用条目目录">
+      <a href="#lu-01">01 新炼金术</a>
+      <a href="#lu-02">02 自然区域</a>
+      <a href="#lu-03">03 蘑菇</a>
+      <a href="#lu-04">04 昆虫鸟类</a>
+      <a href="#lu-05">05 动物足迹</a>
+      <a href="#lu-06">06 植物树木</a>
+      <a href="#lu-07">07 水与污水</a>
+      <a href="#lu-08">08 土壤小农</a>
+      <a href="#lu-09">09 牲畜马</a>
+      <a href="#lu-10">10 害虫园艺</a>
+      <a href="#lu-11">11 室内水培</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、先看见系统</h2>
+      <p>开头先给一个缩影：风车、地下水、太阳热量、鱼池、藻类、罗非鱼和菜园互相接住。后面的所有内容，都在不同尺度上回答同一个问题：怎样使用土地，而不把它耗尽？</p>
+    </section>
+
+    <article class="spread" id="lu-01">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/land-use-siamese-final/01-new-alchemy-cycle.png" alt="新炼金术循环 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 01</div>
+        <h2>本章缩影：新炼金术循环</h2>
+        <p class="anchor">真正的土地使用，不是把土地榨干，而是让风、水、太阳、鱼和菜园彼此接上。</p>
+        <p class="body"><strong>先看图：</strong>这不是普通生态农场，而是一台活的循环机器。新炼金术研究所用翼帆风车抽地下水，鱼池像温室一样留住太阳热量，藻类繁生后喂养罗非鱼。</p>
+        <p class="body"><strong>有趣的是：</strong>最关键的动作发生在“收鱼”之后：富含营养的池水不被排走，而是顺坡流向菜园。本章开头说，农场和园艺教人借助其他生命，把阳光变成可以吃的东西；这套系统把这句话做成了实物。</p>
+        <p class="body"><strong>为什么重要：</strong>如果一开始就把土地看成面积或资源，后面会读错。《全球概览》 想让读者先看到关系：风、水、太阳、鱼、藻类和蔬菜如何彼此供养。</p>
+        <div class="tags"><span>读图线索：循环</span><span>鱼池不是排水终点</span><span>把阳光变成食物</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、先学会识别生命</h2>
+      <p>这组看起来很散：地貌、潮间带、蘑菇、昆虫、鸟、青蛙、乌龟、树和草药。它们共同完成一个训练：在谈种植、耕作或改造之前，先知道身边有什么生命、痕迹和风险。</p>
+    </section>
+
+    <article class="spread" id="lu-02">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/land-use-siamese-final/02-natural-regions-agriculture.png" alt="北美自然区域与农业起源 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 02</div>
+        <h2>北美自然区域与农业起源</h2>
+        <p class="anchor">先把自己所在的地貌和流域看清，再问农业从哪里开始。</p>
+        <p class="body"><strong>先看图：</strong>地图、流域、潮间带和沼泽不是背景资料，而是“我住在哪里”的真正答案。《美国与加拿大自然区域》的用法，是拿来对照自己熟悉的山、土壤颜色、植物和水系。</p>
+        <p class="body"><strong>有趣的是：</strong>潮间带像垂直分层的生命课堂：藤壶、海藻和岩缝里的小生命各有高度。湖泊也不是静止的水面，水下植物会一代代填高湖底，让湖慢慢变成沼泽。</p>
+        <p class="body"><strong>为什么重要：</strong>索尔对农业起源的看法很反常识：农业可能不是饥饿逼出来的，而是丰裕生活中的闲暇和好奇慢慢长出来的。土地使用从“看清自己所在的地方”开始。</p>
+        <div class="tags"><span>读图线索：从地址到流域</span><span>湖会变沼泽</span><span>农业也来自好奇</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-03">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/land-use-siamese-final/03-mushroom-risk-latin.png" alt="蘑菇、风险与拉丁名 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 03</div>
+        <h2>蘑菇：耐心、风险与拉丁名</h2>
+        <p class="anchor">面对危险食物，浪漫不够，必须有词汇、孢子印、耐心和多本指南。</p>
+        <p class="body"><strong>先看图：</strong>桌上不是一本蘑菇图鉴，而是一整套鉴定现场：多本指南、孢子印、拉丁名、标本和风险提示。这里的知识不是装饰性的，是为了避免吃错。</p>
+        <p class="body"><strong>有趣的是：</strong>沃肖尔把新手阶段叫作“危险食物时期”。有了小词汇表和孢子印，也许能吃得不错，也能平安无事；但要真正进入蘑菇的多样性，就得认真学习这些“家伙”的名字。</p>
+        <p class="body"><strong>为什么重要：</strong>《全球概览》 并不把自然浪漫化。它鼓励自学，但也不断提醒：有些知识急不得，尤其当错误会被你吃进肚子里。</p>
+        <div class="tags"><span>读图线索：不要只看形状</span><span>危险食物时期</span><span>耐心也是工具</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-04">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/land-use-siamese-final/04-insects-spiders-birds.png" alt="昆虫蜘蛛与鸟类 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 04</div>
+        <h2>昆虫、蜘蛛与鸟类</h2>
+        <p class="anchor">识别工具应让观察继续，而不是替代观察。</p>
+        <p class="body"><strong>先看图：</strong>昆虫、蜘蛛和鸟被放在同一张观察板上。重点不是收藏名字，而是学会看身体结构、武器、防御、栖息地和行为。</p>
+        <p class="body"><strong>有趣的是：</strong>昆虫部分像一场武器展：雌蜂的刺、猎蝽的刺吸口器、毒血和酸从身体开口喷出，甚至有爆炸甲虫能从肛门排出会轻响爆开的气体。蟑螂也被重新看见：它是从石炭纪延续下来的古老昆虫。</p>
+        <p class="body"><strong>为什么重要：</strong>鸟类指南的价值不在书本本身。沃肖尔说，真正让人兴奋的不是鸟的图片或资料，而是鸟本身；好指南只是为了不打断你拿着望远镜、用耳朵和眼前的翅膀相处。</p>
+        <div class="tags"><span>读图线索：识别服务观察</span><span>昆虫武器展</span><span>兴奋对象是鸟本身</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-05">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/land-use-siamese-final/05-animals-tracks-endangered.png" alt="动物足迹与濒危生命 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 05</div>
+        <h2>动物、足迹与濒危生命</h2>
+        <p class="anchor">动物不在场时，土地仍留下它们生活的证据；濒危生命会把人卷入辩护。</p>
+        <p class="body"><strong>先看图：</strong>这里没有把动物画成可爱对象，而是画成线索：足迹、粪便、啃咬痕、通道、迁徙路线和图腾。动物不在眼前，土地仍然记录它们。</p>
+        <p class="body"><strong>有趣的是：</strong>章稿把常见动物重新变陌生。青蛙变色不是为了好看，而是皮肤对湿度、温度和神经状态的反应；陆栖青蛙眼睛高出头骨，因为它们几乎是周围所有野生动物眼中的美味。</p>
+        <p class="body"><strong>为什么重要：</strong>阿奇·卡尔研究海龟的故事说明了《全球概览》很核心的一件事：人会被某种生物或地貌打动，慢慢卷入其中，最后愿意为它说话。土地使用也会变成责任。</p>
+        <div class="tags"><span>读图线索：动物留下证据</span><span>足迹也能阅读</span><span>被生物打动</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-06">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/land-use-siamese-final/06-plants-herbs-trees.png" alt="植物草药与树 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 06</div>
+        <h2>植物、草药与树</h2>
+        <p class="anchor">植物不是背景装饰，而是药物、气味、恢复和代际农业的入口。</p>
+        <p class="body"><strong>先看图：</strong>植物被拆成几种入口：术语、发光真菌、草药、药物来源、植树恢复、树木作物和永久农业。它们不是风景背景，而是人重新接近土地的具体路径。</p>
+        <p class="body"><strong>有趣的是：</strong>“跳跃仙人掌”其实不会跳，只是节段连接太松，轻轻擦到就整段挂到人身上，让人误以为它扑过来攻击。草药也不只是药，它同时通向烹饪、气味、染料和驱虫。</p>
+        <p class="body"><strong>为什么重要：</strong>布菲耶每天种一百颗橡子，三年种下十万颗。多年后，贫瘠山谷重新有水、气味、村庄和野餐笑声。土地修复在这里不是口号，而是长期、重复、具体的动作。</p>
+        <div class="tags"><span>读图线索：植物是入口</span><span>会“跳”的仙人掌</span><span>十万颗橡子</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、把废物改回循环</h2>
+      <p>从这里开始，小册子进入更刺耳也更实际的问题：厕所、水、污水、土壤、粪肥和小农。《全球概览》 的判断很明确：很多所谓废物，其实是被系统切断了去路的养分。</p>
+    </section>
+
+    <article class="spread" id="lu-07">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/land-use-siamese-final/07-water-toilet-wastewater.png" alt="水厕所污水与土地再利用 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 07</div>
+        <h2>水、厕所、污水与土地再利用</h2>
+        <p class="anchor">不要急着把粪便和污水叫成废物，它们本来可以回到养分循环里。</p>
+        <p class="body"><strong>先看图：</strong>水从山地来，经过厕所、堆肥厕所、活土、污水农场和水产，最后回到作物与人。猫手里划掉的“废物”，就是这一页的核心。</p>
+        <p class="body"><strong>有趣的是：</strong>抽水马桶每次用四到五加仑饮用水，普通家庭约 40% 用水被冲进厕所；它还把“好粪便”贬成废物。《清水》反过来说，一茶匙活土里有数百万细菌、数千万真菌，还有原生动物和藻类。</p>
+        <p class="body"><strong>为什么重要：</strong>污水不一定要被稀释进河海或送进昂贵工厂，也可以通过污水农场、土地复垦、喷灌和堆肥回到养分循环。土地使用在这里变成了城市卫生问题。</p>
+        <div class="tags"><span>读图线索：废物只是被叫错了</span><span>五加仑冲水</span><span>一茶匙活土</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-08">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/land-use-siamese-final/08-soil-ecological-farming.png" alt="土壤生态农业与小农 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 08</div>
+        <h2>土壤、生态农业与小农</h2>
+        <p class="anchor">小农不是浪漫身份，而是把土壤、粪肥、轮作、经济和公共知识重新接起来。</p>
+        <p class="body"><strong>先看图：</strong>土壤剖面、粪肥、钾循环、动物健康、轮作和小农工具被画在同一桌上。这里的小农不是田园想象，而是一整套物质流动和公共知识。</p>
+        <p class="body"><strong>有趣的是：</strong>《土壤的世界》用一个比例把土壤写活：肉眼看不见的土壤缝隙，对氧分子来说像一条约 120 英里宽的山谷。另一处细节是粪肥：一头公牛一年留下的粪便，足以支撑大量昆虫，更不用说细菌、真菌和线虫。</p>
+        <p class="body"><strong>为什么重要：</strong>生态农业不是道德表态。它重新接上钾循环、动物健康、轮作、县级农业推广办公室和小农经济，让“土地使用”从理念落到农场账本和日常操作。</p>
+        <div class="tags"><span>读图线索：土壤是活系统</span><span>120 英里山谷</span><span>小农也用公共知识</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第四组">
+      <h2>四、技术要回到活的生命面前</h2>
+      <p>最后三页不是简单的操作指南。牲畜、园艺、害虫控制、室内植物和水培都在提醒读者：工具有用，但不能替代观察；书本有用，但面对活的生命，总会遇到边界。</p>
+    </section>
+
+    <article class="spread" id="lu-09">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/land-use-siamese-final/09-livestock-horses-boundary.png" alt="牲畜马与活物边界 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 09</div>
+        <h2>牲畜、马与活的边界</h2>
+        <p class="anchor">《全球概览》 鼓励自学，但面对活的生命，仍然需要师承、观察、谦卑和承担后果。</p>
+        <p class="body"><strong>先看图：</strong>记录簿、奶山羊、马、预防医学和“师承”被放在一起。它不是宠物页，而是在讲人如何对活的生命负责。</p>
+        <p class="body"><strong>有趣的是：</strong>小牲畜部分非常务实：兔肉脂肪低、矿物质高；商业蛋鸡第二年产蛋率下降，初学者有时可以买到蛋农淘汰下来的鸡。真正被强调的是选择育种、记录和预防医学。</p>
+        <p class="body"><strong>为什么重要：</strong>马把自学推到边界处。《马跛行》可以教定义、病因、诊断和预后，但也警告：没有可靠老师，不该尝试修蹄，更不用说钉掌。《全球概览》 鼓励自学，但不假装书能替代一手指导。</p>
+        <div class="tags"><span>读图线索：活的生命有边界</span><span>记录也是照护</span><span>书不能替代老师</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-10">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/land-use-siamese-final/10-pest-control-gardening.png" alt="害虫控制与园艺 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 10</div>
+        <h2>害虫控制与园艺</h2>
+        <p class="anchor">问题不是消灭所有“不想要”的生命，而是看懂关系、减少毒性、恢复平衡。</p>
+        <p class="body"><strong>先看图：</strong>一边是捕食蚂蚁、伴生种植和观察记录，一边是广谱毒性。图里真正的主题不是“杀虫”，而是关系管理。</p>
+        <p class="body"><strong>有趣的是：</strong>中世纪阿拉伯枣农会把山上的捕食蚂蚁搬到绿洲，用来控制攻击枣椰的植食蚂蚁。和它相对的是现代广谱杀虫剂，一夜之间把节肢动物生态网打碎。</p>
+        <p class="body"><strong>为什么重要：</strong>园艺细节都在训练观察：种床土粒只要足够细到覆盖种子即可，弄得更细只是为了好看；实际氮量就是氮百分比乘以肥料重量。贝利的旧苗圃手册珍贵，正因为那个年代没有技术可以替人细看。</p>
+        <div class="tags"><span>读图线索：少杀，多看关系</span><span>捕食蚂蚁</span><span>技术不能替代观察</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lu-11">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/land-use-siamese-final/11-indoor-hydroponics.png" alt="室内植物与无土栽培 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 11</div>
+        <h2>室内植物与无土栽培</h2>
+        <p class="anchor">室内也有土地使用问题：环境、照明、根、微量元素和对技术捷径的怀疑。</p>
+        <p class="body"><strong>先看图：</strong>最后一页把土地使用带进房间：湿度、空气流动、昆虫生活、植物灯、温室来源、病株和水培，都成了同一个室内环境问题。</p>
+        <p class="body"><strong>有趣的是：</strong>《公寓园丁》的关键不是装饰，而是把房间重新看成园艺环境。植物灯的判断很干脆：一般来说，忘了它们。温室植物也被拆穿：长得越快、价格越低，转到干燥家庭空气后可能越难活。</p>
+        <p class="body"><strong>为什么重要：</strong>最实用的一句是不要给病植物施肥。水培则保留怀疑：如果是植物，宁可让根在土里吃饭，也不想靠化学液“打点滴”。小册子最后回到一个朴素判断：技术捷径不能替代根与土的关系。</p>
+        <div class="tags"><span>读图线索：房间也是生态环境</span><span>病株不要施肥</span><span>根在土里吃饭</span></div>
+      </section>
+    </article>
+    </section>
+
+    <section class="chapter" id="chapter-shelter" aria-labelledby="chapter-shelter-label">
+      <div class="chapter-marker">
+        <strong id="chapter-shelter-label">03 · 住所</strong>
+        <a class="back-top" href="#top">回到全书目录</a>
+      </div>
+<section class="reader-guide" aria-label="读法">
+      <h1>这章说的不是“房子好不好看”。</h1>
+      <div class="guide-copy">
+        <p>《全球概览》 的住所章关心的是居住能力：从小处开始，读懂地点，用当地材料，能自己修，能和火、水、地震、气候相处，也能承认某些漂亮想法会漏水、会起火、会被现实纠正。</p>
+        <p>所以这册不是房型图鉴，而是一条学习路线：先从小棚屋和土地观察开始，再进入自建、传统、动物建筑、材料、维修、家具、可移动结构和气候设计。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="住所条目目录">
+      <a href="#sh-01">01 从小开始</a>
+      <a href="#sh-02">02 自建与协助</a>
+      <a href="#sh-03">03 学建筑</a>
+      <a href="#sh-04">04 手造房</a>
+      <a href="#sh-05">05 地点材料</a>
+      <a href="#sh-06">06 多种小屋</a>
+      <a href="#sh-07">07 修理系统</a>
+      <a href="#sh-08">08 木工家具</a>
+      <a href="#sh-09">09 气候与移动</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、先把房子变小</h2>
+        <p>住所章最反对的不是简陋，而是还没看清地点就先被宏大概念带走。劳埃德·卡恩给新建者的第一条建议很朴素：先小、先简单、先听当地经验。</p>
+    </section>
+
+    <article class="spread" id="sh-01">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/shelter-siamese-final/01-start-small-study-land.png" alt="从小开始研究土地 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 01</div>
+        <h2>从小开始，先研究土地</h2>
+        <p class="anchor">房子不是先从造型开始，而是先从地点、季节、风、雨、视野和人的变化开始。</p>
+        <p class="body"><strong>先看图：</strong>小棚屋不是临时凑合，而是一种学习工具。它让建造者有时间观察太阳和月亮的升落、风向、雨量、植被、视野和季节温度，再决定真正的房子该怎么长出来。</p>
+        <p class="body"><strong>有趣的是：</strong>劳埃德反省自己曾多次被抽象概念带进冗长、不实用的计划，后来发现鸡舍或小谷仓往往更可靠。二手门窗、卷材屋顶、简单框架、通向花园的厨房，比宏大造型更能让人继续生活。</p>
+        <p class="body"><strong>为什么重要：</strong>建房不像画画，作品不满意不能随手丢掉。先小、保温好、听当地建议，是避免被房子拖垮的现实智慧。</p>
+        <div class="tags"><span>读图线索：先小后大</span><span>地点先于造型</span><span>房子会纠正人</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="sh-02">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/shelter-siamese-final/02-self-build-poor-architecture.png" alt="自建与穷人建筑 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 02</div>
+        <h2>自建、低成本生态房与穷人建筑</h2>
+        <p class="anchor">自建不是边缘趣味，而是许多人真实提供住所的能力；建筑师也可以从作者变成协助者。</p>
+        <p class="body"><strong>先看图：</strong>这页把业主自建、低成本生态住宅和哈桑·法西的泥砖村庄放在一起。水被分级使用，雨水被收集，风和太阳参与供能，建筑材料尽量来自当地或废弃物。</p>
+        <p class="body"><strong>有趣的是：</strong>美国每年有超过十五万个家庭自己建房，1968 年单户新房中 20% 是业主自建。这些房子往往更小、更便宜、更结实，其中近一半不用按揭。</p>
+        <p class="body"><strong>为什么重要：</strong>法西的关键不是“穷人风格”，而是把建筑师的位置改成协助者：逐户询问需求，训练当地工匠，用沙漠泥砖、木材或清田石头建房。</p>
+        <div class="tags"><span>读图线索：自建不是例外</span><span>建筑师协助</span><span>材料从地点来</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、学建筑，不只学建筑学</h2>
+      <p>《全球概览》 把波斯穹顶、动物巢穴、民间谷仓和梦中的家放到同一章里，因为住所不是一个专业孤岛。它既有结构问题，也有记忆、手艺、文化和身体经验。</p>
+    </section>
+
+    <article class="spread" id="sh-03">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/shelter-siamese-final/03-learn-architecture-tradition-animals.png" alt="向传统动物和老师学习建筑 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 03</div>
+        <h2>向传统、动物和老师学习建筑</h2>
+        <p class="anchor">学建筑可以从工地、图纸、老师、波斯穹顶、动物巢穴和植物环境工具同时开始。</p>
+        <p class="body"><strong>先看图：</strong>方形平面怎样过渡到圆形穹顶，是建筑史上的难题；动物则总是用手边材料建造。鸟巢、蜂巢、白蚁丘、蟹的沙穹顶，都不是可爱插曲，而是结构课。</p>
+        <p class="body"><strong>有趣的是：</strong>劳埃德给想学建筑的人开的路很直接：找人收你，从劳工做起，边做边学，尽量画图。书有帮助，但没有什么比合得来的老师更好。</p>
+        <p class="body"><strong>为什么重要：</strong>如果建筑学习只剩专业语言，房子会离地点越来越远。传统、动物和植物把建筑拉回材料、气候、身体和现场。</p>
+        <div class="tags"><span>读图线索：边做边画</span><span>动物不是模型，是老师</span><span>植物也是建筑工具</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="sh-04">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/shelter-siamese-final/04-handmade-houses-barns-memory.png" alt="手造房谷仓和梦屋 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 04</div>
+        <h2>手造房、谷仓和梦中的家</h2>
+        <p class="anchor">住所不是中性容器。它同时是结构、劳动、记忆、角落、阁楼和地下室。</p>
+        <p class="body"><strong>先看图：</strong>手造小屋向建筑师发问：锯子是否比铅笔更有说服力？谷仓则把北美民间最宏大、最精良的框架系统摆到台前。</p>
+        <p class="body"><strong>有趣的是：</strong>《谷仓》能把荷兰谷仓、英国谷仓、宾州谷仓、多边形谷仓分类，也能把谷仓追溯到倒置船体和巴西利卡式教堂。民间结构并不低级，它只是没有总被专业话语命名。</p>
+        <p class="body"><strong>为什么重要：</strong>巴什拉的《空间诗学》提醒人：房子也由记忆建成。梦中的房子、出生之屋、阁楼、地下室和角落，解释了为什么住所不只是外壳。</p>
+        <div class="tags"><span>读图线索：锯子还是铅笔</span><span>谷仓是结构史</span><span>家也由记忆组成</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、材料会把地点带进房子</h2>
+      <p>这一组进入材料：榫卯、旧料、泥砖、草皮、灰泥、茅草、石头、杆和原木。《全球概览》 关心的不是材料风格，而是成本、寿命、地形、气候和身体劳动。</p>
+    </section>
+
+    <article class="spread" id="sh-05">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/shelter-siamese-final/05-joinery-salvage-adobe-sod.png" alt="木工旧料泥砖和草皮墙 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 05</div>
+        <h2>木工、旧料、泥砖与草皮墙</h2>
+        <p class="anchor">所谓房子，不是从房地产商品开始，而是从木料、连接、拆除现场、泥土和本地气候开始。</p>
+        <p class="body"><strong>先看图：</strong>榫卯、二手门窗、泥砖、草皮墙和灰泥被放进同一个材料场。这里没有“高级材料”和“低级材料”，只有材料从哪里来、怎样连接、能不能被你理解和修理。</p>
+        <p class="body"><strong>有趣的是：</strong>拆除现场的好木材会随着工期越来越便宜，最后可能免费。尤金·布德罗夫妇做了 120 吨泥砖，一人一天连续干八九小时，最多也就做约一吨。</p>
+        <p class="body"><strong>为什么重要：</strong>旧料、泥砖、草皮和灰泥让房子重新接回地点。它们不一定轻松，却能让建造者知道自己到底在搬动什么、连接什么、承担什么。</p>
+        <div class="tags"><span>读图线索：材料有来历</span><span>旧料会降价</span><span>泥砖有重量</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="sh-06">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/shelter-siamese-final/06-thatch-stone-pole-log.png" alt="茅草石屋杆屋原木屋 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 06</div>
+        <h2>茅草、石屋、杆屋和原木屋</h2>
+        <p class="anchor">不同小屋不是风格展示，而是对材料寿命、地形、按揭、抗震和移动的不同回答。</p>
+        <p class="body"><strong>先看图：</strong>茅草屋顶、石屋、坡地杆屋和原木屋各有逻辑。茅草讲寿命和手艺；石屋讲家庭劳动和少花钱；杆屋讲坡地、抗震和少挖地基；原木屋讲拓荒和移动。</p>
+        <p class="body"><strong>有趣的是：</strong>茅草并不是短命材料，诺福克芦苇屋顶可用 50 到 60 年。沃森一家用 2,000 美元在一个夏天建了 1,100 平方英尺石屋。《全球概览》的句子很直接：和石头搏斗，不和按揭搏斗。</p>
+        <p class="body"><strong>为什么重要：</strong>这些房子把“住所”从抽象设计拉回条件判断：你有什么材料？在哪种地形上？能承受多长寿命？要花钱还是花力气？</p>
+        <div class="tags"><span>读图线索：条件决定做法</span><span>和石头搏斗</span><span>坡地上的杆屋</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第四组">
+      <h2>四、房子建成后还在继续</h2>
+      <p>住所不是交房那一刻结束的对象。它要被顶起、修补、取暖、加固、识别木头、搬动家具，也要接受气候和材料风险的长期考验。</p>
+    </section>
+
+    <article class="spread" id="sh-07">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/shelter-siamese-final/07-repair-heat-earthquake-systems.png" alt="修理木火地震和系统维护 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 07</div>
+        <h2>修理、木火、地震与系统维护</h2>
+        <p class="anchor">能住，不只是能建；还要会修、会取暖、会读懂水表和结构风险。</p>
+        <p class="body"><strong>先看图：</strong>下沉房屋被顶起，腐烂窗台被换掉，水表被读懂，木火炉让房间变暖，地槛螺栓把旧木框架接回基础。住所从来不是静止成品。</p>
+        <p class="body"><strong>有趣的是：</strong>《读者文摘》的自己动手手册被劳埃德称为最完整的修理书之一；《地震国度中的安心》则把建筑学习直接带到生命安全：选址、评估、保险、逃往何处，都算住所知识。</p>
+        <p class="body"><strong>为什么重要：</strong>一个人真正拥有的不是房子的外观，而是读懂系统的能力。水、火、地震、空气离子和木框架都在提醒你：房子会持续要求维护。</p>
+        <div class="tags"><span>读图线索：房子要继续照料</span><span>读懂系统</span><span>地震不是附录</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="sh-08">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/shelter-siamese-final/08-woodwork-furniture-mobile.png" alt="木工家具和可移动生活 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 08</div>
+        <h2>木工、家具与可移动生活</h2>
+        <p class="anchor">家具不是房间里的重量，也可以是一种移动生活的策略。</p>
+        <p class="body"><strong>先看图：</strong>木工基础、认木头、震颤派家具、波斯工匠画线和游牧家具被放在同一张工作台上。住所不是只靠墙决定，也靠桌、椅、床、柜和搬家方式决定。</p>
+        <p class="body"><strong>有趣的是：</strong>震颤派家具被当成诚实、谦卑、裸骨的典范：木头是稀有礼物，不该被多余触碰。波斯住宅甚至可以不用正式图纸，业主和建造者直接在场地用石灰粉标墙线。</p>
+        <p class="body"><strong>为什么重要：</strong>《游牧家具》把家具从“沉重所有物”改成轻量系统。搬家越频繁，越能明白床、沙发、桌椅和书架不是中性的，它们会决定身体、时间和自由。</p>
+        <div class="tags"><span>读图线索：家具也是系统</span><span>木头要识别</span><span>轻量也是自由</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="sh-09">
+      <figure class="art">
+        <img src="../../assets/wholeearth_1974_epilog_visuals/shelter-siamese-final/09-tipi-yurt-tensile-climate.png" alt="圆锥帐蒙古包张拉结构和气候设计 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">条目 09</div>
+        <h2>圆锥帐、蒙古包、张拉结构与气候设计</h2>
+        <p class="anchor">轻量结构值得学，但材料迷信和圆顶神话要被现实纠正。</p>
+        <p class="body"><strong>先看图：</strong>圆锥帐、蒙古包和张拉结构指向轻量、可移动和少材料覆盖空间；圆顶旁边的漏水桶和泡沫警告，则提醒人不要把形式或材料当成信仰。</p>
+        <p class="body"><strong>有趣的是：</strong>劳埃德·卡恩曾是圆顶建筑的重要拥护者，到《尾声》时却成了有力批评者。布兰德半开玩笑概括他的批评：“它们漏水。”聚氨酯泡沫也不是神奇材料，遇高温可能突然爆燃并放出致命气体。</p>
+        <p class="body"><strong>为什么重要：</strong>奥尔吉的气候设计把传统和工程连起来：厚泥砖墙、小窗、朝向和热延迟都能减少燃料依赖。老房改造则说明另一种自由：理解你所住之物，照料它，不破坏它。</p>
+        <div class="tags"><span>读图线索：轻量不等于迷信</span><span>圆顶会漏</span><span>让气候参与设计</span></div>
+      </section>
+    </article>
+    </section>
+
+    <section class="chapter" id="chapter-soft-technology" aria-labelledby="chapter-soft-technology-label">
+      <div class="chapter-marker">
+        <strong id="chapter-soft-technology-label">04 · 软技术</strong>
+        <a class="back-top" href="#top">回到全书目录</a>
+      </div>
+<section class="reader-guide" aria-label="读法">
+      <h1>这章最反浪漫。</h1>
+      <div class="guide-copy">
+        <p>软技术听起来温柔，但鲍德温在这里不断降温：太阳、风和沼气也许免费，捕获和储存它们的硬件并不免费。真正需要的不是推销，而是交付。</p>
+        <p>所以这册按“能不能工作”来读：成本、维护、失败方式、天气、材料、研究网络、组件和实际使用反馈，比漂亮口号更重要。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="软技术条目目录">
+      <a href="#st-01">01 交付</a>
+      <a href="#st-02">02 太阳硬件</a>
+      <a href="#st-03">03 研究共同体</a>
+      <a href="#st-04">04 风能现实</a>
+      <a href="#st-05">05 信息网络</a>
+      <a href="#st-06">06 组件</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、先问能不能交付</h2>
+      <p>《全球概览》 并不反对替代技术，它反对把愿望当技术。能工作的软技术必须说清成本、失败、维护和减少需求。</p>
+    </section>
+
+    <article class="spread" id="st-01">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/soft-tech-siamese-final/01-deliver-not-sell.png" alt="交付而不是推销 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 01</div>
+        <h2>交付，而不是推销</h2>
+        <p class="anchor">替代能源不自动等于好工具。硬件是否可靠，比立场更重要。</p>
+        <p class="body"><strong>先看图：</strong>猫把宣传海报推到一边，打开的是工作手册：什么能用、花多少钱、怎样失败、怎样减少需求。软技术先要过这一关。</p>
+        <p class="body"><strong>有趣的是：</strong>鲍德温说，没有想清楚、做仔细的装置，会变成另一个“漏水圆顶”，用反复失败挫伤善意的人。风电不只是玩具，沼气设备也少得惊人。</p>
+        <p class="body"><strong>为什么重要：</strong>软技术不是纯洁意识形态。它必须能被理解、购买、安装、维修、复制和批评。</p>
+        <div class="tags"><span>读图线索：别先推销</span><span>失败会伤人</span><span>需要工作手册</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="st-02">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/soft-tech-siamese-final/02-solar-low-temperature-hardware.png" alt="太阳能低温和硬件 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 02</div>
+        <h2>太阳能：低温效率和会工作的细节</h2>
+        <p class="anchor">太阳能不是越热越好。低温、流量、储热和保温细节，决定系统是否真的有用。</p>
+        <p class="body"><strong>先看图：</strong>泳池集热器、家用热水、珠帘保温墙、天窗盖、55 加仑桶墙和小型太阳电池被放在同一张硬件台上。它们不是同一个问题。</p>
+        <p class="body"><strong>有趣的是：</strong>低温集热器效率高，泳池几千加仑水升到约 80°F，反而可以用塑料；家用热水要到 140°F，才需要更昂贵的金属、黑涂层和玻璃。</p>
+        <p class="body"><strong>为什么重要：</strong>太阳能电力被处理得很谨慎：给野外无线电或小计算器充电可以，给整个家庭或车辆供电，基本可以先忘掉。</p>
+        <div class="tags"><span>读图线索：低温也有力量</span><span>硬件细节决定成败</span><span>别夸大家庭供电</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、原型要在天气里工作</h2>
+      <p>佐姆工坊、衔尾蛇项目、新炼金术研究所和综合生命系统实验室都不是概念图，它们在屋顶、温室、鱼池、山地雪和无备用能源中测试软技术。</p>
+    </section>
+
+    <article class="spread" id="st-03">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/soft-tech-siamese-final/03-research-communities-prototypes.png" alt="研究共同体和真实原型 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 03</div>
+        <h2>研究共同体和真实原型</h2>
+        <p class="anchor">你从这些团体买到的不只是产品，而是研究网络和可被检验的原型。</p>
+        <p class="body"><strong>先看图：</strong>佐姆工坊的天窗盖、衔尾蛇旧房改造、新炼金术研究所的“方舟”、综合生命系统实验室的山地实验室连成一张网络。每个节点都在真实气候和真实负荷下工作。</p>
+        <p class="body"><strong>有趣的是：</strong>衔尾蛇东部项目用南向屋顶和南墙集热器，加地下室 2,000 加仑钢水箱储热；新炼金术研究所的 13,500 加仑鱼池既是生产系统，也是储热和气候调节组件。</p>
+        <p class="body"><strong>为什么重要：</strong>软技术在这里不是买一个机器，而是加入不断试错、公布结果、修正设计的研究共同体。</p>
+        <div class="tags"><span>读图线索：原型要经冬天</span><span>鱼池也是储热</span><span>研究网络</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="st-04">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/soft-tech-siamese-final/04-wind-weather-maintenance.png" alt="风能天气维护 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 04</div>
+        <h2>风能：天气比梦想更大</h2>
+        <p class="anchor">荒野木屋屋顶上小风机呼呼转的梦很诱人，也很难。</p>
+        <p class="body"><strong>先看图：</strong>风机不是只有叶片。塔架、电池、控制器、维护、冰、尘、腐蚀、冰雹、昆虫、雷击、金属疲劳和极端风力都在图里。</p>
+        <p class="body"><strong>有趣的是：</strong>《全球概览》 知道至少一例昂贵进口设备在山地风暴中整个被吹走。自制机器常常输出低、故障多，商业机器也贵。</p>
+        <p class="body"><strong>为什么重要：</strong>风能需要气候数据、空气动力学、机械、电池、塔架和长期维护。把成本分摊给共同体，也许比单户硬扛更现实。</p>
+        <div class="tags"><span>读图线索：风不是免费电</span><span>天气会考试</span><span>共同体分摊成本</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、信息网络和组件抽屉</h2>
+      <p>软技术不是一台完美机器，而是一套学习网络和零件生态：草根通讯、读者反馈、旧工具、动物生理、胶带、磁铁、灯、树脂、小机械和“凑合着做”。</p>
+    </section>
+
+    <article class="spread" id="st-05">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/soft-tech-siamese-final/05-grassroots-journals-big-institutions.png" alt="草根通讯和大机构阴影 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 05</div>
+        <h2>草根信息网络与大机构阴影</h2>
+        <p class="anchor">读者反馈会让标准变严，但大机构也会把太阳和风重新包装成可销售系统。</p>
+        <p class="body"><strong>先看图：</strong>一边是草根通讯、项目档案、求职者技能和读者反馈；另一边是美国航天局、石油公司、燃气研究机构和广告机器。</p>
+        <p class="body"><strong>有趣的是：</strong>《替代能源》随着读者和编辑互相教育，幻想减少，方案质量提高。《正在制作》则把合作项目和求职者档案连起来。</p>
+        <p class="body"><strong>为什么重要：</strong>低技术运动并不会自动免于权力吸收。了解大机构正在做什么，至少知道表面，是必要的。</p>
+        <div class="tags"><span>读图线索：反馈提高标准</span><span>广告会重新包装</span><span>了解权力基础</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="st-06">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/soft-tech-siamese-final/06-animal-design-biogas-components.png" alt="动物设计沼气组件 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 06</div>
+        <h2>动物、沼气、旧工具和组件</h2>
+        <p class="anchor">软技术最终落在能买、能改、能修、能拿来试验的小东西上。</p>
+        <p class="body"><strong>先看图：</strong>袋鼠鼠、狗喘气、热交换、沼气、旧中国工具、油浸木轴承、强力胶带、磁铁、灯、塑料器材、树脂、玻璃纤维和热管都被放进组件抽屉。</p>
+        <p class="body"><strong>有趣的是：</strong>狗喘气可能接近呼吸系统的共振频率，这样散热时耗费最少肌肉能量。动物在这里成了干旱气候建筑和设计的教材。</p>
+        <p class="body"><strong>为什么重要：</strong>《工作中的中国》和《凑合着做》提醒人：真正精炼的工具往往不浪费材料，尤其不浪费金属。软技术的能力，常常藏在旧工具和小组件里。</p>
+        <div class="tags"><span>读图线索：动物也是工程课</span><span>旧工具不浪费</span><span>组件能试错</span></div>
+      </section>
+    </article>
+    </section>
+
+    <section class="chapter" id="chapter-craft" aria-labelledby="chapter-craft-label">
+      <div class="chapter-marker">
+        <strong id="chapter-craft-label">05 · 手艺</strong>
+        <a class="back-top" href="#top">回到全书目录</a>
+      </div>
+<section class="reader-guide" aria-label="读法">
+      <h1>这章说的是手知道的事。</h1>
+      <div class="guide-copy">
+        <p>手艺不是“漂亮手作”。它保存的是工业社会常常藏起来的知识：工具怎样锋利，皮革怎样受力，泥土怎样进火，线怎样有捻度，针密怎样改变衣服尺寸，传统物件为什么不能随便复制。</p>
+        <p>这一章可以按材料读，也可以按身体动作读：找资料、做工具、切、缝、捏、烧、染、织、量、改，最后把世界重新理解为可以被做出来的东西。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="手艺条目目录">
+      <a href="#cr-01">01 资料边界</a><a href="#cr-02">02 工具制作</a><a href="#cr-03">03 木雕皮革</a><a href="#cr-04">04 泥火玻璃</a><a href="#cr-05">05 纺线染色</a><a href="#cr-06">06 编织篮子</a><a href="#cr-07">07 针线制版</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、先找到可靠入口</h2>
+      <p>手艺的第一步不是买材料，而是找到能带你开始、练习并尊重传统边界的资料。</p>
+    </section>
+
+    <article class="spread" id="cr-01">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/craft-siamese-final/01-access-tradition-boundaries.png" alt="手艺资料传统边界 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 01</div>
+        <h2>找书、找传统、尊重边界</h2>
+        <p class="anchor">可靠资料本身就是工具；传统物件也不是随手可复制的装饰。</p>
+        <p class="body"><strong>先看图：</strong>目录、纺织书店、北美原住民手艺手册、《狐火》和纺线老人被放在同一间资料室。进入手艺的第一步，是找到对的书和对的传统。</p>
+        <p class="body"><strong>有趣的是：</strong>《北美印第安手艺》谨慎处理鼓、烟斗、面具等有精神意义的物件。若不了解它们的位置，复制可能把面具降成万圣节服装。</p>
+        <p class="body"><strong>为什么重要：</strong>《全球概览》 这里不是把所有传统都拿来消费，而是在提醒：手艺既是技术，也是关系和责任。</p>
+        <div class="tags"><span>读图线索：资料也是工具</span><span>不要随便复制</span><span>乡土知识</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cr-02">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/craft-siamese-final/02-tool-making.png" alt="工具制作 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 02</div>
+        <h2>工具制作：用工具做工具</h2>
+        <p class="anchor">一旦能做自己的工具，人就不必只能购买别人为别的目的设计的工具。</p>
+        <p class="body"><strong>先看图：</strong>锻炉、铁砧、钻床、台钳、废钢、锉刀、螺丝刀、剪刀和凿子构成了一条学习路线。工具制作被称为最高的手艺之一。</p>
+        <p class="body"><strong>有趣的是：</strong>威格斯在荷兰做学生时，第一年工坊时间都只学平锉，直到能达到机器般精度。锉刀常常能像砂轮一样有效，却更可控。</p>
+        <p class="body"><strong>为什么重要：</strong>安全也是手艺的一部分。活火、锐利工具和分心不能共存；健全的工具制作者始终处在控制中。</p>
+        <div class="tags"><span>读图线索：先练平锉</span><span>废钢也是材料</span><span>安全是手艺</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、材料会教手</h2>
+      <p>木头、皮革、陶土、蜡、玻璃和珠子都不是被动材料。它们会用阻力、温度、湿度、裂纹和重量训练人的判断。</p>
+    </section>
+
+    <article class="spread" id="cr-03">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/craft-siamese-final/03-woodcarving-leather.png" alt="木雕和皮革 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 03</div>
+        <h2>木雕工具与皮革</h2>
+        <p class="anchor">工具名不是术语负担，而是进入材料语言的钥匙。</p>
+        <p class="body"><strong>先看图：</strong>V 形刀、小 U 形刀、弯凿、匙形圆凿、皮革刀、染色、边缘整理和鞍针缝法被放在同一张工作台上。木头和皮革都要求手稳定。</p>
+        <p class="body"><strong>有趣的是：</strong>鞍针缝法最怕“不一致”。若第一针左针在前，后面每一针都要保持左针在前，否则缝线会粗糙不均。</p>
+        <p class="body"><strong>为什么重要：</strong>好的教学常常来自朋友型工匠在每一步纠正你：再压重点，那只是表面抛光。手艺要靠细节和苦工进入。</p>
+        <div class="tags"><span>读图线索：工具形状说明功能</span><span>每针一致</span><span>锋利才好切</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cr-04">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/craft-siamese-final/04-clay-wax-glass.png" alt="陶艺蜡玻璃 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 04</div>
+        <h2>陶艺、蜡、珠子与玻璃</h2>
+        <p class="anchor">火和热会让材料显形，也会把人的错误留下来。</p>
+        <p class="body"><strong>先看图：</strong>指痕陶壶、锯末窑、釉配方、蜡烛模具、回收珠宝、珠子、彩色玻璃和吹玻璃的湿木块围成一个热工作室。</p>
+        <p class="body"><strong>有趣的是：</strong>贝伦森喜欢壶留下手指痕迹，因为那是你的手。吹玻璃时，湿木块不直接接触玻璃，中间有一层过热蒸汽，太干就会粘住并留下气泡。</p>
+        <p class="body"><strong>为什么重要：</strong>这些材料不允许只凭想象。冷却太快、釉配方不准、木块太干，都会在成品上留下证据。</p>
+        <div class="tags"><span>读图线索：火会记录手</span><span>控制冷却</span><span>热玻璃要敬畏</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、线、布和尺寸会反驳想象</h2>
+      <p>纺线、染色、编织、篮编、钩针、针织、刺绣和制版都在训练同一件事：材料和身体尺寸最终会给出答案。</p>
+    </section>
+
+    <article class="spread" id="cr-05">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/craft-siamese-final/05-knots-batik-spinning-dyeing.png" alt="绳结蜡染纺线染色 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 05</div>
+        <h2>绳结、蜡染、纺线与染色</h2>
+        <p class="anchor">线不是抽象线条，它有捻度、张力、颜色、来源和设备。</p>
+        <p class="body"><strong>先看图：</strong>海事绳结、蜡染、普施安染料、纺车、剪羊毛、天然植物染色和织机计划被放在一个纺织工作室里。</p>
+        <p class="body"><strong>有趣的是：</strong>阿丽姨妈说自己爱极了纺线，爱把线带上去、让轮子转。莎拉·卡恩则在煮胡萝卜叶染色时发现，自己以前竟没想到可以这样染。</p>
+        <p class="body"><strong>为什么重要：</strong>《全球概览》 关心的不只是成品布，而是设备能否被人制造，染料是否耐洗，布料准备是否正确。</p>
+        <div class="tags"><span>读图线索：线有身体</span><span>布料准备很关键</span><span>设备能否自造</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cr-06">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/craft-siamese-final/06-weaving-baskets-crochet-knitting.png" alt="编织篮子钩针针密 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 06</div>
+        <h2>编织、篮子、钩针与针密</h2>
+        <p class="anchor">一根线、一根柳条、半针密度，都能改变最终形状。</p>
+        <p class="body"><strong>先看图：</strong>古秘鲁纺织、纳瓦霍织机、篮子结构、钩针造型和针织样片被放在同一张纺织墙上。这里的复杂不是炫技，而是结构判断。</p>
+        <p class="body"><strong>有趣的是：</strong>针织密度很残酷：30 英寸腰围，每英寸 7.5 针是 225 针，每英寸 8 针是 240 针，差出来就是两英寸。</p>
+        <p class="body"><strong>为什么重要：</strong>篮编部分最清楚地讲出技术进步的损失：工业发展一来，手工篮编传统就会消失，使用篮子的感官愉悦也会失去。</p>
+        <div class="tags"><span>读图线索：半针也重要</span><span>篮子是结构艺术</span><span>技术会消灭手感</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cr-07">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/craft-siamese-final/07-embroidery-quilts-sewing-patterns.png" alt="刺绣拼布缝纫制版 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 07</div>
+        <h2>刺绣、拼布被、缝纫与制版</h2>
+        <p class="anchor">针线不是家务残余，而是结构、颜色、身体尺寸和女性表达的历史。</p>
+        <p class="body"><strong>先看图：</strong>刺绣针法按结构归组，拼布被作为视觉艺术被挂起，缝纫机旁是插片、商业纸样和个人基本纸样。</p>
+        <p class="body"><strong>有趣的是：</strong>拼布、被缝和针线艺术曾长期是女性少数能创造性表达自己的途径。许多一两百年前被子里的色彩组合，早于现代艺术运动，却长期被忽视。</p>
+        <p class="body"><strong>为什么重要：</strong>制版把身体带回纸面。所谓平面纸样法，是从已经适合个人身体的基本纸样出发，把它改成选定设计。</p>
+        <div class="tags"><span>读图线索：针法有结构</span><span>被子不是残余</span><span>纸样从身体来</span></div>
+      </section>
+    </article>
+    </section>
+
+    <section class="chapter" id="chapter-community" aria-labelledby="chapter-community-label">
+      <div class="chapter-marker">
+        <strong id="chapter-community-label">06 · 共同体</strong>
+        <a class="back-top" href="#top">回到全书目录</a>
+      </div>
+<section class="reader-guide" aria-label="读法">
+      <h1>共同体不是气氛，是一整套能用的生活系统。</h1>
+      <div class="guide-copy">
+        <p>这一章把出生、死亡、政治、烹饪、住房、电话、法律、医疗、出版和跨国资料都放进“共同体”。它看起来很杂，实际在追问同一件事：人要一起生活，除了善意，还需要哪些可访问、可维护、可学习的工具？</p>
+        <p>读这一章，不要只找公社和田园生活。更值得看的，是那些不浪漫但关键的基础设施：黄页、危机热线、钱罐、罐头轮换、租户权利、助产知识、权利手册、黑人期刊和绕过冷战滤镜理解中国的资料渠道。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="共同体条目目录">
+      <a href="#cm-01">01 黄页热线</a><a href="#cm-02">02 公社合作社</a><a href="#cm-03">03 家务资源</a><a href="#cm-04">04 城市住房</a><a href="#cm-05">05 低成本厨房</a><a href="#cm-06">06 储备伦理</a><a href="#cm-07">07 健康基层</a><a href="#cm-08">08 身体照护</a><a href="#cm-09">09 权力网络</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、先让人找得到彼此</h2>
+      <p>共同体不是从口号开始，而是从目录、电话、接生、厕所、合作购买、法律结构这些很具体的入口开始。</p>
+    </section>
+
+    <article class="spread" id="cm-01">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/community-siamese-final/01-hotlines-yellow-pages.png" alt="黄页热线危机中心 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 01</div>
+        <h2>黄页、热线与危机中心</h2>
+        <p class="anchor">如果一个人遇到住房、药物、暴力、性病、逃家或精神危机，却不知道打给谁，共同体就只是漂亮词。</p>
+        <p class="body"><strong>先看图：</strong>电话交换台、城市地图和《人民黄页》被接成一张服务网络。这里的“可达”不是抽象价值，而是电话另一端有人听、有人转介、有人知道下一步。</p>
+        <p class="body"><strong>有趣的是：</strong>《全国热线与青年危机中心目录》把热线、电话转接台、免费诊所、离家少年短住处和临时接待中心区分开来。不同机构不只是电话号码不同，能提供的帮助也不同。</p>
+        <p class="body"><strong>为什么重要：</strong>《全球概览》 把它放在共同体开头，是在说本地知识也要被编目。正规制度之外的医疗、法律、住房、女性资源和同性恋资源，只有被找到，才真的存在。</p>
+        <div class="tags"><span>读图线索：共同体先是可达性</span><span>热线不是电话簿</span><span>转介也是基础设施</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cm-02">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/community-siamese-final/02-communes-coops-experimental-city.png" alt="公社合作社实验城市 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 02</div>
+        <h2>公社、合作社与实验城市</h2>
+        <p class="anchor">共同生活很快会落到接生、厕所、食物、能源、土地、学校、商店和法律结构上。</p>
+        <p class="body"><strong>先看图：</strong>农场公社、新先驱、曙光村和塞罗戈多不被画成乌托邦海报，而是一张小镇模型。每个小旗都是一个实际问题：孩子怎么出生，废物怎么处理，食物怎样合作购买，水泵怎样转。</p>
+        <p class="body"><strong>有趣的是：</strong>农场公社曾经花两个多月收巨大高粱，下一年就缩小规模，追求质量而不是数量。它也承认自己从邻居、水务部门、警长那里学到很多。</p>
+        <p class="body"><strong>为什么重要：</strong>曙光村的风力水泵和塞罗戈多的法律计划说明，实验共同体不是“大家住一起”那么简单。它要把意识转变、物质系统和组织形式一起处理。</p>
+        <div class="tags"><span>读图线索：实验要落地</span><span>公社也要学邻居</span><span>法律结构很现实</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cm-03">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/community-siamese-final/03-domestic-women-resources.png" alt="家务宠物女性资源 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 03</div>
+        <h2>家务、宠物与女性资源</h2>
+        <p class="anchor">家务不是退回私人领域；它是生活组织、工具设计、法律意识和女性资源网络的一部分。</p>
+        <p class="body"><strong>先看图：</strong>手动扫地机、家修图解、犬训卡片、女性法律资源和危机中心卡片都在同一张工作台上。这不是把主题混在一起，而是在还原家庭生活真正会遇到的事。</p>
+        <p class="body"><strong>有趣的是：</strong>霍基手动扫地机因为不用电、轻便、可被儿童、老人、轮椅使用者和康复者操作，被当成好设计。它把清洁从沉重电器还原成可共享的身体动作。</p>
+        <p class="body"><strong>为什么重要：</strong>《新女性生存目录》列出强奸危机中心、法律、工作、身体、教育和女性出版物。共同体若不处理女性实际处境，就只是把旧结构搬到新名字下。</p>
+        <div class="tags"><span>读图线索：家也是基础设施</span><span>工具要轻</span><span>女性资源不是附录</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、共同体每天要吃、住、修、存</h2>
+      <p>城市街区、老房修补、合作购买、廉价食谱、肥皂故障和应急储备，都在把理想压回日常维护。</p>
+    </section>
+
+    <article class="spread" id="cm-04">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/community-siamese-final/04-city-old-house-planning.png" alt="城市老房住房规划 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 04</div>
+        <h2>城市生活、老房与土地规划</h2>
+        <p class="anchor">城市不是机器坏了要拆掉，而是一种可维修、可观察、可争取的生态。</p>
+        <p class="body"><strong>先看图：</strong>老房墙洞、短街区、混合建筑、租户权利、拒贷红线和规划委员会被放在一张街区模型上。修壁炉和反对城市更新，在这里属于同一类能力：理解并维护居住环境。</p>
+        <p class="body"><strong>有趣的是：</strong>修没有底的石膏墙洞，可以先塞紧揉皱报纸，湿润边缘，薄涂熟石膏，等二十分钟，再逐层修补。城市知识从这种手感开始。</p>
+        <p class="body"><strong>为什么重要：</strong>简·雅各布斯的四个条件很具体：多种主要功能、短街区、新旧建筑混合、足够人群密度。城市多样性不是美学口号，而是一套街道条件。</p>
+        <div class="tags"><span>读图线索：街区会自组织</span><span>老房可修</span><span>住房也是政治</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cm-05">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/community-siamese-final/05-low-cost-food-kitchen.png" alt="低成本生活食物厨房 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 05</div>
+        <h2>低成本生活、食物和厨房</h2>
+        <p class="anchor">穷得有风格，不是把生活变薄，而是把预算、营养、采购和烹饪重新算清楚。</p>
+        <p class="body"><strong>先看图：</strong>账本、豆类、谷物、钱罐、秤、合作采购箱和大锅被连成一张厨房经济图。每个物件都在问：怎样少卷入疯狂经济，又不牺牲滋养和味道？</p>
+        <p class="body"><strong>有趣的是：</strong>卡伦巴赫用纸餐巾和布餐巾算账：纸餐巾看似便宜，但四口之家一周也要花钱；布餐巾的成本加洗涤后反而可能更低。这不是怀旧，是现金流计算。</p>
+        <p class="body"><strong>为什么重要：</strong>《食物合谋食谱》说，五个家庭、一辆车、一个钱罐和一台准秤，就能开始合作购买。小组不宜无限变大，超过五十个家庭就该拆分。</p>
+        <div class="tags"><span>读图线索：厨房是经济系统</span><span>蛋白可以互补</span><span>钱罐需要信任</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cm-06">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/community-siamese-final/06-soap-brewing-food-storage.png" alt="肥皂酿酒食物储备 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 06</div>
+        <h2>肥皂、酿酒与食物储备</h2>
+        <p class="anchor">自给不是把东西堆满地窖，而是理解故障、轮换、水源和对他人的责任。</p>
+        <p class="body"><strong>先看图：</strong>左边是肥皂裂纹、油层、酿酒瓶；右边是罐头日期、热水器储水、种子包和轮换清单。储备不是恐惧收藏，而是一套维护程序。</p>
+        <p class="body"><strong>有趣的是：</strong>热水器里可能有 20 到 60 加仑饮用水；如果水服务中断，关闭主水阀可以把清洁水留在管道里。马桶水箱的水可饮，便池不可。</p>
+        <p class="body"><strong>为什么重要：</strong>多丽丝·赫里克最尖锐的问题是：鼓励储食会不会引发食品挤兑？《全球概览》在这里让“自力更生”面对伦理边界，而不是滑向只顾自己的囤积政治。</p>
+        <div class="tags"><span>读图线索：储备要轮换</span><span>水比干粮更紧急</span><span>自给也有伦理</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、身体、权利和知识网络</h2>
+      <p>当共同体进入健康、亲密关系、死亡、基金、法律、监狱、黑人出版和中国资料，它就不再是生活方式选择，而是权力和照护如何组织的问题。</p>
+    </section>
+
+    <article class="spread" id="cm-07">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/community-siamese-final/07-first-aid-health-chinese-medicine.png" alt="急救生存健康中国医学 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 07</div>
+        <h2>急救、生存、健康与中国医学</h2>
+        <p class="anchor">健康若只存在医院里，就不是共同体能力；它必须下沉到家庭、巷道、居民委员会和初级照护。</p>
+        <p class="body"><strong>先看图：</strong>急救包、传染病控制卡、家庭医学书、便携警报器、老人照护和赤脚医生层级被放到一张服务地图上。它关心的是人遇到病、伤、危险时有没有第一层知识。</p>
+        <p class="body"><strong>有趣的是：</strong>《健康身体之书》批评电视医疗剧制造罕见病恐慌。喉咙痛久一点，观众就会想到昨晚电视里的绝症；真正有用的是理解发烧、饮水、冷敷和何时求医。</p>
+        <p class="body"><strong>为什么重要：</strong>《为人民服务》把中国医疗解释成最低可用层级的服务：家庭、小组、居民委员会、巷道医疗工作者，再到诊所和医院。它让医疗变成共同体组织方式。</p>
+        <div class="tags"><span>读图线索：健康要分层</span><span>别被罕见病吓住</span><span>基层不是口号</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cm-08">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/community-siamese-final/08-body-birth-death-care.png" alt="亲密关系身体教育出生死亡 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 08</div>
+        <h2>亲密关系、身体教育、出生与死亡</h2>
+        <p class="anchor">一个共同体若不能诚实处理身体、出生、婴儿照护和临终，就只能在最重要的时刻把人交还给沉默。</p>
+        <p class="body"><strong>先看图：</strong>关系、身体教育、助产、婴儿照护和临终被画成五个资料抽屉。画面很安静，因为这些主题需要清楚、尊重和可用知识，而不是猎奇。</p>
+        <p class="body"><strong>有趣的是：</strong>助产部分推荐英国教材，是因为它把妊娠、正常生产、异常情况、新生儿和何时必须求助医院讲得系统。领养哺乳小册子则把“成功”定义为母亲和孩子是否享受哺乳过程。</p>
+        <p class="body"><strong>为什么重要：</strong>《生命体征》指出，医学院训练医生治愈和延长生命，却几乎不训练如何照护不会康复的人。共同体必须补上这些沉默的知识空缺。</p>
+        <div class="tags"><span>读图线索：身体也要公开知识</span><span>助产需要边界判断</span><span>临终不是失败</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="cm-09">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/community-siamese-final/09-rights-publishing-china.png" alt="钱政治法律监狱黑人出版中国资料 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 09</div>
+        <h2>钱、政治、法律、监狱与出版网络</h2>
+        <p class="anchor">信息和资源能不能被人找到，也是权力问题：谁能拿到钱，谁知道权利，谁被关押，谁出版，谁能绕过恐惧理解另一个社会。</p>
+        <p class="body"><strong>先看图：</strong>基金申请、国会议员档案、公民自由联盟权利手册、监狱批判、黑人主题期刊、中国资料和旅行团体被蓝线连成一张证据桌。</p>
+        <p class="body"><strong>有趣的是：</strong>黑人主题部分把黑人书目、儿童书、期刊、书评和政治经济研究放进共同体，不是附录，而是在承认出版网络本身就是共同体工具。</p>
+        <p class="body"><strong>为什么重要：</strong>《通往中国》让美国读者试着绕过冷战滤镜，去看医疗、环境、妇女、农业、住房、工业、交通和能源这些具体问题。它既有价值，也带着 1974 年的理想化和时代局限。</p>
+        <div class="tags"><span>读图线索：资料网络也是权力</span><span>权利要先被知道</span><span>跨国理解要绕过滤镜</span></div>
+      </section>
+    </article>
+    </section>
+
+    <section class="chapter" id="chapter-nomadics" aria-labelledby="chapter-nomadics-label">
+      <div class="chapter-marker">
+        <strong id="chapter-nomadics-label">07 · 游牧</strong>
+        <a class="back-top" href="#top">回到全书目录</a>
+      </div>
+<section class="reader-guide" aria-label="读法">
+      <h1>移动不是消费交通服务，而是带着判断力上路。</h1>
+      <div class="guide-copy">
+        <p>这一章的 游牧 不等于浪漫流浪。它把地图、边境、青年旅舍、自行车、汽车维修、车居、摩托、滑翔、气象、导航、帆船、露营、攀岩、雪鞋、刀、鹰、鱼和车身改造放在一起。</p>
+        <p>它真正关心的是：离开固定房屋、固定学校、固定维修店和固定交通网络之后，你还能不能找资料、读天气、修工具、看风险、照顾身体，并且不把自己抵达的地方毁掉。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="游牧条目目录">
+      <a href="#nm-01">01 资料入口</a><a href="#nm-02">02 旅行网络</a><a href="#nm-03">03 自行车</a><a href="#nm-04">04 车辆</a><a href="#nm-05">05 飞行</a><a href="#nm-06">06 航海</a><a href="#nm-07">07 野外</a><a href="#nm-08">08 观察伦理</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、先学会找路和修路上的自己</h2>
+      <p>上路不是从出发开始，而是从资料、路线、维修和身体可见性开始。</p>
+    </section>
+
+    <article class="spread" id="nm-01">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/nomadics-siamese-final/01-source-book-map-archive.png" alt="移动者资料入口 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 01</div>
+        <h2>移动者的资料入口</h2>
+        <p class="anchor">真正的旅行者不是只买票的人，而是会找图、读图、查档案的人。</p>
+        <p class="body"><strong>先看图：</strong>地图柜、航拍照片、海岸测量档案和《探险者有限公司资料书》被连成一间资料室。本章后面许多项目，都是从这个总入口继续展开。</p>
+        <p class="body"><strong>有趣的是：</strong>美国海岸与大地测量局自 1835 年以来积累两万多份测量，公众可以取得地图、照片和资料。移动先是一种资料能力。</p>
+        <p class="body"><strong>为什么重要：</strong>这本资料书分二十六类，从地图、攀岩、航行、犬队运输到自行车旅行和急救医疗。它把“上路”变成可检索的知识系统。</p>
+        <div class="tags"><span>读图线索：先找资料</span><span>路线不是凭感觉</span><span>地图也是工具</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="nm-02">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/nomadics-siamese-final/02-travel-hostel-rails.png" alt="旅行青年旅舍铁轨 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 02</div>
+        <h2>旅行、青年旅舍与铁轨</h2>
+        <p class="anchor">旅行不是孤立消费，而是进入边境知识、地方习俗、路线公告和移动者之间的消息网络。</p>
+        <p class="body"><strong>先看图：</strong>墨西哥边境、旅舍公告板、路线卡和铁路录音采访被放在同一面墙上。它们代表不同的移动方式，也代表不同的社会处境。</p>
+        <p class="body"><strong>有趣的是：</strong>《墨西哥人民指南》细到通关、开车、搭便车、盖小屋、挖井、租房、市场、健康、法律麻烦和修车。它让常规旅行指南显得太薄。</p>
+        <p class="body"><strong>为什么重要：</strong>《乘铁轨而行》保存了美国铁路流浪汉传统。这里的游牧不是轻盈姿态，也包括经济坍塌中被抛出的人怎样移动。</p>
+        <div class="tags"><span>读图线索：旅舍是网络</span><span>边境要知识</span><span>铁轨有阴影</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="nm-03">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/nomadics-siamese-final/03-bicycle-low-energy-repair.png" alt="自行车低能量交通 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 03</div>
+        <h2>自行车：低能量交通与可修理身体</h2>
+        <p class="anchor">自行车把交通还给身体、注意力和可以亲手理解的结构。</p>
+        <p class="body"><strong>先看图：</strong>维修架、轮圈、车门风险、车锁、反光背心、尾灯和路线卡构成一套低能量交通技术。安全首先是注意力，不是装备崇拜。</p>
+        <p class="body"><strong>有趣的是：</strong>经过一排停着的车，要看车里是否有人会突然开门或开出。儿童改装“黄貂鱼”童车，也是在校正轮圈、清洗轴承和检查紧固件中学习结构。</p>
+        <p class="body"><strong>为什么重要：</strong>美国车轮联盟曾为美国铺装道路游说，后来又被汽车赶下这些路。自行车在这里变成道路政治，而不只是运动器材。</p>
+        <div class="tags"><span>读图线索：低能量不是低能力</span><span>修车是身体知识</span><span>可见性很现实</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="nm-04">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/nomadics-siamese-final/04-vehicles-vanlife-motorcycle.png" alt="汽车车居摩托 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 04</div>
+        <h2>汽车、车居与摩托</h2>
+        <p class="anchor">能修、能临时处理、能重排生活，才算真正拥有一辆车。</p>
+        <p class="body"><strong>先看图：</strong>荒野维修台、涉水提示、大众车手册、零件目录、车居剖面和摩托临时铁丝修理被放在一起。车不是消费物，而是一套必须部分理解的机械系统。</p>
+        <p class="body"><strong>有趣的是：</strong>车辆可能沉入水中时，提前拆门可能救命；发动机入水前应关掉，避免活塞吸水压缩。路上判断常常比工具箱更关键。</p>
+        <p class="body"><strong>为什么重要：</strong>《自己卷一辆车》把巴士和货车当成可重排的家。作者宁愿家具能移动，而不是固定内装。这是把“家”从房地产改写成可维护装置。</p>
+        <div class="tags"><span>读图线索：车要能理解</span><span>临修不是酷</span><span>车居是可移动的家</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、进入空气和水</h2>
+      <p>飞行和航海都很迷人，但 《全球概览》 一直把梦感旁边的训练、气象、导航语法和维修责任写清楚。</p>
+    </section>
+
+    <article class="spread" id="nm-05">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/nomadics-siamese-final/05-flight-weather-risk.png" alt="飞行气象风险 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 05</div>
+        <h2>飞行、气象与风险账本</h2>
+        <p class="anchor">悬挂滑翔像梦里的身体飞行，但训练不足和天气误判会把梦变成账本里的死亡数字。</p>
+        <p class="body"><strong>先看图：</strong>山顶、折叠滑翔翼、云图、训练清单和风险账本被画在同一张桌上。飞行自由从来不被单独展示，它旁边总有程序和边界。</p>
+        <p class="body"><strong>有趣的是：</strong>1973 年十二名飞行者死亡，1974 年一月至七月已有十八名，多半死于训练不足或超出稳定边界。《全球概览》 在兴奋时也会记账。</p>
+        <p class="body"><strong>为什么重要：</strong>《飞行员天气》把云和气团变成可读语法。云不是风景，而是气流留在天空中的句子。</p>
+        <div class="tags"><span>读图线索：梦感旁边有风险</span><span>云会说话</span><span>训练是自由的一部分</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="nm-06">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/nomadics-siamese-final/06-navigation-sailing-boats.png" alt="航海导航船 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 06</div>
+        <h2>航海、导航与船</h2>
+        <p class="anchor">好的导航教学教语法，不教口诀；好的船也应当能被理解和维护。</p>
+        <p class="body"><strong>先看图：</strong>海图、六分仪、午间太阳观测、斜桁帆、船体剖面、独木舟和船用电气被连在同一张航海桌上。天空、帆、船体和水面互相解释。</p>
+        <p class="body"><strong>有趣的是：</strong>弗雷德·德弗罗不把午间太阳观测只当成口诀，而是教它作为“中天观测”的一般方法。这样学生会知道星星和行星同样能过中天，也能被使用。</p>
+        <p class="body"><strong>为什么重要：</strong>中国帆船的斜桁帆平、易收、易修，一段坏了修一段。穷到不能补帆时，帆骨也能让破布继续受风。</p>
+        <div class="tags"><span>读图线索：导航是语法</span><span>帆要可修</span><span>船不是黑箱</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、野外能力奖励感知和克制</h2>
+      <p>露营、攀登、观察、刀具、鹰猎和沙漠书写，不是把人变成征服者，而是让人知道何时行动，何时停手。</p>
+    </section>
+
+    <article class="spread" id="nm-07">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/nomadics-siamese-final/07-wilderness-backpacking-climbing.png" alt="野外背包露营攀登 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 07</div>
+        <h2>野外、背包、露营与攀登</h2>
+        <p class="anchor">野外不是末日幻想，而是冷、湿、累、被咬、攀爬和雪地中还能清楚想下一步。</p>
+        <p class="body"><strong>先看图：</strong>睡袋、背包、雨地露营、裂缝楔入、雪鞋跌倒恢复和救援信号被画成一页野外手册。它重在可执行的小判断。</p>
+        <p class="body"><strong>有趣的是：</strong>暖光牌睡袋贵，但被当成一生用的袋子评价。装备不只看价格，而看它是否让人长期保持温暖、干燥和可调节。</p>
+        <p class="body"><strong>为什么重要：</strong>裂缝楔入是把身体楔进垂直裂缝，完全陌生、难学。攀登不是征服山，而是让身体学会另一种力学。</p>
+        <div class="tags"><span>读图线索：先保持判断力</span><span>装备是长期关系</span><span>裂缝教身体</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="nm-08">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/nomadics-siamese-final/08-observation-tools-wilderness-ethics.png" alt="户外观察工具动物伦理荒野边界 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 08</div>
+        <h2>观察、工具、动物伦理与荒野边界</h2>
+        <p class="anchor">真正的户外能力奖励感知和克制，而不是用过量火力替代判断。</p>
+        <p class="body"><strong>先看图：</strong>录音机、鱼类指南、气枪靶、刀、鹰猎手套、沙漠测量木桩和“甲虫厢车”被放在一张野外资料桌上。它们共同指向“如何行动才不过度”。</p>
+        <p class="body"><strong>有趣的是：</strong>鹰猎部分提醒，任何人都不该只靠书学鹰猎，那样只会害死鹰。宁可丢失一只自由的鹰，也不要让鹰死掉。</p>
+        <p class="body"><strong>为什么重要：</strong>爱德华·艾比在《沙漠独居》中拆掉测量木桩。游牧到这里触到政治边界：移动自由也可能毁掉被抵达的地方。</p>
+        <div class="tags"><span>读图线索：感知胜过火力</span><span>动物不是练习材料</span><span>抵达也有代价</span></div>
+      </section>
+    </article>
+    </section>
+
+    <section class="chapter" id="chapter-communications" aria-labelledby="chapter-communications-label">
+      <div class="chapter-marker">
+        <strong id="chapter-communications-label">08 · 通信</strong>
+        <a class="back-top" href="#top">回到全书目录</a>
+      </div>
+<section class="reader-guide" aria-label="读法">
+      <h1>通信不是传播学，是信息怎样变成工具。</h1>
+      <div class="guide-copy">
+        <p>这一章从邮购目录、文件抽屉、电话答录机，一路走到书法、装订、自出版、诗歌、地图、摄影、电影、视频、音乐、合成器、无线电、计算机、算法、计算器、经济和管理。</p>
+        <p>它的中心不是“媒介很多”，而是谁能进入这些媒介：谁能说，谁能听，谁能复制，谁能查找，谁能修理媒介本身，谁不再只是被广播。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="通信条目目录">
+      <a href="#co-01">01 目录电话</a><a href="#co-02">02 媒体哲学</a><a href="#co-03">03 演讲伦理</a><a href="#co-04">04 造书</a><a href="#co-05">05 自出版</a><a href="#co-06">06 文学视觉</a><a href="#co-07">07 摄影视频</a><a href="#co-08">08 音乐</a><a href="#co-09">09 无线电计算机</a><a href="#co-10">10 经济管理</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、信息先落在纸、线和身体上</h2>
+      <p>目录、电话、媒介哲学、演讲伦理和书籍手艺，让通信从抽象概念落回纸张、线路、感知、声音和手。</p>
+    </section>
+
+    <article class="spread" id="co-01">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/communications-siamese-final/01-catalogs-office-telephone.png" alt="目录办公室电话 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 01</div>
+        <h2>目录、办公室和电话</h2>
+        <p class="anchor">通信先不是理论，而是商品从哪里找，信件多重，文件怎么放，留言能否被留下。</p>
+        <p class="body"><strong>先看图：</strong>目录、邮政秤、文件抽屉、答录机、会议电话和线路图被放在一间办公室里。可达性在这里非常物质：纸张、重量、时间和线。</p>
+        <p class="body"><strong>有趣的是：</strong>邮购目录被看成对大销量商品营销的修补。即便身在大城市，消费者也未必能接触到完整商品谱系，目录让冷僻但有用的东西重新可见。</p>
+        <p class="body"><strong>为什么重要：</strong>电话伴侣答录机用三十秒招呼和三十秒留言保存来电，会议电话设备省掉会议午餐，《电话爱好者通讯》则让电话系统成为爱好者和电话公司共同进化的奇观。</p>
+        <div class="tags"><span>读图线索：通信有重量</span><span>目录是入口</span><span>电话也是可研究系统</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-02">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/communications-siamese-final/02-media-philosophy-perception.png" alt="媒体哲学感知控制 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 02</div>
+        <h2>媒体哲学：图像为什么难以说“不”</h2>
+        <p class="anchor">媒体不是承载内容的管道，它会改变人相信什么、看见什么、怎样行动。</p>
+        <p class="body"><strong>先看图：</strong>文字屏、动态图像屏、《实时》目录、卡彭特的媒体人类学和视频反馈回路互相缠绕。这里的通信已经进入感知结构。</p>
+        <p class="body"><strong>有趣的是：</strong>卡彭特说，图像不能像语言那样容易地说“不”。动态图像像现实，因此要不相信自己看见的东西，需要意志。</p>
+        <p class="body"><strong>为什么重要：</strong>怀特海、布罗克曼、卡彭特和保罗·瑞安让本章从工具目录转向“无重量的难题”：媒体如何塑造社会控制、感知和行动条件。</p>
+        <div class="tags"><span>读图线索：媒介会塑形</span><span>图像很有说服力</span><span>反馈改变行动</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-03">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/communications-siamese-final/03-speaking-ethics-body-language.png" alt="演讲伦理身体语言 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 03</div>
+        <h2>说话、伦理和身体语言</h2>
+        <p class="anchor">通信不是效率技术，它也有诚实、主题、公平、克制、姿势、颜色和沉默。</p>
+        <p class="body"><strong>先看图：</strong>讲台、伦理天平、姿势剪影、动物拟态、植物色彩和静默符号被连在一起。人的演讲只是通信的一种，颜色和身体也在说话。</p>
+        <p class="body"><strong>有趣的是：</strong>《公共演讲的艺术》把好演讲压缩得很硬：有话才说，只说相信为真的话，准备充分，清楚、公平、简短，说完就停。</p>
+        <p class="body"><strong>为什么重要：</strong>《全球概览》 从通信的把手抓伦理，是因为信息会影响信任、行为、权力和误解。媒介越强，克制越重要。</p>
+        <div class="tags"><span>读图线索：说完就停</span><span>身体也在传讯</span><span>伦理不是附录</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-04">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/communications-siamese-final/04-calligraphy-bookmaking-design.png" alt="书法纸装订书籍设计 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 04</div>
+        <h2>书法、纸、装订和书籍设计</h2>
+        <p class="anchor">信息成为书之前，会经过笔角、纸浆、水印、折页、缝线、修复和版面判断。</p>
+        <p class="body"><strong>先看图：</strong>猫在练斜体笔角，旁边是造纸、装订、皮革修复和页面网格。通信在这里重新变成手工和材料。</p>
+        <p class="body"><strong>有趣的是：</strong>劳埃德·雷诺兹要求一开始就保持四十五度笔角，否则后续都会错。他甚至建议听莫扎特第四十交响曲练字，让节奏进入笔触。</p>
+        <p class="body"><strong>为什么重要：</strong>《用设计编辑》把设计定义为清晰传递信息。页面不是装饰，版面本身就是通信工具。</p>
+        <div class="tags"><span>读图线索：笔角决定后面</span><span>书是可修复的物</span><span>清晰也是设计</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、边缘也能出版、朗读、拍摄和反馈</h2>
+      <p>自办出版、诗歌朗读、墙画、漫画、摄影、电影和便携视频，都在改变谁能把经验变成公共材料。</p>
+    </section>
+
+    <article class="spread" id="co-05">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/communications-siamese-final/05-self-publishing-reference.png" alt="自出版小报参考工具 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 05</div>
+        <h2>自行出版、小报和参考工具</h2>
+        <p class="anchor">小出版社、小报、书评期刊、研究指南和词典，改变的是谁能发声，谁能查到。</p>
+        <p class="body"><strong>先看图：</strong>手摇印刷机、油印小报、书评堆、索引卡和打开的《牛津英语词典》被连成一个出版参考台。它把发声和查找放在同一个系统里。</p>
+        <p class="body"><strong>有趣的是：</strong>农村油印报纸的朴素规则是：名字是新闻的血液。人们会在聚会报道里找自己的名字，名字拼错会制造敌人。</p>
+        <p class="body"><strong>为什么重要：</strong>《图书馆杂志》被称为评论最好、覆盖最广、废话最少的书评期刊。《牛津英语词典》则让词变成历史用法的化石和活体。</p>
+        <div class="tags"><span>读图线索：名字很重要</span><span>自出版不是玩票</span><span>参考书节省生命</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-06">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/communications-siamese-final/06-literature-poetry-visual-art.png" alt="文学诗歌视觉艺术 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 06</div>
+        <h2>文学、诗歌和视觉艺术</h2>
+        <p class="anchor">小说、诗歌朗读、墙画、视觉素养、漫画和地图，都在重排人的感知。</p>
+        <p class="body"><strong>先看图：</strong>厚小说、诗歌麦克风、墙画刷子、视觉素养卡、漫画面板和制图工具被放进一间文化工作室。不同媒介都在问：经验怎样被组织成可感知的形式？</p>
+        <p class="body"><strong>有趣的是：</strong>安妮·沃尔德曼说进入当代诗歌最好通过诗人本人：朗读、唱片、磁带、书和杂志。诗的性质转瞬即逝，听诗人读常常最有回报。</p>
+        <p class="body"><strong>为什么重要：</strong>地下漫画被放在文化变形中心，因为低成本漫画让反主流文化能自我批评、夸张、冒犯和传播。</p>
+        <div class="tags"><span>读图线索：诗要被听见</span><span>墙画连接邻里</span><span>地图也是想法</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-07">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/communications-siamese-final/07-photo-film-theater-video.png" alt="摄影电影戏剧视频 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 07</div>
+        <h2>摄影、电影、戏剧和视频</h2>
+        <p class="anchor">这些媒介不只是成片，而是观看、实验、在场互动、反馈和本地信息生产。</p>
+        <p class="body"><strong>先看图：</strong>摄影构图框、电影冲印笔记、即兴戏剧的地点人物事件、便携录像机和反馈屏幕在同一间工作室里。现实感被一层层重新打开。</p>
+        <p class="body"><strong>有趣的是：</strong>莱尼·利普顿像会修车的朋友，把电影行业黑话降到实验者能进入的程度。但他也承认，没有书能替代真正完成几部电影得到的智慧。</p>
+        <p class="body"><strong>为什么重要：</strong>游击电视团体对便携视频很冷静：革命没有马上发生，但成千上万便携录像机已经在个人手中。留下的人开始发展电视的新标准。</p>
+        <div class="tags"><span>读图线索：视频是反馈</span><span>即兴不是乱来</span><span>现实感可被训练</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、声音、信号、逻辑和组织</h2>
+      <p>音乐、无线电、计算机、算法、计算器、经济和管理，把通信推到声波、电路、步骤和组织结构里。</p>
+    </section>
+
+    <article class="spread" id="co-08">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/communications-siamese-final/08-music-sound-electronics.png" alt="音乐乐器音响电子音乐 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 08</div>
+        <h2>音乐、乐器、音响和电子音乐</h2>
+        <p class="anchor">声音也可以被读、被做、被调试，从民歌谱到手工吉他，从喇叭到合成器。</p>
+        <p class="body"><strong>先看图：</strong>乐谱、民歌小刊、手工制琴、喇叭对比、合成器接线和电子套件被放在一张声音工作台上。声学和电子不是敌人，而是两种可做工具。</p>
+        <p class="body"><strong>有趣的是：</strong>《古典吉他制作》说好声音来自处于松弛、顺畅状态的材料。一把各部分应力最少的吉他，调好后声音最好。</p>
+        <p class="body"><strong>为什么重要：</strong>唐·布克拉强调合成器制造的是“合成出来的音乐”，不是“假音乐”。电子音乐是真音乐，不是人工假货。</p>
+        <div class="tags"><span>读图线索：声音也可制作</span><span>先听喇叭</span><span>电子不等于假</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-09">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/communications-siamese-final/09-radio-computing-algorithms.png" alt="无线电计算机算法计算器 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 09</div>
+        <h2>无线电、计算机、算法和计算器</h2>
+        <p class="anchor">业余无线电、短波、晶体管逻辑电路、算法、几何和口袋计算器，把通信和逻辑放到个人桌面。</p>
+        <p class="body"><strong>先看图：</strong>业余无线电、短波地图、晶体管逻辑电路面包板、算法卡、几何模型、囚徒困境表和口袋计算器连在一张工作台上。信号和逻辑都变得可练习。</p>
+        <p class="body"><strong>有趣的是：</strong>业余无线电在灾难期间常常是最好甚至唯一的外部联络。小功率设备通过中继台也能覆盖二十到五十英里。</p>
+        <p class="body"><strong>为什么重要：</strong>克努特的算法被拿来和食谱比较：有限步骤，规定怎样把输入转成输出。计算机不是魔法，而是可读、可做、可检查的过程。</p>
+        <div class="tags"><span>读图线索：逻辑可上桌</span><span>灾难里信号很重要</span><span>算法像食谱</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="co-10">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/communications-siamese-final/10-economics-management.png" alt="经济管理控制论组织 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 10</div>
+        <h2>经济和管理</h2>
+        <p class="anchor">通信末端会进入组织和资源分配：礼物、管理任务、控制论，以及消解问题。</p>
+        <p class="body"><strong>先看图：</strong>礼物经济圆圈、管理任务板、控制论反馈回路和被重新整理的问题结，被放在同一张组织桌上。信息最终要改变资源怎样流动。</p>
+        <p class="body"><strong>有趣的是：</strong>萨林斯写“原初富足社会”时反转了贫穷想象：随食物移动的人，占有物反而碍事。行动自由可能比物品更多更重要。</p>
+        <p class="body"><strong>为什么重要：</strong>斯塔福德·比尔说，比解决问题更聪明的是“消解问题”。那不是完成任务，而是重新组织系统，让原来的问题不再以同样形式存在。</p>
+        <div class="tags"><span>读图线索：礼物也是政治</span><span>组织会反馈</span><span>消解不是绕开</span></div>
+      </section>
+    </article>
+    </section>
+
+    <section class="chapter" id="chapter-learning" aria-labelledby="chapter-learning-label">
+      <div class="chapter-marker">
+        <strong id="chapter-learning-label">09 · 学习</strong>
+        <a class="back-top" href="#top">回到全书目录</a>
+      </div>
+<section class="reader-guide" aria-label="读法">
+      <h1>学习不是学校给的，而是把世界变成可进入的材料。</h1>
+      <div class="guide-copy">
+        <p>这一章从学生和教师规则开始：把一切看成实验，没有错误，只有制作；唯一规则是工作。接着它进入育儿、儿童书、玩具、风筝、木偶、游乐场、去学校化、开放课堂、幻想地图、战争游戏、星图、电学、污染实验、另类学院、摩托维修、围棋、药物知识、治疗、宗教、禅、荣格和漫画。</p>
+        <p>它真正反对的不是学校本身，而是把学习外包给学校。学习在这里是一种进入世界的方式：进入材料，进入他人经验，进入身体技巧，进入注意力，进入错误，进入工作。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="学习条目目录">
+      <a href="#lr-01">01 学习规则</a><a href="#lr-02">02 儿童书</a><a href="#lr-03">03 玩具制作</a><a href="#lr-04">04 去学校化</a><a href="#lr-05">05 实验科学</a><a href="#lr-06">06 技术哲学</a><a href="#lr-07">07 意识治疗</a><a href="#lr-08">08 宗教禅</a><a href="#lr-09">09 荣格漫画</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、学习从工作、倾听和玩开始</h2>
+      <p>信任一个地方、拉出彼此的东西、保存材料、做玩具、让身体进入游戏，这些都比“上课”更早。</p>
+    </section>
+
+    <article class="spread" id="lr-01">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/learning-siamese-final/01-learning-rules-unknown.png" alt="学习规则未知量 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 01</div>
+        <h2>学习规则：给未知量留空间</h2>
+        <p class="anchor">没有错误，只有制作；唯一规则是工作，工作会带来东西。</p>
+        <p class="body"><strong>先看图：</strong>工作台、规则卡和未完成物件被蓝线连起来。这里的学习不是吸收知识，而是在场、试验、保存、看电影、读任何能拿到的东西。</p>
+        <p class="body"><strong>有趣的是：</strong>规则里有一句很硬：不要同时创造和分析。它不是反智，而是承认制作和判断常常需要不同的时间。</p>
+        <p class="body"><strong>为什么重要：</strong>“打破规则，甚至自己的规则”，不是随便乱来，而是给未知量留下空间。学习先要让结果不被过早关死。</p>
+        <div class="tags"><span>读图线索：工作会带来东西</span><span>保存一切</span><span>先做再分析</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lr-02">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/learning-siamese-final/02-parenting-childrens-books.png" alt="育儿儿童书生态链 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 02</div>
+        <h2>育儿和儿童书</h2>
+        <p class="anchor">孩子不是被管住才会学；他们通过被倾听、反复阅读、生态故事和共同建造进入世界。</p>
+        <p class="body"><strong>先看图：</strong>主动倾听、穿越五大湖的小木舟、龟的河流旅行、婆罗洲滴滴涕生态链和哥特教堂建造，被折进一本打开的书。</p>
+        <p class="body"><strong>有趣的是：</strong>《父母效能训练》说，每次父母用权力迫使孩子做事，都剥夺了孩子学习自律和自我责任的机会。</p>
+        <p class="body"><strong>为什么重要：</strong>《大教堂》让孩子看见奇迹背后的测量、采石、挖基、立柱、做拱、安玻璃和铸钟。学习从“哇”走向“怎么做到”。</p>
+        <div class="tags"><span>读图线索：倾听打开门</span><span>生态链会反咬</span><span>奇迹背后有工序</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lr-03">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/learning-siamese-final/03-toys-making-play-space.png" alt="玩具制作木偶游戏空间 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 03</div>
+        <h2>玩具、制作、木偶和游戏空间</h2>
+        <p class="anchor">废料、风、手、厨房和游乐场，都是学习媒介。</p>
+        <p class="body"><strong>先看图：</strong>管子电话、纸板乌龟、风筝升线器、木偶手腕动作、图示食谱和游乐场材料地图被放在同一张玩具工作台上。</p>
+        <p class="body"><strong>有趣的是：</strong>纸板乌龟游戏简单到惊人：剪一只乌龟，穿线，拉紧，放松，乌龟就向前扑。三只一起就能比赛。</p>
+        <p class="body"><strong>为什么重要：</strong>《为游戏而设计》反驳“玩只是消耗精力”。玩本身就是儿童智力发展的核心条件，空间和材料决定了能学到什么。</p>
+        <div class="tags"><span>读图线索：半数乐趣在制作</span><span>手腕让木偶活</span><span>玩是学习条件</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、把学校拆开，把世界变成教材</h2>
+      <p>去学校化、开放课堂、幻想地图、战争游戏、星图、电学和污染实验，把学习从制度里拆出来，放回可操作的世界。</p>
+    </section>
+
+    <article class="spread" id="lr-04">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/learning-siamese-final/04-deschooling-open-classroom.png" alt="去学校化开放课堂教育材料 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 04</div>
+        <h2>去学校化、开放课堂和教育材料</h2>
+        <p class="anchor">学校的存在会制造对学校教育的需求；学习要先从这个等式里挣出来。</p>
+        <p class="body"><strong>先看图：</strong>固定课桌被拆成价值澄清、开放课堂、教师家长孩子入门册、《种子目录》和广告计数练习。教材变成能引发活动的一切。</p>
+        <p class="body"><strong>有趣的是：</strong>媒体教育要求学生数一天遇到多少广告和劝服信息，从牙膏到路牌都算，数字可能到三百。媒介环境突然变得可见。</p>
+        <p class="body"><strong>为什么重要：</strong>伊利奇的正面方案未必现成，但他让人不能再舒服地把学校等同于学习。这一点已经足够锋利。</p>
+        <div class="tags"><span>读图线索：教材不是课本</span><span>广告也可被学习</span><span>开放课堂要选择</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lr-05">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/learning-siamese-final/05-imagination-games-science.png" alt="幻想地图游戏自然史实验科学 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 05</div>
+        <h2>想象、游戏、自然史和实验科学</h2>
+        <p class="anchor">幻想地图、战争游戏、星图、电学和污染实验，都把世界变成可测试的模型。</p>
+        <p class="body"><strong>先看图：</strong>幻想地理、地形游戏板、星图、手工望远镜、电池导线实验和社区污染样本被放在一张实验地图桌上。</p>
+        <p class="body"><strong>有趣的是：</strong>用梳子摩擦后让细水流弯曲，魔法立刻变成电荷证据。《反污染实验室》则把科学带回社区污染源。</p>
+        <p class="body"><strong>为什么重要：</strong>战争游戏不必只是好战，它也能让人具体理解冲突、规则、地形和后果。关键在于把抽象变成可检验结构。</p>
+        <div class="tags"><span>读图线索：模型会教人</span><span>幻想也有地理</span><span>科学可以在社区做</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lr-06">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/learning-siamese-final/06-alternative-colleges-tech-philosophy.png" alt="另类学院科学人文技术哲学 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 06</div>
+        <h2>另类学院、科学人文和技术哲学</h2>
+        <p class="anchor">真正的问题不是上不上大学，而是哪种学习还保留手、判断和质量。</p>
+        <p class="body"><strong>先看图：</strong>非传统学院路线、灵性社区公告、科学人文桥、摩托维修质量图和机械化历史机器，汇到一张工作台。</p>
+        <p class="body"><strong>有趣的是：</strong>德甘纳维达-奎扎尔科亚特尔大学接纳辍学者、移民、保留地孩子和走进校园的人。它不是典型大学，也无意服务典型大学生。</p>
+        <p class="body"><strong>为什么重要：</strong>《禅与摩托车维修艺术》让技术问题打穿那种“只想潇洒看世界”的姿态。点火白金烧坏时，世界观要面对机械现实。</p>
+        <div class="tags"><span>读图线索：路线不止一种</span><span>质量不是口号</span><span>手会被机器夺走</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、意识、宗教和漫画也在学习地图里</h2>
+      <p>《全球概览》把围棋、药物知识、治疗、意识、佛教、禅、荣格和漫画放进学习，是因为学习也发生在经验边界处。</p>
+    </section>
+
+    <article class="spread" id="lr-07">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/learning-siamese-final/07-psi-go-drugs-therapy-consciousness.png" alt="灵能围棋药物治疗意识 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 07</div>
+        <h2>灵能、围棋、药物、治疗和意识</h2>
+        <p class="anchor">越是争议和高风险领域，越需要实验设计、可靠信息、案例和清楚的意识模型。</p>
+        <p class="body"><strong>先看图：</strong>实验卡、围棋盘、匿名检测报告、治疗案例本和两种意识模式图，被整理成一个克制的研究桌。</p>
+        <p class="body"><strong>有趣的是：</strong>药物化学实验室提供匿名药物分析，并通过月报公布误标和掺假状况。这不是鼓励冒险，而是把谣言替换成信息。</p>
+        <p class="body"><strong>为什么重要：</strong>奥恩斯坦区分语言、理性、顺序的意识模式，以及直觉、默会、弥散的另一种模式。学习不只发生在一种心智里。</p>
+        <div class="tags"><span>读图线索：争议领域也要方法</span><span>围棋训练心智</span><span>信息降低谣言</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lr-08">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/learning-siamese-final/08-religion-sufi-buddhism-zen.png" alt="宗教苏菲佛教禅 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 08</div>
+        <h2>宗教、苏菲、佛教和禅</h2>
+        <p class="anchor">这里的宗教不是身份展示，而是切开面具、醒来，并警惕把修行变成新占有物。</p>
+        <p class="body"><strong>先看图：</strong>基督教激进神学、苏菲书目、佛教工具、禅中心、塔萨哈拉、初心和小石头，被放在一间安静阅读室里。</p>
+        <p class="body"><strong>有趣的是：</strong>里克·菲尔兹写佛教像锋利又仁慈的工具：拆解、切开、揭下面具、破除神秘化，像闹钟一样叫醒人。</p>
+        <p class="body"><strong>为什么重要：</strong>创巴踢掉“灵性物质主义”：宗教一旦被记住、占有、当成新身份，就会变成沉重负担。</p>
+        <div class="tags"><span>读图线索：醒来不是拥有</span><span>初心要小房间</span><span>引路不等于归宿</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lr-09">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/learning-siamese-final/09-jung-comics-making.png" alt="荣格漫画制作 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 09</div>
+        <h2>荣格、漫画和尾声</h2>
+        <p class="anchor">学习也穿过梦、无意识、讽刺、荒诞和政治漫画，最后回到制作。</p>
+        <p class="body"><strong>先看图：</strong>梦卡、无意识海流、震动书架、漫画分格和未完成图纸被钉在一张档案板上。严肃和荒诞没有被分开。</p>
+        <p class="body"><strong>有趣的是：</strong>荣格的自传呈现一个人如何与科学、神话和无意识纠缠。读者未必接受每个现象，但能看见经验如何迫使思想变形。</p>
+        <p class="body"><strong>为什么重要：</strong>丹·奥尼尔的漫画在章尾像一个提醒：学习不只在严肃书里，也在讽刺、失败、政治想象和继续动手里。</p>
+        <div class="tags"><span>读图线索：梦也会工作</span><span>漫画可学习</span><span>没有错误，只有制作</span></div>
+      </section>
+    </article>
+    </section>
+
+    <section class="chapter" id="chapter-publishing-index" aria-labelledby="chapter-publishing-index-label">
+      <div class="chapter-marker">
+        <strong id="chapter-publishing-index-label">10 · 出版业务、索引与封底</strong>
+        <a class="back-top" href="#top">回到全书目录</a>
+      </div>
+<section class="reader-guide" aria-label="读法">
+      <h1>尾部不是附录，而是把一本书的生产方式摊开。</h1>
+      <div class="guide-copy">
+        <p>这一章公开制作人员、钱的流向、“点”基金会的组织结构、后续出版机器、合并索引和封底那句话的语境。它不是给全书做封面，而是在让读者看见这本书怎样被人、钱、办公室、印刷、发行、赠款和索引系统制造出来。</p>
+        <p>《全球概览》 的工具伦理在这里变得很直白：一本工具书也必须暴露自己的工具链。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="尾部条目目录">
+      <a href="#pi-01">01 制作人员</a><a href="#pi-02">02 钱</a><a href="#pi-03">03 “点”基金会</a><a href="#pi-04">04 索引与封底语境</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、把生产者、钱和路径公开</h2>
+      <p>这几页让读者看见：《全球概览》 的声音不是一个人的声音，也不是一本书自己长出来。</p>
+    </section>
+
+    <article class="spread" id="pi-01">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/publishing-index-siamese-final/01-credits-collaborative-production.png" alt="制作人员协作生产 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 01</div>
+        <h2>制作人员：一本书不是一个人的声音</h2>
+        <p class="anchor">编辑、研究、文字编辑、办公室、排版、摄影、贴版、索引、校对、印刷和发行，共同组成了这本书的声音。</p>
+        <p class="body"><strong>先看图：</strong>未完成书页旁边不是一位作者，而是一张生产桌：编辑、研究流、排版条、校对符号、贴版板、摄影盘、印刷滚筒和发行箱都连在一起。</p>
+        <p class="body"><strong>有趣的是：</strong>《尾声》 尾部把各章编辑也列出来。土地使用、住所、软技术、手艺、共同体、游牧、学习都有负责者。</p>
+        <p class="body"><strong>为什么重要：</strong>正式中文版也应保留这种多人劳动感。《全球概览》 的“声音”更像一套协作系统，而不是单一作者的口吻。</p>
+        <div class="tags"><span>读图线索：署名也是结构</span><span>研究流很关键</span><span>一本书有很多手</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="pi-02">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/publishing-index-siamese-final/02-money-flow-transparency.png" alt="出版钱流透明 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 02</div>
+        <h2>钱：四美元怎样分</h2>
+        <p class="anchor">财务透明不是装饰，而是让读者看见一本书怎样生产、谁拿走什么、什么系统继续存在。</p>
+        <p class="body"><strong>先看图：</strong>一本书的价格被分到书店、批发、出版、印刷、布兰德和“点”基金会；旁边还有工资、办公室、电话、旅行、法律、生产、研究等成本账本。</p>
+        <p class="body"><strong>有趣的是：</strong>“点”基金会的份额支持《共同进化季刊》、未来的《目录》和一些赠款。书不是一次性商品，也在供养下一轮出版与资助。</p>
+        <p class="body"><strong>为什么重要：</strong>《全球概览》 不只给读者工具，也把工具背后的经济结构暴露出来。这让“独立出版”从姿态变成可检查的系统。</p>
+        <div class="tags"><span>读图线索：钱也是工具链</span><span>透明有教育意义</span><span>书会支持下一本书</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="pi-03">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/publishing-index-siamese-final/03-point-demise-party-publishing-machine.png" alt="POINT终结派对出版机器 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 03</div>
+        <h2>“点”基金会、终结派对和出版机器</h2>
+        <p class="anchor">《全球概览》 的商业不是普通商业，它在出版、赠款、公共事件、读者反馈和共同决策之间摇摆。</p>
+        <p class="body"><strong>先看图：</strong>秘书招聘、办公室寻找、《共同进化季刊》、发行箱、公共派对、赠款箭头和团队桌被画成一台临时拼装的出版机器。</p>
+        <p class="body"><strong>有趣的是：</strong>1971 年终结派对把两万美元交给现场参与者决定怎么用。讨论从厕所、印第安人、孟加拉到公社水泵，一直持续到早上。</p>
+        <p class="body"><strong>为什么重要：</strong>《尾声》 不是计划书变成的产品，而是一连串人、地点、压力、机会和临时能力拼出的出版机器。</p>
+        <div class="tags"><span>读图线索：混乱也是实验</span><span>发行决定生死</span><span>团队从临时能力长出</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、索引是另一套入口</h2>
+      <p>尾部最后不只是结束语，而是把整本书重新折成可查找的路径。</p>
+    </section>
+
+    <article class="spread" id="pi-04">
+      <figure class="art"><img src="../../assets/wholeearth_1974_epilog_visuals/publishing-index-siamese-final/04-index-back-cover-context.png" alt="索引与封底语境 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">条目 04</div>
+        <h2>索引与封底语境</h2>
+        <p class="anchor">合并索引把工具宇宙按字母重新折叠；封底那句话则把寻找和试错留给读者。</p>
+        <p class="body"><strong>先看图：</strong>索引抽屉从公民自由联盟、农业、自行车、黑人主题、中国到女性，把主题、页码和条目拉成第二套路径。</p>
+        <p class="body"><strong>有趣的是：</strong>索引说明提醒读者，某个主题可能深藏在注释或摘录里，所以最好扫描整页。知识不是天然按问题排列的，需要辅助路径。</p>
+        <p class="body"><strong>为什么重要：</strong>“保持饥饿，保持愚拙”在这里不是创业口号。饥饿是持续寻找，愚拙是保留试错、亲手做、离开体面路径的能力。</p>
+        <div class="tags"><span>读图线索：索引也是入口</span><span>主题会藏在边注里</span><span>寻找和试错留到最后</span></div>
+      </section>
+    </article>
+    </section>
+
+    <footer class="issue-footer">资料范围：1974《全球概览·尾声》。历史价格、地址、医疗、药物、电气、化学、建造与户外资料仅供历史阅读。</footer>
   </main>
 </body>
 </html>
