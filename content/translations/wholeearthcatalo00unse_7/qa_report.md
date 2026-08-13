@@ -44,6 +44,9 @@ labels are not yet treated as orchestrator acceptance.
 - `n56`: complete DjVu object restored three additional loom sources and two
   yarn entries hidden beyond the generated dossier boundary. Conclusion stays
   `needs_highres_scan` pending diagram, address, and printed-page checks.
+- `n66`: complete DjVu object restored three bibliographic blocks, the plane
+  Fedorov-group excerpt, an Escher plate caption, and Venn/set explanations.
+  Damaged headings and mathematical graphics still require w2000 inspection.
 
 ## Remaining Blockers
 
