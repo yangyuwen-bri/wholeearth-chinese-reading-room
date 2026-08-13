@@ -11,8 +11,8 @@ labels are not yet treated as orchestrator acceptance.
 - Review files: 132/132.
 - Inherited review conclusions at handoff: `accepted` 103,
   `needs_highres_scan` 29.
-- Current working conclusions after two scan recoveries: `accepted` 103,
-  `needs_highres_scan` 27, `revise` 2. The two `revise` leaves await
+- Current working conclusions after three scan recoveries: `accepted` 103,
+  `needs_highres_scan` 26, `revise` 3. The three `revise` leaves await
   independent regression rather than self-acceptance.
 - Canonical `status.jsonl` retains conservative production states until each
   inherited conclusion is supported by page-specific scan evidence.
@@ -26,11 +26,14 @@ labels are not yet treated as orchestrator acceptance.
   source-aligned reconstruction, including the 13-day grid, quotations,
   equipment list, order fields, and the visible printed-page conflict. Status
   `self_checked`; independent table regression remains required.
-- Confirmed next calibration class: interleaved OCR translation (`n88`).
+- `n88`: w2000 scan checked and interleaved OCR output replaced with a
+  source-aligned reconstruction. Two omitted entries, historical medical text,
+  product fields, and image labels were restored. Status `self_checked`;
+  independent medical-terminology and column regression remains required.
 
 ## Remaining Blockers
 
-- The remaining 27 inherited `needs_highres_scan` leaves require page-specific
+- The remaining 26 inherited `needs_highres_scan` leaves require page-specific
   w2000 inspection; a generic review template is not sufficient evidence.
 - Inherited `accepted` leaves with duplicated review text or unresolved scan
   notes require re-audit before final orchestrator acceptance.
