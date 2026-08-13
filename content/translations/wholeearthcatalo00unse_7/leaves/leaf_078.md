@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n78; canonical physical scan leaf: 79 (origFileName=0079.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 77 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 77 in the source pack; scan-visible page number not yet verified in this pass.
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n78_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n78_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0079.djvu` was read directly because the generated dossier excerpt stops after 6,000 characters. Public bibliographic records were used only to confirm the otherwise obscured author of *Data Study*. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
 - OCR recovery: 1748 words / 209 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -113,6 +113,9 @@ combining outputs of the detail filter to form position controls. The filtered
 - `Keysort`：边孔检索卡系统。
 - `externalize`：外置化（把记忆／索引移到外部媒介）。
 - `pattern recognition`：模式识别。
+- `brute linear access`：蛮力式线性检索。
+- `ham radio`：业余无线电。
+- `fret`（动词）：在品位处按弦。
 
 ## Final Translation
 
@@ -136,7 +139,7 @@ John Cunningham Lilly, M.D.，《海豚的心灵》，1967 年，286 页，邮�
 
 你拥有很多什么？学生、订户、笔记、书、唱片、客户、项目？任何东西超过五十或一百份后就难以追踪，该把你的存取系统外置化了。在昂贵计算机之外，一个方便方法是 McBee：一叠边缘有很多孔的卡片、一根长钝针和一个缺口钳。把针穿过一摞卡的某个孔后提起，那个孔被切出缺口的卡不会随之升起，而会掉下去。因此卡不必保持顺序；你可按特征、编号、字母或任何方式分类：戳、扇开、提起、挑出即可。卡片还可用一种手持、有强烈气味的工具刷两下，在每张卡上印地址或其他内容；大约五十份清晰印本后，字迹会退回原始的模糊。Doug Engelbart 说，给牲畜耳朵打缺口的工具比 McBee 卖的钳子更好也更便宜。
 
-［Doug Engelbart 与 Joe Bonner 推荐］价格：1,000 张（印字型）Keysort 卡 35.75 美元；1,000 张 Hecto carbon black（印刷用）3.60 美元；Keysorter 针 5.05 美元；缺口钳 9.55 美元。可查本地电话簿找 McBee，或写信至其 Athens, Ohio 45701 地址（街道行 OCR 不完整）。
+［Doug Engelbart 与 Joe Bonner 推荐］价格：1,000 张（印字型）Keysort 卡 35.75 美元；1,000 张 Hecto carbon black（印刷用）3.60 美元；Keysorter 针 5.05 美元；缺口钳 9.55 美元。可查本地电话簿找 McBee，或写信至 Athens, Ohio 45701。
 
 ### 《计算机音乐》
 
@@ -144,19 +147,59 @@ John Cunningham Lilly, M.D.，《海豚的心灵》，1967 年，286 页，邮�
 
 Heinz von Foerster、James W. Beauchamp 编，《计算机音乐》，1969 年，139 页、4 张唱片，邮资已付 14.95 美元。John Wiley & Sons, Inc., One Wiley Drive, Somerset, N.J. 08873。
 
-本叶另有实验自动模式识别装置的信号流图。可读图注称：九个细节滤波器端子由排成 3×3 矩阵的光电倍增管输入；结合滤波器输出可形成位置控制，从而自动把模式居中。图注在本叶截断。
+实验自动模式识别装置的信号流图：九个细节滤波器端子的输入来自排成 3×3 矩阵的光电倍增管；把细节滤波器的输出组合成位置控制，即可自动使图样居中。滤波后的输入随后接到八个“A 单元”，每种图样会使其中一个达到最大振幅（图 108），再由第一最大振幅滤波器选出。它们的输出驱动八个脉冲发生器，后者又驱动十六个电容存储单元。
+
+在教学过程中，开关 S₁ 和 S₂ 由人工闭合，或由某种外部人工分类系统闭合。学习完成后，开关改由第二最大振幅滤波器输出所驱动的电磁铁闭合。两种情况下，闭合的开关都会把电压 V 加到输出端 O₁ 或 O₂ 之一；同一电压也接到信息存储单元的一个输入端。［据 Taylor，1959］
+
+### 《数据研究》
+
+没有组织的信息，在你的生活中不是信号，而是噪声。你为了找一样东西而把整份档案从头翻到尾，白白耗损自己，感觉像一个驾车横穿纽约的人那么笨；原因也一样：你的检索方式是蛮力式、线性的，而且费工。
+
+这本书即使帮不了纽约，也能帮到你。它从理论与实践两面说明怎样把东西理顺——至少在组织层面如此。至于展示，则是另一回事；信息科学在这一点上仍然贫乏。
+
+J. L. Jolley：《Data Study》，1968 年，254 页，邮资已付 2.45 美元。购自 McGraw-Hill Book Company：Princeton Road, Hightstown, N.J. 08520；Manchester Road, Manchester, Missouri 63062；8171 Redwood Highway, Novato, CA 94947；或向《全球概览》购买。
+
+### 《彩色吉他》
+
+如果你一直想弹吉他，却不想先把所有和弦背下来，那就找一套《彩色吉他》：把与大调音阶十二个音配对的彩色音位标签贴到指板上，然后开弹。比如，黄色音位标签告诉你该在哪里按弦才能得到 F 音；一组“日落色”则表示 F 大和弦。
+
+除了彩色标签，这套材料还包括图样配色键；图片、图表与位置图；一块彩色矩阵板（配合打孔的指法图透明片使用）；练习；以及对你将探索的乐理和演奏技巧的说明。
+
+一旦认出手指在指板上下移动时形成的图样，你便是在用一种表现普遍关系的音调模型演奏；这些关系以某种形式到处重复——从声波到海上的白浪。［Annie Helmuth 评论］
+
+Dave Guard：《Colour Guitar》，1967 年，23 页，插图本，邮资已付 15.00 美元。购自 Britannia Enterprises, Ltd., c/o Brobeck, Phleger & Harrison, 111 Sutter Street, San Francisco, CA 94104；或向《全球概览》购买。
+
+### 《业余无线电爱好者手册》
+
+四十三年来，这一直是业余无线电爱好者的实用指南。它从电路基础讲起，循序发展出理解通信所需的无线电理论；另有简短章节介绍规管业余爱好者的法律，并列出有助于取得执照的其他书籍。
+
+全书始终给出真实电路，而且资料足够，确实可以照着搭建。后面的章节详细说明各种发射机和接收机的完整制作方法，但不要被表面上的简单骗了。要让这些东西工作，需要大量时间和诀窍；除非搭电路本来就是你的爱好，否则最好购买商业设备或套件。（Heathkit 是业余无线电器材最好的来源之一。）［Bill English 评论；Arthur Brand 推荐］
+
+上面的评论由 Bill English 在计算机上写作和印出；正如你所见，计算机交互的流动性，使拼写比直接硬拷贝印刷来得随意。
+
+《业余无线电爱好者手册》也许会让那些一直幻想地下无线电网的社群和飞地感兴趣。比如每周或每月选一个夜晚，让全世界的长发族都上电波，彼此感应，也感应群星。
+
+American Radio Relay League：《The Radio Amateur’s Handbook》，1925—1969 年，611 页；美国邮资已付 4.00 美元，加拿大 4.50 美元，其他地区 5.50 美元。购自 The American Radio Relay League, Newington, Conn. 06111。
+
+### 《把印刷当作爱好》
+
+多数讲印刷的书都高度技术化，面向职业印刷工，或想成为职业印刷工的人。这一本却专门写给钱很少的初学者。凭这本书和 70 美元，你就能建立自己的私人印刷间。以后如果想升级到小型印刷机，Lieberman 也会解释相关工序。［Lloyd Martin 推荐并评论］
+
+J. Ben Lieberman：《Printing as a Hobby》，1963 年，128 页，邮资已付 0.95 美元。购自 Signet–New American Library, 1301 Avenue of the Americas, New York, N.Y. 10019；或向《全球概览》购买。
 
 ## Omitted Bibliographic/Order Info
 
-- 《大脑模型》的书目行和 Oxford University Press 订购资料被图表遮断，未补写。
-- McBee 的完整通讯地址、模式识别图注下半和邻接“Colour Guitar”材料均未完整可读。
+- 《大脑模型》的作者、年份和页数行被图表或插图遮断；只保留本页 OCR 可稳定归属的 8.50 美元价格及 Oxford University Press 订购资料。
+- McBee 的完整街道地址仍不可读。
 
 ## OCR / Uncertainty Notes
 
 - Keysort 段落的“抬起／掉下”机制由可读文字说明，但图形位置与操作步骤需看扫描图复核。
 - 多栏把书目、价格与图注相互穿插；《大脑模型》的 Oxford University Press 订购行、8.50 美元与 Fair Lawn 地址按版面邻接关系归入该条目，街道号和邮编仍宜以高清扫描复核。
+- 直接读取完整 DjVu page object 后，恢复了生成版 Source Pack 截断点之后的模式识别图注、《Data Study》《Colour Guitar》《The Radio Amateur’s Handbook》和《Printing as a Hobby》；书目与地址仍需扫描核对。
+- `Data Study` 的作者 J. L. Jolley 由公开书目记录交叉确认；该作者行仍须用本页高清扫描确认。
 
 ## Self Critique
 
-- 四项条目分开保留，尤其没有把海豚研究误缩为计算机隐喻。
-- 对受版面破坏的书目和图解明确止于可见证据。
+- 八项主体条目分开保留，尤其没有把海豚研究误缩为计算机隐喻。
+- 已补回完整 DjVu 对象中生成版 Source Pack 未显示的后半页；对受版面破坏的《大脑模型》和 McBee 书目仍明确止于可见证据。

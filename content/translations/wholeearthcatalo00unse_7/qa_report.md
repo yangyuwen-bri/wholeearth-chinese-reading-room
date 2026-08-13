@@ -60,6 +60,9 @@ labels are not yet treated as orchestrator acceptance.
 - `n58`: complete DjVu object restored the unfinished woodcarving entry and
   three omitted blocks on materials, guitar construction, and plastics.
   Dense order fields and the woodcarving format size remain scan-gated.
+- `n78`: complete DjVu object restored the remainder of a pattern-recognition
+  caption plus four omitted blocks on data study, colour guitar, amateur radio,
+  and hobby printing. Dense cross-column bibliography remains scan-gated.
 
 ## Remaining Blockers
 
