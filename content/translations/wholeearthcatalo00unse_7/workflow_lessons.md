@@ -16,14 +16,20 @@ record the problem here, then decide whether it is issue-local or reusable.
   reviews repeat identical reasons across unrelated leaves. Re-audit against
   the scan and record concrete entry names, values, omissions, and fixes.
 - `printed-page mapping is inconsistent across generated source packs`: trust
-  the printed number visible in the scan and scandata for each leaf until one
-  issue-wide rule has been mechanically verified.
+  the printed number visible in the scan and record any conflict with
+  DjVu/scandata-derived metadata until one issue-wide rule has been
+  mechanically verified.
+- `a fluent summary is not a translation`: confirmed on `n118`, where the old
+  public text converted a dense catalog page into themes while omitting the
+  schedule grid, quotations, equipment list, prices, and addresses. Review
+  must compare a scan-level content inventory with the final translation.
 
 ## Batch Lessons
 
 | Date | Leaves | Problem | Local Fix | Promote to Template? |
 | --- | --- | --- | --- | --- |
 | 2026-08-13 | n54 | OCR omitted a complete right column; old review checked only OCR-visible material | restored scan-visible prose and labels; returned page to independent review | yes: require scan-level coverage inventory |
+| 2026-08-13 | n118 | old translation summarized a four-column page and omitted most verifiable fields | rebuilt column order and table from w2000; recorded page-number and address conflicts; returned page to independent review | yes: reject summary substitution |
 
 ## Prompt Change Log
 
