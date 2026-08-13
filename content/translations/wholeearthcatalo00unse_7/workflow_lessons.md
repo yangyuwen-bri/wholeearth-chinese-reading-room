@@ -8,13 +8,22 @@ record the problem here, then decide whether it is issue-local or reusable.
 
 ## Issue-Specific Risks
 
-- `<risk>`: `<where it appears and how to handle it>`
+- `official OCR can omit a complete visible column`: confirmed on `n54`, where
+  the w2000 scan exposed sand-casting prose, forge-welding instructions, anvil
+  labels, and a supplier directory absent from the leaf's OCR transcript. A
+  fluent translation of all OCR text is not evidence of page completeness.
+- `generic review text can hide page-specific failures`: groups of inherited
+  reviews repeat identical reasons across unrelated leaves. Re-audit against
+  the scan and record concrete entry names, values, omissions, and fixes.
+- `printed-page mapping is inconsistent across generated source packs`: trust
+  the printed number visible in the scan and scandata for each leaf until one
+  issue-wide rule has been mechanically verified.
 
 ## Batch Lessons
 
 | Date | Leaves | Problem | Local Fix | Promote to Template? |
 | --- | --- | --- | --- | --- |
-| `<date>` | `<leaf range>` | `<problem>` | `<fix>` | `<yes/no/later>` |
+| 2026-08-13 | n54 | OCR omitted a complete right column; old review checked only OCR-visible material | restored scan-visible prose and labels; returned page to independent review | yes: require scan-level coverage inventory |
 
 ## Prompt Change Log
 
