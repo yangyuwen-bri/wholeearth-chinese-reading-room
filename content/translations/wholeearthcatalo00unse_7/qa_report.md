@@ -51,6 +51,9 @@ labels are not yet treated as orchestrator acceptance.
   majority of the `Cybernetic Serendipity` entry hidden beyond the generated
   dossier boundary. Scientific exponents, binary graphics, and interleaved
   order fields remain scan-gated.
+- `n63`: complete DjVu object separated a Brockman media-theory entry that the
+  old draft had mixed into `Technicians of the Sacred`, and restored poems,
+  order data, and `Garbage Event`. Poetry lineation remains scan-gated.
 
 ## Remaining Blockers
 
