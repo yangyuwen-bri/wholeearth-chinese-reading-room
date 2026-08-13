@@ -47,6 +47,10 @@ labels are not yet treated as orchestrator acceptance.
 - `n66`: complete DjVu object restored three bibliographic blocks, the plane
   Fedorov-group excerpt, an Escher plate caption, and Venn/set explanations.
   Damaged headings and mathematical graphics still require w2000 inspection.
+- `n61`: complete DjVu object restored the Kardashev classification and the
+  majority of the `Cybernetic Serendipity` entry hidden beyond the generated
+  dossier boundary. Scientific exponents, binary graphics, and interleaved
+  order fields remain scan-gated.
 
 ## Remaining Blockers
 

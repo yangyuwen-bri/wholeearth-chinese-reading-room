@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n61; canonical physical scan leaf: 62 (origFileName=0062.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 60 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 60 in the source pack; scan-visible page number not yet verified in this pass.
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n61_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n61_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0062.djvu` was read directly because generated dossier text may be truncated. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
 - OCR recovery: 1552 words / 209 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: low_contrast_or_sparse_ocr, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -112,6 +112,9 @@ collection of computer art yet, the only one
 - interstellar：星际的。
 - Phobos：火卫一。
 - Deimos：火卫二。
+- brightness temperature：亮度温度。
+- Kardashev scale：Kardashev 等级。
+- mobile：移动装置（本页指会以光和声音互动的动态作品）。
 
 ## Final Translation
 ### 《宇宙中的智慧生命》
@@ -132,15 +135,59 @@ collection of computer art yet, the only one
 
 无线电天文学家或许会感兴趣：电视波段中地球所谓“亮度温度”为数亿度，是低太阳黑子活动期太阳相近波段无线电亮度的 100 倍。
 
+此前讨论只考虑了技术水平与我们当前相当或略高的文明之间的星际无线电接触。然而，宇宙中大多数技术文明可能远比我们先进——也许领先数十亿年。苏联天体物理学家 N. S. Kardashev 是 I. S. Shlovskii 在 Sternberg Astronomical Institute 的同事；他研究过探测这种高度先进文明信号的可能性，并把可能的技术文明分成三类：
+
+1. 技术水平接近当代地球文明，能耗率约为每秒 4×10¹⁹ 尔格。
+2. 能够利用并引导其恒星的全部辐射输出；能源利用量可与太阳光度相比，约为每秒 4×10³³ 尔格。
+3. 能够使用相当于整个星系光度的能量，约为每秒 4×10⁴⁴ 尔格。
+
+《Intelligent Life in the Universe》，I. S. Shlovskii、Carl Sagan，1966 年，509 页，邮资已付价 2.95 美元。
+
 ### 《控制论的偶然发现》
 
-这本书最初是去年伦敦当代艺术学院的一场展览，同时也是《Studio International》杂志的一期内容。那肯定是一次事件；它无疑是至今最好的计算机艺术汇集，也是唯一一部……
+这本书最初是去年伦敦当代艺术学院的一场展览，同时也是《Studio International》杂志的一期内容。那肯定是一次大事件。它无疑是迄今最好的计算机艺术汇集，也是唯一一部不能被打发成“工程师自娱自乐”的作品。
+
+多年来，人们一直谈论艺术与科学终将汇合（例如 1956 年的《The New Landscape》）；它们之间的沟通确实有所改善。但过去没有直接通道，也没有真正的共同领域。直到计算机普及到足以让不拘一格的双手拿来，为不拘一格的头脑施展花样。现在这件事正在发生，而本书就是很好的证据。前方，是深空。
+
+#### 移动装置
+
+为了合作，甚至只是确定彼此方位和执行各自程序，这些移动装置必须通信。它们使用一种简单却层次丰富的语言：闪光和声音。你愿意的话也可以加入这种交谈，尽管你的目标可能与移动装置的目标全然不同；例如，你也许想让它们形成一种自己觉得悦目的构形。
+
+#### 一个精子细胞的信息量
+
+一个人类精子细胞所含的信息，相当于 133 卷《Webster's Unabridged Dictionary》；每卷的尺寸和印刷精细程度都与原词典相同。
+
+#### 解码练习
+
+图中先要求读者把一串零和一解码成图形，再把图形解读成信息，最后从中解读生理、天文、化学、数学、社会、历史和语言资料。旁边一则科幻式台词说：“好吧，女士们先生们，”Steve 总结道，“十一年前，Epsilon Eridani 和 Tau Ceti 实在挺无聊的。”
+
+#### 计算机诗
+
+1. 亿万年深埋冰中／我把所有时间画成旋涡／砰／淤泥裂开了
+2. 亿万年深埋冰中／我看见凝固的时间成了旋涡／噗／淤泥裂开了
+3. 叶片里一片翠绿／我嗅到树中的暗池／轰／月亮逃走了
+3. 花蕾里一片雪白／我闪现春天的雪峰／砰／太阳蒙上了雾（编号依原文重复）
+
+#### Cybernetic Introspective Pattern-Classifier
+
+大脑不断协调大量变化的感觉输入，使我们得以维持周围视觉世界的持续图像。很大一部分协调由自主和不自主的眼球运动完成；这些运动扫描视网膜上的图像。当眼球运动被消除或控制时，视觉图案会出现显著的知觉崩解；这种崩解并非随机，而是依照一定“规则”把图形拆散并改变形态。这些形态被称为“控制论内省图案分类器”——因为这个名字和别的描述一样贴切。
+
+这个装置让人脑成为自己的展品。观看者会看到一次短促、明亮的图案闪现；闭眼一两分钟后，原先所见的植物或其他对象已经无关紧要，知觉系统会按上述方式崩解。图案似乎会分解为大脑识别图形时使用的基本知觉单元。因此，这件展品让人们得以观看自己的脑过程实际运作。
+
+“艺术——如果你一定要给它下定义——是一种犯罪行为。它不服从任何规则，连自己的规则也不服从。任何体验艺术作品的人，都和艺术家一样有罪。这不是分担罪责的问题；我们每个人都得到全部罪责。”
+
+《Cybernetic Serendipity》，1969 年，100 页，260 幅插图，邮资已付价 8.95 美元。购自：Frederick A. Praeger, Publisher, 111 Fourth Avenue, New York, N. Y. 10003；或向《全球概览》购买。《Studio International》的 `Cybernetic Serendipity: the computer and the arts` 特刊标价 25 先令。
 
 ## Omitted Bibliographic/Order Info
-《宇宙中的智慧生命》与《控制论的偶然发现》的完整书目信息未在本页 OCR 中出现。
+- 星际讯息的完整 551 位二进制序列没有在译文中重复排印；说明和三步解码任务已保留。
+- 《Intelligent Life in the Universe》的出版者／仓储地址与另一栏地址交错，待扫描判定后再收入正文。
+- 一件移动装置旁的短标题在 XML 中破损为近似 `Running cola is Africa`，未据此生成确定作品名。
 
 ## OCR / Uncertainty Notes
-星际讯息的二进制图仅保留说明，不逐字转写；《控制论的偶然发现》段落在页末截断。
+- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
+- 直接读取完整 DjVu page object 后，恢复了旧 Source Pack 截断点之后的 Kardashev 分类、《Cybernetic Serendipity》评论、动态作品说明、计算机诗、知觉实验与书目信息。
+- 能耗指数、作者拼法、二进制图、交错地址及视觉实验段落需由扫描做字符级回归。
 
 ## Self Critique
-保留全部可辨的科学论述及其数值，不以未经完整图像核对的二进制图推导额外内容。
+- 保留全部可辨的科学论述及其数值，不以二进制图推导源文没有明示的额外内容。
+- 当前是完整 OCR 重建，不是高清闭环；不把交错地址或损坏作品名写成确定事实。
