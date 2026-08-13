@@ -41,6 +41,9 @@ labels are not yet treated as orchestrator acceptance.
   `Diagrams` entry. The complete DjVu page object restored its review, figure
   captions, and order block. Conclusion remains `needs_highres_scan` until the
   dense diagram labels can be checked on w2000.
+- `n56`: complete DjVu object restored three additional loom sources and two
+  yarn entries hidden beyond the generated dossier boundary. Conclusion stays
+  `needs_highres_scan` pending diagram, address, and printed-page checks.
 
 ## Remaining Blockers
 

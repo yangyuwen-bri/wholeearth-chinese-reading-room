@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n56; canonical physical scan leaf: 57 (origFileName=0057.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 55 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 55 in the source pack; scan-visible page number not yet verified in this pass.
 - Section: Industry and Craft (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n56_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n56_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0057.djvu` was read directly because generated dossier text may be truncated. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
 - OCR recovery: 740 words / 137 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: cross_page_or_section_continuation, price_and_number_boundary_risk, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -103,7 +103,7 @@ Cincinnati, Ohio 45214
 ## Context Notes
 
 - Section placement: Industry and Craft; official scandata labels the page as printed page 55. The canonical scan is 0057.jpg / physical leaf 57.
-- Visible entry and anchor inventory (source-led, scan verification required): Leclerc Loom; The Techniques of Rug Weaving; Pioneer Loom and yarn/weaving suppliers.
+- Visible entry and anchor inventory (source-led, scan verification required): Leclerc Loom; The Techniques of Rug Weaving; Pioneer Loom; three additional loom sources; Condon Woolen Mills; CUM Yarn Samples.
 - OCR heading anchors (verbatim, not normalized): "PETER COLLINGW"; "Leclerc Industries offers a large catalog of R 000"; "Free catalog from"
 - Required high-resolution scan checks before acceptance: preserve column/entry order; identify caption ownership; keep cross-page continuations on their own leaf; and verify every price, model number, quantity, address, date, page reference, or other numerical boundary against the linked w2000 scan.
 - Text may be obscured by rules, photos, decorative display type, low contrast, or narrow columns. Do not infer missing prose, silently reorder material, or turn catalogue blocks into a summary without review.
@@ -112,6 +112,9 @@ Cincinnati, Ohio 45214
 - harness（织机）：综框。
 - heddle：综丝。
 - reed（织机）：钢筘。
+- warping board：整经板。
+- lease sticks：分绞棒。
+- raddle：分经筘。
 
 ## Final Translation
 ### Leclerc 织机
@@ -132,11 +135,33 @@ Peter Collingwood 著，1968 年，480 页，17.50 美元包邮；Watson-Guptill
 
 购买织机或索取资料：Craft & Hobby Book Service，Box 626，Pacific Grove, CA 93950；或 Northwest Looms，Box 241，Coburg, Ore. 97401。图示：15 英寸 Pioneer “Designer” 型。
 
+### 其他织机来源
+
+Jerome Skuba 或《全球概览》另推荐：Handcrafters, 521 West Brown Street, Waupun, Wisconsin 53963；Condon Woolen Mills, Baldwin, Michigan 49304；Bailey Manufacturing Co., 118 Lee Street, Lodi, Ohio 44254。
+
+### Condon Woolen Mills 羊毛纱
+
+优质 100% 初剪羊毛纱的出色来源，颜色和粗细选择广泛，可用于织造、针织、钩编、钩针地毯和阿富汗毯。纱线包括适合织造和精细衣物针织的单股纱、中细和中等粗细的双股纱、三股纱，以及适合钩针地毯和厚毛衣的粗五股纱。
+
+特别值得色彩狂人注意：Condon 有几种别处找不到的纱线颜色。服务很好——西海岸订单通常一周即可送达。含关税价格：本色每磅 3.00 美元，染色每磅 3.20 美元。［Sarah Kahn 评论］
+
+色卡免费索取自：William Condon & Sons Woolen Mill, P. O. Box 129, Charlottetown, P. E. I., Canada。
+
+### CUM Yarn Samples（CUM 纱样）
+
+免费而往往平庸的纱线目录可以囤上一堆；但寄给 CUM 3 美元，你会收到一本大活页夹，里面装着手工织造纱线的样卡：品质上乘，颜色范围很大，价格却比廉价商店的针织绒线更低。
+
+CUM 现已能够处理美国订单；其英文目录和价目表以美元列出每磅价格，不像其他欧洲纱线商。样品包括单股和双股粗纺毛纱、地毯纱、挂毯纱与针织纱、2/20 精纺纱、棉纱和亚麻纱、地毯经纱和细绳。所有纱线均经防蛀处理；这种审美和结构品质的纱线，平均价格不到每磅 3 美元。订单回复迅速；海运约六周，空运不到两周。
+
+目录及纱样活页夹，邮资已付价 3.00 美元。购自：CUM Textile Industries, Ltd., Rémersgade 5, 1362 Copenhagen K, Denmark。［Sarah Kahn 评论］
+
 ## Omitted Bibliographic/Order Info
-无。
+- 图中织法结构没有以文字等价物替代；除此之外，完整 DjVu XML 中可稳定辨认的条目、价格和地址均已保留。
 
 ## OCR / Uncertainty Notes
-图 293、106、107 的织法细图未能由 OCR 还原；仅保留可辨图题和正文，不以文字重建图案。
+- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
+- 图 293、106、107 的织法细图未能由 OCR 还原；仅保留可辨图题和正文，不以文字重建图案。
+- 直接读取完整 DjVu page object 后，恢复了生成 dossier 截断点之后的织机来源、两条纱线目录及订购信息。
 
 ## Self Critique
-保留目录信息、书评、Pioneer 织机机制、售价和两个联系渠道；图例编号须在高分辨率扫描中复核。
+- 保留目录信息、书评、Pioneer 织机机制、售价、织机来源和两个纱线条目；图例编号和微型标签仍须在高分辨率扫描中复核。
