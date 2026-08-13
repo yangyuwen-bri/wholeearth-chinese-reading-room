@@ -1,0 +1,143 @@
+# Leaf 068 Translation
+
+## Source Pack
+
+- Issue ID: wholeearthcatalo00unse_7
+- Access leaf: n68; canonical physical scan leaf: 69 (origFileName=0069.jpg, pageType=Normal, addToAccessFormats=true).
+- Printed page: 67 (official scandata pageNumber; use this as the printed-page authority).
+- Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
+- Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n68_w500.jpg
+- High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n68_w2000.jpg
+- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- OCR recovery: 1248 words / 207 lines.
+- Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
+- Layout/OCR risk flags: dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
+
+### Official OCR Line Transcript
+
+The following is official-source evidence only. It preserves OCR line order and errors; it is not an approved reading order or a translation.
+
+~~~text
+the kitten the finer
+Design for a Brain
+This is a reputation review. Ashby’s book is found prominent
+in the bibliography and footnotes of every text we've seen on
+computers and the mind, It’s technical going to read but
+worth it for the insights of prime work.
+Finding an optimum is a much more complex operation than finding
+a value that is acceptable (according to a given criterion). Thus,
+suppose a man comes to a foreign market containing a hundred kinds
+of fruit that are quite new to him. To find the optimam for his
+palate he must (1) taste-all the hundred, (2) make at least ninety-nine
+comparisons, and (3) remember the results so that he can finally go
+back to the optimal form. On the other hand, to find a fruit that is
+_ acceptable he need merely try them in succession or at random
+(taking no trouble to remember the past), stopping only at the first
+that passes the test. To demand the optimum, then, may be excessive;
+all that is required in biological systems is that the organism finds a
+state or a value between given limits.
+The development of life on earth must thus not be seen as something
+remarkable. On the contrary, it was inevitable. It was inevitable in
+the sense that if a system as large as the surface of the earth, basically
+polystable, is kept gently simmering dynamically for five thousand
+million years, then nothing short of a miracle could keep the system
+away from those states in which the variables are aggregated into
+intensely self-preserving forms.
+This is the learning mechanism. Its
+peculiarity is that the gene-pattern
+delegates part of its control over
+the organism to the environ-
+ment. Thus, it does not
+specify in detail how a kitten
+shall catch a mouse, but
+provides a learning mech-
+anism and a tendency to
+play, so that it is the
+mouse which teaches
+bs SCIENCE PAPERBACKS
+Design fora
+Brain
+W. ROSS ASHBY
+points of how to
+catch mice.
+Design for a Brain
+W. Ross Ashby
+1952, 1960; 286 pp.
+$2.50 postpaid
+from:
+Barnes & Noble, Inc.
+105 Fifth Avenue
+New York, N. Y. 10003
+Economy Bookstore
+171 W. Madison
+Chicago, IIlinois 60602
+or WHOLE EARTH CATALOG
+PO N=
+Desk-top Calculators
+The Hewlett-Packard 9100A is now $4400. If you have to deal with
+problems which require a considerable capacity then the Wang 700
+. should be a great deal better than the HP since its total memory under
+program control (core plus tape) will be about 70 times as much as
+HP’s. For people that order a 700 before it is being produced Wang
+loans a 370 with two card readers, a system which in some ways is
+already better than the HP. Such a 370 system costs $4700.
+Deficiencies of 370 compared with HP:
+Much slower
+Does not have wired in programs for trig functions and some
+other functions (but programs can be fed in on cards)
+Can not handle as wide a range of numbers fonty from about
+10°10 to 10*9 instead of nearly 10°100 to 19+100)
+Much less convenient to write and correct programs
+Results of a computation cannot be read out onto a magnetic
+card or tape for later use (this can be done on the HP
+altho the salesman may not realize it)
+Not as good a display
+Advantages of 370 compared with HP:
+Greater capacity (28 registers com-
+pared to 19 for HP with no
+. program, with 160 step
+program 370 still has 28
+registers but HP has only 7
+~~~
+
+## Context Notes
+
+- Section placement: Communications; official scandata labels the page as printed page 67. The canonical scan is 0069.jpg / physical leaf 69.
+- Visible entry and anchor inventory (source-led, scan verification required): Design for a Brain; Information; Handbook of Mathematical Functions; calculator/reference material.
+- OCR heading anchors (verbatim, not normalized): "This is the learning mechanism. Its"; "provides a learning mech-"; "bs SCIENCE PAPERBACKS"; "W. ROSS ASHBY"; "or WHOLE EARTH CATALOG"; "PO N="
+- Required high-resolution scan checks before acceptance: preserve column/entry order; identify caption ownership; keep cross-page continuations on their own leaf; and verify every price, model number, quantity, address, date, page reference, or other numerical boundary against the linked w2000 scan.
+- Text may be obscured by rules, photos, decorative display type, low contrast, or narrow columns. Do not infer missing prose, silently reorder material, or turn catalogue blocks into a summary without review.
+
+## Glossary Updates
+- polystable：多稳态的。
+- register（计算器）：寄存器。
+
+## Final Translation
+### 《大脑的设计》
+
+这是一篇“名声评论”：我们见过的每本关于计算机与心智的书，参考书目和脚注里都显著列着 Ashby。读起来技术性很强，但对一流工作的洞见很值得。
+
+寻找最优值比寻找按既定标准可接受的值复杂得多。譬如一个人走进外国市场，面对一百种从未见过的水果；为找到最合口味的那一种，他必须品尝全数，至少作九十九次比较，并记住结果才能最终回到最优的那种。要找可接受的水果却只须依次或随机尝试，不必记住过去，碰到第一种通过检验的便停。因而要求最优可能过分；生物系统所需要的，只是有机体在给定界限间找到一种状态或数值。
+
+地球生命的发展不应视为奇迹，恰恰相反，它不可避免。意思是：一个如地球表面般庞大、基本多稳态的系统，若被温和而动态地煨煮五十亿年，除非发生奇迹，否则不可能避开那些变量汇聚成强烈自我保存形式的状态。
+
+这就是学习机制。它的特点是，基因模式把对有机体的一部分控制委托给环境：它不具体规定小猫怎样抓老鼠，而是提供学习机制与玩耍倾向，于是教小猫如何捉鼠的是老鼠本身。
+
+W. Ross Ashby 著，1952、1960 年，286 页，2.50 美元包邮：Barnes & Noble, Inc.，105 Fifth Avenue，New York, N. Y. 10003；Economy Bookstore，171 W. Madison，Chicago, Illinois 60602；或 Whole Earth Catalog。
+
+### 台式计算器
+
+Hewlett-Packard 9100A 现价 4,400 美元。若须处理需要相当大容量的问题，Wang 700 应远胜 HP，因为它在程序控制下的总内存（磁芯加磁带）约为 HP 的 70 倍。订购尚未生产的 700 者，Wang 会借出一台配两台读卡机的 370；在某些方面它已经强于 HP。这样的 370 系统售价 4,700 美元。
+
+370 相对 HP 的不足：慢得多；没有内置三角函数等程序（但可用卡片输入程序）；可处理的数值范围较小，约为 10⁻¹⁰ 至 10⁹，而非近于 10⁻¹⁰⁰ 至 10¹⁰⁰；编写和修改程序不便；计算结果不能输出到磁卡或磁带留作后用（HP 可以，尽管销售员未必知道）；显示较差。
+
+370 相对 HP 的优点：容量更大——无程序时 370 有 28 个寄存器，HP 有 19 个；使用 160 步程序时，370 仍有 28 个寄存器，HP 则只剩 7 个……
+
+## Omitted Bibliographic/Order Info
+台式计算器条目的后续比较与订购资料在本页末尾未完整出现。
+
+## OCR / Uncertainty Notes
+原 OCR 的指数格式有所损坏；译文依上下文保留为 10⁻¹⁰、10⁹、10⁻¹⁰⁰、10¹⁰⁰，仍应以扫描核验。
+
+## Self Critique
+保留了所有可判定的机型、价格、内存倍率和寄存器数；对页末截断的优势列表未续写。
