@@ -57,6 +57,9 @@ labels are not yet treated as orchestrator acceptance.
 - `n70`: complete DjVu object restored the entire `Physical Control of the
   Mind` entry omitted by the old draft. Historical brain-stimulation text and
   the core `0-5 seconds` decimal ambiguity remain scan-gated.
+- `n58`: complete DjVu object restored the unfinished woodcarving entry and
+  three omitted blocks on materials, guitar construction, and plastics.
+  Dense order fields and the woodcarving format size remain scan-gated.
 
 ## Remaining Blockers
 
