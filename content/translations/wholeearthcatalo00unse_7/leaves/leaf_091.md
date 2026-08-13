@@ -4,208 +4,136 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n91; canonical physical leaf: 92 (origFileName=0092.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 89 (official scandata pageNumber; use this as the printed-page authority).
-- Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
+- Printed page: 89 in local DjVu/scandata-derived metadata; scan-visible page number not yet verified.
+- Section: Catalog.
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n91_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n91_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
-- OCR recovery: 1023 words / 210 lines.
-- Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
-- Layout/OCR risk flags: cross_page_or_section_continuation, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`, with the complete local extraction at `_local/page_dossiers/wholeearthcatalo00unse_7/rawtext_091.txt`. The w2000 source was unavailable during this reconstruction, so no scan-level layout or character claim is made.
+- Official OCR recovery: 1,023 words for the corresponding XML page record.
+- Layout indicated by OCR: book review and order block, Government Printing Office commentary and address, subject checklist, selected publication annotations, and reproduced covers.
+- OCR risk flags: dense_multicolumn, list_interleaving, bibliographic_small_print, scan_verification_required.
 
-### Official OCR Line Transcript
+### OCR-Reconstructed Source Inventory
 
-~~~text
-a
-Government Publications
-This paperback is titled Over 2000 Free
-Publications: which is sort of true, but
-mainly gross boostering. Skip that. The
-book is a good, recent, cheap compendium
-of information easily available from the
-Government-inexpensive sometimes
-practical sometimes trivial sometimes
-precisely what you need for an important
-task. As far as we’re concerned, this
-$.95 book replaces the $12 book on
-Government publications we used to
-list.
-[Suggested by Michael Rosenthal]
-Over 2000 Free Publications
-Frederic O’Hara
-1968; 352 pp.
-$.95 postpaid
-from:
-WHOLE EARTH CATALOG
-$1.05
-postpaid
-from:
-The New American Library
-1301 Avenue of the Americas
-New York, N. Y. 10019
-Making Household Fabrics Flame Resistant (rev. ed. 1963). L454.
-Tells how household fabrics may be made flame-resistant by
-treating them in the home with various flame-retardant
-solutions. Describes how to prepare and apply these solutions.
-The Use of Sawdust for Mulches and Soil Improvement (1951).
-(Circular 891). 15¢. For sale only.
-Hepatitis (rev. ed. 1966). PHS Publication #446.
-Hepatitis (1967). Unnumbered PHS fact sheet.
-Government Printing Office
-O'Hara (above) doesn’t begin to fist all
-of what's available from the GPO. If
-you're really interested in a particular area,
-you might as well get the free /ist of
-publications in that area. Or you can get
-the
-Government Publications.” Or, for totality,
-free biweekly list of “Selected U. S.
-for $6 , the “Monthly Catalog of U. S.
-Government Publications.” All, all from
-Carper Buckley,
-Superintendent of Documents
-U.S. Government Printing Office
-Washington, D. C. 20402
-C
-O
-10. Laws, Rules, and Regulations.
-11. Home Economics. Foods and cook-
-ing.
-[_] 15. Geology.
-{-] 19. Army. Field manuals and technical
-manuals.
-{_] 21. Fish and Wildlife.
-[_] 25. Transportation, Highways, Roads,
-and Postal Service.
-cal 28. Finance. National economy, ac-
-counting, insurance, securities.
-i 31. Education.
-(J 33. Labor.
-CJ 33A. Occupations. Professions and job
-descriptions.
-fl 35. National Parks. Historic Sites, Na-
-tional Monuments.
-a 36. Government Periodicals and Sub-
-scription Services.
-aa! 37. Tariff and Taxation.
-oO 38. Animal Industry. Farm animals,
-poultry, and dairying.
-oO 41. Insects. Worms and insects harm-
-ful to man, animals, and plants.
-‘a 42. Irrigation, Drainage, and Water
-Power.
-fal 43. Forestry. Managing and using for-
-est and range land, including timber and
-~~~text
+- `Over 2000 Free Publications`: review, bibliographic data, two prices, publisher address, and Michael Rosenthal credit.
+- `Government Printing Office`: commentary on free and paid publication lists, Superintendent of Documents address, and thirty-six visible subject categories.
+- Twenty-one government-publication examples covering fire resistance, soil, health, construction, food, rope work, clothing, and hot-weather comfort.
+- Two reproduced-cover anchors: `United States Government Publications — Entries 4175–5778` and `A House-Framing System for Low-Cost Construction`.
 
 ## Context Notes
 
-- Section placement: Catalog; official scandata labels the page as printed page 89. The canonical scan is 0092.jpg / physical leaf 92.
-- Visible entry and anchor inventory (source-led, scan verification required): WHOLE EARTH CATALOG; for $6 , the “Monthly Catalog of U. S..
-- Required high-resolution scan checks before acceptance: preserve column/entry order; identify caption ownership; keep cross-page continuations on their own leaf; and verify every price, model number, quantity, address, date, page reference, or other numerical boundary against the linked w2000 scan.
-- Text may be obscured by rules, photos, decorative display type, low contrast, or narrow columns. Do not infer missing prose, silently reorder material, or turn catalogue blocks into a summary without review.
+- 本页的官方 OCR 把主题勾选表、书目例项和封面文字串在同一行序中；当前译稿按文本语义重组，但尚不能声明版面顺序已经高清确认。
+- `gross boostering` 是对书名宣传夸大的讽刺，不是“总量提升”。
+- `For sale only` 表示该出版物只出售、不免费寄送；`postpaid` 表示价格已含邮资。
 
 ## Glossary Updates
 
-- `ejector button`：弹出按钮（通常指磁带盒推出装置）。
-- `Cassette Tape Recorder`：卡式录音机。
-- `cross-page`：跨页（目录、列表或文章可能延续到相邻页面）。
+- `Government Printing Office (GPO)`：美国政府印刷局（GPO）
+- `Superintendent of Documents`：政府文件主管
+- `mulch`：覆盖料
+- `farmstead`：农庄
+- `hitch`：绳结中的系结
+- `bend`：接绳结
+- `vital statistics`：人口生命统计
 
 ## Final Translation
 
-一个
-政府刊物
-这本平装书的标题是《超过 2000 个免费》
-出版物：这有点正确，但是
-主要是总量提升。跳过那个。的
-这本书是一本很好的、最新的、便宜的纲要
-的信息可以轻松地从
-政府有时便宜
-实用 有时 琐碎 有时
-正是您在重要活动中所需要的
-任务。就我们而言，这
-0.95 美元的书取代了 12 美元的书
-我们曾经看过的政府刊物
-列表。
-[迈克尔·罗森塔尔建议]
-超过 2000 种免费出版物
-弗雷德里克·奥哈拉
-1968； 352 页。
-后付费 0.95 美元
-来自：
-整个地球目录
-1.05 美元
-后付费
-来自：
-新美国图书馆
-美洲大道1301号
-纽约, 纽约州 10019
-使家用织物具有阻燃性（1963 年修订版）。 L454。
-讲述如何通过以下方法使家用织物变得阻燃
-在家里用各种阻燃剂对它们进行处理
-解决方案。描述如何准备和应用这些解决方案。
-使用锯末进行覆盖物和土壤改良（1951）。
-（891号文）。 15 美分。仅供出售。
-肝炎（1966 年修订版）。 PHS 出版物#446。
-肝炎（1967）。未编号的 PHS 情况说明书。
-政府印刷局
-奥哈拉（上图）并没有开始全力以赴
+### Government Publications（政府出版物）
 
-GPO 提供的内容。如果
-你对某个特定领域确实感兴趣，
-你不妨获得免费的/ist
-该领域的出版物。或者你可以获得
-的
-政府出版物”。或者，就整体而言，
-免费双周列表“精选美国”
-6 美元，《美国月刊目录》
-政府出版物”。全部，全部来自
-卡珀·巴克利,
-文件主管
-美国政府印刷局
-华盛顿特区 20402
-C
-氧
-10. 法律、法规和规章。
-11.家政。食物和烹饪-
-ing。
-[_]15.地质学。
-{-] 19. 军队。现场手册和技术
-手册。
-{_]21.鱼类和野生动物。
-[_] 25. 交通、公路、道路、
-和邮政服务。
-cal 28. 金融。国民经济，ac-
-计数、保险、证券。
-i 31. 教育。
-（J 33。劳工。
-CJ 33A。职业。职业和工作
-描述。
-佛罗里达州 35。国家公园。历史古迹，Na-
-国家纪念碑。
-a 36. 政府期刊和子刊
-铭文服务。
-啊！ 37. 关税和税收。
-oO 38. 畜牧业。农场动物，
-家禽业和乳制品业。
-oO 41.昆虫。蠕虫和昆虫的危害-
-对人类、动物和植物都充满意义。
-‘a 42. 灌溉、排水和水
-电源。
-fal 43. 林业。管理和使用-
+这本平装书名叫《Over 2000 Free Publications》（两千多种免费出版物）：这话不能说完全不真，但主要是夸大宣传。别理那套。它其实是一本不错、新近而且便宜的资料汇编，收集了容易向政府取得的信息——有些价格低廉，有些实用，有些无关紧要，有些又恰好是完成某项重要任务所需的东西。就我们而言，这本 0.95 美元的书，足以取代我们过去列出的那本 12 美元政府出版物指南。
 
-东部和牧场土地，包括木材和
+——Michael Rosenthal 推荐
+
+《Over 2000 Free Publications》，Frederic O'Hara，1968 年，352 页。向《全球概览》购买，邮资已付价 0.95 美元；或向 The New American Library 购买，邮资已付价 1.05 美元，地址：1301 Avenue of the Americas, New York, N. Y. 10019。
+
+### Government Printing Office（美国政府印刷局）
+
+上面 O'Hara 的书远没有列尽美国政府印刷局（GPO）提供的所有东西。如果你确实关心某个领域，不妨索取该领域的免费出版物清单。也可以索取免费的双周刊《Selected U. S. Government Publications》。若想要完整目录，则可花 6 美元订阅《Monthly Catalog of U. S. Government Publications》。
+
+以上资料均索取自：Carper Buckley, Superintendent of Documents, U. S. Government Printing Office, Washington, D. C. 20402。
+
+#### 出版物主题清单
+
+- 10：法律、规则与条例。
+- 11：家政；食品与烹饪。
+- 15：地质学。
+- 19：陆军；野战手册与技术手册。
+- 21：鱼类与野生动物。
+- 25：运输、公路、道路与邮政服务。
+- 28：金融；国民经济、会计、保险与证券。
+- 31：教育。
+- 33：劳动。
+- 33A：职业；专业与工作说明。
+- 35：国家公园、历史遗址与国家纪念地。
+- 36：政府期刊与订阅服务。
+- 37：关税与税收。
+- 38：畜牧业；农场动物、家禽与乳业。
+- 41：昆虫；危害人类、动物与植物的蠕虫和昆虫。
+- 42：灌溉、排水与水力。
+- 43：林业；森林和牧场的管理与利用，包括木材、放牧地、放牧和美国木材。
+- 44：植物；水果、蔬菜、牧草与谷物的种植、分级、营销和储藏。
+- 46：土壤与肥料；土壤调查、侵蚀与保护。
+- 48：天气、天文学与气象学。
+- 50：美国历史。
+- 51：健康与卫生；药物与环境卫生。
+- 51A：疾病；传染病、感染性疾病、患病情况与人口生命统计。
+- 53：地图。
+- 54：政治学；政府、犯罪、哥伦比亚特区、工程与测量。
+- 55：史密森学会；国家博物馆与美洲原住民。
+- 58：矿业；炸药、燃料、汽油、天然气、石油与矿物。
+- 59：州际商务。
+- 62：商业；企业、专利、商标与对外贸易。
+- 63：海军、海军陆战队与海岸警卫队。
+- 64：科学测试与标准；数学、物理学。
+- 65：美国对外关系；与外国有关的出版物。
+- 67：移民、归化与公民身份。
+- 68：农场管理；外国农业、农村电气化与农产品营销。
+- 70：人口普查；农业、商业、政府、住房、制造业、矿业、人口与地图统计。
+- 71：儿童局，以及其他有关儿童与青少年的出版物。
+- 72：住宅；建造、维护与社区发展。
+- 78：社会保障。
+
+### 书目例项
+
+- 《Making Household Fabrics Flame Resistant》，1963 年修订版，L454：说明如何在家用各种阻燃溶液处理织物，使其具有阻燃性，并介绍溶液的配制与施用。
+- 《The Use of Sawdust for Mulches and Soil Improvement》，1951 年，Circular 891，15 美分，仅出售。
+- 《Hepatitis》，1966 年修订版，PHS Publication 446。
+- 《Hepatitis》，1967 年，未编号的 PHS 情况说明书。
+- 《Wood-Frame House Construction》，1955 年，AH73，65 美分，仅出售：供住宅建造者使用的教材，从地基讲到屋顶。
+- 《Solar-Type Farm Cottage》，1965 年，图纸号 7148，M1001。
+- 《A-frame Cabins》，1964 年，农用建筑图纸号 5964、5965，M981。
+- 《Concrete Manual》，第七版修订重印本，3.25 美元：涵盖混凝土性质、材料研究与选择、配合比、制造、检验、搬运、浇筑、收面、养护、天气防护、修补与维护、环氧树脂应用、特种混凝土和砂浆，以及预应力混凝土。
+- 《Plumbing for the Home and Farmstead》，1966 年，F2213。
+- 《Pole Building Construction, Type “B”》，1958 年，图纸号 5831，M750。
+- 《Portable Shade for Hogs》，1964 年，图纸号 5947，M975。
+- 《Farmstead Sewage and Refuse Disposal》，1963 年，AB274：全面介绍化粪池系统，并讨论其他废物处理方法。
+- 《What You Should Know About Oysters, Clams and Mussels》，PHSP-1393，5 美分；每 100 份 2.50 美元。
+- 《Facts About Nutrition》，PHSP-917，25 美分；每 100 份 18.75 美元。
+- 《Conserving the Nutritive Value in Foods》，1963 年，G90：食物储藏和烹饪的影响，以及最佳做法提示。
+- 《Recipes for Quantity Service》，1958 年，HERRS，2.50 美元，仅出售：给出制作 25、50 或 100 份食物的用量。
+- 《Rope, Knots, and Climbing》，Catalog No. 129.26:7，15 美分：介绍重要绳结和系结、接绳、抛绳技巧、攀绳技术及相关主题。
+- 《Rope on the Farm》，1966 年，F2130：接绳、系结和打结，以及绳索的保养与使用。
+- Cyrus Lawrence Day：《The Art of Knotting and Splicing》，1955 年第二版：以对页说明文字配合逐步照片，讲解数百种绳结、接绳和接绳结等；含 738 张照片、参考书目与索引，5.00 美元。
+- 《Child's Self-Help Overall》，1948 年，L251。
+- 《Hot Weather Comfort》，HIS-3，5 美分；每 100 份 2.25 美元。
+
+页面还复制了《United States Government Publications — Entries 4175–5778》和《A House-Framing System for Low-Cost Construction》的封面文字。
 
 ## Omitted Bibliographic/Order Info
 
-- 出现但 OCR 片段过短、模糊或语义不完整的供应商订单信息、完整价格组合及目录索引数据，已在不确定注释中标记。
+- 官方 OCR 没有稳定保留主题清单的复选框图形；译文保留编号和主题，不模拟勾选状态。
+- `O.P.` 等孤立缩写的版面归属尚不能由 OCR 确定，未扩写。
+- 所有 OCR 中可稳定辨认的书名、编号、年份、价格和地址均已保留；待高清扫描核对字符与版面归属。
 
 ## OCR / Uncertainty Notes
 
-- 本页信息含多处 OCR 断裂，尤其是广告文案、排版符号与小字；价格、邮政号、地址与联系电话可能有字符级误差。
-- 对存在缺字/重复行的条目未作外推补全；仅在原文可见语句内进行转写。
+- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`，不能计入高清闭环。
+- OCR 把免费的双周清单和 6 美元月度总目录的词序交错；当前按可恢复语法排列，需由扫描确认。
+- `Carper Buckley` 按 OCR 保留；是否有中间名缩写，需高清扫描确认。
+- 出版物代码及主题编号均保留源文字形，不借外部资料静默校正。
 
 ## Self Critique
 
-- 本页保留原文结构进行逐行机器转写并人工保留，不将历史目录内容重写为现代化列表。
-- 未将可见但高风险片段（尤其是价格与联系信息）进一步规范化，以免误报。
+- 已把逐行乱码改为三块可读译文，并恢复旧稿遗漏的后半页主题与书目例项。
+- 当前成果是 OCR 重建预备稿，不是高清复核结果；没有更改 review 的结论计数。
+- 后续扫描复核应优先检查页码、双周/月度目录句序、主题编号、出版物代码、价格及两幅封面文字的归属。

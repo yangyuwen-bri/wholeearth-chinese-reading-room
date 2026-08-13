@@ -31,6 +31,13 @@ labels are not yet treated as orchestrator acceptance.
   product fields, and image labels were restored. Status `self_checked`;
   independent medical-terminology and column regression remains required.
 
+## OCR Reconstruction Pending Scan
+
+- `n91`: broken machine-translated OCR replaced with a complete structured
+  draft from the local official DjVu extraction. Archive.org closed both CLI
+  and browser connections during the 2026-08-13 pass, so the conclusion stays
+  `needs_highres_scan`; this page is preparation, not closure.
+
 ## Remaining Blockers
 
 - The remaining 26 inherited `needs_highres_scan` leaves require page-specific
