@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n70; canonical physical scan leaf: 71 (origFileName=0071.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 69 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 69 in the source pack; scan-visible page number not yet verified in this pass.
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n70_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n70_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0071.djvu` was read directly because generated dossier text may be truncated. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
 - OCR recovery: 1648 words / 223 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: low_contrast_or_sparse_ocr, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -107,12 +107,19 @@ D
 - OCR heading anchors (verbatim, not normalized): "writing quite difficult. Practice gives little or no improvement."; "or WHOLE EARTH CATALOG"
 - Required high-resolution scan checks before acceptance: preserve column/entry order; identify caption ownership; keep cross-page continuations on their own leaf; and verify every price, model number, quantity, address, date, page reference, or other numerical boundary against the linked w2000 scan.
 - Text may be obscured by rules, photos, decorative display type, low contrast, or narrow columns. Do not infer missing prose, silently reorder material, or turn catalogue blocks into a summary without review.
+- 本页并列两本书：《Eye and Brain》讨论视觉知觉，《Physical Control of the Mind》讨论 1960 年代的脑电刺激研究。
+- 第二本书的动物实验、患者描述、心智理论和临床判断均为历史文本；本译稿保存原刊论述，不构成当代医疗建议或伦理认可。
+- `0-5 seconds` 是《Eye and Brain》段中的关键 OCR 风险，可能表示小数；在扫描恢复前不静默校正。
 
 ## Glossary Updates
 
 - `retinal-image displacement`：视网膜像移置。
 - `striate area`：纹状区（初级视觉皮层）。
 - `tape loop`：环形磁带回路。
+- `caudate nucleus`：尾状核。
+- `electrical stimulation of the brain (ESB)`：脑电刺激（ESB）。
+- `rostral part of the brain`：脑的吻侧区域。
+- `self-stimulation`：自我刺激。
 
 ## Final Translation
 
@@ -132,16 +139,64 @@ Held 发现，只有主动活动的小猫会发展出知觉；被动的动物实
 
 R. L. Gregory，《眼与脑：视觉心理学》，1966 年，254 页，邮资已付 2.45 美元。McGraw-Hill Book Company：Princeton Road, Hightstown, N.J. 08520；Manchester Road, Manchester, Missouri 63062；8171 Redwood Highway, Novato, CA 94947。
 
+### Physical Control of the Mind（《对心智的物理控制》）
+
+我不喜欢这个家伙。他傲慢得令人难以忍受，还践踏我最珍视的“心智独立生活”观念。因此，他对我极其有用。愉悦不在被抚摸的皮肤里，也不在填饱的胃里，而在颅腔内部某处。这本书装满了冷酷的物理证据和冷酷的假说；我必须包围它们、接受它们，或者退出。谢了，混蛋。
+
+José M. R. Delgado 医学博士：《Physical Control of the Mind》，1969 年，280 页，邮资已付价 7.95 美元。购自：Harper & Row, Publishers, 49 E. 33rd Street, New York, N. Y. 10016；或向《全球概览》购买。
+
+#### “你的电比我的意志更强”
+
+患者被告知刺激即将到来，并被要求尽量让手指保持伸展，但他无法阻止被诱发的动作，于是评论道：“我想，医生，你的电比我的意志更强。”
+
+#### 猴群中的远程控制
+
+过去有一种梦想：个人通过遥控压倒独裁者的力量。至少在我们的猴群里，神经外科与电子技术的结合已经实现了它，展示了以仪器操纵同一物种内部等级组织的可能性。
+
+一只名叫 Ali 的猴子是猴群强壮、暴躁的首领，常以咬自己的手或威胁其他成员来象征性地表达敌意。对 Ali 的尾状核进行无线电刺激，能有效阻断它通常的攻击性；刺激期间，它可能走上几步，却从不试图攻击其他动物，人们也能在笼中安全地抓住它。
+
+随后，笼壁上装了一根杠杆；按下杠杆，会自动触发对 Ali 为时五秒的无线电刺激。名叫 Elsa 的母猴很快发现，按杠杆可以抑制 Ali 的攻击性。当 Ali 威胁它时，人们反复观察到 Elsa 以按杠杆回应。它敢直视首领的姿态意义重大，因为顺从的猴子害怕立即遭到报复，绝不敢这样做。在可以使用杠杆的日子里，Ali 的攻击行为总数下降了。Elsa 虽未成为支配者，却阻止了许多针对自己的攻击，并维持了整个猴群的和平共处。
+
+#### 巨大的力量，小得不相称的头脑
+
+雷龙因为心智能力极为有限而灭绝。面对越来越不利的气候和日益减少的食物，它们无法适应，因而不能在变化的环境中生存。这些巨兽的命运对于二十世纪文明也许具有象征意义：后者同样试图用小得不相称的头脑驾驭巨大的潜能。
+
+我们的心智能力固然远胜早期陆生动物，却仍缺乏充分的自我认识和控制。自然史告诉我们，当发育不足的头脑掌管巨大力量时，结果就是灭绝。
+
+#### 心智来自颅外信息
+
+依我之见，没有刺激（或者没有大脑），心智就不可能存在；没有行为，心智就无法被识别。由于心智在出生时以及整个成年生活中都根本依赖感觉输入，可以把它定义为：对颅外信息进行的脑内加工。问题于是集中在这些信息的来源、接收、动力学、储存、提取与后果。
+
+心智的基础是文化的，而不是个体的。新生儿的大脑不能说话、不能理解符号，也不能指导熟练动作。它没有观念、词语或概念，没有交流工具，没有有意义的感觉经验，也没有文化。新生儿从不微笑；他无法理解母亲充满爱意的话，也意识不到环境。作者由此断言：出生时没有可检测的心智活动迹象，人类生来没有心智。
+
+小脑中作为联结元件的微神经元，会在出生后受婴儿行为活动影响而发育。因此可以说，环境被吸收为发育中大脑神经元的结构部分。
+
+#### 自我脑刺激
+
+观看大鼠或猴子刺激自己的大脑，是一幕迷人的景象。通常每次按下杠杆都会触发短暂的 0.5 至 1.0 秒脑刺激，而这种刺激可能比食物更有奖赏性。在选择情境中，饥饿的大鼠会更快跑向自我刺激杠杆，而不是去拿食丸；它们持续按动杠杆，对伸手可及的食物置之不理。为了够到提供脑刺激的杠杆，大鼠会移开障碍、跑迷宫，甚至穿过通电地板。
+
+令人惊讶的是，在科学和文学中，人们对痛苦的关注都多于幸福。多数小说以悲剧为中心，快乐的书很难找到；关于疼痛的优秀专著已经出版，类似的愉悦研究却不存在。
+
+这项研究拍摄的一段影片很能说明问题：一位表情悲伤、情绪略显低落的患者，在脑的吻侧区域受到短暂刺激时露出笑容；刺激一停，他很快恢复通常的低落状态；再次刺激，他又再次微笑。随后，十秒刺激把他的行为和面部表情完全改变成一种持久、愉快而幸福的情绪。有些精神科患者配备了便携刺激器，用来自行处理抑郁状态；文中称其临床效果看来成功。
+
+#### 脑电刺激的三项限制
+
+1. **无法预测。** 第一次刺激大脑某一点时，无法预先判断会诱发什么效果。
+2. **缺少目的。** 有时动物会以看似有目的的方式引导诱发反应，但动作和连续反应通常脱离情境。除了脑电刺激本身，没有理由或目的会让它打哈欠、屈手或四处走动。
+3. **不是机器人式操演。** 脑刺激会激活为运动表现组织起来的脑机制，却不能取代这些机制。以当时技术水平，几乎不可能用电直接命令动物完成预定活动，例如开门或执行工具性反应。可以诱发愉悦或惩罚，进而产生按杠杆的动机；但若动物自己不想这样做，就不能控制完成这一动作所需的运动次序。
+
 ## Omitted Bibliographic/Order Info
 
-- 页面图示的录像机连接标记、以及书名下若干被 OCR 损坏的重复印刷，未据此补写。
+- 页面图示的录像机连接标记、书名下若干损坏的重复印刷，以及第二本书的照片细节未据 OCR 补写。
 
 ## OCR / Uncertainty Notes
 
 - “0-5 seconds”照 OCR 的连字符形式保留；它可能是小数点的误读，须以高清扫描复核。
 - 引语末句与书目标题均有字符缺失；未据缺失内容扩展原文。
+- 直接读取完整 DjVu page object 后，恢复了旧 Source Pack 截断点之后的整项《Physical Control of the Mind》书评、书目和六组摘录。
 
 ## Self Critique
 
-- 保留了书评、实验引文与延时视觉实验的独立段落，未把它们概括成一般的心理学说明。
-- 地址与价格仅按 OCR 可读内容转写，刊面小字仍需扫描复查。
+- 保留两本书的书评、实验引文、论证和限制条件，未把历史神经刺激材料改写成当代建议。
+- 地址、价格、数值和引文仅按完整 XML 可读内容转写，刊面小字仍需扫描复查。
+- 当前是完整 OCR 重建，不是高清闭环。

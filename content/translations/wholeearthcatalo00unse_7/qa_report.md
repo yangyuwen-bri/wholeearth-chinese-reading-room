@@ -54,6 +54,9 @@ labels are not yet treated as orchestrator acceptance.
 - `n63`: complete DjVu object separated a Brockman media-theory entry that the
   old draft had mixed into `Technicians of the Sacred`, and restored poems,
   order data, and `Garbage Event`. Poetry lineation remains scan-gated.
+- `n70`: complete DjVu object restored the entire `Physical Control of the
+  Mind` entry omitted by the old draft. Historical brain-stimulation text and
+  the core `0-5 seconds` decimal ambiguity remain scan-gated.
 
 ## Remaining Blockers
 
