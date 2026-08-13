@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n89; canonical physical leaf: 90 (origFileName=0090.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 87 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 87 in the source pack; scan-visible page number not yet verified in this pass.
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n89_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n89_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0090.djvu` was read directly because the generated dossier excerpt stops after 6,000 characters. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
 - OCR recovery: 1825 words / 229 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: cross_page_or_section_continuation, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -110,103 +110,84 @@ SAME AS ABOVE WITH 4” TO 6” ZOOM LENS.
 - `ejector button`：弹出按钮（通常指磁带盒推出装置）。
 - `Cassette Tape Recorder`：卡式录音机。
 - `cross-page`：跨页（目录、列表或文章可能延续到相邻页面）。
+- `suburban guerrilla`：郊区游击者；指在郊区生活内部寻找自主空间的人。
+- `bay rum`：月桂朗姆香水；此处用来与“香槟／啤酒预算”构成玩笑。
+- `standby basis`：候补方式乘机。
 
 ## Final Translation
 
-靠啤酒预算生活的香槟
-/f 你对另一种生活方式的愿景包括在
-山，自己种植食物并自己制作
-土纺羊毛衣服，你可能应该通过
-这本书等着吧，直到有人写《啤酒生活在 A》
-海湾朗姆酒预算。
-但如果你是在一个城市内或附近开拓，而且钱过去了
-有规律地通过你的手；如果，也就是说，你
-考虑一下自己是什么|已经被认为是“郊区”
-游击队，”然后靠啤酒预算生活的香槟就会
-成为您营地周围的便利工具。
-（有一天，当我在郊区住得更久之后，|想要
-写一篇关于我对郊区游击队的看法的文章。他是
-一个确定的现象。他们的人口数量相当可观
-在旧金山湾区，男人和女人都在外出
-无需支付关税即可享受城镇生活的优势-
-罚款。每个郊区游击队可能都有自己的
-对他自己的定义，但我自己对他的感觉是这样的：他
-有工作，但没有职业。他喜欢舒适，但不喜欢
-想要为他们负债。他区分了
-好的东西和仅仅昂贵的东西。他
+### 《啤酒预算，香槟生活》
 
-可能追求优雅，也可能喜欢时髦的场景。
-嬉皮士毕竟是城市游击队员。但嬉皮士还是孩子
-主要是在特殊的飞地中相互切槽，并且
-这不完全是我所说的。我在谈论人
-他们看到了丰富的成年生活的可能性
-在这些郊区社区的背景下
-人们普遍谴责这种无望的荒地是“真实的”
-那里无法维持生命。郊区游击队|有
-心中是郊区之一，也是其中之一。
-他对郊区环境是
-坚硬、绝对、不可穿透，就像塑料一样。对他来说，更多的是
-就像一块粗棉布，布满了可供呼吸的孔洞，
-蜿蜒而出，像牵牛花或扁豆一样。
-他的许多观点借鉴了东方人的观点。他
-意识到郊区的生活和其他地方一样继续
-地方，即使那里的大多数人都是瞎子和聋子
-看到和听到它。游击队员靠智慧生活，有一天
-时间。这使他警觉且充满活力。他有天赋
-在他的粗棉布上挖洞。一个洞可能
-世界就是早上六点的样子。另一个可能是
+如果你想象的另一种生活，是在山里盖一座穹顶屋，自己种粮食，再用家纺羊毛做衣服，那你大概该跳过这本书，等着有人写一本《月桂朗姆香水预算下的啤酒生活》。
 
-对附近所有人行道的第一手了解。
-他随时随地创造他的自由，并且
-勤奋最终与任何有意识的人一样多
-统一购买服务
-我的一生|一直听说工厂价格
-以低声或怨恨的语气提及，
-取决于是否已获得
-或不。但/在此之前我从未亲眼见过一个人
-目录出现了，天啊，它们就在那里：
-工厂价格，商店价格的一半或三分之二。
-该目录中有大部分光滑的图片
-物品，具有真实的商店价格，然后-
-在这本简单的书里——工厂
-价格相同。你加5%，下单，等两下
-几周，一切都好，正义的
-便宜。
-[马尔登长老建议] _ 417,635
-柯达轮播是图像的标准
-投影世界。我们没有见过更好的地方
-价格比这里。
-© 柯达 800 旋转式投影机，配备 5 英寸 F/3.5 镜头 有 11 个基本
-特点加上全自动远程滑动控制：对焦；提前；反向；停止
-通过 12 英尺绳索滑动。以 5、8 或 15 秒的间隔自动更换载玻片
-无人值守连续投影，幻灯片切换，按钮前进后退
+但如果你是在城市里或城市附近开辟新生活，而且手里还算经常有钱流过；换句话说，如果你把自己看成我所谓的“郊区游击者”，那么《啤酒预算，香槟生活》会是营地里很趁手的工具。
 
-在投影仪上。 4 位开关，包括高-低亮度控制。船。重量。
-19 磅。
-3699A13270 商店 144.50 美元；
-与上述相同，使用 4' 至 6'" 变焦镜头。
-3698A10980 商店 174.50 美元；
-@) 配备 5 英寸 F/2.8 镜头的柯达 850 旋转式投影仪
-11 项基本投影机功能（带自动对焦）。自动对焦幻灯片
-在第一张幻灯片之后。 3 路滑动控制。遥控变速、前进、后退、停止
-通过 12 英尺电线、投影仪上的按钮控制并自动在 5、8、
-或 15 秒间隔。钨卤素（石英）灯使用寿命更长。船。重量。
-19 磅。
-3700A14400 商店 189.50 美元；
-与上述 4” 至 6” 变焦镜头相同。
-3701A16300 商店 214.50 美元；
-第838章
+（等我在郊区住得再久一些，有一天我想写篇文章，谈谈我心目中的郊区游击者。他确实是一种现象。旧金山湾区有相当多这样的人，无论男女，都想享受城镇生活的好处，又不肯支付通常随之而来的代价。
+
+每个郊区游击者大概都有自己的定义；在我看来，他有一份工作，却没有一项“事业”。他喜欢舒适，却不愿为舒适负债。他能分清真正的好东西与仅仅昂贵的东西。他也许讲究优雅，也许偏爱粗粝随性的场面。
+
+嬉皮士毕竟也是城市游击者，但他们大多是年轻人，主要在特殊飞地里彼此共振；我说的不完全是这个。我说的是这样一些人：他们在那些通常被判定为无望荒地、仿佛无法供养“真正”生活的郊区社区里，仍能看见丰富充实的成人生活。这里说的郊区游击者，不仅住在郊区，也属于郊区。
+
+他挑战一种假设：郊区环境像塑料一样坚硬、绝对、密不透风。在他眼里，它更像一块纱布，满是可以呼吸、可以像牵牛花或菜豆藤那样穿行缠绕的孔洞。他从东方人那里借来许多看法。他知道郊区和任何地方一样有生活在继续，哪怕那里多数人盲得看不见、聋得听不见。
+
+游击者凭机智一天一天地活，因此警醒而有生气。他善于培育纱布上的孔洞。一个孔洞也许只是清晨六点的世界；另一个也许是对附近所有小径的亲身了解。他时时处处创造自己的自由，勤勉积累下来，所得不比任何自觉生活的人少。他的天地不大，也已有既定纹理，却仍有发现可做；这些发现既能滋养他自己的生命，也对文化有意义。
+
+我认识一对老夫妻，他们几乎完全靠郊区门洛帕克自家后院有机菜园里的食物生活。就我而言，这两个人正在走的路、正在证明可能的生活，是整个旧金山激进环境里最鼓舞人的激进行动。）
+
+当然，不必把自己的生活浪漫化到这种程度，也能把这本书当成值得拥有的手册。凡对划算交易有兴趣的人都该有一本。重要生活门类中的便宜门道、诀窍和资料，书里装得满满的：食物、衣着、住所、房地产、汽车、家用电器、医疗、税务、葬礼、娱乐、退休、消费合作社、旅行、婴儿、保险、慈善等等。
+
+它写得有趣，修辞却从不妨碍信息。写书的人显然和我们一样想摆脱金钱的困局，也一样想把日子过好。其他试图同时做到这两件事的人，会从这本书得到很大帮助。［Gurney Norman 评论］
+
+Mike 与 Marilyn Ferguson：《Champagne Living on a Beer Budget》，1968 年，247 页，邮资已付 0.75 美元。购自 G. P. Putnam’s Sons, 200 Madison Avenue, New York, N.Y. 10016；或向《全球概览》购买。
+
+### 书中节选与相关信息
+
+- 每年 1 美元可订阅季刊《Our Public Lands》，内容包括怎样购买公共土地、到哪里打猎钓鱼或露营，以及“阿拉斯加机会”的详情。向 Superintendent of Documents, Washington, D.C. 20402 订阅。
+- 我们打了八家“打字机租赁”商号的电话，询问同等级 Smith-Corona 便携电动打字机。两家每月要 25 美元，两家要 22.50 美元，三家要 20 美元，还有几家分别报 15 和 12.50 美元。最后，我们从一家按两个月起租、每月只收 9 美元的公司租到一台几乎全新的机器。
+- 愿意真正“看穿表面”的人，可以买曝光过度的牛排。杂货店肉柜的荧光灯会很快把牛排照暗；一旦变成栗色，通常会降价约四分之一，而肉本身并没有问题。
+- Elberta 桃和优质 Bartlett 梨等昂贵罐头水果，也有“碎块装”，价钱不到半果装的四分之一。
+- National Association of Housing Cooperatives, Inc. 接受咨询，地址 465 Grand Street, New York City, N.Y. 10002。新合作社的最新消息可向同址的 United Housing Foundation 查询，也可联系 Association for Middle Income Housing, 217 Park Row, New York，或 FHC Company, 322 Main, Stamford, Conn.；FHC International, 1001 15th Street NW, Washington, D.C. 是其附属机构，协助在海外发展住房合作社。
+- 拟建高速公路沿线的房屋往往已被市县政府买下，在拆除前按年出租。我们的朋友正以每月 85 美元租住一所价值 30,000 美元的房子，直到推土机来临。他们只是打给市政府总机，询问租用市县所有房屋。这样的房子常常还有八到十年才拆；政府会提前很久收购，以免临时出现障碍或拒绝搬迁者。
+- 避开某些服务站和修理店广告里的 10 至 17 美元廉价刹车维修。这种价位的衬片多半质量低劣，轮缸也不会翻修。
+- 航空旅行的省钱办法包括：工作日搭大型航空公司、周末搭地区航空公司；坐夜班；放弃头等舱的两杯香槟；住在美国东部时购买西部地区承运人的“任飞”机票；淡季去欧洲；走三角航线，多花几美元在中途的热门城市停留；搭客流量大、班次频密的通勤航班；放弃订位，以候补方式用半价乘机；在一家航空公司登记为首次乘客，以 25 美元在其系统内作任意一次往返；或购买把酒店、娱乐和机票打包的套装。
+- 要寻找当地的殡葬互助会或取得遗赠资料，可写信给 Continental Association, 39 East Van Buren Street, Chicago, Ill. 60605。这个非营利机构收 1 美元寄送 64 页的《A Manual of Simple Burial》；另收 25 美分寄送《Memorial Associations: What They Are and How They Are Organized》，也会告知你所在地区是否有新成立的互助会。
+
+### Unity Buying Service
+
+我一辈子都听人说“出厂价”，说起时总是压低声音，或者带着怨气，全看那个人有没有买到过。但在这本目录出现之前，我从未亲眼见过。天哪，它们真在这里：出厂价，只有商店价格的一半或三分之二。
+
+配套目录用光鲜照片展示大多同样光鲜的商品，并如实列出商店价格；这本朴素的小册子则列出同一商品的出厂价。加付 5%，下单，等两周，东西就送来——货真价廉。［Muldoon Elder 推荐］
+
+柯达 Carousel 是影像投影界的标准，我们没在别处见过更好的价格。
+
+- Kodak 800 Carousel 投影机，配 5 英寸 F/3.5 镜头：具有 11 项基本功能，并可用 12 英尺连接线全自动遥控对焦、前进、后退和停止。可按 5、8 或 15 秒间隔自动换片，连续无人值守投影；机身按钮也可控制换片、前进和后退。四档开关含高低亮度控制，运输重量 19 磅。订单号 3699A，商店价 144.50 美元。
+- 同款配 4 至 6 英寸变焦镜头：订单号 3698A，商店价 174.50 美元。
+- Kodak 850 Carousel 投影机，配 5 英寸 F/2.8 镜头：在 11 项基本功能上增加自动对焦，第一张之后各张自动合焦；有三种换片控制方式，可通过 12 英尺连接线遥控前进、后退和停止，也可使用机身按钮或按 5、8、15 秒间隔自动操作。钨卤素（石英）灯寿命更长，运输重量 19 磅。订单号 3700A，商店价 189.50 美元。
+- 同款配 4 至 6 英寸变焦镜头：订单号 3701A，商店价 214.50 美元。
+
+页面为上述四款投影机另列四组“Unity 价加 5%”金额：91.51 + 5% = 96.09 美元；110.51 + 5% = 116.04 美元；120.01 + 5% = 126.02 美元；135.85 + 5% = 142.65 美元。
+
+重型旋转底座机工台钳：钳口宽 4 英寸，可张开至约 3½ 英寸；运输重量 13 磅。商店价 10.50 美元；Unity 价 3.98 美元，加 5% 后为 4.18 美元。
+
+办公尺寸便携打字机：84 键键盘、Touch-Set 边距控制、带刻度压纸杆和坚固全金属结构；可选 Pica 或 Elite 字体，附“console”式便携罩。运输重量 11 磅，表面为光滑灰色。商店价 49.95 美元；Unity 价 32.44 美元，加 5% 后为 34.06 美元。
+
+Draftsman’s Drawing Set：豪华机械制图套装，适合学生、艺术家和教师等使用；人造革盒内装 19 件专业品质工具，包括圆规、鸭嘴笔、分规和配有钢笔尖、铅笔附件的弹簧圆规。商店价 30.00 美元；Unity 价 12.60 美元，加 5% 后为 13.23 美元。
+
+Unity Buying Service 年费 5.00 美元。联系 Unity Buying Service, Inc., Mount Vernon, N.Y. 10551。
 
 ## Omitted Bibliographic/Order Info
 
-- 出现但 OCR 片段过短、模糊或语义不完整的供应商订单信息、完整价格组合及目录索引数据，已在不确定注释中标记。
+- Kodak 四款投影机的订单号和商店价已保留；四组 Unity 净价因跨栏配对不稳，没有逐款强行对应。
+- 台钳的整体三维尺寸、便携打字机的订单号，以及制图套装若干分数尺寸未写入正文。
 
 ## OCR / Uncertainty Notes
 
-- 本页信息含多处 OCR 断裂，尤其是广告文案、排版符号与小字；价格、邮政号、地址与联系电话可能有字符级误差。
-- 对存在缺字/重复行的条目未作外推补全；仅在原文可见语句内进行转写。
+- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
+- 直接读取完整 DjVu page object 后，恢复了生成版 Source Pack 截断点之后的书评余文、书目信息、节选和 Unity 商品目录。
+- 页面是两条主栏交错输出；正文按语义重建为书评／节选与 Unity 目录两组，但商品价格、型号及尺寸仍需扫描确认。
+- 航空旅行段的句序由同一段被跨栏拆散的 OCR 行合并而成；其中“首次乘客／25 美元往返”的具体航空公司名称未辨认。
 
 ## Self Critique
 
-- 本页保留原文结构进行逐行机器转写并人工保留，不将历史目录内容重写为现代化列表。
-- 未将可见但高风险片段（尤其是价格与联系信息）进一步规范化，以免误报。
+- 已用完整官方 DjVu 文本替换不可读的逐行机器直译，并分离两条主栏。
+- 书评、书中节选、Unity 服务说明及可稳定辨认的商品规格均已保留；不稳定的价格配对和尺寸留待高清扫描确认。

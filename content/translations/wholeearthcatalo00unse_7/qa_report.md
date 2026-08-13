@@ -63,6 +63,9 @@ labels are not yet treated as orchestrator acceptance.
 - `n78`: complete DjVu object restored the remainder of a pattern-recognition
   caption plus four omitted blocks on data study, colour guitar, amateur radio,
   and hobby printing. Dense cross-column bibliography remains scan-gated.
+- `n89`: complete DjVu object replaced an interleaved machine translation with
+  a reconstructed long-form book review, source excerpts, and the separate
+  Unity Buying Service catalogue. Product-price pairing remains scan-gated.
 
 ## Remaining Blockers
 
