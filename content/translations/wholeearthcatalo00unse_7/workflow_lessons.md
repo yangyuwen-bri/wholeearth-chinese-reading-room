@@ -28,6 +28,10 @@ record the problem here, then decide whether it is issue-local or reusable.
   broken English tokens, interleaved unrelated entries, and omitted most of the
   lower page. Structural presence checks must be paired with readability and
   scan-coverage checks.
+- `generated page dossiers can truncate source text`: `pages.json` and
+  `rawtext_*.txt` may stop at 6,000 characters even when the page word count
+  shows more content. Before declaring an omitted tail unreadable, query the
+  corresponding DjVu XML page object directly.
 
 ## Batch Lessons
 
@@ -36,6 +40,7 @@ record the problem here, then decide whether it is issue-local or reusable.
 | 2026-08-13 | n54 | OCR omitted a complete right column; old review checked only OCR-visible material | restored scan-visible prose and labels; returned page to independent review | yes: require scan-level coverage inventory |
 | 2026-08-13 | n118 | old translation summarized a four-column page and omitted most verifiable fields | rebuilt column order and table from w2000; recorded page-number and address conflicts; returned page to independent review | yes: reject summary substitution |
 | 2026-08-13 | n88 | machine-translated OCR interleaved entries and omitted most of two lower-page blocks | rebuilt three reading zones from w2000; preserved historical-medical framing; returned page to independent review | yes: add readability and coverage gates |
+| 2026-08-13 | n60, n92 | generated dossier text stopped at 6,000 characters and hid source tails | read complete DjVu page objects; repaired n60, deferred dense n92 until scan access returns | yes: detect dossier truncation |
 
 ## Prompt Change Log
 

@@ -37,6 +37,10 @@ labels are not yet treated as orchestrator acceptance.
   draft from the local official DjVu extraction. Archive.org closed both CLI
   and browser connections during the 2026-08-13 pass, so the conclusion stays
   `needs_highres_scan`; this page is preparation, not closure.
+- `n60`: generated dossier truncation had hidden the latter half of the
+  `Diagrams` entry. The complete DjVu page object restored its review, figure
+  captions, and order block. Conclusion remains `needs_highres_scan` until the
+  dense diagram labels can be checked on w2000.
 
 ## Remaining Blockers
 

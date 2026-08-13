@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n60; canonical physical scan leaf: 61 (origFileName=0061.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 59 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 59 in the page OCR and source pack; scan-visible page number not yet verified in this pass.
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n60_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n60_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0061.djvu` was read directly because generated dossier text may be truncated. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
 - OCR recovery: 498 words / 116 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -128,11 +128,22 @@ Pierre Mac Orlan 写道：“摄影让人和物死去片刻，以至他们从彼
 
 图示来自一则广告，展示十个元音的相近关系：常被混在一起的归为“近”，很少混淆的归为“远”；以喷绘球体置于“空间”中。Bell Telephone Laboratories。
 
+另一幅书中图表追溯了从 Giotto 开始的欧洲主要绘画流派。设计者 Eric Newton 解释说，这张图试图同时表示：各流派的相对重要性（阴影块的面积）、大致年代、主要艺术家（圆圈）、他们的相对重要性（圆圈大小），以及流派与艺术家之间的影响脉络。出处：Eric Newton，《European Painting and Sculpture》，Faber and Faber。
+
+还有一幅图表示 1966 年底美国在外国的直接投资规模。图中各国的面积依其收到的投资额而变形；原图为彩色。出处：《Fortune》。
+
+本书没有试图提供历史视角，不过收录了一些以视觉形式有效呈现信息的先驱。这些先驱包括《Fortune》和《Scientific American》等杂志、Container Corporation of America 等公司，尤其是伦敦 Isotype Institute。它的方法和成就影响了所有图表设计者，即使他们未必意识到自己欠了这份债。
+
+Arthur Lockwood：《Diagrams》，Watson-Guptill Publications，1969 年，144 页。邮资已付价 15.00 美元；地址：165 West 46th Street, New York, N. Y. 10036；或向《全球概览》购买。
+
 ## Omitted Bibliographic/Order Info
-《Diagrams》的书名、作者及订购资料未在本页 OCR 中完整出现。
+- 元音关系图和欧洲绘画流派图中的大量微型标签没有逐项转录；其解释、来源和清楚可读的书目信息均已保留。
 
 ## OCR / Uncertainty Notes
-元音图的语言标签、年代轴上的艺术家姓名和部分图题受图形与列位影响而破损，未逐项复原。
+- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
+- 元音图的语言标签、年代轴上的艺术家姓名和部分图题受图形与列位影响而破损，未逐项复原。
+- 直接读取完整 DjVu page object 后，恢复了生成 dossier 在 6,000 字符截断点之后的《Diagrams》评论、两个图例和订购资料。
 
 ## Self Critique
-保留摄影书的评论、书目信息和可辨图注；对图表中不可可靠判定的标签不作猜测。
+- 保留摄影书与《Diagrams》的完整评论、书目信息和可辨图注；对图表中不可可靠判定的标签不作猜测。
+- 当前是官方 OCR 完整性修复，不是高清闭环；扫描恢复后仍需核对微型标签、页码和图像归属。
