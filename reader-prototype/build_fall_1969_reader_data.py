@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import sys
 from collections import Counter
 from pathlib import Path
 
@@ -20,6 +21,8 @@ TRANSLATION_ROOT = ROOT / "content" / "translations" / "wholeearthcatalo00unse_7
 STATUS_PATH = TRANSLATION_ROOT / "status.jsonl"
 LEAF_DIR = TRANSLATION_ROOT / "leaves"
 OUT = HERE / "data" / "fall_1969_reader.json"
+sys.path.insert(0, str(TRANSLATION_ROOT / "tools"))
+from validate_release import validate_issue  # noqa: E402
 
 CHAPTERS = [
     {
@@ -188,6 +191,12 @@ def build_payload(rows: list[dict]) -> dict:
 
 
 def main() -> None:
+    gate_errors = validate_issue()
+    if gate_errors:
+        preview = "\n".join(f"- {error}" for error in gate_errors[:20])
+        raise SystemExit(
+            f"Fall 1969 release gate failed ({len(gate_errors)} issues):\n{preview}"
+        )
     rows = load_rows()
     payload = build_payload(rows)
     OUT.parent.mkdir(parents=True, exist_ok=True)

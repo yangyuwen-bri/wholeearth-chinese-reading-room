@@ -4,11 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 富勒总评；《地球号宇宙飞船操作手册》评论与五段摘录；《Environment and Change》说明；《工业化未完成的史诗》两组长摘录；《通往月球的九条链》《观念与完整性》《不再有二手上帝》的书目和摘录；《世界设计科学十年》的价格评价、六组短论、14 项课程表及张拉整体长段。
+- Translation coverage: 上述每个书目和摘录均在独立标题或相邻段落中完整对应；富勒语言的评论、诗体段落、课程编号和张力／压力论证均按扫描顺序保留。
+- Permitted omissions: 仅省略重复出版社邮寄地址和重复订购提示；保留所有作者、年份、页数、价格比较和实质文字。
+
 ## Reasons
 
-- 已核对 `##` 标题顺序为 7 项标准顺序：Source Pack、Context Notes、Glossary Updates、Final Translation、Omitted Bibliographic/Order Info、OCR / Uncertainty Notes、Self Critique。
-- 本页已覆盖富勒及其相关书目条目，书名、年份、页数、价格与发售单位/地址信息均有明确呈现（含 WHOLE EARTH CATALOG 入口）。
-- 译文保留了目录语气与书评/广告语气，没有将多条目压缩成单一摘要。
+- 2026-08-15 对照 n4 w2000 扫描与完整 DjVu 页面对象复核，旧稿的概述式段落已全部替换。
+- 译文没有把多个富勒书目合并为一种“思想简介”，也没有删去《世界设计科学十年》下栏的课程表和张拉整体论证。
+- 印刷页码按扫描确认为 p.3。
 
 ## Required Fixes
 
@@ -16,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 页面仍有高密度版式，建议后续与高清图复核个别年份与金额字符位移（如 1938/1963 注释）。
+- 版面中的张拉结构照片不含需要另译的清晰图注；重复订购地址按规则省略。

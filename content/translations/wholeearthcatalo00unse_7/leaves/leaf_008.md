@@ -112,42 +112,67 @@ A band of cirrus clouds crosses this picture of the as the jetstream, in which w
 
 ## Final Translation
 
-### 《全景地球：满月图与行星海报》
+### ★ 仙女座星系（Andromeda Galaxy）
 
-**Full Earth（曼德拉）海报**：南美同步卫星色彩图，尺寸 `22"×27"`，邮资
-已付 2 美元，WHOLE EARTH CATALOG 可订。说明：购 5 张以上可享五折。
+离我们最近的星系，一张出色的黑白摄影海报。无与伦比的冥想对象。
 
-**仙女座星系星图**：高对比度黑白版，26×38 英寸，邮资 6 美元。
+［道格·恩格尔巴特（Doug Engelbart）推荐］
 
-### 《地球照片》（Earth Photographs）与《从月球看地球》
+《仙女座星系》，26×38 英寸，6.00 美元，含邮资。可向《全球概览》订购，或向 Edmund Scientific（100 Edscorp Building, Barrington, N.J. 08007）订购。
 
-NASA SP-129《Earth Photographs》包含 243 幅彩色照片（1965 年 Gemini
-拍摄），1967 年 266 页。Dover 评论认为这本书若交给“严谨自然团体”会
-值 25 美元，但版上定价仅 7 美元；续卷《从 Gemini III、IV、V 看到地球》
-1968 年 327 页，8 美元。
+### 完整地球（Full Earth）
 
-### 《在太空中拍摄》（A SP-16i，宇宙摄影）
+“曼陀罗地球”（Mandala Earth）是 1967 年 11 月由南美洲上空的一颗同步卫星在正午拍摄的彩色影像。《全球概览》将它制成海报出售，2 美元，含邮资。图像与 1968 年秋季《概览》封面相同，尺寸 22×27 英寸。一次订购五张或更多，可享五折。
 
-1968 年版，214 页，4.25 美元（含邮资）。
+### 地球照片（Earth Photographs）
 
-发行渠道为美国政府印刷局书店（U.S. Govt. Printing Office Bookstore）
-三地：华盛顿、堪萨斯城、芝加哥。
+NASA SP-129 真是一本了不得的书。里面有 243 幅整页彩色照片，都是 1965 年双子座飞行任务从太空拍摄的地球。如果它是一本塞拉俱乐部的书——它完全够格——就会卖 25 美元。现在只卖 7 美元。
+
+书里有许多发现。其中一项是：这个美丽的地方几乎无人居住，也几乎不适宜居住。
+
+NASA 最近又出版了双子座照片的第二卷。更出色。
+
+- 《双子座 III、IV、V 号任务拍摄的地球照片》（Earth Photographs from Gemini III, IV, and V），NASA，1967 年，266 页；7.00 美元，含邮资。
+- 《双子座 VI 至 XII 号任务拍摄的地球照片》（Earth Photographs from Gemini VI through XII），NASA，1968 年，327 页；8.00 美元，含邮资。
+
+［史蒂夫·伍德科克（Steve Woodcock）推荐］
+
+### 地球升起（Whole Earth Rising）
+
+Celestial Arts 的彩色地球摄影海报比我们的或 Lunar Graphics 的更大、更好，也更贵——3 美元。地址：1345 Howard Street, San Francisco, CA；也可向《全球概览》订购。值得选的有：`Earth`、`Earth from Moon`、`Astronaut White`。
+
+### 《观察者手册》（The Observer’s Handbook）
+
+如果你喜欢直视星辰，这是最好的业余天文学家手册。小行星、星团、星座、日食月食、星系、行星、星云、掩星、射电源、岁差、星图、太阳黑子、流星，全都有。每年 11 月出版。
+
+［李·安德森（Lee Anderson）推荐］
+
+《观察者手册》，100 页，约 1.00 美元。出版者：加拿大皇家天文学会（Royal Astronomical Society of Canada），252 College Street, Toronto 2B, Ontario, Canada。
+
+### 图片说明：卷云带
+
+一条卷云带横过这幅尼罗河谷和红海的照片。美国环境科学服务管理局空间运行支援处处长 Kenneth M. Nagler 说：“这样的云带通常出现在强劲西风气流核心的赤道一侧，这股气流称为急流，其中风速通常达到 100 节，偶尔超过 200 节。气象卫星图像里也常能看到这些卷云带，只是细节较少；它们尤其有助于判断高空风的方向。前景中，小块积云排列成行。”——双子座 XII 号。
+
+（跨页图片出自《地球照片》。）
+
+### 《用相机探索太空》（Exploring Space With a Camera）
+
+上面的双子座照片集更纯粹，但若想理解地球、地月系统和太阳系的整体系统，NASA 的这本新书确实更好。直到阿波罗 7 号为止的所有杰出照片——彩色和黑白都有——都汇集在这本家庭相册式的书里，并且以异常完整的资料说明能够从图像中发现什么。这是 NASA 为争取你关注真正太空奥德赛下一阶段所作的努力。它很有说服力。
+
+NASA SP-168（1968 O-292-583），1968 年，214 页；4.25 美元，含邮资。
+
+以上三种 NASA 图书均可从下列美国政府印刷局书店购得：710 North Capitol Street, Washington, D.C. 20402；Room 135, Federal Building, 601 East 12th Street, Kansas City, Missouri 64106；Room 1463, 14th Floor, Federal Office Building, 219 S. Dearborn Street, Chicago, Illinois 60604；Room 1023, Box 36104, Federal Building, 450 Golden Gate Avenue, San Francisco, California 94102。也可向《全球概览》订购。
 
 ## Omitted Bibliographic/Order Info
 
-- 未省略可读图书条码。页面同时保留 WHOLE EARTH CATALOG 与
-  U.S. Govt. Printing Office Bookstore 的采购说明。
+- 无。评论、推荐署名、书目、价格、供应地址和图片说明均已保留。
 ## OCR / Uncertainty Notes
 
-- “A band of cirrus clouds…”等句为扫描噪声行，保留为版式边缘信息，未做
-  语义扩展。
-- 三地书店地址行存在 OCR 字符密度差异（如邮政信息缩写），未越权补写。
+- 2026-08-15 已按 n8 w2000 扫描逐区核对。官方 OCR 截断的卷云图片说明和右下书评已由扫描补齐。
+- 书中产品名与地址按原文保留；`SP-168` 以扫描书封和可读书目核定，旧稿的 `SP-16i` 是 OCR 误识。
 
 
 ## Self Critique
 
-- 本页保持“海报/图书/邮寄三类信息”分离：既保留了艺术化产品，也保
-  留了技术性参数。
-- 由于原页有多处压缩行，建议后续把两幅图片底部与右下角价格行再做一次
-  目视复核。
-- 已移除重复的 `Omitted Bibliographic/Order Info` 标题，维持 7 个 H2 的结构顺序。
+- 本版恢复了旧稿遗漏的《观察者手册》、完整卷云图注、`Whole Earth Rising` 产品说明，以及《用相机探索太空》的整段评论。
+- 原评论中的判断、比喻和推荐人均逐项保留，不再改写成概述。

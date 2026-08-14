@@ -1,19 +1,25 @@
-# Leaf 001 Review
+# Leaf 001 Independent Review
 
 ## Conclusion
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: FUNCTION 定义、四项收录标准与持续修订句；PURPOSE 全段；SUPPLEMENT FUNCTION 全段；赞助订阅者与保持订阅者名单；版权行。
+- Translation coverage: 三个正文区逐段译出；四项标准保持编号；31 位订阅者及所在地按两类列出；版权与国际公约说明保留。
+- Permitted omissions: 无；本页名单和版权信息具有出版史意义，均保留。
+
 ## Reasons
 
-- 草稿在 `FUNCTION` 条件、`SUPPLEMENT FUNCTION`、订阅级别/版权说明中可见信息已经完整覆盖，且未再出现结构性重复标题。
+- 2026-08-15 对照 n1 w2000 扫描和完整 DjVu 页面对象复核，补回 Edmund Scientific Co. 并确认订阅类别。
+- 宗旨段落保留“远距权力”与“切身个人力量”的对照，没有压成导读。
+- 本页无印刷页码。
 
 ## Required Fixes
 
-已确认：
-- `FUNCTION` 条件恢复四项，已移除“尚未成为人所共知的常识”。
-- `SUPPLEMENT FUNCTION` 与 `CATALOG PROCEDURE`、`RETAINING SUBSCRIBERS`、`SUSTAINING SUBSCRIBERS` 及版权信息均在正文中保留。
+- 无。
 
 ## Residual Risks
 
-- `independent education`、`evaluation and access device` 等核心术语仍需和全刊术语表统一；这不妨碍先完成逐字覆盖。
+- `evaluation and access device` 暂译“评价与获取工具”，需在全刊术语表中保持一致。

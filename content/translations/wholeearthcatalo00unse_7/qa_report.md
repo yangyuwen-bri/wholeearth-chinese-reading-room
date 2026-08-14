@@ -2,55 +2,60 @@
 
 ## Release State
 
-Reader release accepted on 2026-08-15.
+Release suspended on 2026-08-15 after a reader-reported summary-substitution
+failure on `leaf_007`.
 
 - Translation files: 132/132.
-- Independent review files: 132/132.
-- Review conclusions: `accepted` 132; `needs_highres_scan` 0; `revise` 0.
-- Canonical `status.jsonl`: 132 contiguous leaves, all synchronized to `accepted`.
-- Reader payload: 9 chapters and 132 translated sections.
+- Review files: 132/132.
+- The previous `accepted=132` claim is withdrawn.
+- Current orchestrator states: `accepted=14` (`leaf_000`–`leaf_013` rebuilt or
+  scan-audited and independently re-reviewed), `self_checked=118` pending
+  scan-level coverage review.
+- The Fall 1969 release builder is intentionally blocked until every accepted
+  review contains concrete source-to-translation coverage evidence.
 
-## High-Resolution Scan Closure
+## Confirmed Failure
 
-The 29 inherited `needs_highres_scan` leaves were checked individually against
-the Internet Archive w2000 scans:
+The old `leaf_007` reader text reduced three catalog entries to descriptions.
+For `Star Maker`, it omitted the editorial recommendation and most visible
+literary excerpts, then presented a synthesized Chinese paraphrase as a
+blockquote. Its generic review incorrectly said that no introduction-style
+compression was present.
 
-`054, 056, 058, 060, 061, 063, 066, 070, 078, 088, 089, 090, 091, 092, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 118, 119, 120`.
+The page was rebuilt from the n7 w2000 scan and complete official DjVu page
+object. All substantive reviews and excerpts are now translated, permitted
+address omissions are recorded, and the visible printed page is corrected to
+p.6.
 
-- Twelve visibly broken or incomplete translations were reconstructed:
-  `092, 103-111, 119, 120`.
-- The other seventeen leaves were regressed against the scan and their reviews
-  updated with page-specific evidence.
-- Numeric fields, column ownership, captions, diagrams, poetry lineation,
-  product groupings and cross-page boundaries were checked where applicable.
+## Systemic Audit
 
-## Inherited-Accepted Regression
+The new release gate checks:
 
-A whole-book reader audit found seven leaves whose old review label said
-`accepted`, while the reader-facing body still contained fragmented machine
-translation. Leaves `093-099` were therefore retranslated from the w2000 scans
-and independently re-reviewed. Their principal entries now have coherent
-reading order, source-bounded names and historical specifications.
+- concrete `Coverage Evidence` in every review;
+- source inventory, translation mapping and permitted omissions;
+- suspicious OCR-word-to-Chinese-character compression;
+- page-description and summary language in reader text;
+- duplicate generic review reasons;
+- final orchestrator status.
 
-Reader-facing text was also swept for workflow language and obvious OCR
-artifacts. Editorial notes remain in the source packages, but do not leak into
-the `Final Translation` sections shown in the reading room.
+The first run correctly blocked the release with 322 findings; after closing
+`leaf_000`–`leaf_013`, the gate still blocks with 286 findings. These counts mix
+status/evidence failures with content-risk signals; neither is a count of bad
+pages. A conservative compression screen identified 39 high-risk leaves;
+all 132 leaves nevertheless remain in the coverage-review scope.
 
-## Reader Integration
+## Required Closure
 
-- Builder: `reader-prototype/build_fall_1969_reader_data.py`.
-- Output: `reader-prototype/data/fall_1969_reader.json`.
-- Route: `reader-prototype/index.html?issue=fall-1969`.
-- Data validation confirms 9 chapters, 132 unique sections, non-empty HTML and
-  `accepted` status on every section.
-- `git diff --check` and Python compilation pass.
+1. Inventory every substantive block against the scan and complete OCR.
+2. Retranslate every omitted review, argument, excerpt, caption or meaningful
+   label; do not substitute themes or encyclopedia descriptions.
+3. Replace generic reviews with page-specific coverage evidence.
+4. Resolve printed-page mapping against scandata and visible page numbers.
+5. Restore `accepted` only leaf by leaf, then regenerate and browser-test the
+   reader payload.
 
-## Residual Boundaries
+## Reader Status
 
-- The catalog preserves 1969-era prices, products, medical discussion and
-  outdoor advice as historical material; they are not current recommendations.
-- Some microscopic order, size and address fields remain intentionally omitted
-  where the scan cannot support character-level certainty.
-- The left scan panel is served directly from Internet Archive and therefore
-  depends on archive.org availability; the Chinese reading text itself is
-  generated locally.
+The previously generated JSON is stale and must not be treated as a final
+release artifact. Production rebuilding now fails closed until the coverage
+gate passes.

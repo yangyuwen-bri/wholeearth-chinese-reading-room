@@ -32,6 +32,11 @@ record the problem here, then decide whether it is issue-local or reusable.
   `rawtext_*.txt` may stop at 6,000 characters even when the page word count
   shows more content. Before declaring an omitted tail unreadable, query the
   corresponding DjVu XML page object directly.
+- `accepted can conceal synthesized quotations and summary substitution`:
+  confirmed on `n7`, where three entries were reduced to descriptions and a
+  Chinese blockquote combined several source passages instead of translating
+  one quotation. Release review must inventory source blocks and map each one
+  to the final translation; heading counts and fluent prose are not evidence.
 
 ## Batch Lessons
 
@@ -46,6 +51,7 @@ record the problem here, then decide whether it is issue-local or reusable.
 | 2026-08-14 | n101 | machine-translated OCR stopped inside one of six outdoor suppliers and preserved decorative noise | used complete page text plus coordinates to separate suppliers; retained scan gates on tables and fractional fields | yes: add coordinate-aware reconstruction |
 | 2026-08-14 | n102 | machine-translated OCR interleaved three mail-order suppliers and hid the page's self-critical editorial aside | restored supplier regions and editorial voice from complete page text; retained scan gates on illustrated product tables | yes: preserve editorial asides |
 | 2026-08-13 | n56, n58, n60, n61, n63, n66, n70, n78, n92 | generated dossier text stopped at 6,000 characters and hid or interleaved source tails | read complete DjVu page objects; repaired n56/n58/n60/n61/n63/n66/n70/n78, deferred dense n92 until scan access returns | yes: detect dossier truncation |
+| 2026-08-15 | n7 and inherited accepted leaves | accepted review missed summary substitution and a synthesized quotation | suspended the release, added concrete coverage evidence and compression gates, reopened every leaf for scan-level review | yes: require source-to-translation coverage evidence |
 
 ## Prompt Change Log
 

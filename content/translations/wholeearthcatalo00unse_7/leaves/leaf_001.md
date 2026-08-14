@@ -58,7 +58,7 @@
 
 - 保持订阅（Retaining Subscribers）；
 - 赞助订阅（Sustaining Subscribers）；
-- 版权归 `© 1969 Portola Institute, Inc.` 所有。
+- 版权归 `© 1969 Portola Institute, Inc.` 所有；依据泛美与国际版权公约保留一切权利。
 
 #### 保持订阅者（Retaining Subscribers）
 
@@ -70,6 +70,7 @@
 - Don Winsberg，Chicago, Illinois
 - Jim Temple，Adamant, Vermont
 - John Doss，San Francisco, California
+- Edmund Scientific Co.，Barrington, New Jersey
 - Jeffrey Mitchell，New York, New York
 - Anthony D'Amato，Chicago, Illinois
 - The Committee，San Francisco, California
@@ -109,6 +110,6 @@
 
 ## Self Critique
 
-- 已覆盖功能定义、五项收录标准、持续修订机制及完整宗旨段落，没有把宗旨压缩成导读。
+- 已覆盖功能定义、四项收录标准、持续修订机制及完整宗旨段落，没有把宗旨压缩成导读。
 - `remotely done power and glory` 译为“从远处施加的权力与荣耀”，保留其与后文个人力量的对比；这一表达略带陌生感，但比改写成“中央集权”更少添加原文没有的政治解释。
 - `evaluation and access device` 采用“评价与获取工具”而非现有暂定“评价与获取装置”，需要总审决定全刊术语。

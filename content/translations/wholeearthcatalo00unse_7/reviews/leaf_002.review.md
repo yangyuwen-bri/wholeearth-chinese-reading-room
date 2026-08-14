@@ -1,23 +1,25 @@
-# Leaf 002 Review
+# Leaf 002 Independent Review
 
 ## Conclusion
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 扫描含七个主栏目（Understanding Whole Systems、Shelter and Land Use、Industry and Craft、Communications、Community、Nomadics、Learning），逐页列出 p.2–125 的条目，另有 p.126–129 的广告、成本、建议表、卡车商店、经销商和订阅表导航；星号说明为 `Star (*) indicates NEW ITEM.`。
+- Translation coverage: 译文按扫描的栏目与页码顺序逐条重建目录，保留全部可见页码、每一个新条目标记、所有书刊／机构／产品名称及书末导航；无通行中译名者保留英文，未把栏目合并成概述。
+- Permitted omissions: 无。目录的条目、页码与星号都是实质性导航信息，均已保留。
+
 ## Reasons
 
-- 高分辨率扫描显示本页是带页码的完整目录（2–129），有八个栏目：`Understanding Whole Systems`、`Shelter and Land Use`、`Industry and Craft`、`Communications`、`Community`、`Nomadics`、`Learning`，并含 `Advertisements`、`CATALOG costs`、`Suggestion Form`、`Whole Earth Truck Store`、`Distributors`、`Subscription Form` 等末尾导航项。草稿把大量条目错误聚合到“乡村技术”，漏掉 `Shelter and Land Use`、`Learning` 等可见栏目，也没有保留目录页码。
-- 草稿只列出 OCR 中的一小部分条目，遗漏了扫描上可见的大量目录项（例如第 2 页 `CATALOG Procedure`、第 3–4 页 Buckminster Fuller 条目、第 18 页 `Geodesics`、第 58 页 `Natural Way to Draw`、第 78 页 `Foods by Mail`、第 110 页 `Dr. Spock` 等）。目录不应按“可省略书目数据”处理。
-- 星号注释 `Star (*) indicates NEW ITEM.` 是明确的导航信息，草稿未保留；条目星号及页码均被删去，削弱了目录功能。
-- 多个标题与实际目录不符或被凭 OCR 推断：例如页面没有 `Village Technology` 栏目；`Shelter and Land Use` 不是缺失标题，而是清晰可见的栏目标题。最后一组不是无标题的独立三级标题，而属于 `Learning`。
+- 2026-08-15 以 Internet Archive 的 n2 w2000 扫描和完整 DjVu OCR 交叉核对；扫描足以恢复被 OCR 打乱的多栏结构。
+- 旧审稿指出的错误栏目、缺页码、缺星号、漏条目和尾部导航缺失均已修复；`Village Technology` 只作为 p.25 条目保留，不再被误造为主栏目。
+- 扫描右下印刷页码为 p.1，状态映射据此记录。
 
 ## Required Fixes
 
-- 以扫描的七个栏目及其实际版面归属重建全页目录；删除“乡村技术”这一无来源栏目，不把不同栏目混合。
-- 逐条保留可见的页码、星号及“星号表示新条目”说明；将所有目录条目译出或保留中英并列，不得以摘要替代。
-- 补上目录尾部的 `Advertisements` 至 `Subscription Form` 全部导航项及对应页码。
-- 对每一条 OCR 无法可靠辨识的标题，以高分辨率扫描重新核验；不能确定时在译文中标记不确定项，不得改造栏目结构或自行补题。
+- 无。
 
 ## Residual Risks
 
-- 本页文字密集且有大量书名、机构名和产品名；无公认中译名者宜中英并列，并在后续正文语境中统一术语。扫描已足以确定栏目、页码与大多数条目，不能再以“多栏顺序不明”作为省略整块目录的理由。
+- 少数产品、机构和无稳定中译名的书题继续保留英文；这不构成内容省略，后续正文若出现可再统一译名。

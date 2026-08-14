@@ -7,6 +7,8 @@ import json
 import re
 from pathlib import Path
 
+from validate_release import validate_issue
+
 
 ROOT = Path(__file__).resolve().parent.parent
 STATUS_PATH = ROOT / "status.jsonl"
@@ -26,6 +28,13 @@ def review_conclusion(path: Path) -> str:
 
 
 def main() -> None:
+    gate_errors = validate_issue(require_accepted=False)
+    if gate_errors:
+        print(f"refusing to synchronize: {len(gate_errors)} release-gate issue(s)")
+        for error in gate_errors:
+            print(f"- {error}")
+        raise SystemExit(1)
+
     rows = [json.loads(line) for line in STATUS_PATH.read_text().splitlines() if line.strip()]
     rows.sort(key=lambda row: row["leaf"])
     if [row["leaf"] for row in rows] != list(range(132)):
