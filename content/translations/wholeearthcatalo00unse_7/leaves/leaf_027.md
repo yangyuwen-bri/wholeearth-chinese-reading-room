@@ -118,7 +118,7 @@ making... Make rectangular forms of wood or metal. Lay Fig. 36 CINVA-RAM moulder
 
 《Soil-Cement — Its Use in Building》偏重“土壤加固与页岩/砂浆混合”的工艺，重点提及 Cinva-Ram 土坯成型机。  
 
-《Making Bricks》条目虽未见完整价页信息，但 OCR 中保留了其制作流程与 `1964; 35 pp.` 的页信息，包含箱体、活塞、杠杆与调整螺丝的示意，强调通过木块可去除式压模来做实心或空心块。  
+《Making Bricks》（1964，35 页）介绍制砖流程，配有箱体、活塞、杠杆与调整螺丝示意，并说明如何用可拆卸木块压模制作实心或空心砖。
 
 页面夹有多张示意图（如开口处、模板和 Cinva-Ram 生产结构图）与文本，说明土坯制块工序依赖节奏与稳定的往复夯实。  
 

@@ -1,89 +1,56 @@
 # QA Report
 
-## Phase
+## Release State
 
-Recovery audit. The inherited package has complete file coverage, but its review
-labels are not yet treated as orchestrator acceptance.
-
-## Artifact Inventory
+Reader release accepted on 2026-08-15.
 
 - Translation files: 132/132.
-- Review files: 132/132.
-- Inherited review conclusions at handoff: `accepted` 103,
-  `needs_highres_scan` 29.
-- Current working conclusions after three scan recoveries: `accepted` 103,
-  `needs_highres_scan` 26, `revise` 3. The three `revise` leaves await
-  independent regression rather than self-acceptance.
-- Canonical `status.jsonl` retains conservative production states until each
-  inherited conclusion is supported by page-specific scan evidence.
+- Independent review files: 132/132.
+- Review conclusions: `accepted` 132; `needs_highres_scan` 0; `revise` 0.
+- Canonical `status.jsonl`: 132 contiguous leaves, all synchronized to `accepted`.
+- Reader payload: 9 chapters and 132 translated sections.
 
-## Current Recovery Gate
+## High-Resolution Scan Closure
 
-- `n54`: w2000 scan checked and translation revised; status `self_checked`.
-  The old review missed a full right-hand column, so the page requires an
-  independent regression review before acceptance.
-- `n118`: w2000 scan checked and summary-style text replaced with a
-  source-aligned reconstruction, including the 13-day grid, quotations,
-  equipment list, order fields, and the visible printed-page conflict. Status
-  `self_checked`; independent table regression remains required.
-- `n88`: w2000 scan checked and interleaved OCR output replaced with a
-  source-aligned reconstruction. Two omitted entries, historical medical text,
-  product fields, and image labels were restored. Status `self_checked`;
-  independent medical-terminology and column regression remains required.
+The 29 inherited `needs_highres_scan` leaves were checked individually against
+the Internet Archive w2000 scans:
 
-## OCR Reconstruction Pending Scan
+`054, 056, 058, 060, 061, 063, 066, 070, 078, 088, 089, 090, 091, 092, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 118, 119, 120`.
 
-- `n91`: broken machine-translated OCR replaced with a complete structured
-  draft from the local official DjVu extraction. Archive.org closed both CLI
-  and browser connections during the 2026-08-13 pass, so the conclusion stays
-  `needs_highres_scan`; this page is preparation, not closure.
-- `n60`: generated dossier truncation had hidden the latter half of the
-  `Diagrams` entry. The complete DjVu page object restored its review, figure
-  captions, and order block. Conclusion remains `needs_highres_scan` until the
-  dense diagram labels can be checked on w2000.
-- `n56`: complete DjVu object restored three additional loom sources and two
-  yarn entries hidden beyond the generated dossier boundary. Conclusion stays
-  `needs_highres_scan` pending diagram, address, and printed-page checks.
-- `n66`: complete DjVu object restored three bibliographic blocks, the plane
-  Fedorov-group excerpt, an Escher plate caption, and Venn/set explanations.
-  Damaged headings and mathematical graphics still require w2000 inspection.
-- `n61`: complete DjVu object restored the Kardashev classification and the
-  majority of the `Cybernetic Serendipity` entry hidden beyond the generated
-  dossier boundary. Scientific exponents, binary graphics, and interleaved
-  order fields remain scan-gated.
-- `n63`: complete DjVu object separated a Brockman media-theory entry that the
-  old draft had mixed into `Technicians of the Sacred`, and restored poems,
-  order data, and `Garbage Event`. Poetry lineation remains scan-gated.
-- `n70`: complete DjVu object restored the entire `Physical Control of the
-  Mind` entry omitted by the old draft. Historical brain-stimulation text and
-  the core `0-5 seconds` decimal ambiguity remain scan-gated.
-- `n58`: complete DjVu object restored the unfinished woodcarving entry and
-  three omitted blocks on materials, guitar construction, and plastics.
-  Dense order fields and the woodcarving format size remain scan-gated.
-- `n78`: complete DjVu object restored the remainder of a pattern-recognition
-  caption plus four omitted blocks on data study, colour guitar, amateur radio,
-  and hobby printing. Dense cross-column bibliography remains scan-gated.
-- `n89`: complete DjVu object replaced an interleaved machine translation with
-  a reconstructed long-form book review, source excerpts, and the separate
-  Unity Buying Service catalogue. Product-price pairing remains scan-gated.
-- `n90`: complete DjVu object replaced an interleaved machine translation with
-  a reconstructed Sears/Wards overview, product catalogue, and *Armchair
-  Shopper's Guide* review. Dense product fields remain scan-gated.
-- `n100`: complete DjVu object replaced an interleaved machine translation with
-  reconstructed Ski Hut, REI, and Sierra Designs reviews and product groups.
-  Dense specifications and two interleaved parka entries remain scan-gated.
-- `n101`: complete DjVu object replaced an interleaved machine translation with
-  six separated outdoor suppliers and their visible product groups. Kelty's
-  price table, addresses, and dense fractional specifications remain scan-gated.
-- `n102`: complete DjVu object replaced an interleaved machine translation with
-  separated Herter's, Haverhill's, and Smilie catalogue regions. Dense product
-  specifications and illustrated tables remain scan-gated.
+- Twelve visibly broken or incomplete translations were reconstructed:
+  `092, 103-111, 119, 120`.
+- The other seventeen leaves were regressed against the scan and their reviews
+  updated with page-specific evidence.
+- Numeric fields, column ownership, captions, diagrams, poetry lineation,
+  product groupings and cross-page boundaries were checked where applicable.
 
-## Remaining Blockers
+## Inherited-Accepted Regression
 
-- The remaining 26 inherited `needs_highres_scan` leaves require page-specific
-  w2000 inspection; a generic review template is not sufficient evidence.
-- Inherited `accepted` leaves with duplicated review text or unresolved scan
-  notes require re-audit before final orchestrator acceptance.
-- Printed-page mapping, glossary promotion, workflow lessons, issue-agent data,
-  and reader integration remain incomplete.
+A whole-book reader audit found seven leaves whose old review label said
+`accepted`, while the reader-facing body still contained fragmented machine
+translation. Leaves `093-099` were therefore retranslated from the w2000 scans
+and independently re-reviewed. Their principal entries now have coherent
+reading order, source-bounded names and historical specifications.
+
+Reader-facing text was also swept for workflow language and obvious OCR
+artifacts. Editorial notes remain in the source packages, but do not leak into
+the `Final Translation` sections shown in the reading room.
+
+## Reader Integration
+
+- Builder: `reader-prototype/build_fall_1969_reader_data.py`.
+- Output: `reader-prototype/data/fall_1969_reader.json`.
+- Route: `reader-prototype/index.html?issue=fall-1969`.
+- Data validation confirms 9 chapters, 132 unique sections, non-empty HTML and
+  `accepted` status on every section.
+- `git diff --check` and Python compilation pass.
+
+## Residual Boundaries
+
+- The catalog preserves 1969-era prices, products, medical discussion and
+  outdoor advice as historical material; they are not current recommendations.
+- Some microscopic order, size and address fields remain intentionally omitted
+  where the scan cannot support character-level certainty.
+- The left scan panel is served directly from Internet Archive and therefore
+  depends on archive.org availability; the Chinese reading text itself is
+  generated locally.

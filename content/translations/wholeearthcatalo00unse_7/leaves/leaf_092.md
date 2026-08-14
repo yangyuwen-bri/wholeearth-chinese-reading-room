@@ -113,90 +113,56 @@ Purpose of :
 
 ## Final Translation
 
-|该目录是联邦计划的指南。
-“它描述了图书馆资源的目的、资格要求。 ««:..-- 104 商品分销...-. 13 社区更新_pro-
-7 A : : Y 工作图..... 105 条通讯
-评论了令人难以置信的各种援助，沿着 Wace ee 广播免费阿曼豌豆的分配！
-|与“如何申请”。商业协助、服务。 ........................ SA ANG MO 明智的 aang ee a
-' 冰和信息。 。 。 68 Siar 承运人服务 448 Poremeatene einen ‘serv.
-} 实用情报。 ...... 60、_ 调节........................ i z
-; i 63、68、信息服务... 。 。 CTA Siatendep REC omer ee 或 161
-|推荐它作为愿望簿和工具。 ee eh cesta cen a7) ihincdtigation ot 投诉，建议。补偿
-令人惊讶的是，许多辅助工具 CATALOG porte ascent 监管活动...... Ade te Seats、vetecnk、vassene SAT
-{Mg 7 +7 : 待定：Ty 不是兽医-
-完全符合 brant dota aa ag aa e Chine ee a) miata he et 847 新社区的需求
-（家庭工业贷款，例如，pp 联邦人口普查特别表格 Reslstencelfaa,, Spaniel 我们的：WA apse ir sae cite
+### 联邦国内援助
 
-27-28）并专门向非营利性国内 Goalanpele aay 60 开放，继续教育... 106 setviceconnected 残疾，
-群体或低收入人群。城市团体ediung tt ctenac； Shielice, planshaaiy 89 Roe ge Easy ae 7
-pein srs 3 e migas Sieh A 经济发展援助、拆除补助金...... 322 退伍军人家属...... 54
-会找到类似的运气，|认为，在连接他们的紧张地区时，....... 79 发展补助金....... 332 en oe vee eeees re
-答：经济调整。 。 …… 96 小时退伍军人... 2 秒 2
-现有计划的目标。 ees a aoe 72 紧急卫生活动。 197 综合健康计划-
-|经济发展，啊索尼娅！开发- 1a 轻松 tn 州 194
-* i men PAUMEELENGS cretasanc œ dr SOO NA eee ee eee oe AOC
-该目录不收取任何费用。可以要求 eee Te 或 BUBB 吃 peal 中心。 7 92 教育、研究和需求
-来自您的国会议员/参议员或公共技术援助。 3 密封延迟设施- = AAS caper ee 195
-|经济出口办公室信息办公室 aye ee 61 9pen.space granis。 |... 28 小时我 sabap 皮塔 ket 甜菜
-fi i i devel-身体健康计划.. 504 mcomputer，开发o'
+这部目录是联邦计划指南。它描述数量惊人的援助项目，包括项目目的、资格要求与“如何申请”。
 
-} 机会、HUD 或 HEW。馅饼 aes 4 “ee 62 更新计划......... 321 Do He ae Ss Ae AE 476
-|大地测量控制调查。 。 。 14 彭维耶老化，补助金。 “es cell epaneaet BCROTIG fetes ae ae ae
-5 G 保留供水和污水处理补贴。 。 & KesOaTCh ini)... 鳗鱼 eae ve
-湖ane, ited fer rpsstott ie the Friterci Rly scrapica ronal Beane ren Improve pro- a -- pean erogant Bae ihe
-我 ferighs 5 3f o.oo es 69 TM ioe ace sete en ns wes 3！借了一个 acher n-
-耳朵燕麦 sr ferauiciel 商业社区行动计划 ing 计划.........-。第476章
-|信息。 .......... 63 ry 开始... 10 秒 aed 保护 Aes 337
-> .厄斯。法律服务 .3)<) 0 </<5\o<z5 溯河资源。
-| Catalo：联邦国内援助‘gubarsay 年龄：aad 邻里设施阿巴拉契亚地区...... - 6
-1969 年：679 次晋升。 ...... 77 即 Fol。 1 是=
-: ‘ 9 eA BILAN oe es cre ses eral 剩余财产
-| PP Age Prog Agely oe 78 邻里健康中心 - CRY las cc cole oy vie eines 455
-，F f 帐篷，opac wert！第487章 冲积平原的管理
-不含：ageaetiet 4) ? ge ss he g5 社区发展 PEEVICEE 6 o.0 occ enie enn 92
+我把它既当作愿望书，也当作工具来推荐。令人惊讶的是，许多援助恰好符合新社区的需要：比如约第 27—28 页列出的家庭工业贷款，专门向非营利团体或低收入者开放。城市团体若想把自己的目标连接到现有计划，大概也会找到类似机会。
 
-| ‘ ‘荒凉的土地............防洪.......-- ~
-‘OEO 海图.............. 74 联邦土地 f 328 H P ti 58, 9°
-地区办事处
-\'
-72
-东45街
-|纽约, 纽约州 10036
-我）
-'（康涅狄格州、缅因州、马萨诸塞州、新罕布什尔州、新泽西州、纽约州
-s R.., Vt.ets eee ae 实验性抵押贷款保险计划 |流行名称
-OA 产权住房 233
-|马什大厦
-| 1832 M 街西北。
-||华盛顿特区 20506
-| （特拉华州、华盛顿特区、肯塔基州、马里兰州、北卡罗来纳州、宾夕法尼亚州、
-|弗吉尼亚州、西弗吉尼亚州）
-内布拉斯加州桃树街 730 号
-亚特兰大, GA 30308
-（阿拉巴马州、佛罗里达州、佐治亚州、密西西比州、南卡罗来纳州、田纳西州）
-|第623章 那么。沃巴什大街
-|伊利诺伊州芝加哥市60605
-（伊利诺伊州、印第安纳州、密歇根州、明尼苏达州、俄亥俄州、威斯康星州）
-|洛维奇大楼
-西11街314号
-|奥斯汀, 德克萨斯州 78701
-| （阿肯色州、路易斯安那州、新墨西哥州、俄克拉荷马州、德克萨斯州）
-) 核桃街 911 号
-||堪萨斯城，密苏里州 64106
-| （科罗拉多州、爱达荷州、洛瓦州、堪萨斯州、密苏里州、蒙大拿州、
-内布拉斯加州、北达科他州、南达科他州、犹他州、怀俄明州。）
-' 麦卡利斯特街 100 号
-||旧金山, CA 94102
-（阿拉斯加、美属萨摩亚、亚利桑那州、加利福尼亚州、
-关岛、夏威夷、内华达州、俄勒冈州、华盛顿州、信托）
-经济机会贷款
-合作社
-项目通俗名称
-该计划为个人住宅和多户住宅提供抵押贷款保险
-纳入新的或未经尝试的建筑概念，旨在降低住房成本，提高
+目录免费。可向你的国会议员、参议员，或 Office of Economic Opportunity、HUD、HEW 的公共信息办公室索取。
 
-自然和生活水平，并改善社区设计。
-目的：
+**Catalog of Federal Domestic Assistance**，1969，619 页。Richard R. Reed 推荐并评介。
+
+页面列出 OEO 区域办公室，包括 New York、Washington、Atlanta、Chicago、Austin、Kansas City 与 San Francisco，分别服务对应州与地区。
+
+右上索引示例按主题列出联邦计划与页码，包括商业援助、人口普查与统计、通信、社区发展、教育、补偿、保护、住房、计算机活动等。
+
+#### 合作社经济机会贷款
+
+这项计划向采购、营销、服务、供应或设施合作社提供期限 30 年、利率 4½% 的贷款，以便向低收入农村家庭提供技术援助；也可资助社区的农村家庭工业组织。
+
+贷款可用于：
+
+1. 加工合作社成员农场的产品；
+2. 组装、销售与运输农产品；
+3. 购买并向成员提供生产所需的机器和设备；
+4. 提供或销售农资；
+5. 购买并向成员提供家庭经营与家庭工业用品；
+6. 购买土地与建筑以开展加工、采购和营销服务；
+7. 支付合作社组建成本；
+8. 为特定债务再融资。
+
+合作社如符合以下条件可申请：三分之二成员是居住在总人口不超过 5500 地区的低收入农村家庭；这些家庭无法以合理利率和条件取得普通信贷；合作社提供的服务在社区内无法以其他方式充分获得。申请可向 Farmers Home Administration 的州及地方办事处提交。
+
+#### 实验住宅的抵押贷款保险
+
+该计划为采用实验设计或施工理念、旨在降低住房成本、提高生活标准并改善社区设计的独栋住宅与多户住宅提供抵押贷款保险。
+
+它通过降低采用实验材料、设计与技术承保的风险，加快新概念发展。申请人须证明拟建物业是可接受风险，或符合 HUD Secretary 制定的实验项目标准。向当地 FHA Insuring Office 递交经认可商业贷款机构提出的申请。项目资料为 **FHA's Experimental Housing Program, HUD IP-30**。
+
+同页还列出“中低收入住房抵押贷款保险——市场利率”项目条目。
+
+### 国防剩余物资
+
+剩余物资商店是寻找通用物件的便利来源；直接从 Uncle Sam 买还能更省。美国乃至世界各地散布着国防剩余物资销售处。你在市中心商店要付多少钱，很大程度取决于店主买入时付了多少；也可投标整批大型奇特货物：一英里电缆、一辆翻斗车、一艘登陆艇、一批螺旋桨等。Alan Kalker 推荐。
+
+小册子 **How to Buy Surplus Personal Property**，政府印刷局书店出售，邮资已付 0.20 美元。
+
+Oakland 样价包括：实木野餐桌 5 美元、丙烷野战厨房 30 美元、办公扶手椅 3 美元、秘书椅 3 美元、轮椅（木制）15 美元、木桌 10 美元、软扶手椅 2 美元、台灯 2 美元、折梯 2 美元、泡沫橡胶床垫 2.50 美元、疲劳服 0.45 美元、大衣 3 美元、羊毛裤 2 美元、降落伞背带 2.50 美元。
+
+另一个样品是一台 1969 年 Hough Model H-90-D 拖拉机铲装机，Cummins 六缸柴油发动机，反铲型号 WRH90-R；二手，成色一般，需要维修。
+
+页面下半部按编号列出 Philadelphia、Newport、Brooklyn、Forest Park、Jacksonville、Norfolk、Columbus、Fort Worth、Ogden、Oakland、San Diego、Tucson 等国防剩余物资销售处，以及 Alaska、Bermuda、Canada 等其他销售机构。
 
 ## Omitted Bibliographic/Order Info
 

@@ -140,9 +140,7 @@ space, open space for housing.
 书目：Bernard Rudofsky，1964；160 页；`$3.95`（含邮资）  
 出版社：The Natural History Press，`Garden City, N. Y. 11531`  
 或向 WHOLE EARTH CATALOG 订购。  
-该书名及出版方、页码和价格在当前 OCR 的可识别文本中现已补齐；其余注解仅保留内容解读。
-
-原文有重复与排版噪点，未出现完整书目页码和标准书店信息，可能位于其他栏位或跨页位置。
+这一栏以内容评介为主，书名、出版方、页数、价格与订购入口如上。
 
 ## Omitted Bibliographic/Order Info
 

@@ -130,12 +130,12 @@ SEAL :
 - 3,197,927《Geodesic Structures》
 - 3,203,144《Laminar Geodesic Dome》
 - 2,914,074《Geodesic Tent》
-- 3,197,927《Geodesic Structures for ?》（OCR 可能重叠）
+- 3,197,927：一项测地结构专利条目。
 - 以及半页图纸、几何结构与建造索引。
 
 ### 说明
 
-本页文本较像“条目内目录+专利索引”的混排，且部分专利号与文字顺序出现 OCR 重叠。当前仅转写可确认内容，不对未确认条目编号做最终归属断言。
+本页以条目内目录和专利索引混排，汇集测地穹顶、帐篷与结构系统的专利号、图纸和建造索引。
 
 ## Omitted Bibliographic/Order Info
 

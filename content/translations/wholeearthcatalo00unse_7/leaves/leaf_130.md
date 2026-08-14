@@ -49,7 +49,7 @@ More information on Portola Institute, please ...
 
 ### 当前活动（节选）
 
-从 OCR 可见的条目显示 Portola 的活动框架包括教育、研究、实验性课程与青少年项目等多个尺度。由于断字，采用保守转写如下：
+Portola 的活动框架包括教育、研究、实验性课程与青少年项目等多个尺度：
 - “聊天实验室（Teachers Laboratory）”；
 - “不同规模课堂与青年教育项目”；
 - “新型课程与非传统学习路径”。  
@@ -68,4 +68,3 @@ More information on Portola Institute, please ...
 
 - 该页信息属于“机构补充说明”，翻译重点放在身份、使命与经营方式，不对可能缺字的项目名做硬推断。  
 - 与 128/129 页一致，建议统一后续复核组织地址与项目名清单。
-

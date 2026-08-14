@@ -124,9 +124,9 @@ Basic Crafts. Lindbeck, J. et al (Elhi). Oct. 1968. price
 
 页面同时刊出若干戏剧供应商广告：Zauder Bros., Inc. 提供戏剧化妆品、可索取目录并承办邮购（75 W. 45 St., NYC 36，PL 7-2155）；Chloe’s Costumes 制作与供应纸浆头像和面具，可订制、出租或出售，亦租售服装、配件和假发（41 Hempstead Turnpike, Farmingdale, N.Y. 11735，电话 (516) MY 4-0599）。
 
-目录内页可读条目包括：Leo L. Beranek《声学》，13.75 美元；Maxwell Silverman《当代剧场建筑》，附照片、平面和剖面图，10 美元；Herman J. Penn《规划和建立礼堂、竞技场、体育馆或多用途建筑百科指南》；《理想剧场》；Ned A. Bowman《剧场规划》；以及 Bowman 与 Glorianne Engel 编《近期剧场建筑出版物》，1.50 美元。并有 Christine Edwards 著、Robert Lewis 作序的 Stanislavsky 研究书，内容涉及“体系”对当代演技与舞台调度的影响，New York University Press 精装 10 美元；书名在 OCR 中破损。
+目录内页条目包括：Leo L. Beranek《声学》，13.75 美元；Maxwell Silverman《当代剧场建筑》，附照片、平面和剖面图，10 美元；Herman J. Penn《规划和建立礼堂、竞技场、体育馆或多用途建筑百科指南》；《理想剧场》；Ned A. Bowman《剧场规划》；以及 Bowman 与 Glorianne Engel 编《近期剧场建筑出版物》，1.50 美元。并有 Christine Edwards 著、Robert Lewis 作序的 Stanislavsky 研究书，内容涉及“体系”对当代演技与舞台调度的影响，New York University Press 精装 10 美元。
 
-《The Ideal Theatre, The》（序号 526）条目目前仅能核对到“出租或出售”与“订制”（Made to Order）两个价格标签；其中可见价格为 45.00 美元。更完整书目页码/出版社资料在本页与相邻栏目交错，已保留为 OCR 不确定项。
+《The Ideal Theatre, The》（序号 526）条目标有“出租或出售”与“订制”（Made to Order），可见价格为 45.00 美元。
 
 ### 《在版书主题指南》
 

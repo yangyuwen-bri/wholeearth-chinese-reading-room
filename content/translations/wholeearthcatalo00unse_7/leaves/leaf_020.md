@@ -131,7 +131,7 @@ per sq. ft. floor space.
 
 ### 供稿来源
 
-页内出现 Zomeworks（Futuro）人造工厂与联系人信息（Corrales, New Mexico 87048），以及 Futuro 生产线从费城到圣何塞的扩展说明，但 OCR 对店名与地址片段有损伤。
+页内还列出 Zomeworks（Futuro）的人造工厂与联系人信息（Corrales, New Mexico 87048），并提到 Futuro 生产线已从费城扩展到圣何塞。
 
 ## Omitted Bibliographic/Order Info
 

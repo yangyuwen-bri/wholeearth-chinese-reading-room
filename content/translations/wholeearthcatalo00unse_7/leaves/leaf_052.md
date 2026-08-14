@@ -129,7 +129,7 @@ latge-format illustrated 30-page catalog full of tools that Lanaith Yo" 3h yh WY
 
 ### Albert Constantine and Son, Inc. 目录
 
-右栏另有独立目录块。可可靠辨认的文字为：目录 84 页，0.25 美元；Albert Constantine and Son, Inc.，2050 Eastchester Road。其余地址及目录名称在本页 OCR 中与相邻文字交错，无法仅据此页确定。
+右栏另有一份 84 页目录，售价 0.25 美元；Albert Constantine and Son, Inc.，2050 Eastchester Road。
 
 ### Constantine's Wood Catalog
 

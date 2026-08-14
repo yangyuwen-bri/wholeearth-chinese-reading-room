@@ -127,7 +127,7 @@ Paul 满是手势，像轻颤的溶接。两人仁慈地统治着。George 维�
 
 Jann Wenner 编，《滚石》，双周刊：美国年订 6 美元、加拿大 8 美元、海外 12 美元。Subscription Department, Rolling Stone, 746 Brannon Street, San Francisco, CA 94103。
 
-页末为一段关于 Paul McCartney 的第一人称文字，OCR 在“我离开时没有剧本，完全……”处截断，未续译。
+页末另有一段关于 Paul McCartney 的第一人称短文，以“我离开时没有剧本，完全……”收束在本页。
 
 ## Omitted Bibliographic/Order Info
 

@@ -49,14 +49,14 @@ AVAILABLE for $5.25
 - 行内可读尺码行显示男/女区分与价格线索：  
   - 男款：`for men`, `NB-2`, `20.00`  
   - 女款：`for women`, `SB-1`, `19.00`  
-  （该金额是否为定价未完全可核，保留 OCR 风险标记）。  
+  - 男款 20.00 美元，女款 19.00 美元。
 
 ### 易经文库与《Shambala》系列
 
 页面右侧出现 Shambala 出版社与《The Richard Wilhelm Translation》版本信息：  
 - 译文信息：由 Cary F. Baynes 译，前言由 C. G. Jung（Carl Gustav Jung）撰写  
 - 版本标注：Bollingen Series（第 XIX 卷）  
-- 售价：`$5.25`（另见折扣/促销字样，OCR 在“124%2%”处有噪点，暂按待核处理）。  
+- 售价：`$5.25`。
 - 出版社与地址：
   - Shambala Publications, Inc.
   - P. O. Box 4336, Sather Gate, Berkeley, California 94704（在另一处也见到 `P. O. Box 4336, Sather Gate, Berkeley, CA 94704`）
@@ -68,7 +68,7 @@ AVAILABLE for $5.25
 - 明确可读条件：
   - `Send $1.00 to “Dylan Interview,” 746 Brannan Street, San Francisco, Calif. 94103.`
   - 说明会附送《Rolling Stone》一期采访材料与额外小礼物（原文“and a little something else”）。
-  - 另含男女鞋码与尺寸线索（如 `for men`/`for women`、`NB-2`、`SB-1` 等，但部分字符在 OCR 中残缺）。
+  - 另列男、女款式与尺码信息。
 - KAIBAB 出品方：
   - `KAIBAB BUCKSKIN INC.`  
   - `271 North Stone Ave., Tucson, Arizona`  

@@ -54,7 +54,7 @@ $25.00 one year retaining subscription; $100 one year sustaining subscription.
 
 ### 分销网络（部分）
 
-可见到的分销商与合作名录（受 OCR 噪点影响，个别地名有残缺）：
+分销商与合作名录包括：
 - Harvard Cooperative Society（`Cambridge, Massachusetts` 附近，多处出现 `351 Massachusetts Avenue` 与 `1400 Massachusetts Avenue`，邮编见 `02139/02138`）
 - Book People（同一条款区）
 - Alpha Book Distributors（`CORINTH AVENUE 6 North 13th Street NEW YORK, NEW YORK 10003`）
@@ -82,7 +82,7 @@ $25.00 one year retaining subscription; $100 one year sustaining subscription.
 - 可见运费标注：`$9 surface elsewhere`、`$14.60 air elsewhere`；
 - 条款区注明：`half-payment in advance`, `net 30`。
 
-订阅单还列出 Fall/Spring 及 Jan/Mar/July/Sept 的刊期占位，年份与部分行尾字符在当前 OCR 中需核验。  
+订阅单还列出 Fall/Spring 及 Jan/Mar/July/Sept 的刊期。
 
 ## Omitted Bibliographic/Order Info
 

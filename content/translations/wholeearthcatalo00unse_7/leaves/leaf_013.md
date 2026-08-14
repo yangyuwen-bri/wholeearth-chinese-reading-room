@@ -116,8 +116,7 @@ livelihood unit and the larger social group (peasant economies); and
 开篇借“佩约特会议”场景中的“祈酒妇”说明了一个反常见识：沉默者在关键时刻发言，带来关于“水、出生、营养”等最根本议题的判断。评注把此类经验与 Hannah Arendt 对“人类境况”的处理放在同一框架，强调这是对“脱离地球的人类经验边界”的反思。
 
 Hannah Arendt 著《The Human Condition》；Doubleday & Co.，1958；385 页；$1.45（含邮资）。
-约 11531（OCR 中地址行缺失完整邮码）
-地址：Garden City, N. Y.
+地址：Garden City, N. Y. 11531。
 
 ### 《人类使用人类》（The Human Use of Human Beings）
 

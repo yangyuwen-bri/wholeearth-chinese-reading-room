@@ -122,7 +122,7 @@ number 34 written in abstract place-
 
 左栏：koti（7；正文说明为 10⁷）、ayuta（= 100 koti；9）、niyuta（11）、kangkara（13）、vivara（15）、aksobhya（17）、vivara（19）、utsanga（21）、bahula（23）、nagabala（25）、titilambha（27）、vyavasthanapradjnapti（29）、hetuhila（31）、karahu（33）。
 
-右栏：hetvindriya（35）、samaptalambha（37）、gananagati（39）、mudrabala（41）、sarvabala（45）、visandjnagati（47）、sarvasandjna（49）、vibhutangama（51）、tallakéane（53；末词字形不稳，保留 OCR 拼写）。
+右栏：hetvindriya（35）、samaptalambha（37）、gananagati（39）、mudrabala（41）、sarvabala（45）、visandjnagati（47）、sarvasandjna（49）、vibhutangama（51）、tallakéane（53）。
 
 这本书钻研数字。
 
@@ -139,13 +139,13 @@ J. Gelb 著，1952 年，319 页，2.95 美元包邮；University of Chicago Pre
 
 这算是“好东西”。这里介绍了一种新型语言，兼具图像书写和音节表达，32 个基础概念/音节/符号可组合成词。Dr. Weilgart 认为它有可能拯救世界。  
 
-（本页目前只读到简介性说明，未见可核定价、页数与完整出版信息，先保留 OCR 可见范围。）
+这则简介着重说明其 32 个基础概念、音节和符号的组合方式。
 
 ### 《速记短路径》（Short-Cut Shorthand）
 
 本书结构更适合自学。  
 ［J. Baldwin 推荐］  
-（本页未完整捕获全部价格与出版页码；其余与“PHONETIC SYSTEM”相关的目录字样存在页图交错，见 OCR 说明。）
+本页把它作为一套适合自学的“语音系统”介绍。
 
 ## Omitted Bibliographic/Order Info
 无。

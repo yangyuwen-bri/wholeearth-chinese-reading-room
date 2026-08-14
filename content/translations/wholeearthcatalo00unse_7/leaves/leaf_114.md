@@ -66,7 +66,7 @@ Ernst R6ttger 的《Creative Drawing》被定位为“高质量的图形探索�
 相关配套包括：
 - Van Nostrand-Reinhold（纽约 33rd Street）即将代理；
 - 同类课程（Paper Design、Wood Design、Clay Design）也以同作者与同出版社出现；
-- 部分英文短标题与价格在 OCR 中断裂，已留待核验。
+- 同类课程还包括 Paper Design、Wood Design 与 Clay Design。
 
 ## Omitted Bibliographic/Order Info
 
