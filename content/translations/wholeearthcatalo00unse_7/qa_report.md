@@ -66,6 +66,9 @@ labels are not yet treated as orchestrator acceptance.
 - `n89`: complete DjVu object replaced an interleaved machine translation with
   a reconstructed long-form book review, source excerpts, and the separate
   Unity Buying Service catalogue. Product-price pairing remains scan-gated.
+- `n90`: complete DjVu object replaced an interleaved machine translation with
+  a reconstructed Sears/Wards overview, product catalogue, and *Armchair
+  Shopper's Guide* review. Dense product fields remain scan-gated.
 
 ## Remaining Blockers
 
