@@ -75,6 +75,9 @@ labels are not yet treated as orchestrator acceptance.
 - `n101`: complete DjVu object replaced an interleaved machine translation with
   six separated outdoor suppliers and their visible product groups. Kelty's
   price table, addresses, and dense fractional specifications remain scan-gated.
+- `n102`: complete DjVu object replaced an interleaved machine translation with
+  separated Herter's, Haverhill's, and Smilie catalogue regions. Dense product
+  specifications and illustrated tables remain scan-gated.
 
 ## Remaining Blockers
 

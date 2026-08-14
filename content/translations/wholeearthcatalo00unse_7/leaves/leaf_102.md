@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n102; canonical physical leaf: 103 (origFileName=0103.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 100 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 100 in the source pack; scan-visible page number not yet verified in this pass.
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n102_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n102_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0103.djvu` was read directly because the generated Source Pack stopped inside the first Haverhill’s product. XML coordinates and supplier headings were used to separate three catalogue regions. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
 - OCR recovery: 1401 words / 223 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: cross_page_or_section_continuation, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -107,105 +107,67 @@ olde [Suggested by Alan Kalker]
 
 ## Glossary Updates
 
-- `ejector button`：弹出按钮（通常指磁带盒推出装置）。
-- `Cassette Tape Recorder`：卡式录音机。
-- `cross-page`：跨页（目录、列表或文章可能延续到相邻页面）。
+- `rat race`：你争我夺的竞争性生活。
+- `nibbler`：轻咬鱼饵的鱼。
+- `passenger pigeon`：旅鸽。
+- `mule packing`：骡马驮运。
+- `press-top tin`：压盖铁皮罐。
 
 ## Final Translation
 
-皮肤。];
-如何摆脱困境
-比赛和生活费用为 10 美元
-月
-这本名著包含超过 200,000 条信息
-文字，656 页，超过 521 张照片和 304 张
-相当于超过三个的插图
-小说。对于那些人来说是天赐之物
-从事他们不喜欢的工作
-|老鼠赛跑的生活条件
-免费土地并生活在荒野中
-_特定领域并实际赚钱
-我正在做。
-AE7C14 冲锋枪。无线。 2 磅。 4.89 美元
-|
-重新
-|
-,
-{
-免费
-来自：
-黑弗里尔的
-杜欧欧欧欧7
-» coxeXexXeXexXeXexXe) CG
-_ 如果我们为最受推荐的项目颁发奖品，我们必须
-_将其授予赫特，人民的选择（也许 30 个建议-
-_妊娠。 15 条左右的评论）。大家都说自己的价格
-确实很低，而且质量很好，确实不寻常
-_产品范围。赫特确实推出了最多的
-_ 业务中的娱乐目录（1.00 美元，直到您成为
-_ 老顾客； 656 页）。在邮购距离上，它是
-摇晃，所有那些膨胀的夸耀和凶猛的枪和陷阱
-_ 文章和字里行间的爱国主义。我们参观了
-_ 夏天前他们在明尼苏达州的陈列室，
-_ 他们的警卫在场、威胁迹象和伪劣
+### Herter’s
 
-_ 陈列的商品——好吧，近距离观察我们就不笑了。
-_ [顺便说一下，|可以看到人们在做非常相似的事情
-在《整个地球目录》中——我们假装是
-|一项消费者服务，但这只是头脑模糊的幌子
-__ 道歉远离毒品、性和颠覆活动。否
-- 奇怪我对赫特的很奇怪。我们是下面的姐妹
-后付费 1.00 美元
-‘不喜欢。详细解释如何获得-
-黑弗里尔的目录
-华盛顿街584号
-旧金山, CA 94111
-钩子正面或正面
-无柄干扰
-赫特的目录
-1970； 656 页。
-躲在嘴唇后面
-消除唇裂 - 捕捉小咬者
-来自：
-赫特公司
-沃塞卡, 明尼苏达州 56093
-倒钩向上并进 - 不出
-与传统的挂钩一样
-右手图
-无钩
-赫特啤酒酵母
-这粉末雅格和
-麦芽酒酵母可以保留
-大约 30 天。一包
-足以开始 5 -o 10
-加仑啤酒或。啤酒。
-2248 5克Shpg。重量。 8 盎司。 ......$.87
-黑弗里尔的
-漂亮的物品。高租金个人家具，
-Haverhill's 带有某种执行工具
-由于它们的普遍重量和
-方便可以被认为是游牧的。的
-Haverhill 的主要缺点是
-顾客，他们吹嘘很多漂亮的东西
+如果要给“被推荐次数最多的东西”颁奖，奖大概非 Herter’s 莫属。这是人民的选择——也许有三十次推荐、十五篇左右评论。人人都说，在一系列真正不同寻常的商品上，他们的价格确实低，质量也不错。
 
-小物品。 '看。你把它转过来，它
-@揉揉你的背。然后这里有一个缓存
-XeXeXeXeXeXeXexexexexy
-eXeXeXeXeXeXeXeXOX 用于药丸。 |现在一直随身携带。
-你为什么不买一个？只有四十二
-olde [艾伦·卡尔克建议]
-第981章V. MINISCOPE 让您“以一种视角掌控世界”
+Herter’s 还出版业内最有娱乐性的目录：656 页，在你成为老顾客前售价 1 美元。从邮购距离看，那些膨胀的吹嘘、凶猛的枪械和捕兽器文案，以及字里行间的爱国主义，读来都很逗。一个夏天前，我们参观了他们在明尼苏达州的展厅；警卫、威胁性的告示和陈列的粗劣商品都近在眼前——这时我们笑不出来了。
+
+［顺便说，我完全能想象有人用非常相似的话评价《全球概览》：我们假装提供消费者服务，其实只是一个幌子，为毒品、性和颠覆活动作糊里糊涂的辩护。难怪 Herter’s 会让我神经紧张；我们是骨子里的姐妹。］
+
+《Herter’s Catalog》，1970 年，656 页，包邮 1.00 美元。购自 Herter’s, Inc., Waseca, Minnesota 56093。
+
+目录里的项目包括：
+
+- **《How to Get Out of the Rat Race and Live on $10 a Month》**：广告称这本“名著”有二十多万字、656 页、521 张以上照片和 304 幅插图，相当于三部多小说；专为厌恶自己工作、想取得免费土地、住进荒野和隔绝地区并在那里赚钱的人而写。AE7C14，运输重量 2 磅，4.89 美元。
+- **English Bait Hooks**：图示强调钩尖从正面或侧面刺入，没有钩柄干扰；钩尖能绕到鱼唇后方，减少脱钩并钩住轻咬鱼饵的鱼。倒钩向上、向内，不像普通鱼钩那样朝外。
+- **Herter’s Beer Yeast**：Jager 和 ale 用粉状酵母可保存约 30 天，一包足够启动 5 至 10 加仑啤酒。2248，5 克，运输重量 8 盎司，0.87 美元。
+- **古式旅鸽诱鸟**：从前旅鸽很多，在树上挂几只诱鸟便能引来一群又一群。Herter 家的女人会去诱鸟树下，用围裙兜起死鸽，带回家清理。旅鸽是深色肉，略带肝味，配洋葱味道还好；家里孩子多时尤其不坏。诱鸟比哀鸽诱鸟大约三分之一，涂有颜色，腿固定在一小块纹理鲜明的黑胡桃木上。既是装饰，也是少见的美国纪念物。29-1117，运输重量 2 磅，4.89 美元。
+- **明尼苏达白橡木酒桶**：一级明尼苏达白橡木制成，内壁涂蜡；桶体结实严密，适合酿酒，有六道钢箍和侧面桶塞。使用前装满水浸泡 48 小时。
+
+### Haverhill’s
+
+各种精巧小物。Haverhill’s 卖的是一种价格高昂的私人家具和“高管工具”；由于普遍轻便顺手，也可算游牧用品。它最大的缺点是顾客——他们特别爱夸耀这些漂亮玩意：“看，把它转过来就能擦背；这里还有藏药片的暗格。我现在一直带着。你为什么不买一个？才四十二……”［Alan Kalker 推荐］
+
+目录免费索取：Haverhill’s, 584 Washington Street, San Francisco, CA 94111。
+
+- **M. V. Miniscope**：让你“把世界托在掌心”。标准物镜是一具 8 倍、24 毫米、8.2° 广角单筒镜；快速换上另一物镜，便成为 6 倍、18 毫米、11° 超广角镜。两个物镜还可分别作为 3 倍和 5 倍放大镜使用，成像明亮清晰。镜片全部镀膜，棱镜固定，光学品质可比最好的日本相机。仅重约 3¾ 盎司，附拉链盒，Haverhill’s 独家，16.95 美元。
+- **Auto-Mini 折叠自行车，4154**：能放进最小型汽车的行李厢；开车到喜欢的骑行地点，停车后一分钟即可展开。车把和车座可调，同一型号适合男女与儿童；配车灯、发电机、两个刹车、变速系统、行李架和铝轮圈。亮面金属重镀铬，红色漆面，运费到付，99 美元。
+- **Dynamagic 手电筒**：口袋大小，靠反复按压手柄自行发电，不会在最需要时突然没电；适合找保险丝，家里和露营装备中都可放一只。标准型 5.95 美元；8481 宽光束豪华型 9.95 美元。
+
+### Smilie Company
+
+适合对传统骡马驮运和木屋生活感兴趣的人，也适合迷恋旧式物件的人。从牧羊人炉到真正的重型铁煎板，一应俱全；他们还制作大型半永久营地帐篷。［Drew Langsner 评论；Jim Wayman 推荐］
+
+目录 0.10 美元：Smilie Co., 575 Howard Street, San Francisco, CA 94105。
+
+- **Camp Sewing Kit**：真正给露营者用的缝纫包，坚固线、针、剪刀和顶针都装在紧凑耐用的按扣盒里。9130，重约 3½ 盎司，1.25 美元。
+- **Sheepherders Wood Camp Stove**：旧式牧羊人炉，为长期重负荷使用而造。20 号厚铁皮炉体，五节伸缩烟管可收入炉膛；附约 5×8×11 英寸烤箱和烤盘，整体约 12×9×27 英寸，可作为骡马顶载。2-3405，炉重 26 磅，运输重量 35 磅，不包邮，25.00 美元。另有烟管风门和石棉帐篷烟管环。
+- **Press-Top Tins**：防鼠、防松鼠且防水的食品储藏罐，两只恰好能滑入骡马驮箱；外壁涂色后还可用颜色区分食物。因底部焊接，不能直接放火上。3920，5 加仑，约 1.95 美元，不包邮。
+- **防潮 Vinylite 食品袋**：焊接的坚韧 Vinylite 制成，圆形平底可直立，带系绳，确实能保持食物干燥。容量从 1 磅到 25 磅，价格 0.45 至 1.50 美元。
+- **Jumbo Cast Iron Griddle**：供大型骡马驮运队伍使用，煎板面约 13¼×25 英寸，连把手总长约 30 英寸。2-3214，运输重量 28 磅，不包邮，15.95 美元。
 
 ## Omitted Bibliographic/Order Info
 
-- 出现但 OCR 片段过短、模糊或语义不完整的供应商订单信息、完整价格组合及目录索引数据，已在不确定注释中标记。
+- Herter’s 白橡木酒桶的容量和价格、Haverhill’s 顾客引语末尾金额、Smilie 烟管附件的部分分数尺寸未稳定写入正文。
+- Vinylite 食品袋的逐型号容量表压缩为范围；价格与获取含义均保留。
 
 ## OCR / Uncertainty Notes
 
-- 本页信息含多处 OCR 断裂，尤其是广告文案、排版符号与小字；价格、邮政号、地址与联系电话可能有字符级误差。
-- 对存在缺字/重复行的条目未作外推补全；仅在原文可见语句内进行转写。
+- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
+- 生成版 Source Pack 停在 Miniscope 条目开头；直接读取完整 DjVu page object 后，恢复了 Herter’s、Haverhill’s 和 Smilie Company 的完整评论与主要商品。
+- 页面为三栏邮购目录；当前按供应商和商品标题重建，但图片、分数尺寸、库存号和价格仍须扫描逐项核对。
+- “骨子里的姐妹”自我讽刺属于 Herter’s 评论，不是商品广告；已依同栏语义归回书评。
 
 ## Self Critique
 
-- 本页保留原文结构进行逐行机器转写并人工保留，不将历史目录内容重写为现代化列表。
-- 未将可见但高风险片段（尤其是价格与联系信息）进一步规范化，以免误报。
+- 已用完整官方 DjVu 文本替换不可读的逐行机器直译，并分离三个供应商区域。
+- 保留了《全球概览》的自我批评、供应商判断、历史广告文案和可稳定辨认的商品规格；不稳定字段留待高清扫描确认。
