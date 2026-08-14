@@ -43,6 +43,7 @@ record the problem here, then decide whether it is issue-local or reusable.
 | 2026-08-13 | n89 | machine-translated OCR interleaved a long review with a product catalogue and stopped mid-page | separated the two main columns from the complete DjVu object; retained scan gates on product-field pairing | yes: add readability and coverage gates |
 | 2026-08-14 | n90 | machine-translated OCR interleaved two mail-order catalogues with a shopping-guide review and stopped mid-page | rebuilt three reading zones from the complete DjVu object; retained scan gates on product fields | yes: add readability and coverage gates |
 | 2026-08-14 | n100 | machine-translated OCR interleaved three outdoor suppliers and omitted most of the product page | rebuilt supplier and product groups from the complete DjVu object; retained scan gates on specifications | yes: add readability and coverage gates |
+| 2026-08-14 | n101 | machine-translated OCR stopped inside one of six outdoor suppliers and preserved decorative noise | used complete page text plus coordinates to separate suppliers; retained scan gates on tables and fractional fields | yes: add coordinate-aware reconstruction |
 | 2026-08-13 | n56, n58, n60, n61, n63, n66, n70, n78, n92 | generated dossier text stopped at 6,000 characters and hid or interleaved source tails | read complete DjVu page objects; repaired n56/n58/n60/n61/n63/n66/n70/n78, deferred dense n92 until scan access returns | yes: detect dossier truncation |
 
 ## Prompt Change Log

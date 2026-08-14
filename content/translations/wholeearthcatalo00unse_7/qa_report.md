@@ -72,6 +72,9 @@ labels are not yet treated as orchestrator acceptance.
 - `n100`: complete DjVu object replaced an interleaved machine translation with
   reconstructed Ski Hut, REI, and Sierra Designs reviews and product groups.
   Dense specifications and two interleaved parka entries remain scan-gated.
+- `n101`: complete DjVu object replaced an interleaved machine translation with
+  six separated outdoor suppliers and their visible product groups. Kelty's
+  price table, addresses, and dense fractional specifications remain scan-gated.
 
 ## Remaining Blockers
 
