@@ -4,11 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 《简明住宅木工》《简明木工估算》《管道与供暖实用手册》《简明布线》《1968 年国家电气规范》五条书目；木工与估算评论、水泥估算法、管道布线评论与图注、牲畜电击警告、电气规范评论及两段规范节录。
+- Translation coverage: 五条的题名、作者、版本、页数、价格和地址均完整对应；所有成段评论、安全文字、计算步骤、规范目的及接地条款均已翻译。
+- Permitted omissions: 两个低清数表不逐单元格重排；保留其字段、档位、用途和计算步骤，避免猜录不可辨常数。
+
 ## Reasons
 
-- 已核对 7 个标准 H2（Source Pack、Context Notes、Glossary Updates、Final Translation、Omitted Bibliographic/Order Info、OCR / Uncertainty Notes、Self Critique）均存在。
-- Final Translation 覆盖该页可读到的主旨内容与核心条目，未见强行编造。
-- 重复目录类价格与订单信息已放入 Omitted Bibliographic/Order Info，并在 OCR / Uncertainty Notes 里标注可见不确定段。
+- 已直接核对 w2000 扫描，补齐官方 OCR 未收录的右栏与下半页。
+- 旧稿的四段摘要已替换为逐条全文翻译，完整书目信息也已移回阅读正文。
+- 低清表格采用明确、可审计的有限省略，没有把不确定数字编入译文。
 
 ## Required Fixes
 
@@ -16,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 该页仍有少量低清晰度字符与跨列断词，建议保留到高清复核时再核对关键价目或条码式小字。
+- 水泥骨料常数表和分支电路表若用于施工，仍应以原规范和清晰版本为准；阅读室没有声称复刻其全部数值。

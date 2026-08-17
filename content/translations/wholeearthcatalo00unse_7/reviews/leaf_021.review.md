@@ -4,10 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 《与自然共设计》的开篇、三类应用、八行土地用途表、藻类寓言、生态过程论、芒福德长评及署名、短引、两段生物图片文字和完整书目；《没有建筑师的建筑》的副题、两段正文、浴室穹顶图注与完整书目。
+- Translation coverage: 所有正文块、表格行、引语、署名、图片说明、页数、价格和地址均在译文中逐项对应；三栏错序已按扫描版面复原。
+- Permitted omissions: 仅未重复翻译《与自然共设计》书内剖面图中与正文用途表无关的地貌示意标签。
+
 ## Reasons
 
-- `Design with Nature` 与 `Architecture Without Architects` 的书评核心已完整转写；推荐土地用途相关清单已保留为独立段落。
-- `Design with Nature` 与 `Architecture Without Architects` 的页码、价格与出版社字段已从可辨识 OCR 中补齐（含地址行）。
+- 已直接核对 w2000 扫描；旧稿的概括式译介、四行“摘录”表格和漏失长评已全部替换。
+- 八种自然现象和建议用途保持逐行对应，未用泛化清单替代原表。
+- 两本书的书评、图片文字和购买信息边界清楚，评论者署名得到保留。
 
 ## Required Fixes
 
@@ -15,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 该页跨栏/插图区域仍有高密度噪点，若用于成稿展示可再做一次高分辨率逐行核对。
+- 书内剖面图的细小英文地貌标签未纳入阅读正文；不影响页面文章与目录性信息的完整覆盖。
