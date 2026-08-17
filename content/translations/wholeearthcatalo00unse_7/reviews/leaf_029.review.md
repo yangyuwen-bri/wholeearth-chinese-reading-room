@@ -4,11 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 《人类在改变地球面貌中的作用》总评、三部结构、主题清单、亚历山大港图、安德森论述、杂交鸢尾图、水量与蛋白质段、长引语、林地变化图及完整书目；两本蘑菇书的总评、署名、各自书目、鬼伞说明、检索表与食谱。
+- Translation coverage: 三个主条目中的全部成段正文、引语、署名、年份、页数、价格、地址和具独立语义的图注均逐项对应。
+- Permitted omissions: 林地变化四图的低清长图注仅保留地点、四个年份和变化主题，不猜录不可辨统计细节。
+
 ## Reasons
 
-- 已核对 7 个标准 H2（Source Pack、Context Notes、Glossary Updates、Final Translation、Omitted Bibliographic/Order Info、OCR / Uncertainty Notes、Self Critique）均存在。
-- Final Translation 覆盖该页可读到的主旨内容与核心条目，未见强行编造。
-- 重复目录类价格与订单信息已放入 Omitted Bibliographic/Order Info，并在 OCR / Uncertainty Notes 里标注可见不确定段。
+- 已直接核对 w2000 扫描，补齐官方 OCR 中断后的右栏与页面下半部。
+- 旧稿的主题概述已替换为逐段翻译，两本蘑菇书不再整条遗漏。
+- 学者评论、野外指南与食谱保持原有话语身份和操作条件。
 
 ## Required Fixes
 
@@ -16,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 该页仍有少量低清晰度字符与跨列断词，建议保留到高清复核时再核对关键价目或条码式小字。
+- 林地变化图若用于定量研究，仍须查阅原书图注；当前译文没有捏造不可辨数值。
