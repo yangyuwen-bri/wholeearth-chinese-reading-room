@@ -56,6 +56,7 @@ record the problem here, then decide whether it is issue-local or reusable.
 | 2026-08-13 | n56, n58, n60, n61, n63, n66, n70, n78, n92 | generated dossier text stopped at 6,000 characters and hid or interleaved source tails | read complete DjVu page objects; repaired n56/n58/n60/n61/n63/n66/n70/n78, deferred dense n92 until scan access returns | yes: detect dossier truncation |
 | 2026-08-15 | n7 and inherited accepted leaves | accepted review missed summary substitution and a synthesized quotation | suspended the release, added concrete coverage evidence and compression gates, reopened every leaf for scan-level review | yes: require source-to-translation coverage evidence |
 | 2026-08-18 | inherited reviews | 29 accepted reviews still contained required fixes; summary wording survived ratio checks | reject accepted-plus-fixes and detect meta-summary phrases in final translations | yes: enforce conclusion/action consistency |
+| 2026-08-18 | n17-n19 | summaries omitted a newsletter, a 15-row table, eight catalog entries, an entire space-grid entry, and mispaired patent numbers | rebuilt all source blocks from w2000 scans and recorded page-specific coverage evidence | yes: inventories must include tables and every independent catalog entry |
 
 ## Prompt Change Log
 
