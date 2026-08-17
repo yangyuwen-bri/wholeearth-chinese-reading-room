@@ -4,11 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 《大众科学》的完整评论、订阅资料、居住艇与充气屋；《大众机械》项目评论、索取地址和十项目录样例；联邦科学与技术信息交换所的完整服务说明、地址与十一项“快速通报”；《科学》的完整评论、订阅资料、铁路／管道图片说明和动物工具性取食摘要。
+- Translation coverage: 四个条目的评论、署名、刊期、价格、地址、尺寸、报告编号、机构、日期、页数、摘要与手写旁注均有对应中文；旧稿三段概述和错误的“未见订阅价”已全部纠正。
+- Permitted omissions: 目录封面的装饰性栏目标题和图片中的纯装饰构图未逐字复刻；所有清晰可读的项目条目、实质图注与订购信息均已保留。
+
 ## Reasons
 
-- 已核对 7 个标准 H2（Source Pack、Context Notes、Glossary Updates、Final Translation、Omitted Bibliographic/Order Info、OCR / Uncertainty Notes、Self Critique）均存在。
-- Final Translation 覆盖该页可读到的主旨内容与核心条目，未见强行编造。
-- 重复目录类价格与订单信息已放入 Omitted Bibliographic/Order Info，并在 OCR / Uncertainty Notes 里标注可见不确定段。
+- 已依高分辨率扫描逐栏复核；官方 OCR 截断后的七项“快速通报”也已直接从图像恢复。
+- 充气屋的 40×100、27×85 英尺、60 美元和每平方英尺 3 美分等数据均保留，未缩写成笼统介绍。
+- 信息交换所的年增 30,000 份文件、三类服务与价格、纸本和微缩本价格，以及报告样例元数据均逐项对应原文。
 
 ## Required Fixes
 
@@ -16,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 该页仍有少量低清晰度字符与跨列断词，建议保留到高清复核时再核对关键价目或条码式小字。
+- “风帆冲浪”手写旁注有一个帆具修饰词不够清晰；译文已保守处理，若作器材复原应查原报告 AD-686 723。

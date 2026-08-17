@@ -112,27 +112,86 @@ plastics. Abe makes deals.
 
 ## Final Translation
 
-本页是建筑密封与塑料材料的资料页：先给出接缝胶剂性能建议（关节形状、深度/宽度比、底部防护等），然后给出具体产品。  
+### 密封胶——嵌缝材料
 
-文本指出：接缝宽度与深度不能离谱，超出一定比例会加重固化时间与应力，导致失效。理想上，接缝深度不应过半宽度，最小宜 `1/16` 英寸，较大接缝需通过堆叠或填充修正。  
+这家公司同所有主要制造商做生意，因此不必强推某一种产品；他们掌握大量嵌缝材料信息。我们的穹顶接缝采用他们的聚氨酯嵌缝胶，据说效果与硅胶相当、价格只有一半，每管约 2.00 美元。资料：Melvin Dressel，Harold A. Price & Co., Inc.，P. O. Box 1389，Richmond, California 94802。
 
-随后列出若干建筑密封剂/涂层产品：`VULKEM 230`、`Dow Corning 780` 等规格说明，以及三款弹性船用漆（Liquid Seaprene、Gluvit、Sav-cote）对应的 brochure 与地址。  
+VULKEM 230（125）符合联邦规范 TT-S-230，颜色有白、灰、铝色和棕色。这种高回弹密封胶适用于门窗周围、混凝土构件与砖石粘结、铝材粘结；还适合生产露营车和装配镀锌空调风管时金属对金属粘结。VULKEM 230 即使在长期潮湿的水平接缝里也不会脱粘，可选白、灰、铝色和棕色。
 
-末尾给出塑料材料类目录入口（塑料片材、管材、热压成型、玻璃纤维增强树脂片材等），包括 `Cope Plastics`、`Gary Wagerson`、`Rohm & Haas Co.`、`Plasticraft, Inc.` 等供应与技术资料来源。  
+密封胶深度不得超过宽度的一半，最好还要更浅。接缝建议最小宽度为十六分之一英寸；宽度超过一英寸的接缝，建议最大深度为二分之一英寸。胶床深于二分之一英寸，不但性能不好，固化也过慢。更深接缝应垫高或填充至距表面二分之一英寸。良好接缝采用适当宽深比、凹面，并用隔离带阻止底面粘结；差的接缝过深或使胶体三面粘结。
+
+### 三种弹性船漆
+
+都是超级产品，也超级昂贵。
+
+1. **Liquid Seaprene**：随表面移动伸缩，保持防水。H. A. Calahan, Inc.，859 Mamaroneck Avenue，Mamaroneck, New York 10543。
+2. **Gluvit**：10 mil 厚环氧密封层，可施涂于潮湿表面，无须玻璃纤维。Travaco Laboratories，345 Eastern Avenue，Chelsea, Massachusetts 02150。
+3. **Sav-Cote**：多种塑料涂层、嵌缝材料和腻子。Savcote of California，5409 West Adams Boulevard，Los Angeles, California 90016。
+
+### 塑料
+
+- 模型制作塑料片、热压材料、棒材和管材目录：Cope Plastics，1111 West Delmar Avenue，Godfrey, Illinois 62035。
+- 可用普通金属冲压设备成形的玻纤增强热塑性片材 Azdel：Gary Wagerson，G. R. T. L. Co.，No. 1 Gateway Center，Pittsburgh, Pennsylvania 15222。
+- 抗紫外、只需热和压力即可粘合的丙烯酸塑料片：Rohm & Haas Co.，Independence Mall West，Philadelphia, Pennsylvania 19015。
+- 特氟龙、有机玻璃、玻璃纤维、Mylar、乙烯基、泡沫喷枪等完整材料与价格目录：Plasticraft, Inc.，2800 North Speer，Denver, Colorado 80211。
+- 透明丙烯酸次品及完整塑料系列；Abe 可以谈价：Abe Schuster Fiberglass，6211 Telegraph Avenue，Oakland, California 94609。
+- Tedlar 涂层玻璃纤维板：Ornyte Fiberglass Panels，711 Olympic Boulevard，Santa Monica, California。
+
+### 水泥与钢丝网水泥
+
+另见本刊第 24 页《混凝土造船：技术及其未来》，以及第 31 页“混凝土手册”。
+
+西海岸正在建造四分之三英寸厚的钢丝网水泥船，常常不用模板。皮埃尔·路易吉·奈尔维在意大利把这种工艺广泛用于建筑，并鼓励造船者采用。它便宜、坚固，听起来相当容易；在材料试验进行期间，七十座穹顶的实验也即将展开。
+
+资料来源：《Ferro Cement Handbooks》5—7 美元，Saga Technical Associates，P. O. Box 733，Terminal Q，Toronto, Ontario, Canada；钢丝网水泥特别重印本 1.00 美元，National Fisherman，22 Main Street，Camden, Maine 04843；《Popular Science》1968 年 9 月“钢丝网水泥家具”。
+
+保险评级资料摘自劳合船级社试验；样品报告列出密度、弯曲极限应力、拉伸应力、压缩强度与 7、14、28 天养护数据。
+
+### 穹顶接缝胶带
+
+- Fab-Dek：35 mil Hypalon 浸渍氯丁橡胶，三英寸宽卷材，每线英尺 11 美分；胶粘剂每加仑 4.50 美元，工厂交货。Miracle Adhesive Corp.，27279 Industrial Boulevard，Hayward, California 94545；或 250 Pettit Avenue，Bellmore, Long Island, New York 11710。
+- 异酞酸树脂玻璃纤维带：TAP，1710 East 12th Street，Oakland, California 94606。
+- 一百多种压敏胶带，《工业用胶带》：3M Company，320 Shaw Avenue，South San Francisco, California。
+
+### Stack Sacks
+
+土坯砖与现浇混凝土墙之间，还有这种方法：取粗麻袋，在里面掺入碎布，再填砂和少量混凝土；把干袋像砖一样砌放，用钢筋穿袋向下钉固，设置门窗洞口，随后用软管或喷壶湿润整墙，使其固化（也可用浸沥青的粗麻袋作屋面瓦）。在湿混凝土上抹平，便得到光滑墙面。
+
+Holly Baer 提供的主要资料来源：Dicker Stack Sack International，2600 Fairmont Street，Dallas, Texas 75201。他们正在为自动填袋设备申请专利。本地特许经营商大概可以把 Stack Sack 送到门口；也有人把袋子浸水后再砌墙。
+
+### 干浇混凝土（Dry Pour Concrete）
+
+Syntercrete 是一种新工艺：混凝土在模板里干拌，之后再加水。用水量少，因此能获得良好的模板细节和高强度。资料：Syntercrete Corporation，1300 Sansome Street，San Francisco, California 94111。
+
+### 膜材
+
+- 耐候 Mylar，带紫外抑制剂，据称可在户外使用五年；每平方英尺约 19 美分：Sears 农场目录。
+- “Spooky Mylar”：单面镀铝。作为窗户时，你能看见自己的倒影，同时又能看见室外树木；不抗紫外线。Transparent Products Corp.，P. O. Box 15924，Los Angeles, California 90015；收件人 A. Robert Suba。
+- 透明乙烯基，每平方英尺约 6 美分：Wards 农场目录。
+- 涂层织物（防撕裂尼龙、涂乙烯基玻纤、硅橡胶涂层 Dacron 等），《工业用涂层织物》：3M Company，Film & Allied Products Division，1601 South Shamrock Avenue，Monrovia, California 91016。
+- 涂层尼龙，《保护覆盖织物》《工业用工程织物》：West Point Pepperell，Industrial Fabrics Division，111 West 40th Street，New York, New York 10018。
+- 《Dial-A-Spec Coated Fabrics》：Flexifirm Products，2300 North Chico Avenue，El Monte, California 91733。
+- 降落伞：直径 24 英尺、白色、状况良好，22.50 美元另加邮税：Security Parachute Co.，P. O. Box 3096，San Leandro, California 94578。
+
+### 杂项
+
+- **天窗**：透明或不透明丙烯酸天窗价格合理，若只买塑料部分、不含框架则更便宜；30 英寸圆形泡罩 20.00 美元。Wasco Skydomes，Western MacArthur Co.，460 Park Avenue，San Jose, California 95110。
+- **穹顶用胶合板**：Duraply 平板挂墙板是外用花旗松胶合板，表面覆酚醛树脂纤维，适合严酷天气；保证建筑寿命期内不分层。U. S. Plywood Corp.，777 Third Avenue，New York, New York 10017；或查黄页经销商。
+- **吸能材料**：用于吸收声音和振动的聚合物橡胶泡沫。Norton Research Corp.，70 Memorial Drive，Cambridge, Massachusetts 02142。
+- **塑料铰链**：这种坚韧铰链屈折一百万次仍不断；卷装，每英尺约 30 美分。《Polyhinge》：Stokes Molded Products，75 Taylor Street，Trenton, New Jersey 08604。
+- **锁钥挤出型材**：在木板或金属板中安装玻璃或塑料窗的简便方法。Alasco Rubber & Plastics Corp.，839 Malcolm Road，Burlingame, California。
+- **Laminite 纸板**：异常坚韧、阻燃而轻。样品：Laminite Division，Tri-Wall Containers, Inc.，One Dupont Street，Plainview, New York 11803。
 
 ## Omitted Bibliographic/Order Info
 
-- 接缝类资料：`VULKEM 230 (125)`；`Dow Corning 780`；`Melvin Dressel VT`（`P.O. Box 1389`, Richmond, CA 94802）；`Harold A. Price & Co., Inc.`（地址同前一组）。  
-- 三款 boat paint brochures：  
-  - Liquid Seaprene（H. A. Calahan, Inc.，Mamaroneck, NY 10543）  
-  - Gluvit（Travaco Laboratories，Chelsea, MA 02150）  
-  - Savcote（Sav-cote of California，Los Angeles, CA 90016）  
-- 塑料资料库与样品渠道：`Cope Plastics`（1111 West Delmar Ave, Godfrey, IL 62035）；`Gary Wagerson`（No. 1 Gateway Center, Pittsburgh, PA 15222）；`Rohm & Haas Co.`（Independence Mall West, Philadelphia, PA 19015）；`Plasticraft, Inc.`（2800 North Speer, Denver, CO 80211）。  
+- 无。密封胶、船漆、塑料、水泥、胶带、袋墙、干浇混凝土、膜材与杂项供应信息均已保留。
 
 ## OCR / Uncertainty Notes
 
-页中大量符号和拼写断裂，`Factory seconds`、`AIB` 等词条可能是样品促销信息；当前仅保留可辨文本。  
+- 官方 OCR 在透明丙烯酸次品条目中断；其余两栏按 w2000 扫描恢复。
+- 劳合评级表的微小数值仅保留测试字段与时间点，未猜录低清单元格。
 
 ## Self Critique
 
-该页“产品页”转译以条目为主，未补充任何未见参数。若用于采购，请以原图核对每个产品规格的精确型号。  
+- 旧稿只列页面左栏少数产品，漏掉约三分之二页面；本稿已恢复所有可读材料类别与供应来源。
+- 历史产品规格和地址按原刊保留，不代表当前可采购。

@@ -4,11 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 《万物运作之道》的完整评论、书目与三组技术图主题；《工程设计导论》的完整评论、章节清单、山间营地供水案例（备选方案、尺寸、成本、塑料管选择与流量公式）、书目，以及图 6.2、图 3.7 的图注。
+- Translation coverage: 上述正文、数据、单位、价格、地址、公式与图注均已逐项译出；原先只保留主旨的概述已由扫描级完整翻译替换。
+- Permitted omissions: 上方大型技术图中极细小的部件标字未逐字抄录；其图示主题、技术对象与可辨识的实质信息均已保留，不影响本页正文论证和书目用途。
+
 ## Reasons
 
-- 已核对 7 个标准 H2（Source Pack、Context Notes、Glossary Updates、Final Translation、Omitted Bibliographic/Order Info、OCR / Uncertainty Notes、Self Critique）均存在。
-- Final Translation 覆盖该页可读到的主旨内容与核心条目，未见强行编造。
-- 重复目录类价格与订单信息已放入 Omitted Bibliographic/Order Info，并在 OCR / Uncertainty Notes 里标注可见不确定段。
+- 已将 Final Translation 与高分辨率扫描逐栏核对，两个书目条目及供水案例的全部可读正文均有对应译文。
+- 供水案例中的 50 加仑、100 英尺、15 分钟、各材料单价和面积公式均与原页一致，未用概述代替推导过程。
+- 书名、作者、年份、页数、价格、出版社地址和两条图注均已保留。
 
 ## Required Fixes
 
@@ -16,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 该页仍有少量低清晰度字符与跨列断词，建议保留到高清复核时再核对关键价目或条码式小字。
+- 上方大型百科式技术图含大量微型标字；若后续要把这些图作为独立技术资料使用，仍应直接参照原扫描。

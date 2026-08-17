@@ -4,11 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 《新科学家》的完整推荐语、订阅信息、五则内页标题／摘录；《科学美国人》的推荐语、订阅信息、肥皂泡配方警告、肥料污染、动物学习及插图文字；《产品工程》的完整推荐语、订阅信息、海底居所、纺织新工艺、电子麻醉和机械图标字。
+- Translation coverage: 三个期刊条目的评论、署名、价格、地址，以及所有可读新闻摘录、统计数字、供应信息、警告和图注均已有对应中文；旧稿三段概述已全部替换。
+- Permitted omissions: 《产品工程》液压车辆图中无法可靠辨读的一行极小号图注未猜译；清晰可辨的部件标字均已译出。
+
 ## Reasons
 
-- 已核对 7 个标准 H2（Source Pack、Context Notes、Glossary Updates、Final Translation、Omitted Bibliographic/Order Info、OCR / Uncertainty Notes、Self Critique）均存在。
-- Final Translation 覆盖该页可读到的主旨内容与核心条目，未见强行编造。
-- 重复目录类价格与订单信息已放入 Omitted Bibliographic/Order Info，并在 OCR / Uncertainty Notes 里标注可见不确定段。
+- 已按高分辨率扫描的左上、左下、右上、右下四个内容区逐项核对，而非依赖交错的 OCR 顺序。
+- 肥料污染段的 70%、300%、1,400% 和 1,000 万吨，以及全息存储的 1,000 幅等关键数字均与扫描一致。
+- 三本期刊的刊期、年价、订购地址和肥皂泡溶液的危险警告与供应信息均已保留。
 
 ## Required Fixes
 
@@ -16,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 该页仍有少量低清晰度字符与跨列断词，建议保留到高清复核时再核对关键价目或条码式小字。
+- 液压车辆图最小号说明仍不适合作精确设备复原依据；如需工程用途应直接查阅原扫描或原期刊。

@@ -4,11 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 《太阳能的直接利用》的完整评论、两段技术引文、书目和图 11、18、29、32；《设计的设计》的完整评论、五则设计原则、现代技术引文、书目、桥梁图注、发明者表、多轴钻床案例与钢桩共振案例。
+- Translation coverage: 两则评论及其署名、全部可读引文、数字、单位、价格、地址、技术步骤、装置标字和图注均已有对应中文；旧稿的四段概述已全部替换。
+- Permitted omissions: 图 32 的少数引线位置和装饰性机械剖面线未以文字复刻；装置各层、流向和排水功能均已译出，无实质正文省略。
+
 ## Reasons
 
-- 已核对 7 个标准 H2（Source Pack、Context Notes、Glossary Updates、Final Translation、Omitted Bibliographic/Order Info、OCR / Uncertainty Notes、Self Critique）均存在。
-- Final Translation 覆盖该页可读到的主旨内容与核心条目，未见强行编造。
-- 重复目录类价格与订单信息已放入 Omitted Bibliographic/Order Info，并在 OCR / Uncertainty Notes 里标注可见不确定段。
+- 已把 Final Translation 与高分辨率扫描按上半页太阳能、下半页设计工程两个区域逐栏核对。
+- 太阳热水器和蒸馏器的尺寸、分层、材料、流路与图号均保留；供热数字和碘光解引文未被压缩为结论。
+- 设计部分的全部原则、桥梁稳定性说明、幽默表格、钻床机构和钢桩共振论证均完整译出。
 
 ## Required Fixes
 
@@ -16,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 该页仍有少量低清晰度字符与跨列断词，建议保留到高清复核时再核对关键价目或条码式小字。
+- 图 32 标注密集；若据此复原装置，应同时查看原扫描确认每一条引线的几何位置。

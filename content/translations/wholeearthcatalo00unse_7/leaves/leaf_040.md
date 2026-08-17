@@ -112,23 +112,91 @@ make the dome; can be used up to about 35’ diameter.
 
 ## Final Translation
 
-《The Dymaxion World of Buckminster Fuller》是更偏实践导向的图解手册，聚焦 Fuller 的穹顶、几何、车辆与统计图系；文字评价其对想快速查找具体项目最有帮助。  
+## “庇护所与土地利用”中先前列出、至今仍然喜爱的项目
 
-《Japanese House》条目强调其兼具美学与可实践性，适合想建造或理解日本传统居住理念的读者；同时推荐 `Dover Publications` 的《Japanese Homes and Their Surroundings》作为更平实入门。  
+### 《巴克敏斯特·富勒的戴马克森世界》（The Dymaxion World of Buckminster Fuller）
 
-随后页中出现《The Japanese House: A Tradition for Contemporary Architecture》（Heinrich Engel）与《Fuller Sun Dome Glue-nailed Roof Trusses》说明，后者强调胶钉式木桁壳结构可用较小木条、低成本快速跨越跨度，并可扩展至泳池顶、圆顶/其他覆盖形态。  
+这是富勒著作中图像最丰富的一本（罗伯特·马克斯撰写，内容是富勒的工作）。因此，若你正在研究他的具体项目，例如穹顶、几何、汽车、人口地图和图表等，它最直接有用。
+
+罗伯特·W. 马克斯（Robert W. Marks）；1960 年，232 页；含邮资 12.50 美元。订购：Southern Illinois University Press，6000 West Grand，Carbondale, Illinois 62903；或 WHOLE EARTH CATALOG。
+
+### 《日本住宅》（The Japanese House）
+
+不用煽情，也不用异国情调，我们仍然同意：日本人比任何人都更会造房子（他们还有世界上增长最快的经济，不过那是另一个故事——还是同一个？）。若你准备自己建房，也不介意从中获得灵感，这本书就是费尽心力为你做的。它像一件巨大的圣诞礼物，塞满诱人的照片、图解和技术细节；一切似乎都伸手可及：“我也做得到。”它能治疗那种“什么也做不成，因为一切都该死地太大了”的工业忧郁。
+
+［Zen Mountain Center 推荐］
+
+27.50 美元也许让你噎住；那就买 Dover 出版、2.50 美元的《日本住宅及其环境》，里面是怎样亲手做出可爱环境的直接资料。
+
+《日本住宅——当代建筑的传统》：海因里希·恩格尔（Heinrich Engel）；1964 年，495 页；含邮资 27.50 美元。订购：Charles E. Tuttle Co., Inc.，Rutland, Vermont 05701；或 WHOLE EARTH CATALOG。
+
+《日本住宅及其环境》：爱德华·S. 莫尔斯（Edward S. Morse）；1886、1961 年，372 页；Dover 版含邮资 2.70 美元。订购：Dover Publications, Inc.，180 Varick Street，New York, New York 10014；或 WHOLE EARTH CATALOG。
+
+### 富勒太阳穹顶（Fuller Sun Dome）
+
+这是最容易取得的一套测地穹顶图纸。5 美元包含施工许可。它原为游泳池罩设计，图纸规定使用木条和廉价聚乙烯表皮；你也可以改用胶合板、降落伞或汽车车顶等其他材料。体系非常简单：两种三角形组成整个穹顶，最大直径约 35 英尺。
+
+［肯·巴布斯（Ken Babbs）推荐］
+
+《Geodesic Sun Dome》，1966 年；含邮资 5.00 美元。订购：Sun Dome，Popular Science Monthly，355 Lexington Avenue，New York, New York 10017。
+
+### 胶钉屋架（Glue-nailed Roof Trusses）
+
+桁架可以用相对较小的木件制成，轻而便宜，因此比实心木梁更经济地跨越距离。十四种不同桁架的完整清晰图纸，每种 0.50 美元。另有各种建筑技术出版物，以及一套每册 0.15 美元的小册子，主题包括木材选择、烟囱与壁炉、管道等。
+
+出版物目录免费索取：Small Homes Council—Building Research Council，University of Illinois，Urbana, Illinois。
+
+### ★《元素之怒》（The Elements Rage）
+
+宇宙能量偶尔会有比平常更大的部分压在人类事务上。社区死亡，然后重生；而事后的叙述者会告诉我们大灾难是什么面貌。这里有令人毛骨悚然的照片、勇敢的第一手记述、被锤打的悲剧，以及一张七页能量梯度图：从棒球本垒打一路到 M31 星系的质量能量。经典之作。
+
+［乔丹·贝尔森（Jordan Belson）推荐］
+
+龙卷风像雷声一样，可以从数英里之外听见。它接近时，有一种奇特的呼啸声，很快增强成猛烈轰鸣，最终变成震耳欲聋的渐强音。呼啸风声之所以如此响亮，是因为倒塌建筑物、树木和其他物体不断撞击；风声本身很少听见。
+
+弗兰克·W. 莱恩（Frank W. Lane）；1965 年，346 页；含邮资 7.50 美元。订购：Chilton Books，401 Walnut Street，Philadelphia, Pennsylvania 19106；或 WHOLE EARTH CATALOG。
+
+### ★ 野生食物（Wild Foods）
+
+有人曾挑战尤尔·吉本斯（Euell Gibbons），要他从纽约中央公园采集一顿野餐。觅食几小时后，他到挑战者公寓洗洗切切，端出丰盛美味的一餐，邻居们都来品尝。
+
+吉本斯采集野生食物多年，写过三本书：《追踪野生芦笋》（陆地食物）、《追踪蓝眼扇贝》（海鲜）和《追踪有益健康的草药》。营养丰富的野生可食物就在四周；吉本斯会告诉我们它们长什么样、到哪里找，以及美食式做法：野米、香蒲、仙女穗花、豆瓣菜和落花生；扇贝、海藻、蛤蜊、海带汤；聚合草、苦薄荷、野山参。
+
+《追踪有益健康的草药》，1966 年，303 页，含邮资 7.50 美元；《追踪野生芦笋》，1962 年，303 页，含邮资 7.95 美元；《追踪蓝眼扇贝》，1964 年，303 页，含邮资 7.95 美元。均购自 David McKay Co., Inc.，750 Third Avenue，New York, New York 10017；或 WHOLE EARTH CATALOG。
+
+### ★《National Fisherman》
+
+缅因州出版的月报，报道普通钓鱼、造船、航海、海洋污染和海事新闻。他们在当前钢丝网水泥热潮中贡献很大，因为最早广泛宣传这种低成本技术。最近每期都有一些关于钢丝网水泥的新内容。
+
+［保罗·温盖特（Paul Wingate）推荐］
+
+一年 4.00 美元。订购：The National Fisherman，22 Main Street，Camden, Maine 04843。
+
+### 风力发电（Electricity From the Wind）
+
+这是我们所知唯一可以买到的商用风力发电机。听起来、看起来都不错。有人用过吗？
+
+365.00 美元，爱荷华州苏城工厂交货。Dyna Technology, Inc.，P. O. Box 3263，Sioux City, Iowa。
+
+### 太阳蒸馏器（Solar Stills）
+
+霍勒斯·麦克拉肯（Horace McCracken）制造利用太阳热量净化海水、硬水或微咸水的太阳蒸馏器。
+
+它由一个或多个浅而保温、覆玻璃的盘组成。进水端让水进入一端，出水管维持浅水位，并让夜间溢流冲走盐分。阳光穿过玻璃罩，温暖盘内水；蒸气上升，在玻璃罩上凝结，再流入集水槽。
+
+价目表（容量为加仑／周；尺寸为 5¾ 英尺高、29 英寸长）：1 加仑，15 英寸宽，11.50 美元；3½ 加仑，32 英寸宽，27.50 美元；5 加仑，46 英寸宽，37.50 美元；7 加仑，62 英寸宽，47.50 美元；10 加仑，84 英寸宽，60.00 美元；15 加仑，118 英寸宽，80.00 美元；20 加仑，168 英寸宽，115.00 美元。均为圣迭戈工厂交货、整机可用价格。
+
+每日超过 3 加仑，可把更小单元串联或并联；每日超过 10 加仑的安装，请另行询价。
 
 ## Omitted Bibliographic/Order Info
 
-- 《The Dymaxion World of Buckminster Fuller》：Robert W. Marks，1960；232 pp.；$12.50 postpaid；Southern Illinois University Press, 6000 West Grand, Carbondale, Illinois 62903。  
-- 《The Japanese House》：Edward S. Morse，1886, 1961；372 pp.（页码行存在双年表述，待核实）；售价/渠道与《Homes and Their Surroundings》说明交叉出现，需核实。  
-- 《The Japanese House—A Tradition for Contemporary Architecture》：Heinrich Engel，1964；495 pp.；$2.50 postpaid，Charles E. Tuttle Co., Inc., Rutland, Vermont 05701；Dover Publications, 180 Varick Street, New York, N.Y.10014。  
-- 《Fuller Sun Dome Glue-nailed Roof Trusses》：文中出现 `50¢ each`, circulars `15¢ each`, `plans in 14 types`, `construction license $5 includes` 等信息，具体卷号与出版者未完整；`or WHOLE EARTH CATALOG` 可见。  
+- 无。十个独立条目的正文、评论、书目、价格、地址和价目表均已保留。
 
 ## OCR / Uncertainty Notes
 
-部分数字与英文标题边界重叠（如 `$2.70` 与 `Dover`、`Japanese Homes...`），为避免误配使用待核实标记。  
+- 官方 OCR 在屋架说明中断；页面其余六条按 w2000 扫描恢复。
+- 扫描显示 2.50 美元是文中对 Dover 书的概略推荐价，正式书目价为含邮资 2.70 美元；两者均按原页保留。
 
 ## Self Critique
 
-页面混有中文译文段与英文说明，含“previously listed”引用，已按文字可读度保守整理。  
+- 旧稿只概括前三项，漏掉全页大多数条目；本稿已恢复十条记录并纠正两本日本住宅书的价格归属。

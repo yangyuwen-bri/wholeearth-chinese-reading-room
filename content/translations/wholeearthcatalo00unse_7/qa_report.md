@@ -8,8 +8,8 @@ failure on `leaf_007`.
 - Translation files: 132/132.
 - Review files: 132/132.
 - The previous `accepted=132` claim is withdrawn.
-- Current orchestrator states: `accepted=37` (`leaf_000`–`leaf_036` rebuilt or
-  scan-audited and independently re-reviewed), `self_checked=95` pending
+- Current orchestrator states: `accepted=45` (`leaf_000`–`leaf_044` rebuilt or
+  scan-audited and independently re-reviewed), `self_checked=87` pending
   scan-level coverage review.
 - The Fall 1969 release builder is intentionally blocked until every accepted
   review contains concrete source-to-translation coverage evidence.
@@ -42,7 +42,7 @@ The new release gate checks:
 The first run correctly blocked the release with 322 findings; after closing
 `leaf_000`–`leaf_013`, the original gate still blocked with 286 findings. After
 strengthening the language and review-consistency checks and closing through
-`leaf_036`, the current gate blocks with 264 findings. These counts mix
+`leaf_044`, the current gate blocks with 236 findings. These counts mix
 status/evidence failures with content-risk signals; neither is a count of bad
 pages. A conservative compression screen identified 39 high-risk leaves;
 all 132 leaves nevertheless remain in the coverage-review scope.

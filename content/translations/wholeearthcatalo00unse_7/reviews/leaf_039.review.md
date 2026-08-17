@@ -4,11 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: Ashley 炉具评论、燃烧与恒温原理、价格和三种订购来源；新能源总评、署名、七卷价格及太阳能图；风车评论、署名、三档价格和双地址；Sager 评论、转盘例、书目与地址。
+- Translation coverage: 四个独立条目的全部成段正文、署名、技术参数、价格、卷号、地址和图注均逐项对应。
+- Permitted omissions: 无。
+
 ## Reasons
 
-- 已核对 7 个标准 H2（Source Pack、Context Notes、Glossary Updates、Final Translation、Omitted Bibliographic/Order Info、OCR / Uncertainty Notes、Self Critique）均存在。
-- Final Translation 覆盖该页可读到的主旨内容与核心条目，未见强行编造。
-- 重复目录类价格与订单信息已放入 Omitted Bibliographic/Order Info，并在 OCR / Uncertainty Notes 里标注可见不确定段。
+- 已直接核对 w2000 扫描，补齐官方 OCR 中断后的两个条目。
+- 旧稿的两项摘要已替换为四条逐段译文，设备说明和价目不再移至省略区。
+- 评论、技术原理和销售资料保持各自边界。
 
 ## Required Fixes
 
@@ -16,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 该页仍有少量低清晰度字符与跨列断词，建议保留到高清复核时再核对关键价目或条码式小字。
+- 炉具和风车资料为历史销售文本，实际使用须遵循当代规范。
