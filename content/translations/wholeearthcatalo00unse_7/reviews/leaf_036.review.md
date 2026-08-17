@@ -4,11 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 绿拇指评论与书目；土壤测试、四种养分和套件信息；修剪评论、杏树节录与书目；山羊长评、署名、两项书目和选羊节录；乡村工业总评、社会经济长引、工具清单、公司史、书目及水锤泵原理和五项安装说明。
+- Translation coverage: 五个主条目的全部成段正文、第一人称经验、署名、数值、价格、地址、书目信息与技术步骤均逐项对应。
+- Permitted omissions: 无。
+
 ## Reasons
 
-- 已核对 7 个标准 H2（Source Pack、Context Notes、Glossary Updates、Final Translation、Omitted Bibliographic/Order Info、OCR / Uncertainty Notes、Self Critique）均存在。
-- Final Translation 覆盖该页可读到的主旨内容与核心条目，未见强行编造。
-- 重复目录类价格与订单信息已放入 Omitted Bibliographic/Order Info，并在 OCR / Uncertainty Notes 里标注可见不确定段。
+- 已直接核对 w2000 扫描，补齐官方 OCR 未收录的右栏及页面下部。
+- 旧稿的标题概述已替换为逐段翻译，乡村工业不再整条遗漏。
+- 园艺、畜牧和社会经济评论保持各自来源与限定。
 
 ## Required Fixes
 
@@ -16,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 该页仍有少量低清晰度字符与跨列断词，建议保留到高清复核时再核对关键价目或条码式小字。
+- 历史农牧与水泵安装材料不替代当代专业规范或现场指导。

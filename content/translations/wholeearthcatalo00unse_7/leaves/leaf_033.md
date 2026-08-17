@@ -112,29 +112,87 @@ and vegetables, plus occasional information
 
 ## Final Translation
 
-《Seeds and Trees by Mail》与“美国农业局/大学/州级分发项目”是本页核心。页首说明：部分农业资料可按需免费寄送（每类一般不超一份，需合理说明与申请）；超出后可能涉及审批。  
+### 邮购种子与树木（Seeds and Trees by Mail）
 
-条目列举了大量可邮寄的农业出版物，例如草地恢复、草本种子、蔬菜与花卉种子、果树栽培、农场合作社贷款等，并给出大量 `PA`、`L`、`AB` 等编号。  
+种子是设计精巧的指令胶囊，能使各种元素有秩序地重新排列。园丁在过程中只扮演一个小角色——种子会命令土壤养分、空气和水，严格按照种子包装上的描述组织起来。这就是自动化，也是这个星球交给我们使用的一样东西。请写信索取目录。
 
-此外，页中还出现 `Available publications of the State of California`、`Agricultural Publications` 等栏目，提示存在州级目录与再分发渠道；以及 `Stark Brothers’ Lettuce and ...`、`University of California’s Agricultural Experiment Station` 等具体渠道名。  
+#### 蔬菜与花卉种子；有机肥料和杀虫剂
 
-尾部出现“Wildflower & Wild Tree Seeds”“Clyde Robin’s seed catalog”等零售型目录提示，补充读者在非普通蔬果之外的选购。  
+Natural Development Company，Bainbridge, Pennsylvania 17502。Tri-excel DS 是一种无毒植物保护剂，可用于花卉、蔬菜、浆果和树木；它由磨碎的花朵、树脂等制成，而且确实有效。这家是最好的综合种子来源。
+
+#### 有机种子
+
+“未经处理、天然、老式、非杂交、未杂交。”几位园丁反映，这些种子的发芽情况不如杂交种。Vita Green Farms，P. O. Box 878，Vista, California 92083。
+
+#### 邮购矮化、半矮化和普通果树
+
+这是一家占地 3,000 英亩、已有 150 多年历史的苗圃。Stark Brothers’ Nurseries & Orchards，Louisiana, Missouri 63353。
+
+#### 加利福尼亚州戴维斯总部森林苗圃
+
+Rte. 1，Box 1410，Davis, California 95616。这里是加州为重新造林、防侵蚀和防风林分发树木的中心。申请表很长；他们按 100—1,000 株以上的数量邮寄松树、柏树、冷杉、红杉和桉树。一年生裸根苗（4—10 英寸高）最低可到每 500 株 10 美元。
+
+#### W. Atlee Burpee Co.
+
+并非有机种子，但蔬菜和花卉种子目录大概最齐全；服务非常迅速高效。Riverside, California 92502。
+
+#### Stokes Seeds, Inc.
+
+大型完整目录，与 Burpee 类似。Box 15，Ellicott Street Station，Buffalo, New York 14205。
+
+#### 野花与野生树木种子
+
+园丁、食物种植者——也许还有猎人和采集者——都应该看看克莱德·罗宾（Clyde Robin）的种子目录。它不仅有不需太多照料就能生长的野花，还有许多稀奇古怪的花、树、灌木、香草和蔬菜种子，偶尔也介绍它们的栽培、外观和用途。
+
+“路边特别混合种”能在你以为只有杂草才能生长的地方生长，让夏日景象真正绚丽。花开过后把它们全部割到地面，加利福尼亚罂粟又会长回来、再次开花。种点猫薄荷，让你的猫兴奋一下——它很容易从种子长成，但幼苗要放在小保护笼里，否则那些像嗑了药的猫会把幼株整个蹭掉。
+
+目录 0.25 美元。Clyde Robin，P. O. Box 2091，Castro Valley, California 94546。
+
+［大卫·诺顿（David Noton）推荐并评介］
+
+### 农业出版物（Agricultural Publications）
+
+农业、畜牧、林业、土壤科学等免费资料。一般申请时，每种最多寄一册、合计十种；若要更多，必须说明理由。
+
+美国农业部出版物：
+
+- 《草》（年鉴），2.00 美元，YB 1948。
+- 《南部大平原的保土牧草》，1955，F 2093。
+- 《草为自身生长、饲料、合理土地利用和土壤保持制造食物》，1960，AB 223。
+- 《林业用途贷款》，1964，PA 624。
+- 《水资源开发与土壤保持贷款》，1965，PA 554。
+- 《服务低收入乡村家庭的合作社贷款》，1965，PA 662。
+- 《家庭农场主游憩企业贷款》，1963，PA 563。
+- 《乡村团体贷款》，1963，PA 560。
+- 《南瓜与笋瓜种植》，1963，F 2086。
+- 《食用甜菜种植》，1965，L 360。
+- 《菊芋种植》，1959，L 116。
+- 《西洋菜种植》，1959，L 448。
+- 《莴苣及其生产》，1962，AH 221。
+
+《现有出版物目录》0.40 美元。订购：U. S. Department of Agriculture，Washington, D.C. 20250。
+
+加利福尼亚大学农业试验站也有一批免费小册子：加州居民可索取 20 种，外州居民可索取 10 种。免费索取：Agricultural Publications，207 University Hall，University of California，Berkeley, California 94720。
+
+其中包括：
+
+- Leaf 116《野生稻》：把野生稻作为食物种植，或用于改善野禽保护区。
+- Leaf 131《稻作水管理》：为稻农改进整地与灌溉实践提供建议。
+- Leaf 161《加利福尼亚水稻品种与种子选择》：说明加州主要水稻品种，包括长粒品种试验；供稻农及碾米、营销行业人员使用。
+- C 408《边界灌溉法》：设计、施工和使用采用边界控制沟的灌溉系统。
+- C 527《鲜销草莓的处理》：讨论为了保持鲜销草莓品质该做与不该做的事情。
+- Leaf 137《核桃的营养与施肥》：讨论核桃所需土壤养分，以及怎样纠正过量或缺乏。
 
 ## Omitted Bibliographic/Order Info
 
-- `Seeds and Trees by Mail` 与若干 USDA 子目录：未见统一定价与单本页码，均为目录性质条目；多处有单价、编号、数量信息（如 $10/box、$40 等）但局部与标题行难以逐条配对，待核实。  
-- 可识别机构与地址：  
-  - Wm. Atlee Burpee Co., Riverside, CA 92502；  
-  - Davis Headquarters / Box 1410, Davis, CA 95616；  
-  - Forest Nursery, Rte. …（地址行有噪点）；  
-  - Stokes Seeds, Inc., … Ellicott St.…（地址未完整）；  
-  - University of California, Berkeley (Station / 207 University Hall) 与相关发行说明（部分行残缺）。  
-- 文本中出现“20 publications for non-California residents / 70? for Californians”等配额说明，属于条件信息。  
+- 无。六家种苗来源、完整野花评论、十二项 USDA 资料和六项加州大学资料均已保留。
 
 ## OCR / Uncertainty Notes
 
-页内存在严重 OCR 分割与列内重叠（尤其机构名与编号），且多行出现缺字。  
+- 官方 OCR 在克莱德·罗宾条目中段结束；余下评论和加州大学资料按 w2000 扫描恢复。
+- USDA 目录中的 `L 360` 价格栏与相邻版面重叠，未把扫描中的 `$ .40` 误配给单本；该金额属于《现有出版物目录》。
 
 ## Self Critique
 
-此页偏偏数据页，未逐条逐条补齐价格与邮寄规则；保留“待核实”是防止误配。若按采购页面出片，建议再对照高清图提取每行完整字段。  
+- 旧稿把数据页缩成目录概述，并以“待核”省略清晰可读的地址与申请规则；本稿已逐条恢复。
+- 所有配额、编号与价格都按扫描版面重新绑定，没有沿用 OCR 的错列结果。

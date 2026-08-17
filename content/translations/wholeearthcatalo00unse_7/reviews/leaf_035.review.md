@@ -4,11 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 《有机园艺与农耕》总评、两项读者实验、设备报道、社论和书目；《有机园艺百科全书》评论、书目和嫁接节录；《有机方法种植水果蔬菜》完整长评、章节清单、书目、维生素、豆科接种、蘑菇架床和食虫鸟段。
+- Translation coverage: 三条记录的全部成段正文、第一人称评论、署名、数字、年份、页数、价格、地址和图文说明均逐项对应。
+- Permitted omissions: 无。
+
 ## Reasons
 
-- 已核对 7 个标准 H2（Source Pack、Context Notes、Glossary Updates、Final Translation、Omitted Bibliographic/Order Info、OCR / Uncertainty Notes、Self Critique）均存在。
-- Final Translation 覆盖该页可读到的主旨内容与核心条目，未见强行编造。
-- 重复目录类价格与订单信息已放入 Omitted Bibliographic/Order Info，并在 OCR / Uncertainty Notes 里标注可见不确定段。
+- 已直接核对 w2000 扫描，纠正旧稿把两本书年份页数错配的问题。
+- 旧稿的主题总结已替换为逐段翻译，长篇读者评论和页面下方节录不再遗漏。
+- 杂志报道、百科参考与个人书评边界明确。
 
 ## Required Fixes
 
@@ -16,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 该页仍有少量低清晰度字符与跨列断词，建议保留到高清复核时再核对关键价目或条码式小字。
+- 营养和园艺说法属于 1969 年原刊内容，当前译文仅作历史文本呈现。

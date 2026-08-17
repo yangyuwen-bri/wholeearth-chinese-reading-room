@@ -4,11 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 种子哲思、Natural Development、Vita、Stark、Davis、Burpee、Stokes 与 Clyde Robin 七组供应资料；野花完整评论与署名；USDA 申请规则、十二项出版物和目录书目；加州大学配额、地址与六项小册子。
+- Translation coverage: 全部供应商、地址、数量、价格、目录编号、申请配额、评论与推荐署名均在译文中逐项对应。
+- Permitted omissions: 无。
+
 ## Reasons
 
-- 已核对 7 个标准 H2（Source Pack、Context Notes、Glossary Updates、Final Translation、Omitted Bibliographic/Order Info、OCR / Uncertainty Notes、Self Critique）均存在。
-- Final Translation 覆盖该页可读到的主旨内容与核心条目，未见强行编造。
-- 重复目录类价格与订单信息已放入 Omitted Bibliographic/Order Info，并在 OCR / Uncertainty Notes 里标注可见不确定段。
+- 已直接核对 w2000 扫描，修正 OCR 将价格和配额错列的问题。
+- 旧稿的数据概述已替换为逐条翻译，清晰可读的采购与申请信息不再以“待核”省略。
+- 零售目录、政府资料和大学小册子的来源边界清楚。
 
 ## Required Fixes
 
@@ -16,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 该页仍有少量低清晰度字符与跨列断词，建议保留到高清复核时再核对关键价目或条码式小字。
+- 目录价格与地址反映 1969 年历史页面，不代表当前可用性。
