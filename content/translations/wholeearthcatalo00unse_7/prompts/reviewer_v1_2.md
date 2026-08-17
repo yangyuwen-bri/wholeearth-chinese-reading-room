@@ -52,3 +52,6 @@ Use `revise` for summary substitution, missing substantive blocks, invented
 quotation, or generic encyclopedia-style rewriting. Structural completeness
 alone never justifies `accepted`.
 
+An `accepted` review must have `## Required Fixes` set only to `- 无。`. If any
+substantive fix is still required, choose `revise`, `needs_highres_scan`, or
+another non-accepted conclusion. Never pair `accepted` with unresolved fixes.

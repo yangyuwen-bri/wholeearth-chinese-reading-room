@@ -8,7 +8,7 @@ import json
 import re
 from pathlib import Path
 
-from validate_release import PAGE_DESCRIPTION, REQUIRED_EVIDENCE, section, source_word_count
+from validate_release import REQUIRED_EVIDENCE, SUMMARY_DRIFT, section, source_word_count
 
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -34,7 +34,10 @@ def main() -> None:
         raise SystemExit("review conclusion is not accepted")
     if not evidence or any(label not in evidence for label in REQUIRED_EVIDENCE):
         raise SystemExit("review lacks concrete Coverage Evidence")
-    if PAGE_DESCRIPTION.search(final):
+    required_fixes = section(review_text, "Required Fixes")
+    if required_fixes and not re.fullmatch(r"-?\s*无[。.]?", required_fixes):
+        raise SystemExit("accepted review still contains required fixes")
+    if SUMMARY_DRIFT.search(final):
         raise SystemExit("Final Translation contains summary/page-description language")
 
     rows = [json.loads(line) for line in STATUS_PATH.read_text().splitlines() if line.strip()]

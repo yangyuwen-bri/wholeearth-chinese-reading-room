@@ -37,6 +37,9 @@ record the problem here, then decide whether it is issue-local or reusable.
   Chinese blockquote combined several source passages instead of translating
   one quotation. Release review must inventory source blocks and map each one
   to the final translation; heading counts and fluent prose are not evidence.
+- `accepted can contradict its own required fixes`: inherited reviews paired
+  `accepted` with non-empty `Required Fixes` on 29 leaves. A conclusion and its
+  action items must agree; release validation now rejects this combination.
 
 ## Batch Lessons
 
@@ -52,6 +55,7 @@ record the problem here, then decide whether it is issue-local or reusable.
 | 2026-08-14 | n102 | machine-translated OCR interleaved three mail-order suppliers and hid the page's self-critical editorial aside | restored supplier regions and editorial voice from complete page text; retained scan gates on illustrated product tables | yes: preserve editorial asides |
 | 2026-08-13 | n56, n58, n60, n61, n63, n66, n70, n78, n92 | generated dossier text stopped at 6,000 characters and hid or interleaved source tails | read complete DjVu page objects; repaired n56/n58/n60/n61/n63/n66/n70/n78, deferred dense n92 until scan access returns | yes: detect dossier truncation |
 | 2026-08-15 | n7 and inherited accepted leaves | accepted review missed summary substitution and a synthesized quotation | suspended the release, added concrete coverage evidence and compression gates, reopened every leaf for scan-level review | yes: require source-to-translation coverage evidence |
+| 2026-08-18 | inherited reviews | 29 accepted reviews still contained required fixes; summary wording survived ratio checks | reject accepted-plus-fixes and detect meta-summary phrases in final translations | yes: enforce conclusion/action consistency |
 
 ## Prompt Change Log
 

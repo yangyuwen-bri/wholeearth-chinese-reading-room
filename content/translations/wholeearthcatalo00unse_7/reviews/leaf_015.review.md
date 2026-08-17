@@ -4,10 +4,17 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 《技术与文明》的编辑评论、开篇引文、选择与机器、钟表与修道院、技术种子三组摘录及两则图注；《断裂时代》的评论、世界经济、连续／断裂、信息系统三组摘录；《迈向人类》的评论、强推论、问题导向、社会过程与复杂性之光四组摘录；三项完整书目。
+- Translation coverage: 三本书的评论和全部可见正文均按扫描栏序翻译；芒福德关于机器历史的三段论证、德鲁克关于世界经济与信息记谱法的展开、Platt 关于证伪和社会过程的例证均完整保留。
+- Permitted omissions: 无。图片本身不作新增描述，但扫描中两则实质图注已经逐句翻译。
+
 ## Reasons
 
-- `Technics and Civilization`、`The Age of Discontinuity`、`The Step to Man` 的评论主体与可见结构完成转写。
-- `Technics and Civilization`、`The Age of Discontinuity`、`The Step to Man` 的出版方、页码与价格字段已按可辨识 OCR 补齐（含分销渠道补充）。
+- 2026-08-18 以 n15 w2000 扫描、官方 OCR 和局部 OCR 交叉核对。旧译将 2,647 个 OCR 词压成 347 个汉字，属于明确的摘要替译。
+- 三项作品的作者、年份、页数、价格、出版社与推荐署名均可回指扫描；所有摘录都有明确标题或版面归属。
+- 印刷页码清楚可见为 p.14。
 
 ## Required Fixes
 
@@ -15,4 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 该页多栏重排噪声较大；若用于出版，可补一次高分辨率逐条核对。
+- `strong inference` 采用“强推论”，`routine` 在计算机语境译为“例程”；后续全刊术语表如有既定译法，可统一排印但不影响覆盖。

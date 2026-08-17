@@ -19,9 +19,15 @@ REQUIRED_EVIDENCE = (
     "Translation coverage:",
     "Permitted omissions:",
 )
-PAGE_DESCRIPTION = re.compile(
+SUMMARY_DRIFT = re.compile(
     r"本页(?:介绍|展示|聚焦|讨论|主要)|"
     r"这一页(?:介绍|展示|聚焦|讨论)|"
+    r"(?:书评|评论)(?:介绍|认为|称|指出)|"
+    r"文本(?:强调|指出|语气)|"
+    r"文中(?:出现|提到)|"
+    r"(?:选段|摘录)(?:引用|说明|指出|强调)|"
+    r"(?:该页|全页|页面)(?:还|主要|包含|信息|文字|内容)|"
+    r"(?:作为主框架|说明性翻译|核心要点|主题总结)|"
     r"正文节选自|"
     r"条目(?:介绍|概述)"
 )
@@ -63,6 +69,10 @@ def validate_issue(require_accepted: bool = True) -> list[str]:
         final = section(leaf_text, "Final Translation")
         evidence = section(review_text, "Coverage Evidence")
         reasons = " ".join(section(review_text, "Reasons").split())
+        required_fixes = section(review_text, "Required Fixes")
+        conclusion = re.search(
+            r"^## Conclusion\s*\n\s*([^\n]+)", review_text, re.MULTILINE
+        )
         reason_groups[reasons].append(leaf)
 
         if require_accepted and row["status"] != "accepted":
@@ -71,7 +81,11 @@ def validate_issue(require_accepted: bool = True) -> list[str]:
             errors.append(f"leaf {leaf:03d}: Final Translation is empty")
         if not evidence or any(label not in evidence for label in REQUIRED_EVIDENCE):
             errors.append(f"leaf {leaf:03d}: review lacks concrete Coverage Evidence")
-        if PAGE_DESCRIPTION.search(final):
+        if not conclusion or conclusion.group(1).strip() != "accepted":
+            errors.append(f"leaf {leaf:03d}: review conclusion is not accepted")
+        if required_fixes and not re.fullmatch(r"-?\s*无[。.]?", required_fixes):
+            errors.append(f"leaf {leaf:03d}: accepted review still contains required fixes")
+        if SUMMARY_DRIFT.search(final):
             errors.append(f"leaf {leaf:03d}: reader text contains summary/page-description language")
 
         words = source_word_count(leaf_text, int(row.get("word_count") or 0))
