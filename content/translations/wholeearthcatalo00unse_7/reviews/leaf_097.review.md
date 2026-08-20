@@ -4,11 +4,18 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: Complete Walker 评介、步速/水疱/反向欣赏、营地晚餐、肩带办公室、两则引文；Camping and Woodcraft 评介、蛋白需求、兔肉、玉米、skillygalee、步态、枪械、弯木、Alaska 蚊害、隐蔽营地、雷击和火堆。
+- Translation coverage: 两项书目的全部可读正文、页码、图注、价格和地址均进入终稿；旧稿的概括性“页面还摘录”“书中还讲……等”已删除。
+- Permitted omissions: 无。装饰插画不含额外正文。
+
 ## Reasons
 
-- 2026-08-15 已逐栏核对 Internet Archive w2000 原扫描，确认《The Complete Walker》与《Camping and Woodcraft》两组游牧／露营书目的版面归属与阅读顺序。
-- 旧版虽标记为 accepted，实际仍有逐行机器转写、断词和栏间串行；本轮已按扫描重译并恢复为可读中文。
-- 可确认的人名、书名、型号、历史价格与地址按原页保留；残缺小字没有据上下文猜补。
+- 2026-08-20 以原始 `0098.jp2` 逐栏复核；印刷页码确认为 96。
+- Complete Walker 的营地操作不再压成一句，而是保留煨炖、早餐准备、地图/靴子、清洁和防鼠的完整动作链。
+- Camping and Woodcraft 原页各独立摘录均有对应中文，三幅图的功能标题也已保留。
+- 页码、尺寸、书价、地址及 Bertrand Russell/Job 引文均核对无缺。
 
 ## Required Fixes
 
@@ -16,5 +23,4 @@ accepted
 
 ## Residual Risks
 
-- 极小字号的完整书目、尺码或订购细目仍可能有字符级误差，译文已在“不确定注释”中限定其使用边界。
-- 页面评述反映 1969 年的产品与安全知识，不应直接视作当代购买或户外安全建议。
+- 历史食物、枪械、野外急救和动物描述不代表现代安全建议；源页可读正文无待修项。

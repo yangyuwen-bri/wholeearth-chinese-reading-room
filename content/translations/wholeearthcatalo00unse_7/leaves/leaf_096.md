@@ -4,7 +4,7 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n96; canonical physical leaf: 97 (origFileName=0097.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 94 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 95 (visible printed page number; verified against the original JP2 scan).
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n96_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n96_w2000.jpg
@@ -145,7 +145,7 @@ Barry Stevens 擅长把人本主义心理学中重要的、原本令人麻木的
 
 **Person to Person**，Carl Rogers、Barry Stevens，1967，276 页，邮资已付 3 美元。Real People Press，939 Carol Lane，Lafayette, CA 94549。
 
-> 我看见一个 Hopi 人望着 Cab，神态泰然，好像把 Cab 拉低到自己的层次，而非让自己低下——于是他们仿佛一对一、在同一平面相遇。抽象话语似乎不只“不在眼前”，甚至不在这个房间、这个世界里；它像关于某种真实事物的传闻。
+> 我看见那个 Hopi 人如此平等地看着 Cab，以至于他把 Cab 拉到自己的层次——准确地拉到那里，一点也没有更低——于是他们仿佛是两个人目光相接。我对此印象如此深刻，便仰望那个 Hopi 人，好像他是某种神。Hopi 转向我，目光中仍有那种强烈的平等感，我觉得自己被向上拉，直到我们处于同一平面。抽象话语似乎不只“不在眼前”，甚至不在这个房间、这个世界里；它像关于某种真实事物的传闻。
 
 #### 《进步工具》
 
@@ -163,14 +163,13 @@ Barry Stevens 擅长把人本主义心理学中重要的、原本令人麻木的
 
 ## Omitted Bibliographic/Order Info
 
-- 出现但 OCR 片段过短、模糊或语义不完整的供应商订单信息、完整价格组合及目录索引数据，已在不确定注释中标记。
+- 无。六项条目的评介、引文、产品说明、价格与订购地址均已转译或保留。
 
 ## OCR / Uncertainty Notes
 
-- 本页信息含多处 OCR 断裂，尤其是广告文案、排版符号与小字；价格、邮政号、地址与联系电话可能有字符级误差。
-- 对存在缺字/重复行的条目未作外推补全；仅在原文可见语句内进行转写。
+- `clinkers` 依语境译作会“砸锅”的失败食谱；历史汇率与价格按 1969 年原页保留。
 
 ## Self Critique
 
-- 本页保留原文结构进行逐行机器转写并人工保留，不将历史目录内容重写为现代化列表。
-- 未将可见但高风险片段（尤其是价格与联系信息）进一步规范化，以免误报。
+- 已用原始 `wholeearthcatalo00unse_7_0097.jp2` 逐栏核对六项独立条目，恢复《人与人》引文中“仰望—被拉回同一平面”的完整逻辑。
+- Dune 引文、barrio 条件演变、Synectics 方法、Emcot 犁说明与天然食品书评均与原页逐段对应。
