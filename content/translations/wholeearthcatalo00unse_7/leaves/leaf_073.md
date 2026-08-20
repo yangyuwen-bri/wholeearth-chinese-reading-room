@@ -8,7 +8,7 @@
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n73_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n73_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. The complete `0074.djvu` page object and official w2000 scan were used to recover the Moog entry, discount table and figure caption omitted from the generated transcript.
 - OCR recovery: 1220 words / 149 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: price_and_number_boundary_risk, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -118,7 +118,7 @@ Schwann Catalog Your Discount Schwann Catalog Your Discount q
 
 ### 便携式录音机
 
-录音设备中的顶级产品是 Nagra，价格从 1,123 美元起。若要作通用的高质量移动录音，Uher 4000 L 在可靠性和经济性上仍领先（约 440 美元）。为声画同步而设计的新 Uher 1000 Report Pilot 约 695 美元。购买可先问当地经销商，再与 Behrena’s（第 69 页）比较。
+录音设备中的顶级产品是 Nagra，价格从 1,123 美元起。若要作通用的高质量移动录音，Uher 4000 L 在可靠性和经济性上仍领先（约 440 美元）。为声画同步而设计的新 Uher 1000 Report Pilot 约 695 美元。购买可先问当地经销商，再与 Behrend’s（第 69 页）比较。
 
 ### 《号角、弦与和声》
 
@@ -132,6 +132,8 @@ Schwann Catalog Your Discount Schwann Catalog Your Discount q
 
 Arthur H. Benade，《号角、弦与和声》，1960 年，269 页，邮资已付 1.45 美元。Doubleday & Co., 501 Franklin, Garden City, N.Y. 11531。图 66：伯姆式长笛机械装置总图；大箭头表示指孔和拇指孔，数字对应正文说明的孔位；图右部分也适用于单簧管。
 
+图 46：侧孔大小会影响管子的振动频率。图中把不同孔径与能产生相同频率的管长进行比较，以说明影响的幅度。下排每根管子的频率，都与其正上方那根带孔管相同。
+
 ### King Karol Records
 
 便携聆听与录音完全是两回事。在这一点上，我倾向同意 Bob Fass：盒式磁带是媒介，Sony 是制造商；具体说，TC 124（立体声，不含额外扬声器）为 149 美元。
@@ -140,17 +142,28 @@ Arthur H. Benade，《号角、弦与和声》，1960 年，269 页，邮资已�
 
 ［Lloyd Martin 推荐］King Karol Records，P.O. Box 629, Times Square Station, New York, N.Y. 10036；目录免费。美国、APO 和 FPO 订单免邮寄及手续费；其他国外订单加收 15%，最低 1.50 美元。索取即免费寄送 Schwann 目录。
 
+Schwann 目录标价与折扣价：1.98 美元／1.55 美元；2.50／1.85；2.98／2.20；3.98／2.75；4.98／3.35；5.98／4.15；6.98／4.65。纽约州居民须在上述价格上加纽约市或纽约州销售税。
+
+### Moog 合成器
+
+新乐器带来新音乐，除了对抗或顺势而流，别无他法。多声道录音棚是一种新乐器；Moog 合成器是另一种。以下摘自 Edmund O. Ward 在 1969 年 5 月 3 日《Rolling Stone》上那篇出色的 Moog 评论。［Lloyd Kahn 推荐］
+
+十五年前，Moog 起步时只有寥寥几人——大约十来个。今天公司仍然很小，只雇了约三十六人。合成器制造得很慢，也极其用心；每台出厂前都要连续开机一周，然后摔到地板上。一位公司代表告诉我：“这套程序有助于找出任何结构缺陷，也确保乐器足够结实。”Moog 合成器的价格从约 3,500 美元，到一台配有各种特殊功能的庞然大物 8,000 美元不等；不过，除非你已经有充分机会摆弄一台、好好抚摩过它，他们不会卖给你。若想知道怎样最妥善地做到这一点，可以写信给 R. A. Moog Co., Trumansburg, N. Y.，也可以亲自去 Trumansburg（先打电话），和他们谈谈。
+
+从根本上说，Moog 合成器把所谓古典电子音乐工作室压缩成很紧凑的版本；这种工作室由各种信号发生器（频率产生器）、修饰器和混音器组成。Moog 乐器的所有操作都采用称为“电压控制”的系统。电压控制乐器以电压作为信号，这个信号可以由其他乐器产生的其他电压控制，并与之同步变化；因此可以快速改变振幅（响度）和频率，使计算与校准变得轻而易举。
+
+它是一台完整的音乐机器，能模仿任何已知乐器（较精密型号甚至能模仿人声），也能产生任何已知声音——只要操作者知道怎样正确设置机器。略懂音乐的人几小时内就能学会这一过程的基本要素；但必须强调，Moog 合成器是真正的乐器。像所有真正的乐器一样，要摸索其细微之处并加以掌握，可能需要一生。Moog 合成器虽已用于巴赫、摇滚和电视广告，到目前为止，主要功能仍是创作电子“严肃”音乐；不过，只要你有一个能够足够清楚地构想出来的音乐观念，无论它是什么，合成器都能帮助你实现。
+
 ## Omitted Bibliographic/Order Info
 
-- Nagra 与 Uher 的经销地址未出现在可读 OCR 中；仅保留型号和可读价格。
-- 页面末尾的 Schwann 目录折扣表被截断，未翻译其不完整的价格栏。
+- Nagra 与 Uher 本来就只建议咨询当地经销商并比较 Behrend’s，没有另印厂商地址。其余书目、联系方式、价格和折扣表均已译出。
 
 ## OCR / Uncertainty Notes
 
-- “Behrena’s”可能是店名 OCR 误读，保留转写并标明原刊页码参照。
+- OCR 的“Behrena’s”已按高清扫描纠正为“Behrend’s”。
 - 《号角、弦与和声》在正文说 260 页、书目行说 269 页；两处均照录，未裁定孰是。
 
 ## Self Critique
 
 - 乐理摘录、书目信息和唱片邮购说明保持独立，避免将设备推荐混作书评内容。
-- 目录折扣表的详细层级无法从本叶 OCR 恢复，需以扫描图核对。
+- 旧译漏掉《Moog Synthesizer》整项、折扣表和图 46 图注；本次已依据完整页对象与扫描恢复。
