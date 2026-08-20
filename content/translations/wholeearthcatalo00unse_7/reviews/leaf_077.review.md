@@ -4,11 +4,16 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: Simon’s Directory, two theatre suppliers, six theatre-building publications, The Stanislavsky Heritage, Subject Guide to Books in Print, Subject Guide to Forthcoming Books, its complete Crafts title sample, and two UNESCO Art Prints catalogs.
+- Translation coverage: all reviews, independent bibliography/order blocks, addresses, signatures and prose are present; the theatre-book prices were reassigned to their correct entries, and every Crafts sample title is retained.
+- Permitted omissions: the repetitive author/date/price/publisher fields for the fifty-plus Crafts sample rows are not rebuilt as a Chinese matrix; the complete title inventory and the role of those fields are preserved, while exact row values remain visible in the scan.
+
 ## Reasons
 
-- 已补齐页图可读的核心价格与归属信息：Simon’s Directory（第三版、4.60 美元、1966/240 页）、The Ideal Theatre（45 美元）与《在版书主题指南》条目关键字段已入正文。
-- 《Theatrical Materials / Services & Information》栏目下的供应商与目录条目（含 Chloe’s Costumes、Theatrical Architecture、The Stanislavsky 相关条目）与 `SUBJECT GUIDE TO BOOKS IN PRINT`（《在版书主题指南》）已按可见边界分开处理。
-- 关键栏目之间未出现将独立条目归并到错误块的迹象。
+- 旧 review 把 45 美元错误归给《Ideal Theatre》，并漏掉 Art Prints 全项与《Forthcoming Books》订单块；高清复核后已改正为《Encyclopedic Guide》45 美元、《Ideal Theatre》平装 2 美元。
+- Simon’s Directory、供应商、Stanislavsky、两套主题指南和 UNESCO 两册目录的边界、价格、地址均已逐栏恢复。
 
 ## Required Fixes
 
@@ -16,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 目录页存在多栏交叉与裁切，`Stanislavsky` 条目、部分目录内页的作者与注释归属建议在高分辨率页进一步确认；无法确认部分保留于 OCR Notes。
+- Crafts 的重复字段矩阵是唯一明确压缩项；没有正文、独立书评、订购信息或书名被省略。

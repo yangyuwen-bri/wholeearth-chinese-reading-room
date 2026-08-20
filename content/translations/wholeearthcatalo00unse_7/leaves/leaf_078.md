@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n78; canonical physical scan leaf: 79 (origFileName=0079.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 77 in the source pack; scan-visible page number not yet verified in this pass.
+- Printed page: 77; scan-visible page number verified against the w2000 image.
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n78_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n78_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0079.djvu` was read directly because the generated dossier excerpt stops after 6,000 characters. Public bibliographic records were used only to confirm the otherwise obscured author of *Data Study*. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0079.djvu` and the w2000 scan were checked directly because the generated dossier excerpt stops after 6,000 characters.
 - OCR recovery: 1748 words / 209 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -119,6 +119,8 @@ combining outputs of the detail filter to form position controls. The filtered
 
 ## Final Translation
 
+### 先前列入“Communications”，如今仍受喜爱
+
 ### 《海豚的心灵》
 
 Lilly 知道，一种计算机与另一种计算机连接，对每一方都有好处；这就是他和海豚一起开展的计划。本书报告他近年对海豚的推测与实验，包含 Margaret Howe 的详尽叙述：她曾与名为 Peter 的海豚单独生活十周。和通信研究一贯的情形一样，所有发现都有广泛含义。
@@ -133,19 +135,19 @@ John Cunningham Lilly, M.D.，《海豚的心灵》，1967 年，286 页，邮�
 
 ［Michael Arbib 评介；David Evans 推荐］
 
-《大脑模型》的订购资料：Oxford University Press，16-00 Pollitt Drive, Fair Lawn, N.J. 07140；邮资已付 8.50 美元。
+J. Z. Young：《A Model of the Brain》，1964 年，348 页，邮资已付 8.50 美元。购自 Oxford University Press，16-00 Pollitt Drive, Fair Lawn, N.J. 07140；或向《全球概览》购买。
 
 ### McBee Keysort System
 
 你拥有很多什么？学生、订户、笔记、书、唱片、客户、项目？任何东西超过五十或一百份后就难以追踪，该把你的存取系统外置化了。在昂贵计算机之外，一个方便方法是 McBee：一叠边缘有很多孔的卡片、一根长钝针和一个缺口钳。把针穿过一摞卡的某个孔后提起，那个孔被切出缺口的卡不会随之升起，而会掉下去。因此卡不必保持顺序；你可按特征、编号、字母或任何方式分类：戳、扇开、提起、挑出即可。卡片还可用一种手持、有强烈气味的工具刷两下，在每张卡上印地址或其他内容；大约五十份清晰印本后，字迹会退回原始的模糊。Doug Engelbart 说，给牲畜耳朵打缺口的工具比 McBee 卖的钳子更好也更便宜。
 
-［Doug Engelbart 与 Joe Bonner 推荐］价格：1,000 张（印字型）Keysort 卡 35.75 美元；1,000 张 Hecto carbon black（印刷用）3.60 美元；Keysorter 针 5.05 美元；缺口钳 9.55 美元。可查本地电话簿找 McBee，或写信至 Athens, Ohio 45701。
+［Doug Engelbart 与 Joe Bonner 推荐］价格：1,000 张（印字型）Keysort 卡 35.75 美元；1,000 张 Hecto carbon black（印刷用）3.60 美元；Keysorter 针 5.05 美元；手持缺口钳 9.55 美元；Handiprinter（那个小工具）41.40 美元。可查本地电话簿找 McBee，或写信至 Litton Automated Business Systems, Route 50 East, Athens, Ohio 45701。
 
 ### 《计算机音乐》
 
 “计算机音乐。该死，当然对。什么时候我们才能不必围着某个十八世纪系主任蹑手蹑脚，就把它们弄到手？”这本书及四张唱片由值得尊敬的 Von Foerster 等编辑，汇集 James W. Beauchamp、Herbert Brun、M. David Freedman、Lejaren Hiller、M. V. Mathews、J. R. Pierce、J. K. Randall、Arthur Roberts、L. Rosler 和 Gerald Strang。“我想知道的是，Frank Zappa 能用它吗？”
 
-Heinz von Foerster、James W. Beauchamp 编，《计算机音乐》，1969 年，139 页、4 张唱片，邮资已付 14.95 美元。John Wiley & Sons, Inc., One Wiley Drive, Somerset, N.J. 08873。
+Heinz von Foerster、James W. Beauchamp 编，《计算机音乐》，1969 年，139 页、4 张唱片，邮资已付 14.95 美元。购自 John Wiley & Sons, Inc., One Wiley Drive, Somerset, N.J. 08873；西部地址：1530 South Redwood Road, Salt Lake City, Utah 84104；或向《全球概览》购买。
 
 实验自动模式识别装置的信号流图：九个细节滤波器端子的输入来自排成 3×3 矩阵的光电倍增管；把细节滤波器的输出组合成位置控制，即可自动使图样居中。滤波后的输入随后接到八个“A 单元”，每种图样会使其中一个达到最大振幅（图 108），再由第一最大振幅滤波器选出。它们的输出驱动八个脉冲发生器，后者又驱动十六个电容存储单元。
 
@@ -189,17 +191,16 @@ J. Ben Lieberman：《Printing as a Hobby》，1963 年，128 页，邮资已付
 
 ## Omitted Bibliographic/Order Info
 
-- 《大脑模型》的作者、年份和页数行被图表或插图遮断；只保留本页 OCR 可稳定归属的 8.50 美元价格及 Oxford University Press 订购资料。
-- McBee 的完整街道地址仍不可读。
+- 无书目或订购信息漏译。模式识别电路图的几何连线未重绘，其说明文字已完整译出。
 
 ## OCR / Uncertainty Notes
 
-- Keysort 段落的“抬起／掉下”机制由可读文字说明，但图形位置与操作步骤需看扫描图复核。
-- 多栏把书目、价格与图注相互穿插；《大脑模型》的 Oxford University Press 订购行、8.50 美元与 Fair Lawn 地址按版面邻接关系归入该条目，街道号和邮编仍宜以高清扫描复核。
-- 直接读取完整 DjVu page object 后，恢复了生成版 Source Pack 截断点之后的模式识别图注、《Data Study》《Colour Guitar》《The Radio Amateur’s Handbook》和《Printing as a Hobby》；书目与地址仍需扫描核对。
-- `Data Study` 的作者 J. L. Jolley 由公开书目记录交叉确认；该作者行仍须用本页高清扫描确认。
+- Keysort 段落的“抬起／掉下”机制、五项价格及完整订购地址已按高清扫描复核。
+- 多栏把书目、价格与图注相互穿插；《大脑模型》的作者、年份、页数、价格和 Oxford University Press 地址均已按版面邻接关系及高清扫描确认。
+- 直接读取完整 DjVu page object 后，恢复了生成版 Source Pack 截断点之后的模式识别图注、《Data Study》《Colour Guitar》《The Radio Amateur’s Handbook》和《Printing as a Hobby》，并用高清扫描核对书目与地址。
+- `Data Study` 的作者 J. L. Jolley 已由本页高清扫描直接确认。
 
 ## Self Critique
 
 - 八项主体条目分开保留，尤其没有把海豚研究误缩为计算机隐喻。
-- 已补回完整 DjVu 对象中生成版 Source Pack 未显示的后半页；对受版面破坏的《大脑模型》和 McBee 书目仍明确止于可见证据。
+- 已补回完整 DjVu 对象中生成版 Source Pack 未显示的后半页，并补齐此前漏掉的《大脑模型》书目、McBee 第五项产品与地址、Wiley 西部地址。
