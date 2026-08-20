@@ -6,9 +6,15 @@ accepted
 
 ## Reasons
 
-- 7H2 结构可读，`Fundamentals of Yoga`、`Seven Human Temperaments`、`Man’s Presumptuous Brain` 三段主干均有对应，条目边界合理。
-- 关键数值/地址类信息未见明显遗漏；`Lancer Books` 与邮寄说明、`Rammurti Mishra` 身份与要点均匹配 OCR 主文本。
-- 翻译在术语层面保守（如“Trataka / Nadam / TOTE”等）且未把难辨符号当确定事实复原。
+- 2026-08-21 已用 3484×4752 原始 JP2 核对《瑜伽基础》、Lucis Trust、冥想坐垫与《人的自负之脑》4 个区块。
+- 旧稿将约 2,300 个英文词压缩为条目主旨；现已恢复 10 种 nadam、12 步练习、15 项书目、商品字段及完整身心疾病论证。
+- 所有作者、年份、页数、价格、地址和历史医学/种族论断均已按扫描核准；过时论断明确标为历史文本。
+
+## Coverage Evidence
+
+- Source inventory: 4 个独立区块，1 篇瑜伽评论，10 项声音表，12 步练习，15 项图书馆书目，1 组坐垫商品，8 段脑与身心疾病论述，全部已定位。
+- Translation coverage: 所有正文、清单、引文、书目、价格、地址和署名均有中文对应。
+- Permitted omissions: 无；姿势图和商品照片由并排扫描保留。
 
 ## Required Fixes
 
@@ -16,5 +22,4 @@ accepted
 
 ## Residual Risks
 
-- 版面含术语列表与图文示例，仍建议高分辨率核对行边界以避免个别条目位置偏移。
-- 若需出版级别精排，补齐被遮挡的出版社与页码行可进一步提升完整性。
+- 原书包含过时的种族化与医学论断，已按历史原文翻译并加语境提示，不应视为现行科学或医疗建议。
