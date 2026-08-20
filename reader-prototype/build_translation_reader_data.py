@@ -270,13 +270,51 @@ def markdown_to_html(markdown: str) -> str:
             out.append("</ol>")
             ol_open = False
 
-    for raw in markdown.splitlines():
+    def table_cells(line: str) -> list[str]:
+        return [cell.strip() for cell in line.strip().strip("|").split("|")]
+
+    def is_table_separator(line: str) -> bool:
+        cells = table_cells(line)
+        return bool(cells) and all(re.fullmatch(r":?-{3,}:?", cell) for cell in cells)
+
+    lines = markdown.splitlines()
+    index = 0
+    while index < len(lines):
+        raw = lines[index]
         line = raw.rstrip()
         stripped = line.strip()
+        if (
+            stripped.startswith("|")
+            and stripped.endswith("|")
+            and index + 1 < len(lines)
+            and is_table_separator(lines[index + 1].strip())
+        ):
+            flush_paragraph()
+            flush_quote()
+            close_lists()
+            headers = table_cells(stripped)
+            index += 2
+            rows = []
+            while index < len(lines):
+                candidate = lines[index].strip()
+                if not (candidate.startswith("|") and candidate.endswith("|")):
+                    break
+                rows.append(table_cells(candidate))
+                index += 1
+            out.append("<table><thead><tr>")
+            out.extend(f"<th>{inline_md(cell)}</th>" for cell in headers)
+            out.append("</tr></thead><tbody>")
+            for row in rows:
+                out.append("<tr>")
+                out.extend(f"<td>{inline_md(cell)}</td>" for cell in row)
+                out.append("</tr>")
+            out.append("</tbody></table>")
+            continue
         if not stripped:
             flush_paragraph()
             flush_quote()
             close_lists()
+            index += 1
             continue
         heading = re.match(r"^(#{1,6})\s+(.+)$", stripped)
         if heading:
@@ -285,11 +323,16 @@ def markdown_to_html(markdown: str) -> str:
             close_lists()
             level = min(max(len(heading.group(1)) + 2, 3), 5)
             out.append(f"<h{level}>{inline_md(heading.group(2).strip())}</h{level}>")
+            index += 1
+            continue
+        if stripped == ">":
+            index += 1
             continue
         if stripped.startswith("> "):
             flush_paragraph()
             close_lists()
             quote.append(stripped[2:].strip())
+            index += 1
             continue
         if stripped.startswith("- "):
             flush_paragraph()
@@ -301,6 +344,7 @@ def markdown_to_html(markdown: str) -> str:
                 out.append("<ul>")
                 ul_open = True
             out.append(f"<li>{inline_md(stripped[2:].strip())}</li>")
+            index += 1
             continue
         numbered = re.match(r"^(\d+)\.\s+(.+)$", stripped)
         if numbered:
@@ -313,10 +357,12 @@ def markdown_to_html(markdown: str) -> str:
                 out.append("<ol>")
                 ol_open = True
             out.append(f"<li>{inline_md(numbered.group(2).strip())}</li>")
+            index += 1
             continue
         flush_quote()
         close_lists()
         paragraph.append(stripped)
+        index += 1
 
     flush_paragraph()
     flush_quote()

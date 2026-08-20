@@ -335,6 +335,27 @@
     color: #6b6250;
   }
   section.entry blockquote p { margin: 0; font-size: 14.5px; }
+  section.entry table {
+    width: 100%;
+    margin: 18px 0 24px;
+    border-collapse: collapse;
+    font-size: 14px;
+    line-height: 1.55;
+  }
+  section.entry th,
+  section.entry td {
+    padding: 8px 10px;
+    border: 1px solid var(--line);
+    text-align: left;
+    vertical-align: top;
+  }
+  section.entry th {
+    background: var(--wash);
+    font-weight: 700;
+  }
+  section.entry tbody tr:nth-child(even) td {
+    background: rgba(238, 231, 211, 0.35);
+  }
   section.entry code {
     font-family: var(--mono);
     font-size: 0.85em;
