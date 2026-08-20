@@ -8,7 +8,7 @@
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n68_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n68_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf, printed page, formulas and multi-column reading order verified against the w2000 scan and _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
 - OCR recovery: 1248 words / 207 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -125,19 +125,49 @@ registers but HP has only 7
 
 W. Ross Ashby 著，1952、1960 年，286 页，2.50 美元包邮：Barnes & Noble, Inc.，105 Fifth Avenue，New York, N. Y. 10003；Economy Bookstore，171 W. Madison，Chicago, Illinois 60602；或 Whole Earth Catalog。
 
+### 《信息》（Information）
+
+1966 年 9 月号《Scientific American》完全献给信息新技术。如今它以平装书发行，是我们见过的计算机科学最佳入门。文章包括：《计算机逻辑与存储器》《计算机输入与输出》《系统分析与编程》《计算机分时》《计算机数据传输》《计算机在技术中的用途》《计算机在组织中的用途》《计算机在教育中的用途》《信息存储与检索》以及《人工智能》。
+
+《Information》，1966 年，218 页，2.50 美元包邮。购自：W. H. Freeman & Company, 660 Market Street, San Francisco, CA 94104；或向《全球概览》购买。
+
+计算机几乎恰好是人所不是的东西。它能把全部注意力投向无穷细节；不受干扰，精确、可靠；可以轻松完成最复杂、最长的计算，毫无差错，所用时间不到人类对应者的百万分之一。它没有情绪——至少我们这样认为。它既不无聊，也不疲劳。只须告诉它一次，此后它会完美记住，直到有人叫它忘记；那时它会瞬间、彻底忘掉。
+
+图示逻辑门及真值表：AND（与，`C=A·B`）、OR（或，`C=A+B`）、NOT（非，`B=Ā`）。
+
+图注：在 John P. Shannon 于 Los Alamos Scientific Laboratory 完成的计算机实验中，一道模拟瀑布越过悬崖边缘，溅入水池；这是借助数值模型研究流体动态行为的一部分。
+
+### 《数学函数手册：公式、图形与数学表》
+
+这本政府出版的便宜好书，为需要强大计算能力却无法使用计算机设施的人设计，是经典 Jahnke–Emde 函数表的现代化版本。［Mrs. W. B. Mohin 推荐］
+
+目录：
+
+1. 数学常数；2. 物理常数与换算因子；3. 初等解析方法；4. 初等超越函数——对数、指数、圆函数与双曲函数；5. 指数积分及相关函数；6. Gamma 函数及相关函数；7. 误差函数与 Fresnel 积分；8. Legendre 函数；9. 整数阶 Bessel 函数；10. 分数阶 Bessel 函数；11. Bessel 函数的积分；12. Struve 函数及相关函数；13. 合流超几何函数；14. Coulomb 波函数；15. 超几何函数；16. Jacobi 椭圆函数与 Theta 函数；17. 椭圆积分；18. Weierstrass 椭圆函数及相关函数；19. 抛物柱函数；20. Mathieu 函数；21. 椭球波函数；22. 正交多项式；23. Bernoulli 与 Euler 多项式、Riemann Zeta 函数；24. 组合分析；25. 数值插值、微分与积分；26. 概率函数；27. 杂项函数；28. 记数尺度；29. Laplace 变换。
+
+《Handbook of Mathematical Functions With Formulas, Graphs, and Mathematical Tables》，1964、1968 年，1,046 页，6.50 美元包邮。购自：Superintendent of Documents, U. S. Government Printing Office, Washington, D. C. 20402。
+
 ### 台式计算器
 
 Hewlett-Packard 9100A 现价 4,400 美元。若须处理需要相当大容量的问题，Wang 700 应远胜 HP，因为它在程序控制下的总内存（磁芯加磁带）约为 HP 的 70 倍。订购尚未生产的 700 者，Wang 会借出一台配两台读卡机的 370；在某些方面它已经强于 HP。这样的 370 系统售价 4,700 美元。
 
 370 相对 HP 的不足：慢得多；没有内置三角函数等程序（但可用卡片输入程序）；可处理的数值范围较小，约为 10⁻¹⁰ 至 10⁹，而非近于 10⁻¹⁰⁰ 至 10¹⁰⁰；编写和修改程序不便；计算结果不能输出到磁卡或磁带留作后用（HP 可以，尽管销售员未必知道）；显示较差。
 
-370 相对 HP 的优点：容量更大——无程序时 370 有 28 个寄存器，HP 有 19 个；使用 160 步程序时，370 仍有 28 个寄存器，HP 则只剩 7 个……
+370 相对 HP 的优点：容量更大——无程序时 370 有 28 个寄存器，HP 有 19 个；使用 160 步程序时，370 仍有 28 个寄存器，HP 则只剩 7 个。配两台读卡器、不手工送卡时，160 步是 370 的最大程序规模；HP 为 196 步，但再加一台读卡器可把 370 提高到 240 步。
+
+370 可以使用子程序（但不能在子程序内再用子程序）。HP 每次在主程序中调用子程序，都必须把子程序重写一遍，因而耗掉宝贵容量。
+
+除显示外，700 在这些方面都应不差于、甚至优于 370；它还有一些重要的编程优势，尤其是寄存器间接寻址：由计算机决定转向哪个寄存器，既节省大量容量，也让程序更容易编写。［Craige Schensted 评论］
+
+图注：Hewlett-Packard 9100A 型计算器的键盘与显示屏；左侧为双曲、三角和坐标变换函数，右侧为编程功能；显示采用十进制。
+
+Hewlett-Packard 资料：P. O. Box 301, Loveland, Colorado 80537。Wang 资料：Wang Laboratories, Inc., 836 North Street, Tewksbury, Mass. 01876。
 
 ## Omitted Bibliographic/Order Info
-台式计算器条目的后续比较与订购资料在本页末尾未完整出现。
+- 无；四个主体条目、公式/图注、函数目录和订购资料均已保留。
 
 ## OCR / Uncertainty Notes
-原 OCR 的指数格式有所损坏；译文依上下文保留为 10⁻¹⁰、10⁹、10⁻¹⁰⁰、10¹⁰⁰，仍应以扫描核验。
+原 OCR 的指数格式有所损坏；w2000 扫描确认范围为约 10⁻¹⁰ 至 10⁹，对比近于 10⁻¹⁰⁰ 至 10¹⁰⁰。
 
 ## Self Critique
-保留了所有可判定的机型、价格、内存倍率和寄存器数；对页末截断的优势列表未续写。
+保留 Ashby 全部摘录、《Information》文章清单与计算机段落、函数手册 29 项目录，以及计算器完整优缺点、图注与地址。

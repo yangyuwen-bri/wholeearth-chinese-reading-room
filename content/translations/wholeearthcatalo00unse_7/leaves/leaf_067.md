@@ -8,7 +8,7 @@
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n67_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n67_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against the w2000 scan and _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. The downloaded w2000 image loses its lower half to a gray field, so complete official OCR was also used for the still-recoverable lower-page text. No supplemental OCR used.
 - OCR recovery: 1734 words / 235 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -125,6 +125,24 @@ Boulding 的两卷本很难啃，也很沉闷——面对抽象概念、复杂�
 
 琼斯夫人真正买到的，似乎不只是 1.60 美元的黄油，而是 0.40 美元的零售、0.20 美元的批发、0.20 美元的运输、0.10 美元的制黄油、0.25 美元的牛饲料、0.10 美元的奶牛折旧、0.15 美元的雇佣农工劳动，以及 0.20 美元的农民劳动。［第一卷］
 
+没有专业化，就不可能交换，因为没有东西可换；但没有交换的专业化也毫无用处，因为裁缝会饿死，农夫会没衣服穿。没有专业化的交换不可能；没有交换的专业化很愚蠢。［第一卷］
+
+交换与其说是一种相等（两磅黄油 = 1.60 美元），不如说是两个不等。琼斯夫人认为两磅黄油对她的价值超过 1.60 美元；店主则认为 1.60 美元对他的价值超过两磅黄油。［第一卷］
+
+在我们拥有的其他一切数量都不变时，某样东西拥有得越多，就越不想再要。若每周只有两盎司糖，我们会热烈欢迎多来一盎司；若每周已有一百盎司，多一盎司就几乎没有区别。［第一卷］
+
+事物之所以有价值，只因为有人认为它有价值，没有任何别的理由。
+
+确实有一条“惨淡定理”：若只有饥饿与苦难能够遏制人口增长，那么人口会一直增长，直到苦难和饥饿多到足以使增长停止。还有一条更惨淡的定理，我称之为“彻底惨淡定理”：若只有饥饿与苦难能够遏制人口增长，那么生产技术的任何改善，最终都会增加人类苦难的总量，因为它只会让更多人口得以在苦难和饥饿中生存。［第一卷］
+
+### 负弹性供给的动力学
+
+把这一模型用于图 62 的负弹性供给曲线很有意思，图 64 就这样做。考察带箭头的动力路径便会发现：P 点表面上的 Walras 均衡其实不稳定，而 Pₕ 与 Pₗ 两个 Marshall 均衡其实稳定。无论某条动力路径从左下方多么靠近 P，它都必须由下向上垂直穿过 SS′，再转弯从左侧水平穿过 DD′。图上存在 HPK 这样一条分水岭：从线左侧任一点出发，动力路径最终把我们带到 Pₕ，或任意接近它；从右侧任一点出发，路径都移向 Pₗ。在 HP 或 KP 上，动力路径移向 P，但这条路径通往的是不稳定的最终均衡：任何随机向右偏离的运动最终落到 Pₗ，任何向左偏离的运动则落到 Pₕ。［第一卷］
+
+纯粹的易货经济似乎只可能存在于交换罕见、交换商品高度多样的地方。一旦形成近似市场的东西——即较标准化商品发生频繁、重复的交换——套利原则就会使各种商品的交换比率大致相互一致。此时可以用某种商品衡量价值，价格也会按这种标准商品报价，即使它并不参加所有交换。各社会曾采用多种标准商品：牲畜（pecuniary 一词源自拉丁语 pecus，即“牛”）、贝壳、珠子、石头、烟草、布、谷物和各种常见金属。因此，一个社会的交换媒介，就是主要因易于交换而受到需要的一项资产或一组资产。这种可随时交换的属性叫作“流动性”。［第二卷］
+
+Kenneth E. Boulding：《Economic Analysis》。第一卷《Microeconomics》，720 页，10.50 美元包邮；第二卷《Macroeconomics》，280 页，7.50 美元包邮。版本年份：1941、1948、1955、1966。购自：Harper & Row, 49 East 33rd Street, New York, N. Y. 10016；或向《全球概览》购买。
+
 ### 《供给与需求》
 
 较简短、较经典也较早的经济理论叙述，是 Henderson 的《供给与需求》。记住：经济学家多半由经济体塑造，而不是反过来。那么是谁创造经济体？你。若不喜欢身处的那一个，就发明并实践一个更好的。知情也好，天真也罢，都胜过消极抱怨。［Steve Baer 推荐］
@@ -133,13 +151,35 @@ Boulding 的两卷本很难啃，也很沉闷——面对抽象概念、复杂�
 
 商界人士已经把下述说法当作公理：政府可以或多或少胜任地经营邮政一类安全、例行的事业；但在风险很大的事业上，不大可能有显著成功。人们说，过去的一切成就都归功于个人以不受束缚的判断、拿自己的财富冒险而进行的企业活动——即使股份公司也不以开路先锋著称。
 
-Hubert Henderson 著，1922 年，142 页，1.35 美元包邮。
+Hubert Henderson 著，1922 年，142 页，1.35 美元包邮。购自：University of Chicago Press, 11030 South Langley Avenue, Chicago, Illinois 60628；或向《全球概览》购买。
+
+### 《Fortune》
+
+读了大量 Buckminster Fuller 之后，我开始读《Fortune》，因为它是唯一经常刊出达到他那种思考尺度的资讯文章的期刊，涉及全球航运、建筑、新工业流程、自然资源等。我发现，它的编辑与报道使大多数美国大众杂志的内容看起来都像一团浆糊。
+
+“许多商界领袖相信，他们生活在一个种族主义社会，财富分配不公，国家需要精神重生。最重要的是，他们不想再有战争。”
+
+《Fortune》，月刊，每年 14 美元。订阅地址：Fortune, 540 North Michigan Avenue, Chicago, Illinois 60611。
+
+### 《华尔街日报》
+
+真够前卫。一份日报，大量报道货真价实的新闻。不是谁谋杀了谁，而是湾区中半岛的一所自由大学充满能量和新形式；不是 Mia Farrow 这个月怎么想，而是对神秘学市场的彻底评估（神秘主义图书销量在过去三年上升 100%）。换句话说，它报道新的趋势，不是给旧故事换个新名字。
+
+《华尔街日报》身处股票市场腹地，也因这种参与而保持诚实。你不必投身市场，也能使用这份报纸。
+
+《华尔街日报》，日报，美国年费 30 美元，海外 42 美元。订阅地址：The Wall Street Journal, 30 Broad Street, New York, N. Y. 10004；或 1701 Page Mill Road, Palo Alto, CA 94304。
+
+### Curta 计算器
+
+Curta 计算器（居然产自列支敦士登）属于那种你会仅仅因为它太漂亮，就想在身边放一台的机器。它很小，却以不易出错的方式制造；恶劣气候也不会让它失灵。它能加、减、乘、除，求平方、立方、平方根，累积乘积，并按常数乘除。拉力赛领航员很喜欢它，任何需要小型计算器的人也会如此。各方面都出色；我从没听谁愿意把自己的那台让出去。两种型号分别为 125 美元和 165 美元。［Jay Baldwin 推荐并评论］
+
+资料免费：The Curta Company, Van Nuys, CA。
 
 ## Omitted Bibliographic/Order Info
-《经济分析》两卷本的完整书目信息及《供给与需求》的订购地址不在本页 OCR 可辨范围内。
+- w2000 文件下半页显示为灰色，Curta 两种型号后面的英寸分数字形无法由扫描复核，未强行转写；其他完整官方 OCR 可恢复的正文、书目和地址均已保留。
 
 ## OCR / Uncertainty Notes
-部分卷号括注与页末订购块缺失，未补造。
+- 页面官方 OCR 完整保留了下半页《Fortune》《华尔街日报》和 Curta 条目；结合可见上半页边界恢复阅读顺序。
 
 ## Self Critique
-完整保留书评的褒贬、两段引文、三条供求命题和可辨售价；不把评论立场改写为事实判断。
+完整保留两组经济学评论、全部可辨 Boulding 摘录、三条供求命题、两份期刊评论和 Curta 说明；没有把下半页压缩成条目摘要。
