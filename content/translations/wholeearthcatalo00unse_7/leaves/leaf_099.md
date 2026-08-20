@@ -4,7 +4,7 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n99; canonical physical leaf: 100 (origFileName=0100.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 97 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 98 (visible printed page number; verified against the original JP2 scan).
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n99_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n99_w2000.jpg
@@ -125,7 +125,7 @@ Gerry Cunningham、Margaret Hansson 著，1959 年，130 页，2 美元，邮资
 
 Frostline 出售轻量露营装备的自制套件，包括帐篷、羽绒睡袋和衣物，也供应预装羽绒、拉链、尼龙面料、Velcro 尼龙搭扣和涤纶线等原料。邮购服务快捷可靠，评述者收到的每一笔订单都准确无误。
 
-这位评述者亲手做过 Frostline 的 “Big Horn（Winter）”睡袋、收纳袋和雨披。睡袋约重 2.5 磅，采用羽绒填充的重叠筒形结构，没有贯穿内外层的缝线。她认为每套材料都符合厂家承诺，目录说明也极其准确。
+这位评述者亲手做过 Frostline 的 “Big Horn（Winter）”睡袋、收纳袋和雨披。睡袋重 2¾ 磅，采用羽绒填充的重叠筒形结构，没有贯穿内外层的缝线。她认为每套材料都符合厂家承诺，目录说明也极其准确。
 
 套件已经配齐，购买者只需用缝纫机组装；评述者使用的是 Singer Featherweight。决定购买前，她把 Frostline 的价格和规格同 Ski Hut、Recreational Equipment Inc.、Thomas Black and Sons Inc. 等公司作过比较，结论是：在不牺牲质量的前提下，Frostline 最经济。
 
@@ -143,17 +143,35 @@ Frostline Outdoor Equipment
 P.O. Box 1378
 Boulder, Colorado 80302
 
+#### 派克大衣纸样图 1
+
+- 后片 2：只裁一层上部，再裁一整幅；高 20 英寸、底宽 27 英寸。
+- 前片 1：只裁一层上部，再裁一整幅；中部高 28½ 英寸、底宽 25½ 英寸、肩部至开口 16 英寸；口袋置于整幅一侧。
+- 袖片 3：需两片；高 24 英寸、袖口宽 14 英寸。
+- 肩轭 4：需两片。
+- 风帽侧片 5：需左右两片；风帽中央片 6：需两片；另有小裁片。
+
 ### L. L. Bean
 
 Bean 的目录正是《全球概览》效法的样本。Bean 先生的直率与诚信，贯穿目录、产品和服务。目录里有许多出色用品，尤以户外服装为佳；这是一家难得让人愿意与之打交道的公司。
 
 #### 重型烤架
 
-版面展示了一款可放炊具的坚固网格烤架，四腿向外张开，便于在户外稳定使用。
+用于把炊具架在明火上方。烤架采用粗重焊条，烹饪面积很大；支腿向外张开，可在任何平面上牢固站立，携带时可折到网格旁。可承重 250 磅；尺寸 12 × 24 × 10¼ 英寸高；重 6½ 磅；邮资已付 5.60 美元。
 
 #### Bean’s Maine Hunting Shoe
 
-Bean 经典的缅因狩猎靴，把橡胶下部与皮革靴筒结合，用来应付泥水和潮湿地面；条目重点在耐用与实用，而非时装式外观。
+Bean 先生在 1912 年首次开发此靴。他把定制皮革靴筒轻便、贴脚的特点，与橡胶底部防护、防水的特点结合起来；这种设计的实用优势令 Maine Hunting Shoe 立即成功。材料与结构此后不断改进，但基本设计至今仍未被超越：适合全天候、各种户外活动且穿着舒适。
+
+靴筒采用柔软、耐穿的全粒面牛皮：干式麋皮鞣面，或稍重、拒水的油纹表面。底部采用坚韧、抗臭氧橡胶并配软垫内底；耐用绉胶外底永久硫化在鞋面上，带 Bean 著名的防滑链纹。
+
+尺码为 3—14 D（窄）和 EE（中），以及 6—14 FF（宽），只有整数码。不知道尺码时，请提供正装鞋尺码与宽度，和/或描出赤脚轮廓。靴筒有三种腿围：Slim、Medium、Full；订购时注明所选筒高处赤腿周长，筒高从地面量起。
+
+**麋皮鞣牛皮筒**（棕褐色筒、红褐色底）：6 英寸 16.00 美元；8 英寸 17.00 美元；10 英寸 19.00 美元；12 英寸 21.00 美元。10 英寸高、9 EE 码重 2 磅 13 盎司。
+
+**油纹牛皮筒**（褐色筒、红褐色底）：6 英寸 16.85 美元；8 英寸 17.85 美元；10 英寸 19.85 美元；12 英寸 21.85 美元；14 英寸 23.85 美元；16 英寸 26.85 美元。10 英寸高、9 EE 码重 3 磅 2 盎司。加系带钩另付 0.50 美元；所有价格均含邮资。
+
+免费目录：L.L. Bean, Inc., Freeport, Me. 04032。
 
 ### Wallabees（男、女款）
 
@@ -161,17 +179,19 @@ Bean 经典的缅因狩猎靴，把橡胶下部与皮革靴筒结合，用来应
 
 鞋采用莫卡辛结构，鞋头手工缝制。模压的矫形足弓支撑包在海绵橡胶内，并配透气皮革鞋垫；坚固后跟、风箱式鞋舌与弹性鞋带，让鞋贴合而不束缚。颜色：沙色绒面革。
 
+- **男式踝高款**：7—13 码，整数与半码（无 12½），中等宽度；每双含邮资 23.95 美元。
+- **女式低帮款**：5—10½ 码，整数与半码，中等宽度；每双含邮资 21.95 美元。
+
 ## Omitted Bibliographic/Order Info
 
-- L. L. Bean 烤架、狩猎靴与 Wallabees 的完整规格、尺码和价格在扫描小字或版面下缘处不够稳定，未据残缺文字补写。
-- Frostline 套件纸样图中的裁片标注只作为制作示意，没有逐字转录。
+- 无。Frostline 纸样尺寸、L.L.Bean 烤架与狩猎靴的规格价格，以及 Wallabees 男女尺码价格均已译出。
 
 ## OCR / Uncertainty Notes
 
-- 本页按 2026-08-15 获取的 w2000 原扫描复核，已区分书评、Frostline 套件评述、L. L. Bean 目录说明和 Wallabees 广告。
+- 本页按原始 `wholeearthcatalo00unse_7_0100.jp2` 复核，已区分书评、Frostline 套件评述、L. L. Bean 目录说明和 Wallabees 广告。
 - 原始文字中的 “Velco” 依版面语义校为 Velcro；历史价格保留原币值，不作今天的换算。
 
 ## Self Critique
 
-- 译文优先保留能帮助读者判断装备的实质信息，并把被纸样图切碎的句子恢复为自然中文。
-- 对无法可靠辨认的规格和价格采取省略而非猜测；供应商地址只保留扫描清楚的部分。
+- 已撤销旧稿对规格、尺码和价格的省略；高清原图能够辨认的数值全部进入终稿。
+- Frostline 睡袋重量由近似 2.5 磅改为原文 2¾ 磅，避免目录数据失真。

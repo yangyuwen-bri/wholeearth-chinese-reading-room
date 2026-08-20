@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n101; canonical physical leaf: 102 (origFileName=0102.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 99 in the source pack; scan-visible page number not yet verified in this pass.
+- Printed page: 100 (visible printed page number; verified against the original JP2 scan).
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n101_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n101_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0102.djvu` was read directly because the generated Source Pack stopped inside the Eddie Bauer entry. XML coordinates were used to separate supplier and product regions. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; complete page object `wholeearthcatalo00unse_7_0102.djvu` plus original JP2 image `wholeearthcatalo00unse_7_0102.jp2`, checked directly for all supplier and product regions.
 - OCR recovery: 919 words / 183 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: cross_page_or_section_continuation, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -125,20 +125,25 @@ Stephenson Warmlite 是一款供两三人背包旅行和登山使用的帐篷。
 
 ### Kelty Packs
 
-著名的背包。目录列出 Mountaineer 与 Backpacker 系列，背包袋有各种尺寸和两种颜色，背架也有全套尺寸；具体价格表的数字未被文字层稳定保留。
+著名的背包。所有背架尺码、所有背包袋尺码和两种颜色的价格表如下：
+
+| 背架型号 | A2 | A4 | B2 | B4 | B85 |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Mountaineer | $45.25 | $49.50 | $41.50 | $45.25 | $53.50 |
+| Backpacker | $43.00 | $47.25 | $39.25 | $43.00 | $51.25 |
 
 目录免费索取：Kelty Pack, 1801 Victory Boulevard, Glendale, CA 91201。
 
 ### Camp and Trail
 
-纽约户外供应商中最受喜爱的一家。目录免费；地址行可辨至 Camp and Trail Outfitters, Chambers Street。
+纽约户外供应商中最受喜爱的一家。【Annie Helmuth 推荐。】目录免费：Camp and Trail Outfitters, 112 Chambers Street, New York, N.Y. 10007。
 
 页内列出的商品包括：
 
 - **Lennan Rubber Light，No. 159**：两节电池的防水、防损坏手电筒，开关尤其出色；空重 8 盎司，2.95 美元。
 - **Mallory Pocket Flashlight，No. 163**：附两枚 Penlite 碱性锰电池；连续照明约 5 小时，间歇使用约 8½ 小时，电池搁置寿命两年。手电长 4 英寸、厚约 1½ 英寸、重 4 盎司，1.98 美元；替换电池每枚 0.50 美元。
-- **Russell Knives**：加拿大原创定制设计，面向各种户外使用者；品质有保证，均配手工塑形的油鞣皮鞘。Belt Knife 采用独特椭圆刀刃，适合处理猎物和一般用途，13.95 美元；Trout and Bird Knife 是供小型猎物和鱼类使用的缩小版，11.95 美元；Boat Knife 供划艇者和露营者使用，带腕绳，15.95 美元；Survival Knife 是按武装部队生存要求开发的重型“大号”户外刀，鞘上有防丢固定扣，27.50 美元；Folding Knife 把 Belt Knife 设计做成折刀，21.95 美元。
-- **String Underwear**：挪威制造的轻便网眼绳织内衣，在冷热环境中都靠贴肤空气层帮助身体保持正常温度。运动背心 2.95 美元，T 恤 3.45 美元，短裤 2.95 美元，长裤 4.95 美元。
+- **Russell Knives**：加拿大原创定制设计，面向各种户外使用者；品质有保证，均配手工塑形的油鞣皮鞘。Belt Knife 采用独特椭圆刀刃，适合处理猎物和一般用途；刀刃 4 × 1¼ 英寸、全长 8⅛ 英寸、重 5 盎司，68-8101，13.95 美元。Trout and Bird Knife 是供小型猎物和鱼类使用的缩小版；刀刃 3⅞ × ¾ 英寸、全长 8⅛ 英寸、重 4 盎司，68-8102，11.95 美元。Boat Knife 供划艇者和露营者使用，带腕绳；刀刃 4 × 1⅛ 英寸、全长 8½ 英寸、重 6 盎司，68-8103，15.95 美元。Survival Knife 是按武装部队生存要求开发的重型“大号”户外刀，带腕绳，刀鞘有防丢搭扣；刀刃 5½ × 1⅜ 英寸、全长 10½ 英寸、重 11 盎司，68-8104，27.50 美元。Folding Knife 把 Belt Knife 设计做成折刀，69-8105，21.95 美元。
+- **String Underwear**：挪威制造的轻便网眼绳织内衣，在冷热环境中都靠贴肤空气层帮助身体保持正常温度。运动背心重 4 盎司，68-7040，2.95 美元；T 恤重 5 盎司，68-7041，3.45 美元；短裤重 4 盎司，68-7042，2.95 美元；长裤重 8 盎司，68-7043，4.95 美元。
 
 ### Eddie Bauer
 
@@ -146,10 +151,10 @@ Stephenson Warmlite 是一款供两三人背包旅行和登山使用的帐篷。
 
 目录免费索取：Eddie Bauer Expedition Outfitter, 1737 Airport Way South, Seattle, Washington 98134。
 
-- **No. 0305 Standard 睡袋**：供身高 6 英尺以下者使用，填充 100% 全新高级 Bauer 鹅绒；袋体 81×30 英寸，从顶部 30 英寸逐渐收窄至脚部 16 英寸。包邮 49.50 美元。
-- **No. 0306 Long Size 睡袋**：供身高超过 6 英尺者使用，采用同等鹅绒；袋体 86×30 英寸，同样收窄至脚部 16 英寸。包邮 54.50 美元。
-- **男式长款 Amphibious Sports Suit，No. 2280**：红、海军蓝或橙色，尺码 S 至 XL，包邮 99.50 美元。
-- **女式长款 Amphibious Sports Suit**：橙、粉蓝、红或粉色，尺码 XS 至 L，包邮 95.00 美元。
+- **No. 0305 Standard 睡袋**：供身高 6 英尺以下者使用，填 2¼ 磅 100% 全新高级 Bauer 鹅绒；袋体 81 × 30 英寸，从顶部 30 英寸逐渐收窄至脚部 16 英寸；总重 3½ 磅，包邮 49.50 美元。
+- **No. 0306 Long Size 睡袋**：供身高超过 6 英尺者使用，填 2½ 磅同等鹅绒；袋体 86 × 30 英寸，同样收窄至脚部 16 英寸；总重 3¾ 磅，包邮 54.50 美元。
+- **男式长款 Amphibious Sports Suit，No. 2280**：红、海军蓝或橙色；S（34—36）、M（38—40）、L（42—44）、XL（46）；包邮 99.50 美元。
+- **女式长款 Amphibious Sports Suit，No. 2281**：橙、粉蓝、红或粉色；XS（7—9）、S（10—12）、M（14—16）、L（18—20）；包邮 95.00 美元。
 
 ### Barbour
 
@@ -165,17 +170,13 @@ L/W Thornproof Racing Oversuit 售价 22.00 美元。目录免费索取：Barbou
 
 ## Omitted Bibliographic/Order Info
 
-- Kelty 价格表、Camp and Trail 的门牌号、Russell 刀具的若干分数尺寸和 Eddie Bauer 睡袋重量未稳定写入正文。
-- 女式 Amphibious Sports Suit 的库存号在文字层破损，未写入正文。
+- 无。Kelty 价格表、Camp and Trail 完整地址、Russell 尺寸代码、内衣重量代码及 Eddie Bauer 全部字段均已写入正文。
 
 ## OCR / Uncertainty Notes
 
-- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
-- 生成版 Source Pack 停在 Eddie Bauer 条目开头；直接读取完整 DjVu page object 后，恢复了睡袋和潜水服、Barbour、Black’s，以及 Camp and Trail 的灯具、刀具和内衣商品。
-- XML 横坐标用于区分 Camp and Trail、Barbour 与 Black’s 商品区域；门牌号、装饰框和价格表仍须扫描确认。
-- Camp and Trail 的完整地址行未稳定辨认，因此正文只保留 Chambers Street。
+- 已以原始 `0102.jp2` 完成逐栏扫描核验，页面可见印刷页码为 100。
+- Camp and Trail 完整地址为 112 Chambers Street, New York, N.Y. 10007；女式 Amphibious 库存号为 2281。
 
 ## Self Critique
 
-- 已用完整官方 DjVu 文本替换不可读的逐行机器直译，并分离六个供应商区域。
-- 保留了评论、获取方式和可稳定辨认的商品功能与价格；不稳定数值留待高清扫描确认。
+- 已用原始 JP2 复核六个供应商区域，撤销旧稿对价格表、门牌号、分数尺寸、重量与库存号的省略。
