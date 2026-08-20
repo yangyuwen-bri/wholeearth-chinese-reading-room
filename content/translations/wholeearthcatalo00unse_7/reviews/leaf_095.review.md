@@ -4,11 +4,18 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 《How to Live on Nothing》评介、鸡蛋/MPF/冻管/马勃四组实用摘录；《Gestalt Therapy Verbatim》评介、十四则语录与结尾祷文；《Earth House Hold》评介、诗人选择、雇佣兵、狩猎、Banyan 工作、笼子警语、Tribe 定义与辨认方式。
+- Translation coverage: 三栏全部可读正文、引语、书目、价格与地址均进入终稿；旧稿仅提及而未翻译的长段已经逐段恢复。
+- Permitted omissions: 无。书封与人物照片没有额外正文。
+
 ## Reasons
 
-- 2026-08-15 已逐栏核对 Internet Archive w2000 原扫描，确认《How to Live on Nothing》、完形治疗讲座与 Gary Snyder 文集的版面归属与阅读顺序。
-- 旧版虽标记为 accepted，实际仍有逐行机器转写、断词和栏间串行；本轮已按扫描重译并恢复为可读中文。
-- 可确认的人名、书名、型号、历史价格与地址按原页保留；残缺小字没有据上下文猜补。
+- 2026-08-20 以原始 `0096.jp2` 逐栏复核；印刷页码确认为 94。
+- 实用手册栏恢复鸡蛋的 85% 比价、裂蛋保存、MPF 地址和每磅 3 美分、冻管完整操作与马勃历史用途。
+- Perls 栏恢复“自在”“表层”“中心”“巧妙挫折”等遗漏语录及结尾六行祷文。
+- Snyder 栏恢复雇佣兵、狩猎、Banyan 日常工作、笼子警语与 Tribe 全段，而非以一段现代概述代替。
 
 ## Required Fixes
 
@@ -16,5 +23,4 @@ accepted
 
 ## Residual Risks
 
-- 极小字号的完整书目、尺码或订购细目仍可能有字符级误差，译文已在“不确定注释”中限定其使用边界。
-- 页面评述反映 1969 年的产品与安全知识，不应直接视作当代购买或户外安全建议。
+- 食品、医疗、管道与法律性质文字为 1969 年历史材料，不应直接当作现代专业建议；源页可读正文无待修项。

@@ -4,11 +4,18 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: 《Atlas Shrugged》评介与四段引文；《The Effective Executive》评介、五项原则、routine/self-development、Vail 与 Bell System/Bell Laboratories 案例、右栏六段管理摘录；《Handbook for Conscientious Objectors》评介、三项申请建议、拒绝入伍程序、书目和地址。
+- Translation coverage: 上述全部正文与书目信息均进入终稿；旧稿以一段概述替代的 Vail 案例和管理摘录已经逐段恢复。
+- Permitted omissions: 无。装饰图形与书封照片不含额外需译正文。
+
 ## Reasons
 
-- 2026-08-15 已逐栏核对 Internet Archive w2000 原扫描，确认《Atlas Shrugged》《The Effective Executive》与良心拒服兵役手册的版面归属与阅读顺序。
-- 旧版虽标记为 accepted，实际仍有逐行机器转写、断词和栏间串行；本轮已按扫描重译并恢复为可读中文。
-- 可确认的人名、书名、型号、历史价格与地址按原页保留；残缺小字没有据上下文猜补。
+- 2026-08-20 以原始 `0095.jp2` 逐栏复核；印刷页码确认为 93。
+- Rand 的法律、撤回认可和荒野三段长引文均不再由一句评述代替。
+- Vail 的服务尺度、垄断竞争与贝尔实验室三组论证，以及任务导向关系、淘汰旧成功、政府计划日落等六段摘录均完整恢复。
+- 手册书目按扫描改为“110 页，经常更新”，并保留三项书面申请规则和拒绝入伍的司法/军事管辖边界。
 
 ## Required Fixes
 
@@ -16,5 +23,4 @@ accepted
 
 ## Residual Risks
 
-- 极小字号的完整书目、尺码或订购细目仍可能有字符级误差，译文已在“不确定注释”中限定其使用边界。
-- 页面评述反映 1969 年的产品与安全知识，不应直接视作当代购买或户外安全建议。
+- 法律程序为 1969 年历史材料，不能替代现行法律咨询；源页可读正文无待修项。
