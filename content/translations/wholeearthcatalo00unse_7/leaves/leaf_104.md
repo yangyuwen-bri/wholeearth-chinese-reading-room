@@ -4,7 +4,7 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n104; canonical physical leaf: 105 (origFileName=0105.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 102 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 103 (visible printed page number; verified against the original JP2 scan).
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n104_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n104_w2000.jpg
@@ -117,7 +117,15 @@ close confinement which deprive the losing dove of the
 
 养马没有什么能代替经验，不过这本书已经是最接近经验的东西。前 115 页以百科全书式的方式介绍马匹管理的各个环节；末 50 页则简要讨论英式骑术与马术展示。
 
-全书依次处理：马种的形成、用途、购买与健康检查；鞍具、辔头、刷洗工具、挽具、车辆与马具保养；马厩选址、材料、隔间尺寸、地面、通风照明、马具间、草料阁楼、围场与牧场；饲喂饮水、成本、垫料、刷洗、钉掌、修剪与装运；事故、跛行、伤口、疾病和药箱；牵马、系马、上马、备鞍；以及啃槽、咬毯、摇摆、拥挤、踢咬、拒绝离群、吃草时衔着嚼子、受惊与拒跳等恶习。
+全书目录如下：
+
+1. **选择马匹**：熟悉的马种、它们如何发展及可作何用途；到哪里买马；健全度测试。
+2. **选择与保养装备**：鞍和辔头的种类；刷洗工具与其他马厩装备；所需挽具；车辆类型；马具保养。
+3. **马厩**：位置；材料；隔间尺寸；地面；马厩附件；通风与照明；马具间；草料阁楼；围场与牧场；把车库改成马厩。
+4. **一般照料**：饲喂和饮水原则；所需食物的数量和种类；成本；所需时间；垫料；刷洗；钉掌；修剪；装运；系马方法。
+5. **急救**：事故和受伤；因受伤导致的跛行；因伤口或感染导致的跛行；因慢性状况或疾病导致的跛行；伤口；常见疾病的处理；药箱。
+6. **驾驭马匹**：一般特征与性情；在马厩中驾驭和控制的基本规则；如何牵马；如何倒退走出隔间；在踢人的马周围工作；在牧场捕捉马；套辔与备鞍。
+7. **恶习的成因与控制**：马厩恶习——啃槽、撕咬马毯、摇摆、拥挤、在隔间里踢、突然倒退冲出隔间；其他恶习——鞍下踢蹶、上马时踢、咬另一匹马、在牧场冲撞、鞍下直立、脱缰、受惊、拒绝离开同伴或独自离开马厩、衔着嚼子吃草、在障碍前闪避、在跳跃时过度兴奋。
 
 **《马：选择、照料与驾驭》（Horses: Their Selection, Care and Handling）**，Margaret Cabell Self，1943，170 页，邮资已付 5.95 美元。A. S. Barnes & Co.，Box 421，Cranbury, N.J. 08512；亦可向《全球概览》订购。Michael S. Kaye 推荐并评介。
 
@@ -171,14 +179,13 @@ close confinement which deprive the losing dove of the
 
 ## Omitted Bibliographic/Order Info
 
-- 出现但 OCR 片段过短、模糊或语义不完整的供应商订单信息、完整价格组合及目录索引数据，已在不确定注释中标记。
+- 无。六个内容块的书评、目录、引文、图注、书目、价格、地址与墓志铭均已译出。
 
 ## OCR / Uncertainty Notes
 
-- 本页信息含多处 OCR 断裂，尤其是广告文案、排版符号与小字；价格、邮政号、地址与联系电话可能有字符级误差。
-- 对存在缺字/重复行的条目未作外推补全；仅在原文可见语句内进行转写。
+- 马匹控制和急救做法为历史原文，不代表现代兽医或动物福利建议。
 
 ## Self Critique
 
-- 本页保留原文结构进行逐行机器转写并人工保留，不将历史目录内容重写为现代化列表。
-- 未将可见但高风险片段（尤其是价格与联系信息）进一步规范化，以免误报。
+- 已用原始 `wholeearthcatalo00unse_7_0105.jp2` 逐栏复核，并把旧稿压缩成一个句子的《马》七部分目录恢复为逐级列表。
+- Lorenz 引文、马主急救图注、Jones 三段驯马论述、Brautigan 两段摘录及 John Talbot 墓志铭均完整对应。

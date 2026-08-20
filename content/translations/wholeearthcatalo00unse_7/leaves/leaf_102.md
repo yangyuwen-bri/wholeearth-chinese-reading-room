@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n102; canonical physical leaf: 103 (origFileName=0103.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 100 in the source pack; scan-visible page number not yet verified in this pass.
+- Printed page: 101 (visible printed page number; verified against the original JP2 scan).
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n102_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n102_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0103.djvu` was read directly because the generated Source Pack stopped inside the first Haverhill’s product. XML coordinates and supplier headings were used to separate three catalogue regions. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; complete page object `wholeearthcatalo00unse_7_0103.djvu` plus original JP2 image `wholeearthcatalo00unse_7_0103.jp2`, checked directly for all product tables and prices.
 - OCR recovery: 1401 words / 223 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: cross_page_or_section_continuation, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -127,15 +127,15 @@ Herter’s 还出版业内最有娱乐性的目录：656 页，在你成为老�
 
 目录里的项目包括：
 
-- **《How to Get Out of the Rat Race and Live on $10 a Month》**：广告称这本“名著”有二十多万字、656 页、521 张以上照片和 304 幅插图，相当于三部多小说；专为厌恶自己工作、想取得免费土地、住进荒野和隔绝地区并在那里赚钱的人而写。AE7C14，运输重量 2 磅，4.89 美元。
+- **《How to Get Out of the Rat Race and Live on $10 a Month》**：广告称这本“名著”有二十多万字、656 页、521 张以上照片和 304 幅插图，相当于三部多小说；专为厌恶自己工作、想取得免费土地、住进荒野和隔绝地区并在那里赚钱的人而写。AE7C14，运输重量 2 磅，4.39 美元。
 - **English Bait Hooks**：图示强调钩尖从正面或侧面刺入，没有钩柄干扰；钩尖能绕到鱼唇后方，减少脱钩并钩住轻咬鱼饵的鱼。倒钩向上、向内，不像普通鱼钩那样朝外。
 - **Herter’s Beer Yeast**：Jager 和 ale 用粉状酵母可保存约 30 天，一包足够启动 5 至 10 加仑啤酒。2248，5 克，运输重量 8 盎司，0.87 美元。
 - **古式旅鸽诱鸟**：从前旅鸽很多，在树上挂几只诱鸟便能引来一群又一群。Herter 家的女人会去诱鸟树下，用围裙兜起死鸽，带回家清理。旅鸽是深色肉，略带肝味，配洋葱味道还好；家里孩子多时尤其不坏。诱鸟比哀鸽诱鸟大约三分之一，涂有颜色，腿固定在一小块纹理鲜明的黑胡桃木上。既是装饰，也是少见的美国纪念物。29-1117，运输重量 2 磅，4.89 美元。
-- **明尼苏达白橡木酒桶**：一级明尼苏达白橡木制成，内壁涂蜡；桶体结实严密，适合酿酒，有六道钢箍和侧面桶塞。使用前装满水浸泡 48 小时。
+- **明尼苏达白橡木酒桶**：一级明尼苏达白橡木制成，内壁涂蜡；桶体结实严密，适合酿酒，有六道钢箍和侧面桶塞。使用前装满水浸泡 48 小时。3110：5 加仑，运输重量 15 磅，9.97 美元；3111：10 加仑，运输重量 23 磅，11.97 美元。
 
 ### Haverhill’s
 
-各种精巧小物。Haverhill’s 卖的是一种价格高昂的私人家具和“高管工具”；由于普遍轻便顺手，也可算游牧用品。它最大的缺点是顾客——他们特别爱夸耀这些漂亮玩意：“看，把它转过来就能擦背；这里还有藏药片的暗格。我现在一直带着。你为什么不买一个？才四十二……”［Alan Kalker 推荐］
+各种精巧小物。Haverhill’s 卖的是一种价格高昂的私人家具和“高管工具”；由于普遍轻便顺手，也可算游牧用品。它最大的缺点是顾客——他们特别爱夸耀这些漂亮玩意：“看，把它转过来就能擦背；这里还有藏药片的暗格。我现在一直带着。你为什么不买一个？才四十二美元。”［Alan Kalker 推荐］
 
 目录免费索取：Haverhill’s, 584 Washington Street, San Francisco, CA 94111。
 
@@ -149,25 +149,22 @@ Herter’s 还出版业内最有娱乐性的目录：656 页，在你成为老�
 
 目录 0.10 美元：Smilie Co., 575 Howard Street, San Francisco, CA 94105。
 
-- **Camp Sewing Kit**：真正给露营者用的缝纫包，坚固线、针、剪刀和顶针都装在紧凑耐用的按扣盒里。9130，重约 3½ 盎司，1.25 美元。
-- **Sheepherders Wood Camp Stove**：旧式牧羊人炉，为长期重负荷使用而造。20 号厚铁皮炉体，五节伸缩烟管可收入炉膛；附约 5×8×11 英寸烤箱和烤盘，整体约 12×9×27 英寸，可作为骡马顶载。2-3405，炉重 26 磅，运输重量 35 磅，不包邮，25.00 美元。另有烟管风门和石棉帐篷烟管环。
-- **Press-Top Tins**：防鼠、防松鼠且防水的食品储藏罐，两只恰好能滑入骡马驮箱；外壁涂色后还可用颜色区分食物。因底部焊接，不能直接放火上。3920，5 加仑，约 1.95 美元，不包邮。
-- **防潮 Vinylite 食品袋**：焊接的坚韧 Vinylite 制成，圆形平底可直立，带系绳，确实能保持食物干燥。容量从 1 磅到 25 磅，价格 0.45 至 1.50 美元。
-- **Jumbo Cast Iron Griddle**：供大型骡马驮运队伍使用，煎板面约 13¼×25 英寸，连把手总长约 30 英寸。2-3214，运输重量 28 磅，不包邮，15.95 美元。
+- **Camp Sewing Kit**：真正给露营者用的缝纫包，坚固线、针、剪刀和顶针都装在紧凑耐用的按扣盒里。尺寸 3½ × 3¼ × 1¼ 英寸；9130，重 3½ 盎司，1.25 美元。
+- **Sheepherders Wood Camp Stove**：旧式牧羊人炉，为长期重负荷使用而造。20 号厚铁皮炉体，五节、每节 16 英寸的伸缩烟管可收入炉膛；附 5 × 8 × 11 英寸烤箱和烤盘，整体 12 × 9 × 27 英寸，可作为骡马顶载。2-3405，炉重 26 磅，运输重量 35 磅，不包邮，25.00 美元。附件：2-3428，4 英寸烟管风门，重 7 盎司，0.85 美元；2-3429，5 英寸烟管风门，重 9 盎司，0.95 美元；2-3426，4½ 英寸石棉帐篷烟管环，重 4 盎司，2.25 美元；2-3427，5½ 英寸环，重 5 盎司，2.50 美元；2-3425，6½ 英寸环，重 6 盎司，2.75 美元；2-3410，五节额外伸缩烟管，最大直径 5 英寸、重 6 磅，不包邮，6.65 美元。
+- **Press-Top Tins**：防鼠、防松鼠且防水的食品储藏罐，两只恰好能滑入骡马驮箱；外壁涂色后还可用颜色区分食物。因底部焊接，不能直接放火上。方形 9¼ 英寸、高 13¾ 英寸，开口直径 7 英寸并带盖；3920，5 加仑，重 2½ 磅，未上漆，不包邮，1.95 美元。
+- **防潮 Vinylite 食品袋**：焊接的坚韧 Vinylite 制成，圆形平底可直立，带系绳，确实能保持食物干燥。2-6210：1 磅，直径 2¾ × 高 9 英寸，重 ½ 盎司，0.45 美元；2-6220：2½ 磅，直径 4½ × 高 11 英寸，重 1 盎司，0.55 美元；2-6240：5 磅，直径 6 × 高 12 英寸，重 2 盎司，0.65 美元；2-6260：15 磅，直径 9 × 高 16 英寸，重 3 盎司，1.25 美元；2-6261：25 磅，直径 9 × 高 25 英寸，重 5 盎司，1.50 美元。
+- **Jumbo Cast Iron Griddle**：供大型骡马驮运队伍使用，煎板面 13½ × 25 英寸，连把手总长 30 英寸。2-3214，运输重量 28 磅、裸件重 25 磅，不包邮，15.95 美元。
 
 ## Omitted Bibliographic/Order Info
 
-- Herter’s 白橡木酒桶的容量和价格、Haverhill’s 顾客引语末尾金额、Smilie 烟管附件的部分分数尺寸未稳定写入正文。
-- Vinylite 食品袋的逐型号容量表压缩为范围；价格与获取含义均保留。
+- 无。酒桶、Haverhill’s 引语、烟管附件、Press-Top 罐、Vinylite 全表与煎板字段均已逐项写入。
 
 ## OCR / Uncertainty Notes
 
-- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
-- 生成版 Source Pack 停在 Miniscope 条目开头；直接读取完整 DjVu page object 后，恢复了 Herter’s、Haverhill’s 和 Smilie Company 的完整评论与主要商品。
-- 页面为三栏邮购目录；当前按供应商和商品标题重建，但图片、分数尺寸、库存号和价格仍须扫描逐项核对。
+- 已以原始 `0103.jp2` 完成逐栏扫描核验，页面可见印刷页码为 101。
+- 页面为三栏邮购目录；图片旁的分数尺寸、库存号和价格均已逐项核对。
 - “骨子里的姐妹”自我讽刺属于 Herter’s 评论，不是商品广告；已依同栏语义归回书评。
 
 ## Self Critique
 
-- 已用完整官方 DjVu 文本替换不可读的逐行机器直译，并分离三个供应商区域。
-- 保留了《全球概览》的自我批评、供应商判断、历史广告文案和可稳定辨认的商品规格；不稳定字段留待高清扫描确认。
+- 已用原始 JP2 修正 Rat Race 书价（4.39 美元）并恢复旧稿声称不稳定的全部规格表。

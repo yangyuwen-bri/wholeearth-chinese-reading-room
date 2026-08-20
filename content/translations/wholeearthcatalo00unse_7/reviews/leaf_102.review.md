@@ -4,14 +4,21 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: Herter's 评论/目录/五类商品；Haverhill's 评论/地址/三类商品；Smilie 评论/地址、缝纫包、炉具及六附件、Press-Top 罐、五种 Vinylite 袋、铁煎板。
+- Translation coverage: 三个供应商区的评论、广告文案、尺寸、重量、容量、代码、价格与地址全部进入终稿。
+- Permitted omissions: 无。商品照片本身不含额外正文。
+
 ## Reasons
 
-- 2026-08-15 已用 `n102_w2000.jpg` 逐栏复核。
-- Herter's、Haverhill's 和 Smilie 三个目录区块已核对；主要评论、产品类型、价格与地址均按扫描归位。
-- OCR 残缺处没有凭空补写；读者仍可通过同页高清扫描核对图表和小字。
+- 2026-08-20 以原始 `0103.jp2` 逐栏复核；印刷页码确认为 101。
+- Rat Race 旧稿价格 4.89 已按扫描纠正为 4.39；两种酒桶价格和运输重量已恢复。
+- Smilie 炉具的六项附件、Press-Top 全尺寸、Vinylite 五行表格和煎板裸重均逐项对应。
+- Haverhill's 被截断的“42 美元”引语和 Miniscope/自行车/手电字段均完整。
 ## Required Fixes
 
-- None.
+- 无。
 ## Residual Risks
 
-- 极小号图表或广告的全部编号未逐项收入译文；不影响主要书评、条目归属和读者理解。
+- 历史商品规格和价格不代表当前状态；源页可读正文无待修项。
