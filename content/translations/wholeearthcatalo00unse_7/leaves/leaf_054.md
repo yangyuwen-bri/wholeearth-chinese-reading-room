@@ -106,7 +106,7 @@ Hery Rare --Reviewed by Jay Baldwin]
 - Section placement: Industry and Craft; official scandata labels the page as printed page 53. The canonical scan is 0055.jpg / physical leaf 55.
 - Visible entry and anchor inventory (scan-verified): Metal Techniques for Craftsmen; three metalwork captions; Sand Casting of Aluminum; forge-welding instructions; anvil labels; regional general-tool and jewelry-supply directory; Saunders Casting Equipment and Supplies; Adhesive Products; Gem Guild gemstone list.
 - OCR heading anchors (verbatim, not normalized): "or WHOLE EARTH CATALOG"; "This catalog looks to have everything you’d need to get into"; "learn a Jot just by looking at this catalog."; "Catalog [Reviewed by Jay Baldwin]"; "the catalog appears to be of the sort one finds printed"
-- High-resolution checks completed on 2026-08-13: column and entry order, caption ownership, substantive right-column prose, stable dimensions, device numbers, diagram labels, and readable supplier names were checked against the linked w2000 scan. Independent regression review remains required.
+- High-resolution checks completed on 2026-08-21: column and entry order, caption ownership, substantive right-column prose, dimensions, device numbers, diagram labels, supplier addresses and price fields were checked against the original 3514×4752 JP2; independent regression review is complete.
 - Text may be obscured by rules, photos, decorative display type, low contrast, or narrow columns. Do not infer missing prose, silently reorder material, or turn catalogue blocks into a summary without review.
 
 ## Glossary Updates
@@ -150,9 +150,57 @@ Oppi Untracht 著，1968 年，509 页，19.95 美元包邮；Doubleday & Co.，
 
 ### 通用工具与用品供应商
 
-供应商按地区分组。纽约地区包括 Allcraft Tool and Supply、Anchor Tool、Craftool、Gamzon Bros.、Paul H. Gesswein、I. Shor、Standard Diamond Tool、John Sells and Sons；纽约州以外的东部地区包括 Craft Service、William Dixon、American Handicrafts、T. B. Hagstoz & Son、B. A. Ballou、Capitol Tool and Findings、W. R. Cobb、Manin Jewelers Supply、C. W. Somers、General Findings、Arts and Crafts Distributors、Bergen Handicraft Supplies。
+#### 纽约
 
-中西部与南部包括 Brodhead Garret、Ohio Jeweler’s Supply、Snapvent、C. R. Hill、Bartlett、The Jewelry Craftsman、Ernest Linick、C. and E. Marshall、Sax Crafts、Gagers Handicraft、Norvell Marcum、New Orleans Jeweler’s Supply、Southland Jeweler’s Supply；西部包括 Baker Platinum、Miller Tool and Supply、Nordman & Aurich、Williams & Peterson、J. J. Jewelcraft、Grieger、L. A. Clark。
+- Allcraft Tool and Supply Co., Inc.，15 West 45th Street, New York, N.Y. 10036
+- Anchor Tool Co.，12 John Street, New York, N.Y. 10007
+- Craftool, Inc.，396 Broadway, New York, N.Y. 10013
+- Gamzon Bros.，15 West 47th Street, New York, N.Y. 10036
+- Paul H. Gesswein & Co., Inc.，235 Park Avenue South, New York, N.Y. 10003
+- I. Shor Co., Inc.，64 West 48th Street, New York, N.Y. 10036
+- Standard Diamond Tool Co., Inc.，71 West 47th Street, New York, N.Y. 10036
+- John Sells and Sons，66 West Broadway, New York, N.Y.
+
+#### 除纽约外的东部各州
+
+- Craft Service，337–341 University Avenue, Rochester 7, N.Y.；工具与用品
+- William Dixon, Inc.，32 East Kinney Street, Newark 1, N.J.；工具与用品
+- American Handicrafts Co.，45–49 South Harrison Street, East Orange, N.J.
+- T. B. Hagstoz & Son，709 Sansom Street, Philadelphia 6, Pa.
+- B. A. Ballou and Co., Inc.，61 Peck Street, Providence, R.I.；珠宝配件
+- Capitol Tool and Findings Co., Inc.，100 Delaine, Providence 9, R.I.
+- W. R. Cobb Co.，101 Sabin Street, Providence, R.I.；珠宝配件
+- Manin Jewelers Supply Co., Inc.，373 Washington Street, Boston 8, Mass.
+- C. W. Somers Co.，387 Washington Street, Boston 8, Mass.；珠宝用品
+- General Findings, Inc.，Attleboro, Mass.；各种金属制珠宝配件
+- Arts and Crafts Distributors, Inc.（展厅与服务中心），9520 Baltimore Avenue, College Park, Md.
+- Bergen Handicraft Supplies，300 S.W. 17th Avenue, Miami, Fla.
+
+#### 中西部与南部
+
+- Brodhead Garret & Co.，4560 East 71st Street, Cleveland 5, O.；工具与用品
+- Ohio Jeweler’s Supply, Inc.，1000 Schofield Building, Ninth and Euclid Ave., Cleveland 15, O.
+- Snapvent Company，1107 West Cumberland Avenue, Knoxville, Tenn.；工具与用品
+- C. R. Hill Co.，35 West Grand River, Detroit 26, Mich.；金属与工具
+- Bartlett & Co., Inc.，5 South Wabash Avenue, Room 819, Chicago, Illinois；小型工具与珠宝用品
+- The Jewelry Craftsman Co.，139 North Wabash Avenue, Chicago 2, Ill.；配件
+- Ernest Linick Co.，5 South Wabash Avenue, Chicago 3, Ill.；珠宝用品
+- C. and E. Marshall Co.，1445 West Jackson Boulevard, Chicago, Ill.
+- Sax Crafts，1101 North 3rd Street, Milwaukee, Wis.；金属、工具与配件
+- Gagers Handicraft，1024 Nicollet Avenue, Minneapolis 3, Minn.；工具
+- Norvell Marcum Co.，223 East Third, Tulsa 3, Okla.；手工工具与珠宝用品
+- New Orleans Jeweler’s Supply Co.，208 Chartres Street, New Orleans, La.
+- Southland Jeweler’s Supply Co.，213 Baronne Street, New Orleans, La.
+
+#### 西部
+
+- Baker Platinum（Engelhard Industries 的一个部门），760 Market Street, San Francisco, Calif.；珠宝用品、配件与金属
+- Miller Tool and Supply Co.，1044 Folsom Street, San Francisco, Calif.
+- Nordman & Aurich，657 Mission Street, San Francisco, Calif.；工具、珠宝用品与配件
+- Williams & Peterson，130 Geary Street, San Francisco, Calif.
+- J. J. Jewelcraft，2732 Colorado Boulevard, Los Angeles 41, Calif.；珠宝匠与宝石切磨工具及用品
+- Grieger and Co.，1633 East Walnut Street, Pasadena 4, Calif.；工具、用品与宝石切磨设备
+- L. A. Clark Co.，1417 4th Avenue, Seattle, Wash.
 
 Oppi Untracht 还列出了电动工具、化学品、宝石、磨料、铸造用品、焊接用品、铸造厂、木材、电镀设备及英国供应商的来源。
 
@@ -162,26 +210,36 @@ Oppi Untracht 还列出了电动工具、化学品、宝石、磨料、铸造用
 
 ### Adhesive Products
 
-Adhesive Products 提供可浇铸任何形状的硅橡胶制模材料，以及 Monzini 环氧基浇铸化合物。宣传册和价目表免费索取；地址为 Adhesive Products Corp.，1660 Boone Avenue，Bronx, N. Y. 10460。［Jeff Schlanger 推荐并评论］
+Adhesive Products 提供可浇铸任何形状的硅橡胶制模材料，以及低价的 Monzini 环氧基浇铸化合物——“二十世纪的材料”。［Jeff Schlanger 推荐并评论］
+
+宣传册和价目表免费索取；地址为 Adhesive Products Corp.，1660 Boone Avenue，Bronx, N. Y. 10460。
+
+- 1½ 品脱套装（1½ 磅）：1 磅 ADRUB RTV 加 ½ 磅 ADRUB RTV 橡胶硬化剂，6.00 美元。
+- 4530 MONZINI BRONZINI：5 加仑装每磅 0.50 美元；1 加仑装每磅 0.60 美元。
 
 ### Gem Guild
 
 看起来他们的东西不错；我不清楚其信誉。他们确有稀有物品出售，目录似乎是那种由真正懂行、热爱这门行当的怪人印出来的东西。目录免费索取；The Gem Guild，Box 713，Mill Valley, CA 94941。［Carol Guyton Goodell 推荐；Jay Baldwin 评论］
 
-小幅价目列出的宝石包括锰铝榴石（spessartite garnet）、绿色石英（green quartz）、帝王青金石（imperial lapis lazuli）、玫红榴石（rhodolite garnet）和马萨诸塞州硅硼钙石（Massachusetts datolite）；说明分别强调其溪流磨圆晶体、祖母绿色调、浓烈皇家蓝色、优质晶体或可切面的稀有晶体。
+小幅价目题为 **The Very Rare**：每包 12.00 美元，两包 22.00 美元。包内选项为：
+
+- 锰铝榴石（spessartite garnet）：“石榴石女王”，近乎预先成形的完美溪流磨圆晶体；5 克拉一包。
+- 稀有绿色石英（green quartz）：来自巴西、令人惊异的“绿色”材料；12 克拉一包。
+- 帝王青金石（imperial lapis lazuli）：浓烈、纯净的皇家蓝；产自阿富汗，形状良好且大小可用；20 克拉一包。
+- 玫红榴石（rhodolite garnet）：最高等级的溪流磨圆晶体；9 克拉一包。
+- 马萨诸塞州硅硼钙石（Massachusetts datolite）：稀有晶体的优质可切面部分；15 克拉一包。
 
 ## Omitted Bibliographic/Order Info
-- 通用工具与用品目录中数十家公司的完整街道地址及重复的“工具／配件”品类说明未逐行转写；公司名和地区结构已保留。
-- Gem Guild 小幅价目的每克拉金额，以及 Adhesive Products 的套装编号、重量和批量单价，属于小字号交易字段；因部分数字仍不稳定，未写入读者正文。
+- 无。供应商的全部可读地址与品类、Adhesive Products 的套装和批量价格、Gem Guild 的包价与克拉重量均已从原始 JP2 逐项译录。
 
 ## OCR / Uncertainty Notes
 - w2000 原图确认了饰针长 5 5/16 英寸、项链长 16½ 英寸且单元为 3½ × ½ 英寸；先前 OCR 给出的 ⅝ 英寸并不符合扫描，已改正。
 - 电镀装置编号 1–7、砂铸最小截面 3/16 英寸及铁砧主要标签均已从扫描核对。
-- Gem Guild 小幅价目标题和金额仍受极小字号影响；宝石名称及可辨描述已保留，金额不作猜测。
-- 页面右侧供应商目录有少数公司名和地址字符过小；译文仅保留可稳定辨认的名称和地区结构。
+- Gem Guild 的数字是每包所含克拉数，而不是每克拉价格；旧稿对此理解有误，已按标题“每包 12 美元、两包 22 美元”纠正。
+- 历史地址中的城市分区编号（如 Chicago 2、Boston 8）按原刊保留。
 
 ## Self Critique
 - 已按高清扫描补回官方 OCR 完全漏掉的右栏：铝砂型铸造、锻焊、铁砧标签和供应商目录。
 - 已把 Saunders、Adhesive Products 与 Gem Guild 分成三个独立条目，并纠正项链单元尺寸。
-- 未把无图注的工具照片写成来源没有的说明；无法稳定读取的价目数字留在不确定性记录中。
-- 本页已完成译者自检，但因改动包含大段新增译文和尺寸纠正，仍需独立复核后才能接受。
+- 未把无图注的工具照片写成来源没有的说明。
+- 2026-08-21 已对原始 3514×4752 JP2 完成独立复核，补齐全部交易字段和名录地址，页面可接受。

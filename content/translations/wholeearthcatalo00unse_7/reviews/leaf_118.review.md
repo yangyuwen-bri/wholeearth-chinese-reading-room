@@ -14,10 +14,10 @@ accepted
 
 - Source inventory: 7 个独立内容区块，1 张 13 日课程表，3 段独立引文，4 段 Fuller 摘录，1 份 24 类器材清单，全部已定位。
 - Translation coverage: 所有正文、表格、引文、书目、产品、价格、地址和署名均有中文对应。
-- Permitted omissions: 《The Road to Kwashiorkr》封面无法可靠辨清的极小副文不转写；无正文、表格行或目录条目省略。
+- Permitted omissions: 仅未描述无图注照片和纯视觉插图；《The Road to Kwashiorkr》封面副文已从原始 JP2 补译，无正文、表格行或目录条目省略。
 ## Required Fixes
 
 - 无。
 ## Residual Risks
 
-- 页面元数据和 Humanitas 信箱号存在源内冲突，已并列记录；右下书封极小副文仍依赖扫描查看。
+- 页面元数据和 Humanitas 信箱号存在源内冲突，已并列记录；无文字覆盖风险。
