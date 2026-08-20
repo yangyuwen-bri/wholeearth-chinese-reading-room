@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1974《全球概览·尾声》 / 软技术暹罗猫小册子</title>
+  <style>
+    :root { --paper:#efe4cf; --sheet:#fff8e9; --ink:#211911; --muted:#6d6255; --line:#c7b796; --heavy:#3b2a1e; --blue:#245c83; --green:#546f46; }
+    * { box-sizing:border-box; } html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:linear-gradient(rgba(33,25,17,.035) 1px,transparent 1px),radial-gradient(circle at 14% 8%,rgba(255,248,233,.88),transparent 26%),var(--paper); background-size:100% 22px,auto,auto; font-family:"Iowan Old Style","Songti SC","STSong","Noto Serif CJK SC",Georgia,serif; line-height:1.62; }
+    .booklet { width:min(1360px,100%); margin:0 auto; padding:clamp(16px,3vw,38px); }
+    .chapter-strip { display:flex; flex-wrap:wrap; gap:10px 18px; align-items:baseline; padding:4px 0 18px; border-bottom:1px solid var(--line); color:var(--muted); font-size:14px; }
+    .chapter-strip strong { color:var(--ink); font-size:clamp(22px,3vw,34px); font-weight:650; }
+    .reader-guide,.phase { border-bottom:1px solid rgba(199,183,150,.72); }
+    .reader-guide { display:grid; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); gap:clamp(18px,4vw,48px); padding:clamp(22px,4vw,44px) 0; align-items:start; }
+    .reader-guide h1,.phase h2 { margin:0; color:var(--ink); font-size:clamp(28px,4vw,52px); line-height:1.26; font-weight:650; letter-spacing:0; padding:0 0 .12em; }
+    .guide-copy { display:grid; gap:12px; color:#392d22; font-size:clamp(17px,1.6vw,21px); line-height:1.68; }
+    .guide-copy p,.phase p,.copy p,h2 { margin:0; }
+    .toc { display:flex; flex-wrap:wrap; gap:8px; padding:18px 0 10px; border-bottom:1px solid rgba(199,183,150,.66); }
+    .toc a { color:var(--blue); text-decoration:none; border:1px solid rgba(36,92,131,.34); background:rgba(255,248,233,.62); padding:4px 9px; font-size:13px; }
+    .phase { display:grid; grid-template-columns:minmax(0,.46fr) minmax(0,1fr); gap:clamp(18px,4vw,44px); padding:clamp(20px,4vw,38px) 0 0; color:var(--muted); }
+    .phase h2 { font-size:clamp(24px,3.2vw,42px); line-height:1.3; }
+    .phase p { max-width:780px; font-size:clamp(16px,1.45vw,19px); line-height:1.72; }
+    .spread { display:grid; grid-template-columns:minmax(0,1.42fr) minmax(320px,.58fr); gap:clamp(18px,3.5vw,42px); align-items:center; min-height:min(860px,calc(100vh - 24px)); padding:clamp(26px,5vw,66px) 0; border-bottom:1px solid rgba(199,183,150,.76); }
+    .spread:nth-of-type(even) { grid-template-columns:minmax(320px,.58fr) minmax(0,1.42fr); } .spread:nth-of-type(even) .art { order:2; }
+    .art { margin:0; padding:clamp(8px,1.2vw,14px); border:1.5px solid var(--heavy); border-radius:18px; background:var(--sheet); box-shadow:12px 12px 0 rgba(59,42,30,.09); min-width:0; }
+    .art img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; border-radius:12px; background:#f7ecd6; }
+    .copy { min-width:0; display:grid; gap:14px; align-content:center; }
+    .module { color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; }
+    .copy h2 { font-size:clamp(28px,4.3vw,54px); line-height:1.26; font-weight:650; letter-spacing:0; padding-bottom:.08em; }
+    .anchor { padding-left:14px; border-left:3px solid var(--green); font-size:clamp(18px,2vw,23px); line-height:1.58; }
+    .body { color:#392d22; font-size:15.5px; line-height:1.72; } .body + .body { margin-top:-4px; } .body strong { color:var(--ink); font-weight:700; }
+    .tags { display:flex; flex-wrap:wrap; gap:8px; } .tags span { border:1px solid rgba(36,92,131,.42); color:var(--blue); background:rgba(255,248,233,.78); padding:3px 8px; font-size:13px; }
+    @media (max-width:960px) { .reader-guide,.phase,.spread,.spread:nth-of-type(even) { grid-template-columns:1fr; min-height:auto; } .spread:nth-of-type(even) .art { order:0; } }
+    @media (max-width:560px) { .booklet { padding:14px; } .art { border-radius:12px; box-shadow:6px 6px 0 rgba(59,42,30,.09); } .art img { border-radius:8px; } .body { font-size:15px; } }
+  </style>
+</head>
+<body>
+  <main class="booklet">
+    <div class="chapter-strip"><strong>四、软技术</strong><span>1974《全球概览·尾声》 / 暹罗猫知识小册子</span></div>
+
+    <section class="reader-guide" aria-label="读法">
+      <h1>这章最反浪漫。</h1>
+      <div class="guide-copy">
+        <p>软技术听起来温柔，但鲍德温在这里不断降温：太阳、风和沼气也许免费，捕获和储存它们的硬件并不免费。真正需要的不是推销，而是交付。</p>
+        <p>所以这册按“能不能工作”来读：成本、维护、失败方式、天气、材料、研究网络、组件和实际使用反馈，比漂亮口号更重要。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="软技术小册子目录">
+      <a href="#st-01">01 交付</a>
+      <a href="#st-02">02 太阳硬件</a>
+      <a href="#st-03">03 研究共同体</a>
+      <a href="#st-04">04 风能现实</a>
+      <a href="#st-05">05 信息网络</a>
+      <a href="#st-06">06 组件</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、先问能不能交付</h2>
+      <p>《全球概览》 并不反对替代技术，它反对把愿望当技术。能工作的软技术必须说清成本、失败、维护和减少需求。</p>
+    </section>
+
+    <article class="spread" id="st-01">
+      <figure class="art"><img src="assets/soft-tech-siamese-final/01-deliver-not-sell.png" alt="交付而不是推销 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 01</div>
+        <h2>交付，而不是推销</h2>
+        <p class="anchor">替代能源不自动等于好工具。硬件是否可靠，比立场更重要。</p>
+        <p class="body"><strong>先看图：</strong>猫把宣传海报推到一边，打开的是工作手册：什么能用、花多少钱、怎样失败、怎样减少需求。软技术先要过这一关。</p>
+        <p class="body"><strong>有趣的是：</strong>鲍德温说，没有想清楚、做仔细的装置，会变成另一个“漏水圆顶”，用反复失败挫伤善意的人。风电不只是玩具，沼气设备也少得惊人。</p>
+        <p class="body"><strong>为什么重要：</strong>软技术不是纯洁意识形态。它必须能被理解、购买、安装、维修、复制和批评。</p>
+        <div class="tags"><span>读图线索：别先推销</span><span>失败会伤人</span><span>需要工作手册</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="st-02">
+      <figure class="art"><img src="assets/soft-tech-siamese-final/02-solar-low-temperature-hardware.png" alt="太阳能低温和硬件 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 02</div>
+        <h2>太阳能：低温效率和会工作的细节</h2>
+        <p class="anchor">太阳能不是越热越好。低温、流量、储热和保温细节，决定系统是否真的有用。</p>
+        <p class="body"><strong>先看图：</strong>泳池集热器、家用热水、珠帘保温墙、天窗盖、55 加仑桶墙和小型太阳电池被放在同一张硬件台上。它们不是同一个问题。</p>
+        <p class="body"><strong>有趣的是：</strong>低温集热器效率高，泳池几千加仑水升到约 80°F，反而可以用塑料；家用热水要到 140°F，才需要更昂贵的金属、黑涂层和玻璃。</p>
+        <p class="body"><strong>为什么重要：</strong>太阳能电力被处理得很谨慎：给野外无线电或小计算器充电可以，给整个家庭或车辆供电，基本可以先忘掉。</p>
+        <div class="tags"><span>读图线索：低温也有力量</span><span>硬件细节决定成败</span><span>别夸大家庭供电</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、原型要在天气里工作</h2>
+      <p>佐姆工坊、衔尾蛇项目、新炼金术研究所和综合生命系统实验室都不是概念图，它们在屋顶、温室、鱼池、山地雪和无备用能源中测试软技术。</p>
+    </section>
+
+    <article class="spread" id="st-03">
+      <figure class="art"><img src="assets/soft-tech-siamese-final/03-research-communities-prototypes.png" alt="研究共同体和真实原型 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 03</div>
+        <h2>研究共同体和真实原型</h2>
+        <p class="anchor">你从这些团体买到的不只是产品，而是研究网络和可被检验的原型。</p>
+        <p class="body"><strong>先看图：</strong>佐姆工坊的天窗盖、衔尾蛇旧房改造、新炼金术研究所的“方舟”、综合生命系统实验室的山地实验室连成一张网络。每个节点都在真实气候和真实负荷下工作。</p>
+        <p class="body"><strong>有趣的是：</strong>衔尾蛇东部项目用南向屋顶和南墙集热器，加地下室 2,000 加仑钢水箱储热；新炼金术研究所的 13,500 加仑鱼池既是生产系统，也是储热和气候调节组件。</p>
+        <p class="body"><strong>为什么重要：</strong>软技术在这里不是买一个机器，而是加入不断试错、公布结果、修正设计的研究共同体。</p>
+        <div class="tags"><span>读图线索：原型要经冬天</span><span>鱼池也是储热</span><span>研究网络</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="st-04">
+      <figure class="art"><img src="assets/soft-tech-siamese-final/04-wind-weather-maintenance.png" alt="风能天气维护 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 04</div>
+        <h2>风能：天气比梦想更大</h2>
+        <p class="anchor">荒野木屋屋顶上小风机呼呼转的梦很诱人，也很难。</p>
+        <p class="body"><strong>先看图：</strong>风机不是只有叶片。塔架、电池、控制器、维护、冰、尘、腐蚀、冰雹、昆虫、雷击、金属疲劳和极端风力都在图里。</p>
+        <p class="body"><strong>有趣的是：</strong>《全球概览》 知道至少一例昂贵进口设备在山地风暴中整个被吹走。自制机器常常输出低、故障多，商业机器也贵。</p>
+        <p class="body"><strong>为什么重要：</strong>风能需要气候数据、空气动力学、机械、电池、塔架和长期维护。把成本分摊给共同体，也许比单户硬扛更现实。</p>
+        <div class="tags"><span>读图线索：风不是免费电</span><span>天气会考试</span><span>共同体分摊成本</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、信息网络和组件抽屉</h2>
+      <p>软技术不是一台完美机器，而是一套学习网络和零件生态：草根通讯、读者反馈、旧工具、动物生理、胶带、磁铁、灯、树脂、小机械和“凑合着做”。</p>
+    </section>
+
+    <article class="spread" id="st-05">
+      <figure class="art"><img src="assets/soft-tech-siamese-final/05-grassroots-journals-big-institutions.png" alt="草根通讯和大机构阴影 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 05</div>
+        <h2>草根信息网络与大机构阴影</h2>
+        <p class="anchor">读者反馈会让标准变严，但大机构也会把太阳和风重新包装成可销售系统。</p>
+        <p class="body"><strong>先看图：</strong>一边是草根通讯、项目档案、求职者技能和读者反馈；另一边是美国航天局、石油公司、燃气研究机构和广告机器。</p>
+        <p class="body"><strong>有趣的是：</strong>《替代能源》随着读者和编辑互相教育，幻想减少，方案质量提高。《正在制作》则把合作项目和求职者档案连起来。</p>
+        <p class="body"><strong>为什么重要：</strong>低技术运动并不会自动免于权力吸收。了解大机构正在做什么，至少知道表面，是必要的。</p>
+        <div class="tags"><span>读图线索：反馈提高标准</span><span>广告会重新包装</span><span>了解权力基础</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="st-06">
+      <figure class="art"><img src="assets/soft-tech-siamese-final/06-animal-design-biogas-components.png" alt="动物设计沼气组件 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 06</div>
+        <h2>动物、沼气、旧工具和组件</h2>
+        <p class="anchor">软技术最终落在能买、能改、能修、能拿来试验的小东西上。</p>
+        <p class="body"><strong>先看图：</strong>袋鼠鼠、狗喘气、热交换、沼气、旧中国工具、油浸木轴承、强力胶带、磁铁、灯、塑料器材、树脂、玻璃纤维和热管都被放进组件抽屉。</p>
+        <p class="body"><strong>有趣的是：</strong>狗喘气可能接近呼吸系统的共振频率，这样散热时耗费最少肌肉能量。动物在这里成了干旱气候建筑和设计的教材。</p>
+        <p class="body"><strong>为什么重要：</strong>《工作中的中国》和《凑合着做》提醒人：真正精炼的工具往往不浪费材料，尤其不浪费金属。软技术的能力，常常藏在旧工具和小组件里。</p>
+        <div class="tags"><span>读图线索：动物也是工程课</span><span>旧工具不浪费</span><span>组件能试错</span></div>
+      </section>
+    </article>
+  </main>
+</body>
+</html>

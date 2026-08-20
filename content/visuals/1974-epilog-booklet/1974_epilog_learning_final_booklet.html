@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1974《全球概览·尾声》 / 学习暹罗猫小册子</title>
+  <style>
+    :root { --paper:#efe4cf; --sheet:#fff8e9; --ink:#211911; --muted:#6d6255; --line:#c7b796; --heavy:#3b2a1e; --blue:#245c83; --green:#546f46; }
+    * { box-sizing:border-box; } html { scroll-behavior:smooth; }
+    body { margin:0; color:var(--ink); background:linear-gradient(rgba(33,25,17,.035) 1px,transparent 1px),radial-gradient(circle at 14% 8%,rgba(255,248,233,.88),transparent 26%),var(--paper); background-size:100% 22px,auto,auto; font-family:"Iowan Old Style","Songti SC","STSong","Noto Serif CJK SC",Georgia,serif; line-height:1.62; }
+    .booklet { width:min(1360px,100%); margin:0 auto; padding:clamp(16px,3vw,38px); }
+    .chapter-strip { display:flex; flex-wrap:wrap; gap:10px 18px; align-items:baseline; padding:4px 0 18px; border-bottom:1px solid var(--line); color:var(--muted); font-size:14px; }
+    .chapter-strip strong { color:var(--ink); font-size:clamp(22px,3vw,34px); font-weight:650; }
+    .reader-guide,.phase { border-bottom:1px solid rgba(199,183,150,.72); }
+    .reader-guide { display:grid; grid-template-columns:minmax(0,.72fr) minmax(0,1.28fr); gap:clamp(18px,4vw,48px); padding:clamp(22px,4vw,44px) 0; align-items:start; }
+    .reader-guide h1,.phase h2 { margin:0; color:var(--ink); font-size:clamp(28px,4vw,52px); line-height:1.26; font-weight:650; letter-spacing:0; padding:0 0 .12em; }
+    .guide-copy { display:grid; gap:12px; color:#392d22; font-size:clamp(17px,1.6vw,21px); line-height:1.68; }
+    .guide-copy p,.phase p,.copy p,h2 { margin:0; }
+    .toc { display:flex; flex-wrap:wrap; gap:8px; padding:18px 0 10px; border-bottom:1px solid rgba(199,183,150,.66); }
+    .toc a { color:var(--blue); text-decoration:none; border:1px solid rgba(36,92,131,.34); background:rgba(255,248,233,.62); padding:4px 9px; font-size:13px; }
+    .phase { display:grid; grid-template-columns:minmax(0,.46fr) minmax(0,1fr); gap:clamp(18px,4vw,44px); padding:clamp(20px,4vw,38px) 0 0; color:var(--muted); }
+    .phase h2 { font-size:clamp(24px,3.2vw,42px); line-height:1.3; }
+    .phase p { max-width:800px; font-size:clamp(16px,1.45vw,19px); line-height:1.72; }
+    .spread { display:grid; grid-template-columns:minmax(0,1.42fr) minmax(320px,.58fr); gap:clamp(18px,3.5vw,42px); align-items:center; min-height:min(860px,calc(100vh - 24px)); padding:clamp(26px,5vw,66px) 0; border-bottom:1px solid rgba(199,183,150,.76); }
+    .spread:nth-of-type(even) { grid-template-columns:minmax(320px,.58fr) minmax(0,1.42fr); } .spread:nth-of-type(even) .art { order:2; }
+    .art { margin:0; padding:clamp(8px,1.2vw,14px); border:1.5px solid var(--heavy); border-radius:18px; background:var(--sheet); box-shadow:12px 12px 0 rgba(59,42,30,.09); min-width:0; }
+    .art img { display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; border-radius:12px; background:#f7ecd6; }
+    .copy { min-width:0; display:grid; gap:14px; align-content:center; }
+    .module { color:var(--blue); font-size:13px; font-weight:700; letter-spacing:.05em; text-transform:uppercase; }
+    .copy h2 { font-size:clamp(28px,4.3vw,54px); line-height:1.26; font-weight:650; letter-spacing:0; padding-bottom:.08em; }
+    .anchor { padding-left:14px; border-left:3px solid var(--green); font-size:clamp(18px,2vw,23px); line-height:1.58; }
+    .body { color:#392d22; font-size:15.5px; line-height:1.72; } .body + .body { margin-top:-4px; } .body strong { color:var(--ink); font-weight:700; }
+    .tags { display:flex; flex-wrap:wrap; gap:8px; } .tags span { border:1px solid rgba(36,92,131,.42); color:var(--blue); background:rgba(255,248,233,.78); padding:3px 8px; font-size:13px; }
+    @media (max-width:960px) { .reader-guide,.phase,.spread,.spread:nth-of-type(even) { grid-template-columns:1fr; min-height:auto; } .spread:nth-of-type(even) .art { order:0; } }
+    @media (max-width:560px) { .booklet { padding:14px; } .art { border-radius:12px; box-shadow:6px 6px 0 rgba(59,42,30,.09); } .art img { border-radius:8px; } .body { font-size:15px; } }
+  </style>
+</head>
+<body>
+  <main class="booklet">
+    <div class="chapter-strip"><strong>九、学习</strong><span>1974《全球概览·尾声》 / 暹罗猫知识小册子</span></div>
+
+    <section class="reader-guide" aria-label="读法">
+      <h1>学习不是学校给的，而是把世界变成可进入的材料。</h1>
+      <div class="guide-copy">
+        <p>这一章从学生和教师规则开始：把一切看成实验，没有错误，只有制作；唯一规则是工作。接着它进入育儿、儿童书、玩具、风筝、木偶、游乐场、去学校化、开放课堂、幻想地图、战争游戏、星图、电学、污染实验、另类学院、摩托维修、围棋、药物知识、治疗、宗教、禅、荣格和漫画。</p>
+        <p>它真正反对的不是学校本身，而是把学习外包给学校。学习在这里是一种进入世界的方式：进入材料，进入他人经验，进入身体技巧，进入注意力，进入错误，进入工作。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="学习小册子目录">
+      <a href="#lr-01">01 学习规则</a><a href="#lr-02">02 儿童书</a><a href="#lr-03">03 玩具制作</a><a href="#lr-04">04 去学校化</a><a href="#lr-05">05 实验科学</a><a href="#lr-06">06 技术哲学</a><a href="#lr-07">07 意识治疗</a><a href="#lr-08">08 宗教禅</a><a href="#lr-09">09 荣格漫画</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、学习从工作、倾听和玩开始</h2>
+      <p>信任一个地方、拉出彼此的东西、保存材料、做玩具、让身体进入游戏，这些都比“上课”更早。</p>
+    </section>
+
+    <article class="spread" id="lr-01">
+      <figure class="art"><img src="assets/learning-siamese-final/01-learning-rules-unknown.png" alt="学习规则未知量 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 01</div>
+        <h2>学习规则：给未知量留空间</h2>
+        <p class="anchor">没有错误，只有制作；唯一规则是工作，工作会带来东西。</p>
+        <p class="body"><strong>先看图：</strong>工作台、规则卡和未完成物件被蓝线连起来。这里的学习不是吸收知识，而是在场、试验、保存、看电影、读任何能拿到的东西。</p>
+        <p class="body"><strong>有趣的是：</strong>规则里有一句很硬：不要同时创造和分析。它不是反智，而是承认制作和判断常常需要不同的时间。</p>
+        <p class="body"><strong>为什么重要：</strong>“打破规则，甚至自己的规则”，不是随便乱来，而是给未知量留下空间。学习先要让结果不被过早关死。</p>
+        <div class="tags"><span>读图线索：工作会带来东西</span><span>保存一切</span><span>先做再分析</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lr-02">
+      <figure class="art"><img src="assets/learning-siamese-final/02-parenting-childrens-books.png" alt="育儿儿童书生态链 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 02</div>
+        <h2>育儿和儿童书</h2>
+        <p class="anchor">孩子不是被管住才会学；他们通过被倾听、反复阅读、生态故事和共同建造进入世界。</p>
+        <p class="body"><strong>先看图：</strong>主动倾听、穿越五大湖的小木舟、龟的河流旅行、婆罗洲滴滴涕生态链和哥特教堂建造，被折进一本打开的书。</p>
+        <p class="body"><strong>有趣的是：</strong>《父母效能训练》说，每次父母用权力迫使孩子做事，都剥夺了孩子学习自律和自我责任的机会。</p>
+        <p class="body"><strong>为什么重要：</strong>《大教堂》让孩子看见奇迹背后的测量、采石、挖基、立柱、做拱、安玻璃和铸钟。学习从“哇”走向“怎么做到”。</p>
+        <div class="tags"><span>读图线索：倾听打开门</span><span>生态链会反咬</span><span>奇迹背后有工序</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lr-03">
+      <figure class="art"><img src="assets/learning-siamese-final/03-toys-making-play-space.png" alt="玩具制作木偶游戏空间 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 03</div>
+        <h2>玩具、制作、木偶和游戏空间</h2>
+        <p class="anchor">废料、风、手、厨房和游乐场，都是学习媒介。</p>
+        <p class="body"><strong>先看图：</strong>管子电话、纸板乌龟、风筝升线器、木偶手腕动作、图示食谱和游乐场材料地图被放在同一张玩具工作台上。</p>
+        <p class="body"><strong>有趣的是：</strong>纸板乌龟游戏简单到惊人：剪一只乌龟，穿线，拉紧，放松，乌龟就向前扑。三只一起就能比赛。</p>
+        <p class="body"><strong>为什么重要：</strong>《为游戏而设计》反驳“玩只是消耗精力”。玩本身就是儿童智力发展的核心条件，空间和材料决定了能学到什么。</p>
+        <div class="tags"><span>读图线索：半数乐趣在制作</span><span>手腕让木偶活</span><span>玩是学习条件</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、把学校拆开，把世界变成教材</h2>
+      <p>去学校化、开放课堂、幻想地图、战争游戏、星图、电学和污染实验，把学习从制度里拆出来，放回可操作的世界。</p>
+    </section>
+
+    <article class="spread" id="lr-04">
+      <figure class="art"><img src="assets/learning-siamese-final/04-deschooling-open-classroom.png" alt="去学校化开放课堂教育材料 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 04</div>
+        <h2>去学校化、开放课堂和教育材料</h2>
+        <p class="anchor">学校的存在会制造对学校教育的需求；学习要先从这个等式里挣出来。</p>
+        <p class="body"><strong>先看图：</strong>固定课桌被拆成价值澄清、开放课堂、教师家长孩子入门册、《种子目录》和广告计数练习。教材变成能引发活动的一切。</p>
+        <p class="body"><strong>有趣的是：</strong>媒体教育要求学生数一天遇到多少广告和劝服信息，从牙膏到路牌都算，数字可能到三百。媒介环境突然变得可见。</p>
+        <p class="body"><strong>为什么重要：</strong>伊利奇的正面方案未必现成，但他让人不能再舒服地把学校等同于学习。这一点已经足够锋利。</p>
+        <div class="tags"><span>读图线索：教材不是课本</span><span>广告也可被学习</span><span>开放课堂要选择</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lr-05">
+      <figure class="art"><img src="assets/learning-siamese-final/05-imagination-games-science.png" alt="幻想地图游戏自然史实验科学 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 05</div>
+        <h2>想象、游戏、自然史和实验科学</h2>
+        <p class="anchor">幻想地图、战争游戏、星图、电学和污染实验，都把世界变成可测试的模型。</p>
+        <p class="body"><strong>先看图：</strong>幻想地理、地形游戏板、星图、手工望远镜、电池导线实验和社区污染样本被放在一张实验地图桌上。</p>
+        <p class="body"><strong>有趣的是：</strong>用梳子摩擦后让细水流弯曲，魔法立刻变成电荷证据。《反污染实验室》则把科学带回社区污染源。</p>
+        <p class="body"><strong>为什么重要：</strong>战争游戏不必只是好战，它也能让人具体理解冲突、规则、地形和后果。关键在于把抽象变成可检验结构。</p>
+        <div class="tags"><span>读图线索：模型会教人</span><span>幻想也有地理</span><span>科学可以在社区做</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lr-06">
+      <figure class="art"><img src="assets/learning-siamese-final/06-alternative-colleges-tech-philosophy.png" alt="另类学院科学人文技术哲学 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 06</div>
+        <h2>另类学院、科学人文和技术哲学</h2>
+        <p class="anchor">真正的问题不是上不上大学，而是哪种学习还保留手、判断和质量。</p>
+        <p class="body"><strong>先看图：</strong>非传统学院路线、灵性社区公告、科学人文桥、摩托维修质量图和机械化历史机器，汇到一张工作台。</p>
+        <p class="body"><strong>有趣的是：</strong>德甘纳维达-奎扎尔科亚特尔大学接纳辍学者、移民、保留地孩子和走进校园的人。它不是典型大学，也无意服务典型大学生。</p>
+        <p class="body"><strong>为什么重要：</strong>《禅与摩托车维修艺术》让技术问题打穿那种“只想潇洒看世界”的姿态。点火白金烧坏时，世界观要面对机械现实。</p>
+        <div class="tags"><span>读图线索：路线不止一种</span><span>质量不是口号</span><span>手会被机器夺走</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、意识、宗教和漫画也在学习地图里</h2>
+      <p>《全球概览》把围棋、药物知识、治疗、意识、佛教、禅、荣格和漫画放进学习，是因为学习也发生在经验边界处。</p>
+    </section>
+
+    <article class="spread" id="lr-07">
+      <figure class="art"><img src="assets/learning-siamese-final/07-psi-go-drugs-therapy-consciousness.png" alt="灵能围棋药物治疗意识 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 07</div>
+        <h2>灵能、围棋、药物、治疗和意识</h2>
+        <p class="anchor">越是争议和高风险领域，越需要实验设计、可靠信息、案例和清楚的意识模型。</p>
+        <p class="body"><strong>先看图：</strong>实验卡、围棋盘、匿名检测报告、治疗案例本和两种意识模式图，被整理成一个克制的研究桌。</p>
+        <p class="body"><strong>有趣的是：</strong>药物化学实验室提供匿名药物分析，并通过月报公布误标和掺假状况。这不是鼓励冒险，而是把谣言替换成信息。</p>
+        <p class="body"><strong>为什么重要：</strong>奥恩斯坦区分语言、理性、顺序的意识模式，以及直觉、默会、弥散的另一种模式。学习不只发生在一种心智里。</p>
+        <div class="tags"><span>读图线索：争议领域也要方法</span><span>围棋训练心智</span><span>信息降低谣言</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lr-08">
+      <figure class="art"><img src="assets/learning-siamese-final/08-religion-sufi-buddhism-zen.png" alt="宗教苏菲佛教禅 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 08</div>
+        <h2>宗教、苏菲、佛教和禅</h2>
+        <p class="anchor">这里的宗教不是身份展示，而是切开面具、醒来，并警惕把修行变成新占有物。</p>
+        <p class="body"><strong>先看图：</strong>基督教激进神学、苏菲书目、佛教工具、禅中心、塔萨哈拉、初心和小石头，被放在一间安静阅读室里。</p>
+        <p class="body"><strong>有趣的是：</strong>里克·菲尔兹写佛教像锋利又仁慈的工具：拆解、切开、揭下面具、破除神秘化，像闹钟一样叫醒人。</p>
+        <p class="body"><strong>为什么重要：</strong>创巴踢掉“灵性物质主义”：宗教一旦被记住、占有、当成新身份，就会变成沉重负担。</p>
+        <div class="tags"><span>读图线索：醒来不是拥有</span><span>初心要小房间</span><span>引路不等于归宿</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="lr-09">
+      <figure class="art"><img src="assets/learning-siamese-final/09-jung-comics-making.png" alt="荣格漫画制作 暹罗猫知识插画"></figure>
+      <section class="copy">
+        <div class="module">模块 09</div>
+        <h2>荣格、漫画和尾声</h2>
+        <p class="anchor">学习也穿过梦、无意识、讽刺、荒诞和政治漫画，最后回到制作。</p>
+        <p class="body"><strong>先看图：</strong>梦卡、无意识海流、震动书架、漫画分格和未完成图纸被钉在一张档案板上。严肃和荒诞没有被分开。</p>
+        <p class="body"><strong>有趣的是：</strong>荣格的自传呈现一个人如何与科学、神话和无意识纠缠。读者未必接受每个现象，但能看见经验如何迫使思想变形。</p>
+        <p class="body"><strong>为什么重要：</strong>丹·奥尼尔的漫画在章尾像一个提醒：学习不只在严肃书里，也在讽刺、失败、政治想象和继续动手里。</p>
+        <div class="tags"><span>读图线索：梦也会工作</span><span>漫画可学习</span><span>没有错误，只有制作</span></div>
+      </section>
+    </article>
+  </main>
+</body>
+</html>

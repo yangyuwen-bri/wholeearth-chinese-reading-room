@@ -1,0 +1,451 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>1974《全球概览·尾声》 / 住所暹罗猫小册子</title>
+  <style>
+    :root {
+      --paper: #efe4cf;
+      --sheet: #fff8e9;
+      --ink: #211911;
+      --muted: #6d6255;
+      --line: #c7b796;
+      --heavy: #3b2a1e;
+      --blue: #245c83;
+      --green: #546f46;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        linear-gradient(rgba(33, 25, 17, 0.035) 1px, transparent 1px),
+        radial-gradient(circle at 14% 8%, rgba(255, 248, 233, 0.88), transparent 26%),
+        var(--paper);
+      background-size: 100% 22px, auto, auto;
+      font-family: "Iowan Old Style", "Songti SC", "STSong", "Noto Serif CJK SC", Georgia, serif;
+      line-height: 1.62;
+    }
+
+    .booklet {
+      width: min(1360px, 100%);
+      margin: 0 auto;
+      padding: clamp(16px, 3vw, 38px);
+    }
+
+    .chapter-strip {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px 18px;
+      align-items: baseline;
+      padding: 4px 0 18px;
+      border-bottom: 1px solid var(--line);
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .chapter-strip strong {
+      color: var(--ink);
+      font-size: clamp(22px, 3vw, 34px);
+      font-weight: 650;
+    }
+
+    .reader-guide,
+    .phase {
+      border-bottom: 1px solid rgba(199, 183, 150, 0.72);
+    }
+
+    .reader-guide {
+      display: grid;
+      grid-template-columns: minmax(0, 0.72fr) minmax(0, 1.28fr);
+      gap: clamp(18px, 4vw, 48px);
+      padding: clamp(22px, 4vw, 44px) 0;
+      align-items: start;
+    }
+
+    .reader-guide h1,
+    .phase h2 {
+      margin: 0;
+      color: var(--ink);
+      font-size: clamp(28px, 4vw, 52px);
+      line-height: 1.26;
+      font-weight: 650;
+      letter-spacing: 0;
+      padding: 0 0 0.12em;
+    }
+
+    .guide-copy {
+      display: grid;
+      gap: 12px;
+      color: #392d22;
+      font-size: clamp(17px, 1.6vw, 21px);
+      line-height: 1.68;
+    }
+
+    .guide-copy p,
+    .phase p,
+    .copy p,
+    h2 {
+      margin: 0;
+    }
+
+    .toc {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      padding: 18px 0 10px;
+      border-bottom: 1px solid rgba(199, 183, 150, 0.66);
+    }
+
+    .toc a {
+      color: var(--blue);
+      text-decoration: none;
+      border: 1px solid rgba(36, 92, 131, 0.34);
+      background: rgba(255, 248, 233, 0.62);
+      padding: 4px 9px;
+      font-size: 13px;
+    }
+
+    .phase {
+      display: grid;
+      grid-template-columns: minmax(0, 0.46fr) minmax(0, 1fr);
+      gap: clamp(18px, 4vw, 44px);
+      padding: clamp(20px, 4vw, 38px) 0 0;
+      color: var(--muted);
+    }
+
+    .phase h2 {
+      font-size: clamp(24px, 3.2vw, 42px);
+      line-height: 1.3;
+    }
+
+    .phase p {
+      max-width: 780px;
+      font-size: clamp(16px, 1.45vw, 19px);
+      line-height: 1.72;
+    }
+
+    .spread {
+      display: grid;
+      grid-template-columns: minmax(0, 1.42fr) minmax(320px, 0.58fr);
+      gap: clamp(18px, 3.5vw, 42px);
+      align-items: center;
+      min-height: min(860px, calc(100vh - 24px));
+      padding: clamp(26px, 5vw, 66px) 0;
+      border-bottom: 1px solid rgba(199, 183, 150, 0.76);
+    }
+
+    .spread:nth-of-type(even) {
+      grid-template-columns: minmax(320px, 0.58fr) minmax(0, 1.42fr);
+    }
+
+    .spread:nth-of-type(even) .art {
+      order: 2;
+    }
+
+    .art {
+      margin: 0;
+      padding: clamp(8px, 1.2vw, 14px);
+      border: 1.5px solid var(--heavy);
+      border-radius: 18px;
+      background: var(--sheet);
+      box-shadow: 12px 12px 0 rgba(59, 42, 30, 0.09);
+      min-width: 0;
+    }
+
+    .art img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      border-radius: 12px;
+      background: #f7ecd6;
+    }
+
+    .copy {
+      min-width: 0;
+      display: grid;
+      gap: 14px;
+      align-content: center;
+    }
+
+    .module {
+      color: var(--blue);
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    .copy h2 {
+      font-size: clamp(28px, 4.3vw, 54px);
+      line-height: 1.26;
+      font-weight: 650;
+      letter-spacing: 0;
+      padding-bottom: 0.08em;
+    }
+
+    .anchor {
+      padding-left: 14px;
+      border-left: 3px solid var(--green);
+      font-size: clamp(18px, 2vw, 23px);
+      line-height: 1.58;
+    }
+
+    .body {
+      color: #392d22;
+      font-size: 15.5px;
+      line-height: 1.72;
+    }
+
+    .body + .body {
+      margin-top: -4px;
+    }
+
+    .body strong {
+      color: var(--ink);
+      font-weight: 700;
+    }
+
+    .tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .tags span {
+      border: 1px solid rgba(36, 92, 131, 0.42);
+      color: var(--blue);
+      background: rgba(255, 248, 233, 0.78);
+      padding: 3px 8px;
+      font-size: 13px;
+    }
+
+    @media (max-width: 960px) {
+      .reader-guide,
+      .phase,
+      .spread,
+      .spread:nth-of-type(even) {
+        grid-template-columns: 1fr;
+        min-height: auto;
+      }
+
+      .spread:nth-of-type(even) .art {
+        order: 0;
+      }
+    }
+
+    @media (max-width: 560px) {
+      .booklet {
+        padding: 14px;
+      }
+
+      .art {
+        border-radius: 12px;
+        box-shadow: 6px 6px 0 rgba(59, 42, 30, 0.09);
+      }
+
+      .art img {
+        border-radius: 8px;
+      }
+
+      .body {
+        font-size: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="booklet">
+    <div class="chapter-strip">
+      <strong>三、住所</strong>
+      <span>1974《全球概览·尾声》 / 暹罗猫知识小册子</span>
+    </div>
+
+    <section class="reader-guide" aria-label="读法">
+      <h1>这章说的不是“房子好不好看”。</h1>
+      <div class="guide-copy">
+        <p>《全球概览》 的住所章关心的是居住能力：从小处开始，读懂地点，用当地材料，能自己修，能和火、水、地震、气候相处，也能承认某些漂亮想法会漏水、会起火、会被现实纠正。</p>
+        <p>所以这册不是房型图鉴，而是一条学习路线：先从小棚屋和土地观察开始，再进入自建、传统、动物建筑、材料、维修、家具、可移动结构和气候设计。</p>
+      </div>
+    </section>
+
+    <nav class="toc" aria-label="住所小册子目录">
+      <a href="#sh-01">01 从小开始</a>
+      <a href="#sh-02">02 自建与协助</a>
+      <a href="#sh-03">03 学建筑</a>
+      <a href="#sh-04">04 手造房</a>
+      <a href="#sh-05">05 地点材料</a>
+      <a href="#sh-06">06 多种小屋</a>
+      <a href="#sh-07">07 修理系统</a>
+      <a href="#sh-08">08 木工家具</a>
+      <a href="#sh-09">09 气候与移动</a>
+    </nav>
+
+    <section class="phase" aria-label="第一组">
+      <h2>一、先把房子变小</h2>
+        <p>住所章最反对的不是简陋，而是还没看清地点就先被宏大概念带走。劳埃德·卡恩给新建者的第一条建议很朴素：先小、先简单、先听当地经验。</p>
+    </section>
+
+    <article class="spread" id="sh-01">
+      <figure class="art">
+        <img src="assets/shelter-siamese-final/01-start-small-study-land.png" alt="从小开始研究土地 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 01</div>
+        <h2>从小开始，先研究土地</h2>
+        <p class="anchor">房子不是先从造型开始，而是先从地点、季节、风、雨、视野和人的变化开始。</p>
+        <p class="body"><strong>先看图：</strong>小棚屋不是临时凑合，而是一种学习工具。它让建造者有时间观察太阳和月亮的升落、风向、雨量、植被、视野和季节温度，再决定真正的房子该怎么长出来。</p>
+        <p class="body"><strong>有趣的是：</strong>劳埃德反省自己曾多次被抽象概念带进冗长、不实用的计划，后来发现鸡舍或小谷仓往往更可靠。二手门窗、卷材屋顶、简单框架、通向花园的厨房，比宏大造型更能让人继续生活。</p>
+        <p class="body"><strong>为什么重要：</strong>建房不像画画，作品不满意不能随手丢掉。先小、保温好、听当地建议，是避免被房子拖垮的现实智慧。</p>
+        <div class="tags"><span>读图线索：先小后大</span><span>地点先于造型</span><span>房子会纠正人</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="sh-02">
+      <figure class="art">
+        <img src="assets/shelter-siamese-final/02-self-build-poor-architecture.png" alt="自建与穷人建筑 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 02</div>
+        <h2>自建、低成本生态房与穷人建筑</h2>
+        <p class="anchor">自建不是边缘趣味，而是许多人真实提供住所的能力；建筑师也可以从作者变成协助者。</p>
+        <p class="body"><strong>先看图：</strong>这页把业主自建、低成本生态住宅和哈桑·法西的泥砖村庄放在一起。水被分级使用，雨水被收集，风和太阳参与供能，建筑材料尽量来自当地或废弃物。</p>
+        <p class="body"><strong>有趣的是：</strong>美国每年有超过十五万个家庭自己建房，1968 年单户新房中 20% 是业主自建。这些房子往往更小、更便宜、更结实，其中近一半不用按揭。</p>
+        <p class="body"><strong>为什么重要：</strong>法西的关键不是“穷人风格”，而是把建筑师的位置改成协助者：逐户询问需求，训练当地工匠，用沙漠泥砖、木材或清田石头建房。</p>
+        <div class="tags"><span>读图线索：自建不是例外</span><span>建筑师协助</span><span>材料从地点来</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第二组">
+      <h2>二、学建筑，不只学建筑学</h2>
+      <p>《全球概览》 把波斯穹顶、动物巢穴、民间谷仓和梦中的家放到同一章里，因为住所不是一个专业孤岛。它既有结构问题，也有记忆、手艺、文化和身体经验。</p>
+    </section>
+
+    <article class="spread" id="sh-03">
+      <figure class="art">
+        <img src="assets/shelter-siamese-final/03-learn-architecture-tradition-animals.png" alt="向传统动物和老师学习建筑 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 03</div>
+        <h2>向传统、动物和老师学习建筑</h2>
+        <p class="anchor">学建筑可以从工地、图纸、老师、波斯穹顶、动物巢穴和植物环境工具同时开始。</p>
+        <p class="body"><strong>先看图：</strong>方形平面怎样过渡到圆形穹顶，是建筑史上的难题；动物则总是用手边材料建造。鸟巢、蜂巢、白蚁丘、蟹的沙穹顶，都不是可爱插曲，而是结构课。</p>
+        <p class="body"><strong>有趣的是：</strong>劳埃德给想学建筑的人开的路很直接：找人收你，从劳工做起，边做边学，尽量画图。书有帮助，但没有什么比合得来的老师更好。</p>
+        <p class="body"><strong>为什么重要：</strong>如果建筑学习只剩专业语言，房子会离地点越来越远。传统、动物和植物把建筑拉回材料、气候、身体和现场。</p>
+        <div class="tags"><span>读图线索：边做边画</span><span>动物不是模型，是老师</span><span>植物也是建筑工具</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="sh-04">
+      <figure class="art">
+        <img src="assets/shelter-siamese-final/04-handmade-houses-barns-memory.png" alt="手造房谷仓和梦屋 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 04</div>
+        <h2>手造房、谷仓和梦中的家</h2>
+        <p class="anchor">住所不是中性容器。它同时是结构、劳动、记忆、角落、阁楼和地下室。</p>
+        <p class="body"><strong>先看图：</strong>手造小屋向建筑师发问：锯子是否比铅笔更有说服力？谷仓则把北美民间最宏大、最精良的框架系统摆到台前。</p>
+        <p class="body"><strong>有趣的是：</strong>《谷仓》能把荷兰谷仓、英国谷仓、宾州谷仓、多边形谷仓分类，也能把谷仓追溯到倒置船体和巴西利卡式教堂。民间结构并不低级，它只是没有总被专业话语命名。</p>
+        <p class="body"><strong>为什么重要：</strong>巴什拉的《空间诗学》提醒人：房子也由记忆建成。梦中的房子、出生之屋、阁楼、地下室和角落，解释了为什么住所不只是外壳。</p>
+        <div class="tags"><span>读图线索：锯子还是铅笔</span><span>谷仓是结构史</span><span>家也由记忆组成</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第三组">
+      <h2>三、材料会把地点带进房子</h2>
+      <p>这一组进入材料：榫卯、旧料、泥砖、草皮、灰泥、茅草、石头、杆和原木。《全球概览》 关心的不是材料风格，而是成本、寿命、地形、气候和身体劳动。</p>
+    </section>
+
+    <article class="spread" id="sh-05">
+      <figure class="art">
+        <img src="assets/shelter-siamese-final/05-joinery-salvage-adobe-sod.png" alt="木工旧料泥砖和草皮墙 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 05</div>
+        <h2>木工、旧料、泥砖与草皮墙</h2>
+        <p class="anchor">所谓房子，不是从房地产商品开始，而是从木料、连接、拆除现场、泥土和本地气候开始。</p>
+        <p class="body"><strong>先看图：</strong>榫卯、二手门窗、泥砖、草皮墙和灰泥被放进同一个材料场。这里没有“高级材料”和“低级材料”，只有材料从哪里来、怎样连接、能不能被你理解和修理。</p>
+        <p class="body"><strong>有趣的是：</strong>拆除现场的好木材会随着工期越来越便宜，最后可能免费。尤金·布德罗夫妇做了 120 吨泥砖，一人一天连续干八九小时，最多也就做约一吨。</p>
+        <p class="body"><strong>为什么重要：</strong>旧料、泥砖、草皮和灰泥让房子重新接回地点。它们不一定轻松，却能让建造者知道自己到底在搬动什么、连接什么、承担什么。</p>
+        <div class="tags"><span>读图线索：材料有来历</span><span>旧料会降价</span><span>泥砖有重量</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="sh-06">
+      <figure class="art">
+        <img src="assets/shelter-siamese-final/06-thatch-stone-pole-log.png" alt="茅草石屋杆屋原木屋 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 06</div>
+        <h2>茅草、石屋、杆屋和原木屋</h2>
+        <p class="anchor">不同小屋不是风格展示，而是对材料寿命、地形、按揭、抗震和移动的不同回答。</p>
+        <p class="body"><strong>先看图：</strong>茅草屋顶、石屋、坡地杆屋和原木屋各有逻辑。茅草讲寿命和手艺；石屋讲家庭劳动和少花钱；杆屋讲坡地、抗震和少挖地基；原木屋讲拓荒和移动。</p>
+        <p class="body"><strong>有趣的是：</strong>茅草并不是短命材料，诺福克芦苇屋顶可用 50 到 60 年。沃森一家用 2,000 美元在一个夏天建了 1,100 平方英尺石屋。《全球概览》的句子很直接：和石头搏斗，不和按揭搏斗。</p>
+        <p class="body"><strong>为什么重要：</strong>这些房子把“住所”从抽象设计拉回条件判断：你有什么材料？在哪种地形上？能承受多长寿命？要花钱还是花力气？</p>
+        <div class="tags"><span>读图线索：条件决定做法</span><span>和石头搏斗</span><span>坡地上的杆屋</span></div>
+      </section>
+    </article>
+
+    <section class="phase" aria-label="第四组">
+      <h2>四、房子建成后还在继续</h2>
+      <p>住所不是交房那一刻结束的对象。它要被顶起、修补、取暖、加固、识别木头、搬动家具，也要接受气候和材料风险的长期考验。</p>
+    </section>
+
+    <article class="spread" id="sh-07">
+      <figure class="art">
+        <img src="assets/shelter-siamese-final/07-repair-heat-earthquake-systems.png" alt="修理木火地震和系统维护 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 07</div>
+        <h2>修理、木火、地震与系统维护</h2>
+        <p class="anchor">能住，不只是能建；还要会修、会取暖、会读懂水表和结构风险。</p>
+        <p class="body"><strong>先看图：</strong>下沉房屋被顶起，腐烂窗台被换掉，水表被读懂，木火炉让房间变暖，地槛螺栓把旧木框架接回基础。住所从来不是静止成品。</p>
+        <p class="body"><strong>有趣的是：</strong>《读者文摘》的自己动手手册被劳埃德称为最完整的修理书之一；《地震国度中的安心》则把建筑学习直接带到生命安全：选址、评估、保险、逃往何处，都算住所知识。</p>
+        <p class="body"><strong>为什么重要：</strong>一个人真正拥有的不是房子的外观，而是读懂系统的能力。水、火、地震、空气离子和木框架都在提醒你：房子会持续要求维护。</p>
+        <div class="tags"><span>读图线索：房子要继续照料</span><span>读懂系统</span><span>地震不是附录</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="sh-08">
+      <figure class="art">
+        <img src="assets/shelter-siamese-final/08-woodwork-furniture-mobile.png" alt="木工家具和可移动生活 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 08</div>
+        <h2>木工、家具与可移动生活</h2>
+        <p class="anchor">家具不是房间里的重量，也可以是一种移动生活的策略。</p>
+        <p class="body"><strong>先看图：</strong>木工基础、认木头、震颤派家具、波斯工匠画线和游牧家具被放在同一张工作台上。住所不是只靠墙决定，也靠桌、椅、床、柜和搬家方式决定。</p>
+        <p class="body"><strong>有趣的是：</strong>震颤派家具被当成诚实、谦卑、裸骨的典范：木头是稀有礼物，不该被多余触碰。波斯住宅甚至可以不用正式图纸，业主和建造者直接在场地用石灰粉标墙线。</p>
+        <p class="body"><strong>为什么重要：</strong>《游牧家具》把家具从“沉重所有物”改成轻量系统。搬家越频繁，越能明白床、沙发、桌椅和书架不是中性的，它们会决定身体、时间和自由。</p>
+        <div class="tags"><span>读图线索：家具也是系统</span><span>木头要识别</span><span>轻量也是自由</span></div>
+      </section>
+    </article>
+
+    <article class="spread" id="sh-09">
+      <figure class="art">
+        <img src="assets/shelter-siamese-final/09-tipi-yurt-tensile-climate.png" alt="圆锥帐蒙古包张拉结构和气候设计 暹罗猫知识插画">
+      </figure>
+      <section class="copy">
+        <div class="module">模块 09</div>
+        <h2>圆锥帐、蒙古包、张拉结构与气候设计</h2>
+        <p class="anchor">轻量结构值得学，但材料迷信和圆顶神话要被现实纠正。</p>
+        <p class="body"><strong>先看图：</strong>圆锥帐、蒙古包和张拉结构指向轻量、可移动和少材料覆盖空间；圆顶旁边的漏水桶和泡沫警告，则提醒人不要把形式或材料当成信仰。</p>
+        <p class="body"><strong>有趣的是：</strong>劳埃德·卡恩曾是圆顶建筑的重要拥护者，到《尾声》时却成了有力批评者。布兰德半开玩笑概括他的批评：“它们漏水。”聚氨酯泡沫也不是神奇材料，遇高温可能突然爆燃并放出致命气体。</p>
+        <p class="body"><strong>为什么重要：</strong>奥尔吉的气候设计把传统和工程连起来：厚泥砖墙、小窗、朝向和热延迟都能减少燃料依赖。老房改造则说明另一种自由：理解你所住之物，照料它，不破坏它。</p>
+        <div class="tags"><span>读图线索：轻量不等于迷信</span><span>圆顶会漏</span><span>让气候参与设计</span></div>
+      </section>
+    </article>
+  </main>
+</body>
+</html>
