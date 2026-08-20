@@ -4,14 +4,21 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: Piloting 评介/目录/书目/浪峰与潮流图；Bowditch 评介/书目/四地址/天文设备；Boat Owners Guide；Medical Guide；Sailing Illustrated 评介/书目/Columbia 5.5 剖面；Skin and Scuba；Ocean Living。
+- Translation coverage: 七个条目及其全部评介、图注、设备标签、价格、出版者与地址均进入终稿。
+- Permitted omissions: 无。书封、浪峰与潜水示意图没有额外未译正文。
+
 ## Reasons
 
-- 2026-08-15 已用 `n107_w2000.jpg` 核对，确认七个书目/期刊块及其独立图注，未把跨栏海图、帆船剖面或潜水图混入正文。
-- 已替换错序且不完整的机器直译，恢复所有主要评介、警示、价格、出版者与地址。
-- 潜水安全提示与航海设备清单按原文保留，未将历史资料改写成无条件的现代操作指南。
+- 2026-08-20 以原始 `0108.jp2` 逐栏复核；印刷页码确认为 106。
+- Bowditch 的 Washington、Chicago、Kansas City、San Francisco 四个 GPO 地址均完整恢复。
+- 天文设备最后一项按原图为 `star finder`，不是旧稿所写 radio direction finder。
+- Columbia 5.5 剖面的重量、索具、升降索、夹绳器、罗盘及张力调节标签均不再以一句概述替代。
 ## Required Fixes
 
-- None.
+- 无。
 ## Residual Risks
 
-- 美国政府印刷局四处分店中，译文完整保留总店并概述其余分店；原页扫描仍可查看全部地址。
+- 历史航海与潜水资料不替代现代训练或安全规范；源页可读正文无待修项。

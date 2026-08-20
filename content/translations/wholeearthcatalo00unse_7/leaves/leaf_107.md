@@ -4,7 +4,7 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n107; canonical physical leaf: 108 (origFileName=0108.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 105 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 106 (visible printed page number; verified against the original JP2 scan).
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n107_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n107_w2000.jpg
@@ -131,9 +131,14 @@ Kenneth Roberts 的《Lydia Bailey》里有一段：Albion Townsend 帮助在海
 
 这本书很厚，可能远超你实际想知道的航海知识；但它权威、是“那一本”标准书，而且便宜。它源自 1799 年，实用知识外还带着浪漫联想。
 
-**American Practical Navigator—An Epitome of Navigation**，Nathaniel Bowditch 与 U.S. Navy Hydrographic Office，1966，1524 页，邮资已付 7 美元。美国政府印刷局书店可购：710 North Capitol Street, Washington, D.C. 20402；Chicago、Kansas City、San Francisco 分店地址亦列于原页。
+**American Practical Navigator—An Epitome of Navigation**，Nathaniel Bowditch 与 U.S. Navy Hydrographic Office，1966，1524 页，邮资已付 7 美元。美国政府印刷局书店可购：
 
-图注：若船只将在看不见陆地的地方航行，不论时间长短，都应携带天文导航器材，包括六分仪、准确计时器、历书、视差修正表，或无线电测向仪。
+- 710 North Capitol Street, Washington, D.C. 20402；
+- Room 1463, 14th Floor, Federal Office Building, 219 S. Dearborn Street, Chicago, Ill. 60604；
+- Room 135, Federal Building, 601 East 12th Street, Kansas City, Missouri 64106；
+- Federal Building, 450 Golden Gate Avenue, Room 1023, Box 36104, San Francisco, CA 94102。
+
+图注：若船只将在看不见陆地的地方航行，不论时间长短，都应携带天文导航器材，包括六分仪、准确计时器、历书、视线折算表，也许还要一具星位辨识器。图中器材为美国海军标准微米鼓式六分仪。
 
 ### 《船主指南》
 
@@ -155,6 +160,8 @@ Kenneth Roberts 的《Lydia Bailey》里有一段：Albion Townsend 帮助在海
 
 跨页剖面图为 Columbia 5.5 级玻璃钢“一体化设计”。它的重量和“木质感”使它在单一船型竞赛中无可争议地受欢迎；作为统一船型，它还有一个突出优点：船上完全没有木料。
 
+图中可辨控制与结构标签包括：外拉滑车；5.5 级最低重量 3,857 磅、最高重量 4,519 磅；三段主帆系统；球帆索与左右驾驶舱导向；主帆索；帆形与速度指示器；单滑轨调节；以弹簧销止动器调节并锁定的鹅颈；外拉调节；前帆前缘张力；前帆导索器；五段下拉索；甲板下绞盘手柄；前帆夹绳器；撑杆升降索；球帆下拉索；甲板下凸轮夹绳器；前帆升降索；后支索张力调节；控制面板内收纳多余绳索的卷盘；双罗盘；球帆升降索；主帆升降索；球帆后角索；穿过甲板的撑杆下拉索；跳索张力调节。
+
 ### 徒手潜水与水肺潜水
 
 别指望读完一本书，一个月后就去玩水肺。水肺潜水有趣而有回报，但没有适当训练非常危险。
@@ -171,14 +178,13 @@ Kenneth Roberts 的《Lydia Bailey》里有一段：Albion Townsend 帮助在海
 
 ## Omitted Bibliographic/Order Info
 
-- 出现但 OCR 片段过短、模糊或语义不完整的供应商订单信息、完整价格组合及目录索引数据，已在不确定注释中标记。
+- 无。七个书目/期刊块、四个 GPO 地址、航海设备清单、潮流图说明、帆船剖面标签与潜水安全警示均已译出。
 
 ## OCR / Uncertainty Notes
 
-- 本页信息含多处 OCR 断裂，尤其是广告文案、排版符号与小字；价格、邮政号、地址与联系电话可能有字符级误差。
-- 对存在缺字/重复行的条目未作外推补全；仅在原文可见语句内进行转写。
+- 航海与潜水资料为 1969 年历史文本，不替代现代培训、海图或安全规范。
 
 ## Self Critique
 
-- 本页保留原文结构进行逐行机器转写并人工保留，不将历史目录内容重写为现代化列表。
-- 未将可见但高风险片段（尤其是价格与联系信息）进一步规范化，以免误报。
+- 已用原始 `wholeearthcatalo00unse_7_0108.jp2` 逐栏复核，恢复旧稿概述掉的三家 GPO 分店完整地址和 Columbia 5.5 剖面控制标签。
+- 将原图的 `star finder` 纠正为星位辨识器，撤销旧稿错误的“无线电测向仪”。

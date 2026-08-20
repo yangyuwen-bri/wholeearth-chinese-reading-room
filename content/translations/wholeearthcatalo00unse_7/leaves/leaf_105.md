@@ -4,7 +4,7 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n105; canonical physical leaf: 106 (origFileName=0106.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 103 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 104 (visible printed page number; verified against the original JP2 scan).
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n105_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n105_w2000.jpg
@@ -153,18 +153,31 @@ of the VW engine follow the usual speed-tuning
 
 这是一本真正出色的汽车零件目录。不是每样货色都毫无可疑之处，但总体实用；它非常齐全，对老车尤其有用。J. C. Whitney 供应 A 型福特、Borgward、Jeep、大众等车型的零件，也供应二手件。免费目录：J. C. Whitney & Company，1917–19 Archer Avenue，Chicago, Illinois 60616。J. Baldwin 推荐并评介。
 
-本页广告示例包括：把转向灯改装为应急警示灯的四路闪光器、喷砂/喷漆/吹气三合一工具，以及用于自制垫片的软木、纤维和石棉片材。历史广告涉及石棉材料；今天处理此类旧材料必须遵循现行职业安全规范。
+#### Deluxe 四路闪光器
+
+把汽车和轻型卡车的转向灯改作应急警示灯。带照明拉动开关；重型闪光系统作为独立电路工作，不会让原车信号灯系统过载。现代设计符合或超过 SAE 标准及州级要求。特点包括：带闪烁指示灯的现代拉动开关；提示工作的响亮滴答声；加固、牢不可破的自动取消支架，可方便安装在仪表板下；重型插接式闪光器和保险丝；自绝缘快速压接接头，无需切割、接合、剥线或缠胶带。附完整说明。重 12 盎司；75-574（6 伏）与 16-141（12 伏）均为 4.65 美元。
+
+#### 三合一喷砂、喷涂与吹气枪
+
+可为小零件除锈，也可除锈垢、蚀刻玻璃和金属；喷液体、油类及任何可倒出的材料；还可作吹气枪清洁和干燥零件。可使用任何空气压缩机的 60—150 磅气压；配夸脱容器、说明书，空气软管不含在内。74-5740，运输重量 2 磅，5.98 美元。
+
+#### 自制垫片片材
+
+- **软木垫片片材**：细粒软木与特殊处理黏结剂，可用于这种弹性、柔韧且坚固的片材。运输重量 8 盎司。34-094，12 × 36 × 1/16 英寸，每张 0.59 美元；34-095，12 × 36 × 3/32 英寸，每张 0.79 美元。
+- **纤维垫片片材**：在中等螺栓压力下有效密封；推荐用于油底壳、空气滤清器、散热器芯垫片和减振器。运输重量 6 盎司。34-096，12 × 36 × 1/32 英寸，每张 0.49 美元；34-097，12 × 36 × 1/64 英寸，每张 0.29 美元。
+- **石棉垫片片材**：用于高温场所，如排气歧管、缸盖、管道等。运输重量 2 磅。34-098，10 × 40 × 1/32 英寸，每张 1.19 美元；34-099，10 × 40 × 1/16 英寸，每张 1.89 美元。
+
+历史广告涉及石棉材料；今天处理此类旧材料必须遵循现行职业安全规范。
 
 ## Omitted Bibliographic/Order Info
 
-- 出现但 OCR 片段过短、模糊或语义不完整的供应商订单信息、完整价格组合及目录索引数据，已在不确定注释中标记。
+- 无。四项主要书目/目录、全部短札、图注及三组 J.C. Whitney 广告字段均已译出。
 
 ## OCR / Uncertainty Notes
 
-- 本页信息含多处 OCR 断裂，尤其是广告文案、排版符号与小字；价格、邮政号、地址与联系电话可能有字符级误差。
-- 对存在缺字/重复行的条目未作外推补全；仅在原文可见语句内进行转写。
+- 石棉、汽车维修与轮胎压力内容为历史原文，不代表现代职业安全或维修建议。
 
 ## Self Critique
 
-- 本页保留原文结构进行逐行机器转写并人工保留，不将历史目录内容重写为现代化列表。
-- 未将可见但高风险片段（尤其是价格与联系信息）进一步规范化，以免误报。
+- 已用原始 `wholeearthcatalo00unse_7_0106.jp2` 逐栏复核，恢复旧稿只以产品类型概括的四路闪光器、三合一气枪及六种垫片片材。
+- 库存号、尺寸、运输重量、压力范围和价格均按高清图保留。
