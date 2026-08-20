@@ -8,7 +8,7 @@
 - Section: Community (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n86_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n86_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; complete page object `wholeearthcatalo00unse_7_0087.djvu` and `n86_w2000.jpg` checked directly on 2026-08-20.
 - OCR recovery: 1417 words / 150 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: cross_page_or_section_continuation, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -128,18 +128,42 @@ John Henderson, M.D.，《亨德森急救医疗指南》，1963、1969 年，556
 
 **紧急处理摘要与检查单。** 不论伤者是否清醒：（1）检查呼吸是否畅通；（2）若呼吸满意，检查是否出血；若出血严重，立刻控制；（3）呼吸无碍且无出血证据时，查找休克和骨折征象；（4）迅速求医——打电话给医生、请别人打，或送伤者就医；（5）动作迅速但小心；（6）松开过紧衣物；（7）若伤者呕吐，降低其头部并轻转向一侧，免得误吸；（8）从昏迷者口中取出假牙等松动物；（9）使伤者安静保暖，勿过热；（10）不要给昏迷者任何东西；（11）不要以不必要移动加重伤情；（12）骨折或疑似骨折者，未上夹板前不要移动；若可能脊椎受伤，应固定在足够的硬背板上；（13）未确定安全前，绝不催伤者坐、站或行走。
 
-图注包括：为复位简单手指脱臼，在患关节两侧施拉力；拇指脱臼不应自行复位，因解剖复杂可能需小手术，应覆盖保护、用吊带支撑并求医；击出卡在儿童气管内的异物；外部心脏按摩的正确手位；用纸箱制成使被褥不压腿脚的架子。页末还有癫痫发作和腹痛症状的摘录，均在本叶中断。
+图注包括：图 8-9，为复位简单手指脱臼，在患关节两侧施加拉力。拇指脱臼不可自行复位；由于解剖复杂，复位可能需要小手术。用保护性敷料包住拇指，以吊带支撑手部，并寻求医疗帮助。图 4-1，以肩胛骨之间的猛烈一击，击出卡在儿童气管里的异物。图 4-11，外部心脏按摩的正确手位：用掌根向胸骨施压。图 15-1，用纸箱制成架子，使被褥不压住腿脚。
+
+**癫痫发作。** 习惯处理癫痫发作的人不会把抽搐看得太严重，也不会慌张。重要的是防止发作者吸入呕吐物或因其窒息；但大多数发作不论你做什么或不做什么，都会自行无害结束，因此只需保护患者免受伤害，耐心等待。患者恢复时不要过分表示同情——你可能只会让他难堪。给他一杯水或茶，让好奇的旁观者离开，并确认他已经好到可以继续赶路，或有人送他回家。若情况更严重，应确保他被送往医院。
+
+图 6-1，令休克患者采取体位的两种办法：A，紧急情况下，用箱子或其他物件抬高双腿；B，在医院或家中，在床脚下垫“休克垫块”。
+
+**急性阑尾炎。** 典型病例最早的明确症状，通常是上腹部一阵阵绞痛；两至四小时后出现恶心和呕吐，可能伴有类似腹泻的感觉。再过约四小时，疼痛转到右下腹，触及时变得急剧压痛和痉挛。若这一后期症状接在上述事件顺序之后，强烈提示急性阑尾炎。
+
+治疗是立即手术。疑似阑尾炎者绝不可进食或饮水，也许只能小口喝水。在医生弄清真正诊断之前，绝不可口服泻药或任何其他药物。患者应半躺，头和躯干从水平位置抬高约 30 度，膝下放枕头使其弯曲；用毛巾包住冰袋，敷在右下腹。应尽快让医生诊察，并安排住院。
+
+### 《妊娠、分娩与新生儿：乡村助产士手册》
+
+这本手册最初出版于 1950 年，用来教导在中国受教育很少的妇女和女孩。此后内容扩充并适配其他国家，如今也以葡萄牙文、西班牙文和英文出版。
+
+课程包括解剖、女性生殖器官生理、妊娠和分娩的进程与处理，以及新生儿照护。手册为无法进入现代无菌医院的乡村助产士而写，所以插图和说明肯定能帮助任何对居家分娩感兴趣的人。建议实用而经济。［Haru Bekker 推荐并评介］
+
+Leo Eloesser、Edith Galt、Isabel Hemingway：《Pregnancy, Childbirth and the Newborn: A Manual for Rural Midwives》，1959 年，150 页，邮资已付 1.25 美元。购自 Niños Héroes, 139, México 7, D.F., Mexico。
+
+**分娩并发症：臀位分娩。** 约 3% 的分娩会出现臀先露。母亲危险不大，但臀位婴儿有 10% 死亡，许多死于呼吸问题（窒息）。若处理得当，危险会小得多。
+
+处理：若第一胎诊断为臀先露，应尽可能为分娩寻求帮助，或把产妇送往医院。若产妇已经生过孩子，或正处于活跃产程，就尽最大努力接生。应省去灌肠或让产妇行走等加速分娩的措施。
+
+先露部位出现时不要着急，让臀部缓慢撑开会阴，让母亲自己娩出婴儿。整个身体出生后，用左手和前臂托住；用左手中指找到婴儿口部，使婴儿头部完全屈曲。同时用右手压迫宫底，或请助手这样做，头部便会娩出。任何时候都不要拉扯婴儿。
+
+图 31：娩出胎盘。胎盘排出后扭转胎膜，有助于防止胎膜撕裂和滞留。另一图注：娩出前肩。
 
 ## Omitted Bibliographic/Order Info
 
-- 图号、部分图注及癫痫／腹痛段落续文在图文穿插中截断，未写成完整操作说明。
+- 无。原页急救与分娩示意图未重绘；全部可读图注、正文、书目和订购信息已译出。
 
 ## OCR / Uncertainty Notes
 
 - 该页是 1960 年代急救材料；译文不替代当前急救培训、紧急服务或医疗专业意见。
-- 图示步骤、特别是脱臼复位和心肺复苏，必须依高清图及合格的现代规范核对，不能凭文字自行操作。
+- 图示步骤、特别是脱臼复位、心肺复苏、阑尾炎和臀位分娩，只是 1959–1969 年材料的忠实翻译，不能凭文字自行操作。
 
 ## Self Critique
 
 - 保留原书开头“不能替代医生”的警告，并将检查单和图注分开。
-- 没有补齐截断的病例段落或把历史急救内容提升为现行指引。
+- 补回旧稿错误判为“截断”的癫痫、阑尾炎完整段落，以及整项乡村助产士手册、臀位处理和图注；未把历史内容提升为现行指引。
