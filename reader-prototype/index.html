@@ -470,6 +470,10 @@
   function scanUrl(leaf) { return data.scan_url.replace("{leaf}", leaf); }
   function pageUrl(leaf) { return data.archive_page_url.replace("{leaf}", leaf); }
   function printedNumber(leaf) {
+    const pageMap = data.printed_pages || {};
+    if (Object.prototype.hasOwnProperty.call(pageMap, String(leaf))) {
+      return pageMap[String(leaf)];
+    }
     const rules = data.printed_page_rules || [];
     for (const rule of rules) {
       if (leaf >= rule.leaf_start && leaf <= rule.leaf_end) {

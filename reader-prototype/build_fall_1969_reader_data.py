@@ -102,8 +102,8 @@ PREFACE = [
     {
         "title": "校订说明",
         "html": (
-            "<p>本版 132 页均已完成独立复核。原先标记为需要高清扫描的 29 页已逐页闭环；"
-            "终检又发现并重译了 7 页虽被旧标签接受、但仍残留机器转写的内容。</p>"
+            "<p>本版撤回了旧的 accepted 判断，对 132 个扫描叶重新执行源页清点、完整翻译与独立复核。"
+            "原先标记为需要高清扫描的 29 页已逐页闭环；全书的摘要替译、漏栏、漏表、错配价格与错误空白页判断也已修复。</p>"
         ),
     },
 ]
@@ -119,8 +119,13 @@ def load_rows() -> list[dict]:
     return rows
 
 
-def printed_page(leaf: int) -> int | None:
-    return leaf - 2 if 3 <= leaf <= 131 else None
+def printed_page(row: dict) -> int | None:
+    value = row.get("printed_page")
+    if isinstance(value, int):
+        return value
+    if isinstance(value, str) and value.isdigit():
+        return int(value)
+    return None
 
 
 def build_payload(rows: list[dict]) -> dict:
@@ -132,7 +137,8 @@ def build_payload(rows: list[dict]) -> dict:
             leaf = row["leaf"]
             source = LEAF_DIR / f"leaf_{leaf:03d}.md"
             raw_body = final_translation(source.read_text(), leaf)
-            fallback = f"原书第 {printed_page(leaf)} 页" if printed_page(leaf) else f"扫描叶 {leaf:03d}"
+            page = printed_page(row)
+            fallback = f"原书第 {page} 页" if page is not None else f"扫描叶 {leaf:03d}"
             title, body = split_display_title(raw_body, fallback)
             section = {
                 "title": title,
@@ -140,7 +146,7 @@ def build_payload(rows: list[dict]) -> dict:
                 "leaf": leaf,
                 "leaf_start": leaf,
                 "leaf_end": leaf,
-                "printed_page": printed_page(leaf),
+                "printed_page": page,
                 "id": f"{chapter_id}-leaf-{leaf:03d}",
                 "anchor_status": row["status"],
                 "translation_status": row["status"],
@@ -180,7 +186,12 @@ def build_payload(rows: list[dict]) -> dict:
         "archive_page_url": "https://archive.org/details/wholeearthcatalo00unse_7/page/n{leaf}",
         "leaf_min": 0,
         "leaf_total": 131,
-        "printed_page_rules": [{"leaf_start": 3, "leaf_end": 131, "printed_start": 1}],
+        "printed_page_rules": [],
+        "printed_pages": {
+            str(row["leaf"]): printed_page(row)
+            for row in rows
+            if printed_page(row) is not None
+        },
         "translation_source": "content/translations/wholeearthcatalo00unse_7",
         "translation_status_counts": dict(counts),
         "preface": {"title": "导读", "sections": PREFACE},
