@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n92; canonical physical leaf: 93 (origFileName=0093.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 90 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 91 (visible printed page number; verified against the original JP2 scan).
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n92_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n92_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`, page-correlated through `_local/page_dossiers/wholeearthcatalo00unse_7/pages.json`; physical leaf verified against scandata, and printed page 91 verified directly on the original JP2 image `wholeearthcatalo00unse_7_0093.jp2`. No supplemental OCR used.
 - OCR recovery: 1737 words / 226 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: cross_page_or_section_continuation, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -115,65 +115,121 @@ Purpose of :
 
 ### 联邦国内援助
 
-这部目录是联邦计划指南。它描述数量惊人的援助项目，包括项目目的、资格要求与“如何申请”。
+这部《目录》是联邦计划的指南。它说明种类多得惊人的各项援助之目的、资格要求与“如何申请”，还提供服务和信息。
 
-我把它既当作愿望书，也当作工具来推荐。令人惊讶的是，许多援助恰好符合新社区的需要：比如约第 27—28 页列出的家庭工业贷款，专门向非营利团体或低收入者开放。城市团体若想把自己的目标连接到现有计划，大概也会找到类似机会。
+我推荐它，既把它当作愿望簿，也当作工具。令人惊讶的是，许多援助恰好适合新社区的需要——例如第 27—28 页的家庭工业贷款——而且明确向非营利团体或低收入者开放。我想，城市团体若把自己的目标同已有计划联系起来，也会有同样的好运。
 
-目录免费。可向你的国会议员、参议员，或 Office of Economic Opportunity、HUD、HEW 的公共信息办公室索取。
+这部目录免费。可向你的众议员或参议员索取，也可向经济机会署（OEO）、住房与城市发展部（HUD）或卫生、教育与福利部（HEW）的公共信息办公室索取。
 
-**Catalog of Federal Domestic Assistance**，1969，619 页。Richard R. Reed 推荐并评介。
+【Richard R. Reed 推荐并评介】
 
-页面列出 OEO 区域办公室，包括 New York、Washington、Atlanta、Chicago、Austin、Kansas City 与 San Francisco，分别服务对应州与地区。
+**《联邦国内援助目录》（Catalog of Federal Domestic Assistance）**，1969 年，619 页，免费取阅处：
 
-右上索引示例按主题列出联邦计划与页码，包括商业援助、人口普查与统计、通信、社区发展、教育、补偿、保护、住房、计算机活动等。
+#### OEO 区域办公室
+
+- 72 West 45 Street, New York, N.Y. 10036——服务 Conn., Me., Mass., N.H., N.J., N.Y., P.R., R.I., Vt., Virgin Islands。
+- Marsh Bldg., 1832 M Street NW., Washington, D.C. 20506——服务 Del., D.C., Ky., Md., N.C., Pa., Va., W.Va.。
+- 730 Peachtree Street NE, Atlanta, GA 30308——服务 Ala., Fla., Ga., Miss., S.C., Tenn.。
+- 623 So. Wabash Ave., Chicago, Ill. 60605——服务 Ill., Ind., Mich., Minn., Ohio, Wisc.。
+- Lowich Bldg., 314 W. 11 Street, Austin, Tex. 78701——服务 Ark., La., N.M., Okla., Tex.。
+- 911 Walnut Street, Kansas City, Mo. 64106——服务 Colo., Idaho, Iowa, Kan., Mo., Mont., Neb., N.D., S.D., Utah, Wyo.。
+- 100 McAllister Street, San Francisco, CA 94102——服务 Alaska, American Samoa, Ariz., Calif., Guam, Hawaii, Nev., Ore., Wash., Trusts。
+
+#### 目录索引节选
+
+- 图书馆资源，104；勤工助学计划，105。
+- **商业**：商业援助、服务与信息，68；商业情报，60、63、68、85；人口普查与统计报告，64；人口普查地图与统计区域，65；人口普查专门制表与服务，66；商业情报，60、63、68；困难地区经济发展，70；企业经济发展贷款，72；经济发展公共工程，71；经济发展技术援助，73；出口许可服务，60；出口贸易促进，61；外国投资开发，62；大地测量控制，74；教育与科学材料免税进口，69；国际商业信息，63；海运发展与促进，77；海运人力培训，78；经济衡量与分析，85；海图，74。
+- 商品分配，13。
+- **通信**：广播频率分配，448；公共承运人服务监管，448；信息服务，448；投诉调查，448；监管活动，448；电话费率，448。
+- **社区**：对西班牙姓氏人士的援助，463；继续教育，106；民防避难所计划，89；拆除补助，322；发展补助，332；经济调整，96；紧急卫生活动，197；人力资源发展规划，166；精神卫生中心，192；智力障碍设施，256；开放空间补助，281；体能计划，504；更新计划，321；老年人服务补助，237；供水与下水道补助，279、333；可行的改善计划，317。
+- **社区行动计划**：启蒙计划（Head Start），491；法律服务，493；邻里设施补助，327；邻里卫生中心，487。
+- **社区发展**：供其使用的联邦土地，328；社区更新计划，321；社区服务与继续教育，106；合作教育服务，161。
+- **补偿**：退伍军人死亡，547；退伍军人受扶养父母，547；退伍军人受扶养者的补偿，528；退伍军人服役相关残疾，548；退伍军人受扶养者，547；残疾退伍军人，548；退伍军人遗孀，547。
+- **综合卫生规划**：给各州的补助，194；培训、研究与示范，195。
+- 教育与研究中的计算机活动，476；计算机用途开发，476；计算机科学，476；计算机科学研究，476；计算机科学特别项目，476；学生与教师培训计划，476。
+- **保护**：溯河鱼类资源，337；阿巴拉契亚地区，6；联邦剩余不动产，455；洪泛区管理服务，92；防洪，58、92。
 
 #### 合作社经济机会贷款
 
-这项计划向采购、营销、服务、供应或设施合作社提供期限 30 年、利率 4½% 的贷款，以便向低收入农村家庭提供技术援助；也可资助社区的农村家庭工业组织。
+**计划性质与目的：** 本计划向为低收入农村家庭提供必要加工、采购或营销服务、物资或设施的合作社提供期限 30 年、利率 4⅛% 的贷款；也就合作社的建立、运营和管理提供技术援助。
 
 贷款可用于：
 
-1. 加工合作社成员农场的产品；
-2. 组装、销售与运输农产品；
-3. 购买并向成员提供生产所需的机器和设备；
-4. 提供或销售农资；
-5. 购买并向成员提供家庭经营与家庭工业用品；
-6. 购买土地与建筑以开展加工、采购和营销服务；
-7. 支付合作社组建成本；
-8. 为特定债务再融资。
+1. 加工成员农场种植的产品；
+2. 集中、营销和运输家庭生产的货物；
+3. 购买生产商品和服务所必需的机器设备，供成员使用；
+4. 为农产品营销提供服务；
+5. 购买农场经营与家庭工业用品，供成员使用；
+6. 购买土地和建筑，以开展加工、采购与营销服务；
+7. 支付组建合作社协会的费用；
+8. 为某些债务再融资。
 
-合作社如符合以下条件可申请：三分之二成员是居住在总人口不超过 5500 地区的低收入农村家庭；这些家庭无法以合理利率和条件取得普通信贷；合作社提供的服务在社区内无法以其他方式充分获得。申请可向 Farmers Home Administration 的州及地方办事处提交。
+**谁能申请及如何申请：** 合作社符合以下条件即可取得资格：（1）三分之二成员来自低收入农村家庭，居住地区人口少于 5,500；（2）他们无法以自己负担得起的利率和条件取得信贷；（3）拟提供的服务并未在该社区以其他方式得到充分供应。申请向 Farmers Home Administration 的当地县办公室提交。
 
-#### 实验住宅的抵押贷款保险
+#### 实验住宅抵押贷款保险（计划号 233）
 
-该计划为采用实验设计或施工理念、旨在降低住房成本、提高生活标准并改善社区设计的独栋住宅与多户住宅提供抵押贷款保险。
+**计划性质与目的：** 本计划为独栋住宅与多户住宅提供抵押贷款保险；这些住宅采用尚未试用的新施工观念，目的在于降低住房成本、提高生活水平并改善邻里设计。它降低为采用实验材料、设计与技术的住房承保抵押贷款时所涉风险，从而加快新观念的发展。
 
-它通过降低采用实验材料、设计与技术承保的风险，加快新概念发展。申请人须证明拟建物业是可接受风险，或符合 HUD Secretary 制定的实验项目标准。向当地 FHA Insuring Office 递交经认可商业贷款机构提出的申请。项目资料为 **FHA's Experimental Housing Program, HUD IP-30**。
+**谁能申请及如何申请：** 有意参加的发起人须能证明，拟议房产作为先进住房设计的试验项目属于可接受风险，或符合实验房产标准，即可取得资格。
 
-同页还列出“中低收入住房抵押贷款保险——市场利率”项目条目。
+**申请与查询：** 申请由 FHA 认可的商业贷款机构提出，由其作为合格抵押权人送交当地保险办公室。查询可联系 Federal Housing Administration, Department of Housing and Urban Development, Washington, D.C. 20410，或当地 FHA Insuring Office。印刷资料：**FHA's Experimental Housing Program, HUD IP-30**。
+
+**授权法律：** 12 U.S.C. 1715x；《国家住房法》第 233 节（由 1961 年《住房法》第 103 节增补）；Public Law 87-70；75 Stat. 149, 158。
+
+**主管机构：** Federal Housing Administration, Department of Housing and Urban Development。
+
+下一条计划标题为：**中低收入住房抵押贷款保险——市场利率**（计划号 221 MR；内容续下页）。
 
 ### 国防剩余物资
 
-剩余物资商店是寻找通用物件的便利来源；直接从 Uncle Sam 买还能更省。美国乃至世界各地散布着国防剩余物资销售处。你在市中心商店要付多少钱，很大程度取决于店主买入时付了多少；也可投标整批大型奇特货物：一英里电缆、一辆翻斗车、一艘登陆艇、一批螺旋桨等。Alan Kalker 推荐。
+剩余物资商店是寻找通用物件的方便来源。更省钱的办法是直接从“山姆大叔”手里购买：国防剩余物资销售处散布在美国各处和世界各地。你在市中心的剩余物资商店要付多少钱，可以预料会远高于商店进货时的价钱。你还可以投标购买大批异想天开的东西：一英里电缆、一辆翻斗卡车、一艘登陆艇、一整批各种螺旋桨，等等。
 
-小册子 **How to Buy Surplus Personal Property**，政府印刷局书店出售，邮资已付 0.20 美元。
+【Alan Kalker 推荐】
 
-Oakland 样价包括：实木野餐桌 5 美元、丙烷野战厨房 30 美元、办公扶手椅 3 美元、秘书椅 3 美元、轮椅（木制）15 美元、木桌 10 美元、软扶手椅 2 美元、台灯 2 美元、折梯 2 美元、泡沫橡胶床垫 2.50 美元、疲劳服 0.45 美元、大衣 3 美元、羊毛裤 2 美元、降落伞背带 2.50 美元。
+小册子 **《如何购买剩余个人财产》（How to Buy Surplus Personal Property）**，邮资已付 0.20 美元，购自 GPO 书店。
 
-另一个样品是一台 1969 年 Hough Model H-90-D 拖拉机铲装机，Cummins 六缸柴油发动机，反铲型号 WRH90-R；二手，成色一般，需要维修。
+#### 国防剩余物资销售处地址与所在地
 
-页面下半部按编号列出 Philadelphia、Newport、Brooklyn、Forest Park、Jacksonville、Norfolk、Columbus、Fort Worth、Ogden、Oakland、San Diego、Tucson 等国防剩余物资销售处，以及 Alaska、Bermuda、Canada 等其他销售机构。
+- **11**：邮寄地址 Defense Surplus Sales Office, P.O. Box 8019, 30th Street P.O., Philadelphia, Pa. 19101；所在地 Building 652, U.S. Naval Base, Philadelphia, Pa.。
+- **16**：邮寄地址 Defense Surplus Sales Office, P.O. Box 660, Newport, R.I. 02840；所在地 Building #115, Naval Base, Gate 51, Portsmouth, R.I.。
+- **18**：邮寄地址 Defense Surplus Sales Office, P.O. Drawer 1, Bush Terminal Station, Brooklyn, N.Y. 11232；所在地 830 Third Avenue—7th Floor, Brooklyn, N.Y.。
+- **21**：邮寄地址 Defense Surplus Sales Office, P.O. Box 644, Forest Park, Ga. 30050；所在地 Atlanta Army Depot, Building 906, Forest Park, Ga.。
+- **23**：邮寄地址 Defense Surplus Sales Office, P.O. Box 31261, Jacksonville, Fla. 32230；所在地 Building 450, U.S. Naval Air Station, Jacksonville, Fla.。
+- **25**：邮寄地址 Defense Surplus Sales Office, Bldg. SDA-224, South Annex, Hampton Roads Branch Post Office, Norfolk, Va. 23511；所在地 Naval Supply Center, Building SDA-224, South Annex, Norfolk, Va.。
+- **27**：邮寄地址 Defense Surplus Sales Office, P.O. Box 13110, Columbus, Ohio 43213；所在地 Building 27, Section 6, Defense Construction Supply Center, Columbus, Ohio。
+- **37**：邮寄地址 Defense Surplus Sales Office, P.O. Box 6297, Fort Worth, Texas 76115；所在地 Corner Felix & Hemphill Sts., Building 2, Fort Worth, Texas。
+- **41**：邮寄地址 Defense Surplus Sales Office, P.O. Box 58, Defense Depot Ogden Station, Ogden, Utah 84401；所在地 Building 2A, Defense Depot Ogden, Ogden, Utah。
+- **44**：邮寄地址 Defense Surplus Sales Office, P.O. Box 4000, Bayshore Station, Oakland, Calif. 94623；所在地 Naval Supply Center, Building 502, Oakland, Calif.。
+- **46**：邮寄地址 Defense Surplus Sales Office, 937 N. Harbor Drive, San Diego, Calif. 92132；所在地 937 N. Harbor Drive (Bldg. 1, 2nd Floor), San Diego, Calif.。
+- **49**：邮寄地址 Defense Surplus Sales Office, P.O. Box 15035, Tucson, Ariz. 85708；所在地 Building 7713, Davis-Monthan AFB, Ariz.。
+
+封面图文字：Defense Supply Agency；**How to Buy… Surplus Personal Property**；from the Department of Defense；June 1967；Defense Logistics Services Center, Federal Center, Battle Creek, Michigan 49016。
+
+#### Oakland 样价
+
+- 实木野餐桌，5 美元；丙烷野战厨房，30 美元；办公扶手椅，3 美元；秘书椅，3 美元；木制轮椅，15 美元；木桌，10 美元。
+- 软扶手椅，2 美元；3 英尺 × 4 英尺平板玻璃，2 美元；折梯，2 美元；泡沫橡胶床垫，2.50 美元；作训衫，0.45 美元；大衣，3 美元；羊毛裤，2 美元；降落伞背带，2.50 美元。
+
+**拖拉机铲装机：** 2¼ 立方码，1959 年，Hough Model H-90-D，底盘号 27 AC-1381，轮胎尺寸 1600 × 24，Cummins 六缸柴油发动机，反铲型号 WRH90-R，USN 45-01137；存放于 Building 127 室外；二手、状况尚可、需要维修。
+
+#### 其他销售处
+
+- **Alaska（Anchorage）**：Redistribution and Marketing Activity, Elmendorf Air Force Base, Anchorage, Alaska, APO Seattle 98742。
+- **Alaska（Kodiak）**：Commanding Officer, U.S. Naval Station, FPO Seattle 98790。
+- **Bermuda**：Redistribution and Marketing Activity, Kindley Air Force Base, St. George, Bermuda, APO New York 09856。
+- **Canada**：Crown Assets Disposal Corporation (CADC), 219 Argyle Avenue, Ottawa 2, Ontario, Canada。
+- **Argentina, Newfoundland**：Commanding Officer, U.S. Naval Station, FPO New York 09597。
 
 ## Omitted Bibliographic/Order Info
 
-- 出现但 OCR 片段过短、模糊或语义不完整的供应商订单信息、完整价格组合及目录索引数据，已在不确定注释中标记。
+- 无。可读的索引条目、项目说明、法规依据、价格、型号及销售处地址均已转译或保留原文专名。
 
 ## OCR / Uncertainty Notes
 
-- 本页信息含多处 OCR 断裂，尤其是广告文案、排版符号与小字；价格、邮政号、地址与联系电话可能有字符级误差。
-- 对存在缺字/重复行的条目未作外推补全；仅在原文可见语句内进行转写。
+- 目录索引最末“防洪”第二个页码在印刷点阵与折痕处略模糊；高清图可辨为 92，译文据图记作“58、92”。
+- OEO San Francisco 服务范围末项原版仅印作 `Trusts`，未擅自扩写其地理含义。
 
 ## Self Critique
 
-- 本页保留原文结构进行逐行机器转写并人工保留，不将历史目录内容重写为现代化列表。
-- 未将可见但高风险片段（尤其是价格与联系信息）进一步规范化，以免误报。
+- 已以原始 JP2 逐栏复核，恢复旧稿用“包括……等”省略的全部可读索引和销售处记录。
+- 地址、法规编号、利率、计划号、价格、尺寸与设备编号均按扫描保留；未把历史联系信息改写为现行信息。

@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n91; canonical physical leaf: 92 (origFileName=0092.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 89 in local DjVu/scandata-derived metadata; scan-visible page number not yet verified.
+- Printed page: 90; scan-visible page number verified against the w2000 image.
 - Section: Catalog.
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n91_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n91_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`, with the complete local extraction at `_local/page_dossiers/wholeearthcatalo00unse_7/rawtext_091.txt`. The w2000 source was unavailable during this reconstruction, so no scan-level layout or character claim is made.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`, with the complete local extraction at `_local/page_dossiers/wholeearthcatalo00unse_7/rawtext_091.txt`; `n91_w2000.jpg` checked directly on 2026-08-20.
 - Official OCR recovery: 1,023 words for the corresponding XML page record.
 - Layout indicated by OCR: book review and order block, Government Printing Office commentary and address, subject checklist, selected publication annotations, and reproduced covers.
 - OCR risk flags: dense_multicolumn, list_interleaving, bibliographic_small_print, scan_verification_required.
@@ -78,7 +78,7 @@
 - 51：健康与卫生；药物与环境卫生。
 - 51A：疾病；传染病、感染性疾病、患病情况与人口生命统计。
 - 53：地图。
-- 54：政治学；政府、犯罪、哥伦比亚特区、工程与测量。
+- 54：政治学；政府、犯罪与哥伦比亚特区。
 - 55：史密森学会；国家博物馆与美洲原住民。
 - 58：矿业；炸药、燃料、汽油、天然气、石油与矿物。
 - 59：州际商务。
@@ -91,7 +91,16 @@
 - 70：人口普查；农业、商业、政府、住房、制造业、矿业、人口与地图统计。
 - 71：儿童局，以及其他有关儿童与青少年的出版物。
 - 72：住宅；建造、维护与社区发展。
-- 78：社会保障。
+- 78：社会保障；工业危害、健康与卫生、工人安全、养老金、工伤赔偿与保险。
+- 79：空军；航空、民用航空、海军航空与联邦航空管理局。
+- 79A：太空、导弹、月球、NASA 与卫星；太空教育、探索、研究与技术。
+- 81：海报与图表。
+- 82：无线电与电力；电子学、雷达与通信。
+- 83：国会图书馆。
+- 84：原子能与民防。
+- 85：国防；退伍军人事务。
+- 86：消费者信息；家庭财务、家电、娱乐、园艺、健康与安全、食品、住房与家居、儿童照护，以及服装和织物。
+- 87：美国各州和领地及其资源；包括美化、公共建筑和土地、娱乐资源。
 
 ### 书目例项
 
@@ -117,23 +126,23 @@
 - 《Child's Self-Help Overall》，1948 年，L251。
 - 《Hot Weather Comfort》，HIS-3，5 美分；每 100 份 2.25 美元。
 
-页面还复制了《United States Government Publications — Entries 4175–5778》和《A House-Framing System for Low-Cost Construction》的封面文字。
+### 翻印封面
+
+- 《Monthly Catalog：United States Government Publications — Entries 4175–5778》（《美国政府出版物月度目录——条目 4175–5778》）。
+- 《A House-Framing System for Low-Cost Construction》（《低成本建筑的房屋框架体系》）。
 
 ## Omitted Bibliographic/Order Info
 
-- 官方 OCR 没有稳定保留主题清单的复选框图形；译文保留编号和主题，不模拟勾选状态。
-- `O.P.` 等孤立缩写的版面归属尚不能由 OCR 确定，未扩写。
-- 所有 OCR 中可稳定辨认的书名、编号、年份、价格和地址均已保留；待高清扫描核对字符与版面归属。
+- 无。主题清单的空复选框不模拟勾选状态；`O.P.` 按原页孤立缩写保留在证据中，不臆测扩写。
 
 ## OCR / Uncertainty Notes
 
-- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`，不能计入高清闭环。
-- OCR 把免费的双周清单和 6 美元月度总目录的词序交错；当前按可恢复语法排列，需由扫描确认。
-- `Carper Buckley` 按 OCR 保留；是否有中间名缩写，需高清扫描确认。
+- 本页已于 2026-08-20 完成 w2000 扫描核验，扫描可见页码为 90。
+- 免费双周清单、6 美元月度总目录与 `Carper Buckley` 署名均已按高清版面确认。
 - 出版物代码及主题编号均保留源文字形，不借外部资料静默校正。
 
 ## Self Critique
 
 - 已把逐行乱码改为三块可读译文，并恢复旧稿遗漏的后半页主题与书目例项。
-- 当前成果是 OCR 重建预备稿，不是高清复核结果；没有更改 review 的结论计数。
-- 后续扫描复核应优先检查页码、双周/月度目录句序、主题编号、出版物代码、价格及两幅封面文字的归属。
+- 已补回 OCR 重建时漏掉的 79、79A、81–87 类主题，并修正第 54、78 类的范围。
+- 全页主题编号、出版物代码、价格与封面文字已经高清复核，不再是预备稿。
