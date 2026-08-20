@@ -125,13 +125,13 @@ Naz-Dar 目录免费索取：The Naz-Dar Company，1087 N. North Branch Street�
 
 多数藤编制品只要起初做得好，就能用很久，但当然不会永久保持清洁。芦苇和柳条可用温热清水刷洗或冲洗，别用肥皂，以免皂液嵌进缝隙。拉菲草编织物可用肥皂和水洗；应远离火源自然干燥，晒在太阳下则会略微褪色。
 
-《Basketry》，1952 年，108 页，Dover Publications, Inc.，180 Varick Street，New York, N. Y. 10014；或 Whole Earth Catalog，1.25 美元包邮。
+《Basketry》，F. J. Christopher 著，1952 年，108 页，1.25 美元包邮。订购：Dover Publications, Inc.，180 Varick Street，New York, New York 10014；或 WHOLE EARTH CATALOG。
 
 ### 《印第安手艺与知识》
 
 童子军和德国人做的印第安装备比大多数印第安人还好（真的，去任何一次 pow-wow 问问就知道）；这本书也许正是原因。研究彻底，插图精彩，把人一下带进去。好书。
 
-《Indian Crafts and Lore》W. Ben Hunt 著，1954 年，112 页，4.50 美元包邮；Golden Press（Macmillan Company）出版，180 Varick Street，New York, N. Y. 10014；［可能对应本页目录中同名条目］
+《Indian Crafts and Lore》，W. Ben Hunt 著，1954 年，112 页，4.50 美元包邮。订购：Golden Press／Macmillan Company，Front and Brown Streets，Riverside, Burlington County, New Jersey 08075。
 
 ### 鹿皮
 
@@ -145,13 +145,13 @@ Naz-Dar 目录免费索取：The Naz-Dar Company，1087 N. North Branch Street�
 
 **使用模具须记：**不要用硬物敲击；不要放进温度超过 175 度的烤箱；不要用锐器或磨料刮内部；除非朋友懂得保养，否则别外借。置于温暖干燥处以防生锈，盖好以免内部积尘。若须清除污染或顽固蜡渍，可在下一次浇注时将蜡加热至 230 度；通常能清洁模具并吸收残蜡。
 
-Don Olsen 评论。
+图示比较：“灯芯太大”“尺寸合适的灯芯”“灯芯太小”“灯芯远远太小”。
 
-《现代蜡烛制作艺术》，1963 年，152 页，6.50 美元包邮；A. S. Barnes & Co., Inc.，Box 421，Cranbury, N. J. 08512；［Carl Mueller 评论、Jerome Skuba 推荐］
+《现代蜡烛制作艺术》，Don Olsen 著，1963 年，152 页，6.50 美元包邮。订购：A. S. Barnes & Co.，Box 421，Cranbury, New Jersey 08512。
 
 ### 《如何制作骑马牛仔皮具》
 
-这本书很实用，涵盖生皮材料的用途，尤其是如何缝制“绿色皮革”与自己的皮革制品。  
+这是一本非常实用的生皮用途书，其中有一节讲怎样处理“鲜皮”（green leather）并自制生皮。编成辫状的皮革既结实又耐用。书中用马具说明生皮的用途，但皮革编结当然还能在其他场合发挥作用。
 ［Mary McCabe 评论；Gary Snyder 推荐］
 
 《How to Make Cowboy Horse Gear》，Bruce Grant 著，1953 年，186 页，3.50 美元包邮；Cornell Maritime Press，Box 109，Cambridge, Md. 21613。
@@ -160,11 +160,16 @@ Don Olsen 评论。
 
 Sonny Strong 已经去世，但他的生皮制作方法仍在流传。皮从尸体剥下、尚有体温时，肉面朝上平铺，撒上 40 或 50 磅细粒牲畜盐；这是成年兽皮的用量，未成年兽或犊皮用一半。
 
+把盐均匀撒开，再把皮折起，使毛面朝外、两个肉面相贴。将兽皮放在阴凉、干燥处一周到十天。
+
+Rickman 强调，必须在兽皮尚带体温时撒盐。因此若不是自己剥皮，就要让实际动手的人替你立刻撒盐。盐会在血和胶质凝固前把它们从皮中带走；Rickman 认为，这对保持兽皮柔韧很重要。
+
 ## Omitted Bibliographic/Order Info
-《现代蜡烛制作艺术》与《How to Make Cowboy Horse Gear》的部分 OCR 行仍有轻微断字，已保留可核文本并注明来源；其余跨页或被页图遮挡处继续留意。
+- Naz-Dar 商品照片中的重复瓶罐标签和篮编图中的纯纹理样例未逐一转写；所有条目正文、书目和操作说明均已保留。
 
 ## OCR / Uncertainty Notes
-《现代蜡烛制作艺术》的书目信息未在本页 OCR 中完整出现；“175 度”“230 度”未标明温标，按原文保留。生皮法的“40 或 50 磅细粒牲畜盐”及成年兽皮／幼兽或犊皮减半，逐字按可辨 OCR 保留；段落在页末截断。
+- 《现代蜡烛制作艺术》的书目信息已从高分辨率扫描确认；“175 度”“230 度”原文未标温标，译文不擅自换算。
+- 生皮法的 40 或 50 磅盐、幼兽减半、折叠及一周到十天阴干等步骤均在本叶内完整结束，官方 OCR 的截断已由扫描补齐。
 
 ## Self Critique
-保留了可辨的售价、订购地址和数量；未将页末截断的生皮步骤补写为完整方法。
+- 已保留七个独立条目、完整书目、售价、地址、数量与操作步骤，并纠正《印第安手艺与知识》的错误地址和蜡烛书的错误署名归属。

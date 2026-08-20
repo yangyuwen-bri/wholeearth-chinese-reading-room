@@ -125,7 +125,7 @@ Leclerc Industries 提供大型目录，涵盖各种型号和尺寸的织造附�
 
 终于有了，而且什么都有！像一位神奇的老师，正好教你所需要的：彻底、全面、学术而鼓舞人心（“我要织地毯！”）。四百多幅清晰图解、174 幅插图，虽只有四幅彩色，还能要求更多吗？从基础到最先进、过去不易见到的技法，从古老方法到 Collingwood 自己的创造性技术发展，地毯织造的各方面都讲得细尽。多数织法也能用于地毯之外，所以这是给所有织工的书。令人生畏。［Sarah Kahn 评论］
 
-Peter Collingwood 著，1968 年，480 页，17.50 美元包邮；Watson-Guptill Publications，165 West 46th Street，New York, N. Y.；或 2160 Patterson Street，Cincinnati, Ohio 45214。
+Peter Collingwood 著，1968 年，480 页，17.50 美元包邮；订购：Watson-Guptill Publications，165 West 46th Street，New York, New York 10036；或 2160 Patterson Street，Cincinnati, Ohio 45214；或 WHOLE EARTH CATALOG。
 
 ### Pioneer Loom
 
@@ -133,11 +133,11 @@ Peter Collingwood 著，1968 年，480 页，17.50 美元包邮；Watson-Guptill
 
 由于经线可为一根连续线（或几根交替使用的连续线），不必预先精确计算，也可自发设计；即使已经开始织，也能把经线从一个筘齿调整到另一个，或从一根综丝调到另一根。织机为什么不一直这样造？价格从 10 英寸、2 综的 “Sampler” 94.50 美元，到 20 英寸、8 综的 “Craftsman” 169.50 美元。［Rose Sargant 推荐；Sarah Kahn 评论］
 
-购买织机或索取资料：Craft & Hobby Book Service，Box 626，Pacific Grove, CA 93950；或 Northwest Looms，Box 241，Coburg, Ore. 97401。图示：15 英寸 Pioneer “Designer” 型。
+购买织机或索取资料：Craft & Hobby Book Service，Box 626，Pacific Grove, CA 93950；或 Northwest Looms，Box 241，Coburg, Oregon 97401。图示：15 英寸 Pioneer “Designer” 型，配 8 个综框。
 
 ### 其他织机来源
 
-Jerome Skuba 或《全球概览》另推荐：Handcrafters, 521 West Brown Street, Waupun, Wisconsin 53963；Condon Woolen Mills, Baldwin, Michigan 49304；Bailey Manufacturing Co., 118 Lee Street, Lodi, Ohio 44254。
+Jerome Skuba 另推荐：Handcrafters，521 West Brown Street，Waupun, Wisconsin 53963；Norwood Loom Company，Box 272，Baldwin, Michigan 49304；Bailey Manufacturing Co.，118 Lee Street，Lodi, Ohio 44254。
 
 ### Condon Woolen Mills 羊毛纱
 
@@ -153,15 +153,15 @@ Jerome Skuba 或《全球概览》另推荐：Handcrafters, 521 West Brown Stree
 
 CUM 现已能够处理美国订单；其英文目录和价目表以美元列出每磅价格，不像其他欧洲纱线商。样品包括单股和双股粗纺毛纱、地毯纱、挂毯纱与针织纱、2/20 精纺纱、棉纱和亚麻纱、地毯经纱和细绳。所有纱线均经防蛀处理；这种审美和结构品质的纱线，平均价格不到每磅 3 美元。订单回复迅速；海运约六周，空运不到两周。
 
-目录及纱样活页夹，邮资已付价 3.00 美元。购自：CUM Textile Industries, Ltd., Rémersgade 5, 1362 Copenhagen K, Denmark。［Sarah Kahn 评论］
+目录及纱样活页夹，邮资已付价 3.00 美元。购自：CUM Textile Industries, Ltd.，Rømersgade 5，1362 Copenhagen K，Denmark。［Sarah Kahn 评论］
 
 ## Omitted Bibliographic/Order Info
 - 图中织法结构没有以文字等价物替代；除此之外，完整 DjVu XML 中可稳定辨认的条目、价格和地址均已保留。
 
 ## OCR / Uncertainty Notes
-- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
+- 已完成 w2000 扫描核验，并纠正补充织机来源中的 Norwood Loom Company，不再误写成 Condon Woolen Mills。
 - 图 293、106、107 的织法细图未能由 OCR 还原；仅保留可辨图题和正文，不以文字重建图案。
 - 直接读取完整 DjVu page object 后，恢复了生成 dossier 截断点之后的织机来源、两条纱线目录及订购信息。
 
 ## Self Critique
-- 保留目录信息、书评、Pioneer 织机机制、售价、织机来源和两个纱线条目；图例编号和微型标签仍须在高分辨率扫描中复核。
+- 保留目录信息、书评、Pioneer 织机机制、售价、织机来源和两个纱线条目；高分辨率扫描已用于复核图题、地址与条目归属。

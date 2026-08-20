@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n58; canonical physical scan leaf: 59 (origFileName=0059.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 57 in the source pack; scan-visible page number not yet verified in this pass.
+- Printed page: 57 in the source pack; scan-visible page number verified from the w2000 scan.
 - Section: Industry and Craft (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n58_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n58_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0059.djvu` was read directly because generated dossier text may be truncated. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0059.djvu` and the linked w2000 scan were checked directly because generated dossier text may be truncated.
 - OCR recovery: 1534 words / 224 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: cross_page_or_section_continuation, price_and_number_boundary_risk, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -117,6 +117,8 @@ library, | felt a sense of personal loss. In 1962 Dover
 - whisker（材料学）：晶须。
 
 ## Final Translation
+### 此前已列入“工业与手艺”，至今仍深受喜爱
+
 ### 《自己动手做家具》
 
 与大多数 DIY 家具书不同，R. J. DeCristoforo 的《自己动手做家具》并没有教你按图造家具。它讲的是：一件家具的设计须包含什么，才能正常使用。要是你造过摇晃的桌子或打不开的抽屉，就会懂得这本书的价值。
@@ -185,10 +187,10 @@ E. G. Couzens、V. E. Yarsley：《Plastics in the Modern World》，1941、1956
 - 可稳定辨认的书名、评论、作者、年份、页数、价格和地址均已保留；页面上的小型产品图形没有文字化替代。
 
 ## OCR / Uncertainty Notes
-- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
+- 本页已完成 w2000 扫描核验；多栏次序、署名、书目信息与正文边界均已确认。
 - 直接读取完整 DjVu page object 后，恢复了旧 Source Pack 截断点之后的《Whittling & Woodcarving》余文，以及材料、吉他和塑料三个主体条目。
-- 《Whittling & Woodcarving》的开本数字和页面印刷页码仍需扫描确认。
+- 《Whittling & Woodcarving》的开本数字为约 5½×8½ 英寸；页面印刷页码为 57。
 
 ## Self Critique
 - 已逐项保留七个主体块的书评、作者、年份、页数、价格和地址。
-- 当前是完整 OCR 重建，不是高清闭环；不把小型图形或不稳定开本字符写成额外事实。
+- 已完成高清闭环；不把无实质文字的小型装饰图形写成额外事实。

@@ -8,7 +8,7 @@
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n59_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n59_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml, with the w2000 scan used for full-page layout and small-print verification. No supplemental OCR used.
 - OCR recovery: 1541 words / 190 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: cross_page_or_section_continuation, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -133,13 +133,55 @@ thes lib ‘peiat - the
 
 然后让眼睛沿模型轮廓缓慢移动，也让铅笔在纸上缓慢移动；始终确信笔尖真的在触碰轮廓。多凭触感，而少凭视觉引导。这意味着你必须不看纸、持续看着模型来画。让笔与眼精确同步；起初眼睛也许想比笔走得快，不要让它抢在前面。只管此刻正在处理的那一点，不要顾及形体的其他部分。
 
+### 两种学习方式
+
+学习绘画的方法就是画。搞艺术的人不能只是懂得艺术。对艺术家来说，重要的不是他知道多少，而是他能做多少。科学家可以通晓航空学，却不会驾驶飞机；只有亲自飞行，才能培养飞行所需的感觉。如果有人问我，什么最能教会学生画画，我会回答：“画——不停地、猛烈地、一丝不苟地画。”
+
+你大概已经明白，轮廓描绘属于需要“一丝不苟”完成的类型；另一方面，今天就要开始的动态速写，则应当“猛烈”地画。为了集中注意力，人可以在短时间里猛烈行动，也可以在很长的时间里安静而坚定地工作。学习绘画时，两种努力都不可缺少，而且恰好彼此平衡。长时间习作会让你理解模特的结构、理解它是怎样构成的——我所说的比单纯的解剖学更根本；快速习作则要考察动作、生命或表情的功能，我称之为“动态”。
+
+图注：动态速写更像涂写，而不像小心翼翼地刻画——多想动作的意义，少想事物看起来的样子。
+
+有些学生一开始画脸，就立刻变得拘谨、困惑。别把头或脸看成与身体其他部分不同的东西；画它，就像画一只手、一个肘或一只膝盖。不要试图“画得像”你的模特。初学者往往把“相像”与绘画本身分开。尽可能画陌生人，因为你不那么在乎他们究竟长什么样。不要画家人——至少别把画给他们看——因为他们唯一的反应就是寻找像不像。务必记住：你不是在画肖像，而是在作一幅头部习作。
+
+### 改变视点
+
+大家都知道，印出来或说出口的话一旦出现，就容易获得权威；要摆脱这种权威，几乎需要一场革命。你自己的画也是如此。你犯下的错误留在纸上，也会逐渐显得不容置疑。为了对抗这种倾向，在长时间摆姿势的过程中绕着房间走动，偶尔画几张涂写般的速写。同一事物无论从哪个视点看，在事实上都还是同一个事物；但从不同视点观察，会照亮你一直观看的形体与线条的意义。每当不知道该怎样开始一幅习作时，就想一想运动。
+
 Kimon Nicolaides 著，1941 年，221 页，6.00 美元包邮：Houghton Mifflin Co.，Wayside Road，Burlington, Mass. 01803。
 
+### 制图
+
+地图是绘画、书写和几何学的交会处。没有别的媒介能让如此大量的关键信息一眼就绪。研究大脑和思维设计的人，近来愈发重视“它在哪里”这个问题；显然，心智储存、提取与联系事物的许多系统，都以心理空间中的位置关系为基础。
+
+这本书精心介绍地图的使用、绘制，以及地图意义的一部分。
+
+只要观察地图把哪个方向放在顶端，我们就能纵览文明史，也能纵览制图史。哈佛大学制图权威 Erwin Raisz 说：“各国制图者似乎都有一种倾向：把本国注意力所朝向的方向放在地图上方。”
+
+罗马人让地图朝东，正如他们那些拓展帝国版图的船只也经常向东航行。试图夺回圣地的十字军同样如此。许多中世纪风向图用十字架标示东方。
+
+地图与图表——你也许注意到，本章反复出现这两个词。它们的含义有何区别？图表是具有航海、天气预报、人口研究等特殊实用目的的地图。人们会在图表上使用量角器、圆规、分规和各种测量仪器，甚至密度计。
+
+局部坐标点与宇宙方位点之间的这种联系，是科学所认识的宏伟关系之一。考虑到仅仅“地图”这个观念就包含多少东西，地图大概比任何写在纸上的东西都更能消除混乱。地图应当被视为对抗恐慌的一剂解药。
+
+图注：地貌图——以鲜明而优雅的方式呈现准确信息；Erwin Raisz 为一本地理教科书绘制。
+
+### 直线笔可以避免的毛病
+
+- 笔对丁字尺压得太重。
+- 笔向远离丁字尺的方向倾斜。
+- 笔离边缘太近，墨水渗到尺下。
+- 墨水沾在笔片外侧并流到尺下。
+- 两片笔刃没有与丁字尺保持平行。
+- 丁字尺（或三角尺）滑进了未干的墨线。
+- 墨水不足，没能画完整条线。
+
+David Greenhood：《Mapping》，1944、1964 年，288 页，2.95 美元包邮。购自：University of Chicago Press, 11030 South Langley Ave, Chicago, Illinois 60628；或向《全球概览》购买。
+
 ## Omitted Bibliographic/Order Info
-无。
+- 无；正文、图注、直线笔故障标签和两组书目信息均已保留。
 
 ## OCR / Uncertainty Notes
-页末关于动态速写的一句文字被截断；未据此补全。原 OCR 将 “SHOULD”“IS” 误识别，译文按上下文校正。
+- 原 OCR 将 “SHOULD”“IS” 和作者名 David 误识别，译文按高清扫描校正。
 
 ## Self Critique
-保留了原书推荐语、教学原理、完整的练习材料和动作说明；未将传播栏目标题误作书的内容。
+- 保留了原书推荐语、教学原理、完整练习、右栏三组教学摘录，以及下半页《Mapping》的全部评论、图注、故障标签和书目信息。

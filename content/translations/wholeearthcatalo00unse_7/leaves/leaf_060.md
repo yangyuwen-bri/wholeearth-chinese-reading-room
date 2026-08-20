@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n60; canonical physical scan leaf: 61 (origFileName=0061.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 59 in the page OCR and source pack; scan-visible page number not yet verified in this pass.
+- Printed page: 59 in the page OCR and source pack; scan-visible page number verified from the w2000 scan.
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n60_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n60_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0061.djvu` was read directly because generated dossier text may be truncated. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0061.djvu` and the linked w2000 scan were checked directly because generated dossier text may be truncated.
 - OCR recovery: 498 words / 116 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -118,9 +118,9 @@ Hogarth,
 
 Michel F. Braive 著，1966 年，367 页，16.95 美元包邮：McGraw-Hill Book Co.，Princeton Road，Hightstown, N. J. 08520；Manchester Road，Manchester, Mo. 63062；8171 Redwood Highway，Novato, CA 94947；或 Whole Earth Catalog。
 
-图例：Froissard，《里昂洪水》，法国，1856 年；Louis Boutan，水下摄影，1892 年；Duchenne，《激情表情的电生理分析》，巴黎，1876 年；无名氏，名片照，西班牙，约 1875 年。
+图例：Froissard，《里昂洪水》，法国，1856 年；Louis Boutan，水下摄影，1892 年；Duchenne，《激情表情的电生理分析》，巴黎，1876 年；无名氏，名片照，西班牙，约 1875 年；局部合成摄影，日本，约 1885 年。
 
-Pierre Mac Orlan 写道：“摄影让人和物死去片刻，以至他们从彼岸回来时，不知道自己身上发生了什么。”
+Pierre Mac Orlan 在《Masques sur mesure》中写道：“摄影让人和物死去片刻，以至他们从彼岸回来时，不知道自己身上发生了什么。”
 
 ### 图表
 
@@ -140,10 +140,10 @@ Arthur Lockwood：《Diagrams》，Watson-Guptill Publications，1969 年，144 
 - 元音关系图和欧洲绘画流派图中的大量微型标签没有逐项转录；其解释、来源和清楚可读的书目信息均已保留。
 
 ## OCR / Uncertainty Notes
-- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
+- 本页已完成 w2000 扫描核验，摄影图注、图表来源、书目数字与订购地址均已确认。
 - 元音图的语言标签、年代轴上的艺术家姓名和部分图题受图形与列位影响而破损，未逐项复原。
 - 直接读取完整 DjVu page object 后，恢复了生成 dossier 在 6,000 字符截断点之后的《Diagrams》评论、两个图例和订购资料。
 
 ## Self Critique
 - 保留摄影书与《Diagrams》的完整评论、书目信息和可辨图注；对图表中不可可靠判定的标签不作猜测。
-- 当前是官方 OCR 完整性修复，不是高清闭环；扫描恢复后仍需核对微型标签、页码和图像归属。
+- 已完成高清闭环；图表内部的微型标签仍由随页扫描承载。
