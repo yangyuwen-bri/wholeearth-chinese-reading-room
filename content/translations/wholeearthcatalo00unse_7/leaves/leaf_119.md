@@ -4,7 +4,7 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n119; canonical physical leaf: 120 (origFileName=0120.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 117.
+- Printed page: 118 (visible printed page; verified against the high-resolution scan).
 - Section: Catalog.
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n119_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n119_w2000.jpg
@@ -71,7 +71,7 @@ The complex oscilloscope trace reveals ... the instrument of a violin note ...
 
 **LIFE Science Library**，Time-Life Books, Inc.，Retail Sales Dept.，540 N. Michigan Avenue，Chicago, Illinois 60611。
 
-页面展示的分册包括《Growth》《Light and Vision》《Food and Nutrition》《The Cell》《Sound and Hearing》《The Poles》《The Mind》《The Body》《Man and Space》《Matter》《Water》《Planets》等。
+页面展示的分册包括《Growth》《Light and Vision》《Food and Nutrition》《The Cell》《Sound and Hearing》《The Mind》《The Body》《Man and Space》《Matter》《Water》《Planets》。
 
 ### 图文节选
 
@@ -91,24 +91,22 @@ The complex oscilloscope trace reveals ... the instrument of a violin note ...
 
 **一副镜片、两种用途**：Benjamin Franklin 在 18 世纪把双光镜引入美国，帮助老人不用在两副镜架间切换就能看近处与远处。上半镜片用于远视矫正；下半用于近距离工作，通过增加屈光力补偿老化晶状体愈加僵硬、无法聚焦。——《Light and Vision》
 
-**玉米的演化**：现代多产玉米经历了约 7000 年的剧烈变化。中图是一支约公元前 5200 年的英寸长耳穗，只有 8 行籽粒、每行 5—6 粒。公元前 500 年，墨西哥人已种出叫 Nal-Tel 的四英寸品种，每穗约 11 行小粒。今天墨西哥广泛种植的 Chapalote 长约 8 英寸，有 17 行细窄籽粒。——《Plants》
+**玉米的演化**：现代多产玉米经历了约 7000 年的剧烈变化。左图是一支约公元前 5200 年的一英寸长野生玉米穗，只有 8 行籽粒、每行 5—6 粒。公元前 500 年，墨西哥人已种出叫 Nal-Tel 的四英寸品种，每穗约 11 行小粒。今天墨西哥广泛种植的 Chapalote 长约 8 英寸，有 17 行细窄籽粒。——《Plants》
 
 一条复杂的示波器轨迹揭示小提琴单个音符中数量惊人的组成成分。尽管线条锯齿状，声音并不显得突兀；大峰之间的间隔不到百分之一秒，小峰之间还要短得多。——《Sound and Hearing》。
 
 ## Omitted Bibliographic/Order Info
 
-- 主书目与订购核心（Time-Life Books, 地址/邮资）已保留；未展开所有副标题与版面小字。
-- 页面内多个科学术语、单位与标题因版面较小存在字符损坏，未逐个逐字还原。
-- 对 `pieces of a picture`、`what’s wrong with this phrase` 这类练习型条目，未在中文正文内补写缺失题目文字，仅保留可见主旨。
+- 无。丛书评论、订购方式、页面展示的 11 个分册标题和 9 组图文样例均已译出；无独立作者/版本字段可补。
 
 ## OCR / Uncertainty Notes
 
 - `LIFT Science Library` 与 `LIFE Science Library` 在 OCR 中出现字符偏差（LIFt/LIFE），按正文语义统一修正。
 - 多列布局造成 `PIECES OF A picture` 与 `Light and Vision` 的上下文偶有错位，但标题和语义模块可分辨。
-- `TWO LENSES IN ONE` 中“foci”相关行和 `THE EVOLUTION OF CORN` 的年代年份有少量断字，不做跨行补全。
+- `TWO LENSES IN ONE` 与 `THE EVOLUTION OF CORN` 的数值、位置和专名已用原始 JP2 复核，未依赖断裂 OCR。
 
 ## Self Critique
 
 - 本页翻译遵循“书评为主、条目示例为辅”，没有把训练题重写为说明文。
 - 仅保留明确可见的科学主题与作者组织关系，避免将受损细节替换成臆测。
-- 建议下一轮结合高分辨率裁剪逐条确认玉米演化部分的数值与行文完整性。
+- 2026-08-21 已完成高分辨率逐条复核，并纠正分册列表和玉米样本位置。
