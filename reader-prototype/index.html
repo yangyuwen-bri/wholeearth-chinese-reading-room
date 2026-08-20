@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Whole Earth Epilog, 1974 · 中文精读本</title>
+<title>Whole Earth · 中文精读室</title>
 <style>
   :root {
     --paper: #f5efe0;
@@ -54,6 +54,7 @@
     overflow: hidden;
     background: var(--card);
   }
+  .view-toggle[hidden] { display: none; }
   .view-toggle button {
     border: 0;
     background: transparent;
@@ -334,6 +335,27 @@
     color: #6b6250;
   }
   section.entry blockquote p { margin: 0; font-size: 14.5px; }
+  section.entry table {
+    width: 100%;
+    margin: 18px 0 24px;
+    border-collapse: collapse;
+    font-size: 14px;
+    line-height: 1.55;
+  }
+  section.entry th,
+  section.entry td {
+    padding: 8px 10px;
+    border: 1px solid var(--line);
+    text-align: left;
+    vertical-align: top;
+  }
+  section.entry th {
+    background: var(--wash);
+    font-weight: 700;
+  }
+  section.entry tbody tr:nth-child(even) td {
+    background: rgba(238, 231, 211, 0.35);
+  }
   section.entry code {
     font-family: var(--mono);
     font-size: 0.85em;
@@ -389,11 +411,11 @@
 
 <header class="masthead">
   <div>
-    <h1>Whole Earth Epilog <span style="font-size:15px; color:var(--muted);">October 1974</span></h1>
-    <p class="sub">中文精读本 · 图文对照阅读器 · 原型</p>
+    <h1 id="mastheadTitle">Whole Earth</h1>
+    <p class="sub" id="mastheadSubtitle">中文精读室 · 图文对照</p>
   </div>
   <div class="spacer"></div>
-  <div class="view-toggle">
+  <div class="view-toggle" id="viewToggle">
     <button data-view="order" class="active">原书顺序</button>
     <button data-view="lens">暗线视图</button>
   </div>
@@ -433,7 +455,11 @@
 
 <script>
 (async function () {
-  const data = await (await fetch("data/epilog_reader.json")).json();
+  const issue = new URLSearchParams(window.location.search).get("issue");
+  const dataFile = issue === "fall-1969"
+    ? "data/fall_1969_reader.json"
+    : "data/epilog_reader.json";
+  const data = await (await fetch(dataFile)).json();
   const content = document.getElementById("content");
   const nav = document.getElementById("chapterNav");
   const scanImg = document.getElementById("scanImg");
@@ -447,13 +473,28 @@
   const lensPills = document.getElementById("lensPills");
   const lensNote = document.getElementById("lensNote");
   const lensModules = document.getElementById("lensModules");
+  const viewToggle = document.getElementById("viewToggle");
 
-  let currentLeaf = 1;
+  document.title = (data.display_title || data.title) + " · 中文精读室";
+  document.getElementById("mastheadTitle").textContent = data.display_title || data.title;
+  document.getElementById("mastheadSubtitle").textContent =
+    data.subtitle || "中文精读室 · 图文对照";
+  leafSlider.min = data.leaf_min ?? 0;
+  leafSlider.max = data.leaf_total;
+  leafSlider.value = data.leaf_min ?? 0;
+  progressLabel.textContent = "leaf – / " + data.leaf_total;
+  if (!Array.isArray(data.lenses) || !data.lenses.length) viewToggle.hidden = true;
+
+  let currentLeaf = data.leaf_min ?? 0;
   let activeLens = null;
 
   function scanUrl(leaf) { return data.scan_url.replace("{leaf}", leaf); }
   function pageUrl(leaf) { return data.archive_page_url.replace("{leaf}", leaf); }
   function printedNumber(leaf) {
+    const pageMap = data.printed_pages || {};
+    if (Object.prototype.hasOwnProperty.call(pageMap, String(leaf))) {
+      return pageMap[String(leaf)];
+    }
     const rules = data.printed_page_rules || [];
     for (const rule of rules) {
       if (leaf >= rule.leaf_start && leaf <= rule.leaf_end) {
@@ -595,8 +636,9 @@
   const preface = document.createElement("article");
   preface.className = "chapter";
   preface.id = "preface";
-  preface.innerHTML = "<span class='preface-tag'>序</span><h2>导读：怎样读这本书</h2>" +
-    "<div class='chapter-meta'>面向读者的全书导读 · 正文译写从下一章开始</div>";
+  preface.innerHTML = "<span class='preface-tag'>序</span><h2>" +
+    escapeHtml(data.preface.title || "导读") + "</h2>" +
+    "<div class='chapter-meta'>面向读者的全书导读 · 正文从下一章开始</div>";
   data.preface.sections.forEach(sec => {
     const el = document.createElement("section");
     el.className = "entry";
@@ -652,7 +694,7 @@
     toggle.forEach(b => b.classList.toggle("active", b === btn));
     const lensMode = btn.dataset.view === "lens";
     lensPanel.hidden = !lensMode;
-    if (lensMode && !activeLens) selectLens(data.lenses[0].id);
+    if (lensMode && !activeLens && data.lenses.length) selectLens(data.lenses[0].id);
     if (!lensMode) highlightLensChapters(null);
   }));
 
@@ -700,7 +742,7 @@
       .scrollIntoView({ behavior: "smooth", block: "start" });
   });
 
-  setLeaf(0);
+  setLeaf(data.leaf_min ?? 0);
 })();
 </script>
 </body>
