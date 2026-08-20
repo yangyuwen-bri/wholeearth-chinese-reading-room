@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n70; canonical physical scan leaf: 71 (origFileName=0071.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 69 in the source pack; scan-visible page number not yet verified in this pass.
+- Printed page: 69, verified against the scan-visible page number.
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n70_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n70_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0071.djvu` was read directly because generated dossier text may be truncated. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0071.djvu` was read directly because generated dossier text may be truncated. The full spread was then checked against the official w2000 scan on 2026-08-20.
 - OCR recovery: 1648 words / 223 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: low_contrast_or_sparse_ocr, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -135,7 +135,9 @@ Held 发现，只有主动活动的小猫会发展出知觉；被动的动物实
 
 电视技术的延伸可以让视网膜影像不仅在空间、也在时间上被移置。把电视摄影机和监视器接到无尽的环形磁带上，在录制与播放头之间留出时差，受试者便会看见自己过去的手或其他物体；延迟由录放磁头的间距决定。
 
-这不仅有理论意义，也有实际重要性：飞行器及许多机器的控制都会延迟生效，若延迟扰乱技能，后果可能严重。实验发现，短延迟（约 0-5 秒）会使动作断续且失调，几乎无法画图，写字也很困难；练习几乎没有改善。
+图示标注：延迟信号、环形磁带、监视器、录像带延迟、电视信号、电视摄影机。
+
+这不仅有理论意义，也有实际重要性：飞行器及许多机器的控制都会延迟生效，若延迟扰乱技能，后果可能严重。实验发现，短延迟（约 0.5 秒；原刊印作“0-5”）会使动作断续且失调，几乎无法画图，写字也很困难；练习几乎没有改善。
 
 R. L. Gregory，《眼与脑：视觉心理学》，1966 年，254 页，邮资已付 2.45 美元。McGraw-Hill Book Company：Princeton Road, Hightstown, N.J. 08520；Manchester Road, Manchester, Missouri 63062；8171 Redwood Highway, Novato, CA 94947。
 
@@ -187,16 +189,15 @@ José M. R. Delgado 医学博士：《Physical Control of the Mind》，1969 年
 
 ## Omitted Bibliographic/Order Info
 
-- 页面图示的录像机连接标记、书名下若干损坏的重复印刷，以及第二本书的照片细节未据 OCR 补写。
+- 无。照片本身与视觉图形未用文字复刻；录像装置图的全部文字标注已译出。
 
 ## OCR / Uncertainty Notes
 
-- “0-5 seconds”照 OCR 的连字符形式保留；它可能是小数点的误读，须以高清扫描复核。
-- 引语末句与书目标题均有字符缺失；未据缺失内容扩展原文。
+- 原刊把半秒排作“0-5 seconds”，结合语义译为“0.5 秒”并明确保留刊面形式。
 - 直接读取完整 DjVu page object 后，恢复了旧 Source Pack 截断点之后的整项《Physical Control of the Mind》书评、书目和六组摘录。
 
 ## Self Critique
 
 - 保留两本书的书评、实验引文、论证和限制条件，未把历史神经刺激材料改写成当代建议。
-- 地址、价格、数值和引文仅按完整 XML 可读内容转写，刊面小字仍需扫描复查。
-- 当前是完整 OCR 重建，不是高清闭环。
+- 地址、价格、数值、引文及图示标签均已对照高清扫描复查。
+- 当前已完成高清闭环。

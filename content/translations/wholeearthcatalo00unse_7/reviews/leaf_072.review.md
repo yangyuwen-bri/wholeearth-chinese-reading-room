@@ -4,11 +4,16 @@
 
 accepted
 
+## Coverage Evidence
+
+- Source inventory: two book entries—The Techniques of Television Production and Film Making in Schools—with a scene-effects table, switcher instruction table, two lighting diagrams, a crowd-simulation caption, two order blocks and extensive sound/vision procedures.
+- Translation coverage: both reviews and bibliographic blocks, every switcher command, plot/dialogue sequence, camera/lighting labels, crowd caption, educational rationale, synchronization procedure, seven-step sound-to-vision workflow and sample shooting script are present.
+- Permitted omissions: diagram geometry and photographs are not redrawn; their substantive labels, captions and sequences are translated.
+
 ## Reasons
 
-- 7 个 H2 均保留。
-- 电视制作书评、场景动作、镜头术语与切换台指令均按可读 OCR 分项保留；未把图表的空间关系伪造为确定版式。
-- 本叶没有可核而被省略的作者、价格或订购地址；截断和混排风险均留在 OCR Notes，未混入正文。
+- 旧译只有 467 个汉字，错误声称页尾内容属于下一叶，并漏掉全部作者、价格、地址以及《Film Making in Schools》整项；这些内容已依据完整页对象和 w2000 扫描恢复。
+- 电视制作书评、完整场景动作、镜头／照明标签与切换台指令均分项保留，第二本书的全部流程和脚本样例也未缩写成摘要。
 
 ## Required Fixes
 
@@ -16,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 图表逐格对应关系与下一页续接仍需高清扫描。
+- 视觉图表的空间关系仍须读者参照高清扫描；本叶无跨页正文续接，也无未声明的文字遗漏。
