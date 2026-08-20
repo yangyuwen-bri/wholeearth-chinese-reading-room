@@ -4,7 +4,7 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n108; canonical physical leaf: 109 (origFileName=0109.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 106 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 107 (visible printed page; verified against the high-resolution scan).
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n108_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n108_w2000.jpg
@@ -119,7 +119,7 @@ OF AERONAUTICAL KNOWLEDGE
 
 **Stick and Rudder**，Wolfgang Langewiesche，1944，389 页，邮资已付 8.95 美元。McGraw-Hill Book Co. 东部：Princeton Road，Hightstown, N.J. 08520；中部：Manchester Road，Manchester, Mo. 63062；西部：8171 Redwood Highway，Novato, CA 94947；亦可向《全球概览》订购。
 
-机翼上的安全逻辑和地面相反：高一点安全，低一点危险；飞得快安全，飞得慢危险。通常你若想让机头上升，就抬头；但抬得太多、太急，飞机反而会失速或旋转。降落时为了下沉，应把操纵杆向前推，机头向下；但若下降过猛，则应把机头抬起，下降反而会变缓。紧急情况下最反直觉的动作是：飞机正以一阵“唰”的声音冲向地面，或正失速/旋转时，要避免坠地，唯一方法却是把机头指向下方，像真想撞地那样俯冲。
+有了机翼，飞得高安全，飞得低危险；飞得快安全，飞得慢危险。一般说来，你若想让飞机上升，就把机头抬起；但机头只要抬得稍微过头，飞机反而会在失速或螺旋中下降。飞机着陆时，为了让它沉到跑道上并留在那里，你对操纵装置所做的动作，却很像一次极端的向上急跃。滑翔时，如果想下降得更陡，就让飞机的机头朝下得没那么陡；如果想下降得没那么陡，反而要让机头朝下得更陡！而最惊人的反常莫过于：紧急情况下，飞机正以“软沉”状态向地面下坠，或正在失速、螺旋下落，而你害怕撞地时，唯一能阻止它撞地的办法，却是把机头压下、朝地面俯冲，仿佛你正想撞上去！
 
 **不利偏航效应**：副翼有两种作用。白箭头表示飞行员想要的滚转；黑箭头表示滚转带来的不希望出现的偏航。图中飞行员向左压坡度，似乎准备左转，飞机却先向右偏航，这叫“不利偏航”，必须用方向舵抵消。
 
@@ -141,7 +141,7 @@ OF AERONAUTICAL KNOWLEDGE
 
 这是一份完整、插图充分、资料较新的提要，告诉你在美国驾驶飞机需要知道什么：飞行原理、天气、导航、飞机与发动机操作、飞行仪表、性能、出版物、飞行计算机、无线电通信和飞行计划。由联邦航空局编写，信息扎实，却不会压得你喘不过气。漂亮而直接。
 
-**Private Pilot's Handbook of Aeronautical Knowledge**，FAA，1965，174 页并附样图，2.75 美元。美国政府印刷局在 Washington、Chicago、Kansas City、San Francisco 的书店有售；亦可向《全球概览》订购。
+**Private Pilot's Handbook of Aeronautical Knowledge**，FAA，1965，174 页并附样图，2.75 美元。购自美国政府印刷局书店：710 North Capitol Street, Washington, D.C. 20402；Room 1463, 14th Floor, Federal Office Building, 219 S. Dearborn St., Chicago, Illinois 60604；Room 135, Federal Building, 601 East 12th St., Kansas City, Missouri 64106；Federal Building, 450 Golden Gate Avenue, Room 1023, Box 36104, San Francisco, California 94102；亦可向《全球概览》订购。
 
 ### 二手飞机购买指南
 
@@ -150,6 +150,8 @@ OF AERONAUTICAL KNOWLEDGE
 **Used Plane Buying Guide**，James M. Triggs，1962，128 页，邮资已付 2.45 美元。Crown Publishers，419 Park Avenue South，New York, NY 10016；亦可向《全球概览》订购。
 
 当前购买信息最好查阅《Trade-a-Plane》，它刊载设备、材料、零件以及整架飞机。每年 4 美元，每月 3 期。Trade-a-Plane Service，Crossville, Tennessee。
+
+**枪式摄影机（Gun Cameras）**：N-6 型，24 伏直流供电；16 毫米自动摄影机，带 50 英尺胶片匣；新机成套，带镜头，未使用，状况极佳。每台 22.50 美元，邮资已付。（广告小字中个别电气参数在扫描上无法可靠辨清，未据猜测补写。）
 
 ### 航空图表
 
@@ -165,14 +167,14 @@ Mack 说，关于如何取得航图，常见的空白是 ONCs——Operational N
 
 ## Omitted Bibliographic/Order Info
 
-- 出现但 OCR 片段过短、模糊或语义不完整的供应商订单信息、完整价格组合及目录索引数据，已在不确定注释中标记。
+- 枪式摄影机广告中价格、型号、电压、胶片规格与成色均已保留；仅一处无法由扫描可靠辨清的细小电气参数未作猜测。
 
 ## OCR / Uncertainty Notes
 
-- 本页信息含多处 OCR 断裂，尤其是广告文案、排版符号与小字；价格、邮政号、地址与联系电话可能有字符级误差。
-- 对存在缺字/重复行的条目未作外推补全；仅在原文可见语句内进行转写。
+- 本页已用 3484×4752 的原始 JP2 逐栏复核；四个政府印刷局书店地址及页角枪式摄影机广告均直接取自扫描，而非残缺 OCR。
+- 枪式摄影机广告有一处极小的电气参数无法可靠辨清，译文明确留空，没有外推。
 
 ## Self Critique
 
-- 本页保留原文结构进行逐行机器转写并人工保留，不将历史目录内容重写为现代化列表。
-- 未将可见但高风险片段（尤其是价格与联系信息）进一步规范化，以免误报。
+- 本页保留所有独立条目、评论、书中摘录、图解说明、价格与订购地址，不以内容简介替代原文。
+- 已纠正旧译对着陆、滑翔和“mush（软沉）”段落的解释性改写，使反直觉论证与原文一致。

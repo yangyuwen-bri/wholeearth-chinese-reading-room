@@ -4,7 +4,7 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n110; canonical physical leaf: 111 (origFileName=0111.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 108 (official scandata pageNumber; use this as the printed-page authority).
+- Printed page: 109 (visible printed page; verified against the high-resolution scan).
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n110_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n110_w2000.jpg
@@ -125,7 +125,17 @@ Intermedic（777 Third Avenue, New York, NY 10017）是一个让会员在旅行�
 
 Medical Passport Foundation（35 East 69th Street, New York, NY 10021，电话 212-879-9470）出版“Medical Passport”，仿钱包大小的医疗记录，含病史、急救信息、化验、X 光、过敏、药物禁忌、诊断与治疗、眼镜处方和心电图等。塑料套可装其他旅行证件，2.75 美元；儿童版 3 美元。美国国务院人员使用。
 
-同栏还概述日本旅行资料：美国公民所需护照与疫苗证书、72 小时过境免签、海关限额、电压频率，以及药店、动植物等实用信息。
+#### 日本旅行资料摘录
+
+**美国公民所需海关规定与证件**：需要护照和天花疫苗接种证明。停留 72 小时以内的过境不需要签证；旅游签证有效期为 60 天。来自疫区的访客必须接种霍乱疫苗，环球及环亚洲旅行者也建议接种。可免税携带香烟 200 支、雪茄 50 支或烟草半磅，以及烈酒五分之一加仑；如果访客停留两周或更久，可带三份五分之一加仑装烈酒。商店备有免税表格（参见“商店”条目）。
+
+**药店**：东京的 American Pharmacy 和 Rexall Drug Co. 备有美国产品。日本药店出售优质而更便宜的本地洗漱用品与药品。
+
+**电流**：100 伏交流电；东京及日本东部为 50 赫兹，大阪及日本西部为 60 赫兹。不需要变压器插头。
+
+**动物**：日本中部和南部有野猪、鹿、雉、鹌鹑、鹬和野鹅；北海道有熊。
+
+**植物**：樱树与梅树每年春天开花。国花菊花随处陈列；许多其他花卉与灌木也受到精心栽培照料。本州南部的低山遍布茶园。柿子、枇杷、无花果，以及一种名为蜜柑的美味橘子，几乎到处都有种植。日本的草莓和苹果又大又好吃。
 
 ### 《旅行者目录》
 
@@ -143,29 +153,26 @@ Medical Passport Foundation（35 East 69th Street, New York, NY 10021，电话 2
 
 若准备去世界某个特定地方，想知道那里有哪些指南书，就去图书馆找这部优秀的旅行书目注释索引。
 
-**Reference Guide for Travelers**，A. E. Kneal，1969，674 页；在各地靠谱图书馆免费查阅。
+**Reference Guide for Travelers**，J. A. Neal，1969，674 页；在各地靠谱图书馆免费查阅。
 
 ### Fielding 的欧洲超级经济指南
 
 这本指南 1967 年首次出版时，市场早已等着它：出版首月便售出十多万册。美国游客对出版者的支持，大概是因为它宣称每年修订的《Fielding's Travel Guide to Europe》是“旅行的圣经”。这本面向预算的新作，仍带着他一贯充满双关的散漫文风和“这里别花钱、那里也别花”的做派，但不重复老书内容，提供的是一部经济指南，让旅人把预算拉伸到极限——“花更少的钱，看见更多”。
 
-书中按 24 座城市分章，每城覆盖 12 类主题：极低价住宿、中等预算住宿、最便宜床位、学生旅行、观光、吃喝、节庆、夜生活、护照与海关、交通、购物、餐车租赁、服装、货币、地图、休闲、餐馆、租车、组织旅行、铁路、电车和签证等。
+全书按 24 座城市分章。每座城市从 12 个主题展开，其中包括：“精打细算的肥猫过夜处”（高预算住宿）、“中等预算过夜处”、“屋顶、门把和床”（最低价推荐）、“便帽、长袍和校园”（面向学生旅行者）、“给酸痛眼睛看的景色”（观光），以及“精打细算地逛街与采购”。页上所列检索类别为：住宿、租车、服装、领事馆、货币、海关规定；食品与饮料、节假日与节庆、夜生活、护照、休闲、餐馆；购物、观光、小费、前往目的地（航空、海运）；目的地内交通（汽车、有组织旅行、铁路、有轨电车）；签证。
 
 **FIELDING'S SUPER-ECONOMY GUIDE TO EUROPE**，Del，1968，880 页，4×7 英寸平装，1.95 美元。
 
 ## Omitted Bibliographic/Order Info
 
-- 本页存在大量短行目录与商品条目信息：价格、页码、目录编码、店铺/出版社邮寄口径在 OCR 中大量断裂，部分已在翻译中未逐字展开，以免误读。
-- 由于扫描对齐与字符重叠，本页多处如“in 131 countries”“duty free 上限”等关键数值有轻微识读风险，未在正文内做强行推断。
+- 无。所有可见商品条目、价格、页数、地址、电话、会员费、海关限额与分类清单均已由原始扫描复核并译出。
 
 ## OCR / Uncertainty Notes
 
-- 明显有行序交织：评论正文与目录块、地址信息和附录条目并列。
-- 价格/地址/电话号码、货币单位与国家地名在低清图层中存在局部糊点，建议以 `w2000` 重拍核对。
-- 部分单词（如 `totes`, `Hervection 1909`、少数字母）为明显噪声，保留为高风险边界。
+- 本页有明显多栏交织，已用 3484×4752 原始 JP2 按版面区块重新确定阅读顺序。
+- 日本旅行资料的海关、药店、电力、动物与植物五个小节均直接由扫描恢复；旧 OCR 的乱码未进入译文。
 
 ## Self Critique
 
-- 已按目录和可读行序逐段转写并翻译；尽量不改写原文含义。
-- 对无法还原的行（尤其是目录密集区）未自行创造新词，仅保留不确定注释。
-- 仍需按高分辨率扫描复核数字、邮政地址及缩写，作为最终发布前的边界确认。
+- 本页 7 组主要条目以及附录、摘录、分类表和全部订购信息均有对应译文，不再使用总结句替代可读原文。
+- 已纠正旅行书目作者姓名和 Fielding 分类清单的错译，并保留 1969 年签证、医疗与海关资料的历史语境。
