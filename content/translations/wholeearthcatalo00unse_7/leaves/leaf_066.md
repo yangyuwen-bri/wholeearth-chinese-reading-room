@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n66; canonical physical scan leaf: 67 (origFileName=0067.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 65 in the source pack; scan-visible page number not yet verified in this pass.
+- Printed page: 65 in the source pack; scan-visible page number verified from the w2000 scan.
 - Section: Communications.
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n66_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n66_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0067.djvu` was read directly because generated dossier text may be truncated. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0067.djvu` and linked w2000 scan were checked directly because generated dossier text may be truncated.
 - Official OCR recovery: 914 words.
 - Layout indicated by OCR: multiple mathematics-book entries, a string-stitching note, a symmetry-group excerpt, Venn diagrams, and an Escher plate and caption.
 - OCR risk flags: low_contrast_or_sparse_ocr, mathematical_notation, cross_entry_interleaving, bibliographic_small_print, scan_verification_required.
@@ -39,9 +39,13 @@
 
 ### Mathematics: Its Content, Methods, and Meaning
 
+“这是一批自学数学书。从中你能学到乐趣。”
+
+“《The World of Mathematics》是历史与……故事——纯数学、应用数学……是一部从外部观看数学的精细而完整的多面汇集。《Mathematics: Its Content, Methods, and Meaning》则从内部观看数学，是一份……技术概览，涵盖数学所关心的……”（扫描左缘已裁去原句若干词，省略号对应缺口。）
+
 “……当我们的心眼深入越来越小的距离和越来越短的时间，我们会发现，自然的行为与周围可见、可触摸物体的表现截然不同，以至于任何依照大尺度经验塑造的模型都永远不可能‘真实’。这类完全令人满意的模型不仅在实践上无法获得，甚至根本不可想象。或者说得更精确些，我们当然可以想象它；但无论怎样想，它都是错的。它或许不像‘三角形的圆’那么毫无意义，却比‘有翅膀的狮子’荒谬得多。”
 
-《Mathematics: Its Content, Methods, and Meaning》，A. D. Aleksandrov、A. N. Volmogorov、R. A. Lavrentev，1956、1963 年，三卷，共 1,144 页。邮资已付价 10.00 美元。购自：The M. I. T. Press, Cambridge, Mass. 02142；或向《全球概览》购买。
+《Mathematics: Its Content, Methods, and Meaning》，A. D. Aleksandrov、A. N. Kolmogorov、R. A. Lavrent'ev，1956、1963 年，三卷，共 1,144 页。邮资已付价 10.00 美元。购自：The M. I. T. Press, Cambridge, Mass. 02142；或向《全球概览》购买。
 
 #### 平面 Fedorov 群
 
@@ -53,7 +57,7 @@
 
 ### 缝线作图
 
-这是一种数学消遣，用直线包络穿过一组孔洞形成图案。它似乎源自一本 1906 年出版、标题以 `A Rhyth-` 开头的作品，后来传播到美国及“本国”。
+这是一种数学缝线消遣，用穿过一组孔洞的直线包络形成图案。它似乎源自 Mrs. E. Somervell 于 1906 年出版的《A Rhythmic Approach to Mathematics》，此后这一做法传播到美国和英国。
 
 这是一组自学数学书：“从中你可以学到乐趣。”
 
@@ -61,7 +65,7 @@
 
 M. C. Escher 的图形作品，是几何借梦的图像扼住自己的喉咙：主观的前沿。［Lloyd Kahn 推荐］
 
-《The Graphic Work of M. C. Escher》，M. C. Escher，1960、1968 年，76 幅图版，邮资已付价 7.95 美元。
+《The Graphic Work of M. C. Escher》，M. C. Escher，1960、1968 年，76 幅图版，邮资已付价 7.95 美元。购自：Meredith Press, 1716 Locust St., Des Moines, Iowa 50303；或向《全球概览》购买。
 
 #### 第 57 号：Double Planetoid
 
@@ -89,14 +93,11 @@ Venn 图使用互相重叠的圆来表示集合之间的关系；它由英国逻
 
 ## Omitted Bibliographic/Order Info
 
-- 页首评论大面积缺字，只翻译完整可辨的科学模型引文。
-- 缝线作图作品的作者与完整书名无法从当前 XML 稳定恢复，未凭相关历史知识补齐。
-- Escher 书目的订购地址与相邻栏目交错，暂不归属；其他稳定可辨的书名、页数、价格和地址均已保留。
+- 扫描左缘物理裁切了页首编辑评论的若干词，译文以省略号原位标明缺口，没有补造；其余评论、书摘、书目与地址均已保留。
 
 ## OCR / Uncertainty Notes
 
-- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
-- 三位《Mathematics》作者的 OCR 字形可能有首字母或姓名误识，已明确标记待扫描核对。
+- 本页已完成 w2000 扫描核验；Kolmogorov 姓名开头的 K 位于裁切边界，结合书名页与作者行恢复。
 - 数学符号、17 种纹样表、小旗图示和 Venn 图无法由纯文字完整替代；译文只恢复其可辨说明。
 - 直接读取完整 DjVu page object 后，恢复了旧 Source Pack 截断点之后的三本书书目、群论摘录、Escher 图注和 Venn 图说明。
 
@@ -104,4 +105,4 @@ Venn 图使用互相重叠的圆来表示集合之间的关系；它由英国逻
 
 - 已把原先笼统的“数学读物”整理为三个可核对书目及一个残缺条目，并补回全部连续可辨的数学说明。
 - 没有把损坏的页首评论、缝线作品书名或交错地址补成确定事实。
-- 后续扫描回归重点是作者姓名、Escher 订购地址、页码、缝线书名、图形标签与各区块版面归属。
+- 已恢复 Escher 订购地址、缝线书名及各区块版面归属。

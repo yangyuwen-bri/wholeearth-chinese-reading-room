@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n63; canonical physical scan leaf: 64 (origFileName=0064.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 62 in the source pack; scan-visible page number not yet verified in this pass.
+- Printed page: 62 in the source pack; scan-visible page number verified from the w2000 scan.
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n63_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n63_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0064.djvu` was read directly because generated dossier text may be truncated. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0064.djvu` and linked w2000 scan were checked directly because generated dossier text may be truncated.
 - OCR recovery: 1325 words / 153 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -128,19 +128,29 @@ Jerome Rothenberg 编，1968 年，521 页，3.95 美元包邮：Doubleday & Co.
 
 ### 《Technicians of the Sacred》选诗
 
-**“我辨出了死亡天空的气味／在我身体前方。”** ——Namebines，奥吉布瓦人
+**死亡的气味**：“我辨出了死亡的气味／在我身体前方。”——Namebines，奥吉布瓦人
 
 没有人，没有众人；一片荒凉，尽是荒凉。没有可吃之物；悲惨四处存在、出现、蔓延。没有快乐，没有欢愉。草药萌生，什么也不长出；大地被压低。众人渴死；草仍萌生。没有东西散落，只有饥饿，处处饥饿；这是饥饿的家，死亡来自饥饿。众人冻死，有冰冻，有颤抖，有牙齿咯咯作响。有痉挛，身体僵直，不断僵直，平躺伸展。——阿兹特克人
 
-**“我用着我的心／它回答我。”** ——Wabezic，奥吉布瓦人
+“我在使用我的心。”——奥吉布瓦人
 
-“我把自己抛向左边，／我把自己转向右边，／我扮成那条鱼，／在水里飞窜，飞窜，／扭转身体，跃起——／万物都活着，万物都舞动，万物都喧响。”
+“悬在上方的蓝色天空／回答我。”——Wabezic，奥吉布瓦人
 
-“我看守着黎明的白狗。”——Red Corn，Osage 人
+“你在对我说什么？我还清醒吗？”——奥吉布瓦人
 
-“水曾漫来，他们说。那时没有陆地，他们说。只有水。／那时没有山，他们说；没有石头，没有鱼，没有鹿，没有灰熊，没有美洲狮，也没有狼。／人被水冲走，他们说。灰熊被冲走，美洲狮被冲走，鹿也被冲走。／那时没有郊狼，没有渡鸦，没有鹭，没有啄木鸟，没有鹪鹩，没有蜂鸟，没有水獭，也没有长耳大野兔。／那时没有风，没有雪，没有雨，也没有雷声；雷不响时也没有树。／它不存在，他们说；它没有出现，他们说。星星也不存在。那时非常黑暗。”——Kato 人
+**一首对抗死亡的爱斯基摩诗**：“我看守着黎明的白狗。”
+
+**万物都活着，万物都舞动，万物都喧响**：“鱼发出……HIP／鸟发出……VISS／旱獭发出……GNAN。／我把自己抛向左边，／我把自己转向右边，／我扮成那条鱼，／在水里飞窜，飞窜，／扭转身体，跃起——／万物都活着，万物都舞动，万物都喧响。／鱼发出……HIP／鸟发出……VISS／旱獭发出……GNAN。”——加蓬俾格米人
+
+“我仍在雕一根铁木棍。／我仍在想着它。”——班图人
+
+“说：门啊，门；过客，过客；／你的脸在你身后；提防那扇大门。”——《咒语 280》，埃及
+
+**创世记一**：“水曾漫来，他们说。那时没有陆地，他们说。只有水。／那时没有山，他们说；没有石头，没有鱼，没有鹿，没有灰熊，没有美洲狮，也没有狼。／人被水冲走，他们说。灰熊被冲走，美洲狮被冲走，鹿也被冲走。／那时没有郊狼，没有渡鸦，没有鹭，没有啄木鸟，没有鹪鹩，没有蜂鸟，没有水獭，没有长耳大野兔，没有灰松鼠，也没有长耳鼠。／那时没有风，没有雪，没有雨，也没有雷声；雷不响时也没有树。没有闪电，没有云，也没有雾。它不存在，他们说；它没有出现，他们说。星星也不存在。那时非常黑暗。”——Kato 人
 
 “我们正在彼此交谈。”——奥吉布瓦人
+
+图像标注：复活节岛；Red Corn（Osage）署名。
 
 ### By the Late John Brockman
 
@@ -174,20 +184,19 @@ John Brockman：《By the Late John Brockman》，1969 年，166 页，邮资已
 
 批评者：你们为什么不清理？／回答：我们喜欢它现在的样子。
 
-回答：猪在里面吃得更好。
+批评者：垃圾不健康。／回答：猪在里面吃得更好。
 
-批评者：这里会滋生蚊子。／回答：丛林里的蚊子更多。
+批评者：这里会滋生蚊子。／回答：丛林里的蚊子更多。——婆罗洲达雅克人
 
 ## Omitted Bibliographic/Order Info
-- 数段极短诗歌的断行、标题和族群标签在 XML 中互相交错，未把不稳定碎片拼成确定诗文。
-- 《Technicians of the Sacred》和 Brockman 书目中稳定可辨的年份、页数、价格与地址均已保留。
+- 无；诗歌断行、标题、族群标签、图像标注以及两组书目信息均已按扫描保留。
 
 ## OCR / Uncertainty Notes
-- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
+- 本页已完成 w2000 扫描核验，并据此恢复 OCR 中相互交错的诗行、标题与族群标签。
 - 直接读取完整 DjVu page object 后，确认旧稿把 Brockman 段落误归入诗歌选文，并恢复了后半页评论、普世技术摘录、诗歌和 `Garbage Event`。
-- 原书选诗的出处标记仅部分可辨；保留稳定的作者／族群署名，不推断损坏的章节来源。
+- Red Corn（Osage）在扫描中作为图像署名独立出现，未误接到爱斯基摩诗句后。
 
 ## Self Critique
 - 已分离《Technicians of the Sacred》与《By the Late John Brockman》，不再把“人死了”一段归进原住民诗歌选文。
 - 保留编辑评论、语言学论点、可辨诗文、Brockman 书评与装置事件；不补写破损短诗。
-- 当前是完整 OCR 重建，不是高清闭环；诗行层级、图像归属和小号署名仍需扫描回归。
+- 已完成高清闭环，并修复 Wabezic 诗句、加蓬俾格米诗副歌、《创世记一》漏项和垃圾事件问答对应关系。

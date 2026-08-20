@@ -8,7 +8,7 @@
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n64_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n64_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf, printed page, entry boundaries and small-print labels verified against the w2000 scan and _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
 - OCR recovery: 1546 words / 215 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -120,39 +120,53 @@ number 34 written in abstract place-
 
 佛陀成年时向 Dandapani 王子的女儿 Gopa 求婚，但必须公开证明才能。他与五位求婚者在书写、摔跤、射箭、跑步、游泳、数字技能上竞试，都出色胜过对手。赛后，Gopa 的父亲命他与大数学家 Arjuna 比试，要他列出 100 koti 以上所有数的等级。koti 是第七级，表示 10⁷，即一千万。印度人很早就有 sahasra（10³）以上的数名，有 ayuta（10⁴）、niyuta 或 lakṣa（10⁵）、prayuta（10⁶）……佛陀回答的数词表在原页分为两栏；以下保留可辨拼写与括号内原列数值，而不把两栏串接为单一序列：
 
-左栏：koti（7；正文说明为 10⁷）、ayuta（= 100 koti；9）、niyuta（11）、kangkara（13）、vivara（15）、aksobhya（17）、vivara（19）、utsanga（21）、bahula（23）、nagabala（25）、titilambha（27）、vyavasthanapradjnapti（29）、hetuhila（31）、karahu（33）。
+左栏：koti（10⁷，缩写为 7）、ayuta（= 100 koti；9）、niyuta（11）、kangkara（13）、vivara（15）、akṣobhya（17）、vivāha（19）、utsanga（21）、bahula（23）、nagabala（25）、titilambha（27）、vyavasthanapradjnapti（29）、hetuhila（31）、karahu（33）。
 
-右栏：hetvindriya（35）、samaptalambha（37）、gananagati（39）、mudrabala（41）、sarvabala（45）、visandjnagati（47）、sarvasandjna（49）、vibhutangama（51）、tallakéane（53）。
+右栏：hetvindriya（35）、samaptalambha（37）、gananagati（39）、niravadya（41）、mudrabala（43）、sarvabala（45）、visandjnagati（47）、sarvasandjna（49）、vibhutangama（51）、tallakṣana（53）。
 
 这本书钻研数字。
 
 Karl Menninger 著，1958、1969 年，480 页，15.00 美元包邮：The M. I. T. Press，Cambridge, Mass. 02142。
 
-图 90：磨坊主的结，用来表示面粉数量和种类。图 242：Albrecht Dürer 的年份写法；约 1495 年，他在连续年份的三幅作品中展示数字 4 演变为现代形式。图 222：中国叉形钱币，数字 34 以抽象位值方式书写。
+图 90：磨坊主的结，用来表示面粉数量和种类。图 242：Albrecht Dürer 的年份写法；约 1495 年，他在连续年份的三幅作品中展示数字 4 演变为现代形式。图 222：中国叉形钱币，数字 34 以抽象位值方式书写，约公元 20 年。
+
+在红海、阿拉伯和东非的港口与市场，商人发展出一种手指语言，区域内每个国家的每个市场都能理解。买卖双方把手藏在一块布、一片衣褶，或从头巾扯下的细棉布下面，彼此触碰对方的手指来谈妥条件，于是整个讨价还价过程完全私密。
+
+1、2、3、4、5、6、7、8、9 和 0——今天所有民族都用这十个符号记录数字，它们象征着一种观念在全世界的胜利。世上很少有真正普遍的事物，人类成功建立的普遍习俗就更少；但他至少可以这样夸耀：新的印度数字确实已成为普世符号。
 
 ### 《A Study of Writing》
 
 并非完美，但这是介绍语言符号系统起源与传播的一本非常好的入门读物。  
 J. Gelb 著，1952 年，319 页，2.95 美元包邮；University of Chicago Press，11030 South Langley Avenue，Chicago, Illinois 60628。
 
+颜色在现代书写中似乎并不重要。虽然图表等场合偶尔用配色来区分含义，但无论手写还是印刷，通常都由黑色或深色占据主导。过去一切书写都靠手工完成，颜色区分更常见。古代墨西哥文字和较近代的美洲印第安文字，都经常给符号着色。在切罗基人中，白色表示和平或幸福，黑色表示死亡，红色表示成功或胜利，蓝色表示失败或麻烦。
+
+当某种文字落入祭司或政治阶层控制时，其倒退演化往往会被加速。系统逐渐被各种人为、巴洛克式的偏折压得不堪重负，庞大人群再也难以掌握。这样退化的文字，最后往往被民众彻底抛弃，并由一套从外部传入的全新系统取代。
+
 ### 《aUI：空间语言》（The Language of Space）
 
-这算是“好东西”。这里介绍了一种新型语言，兼具图像书写和音节表达，32 个基础概念/音节/符号可组合成词。Dr. Weilgart 认为它有可能拯救世界。  
+这可真不错。有人发明了一门语言，而且颇有意思；听起来像夏威夷语。它的书写把图画文字与声音表记结合起来，词完全由 32 个基础概念／声音／符号组合而成。Dr. Weilgart 认为它有可能拯救世界。［J. Baldwin 推荐］
 
-这则简介着重说明其 32 个基础概念、音节和符号的组合方式。
+John W. Weilgart 博士：《aUI: The Language of Space》，1962 年，250 页，4.00 美元包邮。购自：Cosmic Communication Company, 100 Elm Court, Decorah, Iowa 52101；或 S. Chand & Co., Ram Nagar, New Delhi—55, India。
+
+“空间语言”的基础类别把符号、读音和意义并列：空间、运动、光、人、生命；时间、物质、声音、精神／心智、感觉／感受。数字发音依次映射为 1=a、2=e、3=i、4=u、5=o、6=A、7=E、8=I、9=U、10=O，零为 Y。其余基础构件包括“非／反”“黑暗（无光）”“条件”“相同／相等”“圆”“好／正”“部分”“数量／复数”“性质／形容词词尾”“行动／动词词尾”和“力量”。
+
+大写 U 表示“心智、心性、精神、智力、抽象思想、观念”；-U 词尾把词变成抽象名词，例如“聪明”变成“智慧”、“愚蠢”变成“愚蠢状态”、“殖民”变成“殖民化”、“人”变成“人类”。另一个示例把“信件”拆作“使心智之物穿过空间的东西”，即“传送思想”；“办公室”则拆作“心智—力量—空间、职责—空间”，所以“你必须到他的办公室见他”就是“你必须在他的地点、空间、权力范围和职责范围内见他”。图示另以符号句演示“他写……”与“她读……”。
 
 ### 《速记短路径》（Short-Cut Shorthand）
 
-本书结构更适合自学。  
-［J. Baldwin 推荐］  
-本页把它作为一套适合自学的“语音系统”介绍。
+书写比说话慢，由此产生许多问题。如果需要快速记录，大致有三种方法可选：Gregg（最快，但真的很难学）、Speedwriting（最慢，学起来毫不费力），以及这一套（速度中等，学习难度中等）。本书设计得很适合自学。
+
+S. M. Wesley：《Short-Cut Shorthand》，1966 年，275 页，3.95 美元包邮。购自：Cowles Education Corporation, 488 Madison Avenue, New York, N. Y. 10022；或向《全球概览》购买。
+
+这是一套纯粹的语音系统。不同于其他速记系统，Short-Cut Shorthand 没有必须学习和解释的象形文字式字形，也没有线条间细微的差别。字形鲜明、清楚；一旦学会某个声音对应的字符，此后始终照样使用。你只须把听到的声音写下来。
 
 ## Omitted Bibliographic/Order Info
-无。
+- aUI 示例中的自造语符号无法用普通 Unicode 精确复刻，随页扫描保留其原形；全部可辨语义标签、构词说明和示例句用途已翻译。其余正文、书目和订购信息无省略。
 
 ## OCR / Uncertainty Notes
-印度数词表原为两栏。尽管已补齐已核的缺项（aksobhya、vivara、mudrabala 等），仍有部分字形模糊（例如 tallakéane）与 OCR 断字，暂不扩展未知词项。  
-《A Study of Writing》《aUI：空间语言》《速记短路径》的细节来自本页可辨 OCR；《aUI》与《速记短路径》的完整书目框架仍需下一页/上页交叉校核。
+印度数词表原为两栏；w2000 扫描确认了 akṣobhya、vivāha、niravadya、mudrabala 与 tallakṣana 等 OCR 易错字形。
+《A Study of Writing》、aUI 与《Short-Cut Shorthand》的正文、书目和地址均已在本页闭环。
 
 ## Self Critique
-保留发明观、佛陀轶事、书目信息与可辨图题；没有根据破损字形补造完整数词表。
+保留发明观、佛陀轶事、完整数词表、图题、三段书摘、aUI 构词示例和四组书目信息；未用简介替代下半页正文。

@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n61; canonical physical scan leaf: 62 (origFileName=0062.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 60 in the source pack; scan-visible page number not yet verified in this pass.
+- Printed page: 60 in the source pack; scan-visible page number verified from the w2000 scan.
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n61_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n61_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0062.djvu` was read directly because generated dossier text may be truncated. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0062.djvu` and the linked w2000 scan were checked directly because generated dossier text may be truncated.
 - OCR recovery: 1552 words / 209 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: low_contrast_or_sparse_ocr, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -123,6 +123,10 @@ collection of computer art yet, the only one
 
 银河系有 10¹¹ 颗恒星，宇宙中还有 10⁹ 个其他星系，宇宙至少有 10²⁰ 颗恒星。它们大多数可能伴有太阳系。若宇宙有 10²⁰ 个太阳系、年龄为 10¹⁰ 年，且太阳系大致均匀形成，那么平均每 3×10⁻³ 秒便形成一个太阳系；宇宙每小时形成一百万个太阳系。
 
+按照定义，存在一个以上的宇宙是不可能的。
+
+“好吧，女士们先生们，”Struve 总结道，“十一年前，Epsilon Eridani 和 Tau Ceti 实在挺无聊的。”
+
 飞碟搭乘者与人类接触的众多说法，大多遵循相同模式、强调相同重点：外星人是人类，和当地美容标准相比只有极小生理差异。（我不知道美国有过黑人或东方面孔的飞碟人报告；但美国黑人或东方人作出的飞碟报告也极少。）
 
 一个先进技术文明正试图与我们通信。但我们怎么可能明白他们所说的？他们未必说英语或俄语；他们有不同的演化史，所在行星的物理环境也可能完全不同。图 30-1：Frank Drake 提出的假想星际讯息。551 个零和一代表讯息中两种信号；问题在于，在收发文明从未沟通的前提下，将这 551 个符号变成可理解的讯息。
@@ -141,7 +145,7 @@ collection of computer art yet, the only one
 2. 能够利用并引导其恒星的全部辐射输出；能源利用量可与太阳光度相比，约为每秒 4×10³³ 尔格。
 3. 能够使用相当于整个星系光度的能量，约为每秒 4×10⁴⁴ 尔格。
 
-《Intelligent Life in the Universe》，I. S. Shlovskii、Carl Sagan，1966 年，509 页，邮资已付价 2.95 美元。
+《Intelligent Life in the Universe》，I. S. Shlovskii、Carl Sagan，1966 年，509 页，邮资已付价 2.95 美元。购自：Delta Books, c/o Montville Warehousing Co., Inc., Changebridge Rd., Pine Brook, N. J. 07058；900 Pratt Blvd., Elk Grove Village, Illinois 60007；1104 S. Lawrence Street, Los Angeles, Calif. 90021；或向《全球概览》购买。
 
 ### 《控制论的偶然发现》
 
@@ -153,13 +157,15 @@ collection of computer art yet, the only one
 
 为了合作，甚至只是确定彼此方位和执行各自程序，这些移动装置必须通信。它们使用一种简单却层次丰富的语言：闪光和声音。你愿意的话也可以加入这种交谈，尽管你的目标可能与移动装置的目标全然不同；例如，你也许想让它们形成一种自己觉得悦目的构形。
 
+图题：`Running cola is Africa`。
+
 #### 一个精子细胞的信息量
 
 一个人类精子细胞所含的信息，相当于 133 卷《Webster's Unabridged Dictionary》；每卷的尺寸和印刷精细程度都与原词典相同。
 
 #### 解码练习
 
-图中先要求读者把一串零和一解码成图形，再把图形解读成信息，最后从中解读生理、天文、化学、数学、社会、历史和语言资料。旁边一则科幻式台词说：“好吧，女士们先生们，”Steve 总结道，“十一年前，Epsilon Eridani 和 Tau Ceti 实在挺无聊的。”
+图中先要求读者把一串零和一解码成图形，再把图形解读成信息，最后从中解读生理、天文、化学、数学、社会、历史和语言资料。
 
 #### 计算机诗
 
@@ -176,18 +182,17 @@ collection of computer art yet, the only one
 
 “艺术——如果你一定要给它下定义——是一种犯罪行为。它不服从任何规则，连自己的规则也不服从。任何体验艺术作品的人，都和艺术家一样有罪。这不是分担罪责的问题；我们每个人都得到全部罪责。”
 
-《Cybernetic Serendipity》，1969 年，100 页，260 幅插图，邮资已付价 8.95 美元。购自：Frederick A. Praeger, Publisher, 111 Fourth Avenue, New York, N. Y. 10003；或向《全球概览》购买。《Studio International》的 `Cybernetic Serendipity: the computer and the arts` 特刊标价 25 先令。
+《Cybernetic Serendipity》，1969 年，100 页，260 幅插图，邮资已付价 8.95 美元。购自：Frederick A. Praeger, Publisher, 111 Fourth Avenue, New York, N. Y. 10003；或向《全球概览》购买。《Studio International》的 `Cybernetic Serendipity: the computer and the arts` 特刊标价 20 先令。
 
 ## Omitted Bibliographic/Order Info
 - 星际讯息的完整 551 位二进制序列没有在译文中重复排印；说明和三步解码任务已保留。
-- 《Intelligent Life in the Universe》的出版者／仓储地址与另一栏地址交错，待扫描判定后再收入正文。
-- 一件移动装置旁的短标题在 XML 中破损为近似 `Running cola is Africa`，未据此生成确定作品名。
+- 除上项外无；其余正文、图题、书目和地址均已保留。
 
 ## OCR / Uncertainty Notes
-- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
+- 本页已完成 w2000 扫描核验；能耗指数、作者拼法、地址、诗歌和视觉实验段落均已逐项确认。
 - 直接读取完整 DjVu page object 后，恢复了旧 Source Pack 截断点之后的 Kardashev 分类、《Cybernetic Serendipity》评论、动态作品说明、计算机诗、知觉实验与书目信息。
-- 能耗指数、作者拼法、二进制图、交错地址及视觉实验段落需由扫描做字符级回归。
+- 图题 `Running cola is Africa` 确实如此印刷；未按常识擅自改写。
 
 ## Self Critique
 - 保留全部可辨的科学论述及其数值，不以二进制图推导源文没有明示的额外内容。
-- 当前是完整 OCR 重建，不是高清闭环；不把交错地址或损坏作品名写成确定事实。
+- 已完成高清闭环，并修正了 Struve 姓名、订购地址及特刊 20 先令价格。

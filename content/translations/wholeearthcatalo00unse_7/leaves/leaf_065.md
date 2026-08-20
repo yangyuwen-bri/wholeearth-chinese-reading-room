@@ -8,7 +8,7 @@
 - Section: Communications (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n65_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n65_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf, printed page and visible layout verified against the w2000 scan and _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
 - OCR recovery: 1104 words / 173 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: low_contrast_or_sparse_ocr, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -119,34 +119,43 @@ Tabs are then added to alternate outside edges, care
 
 假设图样最初由 A、B 两个区域组成。一条新线连接既有两段弧线上的两点，形成新区域 C（图 100）；新线把两条弧各分成两段，弧的数目便增加三条。原页在“经过 n 步”后给出计数：区域数为 n+2，弧数为 3n+3（即“3 + 3n”）。这与文内“使分离功最小”的力学说明相呼应。
 
-H. Martyn Cundy、A. P. Rollett 著，1961 年，286 页，6.50 美元包邮：Oxford University Press，16-00 Pollitt Drive，Fair Lawn, N. J. 07140；或 Whole Earth Catalog。
+#### 多面体
 
-### 《Polyhedra》（多面体）
-
-本页可辨图题／跨页标记：3.9.4 “Great stellated triacontahedron”（大星状三十面体；顶点记号 `V(3.5)?` 不清）；3.7 “POLYHEDRA”；3.7.12 “Great rhombicosidodecahedron (cont.)”（大菱形二十面体〔续〕）；Fig. 137。它们保留为本页所见图题，不据此推定全部图注与书目归属。
+图题：3.9.4 “Great stellated triacontahedron”（大星状三十面体，`V(3, 5/2)²`）；3.7.12 “Great rhombicosidodecahedron (cont.)”（大菱形二十面体〔续〕），图 137；另有图 138、图 153。
 
 四块小板（1）可拼成正方形或等边三角形，取决于把手朝上还是朝下；证明见图（2）。任何要长期保存的模型，显然应使用硬纸板。纸板应为表面良好的白色薄卡，厚度约同普通明信片；厚纸板会造成难看的角，绘制展开图时应计入其厚度。不过在某些星状和穿插多面体中，厚卡平片可用于内部加固。
 
-确定模型尺寸后，可在纸板上画展开图。复杂展开图可将描图纸模板的顶点刺穿来辅助，但必须非常准确。随后在交替的外缘加上粘接片；谨慎……
+确定模型尺寸后，可在纸板上画展开图。复杂展开图可用描图纸绘制模板，再刺穿顶点来辅助，但必须非常准确。随后在交替的外缘加上粘接片；要确保粘接片肩部的角度足够小，使它能粘到相应的面上。接着用剃刀片切下展开图，并把边缘刻到一半深，供折叠使用。（星状多面体有些边要从背面刻，图中会标出。）展开图的正面就是多面体的外表面。
 
-H. Steinhaus 著，1950、1969 年，311 页，7.50 美元包邮：Oxford University Press，16-00 Pollitt Drive，Fair Lawn, N. J. 07140；或 Whole Earth Catalog。
+粘接必须用模型飞机常用的轻木胶之类快干胶。把胶涂在粘接片上后，将待接合的边合拢，胶干时可用小型金属纸扣把粘接片压住。小模型里手指伸不进去时，这尤其有用；任何模型接近完工、要同时接合好几条边时也一样。最后一个面难以粘住时，有时可用细金属探针帮忙。
+
+一张完整多面体展开图的外周边，在实体上会成为一棵由边组成的“树”。这棵树可以分叉，但每条边都是成对的，在展开图周边出现两次。若沿周边连续编号，实体完成时每条偶数边都会与一条奇数边接合，因此只须给偶数边加粘接片。后面的展开图除非有特殊需要，否则不画粘接片；通常规则就是沿展开图周边每隔一条边加一片。
+
+最后一个面例外，最好完全不带粘接片。缺少的粘接片应加在别的边上，而且最好做大一些，形成一个平台，最后一面即可粘在平台上。
+
+H. Martyn Cundy、A. P. Rollett 著，1961 年，286 页，6.50 美元包邮：Oxford University Press，16-00 Pollitt Drive，Fair Lawn, N. J. 07140；或 Whole Earth Catalog。
 
 ### 《数学速写》（Mathematical Snapshots）
 
-这本书的优点在于“看得见数学”：通过图示和插图把数学现象讲清楚。就像“以情境学历史”一样，它把几何概念变成可看、可做的东西。  
-［Sim Van Der Ryn 推荐］
+《Mathematical Snapshots》靠可见性运作。数学上正在发生什么，在图表和插图里一清二楚，就像通过轶事学习历史。
 
-《Mathematical Snapshots》与 H. Steinhaus 的《Polyhedra》同列，均由 Oxford University Press 出版。书中图例说明对应 16-00 Pollitt Drive 的同一地址与邮费已付线索。  
+《Mathematical Models》则是一部四维技巧的经典，整本书的目的就是让你能够在现实世界中亲手制作几何形体，就像通过心理剧学习历史。［Sim Van Der Ryn 推荐］
 
-### 《数学：数学世界》
+H. Steinhaus 著，1950、1969 年，311 页，7.50 美元包邮：Oxford University Press，16-00 Pollitt Drive，Fair Lawn, N. J. 07140；或 Whole Earth Catalog。
+
+### 《数学世界》（The World of Mathematics）
+
+纸草书的第 36 题开头写道：“下来！我的三倍，加上我的三分之一、我的五分之一；回到 1，我便充满。说出这个量是多少？”
+
+图 45 取自 Haeckel 的《Challenger Monograph》，展示数种放射虫的骨骼。图中编号 2、3、5 分别呈八面体、二十面体和十二面体，而且规则得惊人；编号 4 的对称性似乎较低。
 
 James R. Newman 著，1956 年，2469 页，4 卷，12.95 美元包邮；Simon & Schuster，630 Fifth Avenue，New York, N. Y. 10020。
 
 ## Omitted Bibliographic/Order Info
-《数学速写》与《数学：数学世界》在本页后段与上一条目排版紧邻。现已将可核信息写入；如需可在下一叶进一步复核插图页码、版次与完整注释。
+- 扫描最右缘裁掉《Mathematics》框内若干行的句尾，以及《The World of Mathematics》评论的部分正文；只翻译了本页仍完整可辨的书摘、图注和书目，没有据残句补写。
 
 ## OCR / Uncertainty Notes
-裂缝图的公式现按 OCR 可辨修复；`n` 和 `3n+3` 为原文可辨结构。多面体条目在页末截断；《Mathematical Snapshots》与《World of Mathematics》在本叶存在跨页排版关系，当前仅保留本页已核细节。
+裂缝图公式已由扫描确认为 `n+2` 个区域、`3n+3` 条弧。`POLYHEDRA` 是《Mathematical Models》内部章节，不是 H. Steinhaus 的独立书名。
 
 ## Self Critique
-保留了数学解释、模型制作步骤、价格与地址；对损坏公式和截断句未伪造精确文字。
+保留数学解释、全部可辨模型制作步骤、纸草题、放射虫图注和三组书目信息；对扫描右缘裁掉的句尾未伪造文字。
