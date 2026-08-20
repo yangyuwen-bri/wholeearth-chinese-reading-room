@@ -8,7 +8,7 @@
 - Section: Community (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n83_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n83_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; complete page object `wholeearthcatalo00unse_7_0084.djvu` checked directly on 2026-08-20, with numerical fields compared to the high-resolution scan.
 - OCR recovery: 750 words / 129 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: cross_page_or_section_continuation, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -128,20 +128,38 @@ Richard Burack, M. D.
 
 ### 《处方药手册》
 
-Mary Brown 夫人，三十五岁，季节性哮喘发作。某年夏末的一个早晨，她醒来时有熟悉的喘鸣和气短；过去这总意味着三周痛苦的开始。那一年她的医生决定可试用三周的类固醇药物，效果显著。医生可开两种处方之一（另一处方在页上不完整）。
+Mary Brown 夫人，三十五岁，患季节性哮喘。某年夏末的一个早晨，她醒来时出现熟悉的喘鸣和气短；过去这总意味着三周痛苦的开始。那一年她的医生认为没有禁忌，可以短期使用三周类固醇药物，疗效显著。医生本可开出以下任一处方：
 
-同一药物若按品牌名开，价格可能是按通用名开的数倍。这本书说明两者区别、原因，以及怎样取得通用名价格；一种办法是当医生开药时，请他按通用名开。［Hal Hershey 推荐］Richard Burack, M.D.，《处方药手册》；其余书目信息在本叶未完整可读。
+甲：Mary Brown；Meticorten 5 mg；发 100 片；标签注明：按指示的每日特别剂量表服用。
+
+乙：Mary Brown；Prednisone 5 mg；发 100 片；标签注明：按指示的每日特别剂量表服用。
+
+同一药物若按品牌名开，价格可能是按通用名开的数倍。这本书说明两者区别、原因，以及怎样取得通用名价格；一种办法是当医生开药时，请他按通用名开。［Hal Hershey 推荐］
+
+处方甲的价格会在 28 至 30 美元之间；许多药店的处方乙最低只需 3 美元。
+
+《The Handbook of Prescription Drugs》解释医生开的处方是怎样丢失或改变的，以及怎样以更低价格取得需要的药。Richard Burack, M.D.，1967 年，181 页，邮资已付 1.95 美元。购自 Random House, Inc., 201 East 50th Street, New York, N.Y. 10022；或向《全球概览》购买。
+
+### Trimcomb 理发梳
+
+理发店几年前就已经过时；现在修剪器和电推剪也跟着过时了。这个简单得荒唐的东西使用一片双刃剃须刀片，一边修剪，另一边干剃；你只需业余地在头上轻轻划动，就能塑造发型。头发湿润时效果更好。多数廉价杂货店售价约 3 美元。［Dave Evans 推荐］
+
+### 品牌名与通用名：Dexedrine 的例子
+
+可以看看 dextroamphetamine 这种药，它因抑制食欲而广泛使用。Smith Kline & French Laboratories 取得了该物质的专利，并在十七年里以 Dexedrine 品牌独家大量销售。专利早已到期，目前约有五十家公司销售 dextroamphetamine，几乎都比 Smith Kline & French 便宜。但这些新生产商不能把 dextroamphetamine 宣传为 Dexedrine。
+
+若医生出于习惯在处方笺上写的是 Dexedrine，三十九个州的法律就要求药剂师（机构内部除外）必须配发 Dexedrine，并按品牌价收费。不过必须指出，即使处方写的是“dextroamphetamine”，药剂师仍可按更高价格配发 Dexedrine；许多人确实这样做，因为药店尚未普遍备有其他公司不用 Dexedrine 商标销售的、更便宜但实际用途相同的 dextroamphetamine 药片。这些较便宜的非品牌药片，就是 Dexedrine 的“通用名等效药”。
 
 ## Omitted Bibliographic/Order Info
 
-- 《处方药手册》的完整书目、两张示例处方及价格／订购行被截断，未从外部资料补足。
+- 无。原页产品照片和书影未作文字描述；全部可读正文、处方示例、价格与订购信息已译出。
 
 ## OCR / Uncertainty Notes
 
-- 药物案例属 1960 年代出版物内容，不能作为现行医疗指导；药物名、剂量和处方格式不作临床转述。
+- 药物案例属 1960 年代出版物内容，不能作为现行医疗指导；药物名、剂量和处方格式仅为忠实翻译历史原文。
 - “boffer”的中文名为描述性译法，可能是当时社群自造词。
 
 ## Self Critique
 
-- 三个性质不同的条目分开：游戏器材、亲密用品、药物信息书。
-- 保留药品价格差的书评重点，同时明确不把源文转成医疗建议。
+- 五个性质不同的条目分开：游戏器材、亲密用品、药物信息书、理发梳和通用名药物摘录。
+- 补齐旧稿漏掉的两张处方、价差、书目地址、Trimcomb 及 Dexedrine 完整论述，同时明确不把历史原文转成医疗建议。

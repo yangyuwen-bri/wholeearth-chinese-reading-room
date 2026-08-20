@@ -8,7 +8,7 @@
 - Section: Community (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n84_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n84_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; complete page object `wholeearthcatalo00unse_7_0085.djvu` and high-resolution scan checked directly on 2026-08-20.
 - OCR recovery: 828 words / 102 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: low_contrast_or_sparse_ocr, cross_page_or_section_continuation, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -132,18 +132,26 @@ tained at the temples in (2), (3), (4), (5), and (6)]
 
 人给人揉搓总是好的；有技巧地揉搓，好得多一个数量级。问题在于取得技巧：似乎没有真正以友好方式深入主题的书。听说 Ida Rolf 教得很好，但无法邮购到她。因此在更好的书被启发出来之前，这是我们见过最好的按摩书：医学化、详尽、略像教材，但插图多且信息足，教的东西感觉确实很舒服。
 
-“有些人似乎天生能放松双手、作有节奏的移动，比别人更容易学会按摩技术。不过，任何认真花足够时间练习的人，都能学会接触和节奏，取得好技术。”页面的面部按摩步骤图在“拇指悬空、指尖……”处截断。
+“有些人似乎天生能放松双手、作有节奏的移动，比别人更容易学会按摩技术。不过，任何认真花足够时间练习的人，都能学会接触和节奏，取得好技术。”
+
+“拇指悬空，指尖则保持它们在步骤（2）、（3）、（4）、（5）和（6）中与太阳穴的接触，同时从太阳穴开始以小圆圈揉捏（图 134）；沿发际线继续移到耳后，直到手指在颈椎处相遇（图 135）。”
+
+Gertrude Beard、Elizabeth Wood：《Massage: Principles and Techniques》，1964 年，163 页，邮资已付 6.00 美元。购自 W. B. Saunders Company, West Washington Square, Philadelphia, Pa. 19105；或向《全球概览》购买。
+
+“在某些情况下，可用细腻、无香味的滑石粉或法国白垩粉代替冷霜，作为防止患者皮肤受刺激的介质；但它通常不像乳霜润滑剂那样，能令人满意地抓握组织。”
+
+“按摩四肢时，手法通常朝离心方向进行。毛发自然朝这个方向生长，反方向推抚会令人不适。动作方向一旦确定，整个治疗过程都应保持一致。”
 
 ## Omitted Bibliographic/Order Info
 
-- 按摩书书名、作者、价格及订购资料未在本叶可读 OCR 中完整出现。
+- 无。原页施工图和按摩步骤照片未作视觉描述；其可读编号、图注、正文、书目与地址均已译出。
 
 ## OCR / Uncertainty Notes
 
 - 桑拿“190–200 度”未显温标，不推定为摄氏或华氏；建筑安全和操作需以原书／专业资料为准。
-- 按摩图解的手位序号与后续步骤被截断。
+- 按摩段落仅忠实翻译 1964 年书中示例，不构成当代医疗或操作指导。
 
 ## Self Critique
 
 - 译文把历史描述、建设材料和健康体验分开，未把刊页描述变成可直接执行的安全指南。
-- 保留了按摩书为评论性推荐而非医疗处方的性质。
+- 补回按摩书完整书目、图 134–135 手法说明、介质选择及四肢推抚方向，同时保留其历史教材性质。

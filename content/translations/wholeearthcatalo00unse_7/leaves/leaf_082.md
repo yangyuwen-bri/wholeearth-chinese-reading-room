@@ -8,7 +8,7 @@
 - Section: Community (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n82_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n82_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml. No supplemental OCR used.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; complete page object `wholeearthcatalo00unse_7_0083.djvu` and `n82_w2000.jpg` checked directly on 2026-08-20.
 - OCR recovery: 2036 words / 218 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: cross_page_or_section_continuation, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -118,7 +118,7 @@ wash or rinse dishes. Connie packs lunches one
 
 ### 《现代乌托邦／出路》
 
-这也许正是需要的东西，只是它似乎以越来越长的间隔出版。编辑得很好，每一期专论某个潮流面向（公社式学校、街头人群等）。Dick Fairfield 编，《现代乌托邦／出路》，季刊，年订 4.00 美元。The Modern Utopian，2441 Le Conte Avenue, Berkeley, California 94709。
+有意建立的共同体如今已经构成一个值得拥有自己杂志的活动领域。这也许正是需要的东西，只是它似乎以越来越长的间隔出版。编辑得很好，每一期专论某个潮流面向（公社式学校、街头人群等）。Dick Fairfield 编，《The Modern Utopian / A Way Out》，季刊，年订 4.00 美元。The Modern Utopian，2441 Le Conte Avenue, Berkeley, California 94709。
 
 ### 共同体的目的与权威
 
@@ -130,25 +130,75 @@ wash or rinse dishes. Connie packs lunches one
 
 创办一个共同体农场极其困难。开始时我们没有充分意识到这一点。建立一个新农场——或者说，修复一处陈旧而荒废的农场——至少要做满一个季节的工作，更不用说补上前一个秋季本应完成的工作。
 
-### 天然谷物早餐
+### 漂亮的天然谷物早餐
 
-广告可读文字称：把所有谷物放进大罐，加牛奶；一罐可供十人吃两个月；每天吃就会有力量。可加牛奶和蜂蜜，像燕麦粥般煮；露营时加水。可辨原料及份量有燕麦 6 磅、小麦片 6 磅、黑麦片 6 磅、小麦胚芽 3 磅、葵花籽 3 磅、米糠、南瓜籽、葡萄干、有机干果、大豆卵磷脂、磨碎的 chia 籽、坚果与大豆粉。
+把所有谷物放进一个大罐子里混合。这一罐够四个人吃两个月。每天吃，力量就会来到你身上。浇上温牛奶和蜂蜜；也可加牛奶和糖，像燕麦粥一样煮；露营时加水。
+
+配料：燕麦 6 磅；小麦片 6 磅；黑麦片 6 磅；小麦胚芽 3 磅；葵花籽 3 磅；南瓜籽 1½ 磅；葡萄干 4–6 磅；有机干果 3–5 磅；米糠 3 盎司；大豆卵磷脂 2 盎司；磨碎的 chia 籽 3 盎司（用搅拌机磨）；坚果 2 磅；大豆粉或玉米粉 1 磅；芝麻 3 磅。加入任何你喜欢的、柔软耐嚼的谷物；不断往里添，配方永远在变化。吃吧，享受吧。
 
 ### 公社晚餐记述
 
-“晚饭先唱歌，接着短暂冥想静默。有时放唱片或听新闻。晚餐时我们报告当天工作中发生的事、读到的事，并讨论新闻。甜点前后分享当天邮件，然后洗碗、打包午餐。通常 Connie 和 Rae 分开或一起做晚饭；男人通常洗或冲碗。Connie 打包午餐，一……”本叶至此截断。
+“晚饭先唱歌，接着短暂的冥想静默。有时放唱片，或听新闻。晚餐时我们报告当天工作中发生的事、读到的事，并讨论新闻。甜点前后分享当天邮件，然后洗碗、打包午餐。通常 Connie 和 Rae 分开或一起做晚饭；男人通常洗碗或冲碗。Connie 负责一周的午餐打包，下一周换 Rae。”
+
+### 《Green Revolution》
+
+“一项为去中心化和乡村复兴而进行的世界性努力。”School of Living，Brookville, Ohio 45309；月刊，寄自 Freeland, Md. 21053。第 7 卷第 9 期，1969 年 9 月；每份 0.35 美元，年订 4 美元。
+
+本页翻印的版面包括《环境保卫基金》《共同体规则》和《怎样堆肥》。《环境保卫基金》开头说：EDF 是越来越多可供你参与反污染斗争的途径之一；在密歇根，EDF 和当地支持者的努力促使杀虫剂政策改变，战斗又扩展到其他地方。环境恶化是这个时代的生活方式：水、空气和土地污染，废弃物增加、噪声上升、自然栖息地被破坏、野生生物群落失衡，都证明环境质量正在持续受侵蚀。人人谈环境，就像人人谈天气，但很少有人觉得自己能做什么。
+
+《共同体规则》说明：以 B. F. Skinner《Walden Two》为基础的 Twin Oaks，制定了支配成员行为与彼此关系的规则；规则既是行为准则的分解，也是其解释。《Green Revolution》还印出若干条文，包括不议论其他成员的私事、不传播有关他人的负面闲话；若谈话中有人要求停止，就应停止。全部成员都须签署同意遵守规则。
+
+### Wildcrafters
+
+如果你以为，只有长发族才会在烟雾弥漫的天空塌下来之前跑进树林，那么 Wildcrafters 的出版物可能会拓宽你的眼界。它们出自一群沉迷于狩猎、采集食物、幻想并对独立发表意见的老家伙，跟你我一样。也许我们该聚到一起，开一场老家伙大会。
+
+生存提示：小心滑倒、绊倒或跌落。
+
+《Wildcrafters World》年费 1.00 美元；《Homesteaders and Handcrafters Newsletter》每年 2.00 美元，共 6 期；另有各种每册 1.00 美元的手册。Wildcrafters Publications, R.R. 3, Box 118, Rockville, Ind. 47872。
+
+**用琼脂和维生素 B1 培育桃树。** 从坚硬桃核中取出种仁，在琼脂和维生素 B1 溶液里浸三周。它们会迅速发芽，再移到洗净的沙子里，继续保持湿润三周。此时幼苗已经健壮够大，可移入装土花盆。九个月时即可下地栽种；到两岁生日时，应该会结桃。加拿大 Zoller 夫人投稿。
+
+### 一段共同体体验
+
+远远地，我就能听见瀑布的轰鸣。我僵直着胡言乱语，站起来落到后面。Butch 也把我举起来。我们爬上最后一段山脊，嗷呜。天生的他妈的奇观，Jim！所有水的威严像一张活动明信片，闪耀着、撞击着。没有相机、护栏、导游或啤酒罐……甚至没有弥漫在多数国家风景区里的罐装音乐。这个地方很特别，因为你必须靠自己挣来。Bonnie Jean、White Rabbit 和 David LeBruan 走来，已经被这段路折腾得筋疲力尽。但瀑布把一切都修好了。它在落日中颤动，喊出玫瑰色、橙色和铁锈色；像上帝自己的鼻涕一样，让我们坐下来膜拜，直到太阳沉入睡眠。
+
+让我们快速看看黑板。我们所有地球人都手牵手围成一圈。不论自己是否知道，我们都在跳舞、吟唱，发出各自的声音，合成生命的全部喧响。可圆圈的某处向内翻卷，中间的人被挤压，像见鬼一样尖叫。也许地狱就在那里……在圆圈中央……广岛……达豪……越南……Bellevue。闭上耳朵，你就能听见他们。我们能做的，是承受一点拉扯，帮助减轻压力。把它传下去。相信你的邻人，也相信自己的信任。熟能生巧，而每个人都想成为练习对象。把整个圆圈打开，让每个人都舒服。深吸一口气，重新开始。
+
+当每个人都像在耶鲁大学那样彼此照看时，圆圈中央会变得非常舒适。在所有摇滚乐中间，我的姐夫按提示放出了五只活青蛙。我抓起麦克风：“大家别动！某个疯子刚刚放了五只活青蛙！”追捕随即开始……像寻找会跳的隐形眼镜，不过我们把它们全都活着找回来了。这个风险经过计算，而且奏效。
+
+后来我们全都躺在地板上：他的头枕着她的肚子，她的头又枕着另一个人。完全不怪异，只有温暖和依偎。过了一会儿，我要求大家把我传过去，从人堆顶上传。人人伸手……我以相当不错的速度滑行，感觉真妙。然后我们又把 Tooker 送上空中。他是 Barry 和 Moe 的孩子，大概两岁，像佛陀一样光头。那才叫全神贯注。一手接一手……Tooker 在我们所有人头顶时，确实壮观。借助朋友，我们能够飞翔。
+
+### 《The Realist》与《Green Revolution》
+
+如果说《The Realist》是近来地下报纸之父，《Green Revolution》就是共同体通讯之母。两者都很亲切。
+
+Paul Krassner 编《The Realist》，邮资已付 3.00 美元；The Realist, 595 Broadway, New York, N.Y. 10012。Mildred Loomis 编《Green Revolution》，月刊，年订 3.00 美元；School of Living Center, Heathcote Road, Freeland, Md. 21053。
+
+本页另翻印《The Realist》的“teddy kennedy does the breast stroke”版面，其中包括《The Hog Farm》和《The Oakland 7》两篇图文。后者开头自称是一篇关于 Oakland 7 审判的故事，包含“此前未披露的丑闻、几个笑话、少量政治和一两段供认”。
+
+### 搭车的基本原则
+
+一，如果时间晚了，设法在通宵咖啡馆或卡车停靠站下车。保险规定不许卡车司机载你，但他们尤其在夜里还是会这样做；有时你还能蜷在长途车的卧铺里。若没有咖啡馆，至少争取到一家二十四小时营业的加油站——你可以请来加油的人带你一程。
+
+二，带食物，而且要带对你有益的：葡萄干、坚果、种子、水果、奶酪，以及尽可能未精制的面包。除此之外，行李越轻越好。
+
+三，始终携带身份证明，并留一个必要时可打电话的地方。一定不要带酒或其他不妥的东西。搭便车时完全避开 Delaware 和 Washington 州；Arizona 也有风险。如果可以，向刚走过那条路的人核对路线。
+
+四，记住你常常能提供交换——最可能是陪伴。搭便车有一点：你能日夜不停地前进，不是在车上，就是在找车；速度就是这样来的。但若在进行这种马拉松，你很可能会累。必须睡时就睡，但先道歉。人们让你上车，多半是想找个人说话；也许只是需要你帮他们保持清醒，也许希望你帮忙开车。能做就做。
+
+地球属于我们；在她身上旅行时，我们不该被迫乘坐受契约束缚的交通工具。
 
 ## Omitted Bibliographic/Order Info
 
-- 天然谷物广告的品牌、完整成分和价格未被可靠 OCR；不把它作为精确配方或营养建议。
-- 公社农场段落在本叶开头／中间被广告覆盖，不能恢复其完整出处。
+- 无书目或订购信息漏译。《Green Revolution》和《The Realist》的缩小翻印中，低于可靠辨识阈值的细字正文未逐字转录；可读标题、开篇论述、规则和图文说明均已译出。
 
 ## OCR / Uncertainty Notes
 
-- 社论、广告与生活记述相互穿插；共同体引文的段落顺序按语义整理，仍需高清页核验。
-- `chia`与若干重量受广告图形遮断；正文只保留可辨的原料与份量。
+- 社论、配方、生活记述、杂志评论和翻印页相互穿插；条目顺序已按高清版面确认。
+- 天然谷物配方共 14 项，份量和“四个人吃两个月”已按高清手写文字逐项复核；旧稿的“十人”是误读。
+- 《Green Revolution》缩印页的极小号正文部分受原始印刷尺度限制，译文只收入高清扫描与官方 OCR 都可稳定辨认的原句，不把它改写成一段总结。
 
 ## Self Critique
 
-- 保持“共同体必须威权”的信件论点与刊物本身的不同层次，没有把它当作目录立场。
-- 对食品广告没有超出源页补充食用功效。
+- 保持“共同体必须威权”的来信、目的论段落、个人体验和搭车原则各自的声音，没有把它们合并成目录立场。
+- 补回旧稿遗漏的整页下半部，并纠正早餐人数、完整配方和晚餐轮值句。
