@@ -4,13 +4,13 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n127; canonical physical leaf: 128 (origFileName=0128.jpg, pageType=Normal, addToAccessFormats=true)。
-- Printed page: 125（official scandata page number rule: access leaf n3-n131 mapped to printed n-2）。
+- Printed page: 126（页码已由高清扫描左下角核定）。
 - Section: Catalog
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n127_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n127_w2000.jpg
 - Source provenance: official Internet Archive DjVu XML at _local/page_xml/wholeearthcatalo00unse_7_djvu.xml, page-correlated through _local/page_dossiers/wholeearthcatalo00unse_7/pages.json; physical leaf and printed page verified against _local/page_xml/wholeearthcatalo00unse_7_scandata.xml。No supplemental OCR used.
 - OCR recovery: 364 words / 62 lines.
-- Layout: 广告页，含产品宣传图文、价格、联系方式与《易经》出版块。
+- Layout: 四块广告：Bob Dylan 专访、《易经》版本与订单券、Kaibab Navajo 靴、The Ski Hut 户外装备目录。
 - Layout/OCR risk flags: dense_multicolumn, catalog_back_matter, bibliographic_small_print, scan_verification_required, layout_risk.
 
 ### Official OCR Line Transcript
@@ -29,63 +29,94 @@ AVAILABLE for $5.25
 
 ## Context Notes
 
-- 页面以广告为主，左侧为 Kaibab Navajo Boot，右下为《易经》相关出版信息。
-- 出现“附带券/切边线”式营销信息（coupon line）；
-- 出现 Bob Dylan 采访期刊的定向推送文案，属于非目录核心内容。
+- 页面完全由四块广告组成，左上 Bob Dylan、左下《易经》、右上 Kaibab 靴、右下 The Ski Hut。
+- 《易经》广告下附沿虚线剪下的订单券。
 
 ## Final Translation
 
-### KAIBAB NAVAJO BOOT（原住民传统靴）
+### Bob Dylan 专访
 
-该广告主打 Kaibab（纳瓦霍）短靴，强调“仍由部族传统脚型沿用、适合男女”。内容包括：
-- 原材料与鞋身处理说明（漂白白色翻毛牛皮、buckskin、自然鞣制）；  
-- 提供轮廓尺寸填写与配适说明（站立脚底取样、均匀站重）；  
-- 使用提醒（避免湿滑、光滑面）。  
+Bob Dylan 三年来第一次重要访谈，刊登在新一期《Rolling Stone》杂志上。同一期《Rolling Stone》还刊载了 Dylan 未发行录音带和唱片的第一份完整目录。这次采访以 Dylan 与《Rolling Stone》编辑 Jann Wenner 四小时谈话为基础，全文完整，未经删节。
 
-并附带促销性文字：
-- 可附加“Bob Dylan 特刊”邮寄活动；  
-- `Send $1.00 to “Dylan Interview,” 746 Brannan Street, San Francisco, Calif. 94103.`；  
-- 随后会附送《Rolling Stone》一期采访内容与“a little something else”；  
-- 行内可读尺码行显示男/女区分与价格线索：  
-  - 男款：`for men`, `NB-2`, `20.00`  
-  - 女款：`for women`, `SB-1`, `19.00`  
-  - 男款 20.00 美元，女款 19.00 美元。
+**保证让你惊叹！**
 
-### 易经文库与《Shambala》系列
+寄 1.00 美元至 “Dylan Interview,” 746 Brannan Street, San Francisco, Calif. 94103。我们会把 Dylan 专访特刊和另外一点小东西一起寄给你。
 
-页面右侧出现 Shambala 出版社与《The Richard Wilhelm Translation》版本信息：  
-- 译文信息：由 Cary F. Baynes 译，前言由 C. G. Jung（Carl Gustav Jung）撰写  
-- 版本标注：Bollingen Series（第 XIX 卷）  
-- 售价：`$5.25`。
-- 出版社与地址：
-  - Shambala Publications, Inc.
-  - P. O. Box 4336, Sather Gate, Berkeley, California 94704（在另一处也见到 `P. O. Box 4336, Sather Gate, Berkeley, CA 94704`）
+### Kaibab Navajo 靴
 
-### KAIBAB 订单与附赠条款（可读部分）
+**KAIBAB NAVAJO BOOT**
 
-- 标明 `KAIBAB NAVAJO SQUAW BOOT / THE ORIGINAL TRADITIONAL TRIBAL FOOTWEAR`，强调其为保留部落穿法的传统鞋型。  
-- 鞋面材料涉及漂白白色原毛皮（bleached white rawhide）及 buckskin（未完全清晰）。  
-- 明确可读条件：
-  - `Send $1.00 to “Dylan Interview,” 746 Brannan Street, San Francisco, Calif. 94103.`
-  - 说明会附送《Rolling Stone》一期采访材料与额外小礼物（原文“and a little something else”）。
-  - 另列男、女款式与尺码信息。
-- KAIBAB 出品方：
-  - `KAIBAB BUCKSKIN INC.`  
-  - `271 North Stone Ave., Tucson, Arizona`  
-  - `P. O. Box 38156`（行列较扰；与前述地址并列出现，需扫描复核）  
+男款，NB-2，20.00 美元
+
+**KAIBAB NAVAJO SQUAW BOOT**
+
+女款，SB-1，19.00 美元
+
+正宗的纳瓦霍印第安人传统部族鞋履——直到今天，亚利桑那州和新墨西哥州的保留地里仍有人穿着这种靴子。
+
+鞋底采用漂白白色生皮；鞋面采用鹿皮，可选“铁锈色”或本色棕褐。
+
+请寄来脚的轮廓图（在图上注明你通常穿的鞋码），以便完美合脚。画轮廓时请站立，体重均匀落在双脚上。
+
+不要在潮湿、光滑的表面穿着。
+
+**KAIBAB BUCKSKIN, INC.**
+
+271 North Stone · Box 3156 · Tucson, Arizona
+
+### 《易经，或变化之书》
+
+Richard Wilhelm 译本，由 Cary F. Baynes 译成英文；C. G. Jung 作前言；Hellmut Wilhelm 作第三版序。
+
+Wilhelm/Baynes 译本，Bollingen Series XIX，Princeton University Press。
+
+现价 5.25 美元——节省 12.5%——购自：
+
+Shambala Publications, Inc.
+
+P.O. Box 4336, Sather Gate
+
+Berkeley, California 94704
+
+**订单券**
+
+Shambala Publications, Inc.
+
+P.O. Box 4336, Sather Gate
+
+Berkeley, CA 94704
+
+请为我订购 ____ 册《The I Ching》。随函附上金额为 $_____ 的支票或汇票。
+
+姓名：__________
+
+地址：__________
+
+邮政编码：__________
+
+（沿虚线剪下）
+
+### The Ski Hut
+
+**在看到我们的目录之前，别进森林。**
+
+十多年来，我们一直为探险活动配备装备；我们的优质轻量化装备能让你的旅程更加愉快……归根结底，这才是这一切的意义。
+
+索取目录。
+
+the Ski Hut
+
+1615 University Ave., Berkeley, Calif. 94703
 
 ## Omitted Bibliographic/Order Info
 
-- `Send $1.00...`、`Available for $5.25` 与 `Shambala` 出版社地址在正文已恢复。  
-- 其余如完整鞋码梯级（男/女款具体金额）、“Dylan Interview”券边界与 `cut along dotted line` 裁切线区域仍受损，按不确定处理。  
-- 广告页有明显点阵与裁切线，需在高分辨率下逐字确认后再用于最终排版。  
+- 无。四块广告及订单券的全部实质文字均已按高清扫描译录；仅广告插图和装饰边框未作文字描述。
 
 ## OCR / Uncertainty Notes
 
-- 广告排版中大量空白纹理导致文字边缘破损，且存在“cut along dotted line”类装饰符号，已避免按原样硬译。
-- Bob Dylan 字段未能完整确认版式，文本仅保留核心可见含义。
+- Bob Dylan 广告第一段的 “unreleased Dylan tapes and records” 按原文译出；它指未发行的录音资料，而非 Dylan 本人“未出版任何唱片”。
 
 ## Self Critique
 
-- 翻译为“广告内容直译”，避免将促销短语改写为叙事信息。
-- 如需用于正式出版，可对该页原图逐字重识别，以恢复优惠流程细节。  
+- 已逐块、逐行覆盖四则广告，补回旧稿完全遗漏的 The Ski Hut 广告和《易经》订单券。
+- 已纠正旧稿中的地址误读（Box 3156，并非 38156）及材料说明，并删除重复的摘要段落。
