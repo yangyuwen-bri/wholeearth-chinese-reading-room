@@ -4,11 +4,11 @@
 
 - Issue ID: wholeearthcatalo00unse_7
 - Access leaf: n89; canonical physical leaf: 90 (origFileName=0090.jpg, pageType=Normal, addToAccessFormats=true).
-- Printed page: 87 in the source pack; scan-visible page number not yet verified in this pass.
+- Printed page: 88; scan-visible page number verified against the w2000 image.
 - Section: Catalog (issue contents placement; visible headings may introduce transitions or continuations).
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n89_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_7/page/n89_w2000.jpg
-- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0090.djvu` was read directly because the generated dossier excerpt stops after 6,000 characters. The w2000 source was unavailable during this reconstruction, so no new scan-level claim is made.
+- Source provenance: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_7_djvu.xml`; the complete page object `wholeearthcatalo00unse_7_0090.djvu` and `n89_w2000.jpg` were checked directly on 2026-08-20 because the generated dossier excerpt stops after 6,000 characters.
 - OCR recovery: 1825 words / 229 lines.
 - Layout: illustrated Whole Earth Catalog page with independent reviews, supplier/order blocks, quotations, and reproduced material; do not treat OCR line order as final reading order.
 - Layout/OCR risk flags: cross_page_or_section_continuation, caption_or_excerpt_interleaving, dense_multicolumn, catalog_or_multiple_entries, bibliographic_small_print, graphic_or_rule_ocr_noise, scan_verification_required.
@@ -160,34 +160,33 @@ Mike 与 Marilyn Ferguson：《Champagne Living on a Beer Budget》，1968 年�
 
 柯达 Carousel 是影像投影界的标准，我们没在别处见过更好的价格。
 
-- Kodak 800 Carousel 投影机，配 5 英寸 F/3.5 镜头：具有 11 项基本功能，并可用 12 英尺连接线全自动遥控对焦、前进、后退和停止。可按 5、8 或 15 秒间隔自动换片，连续无人值守投影；机身按钮也可控制换片、前进和后退。四档开关含高低亮度控制，运输重量 19 磅。订单号 3699A，商店价 144.50 美元。
-- 同款配 4 至 6 英寸变焦镜头：订单号 3698A，商店价 174.50 美元。
-- Kodak 850 Carousel 投影机，配 5 英寸 F/2.8 镜头：在 11 项基本功能上增加自动对焦，第一张之后各张自动合焦；有三种换片控制方式，可通过 12 英尺连接线遥控前进、后退和停止，也可使用机身按钮或按 5、8、15 秒间隔自动操作。钨卤素（石英）灯寿命更长，运输重量 19 磅。订单号 3700A，商店价 189.50 美元。
-- 同款配 4 至 6 英寸变焦镜头：订单号 3701A，商店价 214.50 美元。
+- Kodak 800 Carousel 投影机，配 5 英寸 F/3.5 镜头：具有 11 项基本功能，并可用 12 英尺连接线全自动遥控对焦、前进、后退和停止。可按 5、8 或 15 秒间隔自动换片，连续无人值守投影；机身按钮也可控制换片、前进和后退。四档开关含高低亮度控制，运输重量 19 磅。订单号 3699A13270，商店价 144.50 美元。
+- 同款配 4 至 6 英寸变焦镜头：订单号 3698A10980，商店价 174.50 美元。
+- Kodak 850 Carousel 投影机，配 5 英寸 F/2.8 镜头：在 11 项基本功能上增加自动对焦，第一张之后各张自动合焦；有三种换片控制方式，可通过 12 英尺连接线遥控前进、后退和停止，也可使用机身按钮或按 5、8、15 秒间隔自动操作。钨卤素（石英）灯寿命更长，运输重量 19 磅。订单号 3700A14400，商店价 189.50 美元。
+- 同款配 4 至 6 英寸变焦镜头：订单号 3701A16300，商店价 214.50 美元。
 
 页面为上述四款投影机另列四组“Unity 价加 5%”金额：91.51 + 5% = 96.09 美元；110.51 + 5% = 116.04 美元；120.01 + 5% = 126.02 美元；135.85 + 5% = 142.65 美元。
 
-重型旋转底座机工台钳：钳口宽 4 英寸，可张开至约 3½ 英寸；运输重量 13 磅。商店价 10.50 美元；Unity 价 3.98 美元，加 5% 后为 4.18 美元。
+重型旋转底座机工台钳：钳口宽 4 英寸，可张开至约 3½ 英寸；整体尺寸 9⅛ × 5¼ × 5⅜ 英寸，运输重量 13 磅。订单号 2417A635；商店价 10.50 美元；Unity 价 3.98 美元，加 5% 后为 4.18 美元。
 
-办公尺寸便携打字机：84 键键盘、Touch-Set 边距控制、带刻度压纸杆和坚固全金属结构；可选 Pica 或 Elite 字体，附“console”式便携罩。运输重量 11 磅，表面为光滑灰色。商店价 49.95 美元；Unity 价 32.44 美元，加 5% 后为 34.06 美元。
+办公尺寸便携打字机：84 键键盘、Touch-Set 边距控制、带刻度压纸杆和坚固全金属结构；可选 Pica（订单号 6976A3900）或 Elite（6977A3900）字体，附“console”式便携罩。运输重量 11 磅，表面为光滑灰色。两种字体商店价均为 49.95 美元；Unity 价 32.44 美元，加 5% 后为 34.06 美元。
 
-Draftsman’s Drawing Set：豪华机械制图套装，适合学生、艺术家和教师等使用；人造革盒内装 19 件专业品质工具，包括圆规、鸭嘴笔、分规和配有钢笔尖、铅笔附件的弹簧圆规。商店价 30.00 美元；Unity 价 12.60 美元，加 5% 后为 13.23 美元。
+Draftsman’s Drawing Set：豪华机械制图套装，适合学生、艺术家和教师等使用；人造革盒内装 19 件专业品质工具：1-6 英寸圆规、1-4½ 英寸圆规、5¼ 英寸直线鸭嘴笔、6 英寸瑞典式精细鸭嘴笔、6 英寸发条分规、5 英寸带钢笔和铅笔部件的垂脚圆规、3¼ 英寸钢制弹簧圆规（含钢笔、铅笔和分规部件及中心螺丝）。盒子尺寸 12 × 5½ × 1 英寸。订单号 6277A1650，运输重量 2 磅；商店价 30.00 美元；Unity 价 12.60 美元，加 5% 后为 13.23 美元。
 
 Unity Buying Service 年费 5.00 美元。联系 Unity Buying Service, Inc., Mount Vernon, N.Y. 10551。
 
 ## Omitted Bibliographic/Order Info
 
-- Kodak 四款投影机的订单号和商店价已保留；四组 Unity 净价因跨栏配对不稳，没有逐款强行对应。
-- 台钳的整体三维尺寸、便携打字机的订单号，以及制图套装若干分数尺寸未写入正文。
+- 无。四款投影机的 Unity 价按版面顺序与对应型号逐项核定；商品照片未作额外视觉描述。
 
 ## OCR / Uncertainty Notes
 
-- 本页尚未完成 w2000 扫描核验，因此 review 仍为 `needs_highres_scan`。
+- 本页已于 2026-08-20 完成 w2000 扫描核验，扫描可见页码为 88。
 - 直接读取完整 DjVu page object 后，恢复了生成版 Source Pack 截断点之后的书评余文、书目信息、节选和 Unity 商品目录。
-- 页面是两条主栏交错输出；正文按语义重建为书评／节选与 Unity 目录两组，但商品价格、型号及尺寸仍需扫描确认。
+- 页面是两条主栏交错输出；正文已按高清版面重建为书评／节选与 Unity 目录两组，商品价格、型号、订单号及尺寸均已确认。
 - 航空旅行段的句序由同一段被跨栏拆散的 OCR 行合并而成；其中“首次乘客／25 美元往返”的具体航空公司名称未辨认。
 
 ## Self Critique
 
 - 已用完整官方 DjVu 文本替换不可读的逐行机器直译，并分离两条主栏。
-- 书评、书中节选、Unity 服务说明及可稳定辨认的商品规格均已保留；不稳定的价格配对和尺寸留待高清扫描确认。
+- 书评、书中节选、Unity 服务说明及商品规格均已保留；旧稿暂缓的价格配对、订单号和尺寸已经高清确认。
