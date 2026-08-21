@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 58
+- `source_ready`: 57
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 90
+- `accepted`: 91
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 58 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 57 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -114,3 +114,4 @@ Generate or update this file after each batch.
 - `leaf_086` 的酿酒／酿啤长文、全套设备图、两份配方和完整价目已逐项复核。
 - `leaf_087` 的公社三刊全文、实作教程、劳动制度与两套农场图签已完整复核。
 - `leaf_088` 的三本经济／思想书全部长评与十二个原文论证区块已完整复核。
+- `leaf_089` 的四项主条目、三册名录、全部长引文与五条术语定义已完整复核。
