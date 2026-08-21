@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 107
+- `source_ready`: 106
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 41
+- `accepted`: 42
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 107 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 106 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -65,3 +65,4 @@ Generate or update this file after each batch.
 - `leaf_037` 的七家种苗资源、农业出版物编号及推广服务全文已完成高清复核。
 - `leaf_038` 的沼气、坑厕堆肥、泉井与风力抽水全文及工程图签已闭环。
 - `leaf_039` 的燃木炉、新能源七卷、风车与太阳能蒸馏广告已完整恢复。
+- `leaf_040` 的微气候长文、乡村工业、水锤泵、VITA 与设备广告均已覆盖。
