@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 80
+- `source_ready`: 79
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 68
+- `accepted`: 69
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 80 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 79 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -92,3 +92,4 @@ Generate or update this file after each batch.
 - `leaf_064` 的意象反馈理论与现代艺术全部摘录、图签已完整覆盖。
 - `leaf_065` 的视觉丛书、语言／现实论证及星际通信材料已完成高清复核。
 - `leaf_066` 的语言史全文、十三语种表、全部诗歌与塔罗牌文字已逐项覆盖。
+- `leaf_067` 的控制论论证、图学示例与信息技术目录／真值表已完整复核。
