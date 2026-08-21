@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 119
+- `source_ready`: 118
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 29
+- `accepted`: 30
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 119 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 118 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -53,3 +53,4 @@ Generate or update this file after each batch.
 - `leaf_025` 的 Audel 指南、电气规范、钢丝网水泥与原木屋资料已完整复核。
 - `leaf_026` 的毡房、链锯制材、荒野木屋与胶合板资料清单已逐项完成。
 - `leaf_027` 的塑料教材技术摘录、成型图与期刊五篇应用短讯已完整翻译。
+- `leaf_028` 的土建筑三册、木柱基础图和钢丝网水泥资料已完整覆盖。
