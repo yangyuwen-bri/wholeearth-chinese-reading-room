@@ -299,18 +299,209 @@ as
 
 ## Glossary Updates
 
+- hydraulic ram：水锤泵／水力冲压泵。
+- water dowsing：探水术；以叉形树枝寻找地下水的传统方法。
+- damper / smoke shelf：烟道风门／挡烟台。
+- ferrocement：钢丝网水泥。
+- ketch：双桅小帆船。
 
 ## Final Translation
 
+## Audel 指南
+
+我刚读完大约十来本 *Audel Guides*，下面这些是我觉得特别有用的。有些 Audel
+书确实已经过时，但令我很惊讶的是，许多书是在最近十年内写成的。好几本索引
+很差，还有些完全没有索引。这些书通常由所述领域或行业的专家撰写；总体而言，
+资料似乎非常好。
+
+如果你处理的是大致典型的美国供水和排污系统，无论维护还是建造，*Domestic
+Water Supply and Sewage Disposal Guide* 都会相当有用。井、泉、水箱、水泵
+（甚至包括水锤泵！）、水处理、化粪池、热水器，全都在里面，还附有许多实用
+表格。书在排污方面较弱，对手挖井、射流井和打入井等内容介绍不全；这些请读
+WHO 的书。
+
+*Masons and Builders Guide* 第一卷讲黏土、制砖、砂浆、工具、砌砖、砌合、
+墙角和矩形开口；第二卷讲拱与锚固、基础、烟囱、壁炉、修缮、估算和贴砖。
+如果你想从事传统砖工，这两卷似乎非常好。壁炉和烟囱各章对我尤其有用。不过，
+我始终无法支持新建筑继续采用砖砌做法。
+
+*Carpentry and Building* 令我着迷。它采用问答体，讨论建造和改造工程中遇到的
+许多问题。看来这些问题是作者担任行业杂志工程顾问时收到的。书中关于隔热与
+隔汽层、声学、噪声传播和隔声隔墙的章节非常出色；杂项一节也很漂亮，谈到
+粮仓压力之类的问题。索引很好。
+
+*Building Maintenance* 是写给办公楼等建筑的维修人员的。对他们似乎很有用，
+对家庭修理者则没那么有用。内容包括油漆、给排水、混凝土、木工、屋面、装玻璃、
+钣金、供暖和空调。说明简短、清楚而实用，并假定读者至少具备一点常识和天生
+的理解力。
+
+使用两卷本 *Do-It-Yourself Encyclopedia* 不需要专门知识。只要你能容忍那些
+风格可疑（风格？）的项目（！！），其中有许多关于住宅改进和维护的好东西。
+第一次翻时有点难找路，第二遍之后会发现它其实组织得相当不错。还有非常夸张
+的 1950 年代照片。
+
+——Fred Richardson 评介
+
+### 书目与订购
+
+- *Domestic Water Supply and Sewage Disposal Guide*，Edwin P. Anderson；
+  1960 年，440 页；邮资已付 4.50 美元。
+- *Masons and Builders Guide, Vols. I & II*，Frank D. Graham；1924 年，
+  每卷约 300 页；每卷邮资已付 4.00 美元。
+- *Carpentry and Building*，Harry F. Ulrey；1966 年，434 页；邮资已付
+  5.95 美元。
+- *Building Maintenance*，Jules Oravetz, Sr.；1966 年，437 页；邮资已付
+  5.50 美元。
+- *Do-It-Yourself Encyclopedia*（两卷）；1968 年，1,012 页；全套邮资已付
+  9.00 美元。
+
+以上购自 Theodore Audel & Co., A Division of Bobbs-Merrill,
+4300 West 62nd Street, Indianapolis, Indiana 46206；或向 WHOLE EARTH
+CATALOG 订购。Audel 的书从 U.S. General（见第 55 页）或 Silvo（见第 54 页）
+购买更便宜。
+
+### 《家庭供水》摘录：探水术
+
+虽然许多人把用叉形树枝寻找地下水视作纯粹的“幻想”，事实仍是：千百年来，
+人们一直用这种简单方法找到可以抽取的水。
+
+探水的基本做法，是拿一根桃、苹果或枫树的叉形枝条，走过准备寻水的区域。
+过程大致如下：两手各握树枝一端，掌心向上；开始行走时，让枝条根端向上。
+接近流动的水时，根端便开始向下沉，直到走到水流正上方，此时根端会笔直朝下。
+在这一刻，叉形枝已经转过 180°。根端下沉时，有时枝条甚至会在手握处折断；
+柔韧枝条则会不顾人努力保持平直而向下弯。
+
+多数探水者相信，这种独特能力或力量与生俱来。他们也相信，通过不断学习和
+练习，可以发展这种神秘禀赋并扩大其用途。当然，许多人其实有这种能力却不
+自知，只因从未有理由试验。有些研究者认为，大约每一千人中有一人多少具备
+探水能力，而这些人中也许只有约 10% 能成为优秀探水者。
+
+必须再三强调：用探水术定位可抽取地下水，没有任何科学解释。然而证据似乎
+存在于数千口实际可用的井中；这些井确实是用这种离奇方法找到的。
+
+### 《木工与建造》摘录：树根与住宅基础
+
+林业专家建议：山核桃虽然强健、生命力顽强，但一棵在森林环境中生长成熟的树，
+无法忍受根系受到扰动；如果在树的一侧距树干约 25 英尺以内切断根系，也可能
+伤害所述树木。
+
+通常，主要吸收根从树冠外缘紧邻的一圈向外、向下约成 45° 伸展，有时深入
+地下。此外，在地表下约 12—24 英寸处，还有一套很浅的根系向所有方向展开。
+这些根同样把水送到树干，并把树直立锚固在土壤里；开挖房屋基础时，受伤的
+正是这些根。
+
+事实上，没有办法准确预见树木的反应。应尽可能远离树木。根系受扰的树，应在
+一段时间内获得充足水分和大量肥料，帮助它们恢复因受影响区域根系遭扰而损失
+的力量。
+
+### 《泥瓦匠与建造者指南》摘录：壁炉
+
+设计良好并正确安装的风门被视为必不可少，寒冷气候下尤其如此。不装风门时，
+高度不超过 4 英尺的壁炉，其喉口 J 应为 4 英寸。
+
+把喉口尽量前置还有一个好处：可以在风门高度形成挡烟台。如果壁炉背面与烟道
+背面在同一平面上垂直上升，下降气流几乎必然出现；这道台面有助于把它挡住。
+
+挡烟台上方的开口应通过悬挑砌砖“收拢”或缩到烟道尺寸，并以尽可能小的高度
+完成。直到黏土烟道衬管高度，砖墙都不得薄于 8 英寸，因为风门正上方是烟囱
+温度最高的部位。
+
+小型壁炉若喉口构造正确，12 英寸深即可形成良好抽力；不过建议最小深度采用
+16—18 英寸，以减少火炭掉到地板上的危险。
+
+建造壁炉应做到下列要点：
+
+1. 烟道具有适当面积。
+2. 喉口设计正确，并有合适的风门。
+3. 烟囱足够高，可以产生良好抽力。
+4. 壁炉形状能把最大量的辐射热导入室内。
+5. 设有构造正确的烟室。
+
+图中标注：立面、剖面、烟灰袋、壁炉台、风门、挡烟台、6—8 英寸喉口、耐火砖、
+灰坑、过梁和修边砖。
+
+## 《1968 年国家电气规范》及两种指南
+
+规范只有在地方条例采纳后才具有法律效力，但所有布线至少都应满足其要求。
+如果想让布线合法，应向当地建筑部门查询当地规范或修订，以及许可证资料。
+无论如何，都要把这部规范作为最低标准。
+
+其中规定在我看来相当合理，主要以安全为依据。但作为参考书有点难用，因为
+索引组织得很差；只要摸清它的体系，便会发现索引其实非常完整。
+
+严格遵守规范会得到安全的安装。要让布线既便利、高效、实用，又为扩展留下
+充足余地，则必须规划，并研读 Sears 与 Wards 的电气布线书（50 美分），或
+*Wiring Simplified*（见第 23 页）等书。
+
+*Audel Guide to the 1968 National Electrical Code* 是对 NEC 的非官方解释
+与说明。它无意取代 NEC，不过多数情况下可以单独使用。最大缺点是没有索引。
+
+只做住宅工作的人，会发现新出的 *Electrical Code for One- and Two-Family
+Dwellings* 比 NEC 容易使用得多；它正是从 NEC 摘编而来。
+
+——Fred Richardson 推荐并评介
+
+- *National Electrical Code 1968*；1968 年，466 页；邮资已付 2.00 美元。
+- *Electrical Code for One- and Two-Family Dwellings*；1969 年，133 页；
+  邮资已付 1.75 美元。以上两本购自 National Fire Protection Association,
+  60 Batterymarch Street, Boston, Mass. 02110；或向 WHOLE EARTH CATALOG
+  订购。
+- *Guide to the 1968 National Electrical Code*，Robert E. Palmquist；1968 年，
+  461 页；邮资已付 6.95 美元（Silvo 或 U.S. General 更便宜）。购自
+  Bobbs-Merrill Company, 4300 West 62nd Street, Indianapolis, Indiana
+  46206；或向 WHOLE EARTH CATALOG 订购。
+
+## ★ Saga Technical Associates
+
+Toronto 的游艇设计师兼工程师 Saga Technical Associates 提供若干非常详尽的
+钢丝网水泥手册。他们还有幻灯片、图片文章，以及几项正在准备的新出版物。
+
+资料索取处：Saga Technical Associates, P.O. Box 733, Terminal Q,
+Toronto, Ontario, CANADA。
+
+另有一份很好的钢丝网水泥基础资料特别重印本，1.00 美元，购自
+*National Fisherman*, 22 Main Street, Camden, Maine 04843。
+
+图注：36 英尺钢丝网混凝土双桅小帆船船体骨架，带内层钢丝网，采用悬挂船体
+施工法。Saga Technical Associates 制作。
+
+## 《混凝土造船：技术及其未来》
+
+钢丝网水泥是一种用于船体、厚 3/4 英寸、极为坚固且防火的材料，由砂和水泥
+混合料抹在钢丝骨架上构成。它比常规造船技术更便宜、更容易，需要的专用工具
+也很少。
+
+这是一本建造钢丝网水泥船的教材，两位作者分享了他们大量实践经验的细节。
+书中有一节简洁而出色的实际建造方法，并有配筋、砂浆拌和及收尾施工各章。
+
+钢丝网水泥在陆地上应该也很好用……如果听说任何钢丝网水泥穹顶，请告诉我们。
+
+*Concrete Boatbuilding: Its Technique and Its Future*，Gainor W. Jackson、
+W. Morley Sutherland；邮资已付 7.95 美元。购自 John de Graff, Inc.,
+34 Oak Street, Tuckahoe, N.Y. 10707；或向 WHOLE EARTH CATALOG 订购。
+
+## ★《建造一座原木屋》
+
+一本来自 Alaska、售价 25 美分的小册子，告诉你怎样用原木建造住所（以及家具）。
+显然，作者是真正盖过原木屋的人。
+
+——Russ Cahill 推荐
+
+*Building a Log House*；书面年份为“1914，……1965”，43 页；邮资已付
+0.25 美元。购自 Cooperative Extension Service, University of Alaska,
+Box 1109, Juneau, Alaska 99801；或向 WHOLE EARTH CATALOG 订购。
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无；Audel 五套书、三种电气规范、两项钢丝网水泥资料与原木屋小册子的评论、
+  长引文、书目、金额和地址均已保留。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已用 3481×4711 扫描恢复版框顺序、壁炉五项要点、树根段落、船体图注和脚注
+  交叉页码；原木屋书目年份原印即含省略号，按图面保留并明确标注。
 
 ## Self Critique
 
-- Pending translation.
+- 已完整翻译探水术、树根和壁炉三段书内原文，没有以 Audel 系列用途简介替代；
+  页底四项独立资源也分别保留。
