@@ -2,24 +2,30 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: three books; seven Commonsense Childbirth excerpt groups;
+  full breech-delivery passage; six Birth Control method groups and two device
+  labels.
+- Translation coverage: all reviews, bibliography/order fields, statistics,
+  procedural prose, list items, and figure names.
+- Permitted omissions: decorative cover art and photographs without independent
+  text.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Multi-column reading order and text split around images were checked against
+  the 3481x4711 scan.
+- No childbirth or contraceptive passage was reduced to a summary.
+- A historical medical notice identifies the age and limits of the material.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Clinical statistics, obstetric procedures, and contraceptive judgments are
+  period sources rather than current medical recommendations.
