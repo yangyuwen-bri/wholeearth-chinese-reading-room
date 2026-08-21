@@ -2,24 +2,30 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: two complete book records and reviews; all filmmaking
+  introductory prose, 180-degree and lighting diagrams, sound-camera caption,
+  four technical excerpts, the full visible index; and five Poor Theatre
+  excerpts/captions.
+- Translation coverage: every prose block, list/index item, page number,
+  technical ratio/model, label, caption, bibliographic/order field, price,
+  address, and credit has a Chinese counterpart.
+- Permitted omissions: uncaptioned photographic texture only.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Physical scan 0071 restores the upper/lower source ownership and the densely
+  set index order.
+- Technical and theatrical source prose is retained directly, not summarized.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- The heading governing two index subentries is cropped/absent in the source;
+  the legible subentries are preserved without an invented parent term.
