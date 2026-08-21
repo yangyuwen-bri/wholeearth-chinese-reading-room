@@ -2,24 +2,31 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: four entries; American Indian Medicine review and eight
+  excerpt groups; two Folk Medicine case groups; Snugli review/diagram; Sauna
+  review, construction diagram and six text groups.
+- Translation coverage: all prose, botanical names, historical claims,
+  bibliographic/order data, product labels, construction details, and credits.
+- Permitted omissions: decorative cover and product photographs without
+  independent text.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Gutter-clipped word beginnings were restored only where scan remnants and
+  official OCR jointly supported the reading.
+- The 3414x4669 scan confirms the source ownership of all four columns.
+- Medical and construction material carries a historical-source notice and no
+  unsupported modernization.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Source claims about Indigenous health, folk remedies, and sauna effects are
+  reproduced historically and should not be read as validated current advice.

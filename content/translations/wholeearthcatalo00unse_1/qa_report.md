@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 53
+- `source_ready`: 52
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 95
+- `accepted`: 96
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 53 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 52 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -119,3 +119,4 @@ Generate or update this file after each batch.
 - `leaf_091` 的医学问答、读者信、三项诊疗资料、图示及 DMT 化学条目已完整复核。
 - `leaf_092` 的两本急救书、13 条程序、六个图注及 15 列鉴别表已逐项复核。
 - `leaf_093` 的三本生育书、产程／哺乳／臀位全文及六类避孕资料已完整复核。
+- `leaf_094` 的两本民间医药书、全部历史引文、背带图签及桑拿建造文已完整复核。
