@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 48
+- `source_ready`: 47
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 100
+- `accepted`: 101
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 48 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 47 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -124,3 +124,4 @@ Generate or update this file after each batch.
 - `leaf_096` 的消费者资料、七种 Unity 配置和香港 33 行器材价目已逐项复核。
 - `leaf_097` 的两家邮购目录、全部商品规格价格及购物指南六组摘录已完整复核。
 - `leaf_098` 的四项用品／图书长评、切瓶图注和完整训练步骤已逐项复核。
+- `leaf_099` 的两部主书九段原文、三幅聚落图、Synergy 资料及 Envirom 已复核。
