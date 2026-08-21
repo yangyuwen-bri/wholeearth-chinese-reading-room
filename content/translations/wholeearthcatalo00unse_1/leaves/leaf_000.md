@@ -25,16 +25,22 @@ BS,
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Identify every visible entry, excerpt, caption, diagram, table, signature,
-  and meaningful order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 2026-08-21 对 `n0_w2000.jpg` 做了逐项目视核对。
+- 封面由刊名、副题、期次、售价和一幅仙女座星系照片构成；问号与
+  感叹号图形属于视觉元素，不是需要另译的正文。
 
 ## Glossary Updates
 
 
 ## Final Translation
 
+## 《全球概览》（WHOLE EARTH CATALOG）
+
+获取工具
+
+1970 年春季号
+
+3 美元
 
 ## Omitted Bibliographic/Order Info
 
@@ -42,8 +48,11 @@ BS,
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 官方 OCR 只可靠识别出“Spring 1970”，漏掉了刊名、副题和售价；以上
+  漏字均由高分辨率扫描直接补回。
+- 无未决辨读。
 
 ## Self Critique
 
-- Pending translation.
+- 已逐项覆盖封面全部可读文字，没有把图像描述写进译文，也没有把摘要
+  当作原文翻译。

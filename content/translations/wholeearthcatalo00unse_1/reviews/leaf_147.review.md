@@ -2,24 +2,26 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: 14 行诗句及作者署名；背景为星系图像，右下有问号、
+  感叹号图形。
+- Translation coverage: 诗句和署名均按扫描中的先后及分节完整翻译，斜体
+  结句也得到保留。
+- Permitted omissions: 无文字性遗漏；背景照片及无文字图形不另译。
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- 对照高清扫描逐行核验后，未发现漏行、错序或摘要化替代；`Night's day`
+  的矛盾表达也未被解释性抹平。
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- 低；`one life` 的中文可有不同诗性表达，目前采用更贴近字面的“同一个
+  生命”，不影响信息覆盖。

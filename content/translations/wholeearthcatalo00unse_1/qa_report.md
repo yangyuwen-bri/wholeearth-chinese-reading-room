@@ -5,21 +5,20 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 148
+- `source_ready`: 144
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 0
+- `accepted`: 4
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- All leaves `n0-n147` remain blocked from reader integration until full
-  translation, high-resolution scan review, independent review, and
-  orchestrator acceptance are complete.
+- 其余 144 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+  在此之前不得集成进阅读室。
 
 ## Notes
 

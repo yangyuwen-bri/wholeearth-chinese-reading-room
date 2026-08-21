@@ -72,16 +72,32 @@ he . . yy .
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Identify every visible entry, excerpt, caption, diagram, table, signature,
-  and meaningful order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 2026-08-21 对 `n147_w2000.jpg` 做了逐行目视核对。
+- 文字为肯尼思·帕琴的一段短诗，置于星系图像左下；右下角的问号、
+  感叹号图形不构成额外文字。
 
 ## Glossary Updates
 
 
 ## Final Translation
 
+谁是虚无？听着！
+意思是：
+群星歌唱，
+因为一切永远无恙！
+至今你还
+不曾靠近，除非在
+你不知道的时候。黑夜的白昼
+无处不在。没有谁
+曾与任何另一个分离，
+否则世界便会死去。
+
+而世界不会死！
+哦，荣光，光之荣光！
+
+*我们活着同一个生命。信息到此结束*
+
+——肯尼思·帕琴（Kenneth Patchen）
 
 ## Omitted Bibliographic/Order Info
 
@@ -89,8 +105,11 @@ he . . yy .
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 官方 OCR 混入大量星点噪声；高分辨率扫描确认正文只有诗句及作者署名。
+- `Night's day` 保留原文悖论式意象，译为“黑夜的白昼”，不擅自解释。
+- 无未决辨读。
 
 ## Self Critique
 
-- Pending translation.
+- 逐行保留了原诗的语序、断行、反复和悖论，没有改写成诗意概述；全部
+  可读文字均已覆盖。
