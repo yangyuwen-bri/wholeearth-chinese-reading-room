@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 86
+- `source_ready`: 85
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 62
+- `accepted`: 63
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 86 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 85 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -86,3 +86,4 @@ Generate or update this file after each batch.
 - `leaf_058` 的 Thomas 查询、物性数据表、机械手册及钻床图签已完成高清复核。
 - `leaf_059` 的三份科技刊物、机器破坏长文、能源／炉具／引力报道已完整覆盖。
 - `leaf_060` 的科技刊物全文、三段科学论述及 Clearinghouse 十二条目录已逐项复核。
+- `leaf_061` 的两部工程书、全部图签及山间供水算例与计算已完整覆盖。

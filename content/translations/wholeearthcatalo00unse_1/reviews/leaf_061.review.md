@@ -2,24 +2,33 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: two book entries, three large illustrated technology
+  groups, one complete engineering-design review, the full mountain-camp water
+  supply example, its formula and cost list, and the production-consumption
+  diagram were verified against physical scan 0062.
+- Translation coverage: both bibliographic/order blocks, all editorial prose,
+  the design contents list, every paragraph and numeric value in the water
+  example, formulas, captions, and meaningful diagram labels are translated.
+- Permitted omissions: decorative borders and purely pictorial geometry whose
+  labels and captions are already transcribed.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The translation retains the full engineering calculation and decision path;
+  it does not substitute a summary for the source excerpt.
+- Cross-page figure groups were restored from the scan, including helicopter,
+  viscose-process, turbine, ignition, water-channel, and lifecycle labels.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- The viscose diagram has densely connected process icons; all legible labels
+  are rendered in prose, while exact spatial routing remains visible in the
+  paired source image.
