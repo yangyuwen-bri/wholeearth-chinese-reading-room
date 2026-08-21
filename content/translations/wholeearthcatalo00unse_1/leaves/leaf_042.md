@@ -256,18 +256,320 @@ Michigan City, Indiana 46360 7% Plainview, N. Y. 11803
 
 ## Glossary Updates
 
+- `dry-pour concrete`：干浇混凝土；混合料先以干态装模，随后加水。
+- `membrane`：膜材；此页指可作围护、覆盖或窗面的柔性薄膜。
+- `caulking compound`：嵌缝胶／填缝料。
+- `back-up material`：背衬材料；控制密封胶深度并避免三面粘结。
+- `pressure-sensitive tape`：压敏胶带。
+- `lock and key extrusion`：锁扣式挤出型材；由“锁槽”与“锁条”咬合固定板材。
 
 ## Final Translation
 
+### 混凝土
+
+#### 干浇混凝土
+
+Syntercrete 是一种新工艺：混凝土先以干态在模具中混合，随后再加水。由于用水量少，成品能得到清晰的模具轮廓和很高的强度。资料索取：
+
+> Syntercrete Corporation
+> 1300 Sansome Street
+> San Francisco, CA 94111
+
+### 膜材
+
+耐候 Mylar 薄膜，含抗紫外线成分。据称露天使用寿命为二至五年。每平方英尺约 19 美分。来源：Sears 农业用品目录。
+
+“Spooky Mylar”——单面镀铝。若用作窗户，你会在看见自己倒影的同时看见外面的树木。不耐紫外线。来源：
+
+> Transparent Products Corp.
+> P. O. Box 15924
+> Los Angeles, CA 90015
+> 收件人：A. Robert Suba
+
+透明乙烯膜，每平方英尺约 6 美分。来源：Wards 农业用品目录（就近的 Wards 分店）。
+
+小册子《Dial-A-Spec 涂层织物》（*Dial-A-Spec Coated Fabrics*），索取：
+
+> Flexifirm Products
+> 2300 North Chico Avenue
+> El Monte, CA 91733
+
+涂层织物（防撕裂尼龙、乙烯涂层玻璃纤维、硅橡胶涂层涤纶等）。小册子《工业用涂层织物》（*Coated Fabrics for Industry*），索取：
+
+> 3M Company
+> Film & Allied Products Division
+> 1601 South Shamrock Avenue
+> Monrovia, CA 91016
+
+涂层尼龙织物。小册子《防护罩织物》（*Protective Cover Fabrics*）和《工业工程织物》（*Engineered Fabrics for Industry*），索取：
+
+> West Point Pepperell
+> Industrial Fabrics Division
+> 111 West 40th Street
+> New York, N. Y. 10018
+
+降落伞：直径 24 英尺的白色伞盖，状况良好。22.50 美元，另加邮资和税费。来源：
+
+> Security Parachute Co.
+> P. O. Box 3096
+> San Leandro, CA 94578
+
+醋酸纤维、人造丝、尼龙、Saran、Chromspun 等人造纤维的资料，包括制造商名单以及制造、使用的基本原理。小册子《人造纤维事实手册》（*Man-Made Fiber Fact Book*）和《人造纤维指南》（*Guide to Man-Made Fibers*），索取：
+
+> Man-Made Fiber Producers Association
+> 350 Fifth Avenue
+> New York, N. Y. 10001
+
+### 塑料
+
+用于制作模型的塑料片、热压材料、棒材和管材。目录索取：
+
+> Cope Plastics
+> 2222 West Delmar Avenue
+> Godfrey, Ill. 62035
+
+玻璃纤维增强热塑性片材（Azdel），可以在普通金属冲压设备上成型。资料页索取：
+
+> Gary Wagerson
+> G. R.-T.-L. Co.
+> No. 1 Gateway Center
+> Pittsburgh, PA 15222
+
+丙烯酸塑料片：耐紫外线，仅靠加热、加压即可粘合。技术资料索取：
+
+> Rohm & Haas Co.
+> Independence Mall West
+> Philadelphia, PA 19015
+> 或
+> 2150 Franklin Street
+> Oakland, CA 94612
+> 收件人：Keith P. Mitchell，Plastics Dept.
+
+Plexiglas 有机玻璃资料：既有漂亮的彩色小册子，也有有机玻璃片材成型数据。太阳控制系列有机玻璃分五种密度生产。来源：Rohm & Haas（见上）。
+
+Korad 丙烯酸薄膜可用于给金属、胶合板等材料覆面。资料索取：Rohm & Haas（见上）。
+
+硬质 Geon 乙烯材料是一种坚硬、强韧的热塑性材料，能自行熄火、不受腐蚀，可制成棒材、挤出型材、片材和模塑件。B. F. Goodrich 寄来的小册子封面本身就是这种材料。硬质乙烯片可以热焊接。《硬质（及柔性）Geon 乙烯材料》小册子索取：
+
+> B. F. Goodrich Chemical Co.
+> 3135 Euclid Avenue
+> Cleveland, Ohio 44115
+
+特氟龙、有机玻璃、玻璃纤维、Mylar、乙烯材料、泡沫喷枪等；这是一份列出塑料材料与价格的完整目录。来源：
+
+> Plasticraft, Inc.
+> 2800 North Speer
+> Denver, Colo. 80211
+
+透明丙烯酸次品，以及完整的塑料产品线。Abe 会谈价。来源：
+
+> Abe Schuster Fiberglass
+> 6211 Telegraph Avenue
+> Oakland, CA 94609
+
+Tedlar 涂层玻璃纤维板，来源：
+
+> Ornyte Fiberglass Panels
+> 711 Olympic Boulevard
+> Santa Monica, CA 90401
+
+### 密封材料——嵌缝胶
+
+这家公司经销所有主要制造商的产品，所以不必只推销某一种。他们掌握的嵌缝胶资料多得惊人。我们的穹顶接缝正在使用他们的聚氨酯嵌缝胶；据说它和硅酮胶一样好，而价格只有一半。每管约 2.00 美元。资料索取：
+
+> Harold A. Price & Co., Inc.
+> P. O. Box 1389
+> Richmond, CA 94802
+
+**“VULKEM 230（125）符合 TT-S-230 规范；枪施型，不流挂。”**
+
+“VULKEM 230 不仅符合联邦规范，还具有成功粘结活动接缝所需的极高回弹性。粘结预制混凝土构件，以及把砌体粘到铝材上，都是经过验证的典型用途。它还适合金属与金属之间的粘结，例如制造露营车和装配镀锌空调风管。即使水平接缝长时间处于湿润状态，VULKEM 230 也绝不会脱粘。有白、灰、铝色和棕色可选。”
+
+**接缝设计图：**
+
+- 良好：Dow Corning 780 建筑密封胶之下填 Billig Ethafoam® 或其他背衬材料。注意宽深比、凹形外露表面，以及不粘结的背衬材料。
+- 不良：接缝太深、形状不佳；密封胶还粘到了底面。
+
+密封胶深度绝不可超过其宽度的一半，最好小于宽度的一半。
+
+接缝建议最小宽度为 1/16 英寸。宽度大于 1 英寸的接缝，建议最大深度为 1/2 英寸。胶床超过 1/2 英寸，不但深得不利于良好性能，固化也过慢。更深的接缝应先垫高或填塞，使其距表面不超过 1/2 英寸。
+
+——摘自 Harold A. Price & Co. 目录
+
+Uniroyal 橡胶表面材料。资料索取：
+
+> Marine & Construction Products
+> 312 North Hill Street
+> Mishawaka, Indiana 46544
+
+Gacoflex 弹性体防水膜和液态屋面系统。资料索取：
+
+> Gaco Western, Inc.
+> P. O. Box 698
+> Tukwila Station
+> Seattle, Washington 98168
+
+### 胶带
+
+Fab-Dek：35 mil 厚、以氯丁橡胶浸渍的 Hypalon；3 英寸宽卷材，每延长英尺 11 美分。胶黏剂每加仑 4.50 美元，工厂交货价。来源：
+
+> Miracle Adhesive Corp.
+> 27279 Industrial Blvd.
+> Hayward, CA 94545
+> 或
+> 250 Pettit Avenue
+> Bellmore, L. I., N. Y. 11710
+
+配间苯二甲酸树脂的玻璃纤维胶带。小册子索取：
+
+> TAP
+> 1710 E. 12th Street
+> Oakland, CA 94606
+
+一百多种压敏胶带。小册子《工业用胶带》（*Tapes for Industry*），索取：
+
+> 3M Company
+> 320 Shaw Avenue
+> South San Francisco, CA 94080
+
+Mylar、特氟龙、乙烯、聚丙烯、Tedlar 及许多其他胶带。小册子索取：
+
+> Advance Electrical Sales, Inc.
+> 850 Montgomery Lane
+> San Carlos, CA 94070
+
+密封胶带（世博会穹顶采用）：PTI 606 建筑密封胶带。来源：
+
+> Protective Treatments, Inc.
+> 4401 West North Avenue
+> Chicago, Illinois 60639
+
+压敏胶带目录，含乙烯、聚乙烯、双面胶带、电工胶带等。来源：
+
+> Arno Adhesive Tapes, Inc.
+> Michigan City, Indiana 46360
+
+### 杂项材料
+
+#### 三种弹性船用涂料
+
+——产品超级好，价格超级贵
+
+1. 这种涂料会随表面运动而伸展，并能把水挡在外面。《Liquid Seaprene》小册子，索取：
+
+   > H. A. Calahan, Inc.
+   > 859 Mamaroneck Avenue
+   > Mamaroneck, N. Y. 10543
+
+2. 10 mil 厚的环氧密封层，可以施工在潮湿表面上，不再需要玻璃纤维。《Gluvit》资料页，索取：
+
+   > Travaco Laboratories
+   > 345 Eastern Avenue
+   > Chelsea, Mass. 02150
+
+3. 数种塑料涂层、嵌缝胶和腻子。《Sav-Cote》小册子，索取：
+
+   > Savcote of California
+   > 5409 West Adams Boulevard
+   > Los Angeles, CA 90016
+
+#### 天窗
+
+这些丙烯酸天窗有透明和不透明两种；如果只买不带框架的塑料部分，价格相当合理。一个 30 英寸圆形泡状罩约 20 美元。《Wasco Skydomes》小册子，索取：
+
+> Wasco Skydome
+> P. O. Box 479
+> Los Altos, CA
+
+**剖面图标注：**塑料单层穹罩型号 S1；塑料双层穹罩型号 DDS1；3/16 英寸（6063-T5）带排水结构的挤压铝制缘框；挤压乙烯密封垫；0.062 英寸（6063-T5）挤压铝制压框；不锈钢螺钉；不锈钢钉；3/4 英寸泛水空间；玛蹄脂（由他方提供）；泛水、缘条、防风雨条和毡条（均由他方提供）；最小 4 英寸；1-5/8 英寸缘框；4 英寸缘框；木方为 2×8、2×8。图下标“剖面”。
+
+#### 最适合穹顶的胶合板
+
+Duraply 平板挂板是表面覆有酚醛树脂纤维层的户外用花旗松胶合板，专为严酷天气暴露而设计；保证在建筑使用寿命内不发生分层。小册子索取：
+
+> U. S. Plywood Corp.
+> 777 Third Avenue
+> New York, N. Y. 10017
+
+也可在黄页中查找最近的经销商。
+
+#### 氯丁橡胶密封垫
+
+Stanlock 结构用氯丁橡胶密封垫。目录索取：
+
+> The Standard Products Co.
+> Stanlock Dept.
+> Port Clinton, Ohio 43452
+
+#### 铝制连接件
+
+可调式套接连接件。小册子索取：
+
+> James L. Denier Co.
+> P. O. Box 56
+> Cincinnati, Ohio 45239
+
+配图所示连接件可绕中心调至 180°。
+
+#### 订书钉
+
+防锈 Monel 合金订书钉及订钉枪：
+
+> Duo Fast California
+> 1465 Third Street
+> San Francisco, CA
+> 或
+> 3702 North River Road
+> Franklin Park, Illinois
+
+也可在黄页中查“staples（订书钉）”。
+
+#### 塑料铰链
+
+这种强韧铰链反复弯折 1,000,000 次也没有断裂。按卷供应，每英尺约 30 美分。《Polyhinge》资料页，索取：
+
+> Stokes Molded Products
+> 75 Taylor Street
+> Trenton, N. J. 08604
+
+截面图标出铰链总宽 1.5 英寸、厚 0.100 英寸。
+
+#### 锁扣式挤出型材
+
+一种把玻璃或塑料窗装进木质或金属面板的简便办法。资料索取：
+
+> Alasco Rubber & Plastics Corp.
+> 839 Malcolm Road
+> Burlingame, CA
+
+图示挤出型材的“锁槽”截面尺寸位置 A–F，以及“锁条”和压入后的“组合”状态。
+
+#### Laminite 纸板
+
+强韧得令人难以置信，阻燃而且很轻。样品索取：
+
+> Laminite Division
+> Tri-Wall Containers, Inc.
+> One Dupont Street
+> Plainview, N. Y. 11803
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已逐栏核对 3473×4711 高清 JP2。扫描恢复了官方 OCR 漏失或错读的
+  `Dry Pour Concrete`、Gary Wagerson、3135 Euclid Avenue、2800 North
+  Speer、Savcote of California、James L. Denier Co. 与 Laminite Division
+  等标题、姓名和地址。
+- Wasco 与 Alasco 两项在原页上本就没有邮政编码；译文没有臆补。
+- 天窗剖面中的木方标注在版面右缘较小；可确认其为两处 `2×8`，其余可辨
+  尺寸和材料标注均已逐项收入。
 
 ## Self Critique
 
-- Pending translation.
+- 已按左、中、右三栏的真实阅读顺序逐项覆盖正文、报价、厂商、地址和图签；
+  没有用“本页介绍多种建筑材料”一类总结替代原文。
+- 商标与产品名（Mylar、Hypalon、Geon、Vulkem、Gacoflex 等）保留原文，
+  同时翻译其性能说明，便于与扫描和历史目录交叉核对。
