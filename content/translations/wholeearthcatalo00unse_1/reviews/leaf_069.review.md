@@ -2,24 +2,30 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: six magazine/manual/catalog/vendor records; the full lead
+  review; MINI-PRO, front-projection, Animac, manual-ad, production-camera,
+  computer-display, and final-cut text; all order and subscription fields.
+- Translation coverage: every review, list item, excerpt, caption, price,
+  frequency, address, technical model/material number, name, and credit is
+  translated.
+- Permitted omissions: uncaptioned photographic content only.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Scan 0070 separates the five lower and upper editorial blocks and verifies
+  their correct source ownership.
+- Technical and interview excerpts are retained as full prose, not replaced by
+  descriptions.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Several photos have no identifying caption; the translation avoids inventing
+  names or film titles.
