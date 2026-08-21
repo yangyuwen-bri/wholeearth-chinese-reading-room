@@ -2,24 +2,31 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: Design and Planning 2's full review, book/order record,
+  twenty-one contents lines, random-dot figures and eighteen-row glyph table;
+  the complete Critical Path Method review, record, network labels and worked
+  scheduling example; and the mathematical handbook review, order record and
+  twenty-nine-item contents.
+- Translation coverage: every prose paragraph, title/author, function/remark,
+  activity, duration, price, date, page count and address has a Chinese
+  counterpart.
+- Permitted omissions: purely visual dot positions and uncaptioned cover art.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Physical scan 0077 restores three interleaved sections and the small glyph
+  table omitted from most OCR lines.
+- Technical contents and examples remain direct translations, not summaries.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Random-dot geometry is inherently visual; all textual labels and associated
+  table semantics are retained.
