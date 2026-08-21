@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 117
+- `source_ready`: 116
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 31
+- `accepted`: 32
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 117 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 116 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -55,3 +55,4 @@ Generate or update this file after each batch.
 - `leaf_027` 的塑料教材技术摘录、成型图与期刊五篇应用短讯已完整翻译。
 - `leaf_028` 的土建筑三册、木柱基础图和钢丝网水泥资料已完整覆盖。
 - `leaf_029` 的 Frei Otto 两卷技术摘录与 Sweet’s 全文及结构图签已完成。
+- `leaf_030` 的穹顶安装长文、AD 三篇新闻和朝向图说明已完整翻译。
