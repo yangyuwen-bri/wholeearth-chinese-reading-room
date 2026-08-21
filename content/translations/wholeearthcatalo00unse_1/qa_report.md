@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 70
+- `source_ready`: 69
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 78
+- `accepted`: 79
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 70 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 69 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -102,3 +102,4 @@ Generate or update this file after each batch.
 - `leaf_074` 的三本数学书、群论长文、Escher 图版与 Venn 图说明已完整复核。
 - `leaf_075` 的供需理论、收银机规格、战争游戏与 Indecks 全套资料已逐项复核。
 - `leaf_076` 的计算机设计目录、图符表、关键路径算例和函数手册目录已完整复核。
+- `leaf_077` 的电子供应、完整书信、器材规格与全部磁簧开关矩阵已逐项复核。
