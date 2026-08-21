@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 109
+- `source_ready`: 108
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 39
+- `accepted`: 40
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 109 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 108 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -63,3 +63,4 @@ Generate or update this file after each batch.
 - `leaf_035` 的园艺重印本、荒漠植物全文、机械与土壤保持服务均已扫描复核。
 - `leaf_036` 的 tipi 技术图、生活礼仪、完整价格表及煤油灯型号均已逐项覆盖。
 - `leaf_037` 的七家种苗资源、农业出版物编号及推广服务全文已完成高清复核。
+- `leaf_038` 的沼气、坑厕堆肥、泉井与风力抽水全文及工程图签已闭环。
