@@ -2,24 +2,29 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: three complete book records/reviews; all gold-leaf,
+  initial-letter and quill instructions/labels; the complete advertising
+  windowing, camera-lucida, chop, knife-angle and layout-lettering passages;
+  and the three thought-form principles.
+- Translation coverage: every stable prose block, instruction, label, price,
+  date, page count, credit and address has a Chinese counterpart.
+- Permitted omissions: purely visual letterform/color-image texture only.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Physical scan 0080 restores three interleaved source regions and low-contrast
+  lettering captions that official OCR only partially captured.
+- Tutorial prose and figure text are translated directly, not summarized.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Several display alphabets communicate primarily through their drawn form;
+  every accompanying verbal instruction is nevertheless retained.
