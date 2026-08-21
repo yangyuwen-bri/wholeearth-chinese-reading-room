@@ -2,24 +2,31 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: Consumer Reports review/subscriptions and three excerpts;
+  Unity membership/review and seven configurations; Hong Kong note, four
+  suppliers, 19 Nikon rows and 14 recorder rows.
+- Translation coverage: all readable prose, specifications, item numbers,
+  dimensions, price arithmetic, addresses, credits, and table rows.
+- Permitted omissions: several cover-content lines irrecoverably blurred in
+  the source's own reduced reproduction.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The 3414x4669 scan was used to recover gutter-clipped text and check every
+  numeric field.
+- All 33 Hong Kong catalog rows remain individually represented.
+- The cover microtext is explicitly recorded as source-illegible rather than
+  guessed or silently summarized.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Prices, suppliers, and product availability are 1970 historical records and
+  should not be treated as current commercial information.

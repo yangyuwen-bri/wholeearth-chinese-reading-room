@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 51
+- `source_ready`: 50
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 97
+- `accepted`: 98
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 51 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 50 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -121,3 +121,4 @@ Generate or update this file after each batch.
 - `leaf_093` 的三本生育书、产程／哺乳／臀位全文及六类避孕资料已完整复核。
 - `leaf_094` 的两本民间医药书、全部历史引文、背带图签及桑拿建造文已完整复核。
 - `leaf_095` 的两篇长评、17 项节用／消费原文、完整配方、价格和地址已逐项复核。
+- `leaf_096` 的消费者资料、七种 Unity 配置和香港 33 行器材价目已逐项复核。
