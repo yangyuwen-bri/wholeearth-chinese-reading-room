@@ -134,25 +134,101 @@ or WHOLE EARTH CATALOG
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Identify every visible entry, excerpt, caption, diagram, table, signature,
-  and meaningful order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 本页包含四项用品／图书：泡沫剑对打装备、Kama Sutra Oil、玻璃瓶切割器，
+  以及《以色列陆军体能训练手册》及一套练习图解。
+- `boffing` 是当时为软质泡沫武器对打所用的称呼，译文保留原词并解释。
 
 ## Glossary Updates
 
+- `boffing`：泡沫剑对打。
+- `un-pulled punch`：不收力的一击。
 
 ## Final Translation
 
+### Boffing 泡沫剑对打装备
+
+我们在此提名 Jack Nottingham 角逐诺贝尔和平奖，因为这是自「相遇小组」
+以来，武器装备领域第一次取得重大进展。Gerd Stern 过去常说：「接触才是
+唯一的爱。」这些泡沫剑让人能够接触——一击不必收力，却不会造成身体
+伤害。
+
+不过，释放人与人之间的能量，只是这种泡沫剑的用途之一。它还是一种很棒
+的游戏，能培养心理和身体技巧。首先，你会认识自己的脾气：发火既是障碍，
+也是危险——每次都会让你被砍得七零八落。你还会学到其他东西，不需要
+老师；智慧就蕴藏在亲自动手之中。发明者在 Fillmore West 一场公开泡沫剑
+比赛结束时宣告：「剑比笔更有力量。」
+
+〔Heliotrope 推荐〕
+
+一套泡沫剑对打装备包括 2 把泡沫剑、2 个护手和 2 副护目镜；邮资已付
+11.00 美元。购自 Jack Nottingham，190 Emmet Court，San Francisco,
+CA 94110；亦可向《全球概览》订购。
+
+### Kama Sutra Oil
+
+这种材料可以润滑，会发热，触感好、气味好，尝起来也不错。它是做爱用的。
+
+4 盎司瓶装；邮资已付 4.25 美元。购自 Kama Sutra Om，1800 North
+Highland，Los Angeles, CA 90028；亦可向《全球概览》订购。
+
+### Fleming 玻璃瓶和大罐切割器
+
+这款切瓶器是一件实用工具。照着说明操作，再练习几次，任何人都能做出
+别致的玻璃杯、马克杯和花瓶。工具套件可以切割从 8 盎司小瓶到 5 加仑大罐
+的各种容器。我们现在连收押金的瓶子也不拿去退了。葡萄酒瓶能做成有趣的
+皮尔森啤酒杯；啤酒瓶能做成很棒的六只一套玻璃杯，而且你还可以先把啤酒
+喝掉。我们把这些杯子当结婚礼物送过，大家真的很喜欢。假如你像我一样，
+一想到那么多玻璃被白白丢掉便受不了，你会写信给 Floyd Fleming。他写的
+说明亲切而且信息充足。
+
+〔Pat Milberry 推荐并评介〕
+
+诀窍是从瓶子里面轻敲；这样瓶子就不会破。图中从左到右：切割、敲击、
+成品。
+
+- 大罐与玻璃瓶切割器：邮资已付 6.85 美元。
+- 玻璃瓶切割器：邮资已付 3.95 美元。
+
+两款均购自 Fleming Bottle and Jug Cutter，2110 S.W. 173rd Place，
+Seattle, Washington 98166；亦可向《全球概览》订购。
+
+### 《以色列陆军体能训练手册》（The Israel Army Physical Fitness Book）
+
+我认识的人全都在做俯卧撑。Kesey 说又一波创造力就要来了，他正在做
+俯卧撑，为它作准备。Lloyd 刚编完他的穹顶书，正在做俯卧撑，好让脑袋和
+身体重新同步。我做俯卧撑，则是出于对（美国）陆军某种怪诞的怀旧。这就是
+廉价瑜伽。确实如此：无论在几平方英尺的牢房里，还是在冥想小屋中，它都
+能让你感到专注而健康。
+
+〔Whole Earth Access Company 推荐〕
+
+Jesse Zel Lurie、Samuel Segev 编，1969 年，127 页；邮资已付 1.00 美元。
+购自 Grosset & Dunlap, Inc.，51 Madison Avenue，New York, N.Y. 10010；
+亦可向《全球概览》订购。
+
+图示练习：
+
+- 起始姿势：两脚分开站立，躯干前屈，两臂向身体两侧举起。
+- 动作 1：弓起背部并低头，同时让两臂向下交叉。
+- 动作 2：回到起始姿势，两臂从两侧举起。
+- 动作 3–4：在起始姿势休息。
+- 说明：起始姿势中，双臂应位于身体两侧并向前拉，与头部成一直线；眼睛
+  看向前方。双臂向下交叉时应相当放松。注意保持膝盖伸直。
+
+〔《陆军野战手册 FM 21-20：体能战备训练》（Army Field Manual FM 21-20,
+Physical Readiness Training）要全面得多，可向政府印刷局订购，见第
+100 页。〕
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无；全部价格、邮资条件、地址、署名和交叉页码均已保留。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已核对 3414×4669 原始 JP2；确认 `boffers`、`un-pulled punch`、练习步骤、
+  图片次序及四项价格。官方 OCR 的跨栏错序未沿用。
 
 ## Self Critique
 
-- Pending translation.
+- 四项条目的评论正文、订购信息、图注和完整动作说明均已覆盖；没有把训练
+  段落或切瓶步骤压缩成主题摘要。
