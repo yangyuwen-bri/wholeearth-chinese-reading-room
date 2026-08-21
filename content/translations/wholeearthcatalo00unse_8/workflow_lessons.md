@@ -24,6 +24,11 @@ record the problem here, then decide whether it is issue-local or reusable.
 | --- | --- | --- | --- | --- |
 | 2026-07-14 | n0-n6 | initial calibration | run full multi-agent loop before scaling | later |
 | 2026-07-14 | n5-n6 | evidence-quality wording leaked into `Final Translation` | reviewer returned wording to translator; keep evidence quality in OCR notes | yes |
+| 2026-07-14 | n0-n67 | DjVu object index and scandata physical `leafNum` differ by one because excluded color cards remain in scandata | map access `nN` to OCR object `N` and physical scandata leaf `N+1`; verify printed pages independently | later |
+| 2026-07-14 | n1-n13 | Archive page-image endpoint timed out while official OCR/XML remained available | allow source preparation and drafting from OCR, but block final acceptance for layout-, diagram-, caption-, or small-type-dependent content | already covered |
+| 2026-07-15 | n0-n67 | Archive requests failed because the shell did not inherit the local proxy and direct DNS resolution was unreliable | use `curl -x http://127.0.0.1:7890`; cache the 68-page PDF under ignored `_local/scans/`; map access `nN` to PDF page `N+1` and verify the mapping visually before review | yes |
+| 2026-07-15 | n0-n32 | several reviews still described omissions that had already been repaired in the leaf | rerun independent review after every translator revision; the orchestrator must compare the current review against the current leaf before updating status | yes |
+| 2026-07-15 | n0-n67 | accepted translations still contained old "scan unavailable / needs verification" state in non-reader sections | before final acceptance, run a whole-issue stale-state audit across Source Pack, Context Notes, OCR Notes, Self Critique, reviews, `status.jsonl`, and `qa_report.md` | yes |
 
 ## Prompt Change Log
 

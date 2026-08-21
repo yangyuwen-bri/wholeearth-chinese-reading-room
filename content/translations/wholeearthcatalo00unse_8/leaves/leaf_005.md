@@ -9,33 +9,33 @@
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_8/page/n5_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_8/page/n5_w2000.jpg
 - OCR source: official Internet Archive DjVu XML at `_local/legacy/work/wholeearth/page_xml/wholeearthcatalo00unse_8_djvu.xml`; 1,762 OCR words in 353 lines. No supplemental OCR used.
-- Scan evidence: Archive w2000 retrieval timed out on 2026-07-14; no local page image was found. This page cannot pass source verification without a high-resolution scan because multiple diagrams/tables have fragmented OCR.
-- OCR risk flags: `dense_three_column`, `continuation_page`, `diagram_heavy`, `table_heavy`, `ocr_order_interleaved`, `small_labels`, `needs_highres_scan`.
+- Scan evidence: local PDF obtained and visually checked on 2026-07-15; access leaf `n5` maps to PDF page 6. Three diagrams, six WDSD covers, the Honeywell map, and the 14-item curriculum are confirmed.
+- OCR risk flags: `dense_three_column`, `continuation_page`, `diagram_heavy`, `table_heavy`, `ocr_order_interleaved`, `small_labels`, `highres_reviewed`.
 
 ## Context Notes
 
 - Running section heading is split by OCR as `Whole.` / `Systems`, with printed page number `4`. The page continues the Buckminster Fuller / World Design Science Decade material from printed page 3.
 - Left-column excerpts recovered: a `WDSD Document 3` passage arguing that cumulative industrial wealth means people no longer need to `earn a living`; a `WDSD Document 2` passage on complementary tension/compression and the universe as a tensegrity; a `WDSD Document 5` autobiographical passage on Fuller's cross-eyed childhood and the claim that children are born geniuses then `de-geniused`; and a `WDSD Document 1` passage advocating preventative environmental design over reforming people, ending `Reshape environment; don't try to reshape man.`
 - A group of six `WORLD DESIGN SCIENCE DECADE 1965–1975` document covers/titles is visible: Phase I (1963) Document 1, `Inventory of World Resources / Human Trends and Needs`; Phase I (1964) Document 2, `The Design Initiative`; Phase I (1965) Document 3, `Comprehensive Thinking`; Phase I (1965) Document 4, `The Ten Year Program`; Phase II (1967) Document 5, `Comprehensive Design Strategy`; Phase II (1967) Document 6, `The Ecological Context: Energy and Materials`. Publisher/institution text repeatedly names World Resources Inventory, Southern Illinois University, Carbondale.
-- Center/top graphic: `DYMAXION SKY-OCEAN WORLD`, including `The Honeywell Edition of Fuller Projection`. The Honeywell map is offered for `$4.00 postpaid` from P.O. Box 909, Carbondale, Illinois 62901. Tiny map labels are badly corrupted and cannot be inventoried reliably without the scan.
+- Center/top graphic: `DYMAXION SKY-OCEAN WORLD`, including `The Honeywell Edition of Fuller Projection`. The Honeywell map is offered for `$4.00 postpaid` from P.O. Box 909, Carbondale, Illinois 62901. The scan confirms the title, edition line, price, and order address; the dense cartographic place names are not separately transcribed.
 - Center diagrams include an environmental/life-support flow diagram with recoverable labels such as water recovery unit, drinking water, clean wash water, used/clean cabin air, activated coal filter, catalytic burner, dehumidifier, carbon dioxide concentrator, electrolysis/water reduction, oxygen, hydrogen, water, and carbon dioxide. OCR order mixes these labels with adjacent prose.
 - Adjacent excerpt begins `However, man unconcernedly sorting mail on an express train...` and describes trust in the engineer, switchmen, track walkers, technologists, and social/economic systems as a new evolutionary era.
-- Two metabolic graphics/tables are visible: `METABOLIC REQUIREMENTS & RESULTANT WASTES IN POUNDS FOR A 160 lb. MAN` and `HUMAN DAILY METABOLIC TURNOVER`. Recoverable quantities/labels include oxygen, food, breathing, exhalation, drinking/eating, washing, waste incineration, insensible loss, proteins, carbohydrates, fats, minerals, water, carbon dioxide, calories, and input/output totals. OCR corrupts units and positions (`H50`, `ems.`, `VOTAL LNPUT`, etc.); every numeric value and relationship needs scan verification.
-- Source/caption text near the life-support graphic cites E. S. Mills, R. L. Butterton, Douglas Missile & Space Systems; `Development Interplanetary Mission Life Support System, 1965`; `ASD Report TR 61-363`; and NASA. Exact punctuation and placement are uncertain.
+- Two metabolic graphics/tables are visible: `METABOLIC REQUIREMENTS & RESULTANT WASTES IN POUNDS FOR A 160 lb. MAN` and `HUMAN DAILY METABOLIC TURNOVER`. The scan confirms the quantities, units, labels, and arrow relationships used in the structured translation; corrupt OCR forms such as `H50`, `ems.`, and `VOTAL LNPUT` are rejected.
+- Source/caption text near the life-support graphic cites E. S. Mills, R. L. Butterton, Douglas Missile & Space Systems; `Development Interplanetary Mission Life Support System, 1965`; `ASD Report TR 61-363`; and NASA. The scan confirms the source lines and their attachment to the graphic.
 - The page says the six-volume `World Design Science Decade` set contains material both overlapping and absent from the other books; costs `$10.50 postpaid` for students (formal and informal) and `$30.00 postpaid` for others; and calls it `a very good deal`.
-- A numbered curriculum/source list recovered alongside the metabolic table includes `Synergetics`; `General Systems Theory`; `Theory of Games (Von Neumann)`; `Chemistry and Physics`; `Topology, Projective Geometry`; `Cybernetics`; `Communications`; `Meteorology`; `Geology`; `Biology`; `Sciences of Energy`; `Political Geography`; `Ergonomics`. Scan review must confirm whether the list continues or whether numbers were displaced by the adjacent table.
+- The numbered curriculum/source list alongside the metabolic table contains 14 items, from `Synergetics` through `Production Engineering`; the scan confirms their order and separation from the adjacent table.
 - Further `WDSD Document 2` excerpt discusses original question asking as a consequence of interference in computer or human brain. Another excerpt, attributed to `The Unfinished Epic of Industrialization`, calls industrialization the first really new development since spoken language.
 - Bibliographic entry: `The Unfinished Epic of Industrialization`, Buckminster Fuller, 1963, 227 pages, `$3.50`, from World Resources Inventory, Box 909, Carbondale, Illinois 62901.
-- `Concept Twelve — SELF DISCIPLINES` includes a short framing paragraph, a `Personal Self Disciplining` passage beginning with Fuller's 1927 rejection of the requirement to earn a living, and `My Recommendations for a Curriculum of Design Science:`. OCR recovers only `Production Engineering` from the apparent curriculum graphic/list; the remainder is a high-resolution scan blocker.
+- `Concept Twelve — SELF DISCIPLINES` includes a short framing paragraph, a `Personal Self Disciplining` passage beginning with Fuller's 1927 rejection of the requirement to earn a living, and `My Recommendations for a Curriculum of Design Science:`. The scan confirms all 14 curriculum items, from `Synergetics` through `Production Engineering`.
 - The lower-right ordering block names World Resources Inventory Office, P.O. Box 909, Carbondale, Illinois 62901, or Whole Earth Catalog, and gives size `35 x 20 inches`. A final `WDSD Document 3` quotation begins `The will of history reads “for everybody or for nobody”`.
-- Raw DjVu region order is not valid reading order on this page: diagrams, table cells, list items, and prose interleave. Translation must be assembled entry-by-entry after scan review, not by concatenating OCR.
+- Raw DjVu region order is not valid reading order on this page: diagrams, table cells, list items, and prose interleave. The scan establishes the entry-by-entry reading order used in the translation.
 
 ## Glossary Updates
 
 - `tensegrity`：建议译为“张拉整体”，并在首次出现时保留英文 `tensegrity`；富勒用它指由彼此分离的受压“岛屿”与贯穿整体的张力共同维系的结构。
 - `de-geniused`：建议译为“去天才化”，保留富勒刻意造词及其批判意味。
 - `design science`：建议译为“设计科学”；`curriculum of design science` 译为“设计科学课程体系”。
-- `Dymaxion Sky-Ocean World`：暂译“戴马克松天空—海洋世界”，保留 `DYMAXION` 作为富勒专有词。
+- `Dymaxion Sky-Ocean World`：本刊译作“戴马克松天空—海洋世界”，保留 `DYMAXION` 作为富勒专有词。
 - `self disciplines`：本页概念标题建议译为“自我约束”，正文中的 `Personal Self Disciplining` 译为“个人自我约束”。
 
 ## Final Translation
@@ -83,17 +83,36 @@
 
 富勒投影的 Honeywell 版世界地图，配色比早期版本更鲜艳。4 美元，含邮资。供应：P.O. Box 909, Carbondale, Illinois 62901。
 
+### 封闭生态系统（CLOSED ECOLOGICAL SYSTEM）
+
+副题：水与空气再循环系统（WATER AND AIR RECIRCULATION SYSTEM）。图中央为“人”（MAN），箭头关系如下：
+
+- 水循环：人产生的已用洗涤水（Used wash water）进入水回收装置（WATER RECOVERY UNIT），成为饮用水（Drinking water）后回到人；尿液（Urine）进入另一水回收装置，成为清洁洗涤水（Clean wash water）后回到人。图中另标出水（Water）回路。
+- 空气循环：已用舱内空气（Used Cabin air）分别经过活性炭过滤器（ACTIVATED CHARCOAL FILTER）和催化燃烧器（CATALYTIC BURNER），成为清洁舱内空气（Clean Cabin air）后回到人。
+- 分离与再生：除湿器（DEHUMIDIFIER）连接氧气（Oxygen）与水（Water）回路；水电解装置（WATER ELECTROLYSIS UNIT）把水送入氧气与氢气（Hydrogen）回路；二氧化碳浓缩器（CARBON DIOXIDE CONCENTRATOR）把二氧化碳（Carbon Dioxide）送往二氧化碳还原装置（CARBON DIOXIDE REDUCTION UNIT），后者与氢气回路相接，并输出碳（Carbon）。
+
+### 一名 160 磅男子的代谢需求及所产生废物——以磅计
+
+图把总输入、人体内部过程、废物焚烧过程和总输出用箭头相连：
+
+- 总输入：氧气 2.2 磅；脱水食物 1.3 磅；水 7.0 磅。
+- 人体过程：呼吸 2.1 磅；呼出二氧化碳 2.4 磅；代谢过程每日产生 7,000—10,000 BTU；肠气及其他废物大于 0 磅；饮水与进食 5.0 磅；排出固体 0.18 磅；排出水 5.8 磅。
+- 焚烧与总输出：用于焚烧的氧气 0.75 磅；总二氧化碳 4.2 磅，其中另标二氧化碳 0.2 磅；氮气、氯化钠等大于 0 磅；水 0.1 磅；尿液 3.2 磅；粪便等 0.4 磅；不显性损失 2.2 磅；洗涤用水 2.0 磅；总水量 7.9 磅。
+
+资料来源：（1）E. S. Mills、R. L. Butterton，Douglas Missile & Space Systems，《Development Interplanetary Mission Life Support System》，1965；（2）NASA，ASD Report TR 61-363。图属 WDSD 文件 6。
+
+### 人体每日代谢周转（HUMAN DAILY METABOLIC TURNOVER）
+
+图以一名 154 磅、处于封闭环境系统中的男子为中心，呼吸商为 0.82：
+
+- 输入共 3,585 克（100%），即 2,830 卡路里：氧气 24.1%，862 克；食物 14.6%，523 克，其中蛋白质 80 克、碳水化合物 270 克、脂肪 150 克、其他固体与矿物质 23 克；水 61.3%，2,220 克。
+- 输出共 3,585 克（100%）：二氧化碳 27.4%，982 克；水 70.9%，2,542 克；固体尿素与矿物质 1.7%，61 克。图另标代谢占 9.5%。
+
+来源：`Apogee, Douglas Missile & Space Publication No. 4, 1961, p. 8.`
+
 ### 一个全新的进化时代
 
 然而，一个人在特快列车上若无其事地分拣邮件，心中怀着没有说出口的信任：司机称职，扳道工没有睡着，巡道工正在尽责；设计列车和铁轨的技术人员懂得自己在做什么；成千上万他或许永远叫不出名字、认不出面孔的人正在收取运费、支付修理费，以这种方式管理资产；一周后的今天，他会领到工资，再下一周仍会领到；而在所有这些时间里，他的家人都安然无恙、生活良好，无须他亲自保护——这一切构成了一个全新的进化时代——
-
-### 代谢图表
-
-《一名 160 磅男子的代谢需求及所产生废物——以磅计》（Metabolic Requirements & Resultant Wastes in Pounds for a 160 lb. Man）
-
-《人体每日代谢周转》（Human Daily Metabolic Turnover）
-
-资料来源：E. S. Mills、R. L. Butterton、Douglas Missile & Space Systems；《Development Interplanetary Mission Life Support System》，1965；ASD Report TR 61-363；NASA。
 
 ### 六卷《世界设计科学十年》
 
@@ -119,7 +138,20 @@
 
 我的设计科学课程体系建议：
 
-- 生产工程（Production Engineering）
+1. 协同几何学（Synergetics）
+2. 一般系统论（General Systems Theory）
+3. 博弈论（冯·诺依曼）（Theory of Games (Von Neumann)）
+4. 化学与物理学（Chemistry and Physics）
+5. 拓扑学、射影几何（Topology, Projective Geometry）
+6. 控制论（Cybernetics）
+7. 传播学（Communications）
+8. 气象学（Meteorology）
+9. 地质学（Geology）
+10. 生物学（Biology）
+11. 能源科学（Sciences of Energy）
+12. 政治地理学（Political Geography）
+13. 人体工学（Ergonomics）
+14. 生产工程（Production Engineering）
 
 订购：World Resources Inventory Office, P.O. Box 909, Carbondale, Illinois 62901，或《全球概览》。尺寸：35 × 20 英寸。
 
@@ -138,15 +170,13 @@
 
 ## OCR / Uncertainty Notes
 
-- 本页没有扫描图视觉核对，且原始 DjVu 区域顺序把三栏正文、图表单元格、封面文字和清单项目彼此穿插；本稿只重组来源审计已经确认的独立文本块，不声称还原了最终版面顺序。
-- 生命支持流程图、世界地图微小地名、两张代谢表的数值与对应关系，以及课程体系图的大部分内容，均未进入最终译文。它们是实质内容，不是可忽略的装饰；必须取得高分辨率扫描后逐项翻译。
-- 代谢图表中可见 `oxygen`、`food`、`water`、`carbon dioxide`、`calories` 等标签，但 OCR 的单位、数字和位置彼此错接，本稿只翻译可确定的表题与来源，不重建数据。
-- OCR 恢复出一份从 `Synergetics` 到 `Ergonomics` 的 13 项编号清单，但无法可靠判断它与代谢表、课程图的空间归属，暂未写入最终译文。
-- `My Recommendations for a Curriculum of Design Science` 下目前只能可靠确认 `Production Engineering`；其余课程项目不得由邻近 OCR 清单推定。
-- 《工业化未完的史诗》节选开头在 OCR 中与标题分离；译文依据来源审计确认的主语关系接回，但仍需扫描复核。
+- 已对照本地 PDF 第 6 页核对三栏正文、流程图、代谢表、六份封面和课程清单的空间归属。
+- 封闭生态系统图及两张代谢图的可辨标签、数量、单位、箭头关系和来源均已转写；线性正文不能完全替代原图，阅读室应保留图像对照。
+- `My Recommendations for a Curriculum of Design Science` 下经扫描确认共有 14 项，从 `Synergetics` 到 `Production Engineering`，已按编号恢复。
+- 《工业化未完的史诗》节选开头在 OCR 中与标题分离；译文的主语关系与版面归属已由扫描确认。
 
 ## Self Critique
 
 - 已完整翻译六段可恢复的富勒长文、文件题名、地图获取信息、套装评价、书目、概念十二和结尾引文，没有把它们合并成页面概述。
-- 本页的图表、数值和课程图属于内容核心；在缺少扫描的情况下强行补齐会制造伪译，因此本稿明确保留扫描阻碍，不能推荐直接接受。
-- `tensegrity`、`de-geniused`、`antientropic` 等富勒专用语已尽量保留造词与理论色彩，但需 reviewer 与全刊术语表统一。
+- 本页核心图表和 14 项课程清单已按扫描补齐，并完成数字密集项的独立逐项复核。
+- `tensegrity`、`de-geniused`、`antientropic` 等富勒专用语已按本页语境保留造词与理论色彩。

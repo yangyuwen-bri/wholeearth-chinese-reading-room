@@ -2,21 +2,21 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Reasons
 
 - Against the official DjVu XML, the translation covers the complete `FUNCTION` definition, all five inclusion criteria, the revision sentence, and the full `PURPOSE` paragraph. It preserves the contrast between remote institutional power and developing personal power and does not reduce the passage to a summary.
 - No substantive price, address, signature, caption, or order information appears in the recovered source, and no workflow-only prose appears in `Final Translation`.
-- The XML contains an anomalous standalone `3` immediately before `4) Not already common knowledge`. The translation reasonably normalizes the list to 1–5, but no scan is available to confirm that this is OCR noise rather than a visible mark or layout element.
-- The core phrase `evaluation and access device` is translated as “评价与获取工具”, while the shared glossary still has provisional “评价与获取装置”. The proposed translation is more natural in context, but it is not yet a stable shared decision.
+- The local 350-ppi PDF page 2 confirms a clean five-item list numbered 1–5. The anomalous standalone OCR `3` is not visible source content, so the translation's normalized numbering is correct.
+- The scan confirms the simple top-to-bottom `FUNCTION` then `PURPOSE` order, the two visible headings, and the absence of captions, marginal notes, or other substantive small text.
+- The core phrase `evaluation and access device` is translated as “评价与获取工具”, which now matches the accepted issue glossary.
 
 ## Required Fixes
 
-- Inspect the n1 scan and confirm the visible numbering and reading order of the five criteria; retain 1–5 only if the scan supports it.
-- After visual confirmation, the orchestrator must settle `evaluation and access device` in the glossary and make this leaf follow that decision.
+- None.
 
 ## Residual Risks
 
-- This review confirms fidelity to the official OCR, not visual completeness. Because no local or Archive scan was available, marginal marks, small captions, and exact emphasis cannot be ruled out.
-- `remotely done power and glory` and `intimate, personal power` are defensibly rendered, but their punctuation and emphasis should be checked when the scan becomes available.
+- The scan uses italic body text and bold display headings; these typographic differences do not change the translated meaning.
+- `remotely done power and glory` and `intimate, personal power` remain defensible semantic choices and are now punctuation-checked against the scan.

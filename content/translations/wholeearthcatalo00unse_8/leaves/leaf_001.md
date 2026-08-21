@@ -9,8 +9,8 @@
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_8/page/n1_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_8/page/n1_w2000.jpg
 - OCR source: official Internet Archive DjVu XML at `_local/legacy/work/wholeearth/page_xml/wholeearthcatalo00unse_8_djvu.xml`; 180 OCR words in 21 lines. No supplemental OCR used.
-- Scan evidence: Archive w2000 retrieval timed out on 2026-07-14; no local page image was found. Evidence below is therefore XML/scandata-based and visual verification is pending.
-- OCR risk flags: `front_matter`, `numbered_list_ocr`, `scan_not_visually_checked`, `highres_unavailable`.
+- Scan evidence: Local PDF page 2 was visually checked. The `FUNCTION` and `PURPOSE` headings, the complete five-item list, and both prose blocks are legible.
+- OCR risk flags: `front_matter`, `numbered_list_ocr`, `pdf_visual_checked`.
 
 ## Context Notes
 
@@ -53,9 +53,9 @@
 
 ## OCR / Uncertainty Notes
 
-- 官方 OCR 在第四项标准前多识别出一个孤立的 `3`。译文按完整的五项编号顺序整理为第 1 至第 5 项，但编号仍需用扫描图确认。
+- 官方 OCR 在第四项标准前多识别出一个孤立的 `3`；本地 PDF 第 2 页确认原文只有连续的第 1 至第 5 项，译文编号与页面一致。
 - `PURPOSE` 左侧的孤立符号以及正文中的 `=p`、冒号属于边缘 OCR 噪声，未进入译文。
-- 本页尚未做扫描图视觉核对；译文仅依据官方 DjVu XML 与已完成的来源结构审计，不声称扫描确认。
+- 本地 PDF 第 2 页已完成视觉核对；译文已与扫描确认的结构和正文一致。
 
 ## Self Critique
 

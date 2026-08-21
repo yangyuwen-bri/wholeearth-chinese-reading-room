@@ -2,18 +2,18 @@
 
 ## Conclusion
 
-reviewed_needs_glossary
+accepted
 
 ## Reasons
 
-- The local cover image independently confirms the four translated elements: `WHOLE EARTH CATALOG`, `access to tools`, `Fall 1968`, and `$5`.
+- The local 350-ppi PDF page 1 and Archive full-resolution n0 image independently confirm the four translated elements: `WHOLE EARTH CATALOG`, `access to tools`, `Fall 1968`, and `$5`.
 - The Chinese retains the issue title, short cover tagline, date, and historically meaningful price without adding image-description prose or translating OCR noise from the Earth photograph.
-- `access to tools` is rendered as “获取工具”, which is viable and consistent in intent with the n1 rendering “评价与获取工具”, but this recurring core use of `access` is not yet recorded as a shared glossary decision.
+- `access to tools` is rendered as “获取工具”, matching the now-accepted issue glossary. The title also follows the accepted project title 《全球概览》.
 
 ## Required Fixes
 
-- The orchestrator must either promote `access to tools` → “获取工具” to the issue glossary or record a different stable cover-tagline rendering and revise this leaf accordingly.
+- None.
 
 ## Residual Risks
 
-- The checked local cover image is sufficient for the four visible text elements, but the unavailable Archive w2000 image prevents a second high-resolution confirmation of extremely faint marks. No additional source text is visible in the local asset.
+- The mottling, scratches, and faint marks around the Earth photograph are physical/image artifacts rather than additional text; no reader-facing content is omitted.

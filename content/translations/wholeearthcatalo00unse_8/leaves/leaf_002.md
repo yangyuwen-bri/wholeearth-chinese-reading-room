@@ -9,28 +9,28 @@
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_8/page/n2_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_8/page/n2_w2000.jpg
 - OCR source: official Internet Archive DjVu XML at `_local/legacy/work/wholeearth/page_xml/wholeearthcatalo00unse_8_djvu.xml`; 482 OCR words in 67 lines. No supplemental OCR used.
-- Scan evidence: Archive w2000 retrieval timed out on 2026-07-14; no local page image was found. The contents text is available, but exact visual columns and category-to-entry grouping remain pending scan review.
-- OCR risk flags: `contents_page`, `dense_multicolumn`, `column_order_uncertain`, `heading_detection_incomplete`, `decorative_text_noise`, `highres_unavailable`.
+- Scan evidence: local PDF obtained and visually checked on 2026-07-15; access leaf `n2` maps to PDF page 3. Category headings, three-column order, and category-to-entry grouping are confirmed from the scan.
+- OCR risk flags: `contents_page`, `dense_multicolumn`, `column_order_verified`, `headings_verified`, `decorative_text_noise`, `highres_reviewed`.
 
 ## Context Notes
 
 - This is the catalog contents page. It is navigational source content and its titles/categories must not be collapsed into a prose overview.
-- Category headings recovered by OCR include `Understanding Whole Systems`, `Village Technology`, `Industry and Craft`, `Communications`, `Community`, and `Nomadics`. A final cluster contains learning/education titles, but its category heading is not reliably recovered. `Shelter and Land Use` may also be represented by the house/gardening cluster, but the absent scan prevents assigning that heading confidently.
+- Scan-confirmed category headings are `Understanding Whole Systems`, `Shelter and Land Use`, `Industry and Craft`, `Communications`, `Community`, `Nomadics`, and `Learning`.
 - Titles recovered in the `Understanding Whole Systems` cluster: `Buckminster Fuller`; `Cosmic View`; `Full Earth`; `Earth Photographs`; `The World From Above`; `Surface Anatomy`; `Geology Illustrated`; `Sensitive Chaos`; `A Year From Monday`; `General Systems Yearbook`; `Synthesis of Form`; `On Growth and Form`; `Tantra Art`; `Psychological Reflections`; `The Human Use of Human Beings`; `The Ghost in the Machine`; `The Year 2000`; `The Futurist`.
-- Titles recovered around the `Village Technology` / shelter-and-land-use portion: `The Dymaxion World of Buckminster Fuller`; `Space Structures`; `Tensile Structures, Volume One`; `Dome Cookbook`; `Good News`; `Architectural Design`; `The Japanese House`; `Audel Guides`; `Alaskan Mill`; `The Indian Tipi`; `Tipis`; `Aladdin Kerosene Lamps`; `Man's Role in Changing the Face of the Earth`; `Two Mushroom Books`; `Organic Gardening`; `ABC and XYZ of Bee Culture`; `Universal Mill`.
-- Titles recovered in the `Industry and Craft` cluster: `The Way Things Work`; `Introduction to Engineering Design`; `The Measure of Man`; `Thomas Register of American Manufacturers`; `New Scientist`; `Scientific American`; `Industrial Design`; `Product Engineering`; `Science and Civilization in China, Volume IV, Part 2`; `Van Waters & Rogers`; `Silvo Catalog`; `Brookstone Tools`; `Jensen Tools`; `Miners Catalog`; `Blasters' Handbook`; `Direct Use of the Sun's Energy`; `Structure, Form and Movement`; `Bookmaking`; `Zone System Manual`; `A Sculptor's Manual`; `Creative Glass Blowing`; `Buckskin`; `Cut Beads`; `Melrose Yarns`; and an OCR-uncertain `Clearinghouse` entry.
-- Titles recovered in `Communications`: `Human Biocomputer`; `The Mind of the Dolphin`; `Information`; `9100A Computer`; `Cybernetics`; `Eye and Brain`; `Design for a Brain`; `Education Automation`; `Intelligent Life in the Universe`; `The McGraw-Hill Encyclopedia of Space`; `Lafayette and Allied Catalogs`; `Heathkit Books`; `Modern Business Forms`; `American Cinematographer Manual`; `The Technique of Documentary Film Production`; `The Technique of Television Production`; `Auto Repair Manual`; `Subject Guide to Books in Print`.
-- Titles recovered in `Community`: `The Modern Utopian`; `The Realist`; `Green Revolution`; `Kibbutz: Venture in Utopia`; `Dune`; `Groups Under Stress`; `The Merck Manual`; `Art Prints`; `Land for Sale`; `Consumer Reports`; `Government Publications`; `The Armchair Shopper's Guide`; `How to Get 20% to 90% off on Everything You Buy`.
+- Scan-confirmed titles under `Shelter and Land Use`: `The Dymaxion World of Buckminster Fuller`; `Space Structures`; `Tensile Structures, Volume One`; `Dome Cookbook`; `Good News`; `Architectural Design`; `The Japanese House`; `Audel Guides`; `Alaskan Mill`; `Village Technology`; `The Indian Tipi`; `Tipis`; `Aladdin Kerosene Lamps`; `Man's Role in Changing the Face of the Earth`; `Two Mushroom Books`; `Organic Gardening`; `ABC and XYZ of Bee Culture`; `Universal Mill`.
+- Scan-confirmed titles in `Industry and Craft`: `The Way Things Work`; `Introduction to Engineering Design`; `The Measure of Man`; `Thomas Register of American Manufacturers`; `New Scientist`; `Scientific American`; `Industrial Design`; `Product Engineering`; `Clearinghouse`; `Science and Civilization in China, Volume IV, Part 2`; `Van Waters & Rogers`; `Silvo Catalog`; `Brookstone Tools`; `Jensen Tools`; `Miners Catalog`; `Blasters' Handbook`; `Direct Use of the Sun's Energy`; `Structure, Form and Movement`; `Bookmaking`; `Zone System Manual`; `A Sculptor's Manual`; `Creative Glass Blowing`; `Buckskin`; `Cut Beads`; `Melrose Yarns`.
+- Scan-confirmed titles in `Communications`: `Human Biocomputer`; `The Mind of the Dolphin`; `Information`; `9100A Computer`; `Cybernetics`; `Eye and Brain`; `Design for a Brain`; `Education Automation`; `Intelligent Life in the Universe`; `The McGraw-Hill Encyclopedia of Space`; `Lafayette and Allied Catalogs`; `Heathkit`; `Modern Business Forms`; `American Cinematographer`; `American Cinematographer Manual`; `The Technique of Documentary Film Production`; `The Technique of Television Production`; `Auto Repair Manual`; `Books`; `Subject Guide to Books in Print`; `Art Prints`.
+- Scan-confirmed titles in `Community`: `The Modern Utopian`; `The Realist`; `Green Revolution`; `Kibbutz: Venture in Utopia`; `Dune`; `Groups Under Stress`; `The Merck Manual`; `Land for Sale`; `Consumer Reports`; `Government Publications`; `The Armchair Shopper's Guide`; `How to Get 20% to 90% off on Everything You Buy`.
 - Titles recovered in `Nomadics`: `Innovator`; `The Retreater's Bibliography`; `The Book of Survival`; `The Survival Book`; `Survival Arts of the Primitive Paiutes`; `Camping and Woodcraft`; `Light Weight Camping Equipment and How to Make It`; `Backpacking`; `L.L. Bean`; `Recreational Equipment`; `Gerry Outdoor Equipment`; `Kaibab Boots`; `Hot Springs`; `The Explorers Trademart Log`; `National Geographic`; `Sierra Club`; `The Narrow Road to the Deep North`; `Trout Fishing in America`.
-- Titles recovered in the final learning/personal-development cluster: `Toward a Theory of Instruction`; `The Black Box`; `THIS Magazine is about Schools`; `Cuisenaire Rods`; `ITA`; `LIFE Science Library`; `Kaiser Aluminum News`; `700 Science Experiments for Everybody`; `Edmund Scientific`; `WFF 'N PROOF`; `Dr. Nim`; `We Built Our Own Computers`; `American Boys Handy Book`; `Pioneer Posters`; `Sense Relaxation`; `Meditation Cushions and Mats`; `Self Hypnotism`; `Psycho-cybernetics`; `A Yaqui Way of Knowledge`; `Fundamentals of Yoga`; `The Act of Creation`; `The I Ching`; `Zen Flesh, Zen Bones`.
-- The official OCR orders some rows horizontally across columns and some as separate regions. Exact title pairing, category boundaries, punctuation, and any omitted graphical headings require the high-resolution scan. Bottom-edge glyph strings are scan/decorative noise and not contents entries.
+- Scan-confirmed titles in `Learning`: `Toward a Theory of Instruction`; `The Black Box`; `THIS Magazine is about Schools`; `Cuisenaire Rods`; `ITA`; `LIFE Science Library`; `Kaiser Aluminum News`; `700 Science Experiments for Everybody`; `Edmund Scientific`; `WFF 'N PROOF`; `Dr. Nim`; `We Built Our Own Computers`; `American Boys Handy Book`; `Pioneer Posters`; `Sense Relaxation`; `Zen Flesh, Zen Bones`; `Meditation Cushions and Mats`; `Self Hypnotism`; `Psycho-cybernetics`; `A Yaqui Way of Knowledge`; `Fundamentals of Yoga`; `The Act of Creation`; `The I Ching`.
+- The official OCR interleaves rows across columns; the scan confirms the title pairing, category boundaries, punctuation, and left-to-right column order. Bottom-edge glyph strings are scan/decorative noise and not contents entries.
 
 ## Glossary Updates
 
-- `Village Technology`：建议译为“乡村技术”，本页为栏目标题首次出现。
-- `Nomadics`：沿用暂定译法“游牧”；本页仅提供目录语境，尚不足以将该译法转为稳定状态。
-- `Industry and Craft`：沿用暂定译法“工业与手艺”，待正文栏目页核对其具体范围。
-- 目录中的书刊、机构和产品名暂采用“中文译名（English Original）”形式；其中没有通行中译名者均应视为候选，不应据本页单独写入总术语表。
+- `Shelter and Land Use`：扫描确认是上位栏目名，译为“庇护所与土地利用”；`Village Technology` 是该栏目下的独立条目。
+- `Nomadics`：已核定译为“游牧”。
+- `Industry and Craft`：已核定译为“工业与手艺”。
+- 目录中的书刊、机构和产品名采用“中文译名（English Original）”形式；仅把跨页复现、已经总审的名称写入总术语表。
 
 ## Final Translation
 
@@ -55,7 +55,7 @@
 - 《2000 年》（The Year 2000）
 - 《未来学家》（The Futurist）
 
-### 乡村技术（Village Technology）
+### 庇护所与土地利用（Shelter and Land Use）
 
 - 《巴克敏斯特·富勒的戴马克松世界》（The Dymaxion World of Buckminster Fuller）
 - 《空间结构》（Space Structures）
@@ -64,8 +64,9 @@
 - 《好消息》（Good News）
 - 《建筑设计》（Architectural Design）
 - 《日本住宅》（The Japanese House）
-- 《奥德尔指南》（Audel Guides）
+- 奥德尔指南（Audel Guides）
 - 阿拉斯加锯木机（Alaskan Mill）
+- 乡村技术（Village Technology）
 - 《印第安圆锥帐篷》（The Indian Tipi）
 - 《圆锥帐篷》（Tipis）
 - 阿拉丁煤油灯（Aladdin Kerosene Lamps）
@@ -85,6 +86,7 @@
 - 《科学美国人》（Scientific American）
 - 《工业设计》（Industrial Design）
 - 《产品工程》（Product Engineering）
+- 信息交换所（Clearinghouse）
 - 《中国科学与文明》第四卷第二分册（Science and Civilization in China, Volume IV, Part 2）
 - Van Waters & Rogers
 - 西尔沃目录（Silvo Catalog）
@@ -115,13 +117,16 @@
 - 《宇宙中的智能生命》（Intelligent Life in the Universe）
 - 《麦格劳－希尔太空百科全书》（The McGraw-Hill Encyclopedia of Space）
 - Lafayette 与 Allied 目录（Lafayette and Allied Catalogs）
-- 希斯套件丛书（Heathkit Books）
+- Heathkit 套件（Heathkit）
 - 《现代商业表格》（Modern Business Forms）
+- 《美国电影摄影师》（American Cinematographer）
 - 《美国电影摄影师手册》（American Cinematographer Manual）
 - 《纪录片制作技术》（The Technique of Documentary Film Production）
 - 《电视制作技术》（The Technique of Television Production）
 - 《汽车维修手册》（Auto Repair Manual）
+- 图书（Books）
 - 《在版图书主题指南》（Subject Guide to Books in Print）
+- 艺术版画（Art Prints）
 
 ### 共同体（Community）
 
@@ -132,7 +137,6 @@
 - 《沙丘》（Dune）
 - 《压力下的群体》（Groups Under Stress）
 - 《默克手册》（The Merck Manual）
-- 艺术版画（Art Prints）
 - 待售土地（Land for Sale）
 - 《消费者报告》（Consumer Reports）
 - 政府出版物（Government Publications）
@@ -160,51 +164,31 @@
 - 《奥州小道》（The Narrow Road to the Deep North）
 - 《在美国钓鳟鱼》（Trout Fishing in America）
 
-### 《教学理论初探》（Toward a Theory of Instruction）
+### 学习（Learning）
 
-### 《黑箱》（The Black Box）
-
-### 《THIS：一本谈学校的杂志》（THIS Magazine is about Schools）
-
-### 古氏彩色算棒（Cuisenaire Rods）
-
-### ITA
-
-### 《LIFE 科学丛书》（LIFE Science Library）
-
-### 《凯泽铝业新闻》（Kaiser Aluminum News）
-
-### 《人人都能做的 700 个科学实验》（700 Science Experiments for Everybody）
-
-### 埃德蒙科学（Edmund Scientific）
-
-### WFF 'N PROOF
-
-### 尼姆博士（Dr. Nim）
-
-### 《我们造了自己的计算机》（We Built Our Own Computers）
-
-### 《美国男孩实用手册》（American Boys Handy Book）
-
-### 先锋海报（Pioneer Posters）
-
-### 感官放松（Sense Relaxation）
-
-### 冥想坐垫与垫子（Meditation Cushions and Mats）
-
-### 《自我催眠》（Self Hypnotism）
-
-### 《心理控制论》（Psycho-cybernetics）
-
-### 《亚基族的知识之道》（A Yaqui Way of Knowledge）
-
-### 《瑜伽基础》（Fundamentals of Yoga）
-
-### 《创造的行为》（The Act of Creation）
-
-### 《易经》（The I Ching）
-
-### 《禅肉禅骨》（Zen Flesh, Zen Bones）
+- 《教学理论初探》（Toward a Theory of Instruction）
+- 《黑箱》（The Black Box）
+- 《THIS：一本谈学校的杂志》（THIS Magazine is about Schools）
+- 古氏彩色算棒（Cuisenaire Rods）
+- ITA
+- 《LIFE 科学丛书》（LIFE Science Library）
+- 《凯泽铝业新闻》（Kaiser Aluminum News）
+- 《人人都能做的 700 个科学实验》（700 Science Experiments for Everybody）
+- 埃德蒙科学（Edmund Scientific）
+- WFF 'N PROOF
+- 尼姆博士（Dr. Nim）
+- 《我们造了自己的计算机》（We Built Our Own Computers）
+- 《美国男孩实用手册》（American Boys Handy Book）
+- 先锋海报（Pioneer Posters）
+- 感官放松（Sense Relaxation）
+- 《禅肉禅骨》（Zen Flesh, Zen Bones）
+- 冥想坐垫与垫子（Meditation Cushions and Mats）
+- 《自我催眠》（Self Hypnotism）
+- 《心理控制论》（Psycho-cybernetics）
+- 《亚基族的知识之道》（A Yaqui Way of Knowledge）
+- 《瑜伽基础》（Fundamentals of Yoga）
+- 《创造的行为》（The Act of Creation）
+- 《易经》（The I Ching）
 
 ## Omitted Bibliographic/Order Info
 
@@ -212,14 +196,14 @@
 
 ## OCR / Uncertainty Notes
 
-- 页面尚未做扫描图视觉核对。官方 OCR 存在横跨多栏拼接行；本译稿依据来源审计恢复栏目内条目，但不能据此声称排版顺序已经确认。
-- 住房、园艺等条目所在区域的上位栏目名未被 OCR 可靠恢复；译稿只保留可辨认的“乡村技术”标题，没有擅自补入可能存在的 `Shelter and Land Use`。
-- 最后一组教学与个人发展类条目的栏目标题未被 OCR 可靠恢复。为避免虚构栏目名，译稿把每个可辨认标题列为独立三级标题，没有添加推测性的上位标题。
-- `Ciearinghouse` 一项拼写与栏目位置均不可靠，暂未写入最终译文，须待高分辨率扫描确认。
+- 已对照本地 PDF 第 3 页完成视觉核对；粗黑横条是装饰／导航条，不含页码或隐藏正文。
+- 扫描确认栏目名为 `Shelter and Land Use`，并确认 `Clearinghouse` 属于“工业与手艺”。
+- 扫描确认 `American Cinematographer`、`American Cinematographer Manual`、`Books` 和 `Art Prints` 均属于“传播”，其中前两项是两个独立条目。
+- 扫描确认末组三栏的上位栏目名为 `Learning`；条目已按原页左栏、中栏、右栏顺序重排。
 - 底边乱码属于装饰、图像或页边噪声，未进入译文。
 
 ## Self Critique
 
-- 已将 OCR 与来源审计中可恢复的栏目和目录标题逐项翻译，未将目录改写成内容概述，也未省略可辨认的导航条目。
-- 多数书名尚未进入共享术语表；本页采用中英并列以便 reviewer 逐项回查。没有通行译名的标题可能需要后续正文语境修订。
-- `Full Earth` 暂译“完整的地球”，`Nomadics` 暂译“游牧”，均需结合对应正文栏目统一。
+- 已以扫描恢复所有可辨栏目和目录标题，未将目录改写成内容概述，也未省略可辨认的导航条目。
+- 多数只出现一次的书名不进入共享术语表；本页采用中英并列，跨页复现的标题已经与对应正文和索引统一。
+- `Full Earth` 已按本刊统一为“完整的地球”，`Nomadics` 已按本刊统一为“游牧”。

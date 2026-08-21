@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Whole Earth Catalog, Fall 1968 · 中文精读本</title>
+<style>
+  :root {
+    --paper: #f5efe0;
+    --card: #fbf7ec;
+    --ink: #2b261c;
+    --muted: #8a7f68;
+    --line: #d9cfb6;
+    --blue: #4f6e94;
+    --blue-deep: #3c5573;
+    --red: #b24e3d;
+    --wash: #eee7d3;
+    --serif: "Songti SC", "Noto Serif SC", "Source Han Serif SC", Georgia, serif;
+    --mono: "SF Mono", Menlo, Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--serif);
+    line-height: 1.9;
+  }
+  .masthead {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 28px 20px 14px;
+    display: flex;
+    align-items: flex-end;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .masthead h1 {
+    font-size: 26px;
+    margin: 0;
+    letter-spacing: 0.5px;
+  }
+  .masthead .sub {
+    margin: 2px 0 0;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .masthead .spacer { flex: 1; }
+  nav.chapters {
+    position: sticky;
+    top: 0;
+    z-index: 30;
+    background: var(--paper);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  nav.chapters .row {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 8px 20px;
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+  }
+  nav.chapters button {
+    border: 1px solid transparent;
+    background: transparent;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+    padding: 4px 10px;
+    border-radius: 999px;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  nav.chapters button.active {
+    background: var(--ink);
+    color: var(--paper);
+  }
+  main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 24px 20px 90px;
+    display: grid;
+    grid-template-columns: 320px minmax(0, 1fr);
+    gap: 32px;
+    align-items: start;
+  }
+  main > * { min-width: 0; }
+  aside.scan {
+    position: sticky;
+    top: 56px;
+  }
+  .scan-frame {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 10px;
+  }
+  .scan-frame img {
+    display: block;
+    width: 100%;
+    min-height: 300px;
+    background: var(--wash);
+    border: 1px solid var(--line);
+  }
+  .scan-meta {
+    margin-top: 8px;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .scan-meta .leaf-label { color: var(--ink); font-size: 13px; }
+  .scan-controls { display: flex; align-items: center; gap: 8px; margin: 8px 0; }
+  .scan-controls button {
+    border: 1px solid var(--line);
+    background: var(--card);
+    color: var(--ink);
+    border-radius: 6px;
+    width: 30px;
+    height: 26px;
+    cursor: pointer;
+    font-family: var(--mono);
+  }
+  .scan-controls input[type=range] { flex: 1; accent-color: var(--blue); }
+  .scan-meta a { color: var(--blue-deep); }
+  .scan-note { font-size: 11px; line-height: 1.6; margin-top: 8px; }
+  article.chapter { margin-bottom: 56px; }
+  article.chapter > h2 {
+    font-size: 22px;
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 8px;
+    margin: 0 0 6px;
+  }
+  .chapter-meta { font-family: var(--mono); font-size: 12px; color: var(--muted); margin-bottom: 20px; }
+  .chapter-summary {
+    margin: 0 0 14px;
+    max-width: 72ch;
+    color: #4d4535;
+    font-size: 15px;
+  }
+  .chapter-tools {
+    display: grid;
+    gap: 6px;
+    max-width: 72ch;
+    margin: 4px 0 26px;
+  }
+  .chapter-tools details {
+    border-top: 1px solid rgba(137, 126, 104, 0.42);
+    border-bottom: 1px solid rgba(137, 126, 104, 0.24);
+  }
+  .chapter-tools summary {
+    list-style: none;
+    cursor: pointer;
+    padding: 9px 0;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 14px;
+    color: #5a503f;
+    font-size: 14px;
+  }
+  .chapter-tools summary::-webkit-details-marker { display: none; }
+  .chapter-tools summary::after {
+    content: "+";
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .chapter-tools details[open] summary::after { content: "−"; }
+  .chapter-tools .count {
+    margin-left: 8px;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .chapter-toc-list {
+    margin: 2px 0 16px;
+    padding: 0;
+    list-style: none;
+    columns: 2;
+    column-gap: 28px;
+  }
+  .chapter-toc-list li {
+    break-inside: avoid;
+    display: flex;
+    gap: 12px;
+    align-items: baseline;
+    padding: 4px 0;
+    font-size: 14px;
+    line-height: 1.55;
+  }
+  .chapter-toc-list a {
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    cursor: pointer;
+  }
+  .chapter-toc-list a:hover { border-bottom-color: var(--blue); color: var(--blue-deep); }
+  .chapter-toc-list .page {
+    margin-left: auto;
+    white-space: nowrap;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--muted);
+  }
+  section.entry { margin-bottom: 34px; }
+  section.entry > h3 { font-size: 17px; margin: 0 0 4px; }
+  section.entry h4 { font-size: 15.5px; margin: 18px 0 6px; }
+  section.entry h5 { font-size: 14px; margin: 14px 0 4px; color: #4d4535; }
+  .entry-meta {
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--muted);
+    margin-bottom: 10px;
+  }
+  .entry-meta a { color: var(--blue-deep); text-decoration: none; border-bottom: 1px dotted var(--blue); cursor: pointer; }
+  .book-links {
+    margin: -4px 0 14px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .book-links summary {
+    display: inline-block;
+    list-style: none;
+    cursor: pointer;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--blue-deep);
+    border-bottom: 1px dotted var(--blue);
+  }
+  .book-links summary::-webkit-details-marker { display: none; }
+  .book-links summary::after {
+    content: " +";
+    color: var(--muted);
+  }
+  .book-links[open] summary::after { content: " −"; }
+  .book-links ul {
+    margin: 7px 0 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    gap: 4px;
+  }
+  .book-links li {
+    line-height: 1.55;
+  }
+  .book-links .book-title {
+    color: #4d4535;
+    margin-right: 6px;
+  }
+  .book-links a {
+    color: var(--blue-deep);
+    text-decoration: none;
+    border-bottom: 1px dotted var(--blue);
+    margin-right: 6px;
+    white-space: nowrap;
+  }
+  section.entry p { margin: 0 0 14px; font-size: 15.5px; }
+  section.entry ul,
+  section.entry ol { margin: 0 0 14px; padding-left: 1.5em; }
+  section.entry li { margin: 0 0 5px; font-size: 15px; }
+  section.entry blockquote {
+    margin: 0 0 14px;
+    padding: 4px 0 4px 16px;
+    border-left: 3px solid var(--red);
+    color: #6b6250;
+  }
+  section.entry blockquote p { margin: 0; font-size: 14.5px; }
+  section.entry code {
+    font-family: var(--mono);
+    font-size: 0.85em;
+    background: var(--wash);
+    padding: 1px 5px;
+    border-radius: 4px;
+  }
+  section.entry pre {
+    margin: 0 0 16px;
+    padding: 13px 15px;
+    overflow-x: auto;
+    background: var(--wash);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    line-height: 1.65;
+  }
+  section.entry pre code {
+    padding: 0;
+    background: transparent;
+    white-space: pre;
+  }
+  .table-wrap {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 0 18px;
+    overflow-x: auto;
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    background: var(--card);
+  }
+  section.entry table {
+    width: 100%;
+    min-width: 520px;
+    border-collapse: collapse;
+    font-size: 13px;
+    line-height: 1.55;
+  }
+  section.entry th,
+  section.entry td {
+    padding: 8px 10px;
+    border-right: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    text-align: left;
+    vertical-align: top;
+  }
+  section.entry th { background: var(--wash); font-weight: 600; }
+  section.entry tr:last-child td { border-bottom: 0; }
+  section.entry th:last-child,
+  section.entry td:last-child { border-right: 0; }
+  .preface-tag {
+    display: inline-block;
+    font-family: var(--mono);
+    font-size: 11px;
+    color: var(--red);
+    border: 1px solid var(--red);
+    border-radius: 999px;
+    padding: 1px 9px;
+    margin-bottom: 8px;
+  }
+  footer.progress {
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    background: var(--card);
+    border-top: 1px solid var(--line);
+    z-index: 40;
+  }
+  footer.progress .inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 8px 20px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    font-family: var(--mono);
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .bar { flex: 1; height: 4px; background: var(--wash); border-radius: 999px; overflow: hidden; }
+  .bar i { display: block; height: 100%; width: 0; background: var(--blue); }
+  @media (max-width: 900px) {
+    main { width: 100%; grid-template-columns: minmax(0, 1fr); gap: 16px; padding-top: 12px; }
+    aside.scan {
+      top: 46px;
+      z-index: 20;
+    }
+    .scan-frame { display: flex; gap: 10px; padding: 8px; }
+    .scan-frame img { width: 96px; min-height: 0; height: 128px; object-fit: cover; object-position: top; }
+    .scan-frame .scan-meta { margin-top: 0; flex: 1; }
+    .scan-note { display: none; }
+    .chapter-toc-list { columns: 1; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div>
+    <h1>Whole Earth Catalog <span style="font-size:15px; color:var(--muted);">Fall 1968</span></h1>
+    <p class="sub">首刊中文精读本 · 图文对照阅读器</p>
+  </div>
+  <div class="spacer"></div>
+</header>
+
+<nav class="chapters"><div class="row" id="chapterNav"></div></nav>
+
+<main>
+  <aside class="scan">
+    <div class="scan-frame">
+      <img id="scanImg" alt="原书扫描页">
+      <div class="scan-meta">
+        <div class="leaf-label" id="leafLabel">leaf –</div>
+        <div class="scan-controls">
+          <button id="leafPrev" aria-label="上一页">‹</button>
+          <input type="range" id="leafSlider" min="0" max="67" value="0" step="1">
+          <button id="leafNext" aria-label="下一页">›</button>
+        </div>
+        <a id="archiveLink" target="_blank" rel="noopener">在 Internet Archive 打开本页 ↗</a>
+        <p class="scan-note">扫描页随正文滚动自动切换（章节内为近似对齐），也可以手动翻页。图片来自 archive.org。</p>
+      </div>
+    </div>
+  </aside>
+  <div id="content"></div>
+</main>
+
+<footer class="progress"><div class="inner">
+  <span id="chapterLabel">–</span>
+  <div class="bar"><i id="progressFill"></i></div>
+  <span id="progressLabel">leaf – / 67</span>
+</div></footer>
+
+<script>
+(async function () {
+  const data = await (await fetch("data/reader.json")).json();
+  const content = document.getElementById("content");
+  const nav = document.getElementById("chapterNav");
+  const scanImg = document.getElementById("scanImg");
+  const leafLabel = document.getElementById("leafLabel");
+  const leafSlider = document.getElementById("leafSlider");
+  const archiveLink = document.getElementById("archiveLink");
+  const progressFill = document.getElementById("progressFill");
+  const progressLabel = document.getElementById("progressLabel");
+  const chapterLabel = document.getElementById("chapterLabel");
+  let currentLeaf = data.leaf_min ?? 0;
+  leafSlider.min = data.leaf_min ?? 0;
+  leafSlider.max = data.leaf_total;
+
+  function scanUrl(leaf) { return data.scan_url.replace("{leaf}", leaf); }
+  function pageUrl(leaf) { return data.archive_page_url.replace("{leaf}", leaf); }
+  function printedNumber(leaf) {
+    const rules = data.printed_page_rules || [];
+    for (const rule of rules) {
+      if (leaf >= rule.leaf_start && leaf <= rule.leaf_end) {
+        return rule.printed_start + (leaf - rule.leaf_start);
+      }
+    }
+    return null;
+  }
+  function printedPage(leaf) {
+    const page = printedNumber(leaf);
+    return page == null ? "" : " · p." + page;
+  }
+  function leafSpanText(start, end) {
+    return start === end ? "leaf " + start : "leaf " + start + "–" + end;
+  }
+  function printedSpanLabel(start, end) {
+    const startPage = printedNumber(start);
+    const endPage = printedNumber(end);
+    if (startPage == null || endPage == null) return "";
+    return start === end
+      ? "p." + startPage
+      : "p." + startPage + "–" + endPage;
+  }
+  function escapeHtml(value) {
+    return String(value ?? "")
+      .replaceAll("&", "&amp;")
+      .replaceAll("<", "&lt;")
+      .replaceAll(">", "&gt;")
+      .replaceAll('"', "&quot;");
+  }
+  function publicPageLabel(start, end) {
+    const pages = printedSpanLabel(start, end);
+    return pages ? "原书 " + pages : "原书扫描页";
+  }
+  function entryMeta(sec) {
+    if (sec.leaf == null) return "";
+    const hasRanges = Array.isArray(sec.leaf_ranges) && sec.leaf_ranges.length;
+    const start = sec.leaf_start ?? sec.leaf;
+    const end = sec.leaf_end ?? sec.leaf;
+    const pages = hasRanges
+      ? sec.leaf_ranges.map(r => printedSpanLabel(r.leaf_start, r.leaf_end)).filter(Boolean).join(", ")
+      : printedSpanLabel(start, end);
+    return "<div class='entry-meta'>" + (pages ? "原书 " + pages : "原书扫描页") +
+      " · <a data-leaf='" + sec.leaf + "'>看原页</a></div>";
+  }
+
+  function bookLinks(sec) {
+    if (!Array.isArray(sec.bibliography_links) || !sec.bibliography_links.length) return "";
+    const count = sec.bibliography_links.length;
+    const rows = sec.bibliography_links.map(item => {
+      const links = (item.links || []).map(link =>
+        "<a href=\"" + escapeHtml(link.url) + "\" target=\"_blank\" rel=\"noopener noreferrer\">" +
+        escapeHtml(link.label || link.provider || "link") + "</a>"
+      ).join("");
+      return "<li><span class='book-title'>" + escapeHtml(item.title) + "</span>" + links + "</li>";
+    }).join("");
+    return "<details class='book-links'><summary>相关书目 " + count + "</summary><ul>" + rows + "</ul></details>";
+  }
+
+  function renderSection(sec, chap) {
+    const el = document.createElement("section");
+    el.className = "entry";
+    el.id = sec.id;
+    el.dataset.leaf = sec.leaf ?? "";
+    el.dataset.chapter = chap.id;
+    const meta = entryMeta(sec);
+    const heading = sec.title === chap.title ? "" : "<h3>" + escapeHtml(sec.title) + "</h3>";
+    el.innerHTML = heading + meta + bookLinks(sec) + sec.html;
+    return el;
+  }
+
+  function renderChapterTools(article, chap) {
+    if (chap.summary) {
+      const summary = document.createElement("p");
+      summary.className = "chapter-summary";
+      summary.textContent = chap.summary;
+      article.appendChild(summary);
+    }
+    if (!chap.toc?.length) return;
+    const tools = document.createElement("div");
+    tools.className = "chapter-tools";
+
+    if (chap.toc?.length) {
+      const details = document.createElement("details");
+      details.className = "chapter-toc";
+      const summary = document.createElement("summary");
+      summary.innerHTML = "本栏 leaf <span class='count'>" + chap.toc.length + " 页</span>";
+      details.appendChild(summary);
+      const list = document.createElement("ol");
+      list.className = "chapter-toc-list";
+      chap.toc.forEach((item, index) => {
+        const li = document.createElement("li");
+        const page = item.printed_page ? "p." + item.printed_page : "";
+        li.innerHTML = "<a data-target='" + escapeHtml(item.target_id) + "'>" +
+          escapeHtml(item.title) + "</a>" +
+          (page ? "<span class='page'>" + page + "</span>" : "");
+        list.appendChild(li);
+      });
+      details.appendChild(list);
+      tools.appendChild(details);
+    }
+
+    article.appendChild(tools);
+  }
+
+  function setLeaf(leaf, fromSlider) {
+    leaf = Math.max(data.leaf_min ?? 0, Math.min(data.leaf_total, leaf));
+    if (leaf === currentLeaf && scanImg.src) return;
+    currentLeaf = leaf;
+    scanImg.src = scanUrl(leaf);
+    leafLabel.textContent = "leaf " + leaf + printedPage(leaf);
+    archiveLink.href = pageUrl(leaf);
+    if (!fromSlider) leafSlider.value = leaf;
+    progressFill.style.width = (leaf / data.leaf_total * 100).toFixed(1) + "%";
+    progressLabel.textContent = "leaf " + leaf + " / " + data.leaf_total;
+  }
+
+  leafSlider.addEventListener("input", () => setLeaf(Number(leafSlider.value), true));
+  document.getElementById("leafPrev").addEventListener("click", () => setLeaf(currentLeaf - 1));
+  document.getElementById("leafNext").addEventListener("click", () => setLeaf(currentLeaf + 1));
+
+  const navButtons = {};
+  function addNavButton(id, label) {
+    const btn = document.createElement("button");
+    btn.textContent = label;
+    btn.addEventListener("click", () => {
+      document.getElementById(id).scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+    nav.appendChild(btn);
+    navButtons[id] = btn;
+    return btn;
+  }
+
+  function shortTitle(title) {
+    return title.replace(/^[一二三四五六七八九十]+、/, "")
+      .replace("封面、目录与使用说明", "封面与说明")
+      .replace("广告、索引与封底", "索引与封底");
+  }
+
+  const preface = document.createElement("article");
+  preface.className = "chapter";
+  preface.id = "preface";
+  preface.innerHTML = "<span class='preface-tag'>导读</span><h2>1968 首刊导读</h2>" +
+    "<div class='chapter-meta'>1968 年首刊 · 68 个 access leaf · 原刊栏目顺序</div>";
+  data.preface.sections.forEach(sec => {
+    const el = document.createElement("section");
+    el.className = "entry";
+    el.innerHTML = "<h3>" + sec.title + "</h3>" + sec.html;
+    preface.appendChild(el);
+  });
+  content.appendChild(preface);
+  addNavButton("preface", "首刊导读");
+
+  data.chapters.forEach(chap => {
+    const article = document.createElement("article");
+    article.className = "chapter";
+    article.id = chap.id;
+    const range = chap.leaf_start != null
+      ? publicPageLabel(chap.leaf_start, chap.leaf_end)
+      : "无对应扫描页";
+    const sourceLabel = chap.source_section
+      ? "1968 原刊栏目 · " + escapeHtml(chap.source_section) + " · "
+      : "";
+    article.innerHTML = "<h2>" + escapeHtml(chap.title) + "</h2><div class='chapter-meta'>" +
+      sourceLabel + range + "</div>";
+    renderChapterTools(article, chap);
+    chap.sections.forEach(sec => {
+      article.appendChild(renderSection(sec, chap));
+    });
+    content.appendChild(article);
+    addNavButton(chap.id, chap.nav_title || shortTitle(chap.title));
+  });
+
+  content.addEventListener("click", event => {
+    const target = event.target.closest("a[data-leaf]");
+    if (target) setLeaf(Number(target.dataset.leaf));
+    const sectionTarget = event.target.closest("a[data-target]");
+    if (sectionTarget) {
+      document.getElementById(sectionTarget.dataset.target)
+        ?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+  });
+
+  const observer = new IntersectionObserver(entries => {
+    for (const entry of entries) {
+      if (!entry.isIntersecting) continue;
+      const leaf = Number(entry.target.dataset.leaf);
+      if (!Number.isNaN(leaf)) setLeaf(leaf);
+      const chapterId = entry.target.dataset.chapter || entry.target.id;
+      for (const [id, btn] of Object.entries(navButtons)) {
+        btn.classList.toggle("active", id === chapterId);
+      }
+      const heading = document.getElementById(chapterId)?.querySelector("h2");
+      if (heading) chapterLabel.textContent = heading.textContent.slice(0, 14);
+    }
+  }, { rootMargin: "-15% 0px -70% 0px" });
+  document.querySelectorAll("section.entry, article.chapter").forEach(el => observer.observe(el));
+
+  setLeaf(0);
+})();
+</script>
+</body>
+</html>
