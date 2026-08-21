@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 144
+- `source_ready`: 139
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 4
+- `accepted`: 9
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 144 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 139 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -29,3 +29,5 @@ Generate or update this file after each batch.
   captions, and back matter require scan-backed coverage evidence.
 - No old Chinese guide or generated summary may be used as translation source.
 - Official OCR contains 216,492 words before scan-backed correction.
+- 本批新增验收 `leaf_005`–`leaf_009`；五页均经 2000 像素扫描复核，
+  全书门禁不再对这些页报告缺失翻译、覆盖证据或总结漂移。
