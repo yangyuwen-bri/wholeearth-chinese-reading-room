@@ -2,24 +2,30 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: three complete book records/reviews; four Two-Factor Theory
+  excerpts; six Alternative Future excerpt groups covering value, consentives,
+  toil, free goods and poverty policy; and three complete Walden passages.
+- Translation coverage: every stable review paragraph, quotation, named plan,
+  concept, statistic, date, page count, price, credit and address has a Chinese
+  counterpart.
+- Permitted omissions: decorative book-cover photography only.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Physical scan 0089 confirms three independent columns and restores paragraph
+  boundaries and bibliographic digits that official OCR interleaves.
+- Theoretical arguments and examples are translated in full rather than
+  replaced with claims about their general themes.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Historical predictions about the 1970s are retained in their original tense
+  and should be read as period documents.
