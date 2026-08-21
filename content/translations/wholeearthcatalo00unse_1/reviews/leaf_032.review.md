@@ -2,24 +2,25 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: 大麻种植手册评论、书目及四组摘录；树木百科评论、书目与树种
+  摘录；地球面貌长评与书目；Environment 评论、订阅和四则材料。
+- Translation coverage: 全部正文、引文、数值、图注、金额、地址和推荐署名均进入
+  `Final Translation`。
+- Permitted omissions: 无文字的植物和封面照片不另作外观描述。
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- 高清扫描确认四组主题的版框；植物性别／移栽、三类树木、人造景观与污水灌溉
+  等原文均逐段翻译，没有以书籍主题总结代替。
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- 低；历史出版物中的植物学名称和年代按原页保留，未以现代分类或法规作无关改写。
