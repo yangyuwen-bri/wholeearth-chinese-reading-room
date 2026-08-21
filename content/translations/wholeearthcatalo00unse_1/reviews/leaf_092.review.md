@@ -2,24 +2,31 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: two book entries, 13-step emergency checklist, epilepsy
+  passage, six figure captions, appendicitis excerpt, and 15-condition
+  unconsciousness diagnostic table.
+- Translation coverage: all review prose, bibliography/order fields, every
+  numbered step, caption, and all nine fields for each of the 15 table columns.
+- Permitted omissions: decorative book-cover typography duplicating the entry.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Dense table cells and cross-column reading order were checked against the
+  3414x4669 scan rather than inferred from OCR order.
+- The table was converted to condition-by-condition records without dropping
+  any source row.
+- A historical-material notice separates documentary translation from current
+  emergency medical guidance.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Diagnostic terminology and first-aid procedures reflect the 1960s sources;
+  readers must not use the page as a substitute for current emergency care.
