@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 67
+- `source_ready`: 66
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 81
+- `accepted`: 82
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 67 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 66 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -105,3 +105,4 @@ Generate or update this file after each batch.
 - `leaf_077` 的电子供应、完整书信、器材规格与全部磁簧开关矩阵已逐项复核。
 - `leaf_078` 的七部电子学／音频书、全部电路摘录与 FM 天线图文已完整复核。
 - `leaf_079` 的书法、广告图形和思想形态三书全部教程原文与图签已完整复核。
+- `leaf_080` 的制书技术图表、校对符号表及三项图书服务全文已逐项复核。
