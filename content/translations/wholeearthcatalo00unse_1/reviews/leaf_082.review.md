@@ -2,24 +2,32 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: ABC of Reading record/review and ten complete excerpt
+  groups; Culture Is Our Business record/review; eleven McLuhan aphorism/prose
+  blocks; the complete four-column Good Housekeeping advertisement; and the
+  Warner's headline, products and prices.
+- Translation coverage: every stable review, quotation, numbered method,
+  headline, advertising paragraph, product/price, bibliography field and
+  supplier address has a Chinese counterpart.
+- Permitted omissions: photographic composition and ornamental book-cover art.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Physical scan 0083 restores the visual pairing of ads and aphorisms, the
+  interleaved Good Housekeeping columns and the missing first digit of the
+  McLuhan book price.
+- Advertising copy and excerpt collections are translated as source text, not
+  replaced with descriptive summaries.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- The original's typography creates part of its visual argument; all verbal
+  content is retained while typographic scale itself remains in the scan.

@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 65
+- `source_ready`: 64
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 83
+- `accepted`: 84
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 65 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 64 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -107,3 +107,4 @@ Generate or update this file after each batch.
 - `leaf_079` 的书法、广告图形和思想形态三书全部教程原文与图签已完整复核。
 - `leaf_080` 的制书技术图表、校对符号表及三项图书服务全文已逐项复核。
 - `leaf_081` 的圣经／老子／Walton 全部书目长评及两则科学书评已完整复核。
+- `leaf_082` 的 Pound 全部摘录、McLuhan 格言及两则广告全文已完整复核。
