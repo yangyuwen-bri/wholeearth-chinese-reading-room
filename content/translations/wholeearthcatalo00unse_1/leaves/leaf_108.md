@@ -147,18 +147,92 @@ switch. Wt. empty, 8:ozs. $2.95
 
 ## Glossary Updates
 
+- `hoop shape`：拱环式外形。
+- `string underwear`：网眼内衣。
+- `proofed`：经防水处理的。
 
 ## Final Translation
 
+### Warmlite 帐篷
+
+Stephenson Warmlite 是供两三个人背包旅行和登山使用的帐篷。基础型 6 号单层帐篷连支杆共重 36 盎司。设计者 Jack Stephenson 是空气动力学家兼机械工程师；他在家里利用业余时间制作这些帐篷。渐缩的拱环式外形非常稳定，风吹时不会拍打作响；与传统 A 字形设计相比，内部也多出了头部空间。帐内的热力学设计既提供良好通风，又把热量损失降到最低。长逾 10 英尺，宽 5 英尺；可装入一只小号睡袋收纳袋。$100–$215。
+
+【Drew Langsner 推荐并评介】
+
+免费目录：Stephenson’s, 23206 Hatteras Street, Woodland Hills, CA 91364。
+
+### Poptent
+
+远远胜过其他路边露营帐篷的是 Thermos POPTENT®。它呈圆顶形，不用拉绳、支杆或地钉，大约一分钟就能立起，而且抵御恶劣天气的能力出奇地好。共有两种尺寸，都带缝合式地布、纱门和纱窗。小号的六边形地面，两平行边间距约 6½ 英尺，可睡两名成人和一个孩子；大号约宽 8½ 英尺、高 6 英尺，可睡四人，但抗风稳定性稍差。小号最好：折起后装入直径 5 英寸、长 2 英尺的袋中，重 13 磅。各店价格不同，但小号大约应付 60 美元，大号约 90 美元；别付得更多。裁一块 2 英寸厚、与地面形状相合的聚氨酯泡沫垫，你就有了一套适合小汽车或摩托车的好营地。
+
+【J. Baldwin 推荐并评介】
+
+Poptent，小号 6½ 英尺，绿色；邮资已付 $65.00（店内 $60），由 WHOLE EARTH CATALOG 供应。
+
+### Barbour
+
+在加利福尼亚，Barbour 全天候服装看起来异国情调得无可救药。它适合这样的浪漫场景：倚着吃力偏转的船舵，或在十一月偷偷潜入东德。对摩托车手尤其出色；防水而不凝结水汽。
+
+【Jerome Skuba 推荐】
+
+免费目录：J. Barbour and Sons, Ltd., Simonside, South Shields, County Durham, England。
+
+**L/W Thornproof 赛车连体服，$22.00。** “Barbour 大概是世界上最有名的摩托车服；它久经考验，百分之百防水，而且极其耐用。”——《Motorcycle》。
+
+**F/W Thornproof Durham 夹克，$21.00。**
+
+### Kelty Packs
+
+著名背包。
+
+免费目录：Kelty Pack, 1801 Victory Boulevard, Glendale, CA 91201。
+
+#### Kelty 背包价格
+
+背架型号均有全部尺寸；袋体型号均提供两种颜色。
+
+| 背架型号 | A2 袋体 | A4 袋体 | B2 袋体 | B4 袋体 | BB5 袋体 |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Mountaineer | $45.25 | $49.50 | $41.50 | $45.25 | $53.50 |
+| Backpacker | $43.00 | $47.25 | $39.25 | $43.00 | $51.25 |
+
+### Camp and Trail
+
+纽约户外供应商中最受人喜爱的一家。【Annie Helmuth 推荐】
+
+免费目录：Camp and Trail Outfitters, 112 Chambers Street, New York, New York 10007。
+
+**163 号 Mallory 袖珍手电筒。** 配两节 Penlite 碱性锰电池。可连续照明 5 小时，间歇使用 8½ 小时；存放寿命两年。重 4 盎司，长 4 英寸、厚 1½ 英寸，$1.98。替换电池每节 $0.50。
+
+**159 号 Lennan 橡胶手电筒。** 使用两节电池，防水、抗损坏；开关十分出色。空重 8 盎司，$2.95。
+
+### Black’s
+
+据说是英格兰最大的露营装备供应商；Black’s 在纽约州设有一家门市。【Jerome Skuba 推荐】
+
+免费目录：Thomas Black & Sons, 930 Ford Street, Ogdensburg, New York 13669。Black’s 于 1863 年在苏格兰创立。
+
+**特制网眼内衣。** 很受欢迎的内衣：贴近皮肤形成一层隔热空气，使人体在炎热和寒冷天气中都保持正常温度。非常舒适轻便，挪威制造。
+
+- 运动背心，重 4 盎司，$2.95。
+- T 恤，重 5 盎司，$3.50。
+- 短裤，重 4 盎司，$2.95。
+- 长裤，重 8 盎司，$4.95。
+
+**Joe Brown “Extendable” 可扩展背囊。** 由英国登山界的“硬汉”设计，是一款新的滑雪／登山背囊。它结合传统防水棉帆布与防水尼龙的最佳特性，坚固、轻便而防水。特点包括：（a）大型防水尼龙顶盖，内外各有口袋；（b）顶盖两侧有松紧带，可挡风雨；（c）可拆卸的防水尼龙侧袋；（d）固定带使滑雪板能背在侧袋后方；（e）带衬垫的肩带，可快速调节；（f）所有带子均采用动作简便的新式搭扣，戴着连指手套也能调节。主体 13 × 22 × 6½ 英寸；口袋 5 × 9 英寸；重 2 磅 12 盎司，$28.50。
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无。全部型号、规格、价格、目录来源和地址均已保留。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已用 3414×4669 高清扫描逐栏核对；Kelty 价格表、Black’s 背囊六项特点
+  以及 Camp and Trail 两支手电筒的规格均从小字区复核。
+- Poptent 正文的店内参考价为 $60，独立订购栏写明邮资已付 $65；两者均照录。
 
 ## Self Critique
 
-- Pending translation.
+- 已覆盖两顶帐篷、五家供应商、两套 Barbour 防护服、Kelty 十格价格、
+  两支手电筒、四款网眼内衣及 Joe Brown 背囊全文。
+- 未以目录概述替代产品原文，尺寸、重量、功能、价格、署名与地址完整保留。
