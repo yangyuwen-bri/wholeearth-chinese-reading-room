@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 131
+- `source_ready`: 130
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 17
+- `accepted`: 18
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 131 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 130 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -41,3 +41,4 @@ Generate or update this file after each batch.
 - `leaf_016` 的生长形态学图文与《科学之道》全部摘录已完成扫描补漏。
 - `leaf_017` 的应激理论全页、Stapledon 小说原文与 Drucker 信息系统论述
   已全部进入中文稿。
+- `leaf_003` 的目录与 A–I 索引已逐项中译并保留全部页码和新增标记。
