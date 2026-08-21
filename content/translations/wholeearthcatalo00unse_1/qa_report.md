@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 113
+- `source_ready`: 112
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 35
+- `accepted`: 36
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 113 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 112 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -59,3 +59,4 @@ Generate or update this file after each batch.
 - `leaf_031` 的空间秩序长文、胞元参数和多面体截切序列已逐项完成。
 - `leaf_032` 的植物三册、地球面貌长评与环境月刊四则材料已全部覆盖。
 - `leaf_033` 的有机园艺长评、棚架种植步骤、根窖与嫁接图签已完整复核。
+- `leaf_034` 的有机园艺续评、《自己种》摘录、《农业圣约》长评及堆肥坑图已闭环。
