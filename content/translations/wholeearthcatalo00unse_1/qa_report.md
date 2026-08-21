@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 61
+- `source_ready`: 60
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 87
+- `accepted`: 88
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 61 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 60 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -111,3 +111,4 @@ Generate or update this file after each batch.
 - `leaf_083` 的十一项食品来源、两种应急包和两张完整价目规格表已逐项复核。
 - `leaf_084` 的五本食谱评论、五份完整配方及两张成本／用量表已逐项复核。
 - `leaf_085` 的厨具目录、鹿肉处理、三份野外食谱及营养数据表已完整复核。
+- `leaf_086` 的酿酒／酿啤长文、全套设备图、两份配方和完整价目已逐项复核。
