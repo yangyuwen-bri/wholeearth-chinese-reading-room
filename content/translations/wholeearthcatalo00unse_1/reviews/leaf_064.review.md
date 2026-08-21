@@ -2,24 +2,29 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: two book records, reviews, six complete Image excerpts,
+  two long art-history excerpts, the Brancusi customs anecdote, suspense text,
+  short aphorisms, and all meaningful image captions.
+- Translation coverage: all prose, quotations, captions, names, dates, pages,
+  prices, publishers, addresses, and WEC recommendation credits are present.
+- Permitted omissions: decorative rules and uncaptioned photographic texture.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Physical scan 0065 restores the omitted opening of the second review and its
+  $2.50 price.
+- All source arguments are translated as arguments, not paraphrased into topic
+  descriptions.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- One historical photo caption contains a racist period term; the translation
+  identifies the subject without reproducing the slur and documents the choice.

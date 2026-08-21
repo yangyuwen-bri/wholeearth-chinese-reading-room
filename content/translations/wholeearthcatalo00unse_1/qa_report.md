@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 83
+- `source_ready`: 82
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 65
+- `accepted`: 66
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 83 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 82 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -89,3 +89,4 @@ Generate or update this file after each batch.
 - `leaf_061` 的两部工程书、全部图签及山间供水算例与计算已完整覆盖。
 - `leaf_062` 的设计、技术变迁与太阳能三书长评及工程图已完整复核。
 - `leaf_063` 的绘画训练全套步骤与艺术错觉四段论述已完成扫描复核。
+- `leaf_064` 的意象反馈理论与现代艺术全部摘录、图签已完整覆盖。
