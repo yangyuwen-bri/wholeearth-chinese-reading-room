@@ -1,0 +1,171 @@
+# Leaf 049 Translation
+
+## Source Pack
+
+- Issue ID: `wholeearthcatalo00unse_1`
+- Access leaf: `n49`; canonical physical scan leaf: `50` (`wholeearthcatalo00unse_1_0050.djvu`).
+- Printed page: `48`; page type: `Normal`; hand side: `LEFT`.
+- Scan URL: https://archive.org/download/wholeearthcatalo00unse_1/page/n49_w500.jpg
+- High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_1/page/n49_w2000.jpg
+- OCR source: official Internet Archive DjVu XML at `_local/page_xml/wholeearthcatalo00unse_1_djvu.xml`; 988 OCR words / 127 OCR lines. No supplemental OCR used.
+- Scan verification: required before orchestrator acceptance.
+
+### Official OCR Line Transcript
+
+The following is source evidence only. It preserves official OCR line order
+and errors; it is not an approved reading order or a translation.
+
+~~~text
+48
+* § a e
+Your Handspinning Weaving is for Anyone
+~ Rich & inspiring, the theme & theory of this book is that
+anyone can weave on almost anything. Included in one
+volume are instructions for making simple and inexpensive
+looms and a variety of techniques for weaving on these
+looms. There are directions for looms made of cardboard,
+picture frames, boards & nails, boxes; there are round
+looms, bag & backstrap looms. There is a discussion of
+THE book on handspinning.
+The book commences with a discussion of wool & sheep,
+then come chapters devoted to sorting a fleece, learning
+to make a continuous yarn & the art of carding & spinning
+wool. There is an excellent section on the construction, ho
+use & maintenance of spinning wheels & hints on buying
+a wheel. There is information on the cultivation & prep- ee Peruvian, Chilkat, Salish, Navajo, Ghanaian & Coptic
+aration of flax, and the spinning of fibres such as silk, angora ie weaving & beautiful illustrations of these techniques and
+rabbit, camel & other animal hairs. There is a chapter on the looms on which they are woven. There are iMustrated Weaving is for Anyone? ;
+plying & the making of fancy yarns and a section devoted definitions of weaving terms. A chapter entitled “Weaving Jean Wilson
+to the preparation of spun yarns for use——washing, bleaching, from Nature” suggests that a walk in the garden or woods 1967; 144 pp.
+etc. The book concludes with a chapter on machine spun can yield some fine weft material. Over 230 drawings & $8.95 postpaid
+yarns; counts/ qualities & defects/ fibre identification. photos. A good general sourcebook, full of both turn-on wee
+I/lustrated with many line drawings. and good practical information. from: Y
+; ; Fa A Van Nostrand-Reinhold Co.
+[Suggested by Victoria Becker] [Suggested by Ann Marie Goldstein] 450 West 33rd Street
+Your Handspinning
+Elsie Davenport
+1953, 1964; 130 pp.
+$3.95 postpaid
+from:
+Craft & Hobby Book Service
+P.O. Box 626
+Pacific Grove, CA 93950
+New York, N. Y. 10001
+es
+or Craft & Hobby Book Service
+(see p. 51)
+or WHOLE EARTH CATALOG
+or WHOLE EARTH CATALOG
+>
+Dog Combings, etc.
+Many dogs yield combings or clippings which can be spun into
+useful yarns by whichever method is best suited to the length
+and character of the fibres. Poodle clippings, for example, make
+avery pleasant ‘‘woollen’”’ yarn while the lustre of Spaniel hair
+needs a worsted spin. The addition of a little oil prior to combing
+or carding may make spinning easier.
+Combings or clippings should be stored until wanted in an air-tight
+container in a cool place, preferably with a moth deterrent such
+as paradichlorbenzine.
+No instance of the use of cat's hair for spinning has ever come to
+light but it would be quite possible to spin combings of a fine
+haired Persian, especially carded with suitable wool. The author's
+experiments with a mixture of Siamese and camel are not to be
+recommended!
+*
+Procion Fiber Reactive Dyes
+Discovered in England in 1956, these are quite different from
+[These books reviewed. Card Weaving Cards : pee LAA CELE
+Sarah Kahiil other dyes in several respects: brilliance of color, simplicity
+eaaid $2.95 /100 cards of application, and fastness to light & washing. n
+from: Applicable to cotton, linen, rayon & silk, they are not New Key to Weaving
+Lily Mills Co. suitable for dyeing wool. Well suited to the needs of the Z
+Shelby, N. C. 28150 eos : Oa
+me A one-book weaver’s library. A comprehensive textbook
+covering all aspects of loom-weaving. Incredibly packed.
+Section on tapestry weaving alone is worth the costof
+handweaver & stitcher, the printer & batik worker. Used
+in a thickened printing paste, procion dyes are ideal for
+painted warp technique.
+or WHOLE EARTH CATALOG
+—
+a the book. [Suggested by Victoria Becker] _
+Byways in Handweaving Information and prices from: Glen Black New Key to Weaving . i }
+1414 Grant Avenue Mary Black =
+p ; : Z San Francisco, CA 94133 1945, 1949, 1957;573 pp. j
+The book IS concerned with rare weaving techniques and SSSCCSSSSTSSSTSSCASSSCSTAHTASTSKSSSSSTSSSSSSSSSHOHSSTSSSSSSSSS Se sSeseseseeessesesesae = >.
+patterns from ancient Egypt & Peru, modern Guatemala, SSORSSTCSTE SD SRE RTOS CTSA RADDA SEORS RES S RO SSOT SCO SS SESS SOe Rees oseeeeseeeeoenasoeesES $12.00 postpaid
+Scandinavia, the South Pacific, Atlas Mountains and various
+American Indian tribes. Most of the weaves are for narrow
+bands but many may be adapted for wider fabrics.
+from:
+The Bruce Publishing Company
+400 North Broadway
+Milwaukee, Wis. 53201
+There has been a great resurgence of interest in both card-
+and inkle-weaving since this book was first published in
+1954. Both sections include clear text, many pattern
+diagrams & fine color illustrations of finished pieces. The
+rest of the book is concerned with a number of other
+little-known techniques; “primitive” only in the aspect of
+being non-loom, or requiring only the simplest of materials.
+There are examples of twined weaving as practiced in many
+parts of the world as remote from one another as Persia,
+the Subarctic & the South Seas. A fascinating chapter on
+braiding & knotting includes a group of Indian, Egyptian, es : :
+Chinese & Peruvian braids, belt-braiding, Osage braiding. mt af fi at Marie
+Another section deals with some very subtle and beautiful PY 4 ian
+belt-weaves of Peru, Estonia & Guatemala.
+or WHOLE EARTH CATALOG
+HHH
+HWHAA
+HWW HH HO
+betie roe me
+HON HOH
+4
+Included in the book are techniques ranging from those
+simple enough for a child or for use in occupational therapy
+to some rather difficult & intricate methods which should
+be quite stimulating to experienced weavers.
+Byways in Handweaving
+Mary Meigs Atwater
+1954, 1967; 128 pp.
+$7.95 postpaid
+from:
+The Macmillan Company
+Front and Brown Streets
+Riverside, Burlington County, N.J. 08075
+or Craft & Hobby Book Service (see p. 51)
+or WHOLE EARTH CATALOG
+3
+:
+q
+]
+!
+ti
+~~~
+
+## Context Notes
+
+- Source pack generated from the verified public-access/DjVu/scandata mapping.
+- Identify every visible entry, excerpt, caption, diagram, table, signature,
+  and meaningful order/access field against the scan before translation.
+- Do not treat OCR line order as page reading order on multi-column layouts.
+
+## Glossary Updates
+
+
+## Final Translation
+
+
+## Omitted Bibliographic/Order Info
+
+- None recorded at source-preparation stage.
+
+## OCR / Uncertainty Notes
+
+- Translation and high-resolution scan review pending.
+
+## Self Critique
+
+- Pending translation.
