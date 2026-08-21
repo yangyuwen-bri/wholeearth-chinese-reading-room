@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 43
+- `source_ready`: 42
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 105
+- `accepted`: 106
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 43 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 42 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -129,3 +129,4 @@ Generate or update this file after each batch.
 - `leaf_101` 的政府出版物、16 个剩余物资销售处、样价及援助办公室已复核。
 - `leaf_102` 的政府福利、基金会申请全文、名录样例和资助批判文已完整复核。
 - `leaf_103` 的两部户外书长评、17 组原文、引语和技术图签已完整复核。
+- `leaf_104` 的三部登山书、18 组技术原文、绳语及避雷图已完整复核。
