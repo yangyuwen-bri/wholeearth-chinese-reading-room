@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 40
+- `source_ready`: 39
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 108
+- `accepted`: 109
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 40 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 39 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -132,3 +132,4 @@ Generate or update this file after each batch.
 - `leaf_104` 的三部登山书、18 组技术原文、绳语及避雷图已完整复核。
 - `leaf_105` 的睡袋、自制装备纸样、Frostline 长评及 L.L.Bean 商品已复核。
 - `leaf_106` 的四家户外供应商、布料与包机表、睡袋及全部商品规格已复核。
+- `leaf_107` 的六家供应商、全部装备广告、附件价目与订购资料已复核。
