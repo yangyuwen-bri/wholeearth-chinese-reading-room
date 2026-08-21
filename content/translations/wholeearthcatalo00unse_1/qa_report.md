@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 102
+- `source_ready`: 101
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 46
+- `accepted`: 47
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 102 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 101 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -70,3 +70,4 @@ Generate or update this file after each batch.
 - `leaf_042` 的混凝土、膜材、塑料、密封胶、胶带及杂项材料目录已逐条完成。
 - `leaf_043` 的三部木工书、四册工艺入门书及所有技术图文已逐段复核。
 - `leaf_044` 的六家工具／木材供应商、商品规格与完整价格表已扫描复核。
+- `leaf_045` 的殖民工艺三书选文、图签及 Craftool 全套设备目录已完整翻译。
