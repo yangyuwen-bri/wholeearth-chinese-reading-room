@@ -2,24 +2,25 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: 《空间中的秩序》的评论、书目、哲学论述和 A—C 几何转化；
+  《空间围合系统》两卷评论、书目与参数；《结构手册》评论、书目和截切序列。
+- Translation coverage: 全部正文、顶点编号关系、角度参数、金额、地址和图解名称
+  均进入 `Final Translation`。
+- Permitted omissions: 无文字的球形人体叠图不另作视觉解释。
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- 高清图确认三本资源的版框和几何术语；球面思维与立方八面体转化说明逐段对应，
+  没有用“空间几何学资料”概括。
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- 低；第 205 号图中的参数按扫描可读字符转写，结构形态仍可与原图并排核对。
