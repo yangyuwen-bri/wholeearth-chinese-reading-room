@@ -211,18 +211,189 @@ we 1 gallon Seon Desde 60 per pound plating equipment. Also British suppliers. ]
 
 ## Glossary Updates
 
+- `sand casting`：砂型铸造。
+- `forge welding`：锻焊。
+- `upsetting`：镦粗；锤击端部使截面增厚。
+- `fibula`：别针式饰针／腓骨形扣针。
+- `intaglio`：凹刻纹样。
+- `jewelry findings`：首饰配件，如扣、托、环等半成品零件。
+- `slip`：泥浆；可灌入模具进行注浆成形。
+- `cone 07–10`：测温锥号，用于表示陶瓷烧成范围。
 
 ## Final Translation
 
+### 《工匠金属技法》
+
+读完这本书，你懂的金属加工会比认识的几乎任何人都多。它放眼全球，收集了许多国家和文化中多得惊人的技法。每一种都有一整套操作说明，并配出色照片，常常拍的是当地工匠亲手工作。工具也有详尽说明和图解。**一切**都讲得很细。这本书会把你一直带到这样一个关口：若想再往深处走，就必须自己动手做上一阵。
+
+这里真正汇集了形形色色的资料，有些很难找到；金属工匠兼珠宝匠拿到书一小时之内，就应能开始尝试新东西。这种罕见的超级好书，出自一个真想把自己的整套体验传给别人的人。非常值这个价。正如人们所说，它是“定本”。
+
+【Claudio Marzollo 推荐；Jay Baldwin 评论】
+
+> **《工匠金属技法》（*Metal Techniques for Craftsmen*）**
+> Oppi Untracht
+> 1968；509 页
+> 邮资已付 19.95 美元
+> Doubleday & Co.
+> 501 Franklin
+> Garden City, N. Y. 11531
+> 或由《全球概览》订购
+
+#### 铝的砂型铸造
+
+砂型铸造是最知名、使用最频繁的铸造工艺。（操作讨论见第 325 页。）铝所用的方法与其他有色金属相同，但要谨慎控制温度。小型砂铸件能做到的最小截面通常认为是 3/16 英寸。砂铸表面的质感取决于所用型砂的细度；大型铸件宜用较粗的砂。铝砂铸件表面通常比其他砂铸金属平滑，一部分原因是铝所需熔点较低，另一部分是砂不会烧结进铸件表面。
+
+图注：印度 Tanjore 的工匠采用金属装饰的“nagas”或“swami”工艺，把结壳式银质装饰圆章固定在黄铜板上。
+
+#### 锻焊
+
+锻焊是最古老的焊接工艺。熟铁和低碳钢可以这样锻焊：把待接合部位加热到炽亮白热并冒出火星。此时金属表面已进入塑性状态；随后迅速让两个部位上下叠合接触，再锤打在一起，它们便熔合成一个整体。
+
+对接接头可先把待接端镦粗、加厚，再把两端重新加热到焊接温度，对合并锤打，从而保持原有厚度。如果金属绝对干净，没有油或氧化渣，就不需要焊剂，因为熟铁中的炉渣本身会充当焊剂。锤击所需力量取决于接合零件的质量与尺寸。
+
+铁砧图标出：跟部、冲孔、方孔、砧面、台阶和砧角；上方另示各种插入方孔的砧上工具。
+
+#### 图版说明
+
+- 希腊青铜丝“眼镜式”饰针，公元前十至八世纪（几何时期）；背视图，长 5 5/16 英寸。包括针杆和扣钩在内，整枚针完全由一根连续金属丝制成。纽约大都会艺术博物馆，Fletcher Fund，1937。
+- Mary Ann Scherr 制作的纯银项链，使用 18 号金属片；长 16 1/2 英寸，每个单元 3 1/2 × 1/2 英寸。凹刻纹样用一半硝酸、一半水的蚀刻液制成，随后氧化处理。
+
+### 陶艺材料
+
+两个来源。有没有人用过，愿意评价？
+
+【Helen Doolittle 推荐】
+
+> Westwood Ceramic Supply Co.
+> 14400 Lomitas Avenue
+> City of Industry, CA 91744
+
+> Castle Clay Products, Inc.
+> 1055 South Fox Street, Unit No. 2
+> Denver, Colorado 80223
+
+#### Westwood 海绵
+
+所列海绵均产自地中海，品质为世界最高等级。它们比别的海绵略贵，但额外的使用寿命足以补偿价差。
+
+- **Rock Island 海绵：**通用型，吸水性强，非常适合清理；约 6 英寸长，1.25 美元。
+- **象耳海绵：**用途广的扁平细孔海绵，广泛用于拉坯和最后抹平。1 号约 5 英寸，1.40 美元；2 号约 3 英寸长，0.40 美元。
+
+#### 给一直想注浆制作炻器的人
+
+这是一种可靠炻器泥浆，可注入所有标准模具。它含许多粗颗粒，能形成带肌理的表面；适配我们的标准 5 号测温锥釉料，在电窑和燃气窑中都烧得很好，成品玻化、坚硬、不吸水。仅供应干料。颜色：1 号浅黄褐、2 号红、3 号棕。
+
+| 数量 | 价格 |
+|---|---:|
+| 50 磅 | 3.50 美元 |
+| 100 磅 | 5.50 美元 |
+| 500 磅 | 每百磅 4.50 美元 |
+| 1,000 磅 | 每百磅 4.00 美元 |
+| 1 吨 | 74.00 美元 |
+| 2 吨 | 每吨 69.00 美元 |
+
+#### Castle Clay 乐烧土
+
+- 烧成颜色：氧化焰——白色。
+- 烧成范围：测温锥 07–10。
+- 工作特性：细粒黏土，适于拉坯或手工成形；可选细、中、粗熟料颗粒。
+- 包装：湿料——10 磅塑料袋装入纸箱；25 磅塑料袋，两袋装入 50 磅重型塑料运输袋。干料——50 磅重型塑料运输袋。
+- 价格：科罗拉多州 Denver 工厂交货。
+
+| 状态与包装 | 数量 | 每 100 磅价格 |
+|---|---:|---:|
+| 湿料，可直接使用；25、50 磅装 | 1,000 磅以内 | 8.00 美元 |
+| 同上 | 1,000–2,000 磅 | 7.25 美元 |
+| 同上 | 2,000 磅以上 | 7.00 美元 |
+| 湿料，可直接使用；10 磅装 | 1,000 磅以内 | 10.00 美元 |
+| 干混料；25、50 磅装 | 1,000 磅以内 | 7.50 美元 |
+| 同上 | 1,000–2,000 磅 | 7.25 美元 |
+| 同上 | 2,000 磅以上 | 7.00 美元 |
+
+### 胶黏材料
+
+低价硅橡胶翻模料（什么都能翻！），以及 Monzini 环氧基浇注料。二十世纪材料。
+
+【Jeff Schlanger 推荐并评论】
+
+小册子及价目表免费，索取：
+
+> Adhesive Products Corp.
+> 1660 Boone Avenue
+> Bronx, N. Y. 10460
+
+- 1 1/2 品脱套件（1 1/2 磅）：含 1 磅 ADRUB RTV 与 1/2 磅 ADRUB RTV 橡胶硬化剂；6.00 美元。
+- 4530 MONZINI IRONZINI：5 加仑装每磅 0.50 美元；1 加仑装每磅 0.60 美元。
+
+### 通用工具与材料来源
+
+#### 纽约
+
+- Allcraft Tool and Supply Co., Inc., 15 West 45th Street, New York, N. Y. 10036。
+- Anchor Tool Co., 12 John Street, New York, N. Y. 10007。
+- Craftool, Inc., 396 Broadway, New York, N. Y. 10013。
+- Gamzon Bros., 15 West 47th Street, New York, N. Y. 10036。
+- Paul H. Gesswein & Co., Inc., 235 Park Avenue South, New York, N. Y. 10003。
+- I. Shor Co., Inc., 64 West 48th Street, New York, N. Y. 10036。
+- Standard Diamond Tool Co., Inc., 71 West 47th Street, New York, N. Y. 10036。
+- John Sells and Sons, 66 West Broadway, New York, N. Y.。
+
+#### 东部各州（纽约除外）
+
+- Craft Service, 337–341 University Avenue, Rochester 7, N. Y.——工具与材料。
+- William Dixon, Inc., 32 East Kinney Street, Newark 1, N. J.——工具与材料。
+- American Handicrafts Co., 45–49 South Harrison Street, East Orange, N. J.。
+- T. B. Hagstoz & Son, 709 Sansom Street, Philadelphia 6, Pa.。
+- B. A. Ballou and Co., Inc., 61 Peck Street, Providence, R. I.——首饰配件。
+- Capitol Tool and Findings Co., Inc., 100 Delaine, Providence 9, R. I.。
+- W. R. Cobb Co., 101 Sabin Street, Providence, R. I.——首饰配件。
+- Manin Jewelers Supply Co., Inc., 373 Washington Street, Boston 8, Mass.。
+- C. W. Somers Co., 387 Washington Street, Boston 8, Mass.——珠宝材料。
+- General Findings, Inc., Attleboro, Mass.——各种金属的首饰配件。
+- Arts and Crafts Distributors, Inc.（展销与服务中心），9520 Baltimore Avenue, College Park, Md.。
+- Bergen Handcraft Supplies, 300 S. W. 17th Avenue, Miami, Fla.。
+
+#### 中西部与南部
+
+- Brodhead Garrett & Co., 4560 East 71st Street, Cleveland 5, O.——工具与材料。
+- Ohio Jeweler’s Supply, Inc., 1000 Schofield Building, Ninth and Euclid Ave., Cleveland 15, O.。
+- Snapvent Company, 1107 West Cumberland Avenue, Knoxville, Tenn.——工具与材料。
+- C. R. Hill Co., 35 West Grand River, Detroit 26, Mich.——金属与工具。
+- Bartlett & Co., Inc., 5 South Wabash Avenue, Room 819, Chicago, Illinois——小型工具与珠宝材料。
+- The Jewelry Craftsman Co., 139 North Wabash Avenue, Chicago 2, Ill.——首饰配件。
+- Ernest Linick Co., 5 South Wabash Avenue, Chicago 3, Ill.——珠宝匠材料。
+- C. and E. Marshall Co., 1445 West Jackson Boulevard, Chicago, Ill.。
+- Sax Crafts, 1101 North 3rd Street, Milwaukee, Wis.——金属、工具和配件。
+- Gagers Handicraft, 1024 Nicollet Avenue, Minneapolis 3, Minn.——工具。
+- Norvell Marcum Co., 223 East Third, Tulsa 3, Okla.——手工具、珠宝匠材料。
+- New Orleans Jeweler’s Supply Co., 208 Chartres Street, New Orleans, La.。
+- Southland Jeweler’s Supply Co., 213 Baronne Street, New Orleans, La.。
+
+#### 西部
+
+- Baker Platinum（Engelhard Industries 分部），760 Market Street, San Francisco, Calif.——珠宝材料、配件和金属。
+- Miller Tool and Supply Co., 1044 Folsom Street, San Francisco, Calif.。
+- Nordman & Aurich, 657 Mission Street, San Francisco, Calif.——工具、珠宝匠材料和配件。
+- Williams & Peterson, 130 Geary Street, San Francisco, Calif.。
+- J. J. Jewelcraft, 2732 Colorado Boulevard, Los Angeles 41, Calif.——珠宝匠与宝石加工工具、材料。
+- Grieger and Co., 1633 East Walnut Street, Pasadena 4, Calif.——工具、材料与宝石加工设备。
+- L. A. Clark Co., 1417 4th Avenue, Seattle, Wash.。
+
+Untracht 还列出了电动工具、化学品、宝石、磨料、铸造用品、焊接用品、铸造厂、木材和电镀设备的来源，以及英国供应商。
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已核对 3473×4669 高清 JP2。扫描恢复了三张陶艺／胶黏材料小价目表和
+  四区共四十项供应商地址，并纠正 OCR 将供应清单插入产品广告的问题。
+- 历史地址中的旧式邮政分区（如 `Rochester 7`）按原样保留；没有换写成
+  现代邮编。陶土价表的 `Cwt` 按每百磅明确翻译。
 
 ## Self Critique
 
-- Pending translation.
+- 主书评论、铝砂铸与锻焊技术全文、三项图版说明、陶艺产品广告／价目表及
+  全部地区供应商均逐项中译，没有用金属工艺或采购来源摘要替代原文。
+- 技术规格、化学配比、烧成范围、包装、批量价与用途标签均可逐条回查。
