@@ -2,24 +2,26 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: 《生命的应激》的九段收录标准长评、书目、应激定义、科学
+  发现、自然问答、适应能量、三阶段图与全部短文；《造星者》的评论、书目和
+  四段小说原文；《断裂的时代》的评论、书目及两段信息系统论述。
+- Translation coverage: 三部书的全部可见正文、引文、数值、金额、地址、图表
+  标签和评者署名均进入 `Final Translation`，交错 OCR 已按版框重新归属。
+- Permitted omissions: 三张书封没有正文之外的新文字；装饰分隔点不译。
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- 对高清扫描逐框复核确认，特别是曾被错误做成总结的《造星者》已保留旅行、
+  地球、无身飞行、恒星心灵与最终陈述的全部原文段落；另外两书也无删节漂移。
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- 低；历史医学内容按 1956 年原书呈现，不能视为当代自我治疗建议。
