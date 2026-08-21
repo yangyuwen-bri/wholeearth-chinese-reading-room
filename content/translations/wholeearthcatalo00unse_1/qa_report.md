@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 56
+- `source_ready`: 55
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 92
+- `accepted`: 93
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 56 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 55 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -116,3 +116,4 @@ Generate or update this file after each batch.
 - `leaf_088` 的三本经济／思想书全部长评与十二个原文论证区块已完整复核。
 - `leaf_089` 的四项主条目、三册名录、全部长引文与五条术语定义已完整复核。
 - `leaf_090` 的四项主题、通讯订阅规则、合作商店全文及死亡研究病例已完整复核。
+- `leaf_091` 的医学问答、读者信、三项诊疗资料、图示及 DMT 化学条目已完整复核。
