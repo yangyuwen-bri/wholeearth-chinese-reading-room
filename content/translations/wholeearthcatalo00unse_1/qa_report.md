@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 63
+- `source_ready`: 62
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 85
+- `accepted`: 86
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 63 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 62 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -109,3 +109,4 @@ Generate or update this file after each batch.
 - `leaf_081` 的圣经／老子／Walton 全部书目长评及两则科学书评已完整复核。
 - `leaf_082` 的 Pound 全部摘录、McLuhan 格言及两则广告全文已完整复核。
 - `leaf_083` 的十一项食品来源、两种应急包和两张完整价目规格表已逐项复核。
+- `leaf_084` 的六本食谱评论、五份完整配方及两张成本／用量表已逐项复核。
