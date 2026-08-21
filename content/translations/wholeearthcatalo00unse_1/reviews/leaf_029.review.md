@@ -2,24 +2,25 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: Frei Otto 两卷书的书评、书目、双泡／钢球／温室、拉索桅杆／
+  脊柱摘录；Sweet’s 的完整评论、地址和双铰圆弧结构图。
+- Translation coverage: 全部正文、公式、图注、尺寸、金额、地址和推荐署名均进入
+  `Final Translation`。
+- Permitted omissions: 无字膜形草图与展馆照片不另作形态描述。
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- 高清扫描确认卷次、跨栏阅读顺序和公式；两卷的技术原文及 Sweet’s 全文均逐段
+  对应，没有以“张力结构资料”概括。
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- 低；公式按原图转写，图中无图例的几何演化序列保留原扫描供并排查看。
