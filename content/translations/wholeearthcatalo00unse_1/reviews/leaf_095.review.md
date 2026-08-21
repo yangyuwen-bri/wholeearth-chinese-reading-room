@@ -2,24 +2,29 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: two long reviews and book records; nine How to Live tips;
+  eight Champagne Living consumer/public-service excerpt groups.
+- Translation coverage: all prose, recipe quantities, prices, addresses,
+  organization names, category lists, and parenthetical suburban essay.
+- Permitted omissions: decorative book-cover imagery that repeats titles.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The 3481x4711 scan was used to restore lower-right prose absent or broken in
+  OCR and to verify all numeric terms.
+- Neither long review was shortened into a synopsis; the full suburban-
+  guerrilla parenthesis is preserved.
+- Historical practical advice is clearly bounded from current guidance.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Consumer prices, addresses, product care, and travel arrangements are period
+  evidence and may no longer be safe, accurate, or available.
