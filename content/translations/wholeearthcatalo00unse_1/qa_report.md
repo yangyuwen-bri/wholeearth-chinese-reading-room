@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 93
+- `source_ready`: 92
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 55
+- `accepted`: 56
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 93 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 92 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -79,3 +79,4 @@ Generate or update this file after each batch.
 - `leaf_051` 的扎染、丝印、塑料／玻璃工艺和艺术材料原文已完整覆盖。
 - `leaf_052` 的管风琴术语、Velodur 技术报告、工艺材料和狄德罗图版已逐项复核。
 - `leaf_053` 的历史配方、测量／电机图表、家电维修表及 IEEE 目录已完整覆盖。
+- `leaf_054` 的实验器材、涂料参数、坐标纸价目及工业供应信息已逐项复核。
