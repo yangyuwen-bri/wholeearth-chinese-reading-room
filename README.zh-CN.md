@@ -49,6 +49,7 @@
 | 层级 | 用途 | 当前例子 |
 | --- | --- | --- |
 | 阅读室 | 面向读者的公开界面，保留原书扫描页上下文 | `reader-prototype/index.html` |
+| 翻译包 | 逐叶源文证据、完整中文译文、审校记录与 QA 状态 | `content/translations/` |
 | 导读与地图 | 单期导读、主题地图、可视化阅读索引 | `content/readings/`、`content/maps/` |
 | 工作台 | OCR dossier、页级证据、锚点核查、检索包 | `data/evidence_dossiers/`、`data/issue_agents/` |
 
@@ -60,6 +61,9 @@
 | --- | --- |
 | 公开首页 | WebGL 文库控制台，已部署到 GitHub Pages |
 | 已开放阅读室 | 1969 年秋季 *Whole Earth Catalog*；1974 年 10 月 *Whole Earth Epilog* |
+| 已验收完整翻译包 | *Whole Earth Catalog*：1968 年秋季号（68/68 页）、1969 年春季号（134/134 页）、1969 年秋季号（132/132 页） |
+| 翻译进行中 | *Whole Earth Catalog* 1970 年春季号：4/148 页 accepted，另有 144 页 source-ready |
+| 已并入 `main`、待 Pages 发布的阅读器 | *Whole Earth Catalog* 1968 年秋季号、1969 年春季号 |
 | 视觉小册子 | *Whole Earth Epilog*, 1974 章节小册子 |
 | 已完成中文导读 | *Whole Earth Software Catalog 2.0*, 1985 年秋 |
 | 已索引出版物 | 147 期 |
@@ -79,6 +83,7 @@ content/
   samples/         # 早期页级阅读样例
   vendor/          # 静态浏览器依赖
   visuals/         # 独立插画小册子和视觉导读
+  translations/    # 逐叶译文、审校、状态和 QA 记录
 
 data/
   evidence_dossiers/  # 单期 OCR 证据材料
@@ -87,6 +92,7 @@ data/
 
 reader-prototype/
   index.html          # 已发布期刊共用的扫描对照阅读室
+  1968/, 1969/        # 已验收、待发布的单期阅读器
   data/               # 生成的阅读器 JSON 和锚点核查数据
 
 scripts/
@@ -127,6 +133,7 @@ http://127.0.0.1:8911/
 ## 路线图
 
 - 稳定 WebGL 控制台，把它作为文库首页。
+- 完成 Pages 集成检查后，发布已验收的 1968 年秋季号和 1969 年春季号阅读器。
 - 将完成的阅读室迁移到稳定的 `/readers/<issue>/` URL 结构。
 - 把更多中文导读推进成可对照扫描页的完整阅读室。
 - 将公开页面和工作台 dossier、本地 QA 材料分开。

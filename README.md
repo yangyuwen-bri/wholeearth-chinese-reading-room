@@ -49,6 +49,7 @@ The repository separates public reading material from research workbench materia
 | Layer | Purpose | Current example |
 | --- | --- | --- |
 | Reading room | Public reading interface with original scan context | `reader-prototype/index.html` |
+| Translation package | Leaf-level source evidence, complete Chinese text, reviews, and QA state | `content/translations/` |
 | Guide and map | Issue-level Chinese guide, atlas, or thematic map | `content/readings/`, `content/maps/` |
 | Workbench | OCR dossier, page evidence, anchor audit, retrieval bundle | `data/evidence_dossiers/`, `data/issue_agents/` |
 
@@ -60,6 +61,9 @@ Promotion from workbench to reading room is manual. The near-term goal is a smal
 | --- | --- |
 | Public home | WebGL console deployed on GitHub Pages |
 | Open reading rooms | *Whole Earth Catalog*, Fall 1969; *Whole Earth Epilog*, October 1974 |
+| Accepted full translation packages | *Whole Earth Catalog*: Fall 1968 (68/68 leaves), Spring 1969 (134/134), Fall 1969 (132/132) |
+| Translation in progress | *Whole Earth Catalog*, Spring 1970: 4/148 leaves accepted; 144 source-ready |
+| Readers integrated in `main`, awaiting Pages publication | *Whole Earth Catalog*: Fall 1968 and Spring 1969 |
 | Visual booklet | *Whole Earth Epilog*, 1974 chapter booklet |
 | Full Chinese guide | *Whole Earth Software Catalog 2.0*, Fall 1985 |
 | Indexed issues | 147 |
@@ -79,6 +83,7 @@ content/
   samples/         # historical page-level reading samples
   vendor/          # static browser dependencies
   visuals/         # independent illustrated booklets and visual guides
+  translations/    # leaf-level translations, reviews, status, and QA records
 
 data/
   evidence_dossiers/  # issue-level OCR evidence
@@ -87,6 +92,7 @@ data/
 
 reader-prototype/
   index.html          # synchronized reading room for published issues
+  1968/, 1969/        # accepted issue readers integrated before publication
   data/               # generated reader JSON and anchor audit data
 
 scripts/
@@ -127,6 +133,7 @@ The repository is already a static site, so it can move to Cloudflare Pages with
 ## Roadmap
 
 - Stabilize the WebGL console as the library home page.
+- Publish the accepted Fall 1968 and Spring 1969 readers after Pages integration checks.
 - Move finished readers toward a stable `/readers/<issue>/` URL pattern.
 - Promote more issue guides into full scan-linked reading rooms.
 - Keep public pages separate from workbench dossiers and local QA material.
