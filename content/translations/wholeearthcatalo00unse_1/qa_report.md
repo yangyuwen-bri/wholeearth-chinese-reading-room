@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 129
+- `source_ready`: 128
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 19
+- `accepted`: 20
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 129 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 128 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -43,3 +43,4 @@ Generate or update this file after each batch.
   已全部进入中文稿。
 - `leaf_003` 的目录与 A–I 索引已逐项中译并保留全部页码和新增标记。
 - `leaf_004` 的 I–Y 索引已逐项中译，并从扫描恢复 OCR 漏行与错位注释。
+- `leaf_018` 的未来学三项出版物、全部清单、价值图和城市食物系统已完整翻译。
