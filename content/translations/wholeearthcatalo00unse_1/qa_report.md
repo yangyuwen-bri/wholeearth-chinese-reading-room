@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 121
+- `source_ready`: 120
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 27
+- `accepted`: 28
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 121 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 120 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -51,3 +51,4 @@ Generate or update this file after each batch.
 - `leaf_023` 的石屋长引文、自建住宅施工图与完整隔热论述已扫描复核。
 - `leaf_024` 的木工、估算、管线和混凝土手册连同表格、图注已全部覆盖。
 - `leaf_025` 的 Audel 指南、电气规范、钢丝网水泥与原木屋资料已完整复核。
+- `leaf_026` 的毡房、链锯制材、荒野木屋与胶合板资料清单已逐项完成。
