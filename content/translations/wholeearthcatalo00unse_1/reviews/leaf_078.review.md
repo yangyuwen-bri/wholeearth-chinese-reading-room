@@ -2,24 +2,29 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: the complete electronics-page overview and seven book
+  records; resistance art text; feedback-coil, vacuum-tube, receiving-set,
+  transistor and phase excerpts/captions; SCR reference; and the full FM
+  antenna, mechanical-hum and acoustic-feedback passages.
+- Translation coverage: every prose block, book field, price, address, circuit
+  label, measurement, figure caption and credit has a Chinese counterpart.
+- Permitted omissions: uncaptioned cover and component-image texture only.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Physical scan 0079 restores seven interleaved records and several OCR-missed
+  prices and antenna labels.
+- Technical source passages are translated directly rather than summarized.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- The three McGraw-Hill location lines are preserved in source order even
+  though the scan does not repeat a publisher label before each location.
