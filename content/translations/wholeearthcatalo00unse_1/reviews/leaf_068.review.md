@@ -2,24 +2,30 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: three main book records plus one supplemental title; brain
+  anatomy labels; four complete brain excerpts; biological-mathematics review,
+  three complete perceptron/memory excerpts and diagram; dream review and three
+  complete research excerpts.
+- Translation coverage: all prose, experiments, quantities, labels, captions,
+  bibliographic/order fields, prices, addresses, names, and credits are present.
+- Permitted omissions: unlabelled illustrative geometry only.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Physical scan 0069 restores the OCR-truncated opening and confirms the full
+  publisher address.
+- Each source argument and experiment remains complete prose, not a summary of
+  findings.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Scientific claims are historical source content and should not be read as
+  current clinical guidance.
