@@ -2,24 +2,31 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: Earth Flag, VSC newsletter and subscription note, co-op
+  store article, Simple Burial review/cover contents, and Death and Dying
+  review plus four case excerpts.
+- Translation coverage: all prose, title/author/year/page/price/address fields,
+  dimensions, donation thresholds, list items, and the cross-column article.
+- Permitted omissions: purely decorative artwork and cover typography that
+  repeats titles already transcribed.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Reading order and small type were checked against the 3414x4669 scan.
+- The lower-center co-op article and bottom-right VSC subscription terms were
+  treated as source text rather than captions or summaries.
+- All four clinical/anecdotal passages from On Death and Dying remain distinct
+  and complete.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Historical prices, addresses, and medical terminology are preserved as 1970
+  catalog evidence and are not current service advice.
