@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 76
+- `source_ready`: 75
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 72
+- `accepted`: 73
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 76 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 75 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -96,3 +96,4 @@ Generate or update this file after each batch.
 - `leaf_068` 的大脑机制、感知机记忆与三组梦研究原文已完整翻译。
 - `leaf_069` 的六项影视资源、器材技术与两段电影访谈已完整覆盖。
 - `leaf_070` 的电影制作全套技术文／索引及质朴戏剧长文已逐项复核。
+- `leaf_071` 的三种合成器、完整价目表、吉他制作图文和全部音响器材已逐项复核。
