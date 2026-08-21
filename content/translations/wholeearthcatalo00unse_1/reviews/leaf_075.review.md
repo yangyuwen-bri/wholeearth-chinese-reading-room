@@ -2,24 +2,32 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: the complete Supply and Demand review, three principles,
+  book excerpt and order record; AAA's review, eleven Model-126 features and
+  price; the Strategy & Tactics review, rule excerpt, two game ads and order
+  fields; the Indecks review, fourteen price lines and sorting instructions;
+  and the Cascades record.
+- Translation coverage: every prose block, rule, product/game name, model,
+  quantity, dimension, price, list item, caption, credit and address has a
+  Chinese counterpart.
+- Permitted omissions: uncaptioned photographic texture only.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Physical scan 0076 restores five interleaved page regions and the OCR-missed
+  cash-register price.
+- Catalog and game descriptions remain direct translations rather than
+  compressed editorial summaries.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- One Model-126 feature is grammatically repetitive in the source; it is
+  preserved and disclosed instead of silently normalized.
