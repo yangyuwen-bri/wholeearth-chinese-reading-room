@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 89
+- `source_ready`: 88
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 59
+- `accepted`: 60
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 89 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 88 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -83,3 +83,4 @@ Generate or update this file after each batch.
 - `leaf_055` 的手工具目录、精密工具及两件军余设备规格已逐件扫描复核。
 - `leaf_056` 的批发工具、螺纹规格、航空军余件、绞盘与量表已逐项完成。
 - `leaf_057` 的余剩品评论、Unistrut 全文及 A—V 桥型图例已完整复核。
+- `leaf_058` 的 Thomas 查询、物性数据表、机械手册及钻床图签已完成高清复核。
