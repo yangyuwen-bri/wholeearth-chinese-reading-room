@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 124
+- `source_ready`: 123
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 24
+- `accepted`: 25
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 124 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 123 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -48,3 +48,4 @@ Generate or update this file after each batch.
 - `leaf_020` 的生态城市方案、太空生存论述、微缩化图和地方民居引文已闭环。
 - `leaf_021` 的测地、空间网格与结构设计三部技术书及气球算例已完整翻译。
 - `leaf_022` 的三种穹顶住宅、O’Dome 装配图及 Futuro 十五项规格已逐项完成。
+- `leaf_023` 的石屋长引文、自建住宅施工图与完整隔热论述已扫描复核。
