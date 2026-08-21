@@ -2,24 +2,32 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: the Reader's Adviser record and review; complete King James
+  and Oxford Bible passages; nine Lao-tzu bibliography records; William James
+  record/blurb; the complete Walton review, Rexroth quotation and two follow-up
+  records; Science Books service copy and two full reviews; Movement Speakers
+  Bureau; and Whole Earth Catalog review, price schedule and order address.
+- Translation coverage: every stable prose block, quotation, bibliography row,
+  person name, title, date, price, page count, issue code and address has a
+  Chinese counterpart.
+- Permitted omissions: only decorative cover and publication photography.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Physical scan 0082 restores the correct three-column and cross-page reading
+  order that official OCR interleaves.
+- Long source excerpts and bibliography rows are translated directly rather
+  than compressed into descriptions.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- None.
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Historical romanization and publisher abbreviations are retained as printed
+  where a modernized Chinese equivalent could create false precision.
