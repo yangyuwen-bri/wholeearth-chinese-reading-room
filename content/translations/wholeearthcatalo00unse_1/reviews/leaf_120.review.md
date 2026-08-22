@@ -2,24 +2,31 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: two survival books, Army survival manual, two survival-kit
+  products, annotated bibliography, all reviews, self-protection excerpts,
+  two survival tables, diagrams, casting instructions, inventory, and addresses.
+- Translation coverage: every visible prose block, table cell, list item,
+  diagram label, specification, price, and ordering field is translated.
+- Permitted omissions: the first digit of the small kit's ounce weight is cut
+  off by the original scan edge; the omission is disclosed and not reconstructed.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The 3414×4669 scan resolves the dense column order and confirms the two
+  survival tables, snow-cave labels, and full M2/f inventory.
+- Violent, toxic-metal, pyrotechnic, and military source passages are preserved
+  as historical text and separated from an explicit modern safety notice.
+- No list, technical excerpt, or book discussion has been replaced by summary.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- One source number remains physically cropped at the scan edge; all other
+  legible quantities and wording have been verified.

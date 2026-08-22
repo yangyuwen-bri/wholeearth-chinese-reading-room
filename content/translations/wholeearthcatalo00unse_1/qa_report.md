@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 27
+- `source_ready`: 26
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 121
+- `accepted`: 122
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 27 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 26 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -104,6 +104,8 @@ Generate or update this file after each batch.
   比例尺、价格、地址及六条表格记录均按高清扫描校正。
 - `leaf_119` 的旅行名录、商品、三部旅行书及十八段跨洲路线表已逐项复核；
   历史搭便车原文完整保留并另附现代安全提示。
+- `leaf_120` 的生存书、两组饮水表、军事原文、雪洞图签、求生包完整清单与
+  伪装书目均已逐项复核，危险历史内容另附现代安全提示。
 - `leaf_073` 的三本数学书、全部模型制作步骤、公式、数表与图注已逐项复核。
 - `leaf_074` 的三本数学书、群论长文、Escher 图版与 Venn 图说明已完整复核。
 - `leaf_075` 的供需理论、收银机规格、战争游戏与 Indecks 全套资料已逐项复核。
