@@ -2,24 +2,32 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: The Job review and all interview passages, Aikido review
+  and three illustrated technique excerpts, Humanitas six-item catalog, and
+  Psychophysics three-device notice.
+- Translation coverage: every paragraph, dialogue, exercise/training sequence,
+  caption, product, price, address, attribution, and book field is translated.
+- Permitted omissions: nonverbal cover and martial-art line drawings only; all
+  meaningful adjacent instructions and labels are retained.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The 3381×4669 scan restores the upper interview, lower-left Aikido, and
+  lower-right equipment blocks after severe OCR interleaving.
+- Latin quotation, dates, prices, names, device list, and the complete political
+  dialogue match the scan; no long passage is reduced to summary.
+- Drug, weapon, shock, surveillance, and martial-art risks are clearly separated
+  into a present-day safety and ethics note.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Historical political and psychological assertions are not current factual or
+  clinical endorsements; dangerous techniques require qualified oversight.
