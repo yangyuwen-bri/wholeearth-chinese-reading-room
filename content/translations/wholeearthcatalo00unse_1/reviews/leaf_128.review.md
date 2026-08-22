@@ -2,24 +2,32 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: Open Classroom, Educator's Guide to Free Films and its two
+  sample records, Kaiser Aluminum News, Index to 16 mm Educational Films,
+  Media & Methods, two film notices, distributor list, and all standalone quotes.
+- Translation coverage: every review, excerpt, list item, film description,
+  price, address, attribution, edition field, and visible caption is translated.
+- Permitted omissions: nonverbal cover, camera, decorative silhouettes, and
+  Ouroboros drawing only; their meaningful adjacent text is retained.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The 3414×4669 scan restores the three-column order that OCR interleaves and
+  confirms the standalone educational and minimum-law quotations.
+- Film durations, title count, dates, page counts, prices, seven distributor
+  addresses, and all ordering fields match the scan.
+- Long source passages are translated paragraph by paragraph without being
+  reduced to catalog summaries.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- The printed vendor string `Rathon, Ind.` may contain a historical typesetting
+  anomaly, but it is preserved because the scan does not justify emendation.
