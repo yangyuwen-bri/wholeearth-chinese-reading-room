@@ -2,24 +2,23 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: 三部航海书、全部图签、三家供应商、六分仪／刀／绳／通风器／铰链。
+- Translation coverage: 正文、问题清单、型号、规格、两张价目和地址全部译出。
+- Permitted omissions: 仅省略无文字信息的书影。
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- 对照 3414×4669 高清扫描逐栏复核，纠正通风器重量并恢复绳索八行价格。
+- 未发现总结替代或跨栏错配。
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- 六分仪与绳索均为历史商品资料，不代表当前导航或承载安全标准。

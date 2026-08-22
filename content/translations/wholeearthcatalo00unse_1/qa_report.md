@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 31
+- `source_ready`: 30
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 117
+- `accepted`: 118
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 31 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 30 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -141,3 +141,4 @@ Generate or update this file after each batch.
 - `leaf_113` 的三部维修书、技术图、目录与全部汽车商品价目已完整复核。
 - `leaf_114` 的大众／摩托维修全文、六行零件价目、期刊与技术图已完整复核。
 - `leaf_115` 的舟艇书、艇只与渔具商品、航图全文和全部河系地址已复核。
+- `leaf_116` 的三部航海书、技术图、绳索与通风器完整价目已复核。
