@@ -2,24 +2,30 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: three book entries; the Plan/Image/Execution definitions,
+  TOTE diagram and nine behavioral passages; eight meditation passages; and
+  the complete paranormal-theory excerpt.
+- Translation coverage: all reviews, excerpts, labels, numerical ratios,
+  attributions, prices, addresses, and order information are retained.
+- Permitted omissions: nonverbal book-cover art only.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The 3481×4711 scan restores the upper and lower three-column reading order
+  after severe OCR interleaving.
+- Technical and philosophical passages remain full translations, including
+  TOTE sequencing and every listed claim about individual reality.
+- Paranormal assertions receive a separate modern research-context note.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- The paranormal framework is a historical authorial claim, not independent
+  evidence that clairvoyance has been scientifically established.

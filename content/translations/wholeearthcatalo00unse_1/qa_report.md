@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 8
+- `source_ready`: 7
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 140
+- `accepted`: 141
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 8 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 7 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -184,3 +184,4 @@ Generate or update this file after each batch.
 - `leaf_116` 的三部航海书、技术图、绳索与通风器完整价目已复核。
 - `leaf_137` 的五个版块、全部长引文、禅修用品及十五项书目已完整复核。
 - `leaf_138` 的两部书、全部对话与案例、十二篇目录和十一条说明已完整复核。
+- `leaf_139` 的三部书、TOTE 图文、全部行为与冥想长摘录已完整复核。
