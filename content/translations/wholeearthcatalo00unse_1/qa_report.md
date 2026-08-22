@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 4
+- `source_ready`: 3
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 144
+- `accepted`: 145
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 4 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 3 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -188,3 +188,4 @@ Generate or update this file after each batch.
 - `leaf_140` 的恒卦全文、高文对话及五组神话长摘录已完整复核。
 - `leaf_141` 的三则广告、完整结构价目、会员内容与汽车步骤已完整复核。
 - `leaf_142` 的四则广告、六十六项图签与旅行名录全文已完整复核。
+- `leaf_143` 的六类设备、完整水泵表、医疗见证与十二项碾米说明已复核。
