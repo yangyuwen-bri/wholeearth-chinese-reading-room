@@ -181,6 +181,108 @@ Ft. Sam Houston, Texas 78234
 
 ## Final Translation
 
+### 《探险者交易市场日志》（The Explorers Trademart Log）
+
+这本杂志现在已有两年历史。经过最初一段故作可爱的时期，它已经开始直截了当地关注实用性。例如：究竟怎样买到状况良好的军余吉普车；爱斯基摩冰屋的设计；私人飞机的经济账；怎样购买公共土地；独木舟评测；促进野生动物繁衍；让你的圆锥帐篷适于过冬。
+
+【Mack Taylor 推荐】
+
+**《探险者交易市场日志》**
+每年 3.00 美元（双月刊）
+Explorers Trademart, Ltd.
+Post Office Box 1630
+Annapolis, Md. 21404
+
+书中关于军余吉普车的结论是：在公开拍卖中，约花 600 美元，可以预期买到一辆接近能开动状态的吉普车。更常见的密封投标销售中，约花 400—500 美元，可以买到缺少几个大部件的车；约花 200—300 美元，则会缺少某些主要部件，例如发动机，或者车轴和变速器。无论哪种销售，都可以预期螺栓、支架、盖板、换挡杆之类的小零件会缺掉许多。
+
+咨询地址：
+DoD Surplus Sales
+P.O. Box 1370
+Battle Creek, Michigan 49016
+
+**冰屋图注：** 第一圈雪砖已经砌好。注意砖块顶部如何向内削成斜面。砌砖之前已经挖好一个洞，让建造者能够进入冰屋。
+
+对于那个经久不衰的问题——“自己开飞机是否更便宜？”——答案是：“在某些经过选择的条件下，可以更便宜。”根据美国联邦航空局一份新报告《通用航空成本》，如果你拥有一架单引擎四座飞机，每年使用 200 小时，而且每次四个座位都坐满，那么每位乘客每英里的成本（5.6 美分）可能比几乎任何一种航空公司运输方式略低。即便如此，它仍约为汽车运行成本的两倍；假设车中有四人，汽车每座位英里为 2.75 美分。
+
+### 《熟练使用地图与指南针》（Be Expert with Map and Compass）
+
+这是地图使用的标准入门书。我同意 Heinlein 的说法：地图和货币一样，是我们的先人所发明的最强大事物之一。书中附有一张练习用样图。
+
+**《熟练使用地图与指南针》**
+Bjorn Kjellstrom
+1967 年；136 页
+邮资已付 3.95 美元
+Stackpole Company
+Cameron & Kelker Streets
+Harrisburg, PA 17105
+或“全球概览”
+
+**地图图注：** 将地图与实景比较：Log Chapel 位于道路的正确一侧，前方道路向正确方向弯曲，等等。地图与实景相合，也就是已经“定向”。
+
+### 温泉
+
+竟然会有这样一本书，实在令人难以置信。这里标出了全世界所有已知温泉在地图上的位置，并附有温度、流量、矿物含量以及属于商业开发还是野生状态等资料。你可以用余生从一处温泉旅行到另一处：例如停在珠穆朗玛峰西北 50 英里、Sunkasi 河西岸的 Tatapani 温泉（“三股泉水汇成小池”）；或者去阿尔及利亚 Oran 西南 50 英里的 Hamman Ouled Sidi Abdeli 古罗马浴场，它至今仍以每分钟 500 升、华氏 81 度的流量涌出。
+
+这本名录由美国地质调查局以极低价格出版，却没有提到：谁若把野生温泉糟蹋了，来世就得喝塑料味冰水。
+
+**《美国及世界其他国家的温泉——概要》**
+Gerald Waring
+1965 年；383 页
+邮资已付 2.75 美元
+Superintendent of Documents
+U.S. Government Printing Office
+Washington, D.C. 20402
+或“全球概览”
+
+#### 图表：阿根廷的温泉与温泉井（续）
+
+| 图 15 编号 | 名称或地点 | 水温（°C） | 流量（升／分钟） | 总溶解固体（ppm） | 主要化学成分 | 伴生岩层 | 备注与补充文献 |
+|---|---|---:|---:|---:|---|---|---|
+| 55 | El Saladillo de los Colorados | 34 | 中等偏大 | 4,560 | Na、SO₄、Cl | 前寒武纪（？）地层 | 1 处主泉和数口小型自流井。 |
+| 56 | Surgente de Copai de Guayapa，位于 Patquia 西南 15 公里 | 22 | 大 | 8,270 | Na、SO₄、Cl | 同上 | 自流井；水供牲畜饮用。 |
+| — | Totoritas，位于 La Rioja | 26 | — | — | NaHCO₃ | — | 水供洗浴。 |
+| 57 | Pismauta，位于 Jachal 以西 8 公里 | 40；45 | — | 400；356 | Na、SO₄；游离 H₂S | 古生代地层 | 2 处主泉；水含大量 Fe₂O₃ 与 Al₂O₃。参见资料 912。 |
+| 58 | Quebrada de Huaco（Hedionda） | 21—25 | 100 | 2,300—2,868 | Na、SO₄；大量游离 H₂S | 古生代石灰岩 | 数处泉眼；有硫沉积。水供洗浴。参见资料 905。 |
+| 59 | El Volcan | 27.1 | — | 中等偏高 | Na、SO₄、Cl；游离 H₂S | 第三纪（？）沉积层 | 当地用水。 |
+
+### 美国地质调查局地形图
+
+如果你有意买地或前往偏远地区，就会用上任何能弄到手的地图。美国地质调查局（U.S.G.S.）出版的地图，是美国本土及其属地通常可以买到的最准确、最详尽地图。虽然有些略显过时，但它们始终以相当容易理解的格式塞进大量信息。除等高距外，地图还标示地表类型、道路、铁路线和小径、建筑物、矿山和各种地标，以及大量其他信息。
+
+有两个地图系列可供选择：
+
+- **15 分钟图幅：** 比例约为 1 英寸等于 1 英里，等高距 80 英尺，覆盖约 14×18 英里。
+- **7.5 分钟图幅：** 比例约为 2 英寸等于 1 英里，等高距 40 英尺，覆盖约 7×9 英里。7.5 分钟图更新一些，但尚未覆盖全国。
+
+【Drew Langsner 评介】
+
+U.S.G.S. 另在下列地点设有发行中心：
+
+- 阿拉斯加：Anchorage、Fairbanks、Juneau、Palmer
+- 加利福尼亚：Menlo Park、San Francisco
+- 科罗拉多：Denver
+- 得克萨斯：Dallas
+- 犹他：Salt Lake City
+- 华盛顿州：Spokane
+
+加拿大地形图购自：
+Map Distribution Office
+Dept. of Mining and Technical Surveys
+615 Booth Street
+Ottawa, Ontario, CANADA
+
+地图每张 50 美分；U.S.G.S. 可免费提供任何一州的索引图。
+
+Distribution Section
+U.S.G.S.
+Washington, D.C. 20242
+
+最小比例尺 U.S.G.S. 地图的优质三维版本，邮资已付 4.00 美元，可购自：
+Army Map Service
+San Antonio Field Office
+Building 4011
+Ft. Sam Houston, Texas 78234
+
 
 ## Omitted Bibliographic/Order Info
 
@@ -188,8 +290,10 @@ Ft. Sam Houston, Texas 78234
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已对照 3414×4669 高清扫描核查多栏顺序、冰屋与定向图注、地图比例尺、
+  地址，以及温泉表的六条记录；官方 OCR 对表格行列的错位已按扫描纠正。
 
 ## Self Critique
 
-- Pending translation.
+- 地图、订购资料、军余吉普价格、飞机成本和温泉表均逐项保留；未以主题摘要
+  代替原文。
