@@ -2,24 +2,23 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: 两部舟艇书、Netcraft、Avon、Klepper、锯马支架及航图全文。
+- Translation coverage: 摘录、规格、价格、目录和全部河系机构地址已译出。
+- Permitted omissions: 仅省略无文字信息的照片。
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- 逐栏对照 3481×4711 高清扫描，地址、艇只规格和商品价格无漏。
+- 未发现总结替代或跨栏错配。
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- 若干历史机构地址已失效，但按原页保留，不代表当前服务信息。
