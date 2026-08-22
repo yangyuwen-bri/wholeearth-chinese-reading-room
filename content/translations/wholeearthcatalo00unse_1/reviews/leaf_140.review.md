@@ -2,24 +2,30 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: the I Ching review, complete Heng hexagram apparatus and
+  commentary, two order options; the King and the Corpse review, full Gawain
+  dialogue, and five long mythological passages.
+- Translation coverage: all prose, dialogue, hexagram labels, line texts,
+  attributions, prices, addresses, and visible repetition are retained.
+- Permitted omissions: nonverbal book-cover art only.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The 3381×4669 scan resolves two three-column regions and restores lines that
+  OCR omitted from the Gawain dialogue.
+- Neither classical commentary nor mythological prose is reduced to summary;
+  the apparent printed duplication is transparently recorded.
+- Historical gender prescriptions are separated from present-day endorsement.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Gender-role commentary is historically situated and does not represent
+  current equality norms or project policy.
