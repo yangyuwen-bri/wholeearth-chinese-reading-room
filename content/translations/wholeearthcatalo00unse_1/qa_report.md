@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 24
+- `source_ready`: 23
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 124
+- `accepted`: 125
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 24 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 23 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -110,6 +110,8 @@ Generate or update this file after each batch.
   扫描复核，育儿历史观点另附当代专业提示。
 - `leaf_122` 的三部书、全部教育长引文、防溺水步骤与争议性行为改变原文均已
   完整复核；儿童保护、医学伦理和水上安全风险另作明确提示。
+- `leaf_123` 的 Humanitas、i.t.a. 与 Cuisenaire 三套教材原文、价目、特殊
+  字母样文及数学图签均已扫描复核，并纠正 OCR 的数棒长度错误。
 - `leaf_073` 的三本数学书、全部模型制作步骤、公式、数表与图注已逐项复核。
 - `leaf_074` 的三本数学书、群论长文、Escher 图版与 Venn 图说明已完整复核。
 - `leaf_075` 的供需理论、收银机规格、战争游戏与 Indecks 全套资料已逐项复核。
