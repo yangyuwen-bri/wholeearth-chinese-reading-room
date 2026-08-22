@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 13
+- `source_ready`: 12
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 135
+- `accepted`: 136
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 13 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 12 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -132,6 +132,8 @@ Generate or update this file after each batch.
   纪录已逐项复核，过时认证与伦理问题另附历史语境提示。
 - `leaf_133` 的心理学长评／图文、三项心理练习（含倒写密码全文）及
   Lévi-Strauss 四段论述已完整复核，历史动物与原住民语境另作说明。
+- `leaf_134` 的两部 Perls 书全部对话／练习与《爱与意志》五段长引文已完整
+  复核，粗俗语和政治语境未删减，并另附当代临床伦理提示。
 - `leaf_073` 的三本数学书、全部模型制作步骤、公式、数表与图注已逐项复核。
 - `leaf_074` 的三本数学书、群论长文、Escher 图版与 Venn 图说明已完整复核。
 - `leaf_075` 的供需理论、收银机规格、战争游戏与 Indecks 全套资料已逐项复核。
