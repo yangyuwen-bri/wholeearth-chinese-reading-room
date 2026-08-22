@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 17
+- `source_ready`: 16
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 131
+- `accepted`: 132
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 17 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 16 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -124,6 +124,8 @@ Generate or update this file after each batch.
   Kaiser／教育媒体材料已按三栏版面完整复核。
 - `leaf_129` 的 LIFE 科学图文、谐波仪、图书馆参考书目与太空轨道／温度图
   已逐项复核，全部材料、数值、图签与订购信息均完整保留。
+- `leaf_130` 的科学实验、Edmund 五类商品、Think-Sticks 全套规格／价目、
+  十九篇单行本和 ESS 资料已复核，并校正 OCR 对 0.50 美元的误读。
 - `leaf_073` 的三本数学书、全部模型制作步骤、公式、数表与图注已逐项复核。
 - `leaf_074` 的三本数学书、群论长文、Escher 图版与 Venn 图说明已完整复核。
 - `leaf_075` 的供需理论、收银机规格、战争游戏与 Indecks 全套资料已逐项复核。
