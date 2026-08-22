@@ -5,19 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 36
+- `source_ready`: 35
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 112
+- `accepted`: 113
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 36 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
+- 其余 35 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
   在此之前不得集成进阅读室。
 
 ## Notes
@@ -136,3 +136,4 @@ Generate or update this file after each batch.
 - `leaf_108` 的两顶帐篷、五家供应商、Kelty 价格表及全部装备说明已复核。
 - `leaf_109` 的三部荒野书、全部操作原文与图签已复核，并标注历史安全风险。
 - `leaf_110` 的五部技术书、潜水长信、工资表与气瓶价目已完整复核。
+- `leaf_111` 的四部马术书、驮结图及西班牙野马保护全文已完整复核。
