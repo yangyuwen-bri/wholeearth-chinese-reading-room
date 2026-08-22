@@ -2,24 +2,33 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: *Man's Presumptuous Brain* and all eleven argument
+  passages, *The Three Pillars of Zen* and three excerpts, two meditation
+  cushions, *Centering* and its two excerpts, and the Lucis Trust Library's
+  complete fifteen-title sample.
+- Translation coverage: every review paragraph, quoted passage, attribution,
+  title, author, price, dimension, address, and catalog condition is retained.
+- Permitted omissions: nonverbal book-cover decorations only; all meaningful
+  visible text is translated.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The 3481×4711 scan restores the true multi-column reading order and the
+  heavily interleaved lower catalog block.
+- Long medical, evolutionary, Zen, and philosophical excerpts remain full
+  translations rather than summaries.
+- Historical ulcer claims and racist biological assertions are preserved as
+  source evidence and explicitly separated from present-day science.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- The medical and racial claims are historically situated and should not be
+  treated as current clinical or scientific guidance.
