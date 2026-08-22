@@ -2,24 +2,32 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: Learning Things catalog and full cardboard tool kit,
+  Historic Machines and two mechanisms, Attractive Universe excerpt,
+  Architecture corbel project, and Plants and Man corn material.
+- Translation coverage: every paragraph, tool, procedure, figure label,
+  quantity, dimension, book field, price, address, and caption is translated.
+- Permitted omissions: nonverbal photos, cover art, and unlabelled drawing
+  geometry only; meaningful mechanical and botanical labels are retained.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The 3481×4711 scan establishes five block boundaries and restores the
+  two-column tool inventory and gear annotations.
+- Counts, tool dimensions, model dimensions, gear groupings, publication data,
+  and all order addresses match the scan.
+- Every long excerpt is translated in full rather than replaced with a review
+  summary.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Historical craft projects require modern tool and structural safety review
+  before practical use.
