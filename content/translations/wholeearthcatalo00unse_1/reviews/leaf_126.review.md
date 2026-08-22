@@ -2,24 +2,32 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: three Golden handbooks, four groups of additional titles,
+  American Boys Handy Book, Fieldbook for Boys and Men, all reviews, weather
+  rules, fishing, astronomy, lake, craft, rescue, medical, and star-map text.
+- Translation coverage: every substantive paragraph, list item, diagram label,
+  bibliographic field, price, address, and operational excerpt is translated.
+- Permitted omissions: photographs and nonverbal drawing geometry only; all
+  meaningful adjacent captions and named labels are retained.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The 3414×4669 scan confirms the dense column order and corrects OCR's
+  interleaving of book titles, weather rules, and figure captions.
+- Dates, prices, addresses, page counts, optical magnifications, temperatures,
+  and itemized title lists match the scan.
+- Historical rescue and first-aid text is preserved and distinctly followed by
+  current safety context; no source content is summarized away.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Medical, water-rescue, and wild-food procedures are historical and require
+  current certified guidance before any real-world use.
