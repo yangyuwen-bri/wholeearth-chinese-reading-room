@@ -301,14 +301,14 @@ def markdown_to_html(markdown: str) -> str:
                     break
                 rows.append(table_cells(candidate))
                 index += 1
-            out.append("<table><thead><tr>")
+            out.append("<div class='table-wrap'><table><thead><tr>")
             out.extend(f"<th>{inline_md(cell)}</th>" for cell in headers)
             out.append("</tr></thead><tbody>")
             for row in rows:
                 out.append("<tr>")
                 out.extend(f"<td>{inline_md(cell)}</td>" for cell in row)
                 out.append("</tr>")
-            out.append("</tbody></table>")
+            out.append("</tbody></table></div>")
             continue
         if not stripped:
             flush_paragraph()

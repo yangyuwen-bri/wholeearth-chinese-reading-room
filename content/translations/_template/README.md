@@ -42,10 +42,16 @@ not be used as the translation source.
 
 ## Content Boundary
 
-Translate all substantive visible content. Repeated price, stock, postage, and
-supplier/address lines may be omitted or compressed only when they do not
-carry editorial, historical, navigational, or practical meaning. Record every
-such omission in `Omitted Bibliographic/Order Info`.
+Translate all legible visible content, including repeated prices, stock
+numbers, postage, supplier and publisher lines, order addresses, indexes,
+captions, tables, labels, and bibliographic details. Do not omit, compress,
+group, or summarize them in reader-facing text.
+
+If OCR and high-resolution scans cannot recover a visible element, record its
+exact boundary in `OCR / Uncertainty Notes` and the review evidence and keep
+the leaf out of `accepted`. `Omitted Bibliographic/Order Info` must say `None`
+for accepted leaves unless the source material is proven physically absent or
+irrecoverable after high-resolution review.
 
 Do not merge distinct source entries into one overview. Use multiple `###`
 headings inside `Final Translation` when a leaf contains multiple entries.

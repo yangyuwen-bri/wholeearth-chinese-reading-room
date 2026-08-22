@@ -1,6 +1,6 @@
 # Whole Earth Chinese Translation Workflow
 
-Version: v1.1
+Version: v1.2
 
 This document defines the repeatable workflow for turning one Whole Earth issue
 into a faithful Chinese reading-room package.
@@ -54,8 +54,10 @@ content/translations/<issue_id>/
     source_provenance_v1.md
     translator_v1.md
     translator_v1_1.md
+    translator_v1_2.md
     reviewer_v1.md
     reviewer_v1_1.md
+    reviewer_v1_2.md
     orchestrator_review_v1.md
     anchor_auditor_v1.md
   examples/
@@ -169,18 +171,25 @@ is separate from the per-leaf orchestrator gate.
 Translate all substantive visible content, including editorial evaluations,
 recommendations, excerpts, signatures, captions, and meaningful labels.
 
-Use semantic value, not field type alone, to decide whether transactional
-metadata belongs in the final translation:
+Reader-facing translations are full translations, not editorial reductions.
+Translate every legible visible source element, including transactional and
+lookup metadata:
 
 | Source content | Default treatment |
 | --- | --- |
 | Editorial review, argument, excerpt, signature | Translate in full |
 | Legible caption, table heading, or diagram label | Translate; block on scan if unresolved |
 | Title, author, editor, publication year | Retain |
-| Price, fee, or cost that affects the recommendation | Retain |
-| Repeated price, stock number, postage, supplier/order address | Omit or compress and record outside `Final Translation` |
+| Price, fee, cost, stock number, or postage | Translate in full |
+| Supplier, publisher, or order address | Translate in full; preserve names and address values accurately |
 | Page reference that organizes navigation | Retain |
-| Dense alphabetical index entries | May omit as lookup metadata; still translate visible instructions, captions, headings, and quotations |
+| Dense alphabetical index entries | Translate every legible entry and page reference |
+
+Do not silently omit, compress, group, or summarize repeated material. If a
+visible element cannot be recovered from OCR and high-resolution scans, record
+the exact unresolved boundary in the leaf and review evidence and keep the leaf
+out of `accepted`; uncertainty is not permission to replace source text with a
+description.
 
 `no_translation_needed` never means "skip the leaf." The leaf still requires a
 translation file, review file, explicit reason, and treatment of any visible

@@ -19,6 +19,10 @@ Workflow documents:
 - content/translations/<issue_id>/translation_standard.md
 - content/translations/<issue_id>/workflow_lessons.md
 
+Active production prompts:
+- content/translations/<issue_id>/prompts/translator_v1_2.md
+- content/translations/<issue_id>/prompts/reviewer_v1_2.md
+
 Source priority:
 1. Archive scan image is final authority.
 2. Official Internet Archive DjVu XML OCR is the primary OCR source.
@@ -40,6 +44,8 @@ Agent ownership:
 Reader-facing rule:
 Do not expose workflow labels, QA notes, self-critique, "leaf 001" headings, or
 "what should not be translated" instructions in public reader text.
+Translate every legible visible source element in full. Repetition, prices,
+stock numbers, addresses, and index data may not be omitted or summarized.
 
 Branch rule:
 Work on a short task branch named codex/<issue-id>-<task>. Keep main stable.

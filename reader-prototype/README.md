@@ -2,10 +2,10 @@
 
 阅读器采用左侧原书扫描页、右侧中文译文的对照结构，滚动时两边保持同步。
 
-共用公开入口是 `reader-prototype/index.html`，当前承载 1969 年秋季号和
-1974 年 *Whole Earth Epilog*。1968 年秋季号与 1969 年春季号的完整译稿和
-独立阅读器已并入 `main`，分别位于 `reader-prototype/1968/`、`1969/`；两者
-仍需经过 Pages 集成检查后才算公开发布。
+共用公开入口是 `reader-prototype/index.html`，当前承载 1969 年秋季号、
+1970 年春季号和 1974 年 *Whole Earth Epilog*。1968 年秋季号与 1969 年春季号
+的完整译稿和独立阅读器已并入 `main`，分别位于 `reader-prototype/1968/`、
+`1969/`；两者仍需经过 Pages 集成检查后才算公开发布。
 
 ## 集成状态
 
@@ -14,7 +14,7 @@
 | 1968 年秋季《全球概览》 | 68/68 页 accepted | 已并入 `main`，待发布 |
 | 1969 年春季《全球概览》 | 134/134 页 accepted | 已并入 `main`，待发布 |
 | 1969 年秋季《全球概览》 | 132/132 页 accepted | 已公开 |
-| 1970 年春季《全球概览》 | 4/148 页 accepted | 未生成公开阅读器 |
+| 1970 年春季《全球概览》 | 148/148 页 accepted | 共用阅读器已生成，待 Pages 发布验证 |
 | 1974 *Whole Earth Epilog* | 283 页 accepted、25 页待高清复核、14 页无需翻译 | 已公开，QA 状态继续保留 |
 
 ## 内容原则
@@ -25,7 +25,7 @@
 
 - 基于原书 OCR 与扫描页核对后的 `Final Translation`；
 - 保留原书中的评论、摘录、标题、署名、图注和论证节奏；
-- 压缩或省略价格、订购地址、库存编号等低价值交易信息；
+- 完整保留可辨识的价格、订购地址、库存编号、索引和其他交易信息；
 - 把章节导读、现代目录、原书目录页折叠区作为阅读辅助层，而不是把工作流说明展示给读者。
 
 早期概括性精读稿不再作为阅读室生产内容来源。
@@ -39,7 +39,7 @@
 
 每个 leaf 只抽取 `## Final Translation`。`Source Pack`、`Context Notes`、`OCR / Uncertainty Notes`、`Self Critique`、review 文件等只用于翻译和审核，不进入读者正文。
 
-1968、1969 春季和 1969 秋季号分别从对应的
+1968、1969 春季、1969 秋季和 1970 春季号分别从对应的
 `content/translations/<issue_id>/` 包读取相同的 `Final Translation` 区段。
 
 扫描图直接从 Internet Archive 加载：
@@ -54,11 +54,12 @@
 python3 reader-prototype/1968/build_reader_data.py
 python3 reader-prototype/1969/build_reader_data.py
 python3 reader-prototype/build_fall_1969_reader_data.py
+python3 reader-prototype/build_spring_1970_reader_data.py
 cd reader-prototype
 python3 build_translation_reader_data.py
 cd ..
 python3 -m http.server 8911
-# 打开 http://127.0.0.1:8911/reader-prototype/index.html
+# 打开 http://127.0.0.1:8911/reader-prototype/index.html?issue=spring-1970
 ```
 
 `index.html` 通过 fetch 读取 JSON，必须走 HTTP，不能直接双击打开文件。
@@ -71,13 +72,13 @@ python3 build_data.py
 
 ## 功能
 
-- 导读 + 11 个原书内容章节，按 leaf 级完整译稿连续阅读
+- 按期刊章节组织 leaf 级完整译稿，支持连续阅读
 - 每章有读者导读
 - 每章有默认折叠的现代目录，展开后占据正文空间，可点击跳转条目
 - 原书目录页默认隐藏在“查看原书目录页”折叠区
-- 左侧扫描页随正文滚动自动切换；可用滑杆/按钮手动翻 322 个 leaf；每页有 Archive 原页链接
+- 左侧扫描页随正文滚动自动切换；可用滑杆/按钮手动翻页；每页有 Archive 原页链接
 - 每个条目标注原书印刷页，点“看原页”跳到对应扫描
-- “暗线视图”：七条暗线（找入口、看尺度、会维护、用身体学、组织社会、穿越风险、出版成工具），可跳转成员章节
+- Epilog 提供七条“暗线视图”；其他期刊使用标准章节视图
 - 底部进度条按 leaf 计
 - 窄屏时扫描页收成顶部固定小卡片
 
@@ -103,7 +104,9 @@ python3 build_data.py
 ## 文件
 
 - `build_translation_reader_data.py` — 从 leaf 级完整译稿生成阅读器数据
+- `build_spring_1970_reader_data.py` — 生成 1970 年春季号阅读器数据
 - `data/epilog_reader.json` — 生产阅读器数据
+- `data/spring_1970_reader.json` — 1970 年春季号生产阅读器数据
 - `index.html` — 阅读器本体（无依赖、无构建工具）
 - `build_data.py` — 兼容入口，调用当前 leaf 级构建器
 

@@ -31,6 +31,12 @@ SUMMARY_DRIFT = re.compile(
     r"正文节选自|"
     r"条目(?:介绍|概述)"
 )
+NO_OMISSION = re.compile(r"^(?:[-*]\s*)?(?:无|none\b|n/a\b)", re.IGNORECASE)
+IRRECOVERABLE_SOURCE = re.compile(
+    r"物理(?:裁掉|裁切|缺失)|不可恢复|无法(?:可靠)?辨认|"
+    r"physically (?:cropped|absent)|irrecoverable|unreadable",
+    re.IGNORECASE,
+)
 
 
 def section(text: str, heading: str) -> str:
@@ -67,6 +73,7 @@ def validate_issue(require_accepted: bool = True) -> list[str]:
         leaf_text = leaf_path.read_text()
         review_text = review_path.read_text()
         final = section(leaf_text, "Final Translation")
+        omitted = section(leaf_text, "Omitted Bibliographic/Order Info")
         evidence = section(review_text, "Coverage Evidence")
         reasons = " ".join(section(review_text, "Reasons").split())
         required_fixes = section(review_text, "Required Fixes")
@@ -79,6 +86,13 @@ def validate_issue(require_accepted: bool = True) -> list[str]:
             errors.append(f"leaf {leaf:03d}: status is {row['status']}, not accepted")
         if not final:
             errors.append(f"leaf {leaf:03d}: Final Translation is empty")
+        if not omitted:
+            errors.append(f"leaf {leaf:03d}: omission audit section is empty")
+        elif not NO_OMISSION.search(omitted) and not IRRECOVERABLE_SOURCE.search(omitted):
+            errors.append(
+                f"leaf {leaf:03d}: accepted text records an omission without "
+                "irrecoverable-source evidence"
+            )
         if not evidence or any(label not in evidence for label in REQUIRED_EVIDENCE):
             errors.append(f"leaf {leaf:03d}: review lacks concrete Coverage Evidence")
         if not conclusion or conclusion.group(1).strip() != "accepted":

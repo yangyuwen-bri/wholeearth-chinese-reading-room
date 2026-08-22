@@ -18,19 +18,15 @@ Translate substantive content:
 - section or column titles when they carry meaning;
 - arguments, examples, jokes, irony, hesitation, and evaluative tone.
 
-You may omit or compress low-value order metadata only when it does not carry
-editorial, historical, navigational, or practical meaning:
+Translate all legible order and bibliographic metadata in full, including
+prices, stock numbers, postage, order addresses, repeated publisher/order
+lines, page references, and dense index entries. Repetition is part of the
+source and is not permission to compress it.
 
-- prices;
-- stock numbers;
-- order addresses;
-- repetitive publisher/order lines;
-- purely bibliographic details that do not affect the prose.
-
-Any omission must be recorded outside the reader-facing body.
-
-Retain a price, fee, cost, address, or page reference when the source uses it as
-part of an evaluation, comparison, access method, or navigation structure.
+If OCR and high-resolution scans cannot recover a visible element, document
+the exact unresolved boundary outside the reader-facing body and keep the leaf
+out of `accepted`. Never replace unresolved source text with a summary or page
+description.
 
 ## Prohibited Drift
 
