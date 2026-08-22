@@ -2,24 +2,30 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: Portola header and five activities, music-diagram labels,
+  complete Scripps narrative and contacts, Big Rock five-part catalog list,
+  three-paragraph Institute statement, and information-request form.
+- Translation coverage: all prose, headings, categories, item lists,
+  attributions, dates, prices, addresses, phone numbers, and form labels remain.
+- Permitted omissions: nonverbal decorative art and photographs only.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The 3381×4669 scan restores the five Big Rock categories and associates each
+  semicolon-delimited resource list with its correct heading.
+- The Scripps narrative and institutional statement remain full translations;
+  neither is replaced by a project summary.
+- Historical availability is clearly distinguished from current status.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Program names, prices, contacts, and institutional claims are archival and
+  require independent verification before modern use.

@@ -5,20 +5,19 @@ Generate or update this file after each batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 1
+- `source_ready`: 0
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 147
+- `accepted`: 148
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- 其余 1 页仍须完成全文翻译、高清扫描复核、独立审校和统筹验收，
-  在此之前不得集成进阅读室。
+- 无剩余阻塞页；148 页均已完成全文翻译、高清扫描复核、独立审校和统筹验收。
 
 ## Notes
 
@@ -191,3 +190,4 @@ Generate or update this file after each batch.
 - `leaf_143` 的六类设备、完整水泵表、医疗见证与十二项碾米说明已复核。
 - `leaf_144` 的运营财务、开店全文、两家店资料与建议表已完整复核。
 - `leaf_145` 的门店地图、发行条款、账户通知与订阅表已完整复核。
+- `leaf_146` 的五项教育计划、完整资源清单、机构声明与资料表已完整复核。
