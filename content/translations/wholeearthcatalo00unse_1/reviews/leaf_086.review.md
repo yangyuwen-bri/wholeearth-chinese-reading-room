@@ -24,7 +24,7 @@ accepted
 
 ## Required Fixes
 
-- None.
+- 无。
 
 ## Residual Risks
 

@@ -205,7 +205,7 @@ Plywoud and Poles for Farm Buildings (Data sheet)
 
 ## Final Translation
 
-## Yurt 毡房
+### Yurt 毡房
 
 我们有一位朋友，对中亚游牧民族使用的 yurt 产生了兴趣。Yurt 是圆形建筑
 （帐篷），由木条格架构成，外面覆盖毡片。屋顶是截锥形，顶端开口兼作天窗和
@@ -222,7 +222,7 @@ Bill 用不同材料造过好几座类似蒙古毡房的 yurt 之后，决定再
 *Yurt Construction Plan*，邮资已付 3.00 美元。购自 Bill Coperthwaite,
 Bucks Harbor, Maine。
 
-## ★ 链锯零件
+### ★ 链锯零件
 
 低价链锯链条和零件。他们还供应塑料楔；即使锯链碰到楔子，也不会把链条毁掉。
 
@@ -232,7 +232,7 @@ Bucks Harbor, Maine。
 南部分部：P.O. Box 1791, Tallahassee, Fla. 32300；西部分部：P.O. Box 876,
 Bellingham, Wash. 98225。
 
-## ★ Alaskan Mill 链锯制材架
+### ★ Alaskan Mill 链锯制材架
 
 这是一种装在链锯上的滚轮附件，可以把原木锯成木板。单人制材架至少需要
 6 马力和 16—24 英寸导板；据说如果要锯出相当数量的木材，则需要 12—15
@@ -256,7 +256,7 @@ Granberg Alaskan Chainsaw 单人附件，G-758 号：Richmond 离岸价 71.50 �
 机具照片标注：张力滚轮引导锯片准确穿过原木；调节螺钉可使滚轮升降并控制
 板厚；推力滚轮越过树皮，便于进料；辅助把手使操作更容易。
 
-## 《荒野木屋》
+### 《荒野木屋》
 
 如今仍在建的原木屋已经不多了，其中一个原因是它耗费大量木材。不过，这种
 办法能让一个人走进树林，只用很少的工具便搭起住所。也许你本来就要清理建房
@@ -285,7 +285,7 @@ Riverside, N.J. 08075；或向 WHOLE EARTH CATALOG 订购。
 搁栅安设法；圆木钩；翻木钩；尖头翻木杆；墙／屋顶交接处留隔热空气层，并让
 炉管穿出屋面。
 
-## ★ American Plywood Association
+### ★ American Plywood Association
 
 胶合板之所以是如此理想的建筑材料，在于它的成本／强度比极其有利。安装也快，
 因为每钉下一张板，就能覆盖 32 平方英尺。
