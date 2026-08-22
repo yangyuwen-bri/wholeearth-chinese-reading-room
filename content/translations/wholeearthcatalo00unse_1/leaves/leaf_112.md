@@ -136,18 +136,111 @@ Drive Bia Ld assembly 1 1 1
 
 ## Glossary Updates
 
+- `derailleur`：拨链变速器。
+- `center-pull brakes`：中拉式刹车。
+- `sew-up tires`：管胎。
 
 ## Final Translation
 
+### 给你的自行车专页
+
+好自行车应当轻，在合理价格下有高质量的制造，齿比足以应付各种路况，而且设计和结构效率高。
+
+旅行自行车的构型远远最好。旅行车采用下弯把（或“赛车把”）、窄车座、拨链变速器、轻质车架与零件，而且所有运动部件的摩擦都尽可能小。
+
+下弯把配窄车座，让骑车人自然地前倾；这样可降低重心、改善平衡与操控、减少风阻，并使双腿获得最大的杠杆作用。窄车座只有很少的衬垫，免得骑手的屁股被磨掉。脚扣与脚带也是标准装备，使骑手在脚踏向上回转时也能发力，而不只是下踩时发力。
+
+拨链变速器有五速、十速和十五速组合。它以最直接的方式提供最广的齿比范围。旅行车还使用窄型高压轮胎，降低滚动阻力、提高速度；并使用高质量的中拉式刹车，迅速停车。
+
+自行车小巧、便宜、少需维护、骑起来愉快，而且不制造烟雾。如果美国把所有底特律铁家伙都换成自行车，许多问题就解决了。
+
+【Sage 推荐并评介】
+
+#### 基础款
+
+一辆基础的**轻量旅行自行车**必须具备：
+
+- 下弯把；
+- 中拉式刹车；
+- 拨链变速器（5、10 或 15 速）；
+- 窄皮革车座。
+
+购买自行车时，一定要确认经销商能供应零件。还要继续提防价格低于 200 美元的日本装备，以及 Huret／Spring 拨链器；以其提供的质量而言，这些仍是宰客货。
+
+> 熟练骑手只按踏频思考，而不是按车速思考。他的目标是在整个骑行过程中保持同样稳定的踩踏节奏。
+>
+> ——*How to Improve Your Cycling*（《怎样改进你的骑行》）
+
+#### 最优款
+
+最优的**轻量旅行自行车**会通体采用轻质合金钢车架，最佳品牌是 Reynolds 531（见图中标签）；还会采用轻质合金齿轮及其他零件、精密轴承（摩擦更小、寿命更长、强度更高）、高压管胎，以及一套外观整洁的涂装。主要制造商生产的顶级自行车，大多以约 230 美元或更高的价格提供所有这些成分。挑选不同品牌时，差别在于零件装配质量、可选车架尺寸，以及个人偏好。
+
+Reynolds 标签不是植入广告；他们确实是全世界唯一制造像样车架的人。字面意义上的唯一。
+
+#### 每月上油
+
+1. 刹把。
+2. 头碗与上碗。
+3. 前、后刹车枢轴。
+4. 后轮花鼓。
+5. 前轮花鼓。
+6. 链条：每三个月拆下并浸泡一次。
+7. 中轴轴承。
+8. 脚踏。
+
+#### 出版物
+
+如果你打算在购买十速旅行车以前把所有可走的途径都查遍，那么下列出版物几乎全都不可缺少。
+
+- *Bicycling!*（《骑自行车！》），月刊；H. M. Leete & Co., 256 Sutter Street, San Francisco, California 94108。
+- *Derailleur Lightweights—New Dimension in Cycling*（《拨链式轻量车——骑行的新维度》）；Schwinn Bicycle Company, 1856 North Kostner, Chicago, Illinois 60639。
+- *League of American Wheelman Bulletin*（《美国骑车人联盟公报》）；L.A.W., 5118 Foster Avenue, Chicago, Illinois 60630。
+- *Complete Handbook of Cycling*（《骑行完全手册》），$2.10；Big Wheel Ltd., Department “K”, 310 Holly Street, Denver, Colorado 80220。
+- *How to Improve Your Cycling*（《怎样改进你的骑行》），$0.75；The Athletic Institute, Merchandise Mart, Room 805, Chicago, Illinois 60654；或向 WHOLE EARTH CATALOG 订购。（质量高，很值这个价。）
+
+#### 值得注意的自行车经销商／分销商
+
+这份清单由我和 Turin Bicycle Co-op 的成员共同编制；它不是一连串植入广告——就宰客而言，这些都是比大多数商店更好的好店。当然，Turin 有自己的立场；但除了清单上的芝加哥商店，其他店无须担心竞争。我个人认为这份清单不可缺少，因为美国真正有好货的店很少，而这些就是。
+
+- Stuyvesant Distributors, 404 East 11th Street, New York, New York 10009；目录 $0.75。
+- Turin Bicycle Co-op, 2112 North Clark Street, Chicago, Illinois 60614。
+- Thomas Avenia（东部），131 East 119th Street, New York, New York 10035。
+- Thomas Avenia（西部），10205 Rio Hondo Parkway, El Monte, California。
+- Big Wheel Ltd., Department “K”, 310 Holly Street, Denver, Colorado 80220。
+- Cupertino Bike Shop, 10080 Randy Lane, Cupertino, California 95014。
+- Cyclo-Pedia, 6447 Michigan Avenue, Detroit, Michigan 48210；60 页“手册兼目录”$1.00。
+- Pleasant Valley Shop, P.O. Box 293, Livingston, New Jersey 07039；Clement 自行车邮购专营商。
+- Hans Ohrt Lightweight Bikes, 9544 Santa Monica Boulevard, Beverly Hills, California 90210。
+- Velo-Sport Cyclery, 1650 Grove Street, Berkeley, California。
+- John’s Custom Bicycle Center, 741 East Dixie Drive, West Carrollton, Ohio。
+
+#### 价格／自行车图谱
+
+1970 年 1 月，由 Turin Bicycle Co-op 工作人员与 Sage 合编。
+
+| 价格 | 相对配置 |
+| ---: | --- |
+| $85 | 基础自行车（见正文） |
+| $100 | 更轻的车轮；整体减重 |
+| $125 | 改进的变速器；高压管胎 |
+| $155 | 更轻的合金曲柄组件 |
+| $180 | 改进的轴承 |
+| $240 | 精密轴承 |
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无。五种出版物、十一家经销商、维护清单和六级价格图均已保留。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已用 3414×4669 高清扫描逐区复核。官方 OCR 严重漏失左栏行首和经销商名，
+  已按扫描恢复整段基础说明、十一家地址与图谱标签。
+- 页面针对日本装备与品牌的质量判断属于 1970 年原作者意见，忠实保留，不作
+  当代产品建议。
 
 ## Self Critique
 
-- Pending translation.
+- 已覆盖基础／最优旅行车全文、必备零件、维护八项、五种出版物、十一家
+  经销商及六档价格—配置关系。
+- 未以“自行车选购建议”概述替代原文；评价语气、品牌、地址、价格和图中标签
+  均完整进入中文稿。
