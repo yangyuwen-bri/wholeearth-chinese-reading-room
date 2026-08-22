@@ -1,8 +1,21 @@
-# 1974 Epilog 中文阅读室
+# Whole Earth 中文对照阅读室
 
-对外展示入口：左侧原书扫描页，右侧中文译文，滚动时两边保持对照。
+阅读器采用左侧原书扫描页、右侧中文译文的对照结构，滚动时两边保持同步。
 
-当前入口：`reader-prototype/index.html`。部署为静态站点时，可直接指向 `/reader-prototype/index.html`。
+共用公开入口是 `reader-prototype/index.html`，当前承载 1969 年秋季号和
+1974 年 *Whole Earth Epilog*。1968 年秋季号与 1969 年春季号的完整译稿和
+独立阅读器已并入 `main`，分别位于 `reader-prototype/1968/`、`1969/`；两者
+仍需经过 Pages 集成检查后才算公开发布。
+
+## 集成状态
+
+| 出版物 | 翻译状态 | 阅读器状态 |
+| --- | --- | --- |
+| 1968 年秋季《全球概览》 | 68/68 页 accepted | 已并入 `main`，待发布 |
+| 1969 年春季《全球概览》 | 134/134 页 accepted | 已并入 `main`，待发布 |
+| 1969 年秋季《全球概览》 | 132/132 页 accepted | 已公开 |
+| 1970 年春季《全球概览》 | 4/148 页 accepted | 未生成公开阅读器 |
+| 1974 *Whole Earth Epilog* | 283 页 accepted、25 页待高清复核、14 页无需翻译 | 已公开，QA 状态继续保留 |
 
 ## 内容原则
 
@@ -19,12 +32,15 @@
 
 ## 数据来源
 
-主构建脚本读取：
+共用 Epilog 构建脚本读取：
 
 - `../content/translations/wholeearthepilog00unse/status.jsonl`
 - `../content/translations/wholeearthepilog00unse/leaves/leaf_###.md`
 
 每个 leaf 只抽取 `## Final Translation`。`Source Pack`、`Context Notes`、`OCR / Uncertainty Notes`、`Self Critique`、review 文件等只用于翻译和审核，不进入读者正文。
+
+1968、1969 春季和 1969 秋季号分别从对应的
+`content/translations/<issue_id>/` 包读取相同的 `Final Translation` 区段。
 
 扫描图直接从 Internet Archive 加载：
 
@@ -35,6 +51,9 @@
 ## 构建与运行
 
 ```bash
+python3 reader-prototype/1968/build_reader_data.py
+python3 reader-prototype/1969/build_reader_data.py
+python3 reader-prototype/build_fall_1969_reader_data.py
 cd reader-prototype
 python3 build_translation_reader_data.py
 cd ..
@@ -62,7 +81,7 @@ python3 build_data.py
 - 底部进度条按 leaf 计
 - 窄屏时扫描页收成顶部固定小卡片
 
-## leaf / 印刷页映射
+## 1974 Epilog leaf / 印刷页映射
 
 - leaf 0 是封面，不标正文印刷页。
 - leaf 1 是《约伯记》引文内封页，不标正文印刷页。
@@ -73,7 +92,7 @@ python3 build_data.py
 
 ## 当前 QA 状态
 
-`content/translations/wholeearthepilog00unse/status.jsonl` 是翻译状态来源。
+各期 `content/translations/<issue_id>/status.jsonl` 是对应翻译状态的唯一来源。
 
 当前生成数据保留 QA 元数据，但普通读者界面不直接展示内部状态。状态含义：
 

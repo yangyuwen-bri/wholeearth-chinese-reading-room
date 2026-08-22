@@ -5,12 +5,12 @@
 - Issue ID: `wholeearthcatalo00unse_8`
 - Access leaf: `n3`; canonical DjVu object: `wholeearthcatalo00unse_8_0004.djvu` (object 4 of 68).
 - Physical scan mapping: scandata `leafNum="4"`, `origFileName=0004.jpg`, `pageType=Normal`, `addToAccessFormats=true`; the one-leaf offset is caused by excluded physical color card `leafNum="0"`.
-- Printed page: none recorded in scandata. It immediately precedes printed page 3 (`n4`), but no printed number should be inferred without scan evidence.
+- Printed page: none recorded in scandata; the scan confirms that no printed page number appears.
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_8/page/n3_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_8/page/n3_w2000.jpg
 - OCR source: official Internet Archive DjVu XML at `_local/legacy/work/wholeearth/page_xml/wholeearthcatalo00unse_8_djvu.xml`; 1,000 OCR words in 139 lines. No supplemental OCR used.
-- Scan evidence: Archive w2000 retrieval timed out on 2026-07-14; no local page image was found. Multi-column order and small type require later visual verification.
-- OCR risk flags: `dense_multicolumn`, `procedure_page`, `prices_and_addresses_substantive`, `column_order`, `small_type`, `highres_unavailable`.
+- Scan evidence: local PDF obtained and visually checked on 2026-07-15; access leaf `n3` maps to PDF page 4. Three-column order, the advertising-rate diagram, and small production/credit text are confirmed.
+- OCR risk flags: `dense_multicolumn`, `procedure_page`, `prices_and_addresses_substantive`, `column_order_verified`, `small_type`, `highres_reviewed`.
 
 ## Context Notes
 
@@ -22,17 +22,17 @@
 - `Reviewing` states a `$10 an item` reviewer payment and enumerates the work expected: familiarity with item/usefulness/competition, evaluation, selection of graphic/text samples with page references, and a 200–300 word review. It also covers attribution, replacement/new-item reviews, acceptance payment, non-return of unused reviews, camera-ready material, and future Supplement listings.
 - `Corresponding` distinguishes the product-heavy Catalog from the process-heavy `Difficult But Possible Supplement`, then solicits critical comments, design processes, no-cash techniques, enterprise news, fantasies, student work, shortcuts, new uses for materials, and other realms for the catalog.
 - Right-column headings recovered by OCR: `Advertising`; `Rates:`; `Selling`; `Donating:`; `CATALOG policy with suppliers and users`.
-- `Advertising` limits eligible advertisers to suppliers/manufacturers/creators of listed items, restricts ads to a listed item or the advertiser's own catalog, places ads at the back, and states that the Supplement has no ads. The OCR recovers `Rates:` but no rate table/value beneath it; this is a concrete scan-review blocker.
+- `Advertising` limits eligible advertisers to suppliers/manufacturers/creators of listed items, restricts ads to a listed item or the advertiser's own catalog, places ads at the back, and states that the Supplement has no ads. The scan confirms the `Rates:` diagram as full page `$200` plus `$75`, `$25`, `$10`, and `$5` proportional blocks.
 - `Selling` gives a 50% resale discount, minimum order 5, `$5` Catalog price, and `$2` Supplement price. `Donating` records Portola Institute's nonprofit/tax-exempt status and gives retaining/sustaining subscription levels and deductible amounts.
 - `CATALOG policy with suppliers and users` states non-obligation, rejects paid placement, discusses free samples/blandishments, and defines the catalog's obligation to users and itself. It explains that the first issue is book-heavy because books are cheap, obtainable, and evaluable, with later issues intended to contain more material information; OCR places the final phrase out of order in an isolated region.
-- Credits recovered: Stewart Brand; Sandra Tcherepnin; Joe Bonner; with Steve Baer; Jane Burton; Steve Durkee; James Fadiman; Ralph Metzner; Richard Raymond; Gurney Norman; Larry McCombs; Robert Albrecht. The page thanks Ortega Park Teachers Laboratory for temporary production space; OCR renders one phrase as `mountain idy!/`, which is unresolved.
+- Credits recovered: Stewart Brand; Sandra Tcherepnin; Joe Bonner; with Steve Baer; Jane Burton; Steve Durkee; James Fadiman; Ralph Metzner; Richard Raymond; Gurney Norman; Larry McCombs; Robert Albrecht. The scan confirms the thanks phrase as `temporary use of their mountain idyll for production space`.
 - Publication block identifies Portola Institute, `558 Santa Cruz, Menlo Park, California 94025`; gives the alternating Catalog/Supplement schedule from November through September; names IBM Selectric Composer and Polaroid MP-3 production equipment; credits Nowel Publications and East Wind Printers; repeats the `$8` subscription rate; and mentions a pending second-class postage application.
-- The page is at least two dense vertical columns. OCR region order reads the central column top-to-bottom before the right column; exact column boundaries, the absent advertising rates, and corrupted words (`rather thana`, `let us knowl`, `REA mangles`, `idy!/`) require scan review.
+- The scan confirms the dense three-column order, advertising rates, and `mountain idyll`; corrupted OCR forms such as `rather thana` and `let us knowl` are resolved by the printed text. `REA mangles..` is visibly printed as a deliberately abrupt complaint.
 
 ## Glossary Updates
 
 - `CATALOG procedure`：建议译为“《概览》使用办法”，比“程序”更符合本页订购、投稿、评审和转售说明的体裁。
-- `Difficult But Possible Supplement`：建议暂译《困难但可能》增刊，并在首次出现时保留英文原名。
+- `Difficult But Possible Supplement`：本刊译作《困难但可能》增刊，并在首次出现时保留英文原名。
 - `reviewer` / `review`：本页语境建议分别译为“评审人”与“评介”；其工作兼有实际试用、评价和撰稿，不宜仅译作“书评人／书评”。
 - `camera-ready`：建议译为“可直接制版”，用于后续生产说明。
 
@@ -96,6 +96,8 @@
 
 ### 费率
 
+广告版面按面积分档：整页 200 美元；较小版块依次为 75 美元、25 美元、10 美元和 5 美元。原图用一个整页矩形和四个按比例分割的小矩形表示这些尺寸关系。
+
 ### 转售
 
 《概览》和《增刊》均可以五折转售，最低订购量为 5 份。《概览》单份定价 5 美元，《增刊》单份定价 2 美元。
@@ -136,7 +138,7 @@ Portola Institute, Inc. 是免税的非营利法人。向 Portola 或《概览�
 - Larry McCombs
 - Robert Albrecht
 
-感谢 Ortega Park Teachers Laboratory 临时提供制作场地。
+感谢 Ortega Park Teachers Laboratory 暂借他们的山间乐土作为制作场地。
 
 ### 出版说明
 
@@ -159,14 +161,14 @@ Portola Institute, Inc. 是免税的非营利法人。向 Portola 或《概览�
 
 ## OCR / Uncertainty Notes
 
-- 本页尚未做扫描图视觉核对。译文依据官方 DjVu XML 与来源审计重建栏目顺序，不声称多栏版式已经由扫描确认。
-- `Rates:` 标题下没有恢复出任何费率数值；译文只保留标题，不猜测缺失内容。这是接受前的明确扫描阻碍。
-- 感谢语中的 `mountain idy!/` 无法可靠恢复，译文只保留“临时提供制作场地”这一确定内容，没有猜译损坏的修饰语。
-- `rather thana`、`let us knowl` 等明显为断词或标点 OCR 错误，按可确定的上下文复原；`REA mangles..` 暂按原句保留其突兀、戏谑的抱怨语气，仍需扫描确认。
-- OCR 将“今后的期号应当收入更多关于材料的信息”拆到远离政策段的位置；译文按语义接回原段，须由 reviewer 结合扫描复核。
+- 已对照本地 PDF 第 4 页完成三栏阅读顺序核对。
+- `Rates:` 下的比例图清楚标出整页 200 美元及 75、25、10、5 美元四档较小版块，已全部恢复。
+- 感谢语经扫描确认为 `temporary use of their mountain idyll for production space`，已保留其中戏谑的 `mountain idyll`。
+- `rather thana`、`let us knowl` 等明显为断词或标点 OCR 错误，按扫描复原；`REA mangles..` 经扫描确认为原页的突兀、戏谑写法。
+- OCR 将“今后的期号应当收入更多关于材料的信息”拆到远离政策段的位置；扫描确认它属于政策段，译文已按原版归属接回。
 
 ## Self Critique
 
 - 已覆盖订购、订阅、建议、评审、通信、广告、转售、捐赠、政策、制作人员和出版说明，没有把手续性文字当作低价值元数据删去。
 - 把 `review` 译为“评介”是为了兼顾评价、选样和成文；若全刊已有更稳定的“评论／评审”分工，需要由总审统一。
-- 对广告费率和损坏的感谢语没有补写推测内容；这两处使本页不宜在没有扫描复核的情况下直接接受。
+- 广告费率和感谢语均已由扫描复核并补齐；页面手续、金额、地址与出版周期现可逐项回查。

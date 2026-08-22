@@ -18,9 +18,9 @@ not be used as the translation source.
 - Issue title: `Whole Earth Catalog, Fall 1968`
 - Archive URL: `https://archive.org/details/wholeearthcatalo00unse_8`
 - Leaf range: `access leaves n0-n67`
-- Printed page rule: `provisional: n0-n3 front matter; n4-n67 map to printed page n-1, pending source audit`
-- Source OCR path: `_local/legacy/work/wholeearth/page_xml/wholeearthcatalo00unse_8_djvu.xml`
-- Issue-agent data path: `data/issue_agents/wholeearthcatalo00unse_8/`
+- Printed page rule: `verified: n0-n3 front matter; n4-n67 map to printed page n-1`
+- Source OCR path: repository-root `_local/page_xml/wholeearthcatalo00unse_8_djvu.xml`
+- Local high-resolution scan: package `_local/scans/wholeearthcatalo00unse_8.pdf`
 
 ## Work Products
 
@@ -29,6 +29,7 @@ not be used as the translation source.
 - `status.jsonl`: one record per leaf.
 - `glossary.md`: title, name, term, and institution decisions.
 - `qa_report.md`: status counts and blockers.
+- `batch_plan.md`: durable production queue and session handoff overview.
 - `workflow_lessons.md`: issue-specific workflow findings and reusable lessons.
 - `prompts/`: agent prompts used for this issue.
 - `examples/`: canonical leaf and review shapes.
@@ -67,9 +68,9 @@ When a batch exposes a new recurring problem, record it in
 `workflow_lessons.md` before changing prompts or promoting the lesson back to
 the global template.
 
-## Calibration Batch
+## Completion State
 
-The first loop validation covers access leaves `n0-n6`: cover, function and
-purpose, contents, catalog procedure, and the opening Whole Systems entries.
-The batch must complete source preparation, translation, independent review,
-and orchestrator acceptance before later leaves begin.
+The full `n0-n67` loop is complete. Every leaf has a production translation,
+an independent review with an `accepted` conclusion, and a high-resolution
+scan check. `status.jsonl`, `qa_report.md`, and `batch_plan.md` record the
+orchestrator gate result; the reader build remains a separate downstream step.

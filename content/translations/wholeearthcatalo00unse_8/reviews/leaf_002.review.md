@@ -2,24 +2,19 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Reasons
 
-- The translation preserves the contents page as navigational entries rather than converting it into a prose overview. The recovered category and item names remain distinct.
-- The official XML is strongly interleaved across columns. It recovers `American Cinematographer` in the region following `The Modern Utopian`, in addition to `American Cinematographer Manual` under Communications; the former is absent from `Final Translation` and cannot be placed confidently without the scan.
-- The official XML also recovers OCR-uncertain `Ciearinghouse`, which the translation explicitly withholds. The scan is required to decide its spelling, category, and whether it is a real contents entry.
-- The possible `Shelter and Land Use` and final Learning category headings are not recoverable from OCR. The translator correctly avoided inventing them, but a contents page is not complete until visible category headings and column grouping are checked.
-- No order metadata was improperly removed, and no workflow labels appear in the reader-facing body.
+- PDF page 3 confirms the seven category headings, three-column order, and the placement of `Clearinghouse`, `American Cinematographer`, `Books`, `Art Prints`, and the `Learning` entries.
+- `Village Technology` is now present as its own `Shelter and Land Use` entry between `Alaskan Mill` and `The Indian Tipi`.
+- The source title is now correctly recorded as `Heathkit` in Context Notes and in the translated contents entry; the erroneous `Heathkit Books` form is gone.
+- The Source Pack is consistent with the completed review, and no workflow/review wording leaks into the reader-facing translation.
 
 ## Required Fixes
 
-- Use the n2 high-resolution scan to establish column order, category boundaries, and every visible category heading.
-- Confirm whether `American Cinematographer` is a separate contents item and add it in the correct category if visible.
-- Resolve `Ciearinghouse` from the scan and translate or preserve it as appropriate; do not silently drop it if it is a real entry.
-- Recheck the final uncategorized learning/personal-development cluster and attach it to a source-visible heading only if the scan supports one.
+- None.
 
 ## Residual Risks
 
-- Many book and product titles are provisional renderings rather than shared glossary decisions. After layout recovery, recurring titles should be reconciled with their later full entries.
-- OCR alone cannot establish whether decorative marks conceal additional short headings or page references.
+- Several Chinese title choices remain provisional glossary matters, but the scan-confirmed English navigation titles and category membership are complete.

@@ -9,8 +9,8 @@
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_8/page/n4_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_8/page/n4_w2000.jpg
 - OCR source: official Internet Archive DjVu XML at `_local/legacy/work/wholeearth/page_xml/wholeearthcatalo00unse_8_djvu.xml`; 1,466 OCR words in 224 lines. No supplemental OCR used.
-- Scan evidence: Archive w2000 retrieval timed out on 2026-07-14; no local page image was found. Diagram labels, quotation order, and small bibliographic type require visual verification.
-- OCR risk flags: `dense_three_column`, `long_excerpts`, `diagram_labels`, `small_type`, `entry_boundaries`, `highres_unavailable`.
+- Scan evidence: local PDF obtained and visually checked on 2026-07-15; access leaf `n4` maps to PDF page 5. Three-column order, spectrum labels, quotation sequence, and bibliographic blocks are confirmed.
+- OCR risk flags: `dense_three_column`, `long_excerpts`, `diagram_labels`, `small_type`, `entry_boundaries_verified`, `highres_reviewed`.
 
 ## Context Notes
 
@@ -18,19 +18,19 @@
 - Opening editorial review says Fuller's insights initiated the catalog; characterizes four works (`Nine Chains to the Moon`, `Ideas and Integrities`, `No More Secondhand God`, `World Design Science Decade`); discusses repetition, the raga-like quality of his lectures, his demanding language, empirical curiosity, New England perseverance, and originality.
 - A long verse/prose excerpt attributed to `No More Secondhand God` begins `I see God in / the instruments and the mechanisms...`, develops `God ... is a verb`, and continues through direct experience versus second-hand religious information. This excerpt must remain distinct from the editorial review.
 - `Ideas and Integrities`: Buckminster Fuller; 1963; 318 pages; `$10.00 postpaid`; supplier `Prentice-Hall, Inc., Englewood Cliffs, New Jersey 07631`, or Whole Earth Catalog. A long excerpt beginning `Standing by the lake on a jump-or-think basis` is attributed to this book.
-- A graphic/diagram near the `Ideas and Integrities` material is OCR-fragmentary. Recoverable labels include `cosmic rays`, `photography`, `ultraviolet`, `visual`, `pressure bed`, and a corrupted title resembling `RELATIONSHIP OF MAN TO ELECTROMAGNETIC SPECTRUM`. All diagram labels require scan verification; none should be silently reconstructed from OCR.
+- A graphic near the `Ideas and Integrities` material is titled `RELATIONSHIP OF MAN TO THE ELECTROMAGNETIC SPECTRUM`. The scan confirms its frequency scale, spectral bands, sensory/technical labels, auxiliary states, and atmospheric-absorption relationships used in the translation.
 - `WDSD Document 1` excerpt contrasts the visible one percent of historical transformation with 99 percent unseen change and says disciplined readers of invisible trends see humanity becoming nearly 100 percent successful as an occupant of universe.
 - Separate bibliographic entries: `Nine Chains to the Moon`, Buckminster Fuller, 1938/1963, 375 pages, `$2.45 postpaid`; `No More Secondhand God`, Buckminster Fuller, 1963, 163 pages, `$2.25 postpaid`; both from Southern Illinois University Press, 600 West Grand, Carbondale, Illinois 62903, or Whole Earth Catalog.
 - Excerpts on the right include: thinking as putting aside/tuning out irrelevancies, attributed to `Omnidirectional Halo` in `No More Secondhand God`; the `phantom captain` passage attributed to `Nine Chains to the Moon`; a radome mass-production versus New York skilled-labor comparison marked `WDSD Document 2`; Fuller's definition of `synergy`, attributed to `Ideas and Integrities`; and a parenthetical definition of `selfishness`, attributed to `No More Secondhand God`.
 - OCR regions indicate three vertical reading zones, but text, diagrams, excerpts, and bibliographic blocks are interleaved. The translator must preserve the individual work/excerpt boundaries rather than following raw XML region order as one continuous essay.
-- Concrete OCR uncertainties include `i/lusor' language`, `humar communication`, `bom` for likely `born`, `Redomes`, `behavior fo`, and several bracket/citation characters. Scan review is required before accepting exact wording.
+- The scan resolves corrupt OCR forms including `i/lusor' language`, `humar communication`, `bom`, `Redomes`, `behavior fo`, and the affected brackets/citation characters; the corrected readings are documented below.
 
 ## Glossary Updates
 
 - `Buckminster Fuller`：建议统一译作“巴克敏斯特·富勒（Buckminster Fuller）”。
 - `World Design Science Decade`：建议译为“世界设计科学十年”，简称 `WDSD` 时保留英文缩写。
 - `synergy`：建议译为“协同作用”；富勒在本页给出的定义强调，整体系统表现出无法从各子系统事件预见的独特行为。
-- `Nine Chains to the Moon`：暂译《通往月球的九条链》；`Ideas and Integrities` 暂译《观念与完整性》；`No More Secondhand God` 暂译《不再有二手上帝》。书名均保留英文原名，待总审统一。
+- `Nine Chains to the Moon`：本刊译作《通往月球的九条链》；`Ideas and Integrities` 译作《观念与完整性》；`No More Secondhand God` 译作《不再有二手上帝》。书名均保留英文原名。
 - `phantom captain`：建议译为“幽灵船长”，保留原文把身体机制比作船的隐喻。
 
 ## Final Translation
@@ -43,7 +43,7 @@
 
 抱怨富勒的人，主要嫌他重复——同样的观念一遍又一遍，真叫人难为情。确实让人难为情，却也能照亮问题，因为从不同角度、在不同语境中重新接近同一套想法，它们会显出不同的用处。富勒的演讲有拉格音乐的气质：丰富、非线性、无尽即兴，又充满汇聚而来的惊奇。
 
-有些人会被他的语言挡在门外。那种语言对头脑提出的要求，就像你突然发现汽车里多了一台引擎——你若不让它带你跑得更快，它就会拖住你。富勒不会等。他曾因自己的语言惹上麻烦，沉默了两年；重返人类沟通时，他已经重新设计了这件工具。
+有些人会被他的语言挡在门外。那种语言对头脑提出的要求，就像你突然发现汽车里多了一台引擎——你若不让它带你跑得更快，它就会拖住你。富勒不会等。他自造的 `ill-usor' language` 给他惹上麻烦后，他沉默了两年；重返人类沟通时，他已经重新设计了这件工具。
 
 凭着这一点，再加上经验性的好奇心与新英格兰式的坚忍，富勒锻造出了这个时代最具原创性的个性与功能性才智之一。
 
@@ -161,7 +161,7 @@
 
 你对我说：
 
-“喂，我是 Christopher”；或
+“喂，Buckling，我是 Christopher”；或
 
 “爸爸，我是 Allegra”；或
 
@@ -217,6 +217,12 @@
 
 ### 《世界设计科学十年》文件 1
 
+#### 人与电磁频谱的关系（RELATIONSHIP OF MAN TO THE ELECTROMAGNETIC SPECTRUM）
+
+图的纵轴是每秒周数（c.p.s.）／频率尺度，从上到下标出约 `10²²`、`10²⁰`、`10¹⁸`、`10¹⁶`、`10¹⁵`、`10¹⁴`、`10¹²`、`10⁴`，再进入声频范围的 `20,000`、`15,000` 与 `0`。频谱带依次为：宇宙射线（cosmic rays）、伽马射线（gamma rays）、X 射线（X-rays）、紫外线（ultraviolet）、可见光（visual）、红外线（infrared）和无线电（radio）。
+
+右侧把人的感知与辅助技术叠在同一尺度上：摄影（photography）、眼（EYE）、皮肤（SKIN）、电视（T.V.）、无线电（radio）、耳（EAR）以及皮肤压力（skin pressure）。底边区分“无辅助”（unaided）与“有辅助”（aided）；网纹区域标示“大气吸收”（atmosphere absorbs）及相应可达范围。该图属于 WDSD 文件 1。
+
 几百万年来，地球上的世界社会一直依据可见、可触、可由感官证明的标准作出判断。
 
 可以稳妥地说，全世界都盯着历史转变中无关紧要、可见的那 1%，却错过了其余 99% 整体而不可见的变化所具有的意义。形态从来可见；而形态已不再能够“追随功能”，因为那些重要的功能是不可见的……
@@ -271,14 +277,14 @@
 
 ## OCR / Uncertainty Notes
 
-- 本页尚未做扫描图视觉核对；三栏阅读顺序、引文与书目块的精确位置仍需高分辨率扫描确认。
-- 人与电磁频谱关系图的标题和标签 OCR 破碎。虽能零散读出 `cosmic rays`、`photography`、`ultraviolet`、`visual`、`pressure bed`，但无法可靠确认层级与关系，因此未写入最终译文。
-- 编辑评介中 `i/lusor' language` 无法可靠恢复。译文保留“语言惹上麻烦”这一确定句义，未猜译损坏的修饰词。
-- 电话诗段中 OCR 得到 `Hello Buckling this is Christopher`；`Buckling` 可能是误识。译文保留确定的问候与说话者姓名，把损坏的称呼留在本注中等待扫描确认。
-- `bom`、`Redomes`、`behavior fo` 等可由完整句法明确判定的 OCR 错误，分别按 `born`、`radomes`、`behavior of` 处理；引文括号与标点仍待扫描复核。
+- 已对照本地 PDF 第 5 页完成三栏阅读顺序、书目块与图版核对。
+- 人与电磁频谱关系图的标题、频段、频率尺度、感官／技术标签、辅助状态及大气吸收关系均由扫描恢复；最细刻度仍以原图对照为准。
+- 编辑评介中的造词经扫描确认为 `ill-usor' language`，按原拼写保留。
+- 电话诗段经扫描确认为 `Hello Buckling this is Christopher; Daddy it's Allegra; or Mr. Fuller this is the Telephone Company Business Office; and I say you are inaccurate.`，译文已按该顺序恢复。
+- `bom`、`Redomes`、`behavior fo` 等可由完整句法明确判定的 OCR 错误，分别按 `born`、`radomes`、`behavior of` 处理；引文括号与标点已对照扫描复核。
 
 ## Self Critique
 
 - 已把编辑评介、四组长引文、书目与获取信息分别组织，没有将富勒的多部作品合并成一篇概述。
-- 诗体节选保留了段落和反复，但中文断行是按 OCR 逻辑重排，尚需扫描确认原版行分布。
-- 电磁频谱图属于实质内容，但现有 OCR 不足以可靠翻译；本稿没有用常识补齐，故本页仍需要高分辨率扫描才能通过最终审核。
+- 诗体节选的段落、反复与原版行序已按扫描核对；中文在不改变语义次序的前提下按可读性断行。
+- 电磁频谱图已经按扫描转写其层级和可辨标签；仍需在阅读室保留原图，以免线性文字削弱网纹区域和尺度关系。

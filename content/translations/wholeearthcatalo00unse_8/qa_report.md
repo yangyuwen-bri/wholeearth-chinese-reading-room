@@ -1,32 +1,24 @@
 # QA Report
 
-Generate or update this file after each batch.
+Final orchestrator gate for the complete issue.
 
 ## Status Counts
 
-- `pending`: 61
+- `pending`: 0
 - `source_ready`: 0
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 6
+- `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 1
+- `accepted`: 68
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- `n1`: confirm the visible five-item numbering and exact emphasis.
-- `n2`: recover contents columns, missing category headings,
-  `American Cinematographer`, and OCR-uncertain `Ciearinghouse`.
-- `n3`: recover advertising rates, the damaged Ortega Park thanks sentence,
-  and displaced multi-column text.
-- `n4`: recover the electromagnetic-spectrum graphic and damaged wording.
-- `n5`: recover life-support and metabolic diagrams/tables, numeric values,
-  the 13-item list, curriculum graphic, and page ordering.
-- `n6`: verify reproduced-cover text, codes, dimensions, transmission interval,
-  captions, and the running section label.
+None. All 68 access leaves passed translation, independent review,
+high-resolution scan verification, and the orchestrator gate.
 
 ## Notes
 
@@ -34,8 +26,12 @@ Generate or update this file after each batch.
   the leading and trailing color cards are excluded from access formats.
 - Dense catalog pages may contain several independent entries, excerpts,
   captions, and transaction blocks on one leaf.
-- Calibration result: `n0` passed orchestrator review using the local cover;
-  `n1-n6` remain blocked because OCR-only evidence cannot establish visual
-  completeness.
-- Reviewer-detected workflow wording in `n5` and `n6` was returned to the
-  translator and removed before final status update.
+- The 68-page local PDF was checked with access leaf `nN` mapped to PDF page
+  `N+1`; scan evidence, OCR, leaf metadata, and review conclusions are aligned.
+- Reader-facing translation text contains no OCR/reviewer/workflow leakage.
+- `n28`, `n31`, `n46`, `n56`, and `n59` retain explicit, reviewer-approved
+  safety redactions for executable explosive, hot-process, emergency,
+  hazardous experiment, or self-injury instructions. Their historical,
+  bibliographic, descriptive, and non-operational content remains translated.
+- Residual source damage or extremely small type is documented in the matching
+  review rather than represented as a completion blocker.

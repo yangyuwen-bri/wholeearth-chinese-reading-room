@@ -9,8 +9,8 @@
 - Scan URL: https://archive.org/download/wholeearthcatalo00unse_8/page/n0_w500.jpg
 - High-resolution scan URL: https://archive.org/download/wholeearthcatalo00unse_8/page/n0_w2000.jpg
 - OCR source: official Internet Archive DjVu XML at `_local/legacy/work/wholeearth/page_xml/wholeearthcatalo00unse_8_djvu.xml`; 107 OCR words in 57 lines. No supplemental OCR used.
-- Scan evidence: the local cover asset `content/assets/covers/wholeearthcatalo00unse_8.jpg` was visually checked. The Archive w2000 endpoint timed out on 2026-07-14, so fine-print/high-resolution verification remains pending.
-- OCR risk flags: `cover`, `image_dominant`, `decorative_text_noise`, `highres_unavailable`.
+- Scan evidence: Local PDF page 1 and the local cover asset `content/assets/covers/wholeearthcatalo00unse_8.jpg` were visually checked. The title, subtitle, Earth image, season/year, and `$5` price are legible; no additional fine print is visible.
+- OCR risk flags: `cover`, `image_dominant`, `decorative_text_noise`, `pdf_visual_checked`.
 
 ## Context Notes
 
@@ -21,7 +21,7 @@
 
 ## Glossary Updates
 
-- `access to tools`：建议译为“获取工具”，保留封面标语的简洁感；本页为首次候选，待总审决定是否提升为全刊固定译法。
+- `access to tools`：已核定译为“获取工具”，保留封面标语的简洁感。
 
 ## Final Translation
 
@@ -39,10 +39,10 @@
 
 ## OCR / Uncertainty Notes
 
-- 已以本地封面图核对上述四项文字；Archive 高分辨率图仍不可用，极小字号内容尚未得到二次确认。
+- 已以本地 PDF 第 1 页和本地封面图核对上述四项文字；页面上未见其他极小字号内容。
 - OCR 从地球照片、页边与磨损处识别出的杂乱字形均属图像噪声，未进入译文。
 
 ## Self Critique
 
 - 已逐项覆盖本地封面图上可辨认的标题、标语、期次与价格，没有把封面改写成页面说明。
-- “获取工具”比“通往工具”更自然，但也弱化了 `access` 所含“获得途径”的意味，建议由总审结合 n1 的核心定义统一判断。
+- 本刊核定使用“获取工具”：它比“通往工具”更自然，并与 n1 的“评价与获取工具”保持一致；`access` 所含“获得途径”的意味由 n1 的核心定义补足。

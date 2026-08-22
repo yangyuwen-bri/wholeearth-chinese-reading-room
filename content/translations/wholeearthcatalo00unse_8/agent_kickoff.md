@@ -50,7 +50,11 @@ If this issue exposes a new repeated problem, record it in workflow_lessons.md
 first. Do not silently rewrite prompts or global workflow rules mid-batch.
 
 First task:
-Inspect the issue package, source OCR, scans, and data/issue_agents/wholeearthcatalo00unse_8/.
+Inspect the issue package, `_local/page_xml/` OCR/scandata, and any cached
+`content/translations/wholeearthcatalo00unse_8/_local/scans/` files. For this
+issue, access leaf `nN` maps to PDF page `N+1`; visually verify that mapping
+before relying on it. If direct Archive requests time out on this machine, use
+the local proxy explicitly with `curl -x http://127.0.0.1:7890`.
 Then complete the first-hour checklist from docs/translation_workflow.md and
 propose a calibration batch with clear verification checks. Run separate source,
 translator, and reviewer agents, then perform the orchestrator gate yourself.
