@@ -2,24 +2,30 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: complete Business essay and all financial tables, photo
+  caption, Quick Hard Summary with two stores and all operational paragraphs,
+  and every criterion, field, and checkbox in the suggestion form.
+- Translation coverage: all prose, figures, line items, dates, addresses,
+  phone numbers, procedures, attributions, and form labels remain.
+- Permitted omissions: blank writing lines and nonverbal photograph only.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The 3381×4669 scan restores the true upper/lower reading order and corrects
+  the Berkeley street number to 2466.
+- The store-opening guide is translated paragraph by paragraph; no operational
+  or legal-permit content is reduced to a summary.
+- Financial arithmetic and all form controls match the scan.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Monetary values, agencies, addresses, and business rules are 1970 archival
+  information and should not be treated as current operating guidance.
