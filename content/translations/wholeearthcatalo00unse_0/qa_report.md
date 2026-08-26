@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 110
+- `source_ready`: 109
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 38
+- `accepted`: 39
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -104,3 +104,5 @@ This report is updated after each accepted batch.
   distribution terms and inventory, every subscription-form option, and captions.
 - `n120` accepted with both pack reviews, three JanSport models, complete USGS
   map/order guidance and table, plus every Kelty BB5/BB6 specification.
+- `n146` accepted with all Portola programs, six art classes, Bead Game scale,
+  Scripps participants, Big Rock catalog taxonomy, prices, addresses, and form.
