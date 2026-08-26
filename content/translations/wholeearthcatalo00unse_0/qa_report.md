@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 29
+- `source_ready`: 28
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 119
+- `accepted`: 120
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n139` accepted with the complete Golden Flower poem, record and both excerpts, plus every Blasting review paragraph, four literature sources, six numbered figures/captions and both charge passages retaining all costs, dimensions, quantities, addresses and firing terms; damaged woodcut characters and severe archival safety risks are explicitly bounded.
 - `n131` accepted with the complete review, teaching-goal quotation and all six Don Juan excerpt groups, full digital-computer record, exact Boolean expression and nine mechanical labels, plus the complete T'ai-Chi poem, record, both prose excerpts, photo numbers, and foot-position figures; no philosophical or technical passage was summarized.
 - `n36` accepted with the full goat review and three herd-behavior excerpts, both book records, dairy-conformation text, world map key, complete journal/yogurt/equipment advertisements, and all four rabbit-book entries retaining every price, model, dimension, weight, term, and address; historical animal-welfare risks are bounded.
 - `n51` accepted with both complete reviews, all six publication records and order fields, three burn captions restored from the scan, full hepatitis and dermatitis treatment/prophylaxis excerpts, all 14 fecal-plate labels, four respiration steps, and the complete DDT passage; historical medical risks are explicitly bounded.
