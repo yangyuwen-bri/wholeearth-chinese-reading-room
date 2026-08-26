@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 94
+- `source_ready`: 93
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 54
+- `accepted`: 55
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -128,6 +128,8 @@ This report is updated after each accepted batch.
   hanging-ropes problem, all 40 rope-rope prompts and the rope-hand continuation.
 - `n40` accepted with all three gardening publication records, four full excerpts,
   seven blackberry-training methods, the stone-wall caption, and source-exact prices.
+- `n69` accepted with both publication records, all Zen captions and prose, and
+  both scan-reconstructed poems preserved line by line without summary substitution.
 - `n119` accepted with all four tent/sleeping-bag entries, complete Yeti price
   matrix, every size/material/address, Ocaté diagrams, and tetrahedron design text.
 - `n114` accepted with full boatbuilding review/diagrams, every fishing-method
