@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 65
+- `source_ready`: 64
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 83
+- `accepted`: 84
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n35` accepted with all livestock review/excerpts, 67 pig/cow diagram labels, complete bee-supply specifications/prices, both bee books and periodical/catalog records, all four development stages, and the entire bread recipe with every quantity and step.
 - `n76` accepted with all poetry/language excerpts, three full reviews/order records, both scientific arguments, exact exponents, the complete 551-bit Drake message and decode instructions, all thought-form principles, and captions; no binary or prose block was summarized away.
 - `n17` accepted with all five Gary Snyder poem/prose groups translated line by line, including cross-column continuations, quotations, parentheticals, source labels, three independent book prices, and the full order address; no poem was replaced by a thematic synopsis.
 - `n62` accepted using the raw spread to restore gutter text; all 16 cover lines, hoof labels, copyright paragraphs, dandelion-wine quantities/steps, reviews/order records, annotated bibliography entries, and legible village-plan labels were translated without summary substitution.
