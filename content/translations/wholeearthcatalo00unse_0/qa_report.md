@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 129
+- `source_ready`: 128
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 19
+- `accepted`: 20
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -66,3 +66,5 @@ This report is updated after each accepted batch.
   footing, wall-layer, solar-heating, and rational-framing diagram labels.
 - `n29` accepted with both earth manuals, all 13 suggested references, full
   fiberglass excerpts, soil-cement instructions, and the road-drag diagram.
+- `n30` accepted with excavation instructions, all catalog ads, the complete
+  transit parts list, differential-leveling table, and six setup steps.
