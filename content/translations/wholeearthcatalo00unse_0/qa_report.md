@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 10
+- `source_ready`: 9
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 138
+- `accepted`: 139
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n82` accepted with the complete Expanded Cinema record/excerpt, every Radical Software review and television/body/video-duel passage, the full Blackwell's review/payment rules/television excerpt, and all Tibetan Book poem, introspection, One Mind and Great Liberation text; no media experiment, order field or religious passage was summarized.
 - `n57` accepted with the complete Living the Good Life review/record, full three-alternative and values arguments, animal ethics, all seven self-sufficiency steps, stone-building rationale and frame-joint repair, plus the complete Simple Burial review/record and memorial-society source; no communal or funeral prose was summarized.
 - `n44` accepted with all four cookbook reviews/records, every New Age egg-yolk, nutmeat and stuffed-pepper recipe, both Northern recipes, the full Vibration Cooking cake/food-demystification/Hopping John/rice/steak material, and the complete nutrition, muffin, parsnip and liver passages; all quantities and the historical slur remain explicit and contextualized.
 - `n50` accepted with the complete American Indian Medicine review/record and all contraception, mesquite, disease-history, wild-mint and hydrotherapy passages; every Dear Doctor Q&A/letter; all three prescription-drug entries with doses/prices/statistics; and the complete shipboard appendicitis text, with obsolete medical risks explicitly bounded.

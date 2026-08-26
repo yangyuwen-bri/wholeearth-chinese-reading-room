@@ -2,24 +2,24 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: complete Expanded Cinema record/excerpt/images; complete Radical Software review/record, television quote, split-screen body experiment and Guns, Knives or Videotape procedure/footnote; complete Blackwell's review, record, payment rules and television excerpt; complete Tibetan Book poem/record and all introspective, One Mind and Great Liberation passages; printed page.
+- Translation coverage: every legible paragraph, verse line, title, date, page count, price, address, percentage, duration, dimension, exchange rate, payment field, experiment step, quotation and image group was checked against the 3232 × 4370 scan and translated.
+- Permitted omissions: none; uncaptioned experimental images are identified without invented meanings.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- High-resolution review confirms all four page regions and restores OCR-damaged addresses, exchange rates, line breaks and experiment order.
+- Every media experiment, payment rule and religious-philosophical passage remains complete rather than reduced to a thematic summary.
+- Archival payment data and experiential claims are bounded from current operational or clinical use.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Historical addresses, exchange rates and publication status may no longer be valid.
