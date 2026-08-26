@@ -125,15 +125,112 @@ ae Z Toronto 2B, Ontario
 
 ## Final Translation
 
+### ★ 天文照片目录
+
+各种太空味十足的图片，
+价钱相当便宜（8×10 英寸，
+一张一块五左右）。
+
+——jd
+
+样片说明：
+
+- **金星**：六幅紫外光照片；1927 年 6 月 6、23、24、26、30 日和 7 月 1 日；
+  100 英寸望远镜。
+- **L4**：月龄 14 天（满月）。
+- **S12**：猎犬座中的涡状星系（Messier 51，NGC 5194–5）。
+- **Arend–Roland 彗星**：五幅照片，摄于 1957 年 4 月 26、27、29、30 日及
+  5 月 1 日；48 英寸望远镜。目录号 295t。
+- **六个星系拼图**，附 NGC 编号与分类：NGC 1201—S0；2811—Sa；
+  488—Sab；2841—Sb；3001—Sb；628—Sc。目录号 138t。
+
+目录免费，购自 California Institute of Technology Bookstore,
+1201 East California Boulevard, Pasadena, California 91109。
+
+另一份目录免费，购自 Lick Observatory, University of California,
+Santa Cruz, California 95060。
+
+### Hallwag 星图
+
+两年来，我一直在找一张便宜、准确、壮观的全天星图。这就是了，而且是彩色
+的。图上标出双星与变星、星团、新星、星云、星系和射电源。科学原本可以从
+冶金、气象研究或植物育种开始；它却是从天文学开始的。
+
+——SB
+
+*The Stars*；48.5×33 英寸；2.50 美元，邮资已付。购自 Crown Publishers,
+419 Park Avenue South, New York, N.Y. 10016；或向 WHOLE EARTH CATALOG
+订购。
+
+### 《观测者手册》（The Observer’s Handbook）
+
+对于那些喜欢直视星辰眼睛的人，这是最好的业余天文学家手册。内容包括小行星、
+星团、星座、食、星系、行星、星云、掩星、射电源、岁差、星图、太阳黑子和
+流星。每年 11 月出版。
+
+——SB；Lee Anderson 推荐
+
+100 页；1.50 美元，邮资已付。购自 Royal Astronomical Society of Canada,
+252 College Street, Toronto 2B, Ontario, Canada。
+
+### ★《从太空进行生态调查》（Ecological Surveys From Space）
+
+带着目的的高空照片。
+
+——jd；Frank Deis 推荐
+
+NASA；1970 年，75 页；1.75 美元，邮资已付。购自 Superintendent of
+Documents, Government Printing Office, Washington, D.C. 20402；或向
+WHOLE EARTH CATALOG 订购。
+
+图 16：墨西哥湾沿岸红外照片，可见 1965 年 12 月 7 日森林火灾形成的两缕
+烟柱。
+
+### 完整地球（Full Earth）
+
+“曼陀罗地球”——1967 年 11 月，一颗位于南美洲上空的同步卫星在正午拍摄
+的彩色图像——可向 WHOLE EARTH CATALOG 购买海报；2 美元，邮资已付。
+尺寸 22×27 英寸。订购五张或以上可享五折。
+
+——SB
+
+### 地球旗（Earth Flag）
+
+几星期前，一位名叫 John McConnell 的先生来到 Truck Store，说：既然所有
+国家都有旗，联合国有旗，州和企业也有旗，也许应当有一面只代表“人”的旗。
+于是他同艺术家 Norman LaLiberte 合作，选用一幅阿波罗地球照片，做出了
+地球旗。我不知道自己是否愿意为它而死，但这是我见过的第一面不会让我觉得
+自己以某种方式被排斥在外的旗。挥动地球旗感觉很好。
+
+——SB
+
+- 11×13 英寸：1.50 美元，邮资已付。
+- 3×5 英尺：12.00 美元，邮资已付。
+
+购自 WHOLE EARTH CATALOG。订购 10 面或以上，购自 “W.E.” Inc.,
+19 Troutman Street, Brooklyn, New York 11206。
+
+### 整个地球升起（Whole Earth Rising）
+
+比我们的更大、更好的彩色地球海报。不错的几张包括：*Giant Earth*（下图）、
+*Earth Over Moon*、*Astronaut White*。
+
+——SB
+
+3.00 美元，邮资已付。购自 Celestial Arts, 1345 Howard Street,
+San Francisco, California 94103；或向 WHOLE EARTH CATALOG 订购。
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 高分辨率扫描确认页面有七个条目、五组天文样片说明、一张星系分类表、
+  一幅 NASA 图注及两种地球旗尺寸；OCR 跨栏次序已重新排列。
+- 地球旗评论中的 `somehow` 语气词按“以某种方式”理解并译为自然中文。
 
 ## Self Critique
 
-- Pending translation.
+- 已逐项覆盖所有尺寸、日期、望远镜口径、目录号、NGC 分类、页数、价格、
+  折扣、邮寄地址和图注；未把照片页写成天文学主题概述。

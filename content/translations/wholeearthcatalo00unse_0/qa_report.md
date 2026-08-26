@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 140
+- `source_ready`: 139
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 8
+- `accepted`: 9
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -42,3 +42,5 @@ This report is updated after each accepted batch.
 - `n15` accepted after the scan revealed a complete top-of-page book entry that
   official OCR missed; the entry, feedback diagram, cartoon caption, and
   perpetual-motion listing are all restored.
+- `n12` accepted with all astronomical photo captions, the six-galaxy NGC table,
+  NASA caption, poster sizes/prices, Earth Flag variants, and addresses intact.
