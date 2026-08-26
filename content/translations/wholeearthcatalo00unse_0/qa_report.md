@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 109
+- `source_ready`: 108
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 39
+- `accepted`: 40
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -106,3 +106,5 @@ This report is updated after each accepted batch.
   map/order guidance and table, plus every Kelty BB5/BB6 specification.
 - `n146` accepted with all Portola programs, six art classes, Bead Game scale,
   Scripps participants, Big Rock catalog taxonomy, prices, addresses, and form.
+- `n117` accepted with every motorcycle-service label and procedure, the complete
+  Travelers' Directory entry/cover, and all tanning tools, layers, and excerpt.
