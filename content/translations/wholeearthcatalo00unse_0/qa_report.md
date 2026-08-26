@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 6
+- `source_ready`: 5
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 142
+- `accepted`: 143
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n8` accepted with the complete Biology review/record, population graph, cloning/evolution excerpts and every annual-cycle label; all five Book of Tea passages; and the complete Husserl review/record/method argument, with historical eugenic and cultural claims preserved but explicitly contextualized.
 - `n39` accepted with the complete two-column Organic Gardening Books essay and both records, every fertilizer/forest/bird/plant passage, all three pest-control steps and species lists, plus the mushroom shelf and barrel-root-cellar labels; the review's full learning progression and political argument were not summarized.
 - `n47` accepted after rotating the sideways high-resolution page, with the complete Hansen review/records, all 12 butter and 15 hard-cheese steps, every temperature/time/quantity/criterion, and all cutting/pressing figure labels; unsafe historical raw-milk and home-aging procedures are explicitly bounded.
 - `n143` accepted with the complete Old Stuff introduction and all 229 independent A-through-P stock rows retaining English/Chinese titles, every old-catalog issue reference, volume/set/each notation and exact price; no inventory item was grouped, collapsed or replaced by an overview.
