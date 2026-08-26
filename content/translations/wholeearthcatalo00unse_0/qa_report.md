@@ -5,19 +5,20 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 144
+- `source_ready`: 143
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 4
+- `accepted`: 5
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- `n3`–`n4`, `n6`–`n147`: translation and independent scan-backed review pending.
+- `n3`–`n4`, `n6`–`n8`, `n10`–`n147`: translation and independent scan-backed
+  review pending.
 
 ## Notes
 
@@ -31,3 +32,6 @@ This report is updated after each accepted batch.
   roster on `n1`; no summary substitution was used.
 - `n5` accepted after three-column scan reconstruction; both book records and
   every quoted passage are present in full.
+- `n9` accepted after source-specific comparison against the Spring 1970
+  translation memory; changed book metadata and Fall-only passages were audited
+  against the scan.
