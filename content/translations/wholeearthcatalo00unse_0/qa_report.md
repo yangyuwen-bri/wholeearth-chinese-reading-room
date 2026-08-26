@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 47
+- `source_ready`: 46
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 101
+- `accepted`: 102
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n105` accepted with complete Moor and Mountain, MSR, Ski Mountaineering, and Camping and Woodcraft records; all cord models/prices, harness and Auto-Belayer labels, full accident/testing narrative, two-step and lightning passages, and all Kephart figure numbers remain explicit.
 - `n128` accepted with the complete five-paragraph Mescal excerpt, all 34 Lee Mountain and 39 Smith Exchange rows kept independent with exact prices/attributions, full correspondence-study record, and all 13 Alaska Extension titles and price variants.
 - `n72` accepted with complete Rolling Stone and Friends reviews/subscription records, all five Rolling Stone news items, full Owsley legal report, every JAMMY paragraph and quotation, and the complete historically offensive Die Nigger Die review with contextual warning rather than omission or sanitization.
 - `n94` accepted with both complete book records and excerpts, full raku discussion, all 16 supplier records kept independent, every clay-sieving and 16-part St. Ives kiln label, complete double-crossdraft caption and A–D airflow marks, with all addresses and technical specifications preserved.
