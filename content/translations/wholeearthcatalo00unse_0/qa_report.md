@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 103
+- `source_ready`: 102
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 45
+- `accepted`: 46
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -118,3 +118,5 @@ This report is updated after each accepted batch.
   medium/availability note, department/address, cross-reference, and Joblot entry.
 - `n80` accepted with all four synthesizers, full Synthesis letter, exact Melody
   Flute price/postage schedules, and the complete Dennis Dorogi statement.
+- `n119` accepted with all four tent/sleeping-bag entries, complete Yeti price
+  matrix, every size/material/address, Ocaté diagrams, and tetrahedron design text.
