@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 86
+- `source_ready`: 85
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 62
+- `accepted`: 63
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -144,6 +144,8 @@ This report is updated after each accepted batch.
   review and kit, plus every waterbed dimension, weight, option, price, and address.
 - `n95` accepted with all ten leather-braid figures and steps, eight Osborne tool
   size series, every MacPherson leather/needle label, price, stock code, and contact.
+- `n85` accepted with Small Parts terms, both Surplus Center machines and complete
+  specifications/capacity table, plus every Afrasian exporter, product, and address.
 - `n119` accepted with all four tent/sleeping-bag entries, complete Yeti price
   matrix, every size/material/address, Ocaté diagrams, and tetrahedron design text.
 - `n114` accepted with full boatbuilding review/diagrams, every fishing-method
