@@ -5,22 +5,23 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 1
+- `source_ready`: 0
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 147
+- `accepted`: 148
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- `n11`: full translation and independent high-resolution scan-backed review pending.
+- 无。全部 148 个 public leaves 均已完成翻译与高分辨率扫描复核。
 
 ## Notes
 
+- `n11` accepted with all three complete reviews and records, five Environmental Handbook excerpts, five Ecotactics excerpts, both Not So Rich excerpts, every attribution, action example, technical quantity, cover field and order datum; historical religious, medical, sanitation and political language is retained with explicit context rather than summarized.
 - `n140` accepted with the complete New Religions review/record and all five excerpt groups; complete Bible of the World review/record, Bhagavad-Gita, Two Masters, Shepherd's Psalm, Plea to an Ancestor and Of Riches; complete Tales review/record and both Indigenous stories; all dialogue, verse, violence, historical caste/gender language, cover fields and order data remain explicit rather than summarized.
 - `n56` accepted with the complete Factory Stores review/record; full Gohn Brothers review, catalog data, 11 independent garment rows and all specifications; the entire Suburban Guerrillaism essay; both book records and all seven public-land, air-travel, rental-house, typewriter, appliance, wheat-meal and MPF passages; the source's eight-versus-nine-company contradiction is retained rather than silently repaired.
 - `n6` accepted with the complete Black Elk review/record, Crazy Horse vision and sacred-stone account, vision-performance passage, Wounded Knee close and final sacred-tree line; complete Machina ex Deo review/record and all five excerpts; complete Technological Society review/record and all four long excerpts; historical ethnonyms and dehumanizing language are preserved with explicit context rather than omitted or summarized.
