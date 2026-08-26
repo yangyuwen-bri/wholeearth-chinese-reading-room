@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 84
+- `source_ready`: 83
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 64
+- `accepted`: 65
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -148,6 +148,8 @@ This report is updated after each accepted batch.
   specifications/capacity table, plus every Afrasian exporter, product, and address.
 - `n71` accepted with both full magazine reviews and subscriptions, the Win cover
   slogan, and both complete community/ecology essays; one tiny handscript is bounded.
+- `n113` accepted with full diving physiology and diagrams, every nautical-chart
+  source and address, all historical no-ZIP fields, and the complete trimaran labels.
 - `n119` accepted with all four tent/sleeping-bag entries, complete Yeti price
   matrix, every size/material/address, Ocaté diagrams, and tetrahedron design text.
 - `n114` accepted with full boatbuilding review/diagrams, every fishing-method

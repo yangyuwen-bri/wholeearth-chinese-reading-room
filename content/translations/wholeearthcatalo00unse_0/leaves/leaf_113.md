@@ -210,18 +210,134 @@ your local office of the Corps of Engineers]
 
 ## Glossary Updates
 
+- positive buoyancy：正浮力。
+- chemoreceptors：化学感受器。
+- nautical chart：航海图。
 
 ## Final Translation
 
+### ★《美国海军潜水手册》（*U.S. Navy Diving Manual*）
+
+海军对水下事物的了解可能比地球上任何其他机构都多；主要原因很可悲：他们在海洋上
+打仗的历史，比你我所能记得的还长。这是他们训练潜水员使用的手册。书中有关于压力、
+浮力、解剖、安全原则的大量好入门资料，以及大篇幅深潜技术。图示器材通常是海军制式，
+但很容易把政府装备与私人制造的产品联系起来。
+
+——jd
+
+1970 年 3 月；687 页；邮资已付 7.25 美元。购自 Superintendent of Documents,
+U.S. Government Printing Office, Washington, D.C. 20201；或向
+*WHOLE EARTH CATALOG* 购买。
+
+> 液体的浮力效应由阿基米德原理表述：全部或部分浸没在液体中的物体，受到一个向上
+> 的力，其大小等于物体所排开液体的重量。图 1-17 展示以下例子：一名潜水员连同
+> 头盔和潜水服重 384 磅。如果他给潜水服充气，使之排开 6.5 立方英尺的水，他就会
+> 受到相当于 6.5 立方英尺水重的浮力。每立方英尺海水重 64 磅，因此作用在潜水员
+> 身上的浮力是 6.5 × 64 = 416 磅。这个力比他的总重量 416 − 384 = 32 磅。
+> 这种超过体重的浮力称为正浮力。
+>
+> 不使用呼吸装置潜水，需要屏住呼吸；延长屏气时间的方法一直令徒手潜水者等人感兴趣。
+> 迫使人重新呼吸的不适，主要源于控制呼吸的两套主要机制。不断升高的二氧化碳分压会
+> 直接刺激呼吸中枢，下降的氧分压则通过化学感受器刺激它。刺激程度越高，抑制呼吸冲动
+> 就越困难；达到某一点，人便会坚持不住，恢复呼吸。
+
+图 A-1——用直接加压控制出血：A）在出血点上用手直接按压以控制失血；B）扎紧绷带，
+维持压力。
+
+挽具和配重带扣必须按图绑扎，这样拉动松头（A），整套挽具或配重带就会立即解脱。
+图 D-12——快速释放绳环。
+
+### New England Divers
+
+以批发价供应水下装备。〔Warren Riess 推荐〕价目表免费。索取地址：New England
+Divers Inc., 42 Water Street, Beverly, Mass. 01915。
+
+### 航海图（Charts）
+
+如果你在水上旅行，就需要比 Esso 公路图更多的东西来告诉自己身在何处。对美国水域
+来说，最好的图——实际上是唯一的图——由各政府机构发行；其他图都会写着类似“导航
+资料请参阅相应 C&GS 图”的话。
+
+去哪里取得图，取决于你想去哪里。大西洋、太平洋、墨西哥湾沿岸和近岸水道图来自
+Coast and Geodetic Survey；密西西比河及其支流用 Army Corps of Engineers 图；
+五大湖由 Lake Survey 负责。
+
+单张价格不一，多数约一两美元；河流图除外，它们成册出售。例如密苏里河分两部分，
+每册 2.00 美元。湖泊和海岸索引图可向相应机构免费索取；河流更简单——告诉工程兵团
+你要哪条河，他们会把整本卖给你。航海图经常修订，变化有时很大，所以应使用现行版。
+
+目录免费索取：Director, Coast & Geodetic Survey, E.S.S.A. Washington Science
+Center, Rockville, Maryland 20852；Lake Survey District, Corps of Engineers,
+630 Federal Building and U.S. Court House, Detroit, Michigan 48226。
+
+河流图没有统一来源，下列即各自领取地点。外国航海图由 U.S. Naval Hydrographic
+Office, Washington, D.C. 20390 发行，可写信索取目录。——John M. Ross，St. Louis, Mo.
+
+**上密西西比河：**
+
+- District Engineer, U.S. Army Engr. Dist., St. Paul, 1217 U.S.P.O. & Customhouse,
+  St. Paul, Minnesota 55101。
+- District Engineer, U.S. Army Engr. Dist., Rock Island, Clock Tower Building,
+  Rock Island, Illinois 61202。
+- District Engineer, U.S. Army Engr. Dist., St. Louis, 906 Olive Street,
+  St. Louis, Missouri 63101。
+
+**下密西西比河：**Memphis（668 Federal Office Building, Memphis, Tennessee 38103）；
+Vicksburg（P.O. Box 60, Vicksburg, Mississippi 39180）；New Orleans（Foot of Prytania
+Street, New Orleans, Louisiana）三个 U.S. Army Engr. Dist. 的 District Engineer。
+
+**Illinois Waterway：**Chicago 工程区，219 South Dearborn Street, Chicago,
+Illinois 60604；St. Louis 工程区，906 Olive Street, St. Louis, Missouri 63101。
+
+**Missouri River：**Omaha 工程区，6012 U.S.P.O. & Court House, Omaha, Nebraska
+68102；Kansas City 工程区，1800 Federal Office Building, Kansas City, Missouri 64106。
+
+**Kanawha River：**Huntington 工程区，502 8th Street, Huntington, West Virginia 25721。
+
+**Ohio River：**Pittsburgh 工程区，Federal Building, 1000 Liberty Avenue, Pittsburgh,
+Pennsylvania；Huntington 工程区，502 8th Street, Huntington, West Virginia 25721；
+Louisville 工程区，830 West Broadway, Louisville, Kentucky 40201。
+
+**Green River：**Louisville 工程区，830 West Broadway, Louisville, Kentucky 40201。
+
+**Allegheny 与 Monongahela Rivers：**Pittsburgh 工程区，Federal Building,
+1000 Liberty Avenue, Pittsburgh, Pennsylvania 15222。
+
+**Tennessee、Cumberland、Little、Clinch、Emory 与 Hiwassee Rivers：**Nashville
+工程区，P.O. Box 1070, Nashville, Tennessee 37202。
+
+**其他：**Little Rock 工程区，P.O. Box 867, Little Rock, Arkansas 72203；Garrison
+工程区，Administrative Building, Riverdale, North Dakota；Tulsa 工程区，P.O. Box 61,
+Tulsa, Oklahoma；Mobile 工程区，2301 Airport Boulevard, P.O. Box 1169, Mobile,
+Alabama 36601；Tennessee Valley Authority, Knoxville, Tennessee。
+
+〔最后这些是水库、人工湖等的资料来源。科罗拉多州的湖泊可能由另一个办公室负责；
+请向当地工程兵团办公室查询。〕
+
+### ★ Jim Brown 帆航三体船
+
+一组很不错的图纸。自己造一艘，驶去阿尔及利亚。
+
+——jd
+
+目录 3.00 美元；资料免费。索取地址：Jim Brown Sailing Trimarans, Swanton Road,
+Davenport, California 95017。
+
+“Brown 37”，设计编号 107。平面图标签：驾驶舱、甲板通道、可选改装双层铺位、储物、
+可选单铺、机舱、卫生间、油箱；另附三体船立体结构图。
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无。潜水器材照片和鱼类插图没有独立文字标签；所有图题、船图标签及 22 个河图联系
+  地址均已译出或保留。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已用 `n113_w2000.jpg` 和原尺寸航海图地址裁切复核。官方 OCR 将潜水、图表来源与
+  三体船内容交错，并截断多处地址；译文按扫描恢复。
+- New Orleans、Riverdale、Tulsa 与 TVA 条目原页未印邮编，未擅自补入现代数据。
 
 ## Self Critique
 
-- Pending translation.
+- 海军手册两段正文与两幅急救／快拆图、完整航海图说明和所有机构地址、三体船标签均
+  已翻译，没有把地址名录合并成“联系当地机构”的摘要。
