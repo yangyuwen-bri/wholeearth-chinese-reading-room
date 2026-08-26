@@ -2,24 +2,26 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: Small Engines Service Manual 评论、书目、封面和五幅维修图；
+  Adhesive Engineering Company 评论与地址；Harry M. Smith 评论、目录和四类工具。
+- Translation coverage: 正文、价格、页数、地址、型号、尺寸、图注和可辨标签均已译出。
+- Permitted omissions: 无。
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- 已以 `n102_w2000.jpg` 重建三栏阅读顺序，并恢复官方 OCR 缺失的发动机图注、
+  双镜片放大镜参数和水平仪型号价格。
+- 五幅维修图逐幅列出；纯数字零件编号保留范围，不用概述替代有文字的标签。
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- 几幅分解图仅以数字索引零件而本页没有对应名称表；译文忠实保留编号范围，
+  不推测零件名称。
