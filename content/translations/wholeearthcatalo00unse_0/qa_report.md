@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 80
+- `source_ready`: 79
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 68
+- `accepted`: 69
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,9 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n74` accepted after replacing the gutter-cropped access image with the raw
+  two-page JP2; all Itten and Fischer passages, captions, reviews, and order
+  records were restored and translated without summary substitution.
 - `n42` accepted with the complete mushroom-identification and metol procedure,
   all five species labels, full family-land review and 22-chapter contents, both
   captions, the complete hemp verse, order records, and plant-diagram labels.

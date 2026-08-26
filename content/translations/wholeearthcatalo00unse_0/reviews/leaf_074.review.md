@@ -2,24 +2,26 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: two complete book records and editor reviews; two cross-gutter color passages; Cézanne outline caption and two analysis paragraphs; the complete yellow/gold passage; three complete excerpts attributed to `The Necessity of Art`; prices and order addresses.
+- Translation coverage: every prose, caption, attribution, year, page count, price, publisher, and address was checked against the raw physical-page spread and translated.
+- Permitted omissions: none. The unlabelled indigenous-art figures are pictorial evidence and contain no additional prose.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The regular access image cuts off line beginnings at the gutter. Review used the 7952 x 5304 original JP2 spread, restored its orientation, and read physical pages 72-73 together.
+- The translation preserves complete argument structure in all three Fischer excerpts, including contrasts, historical sequence, and every final qualification.
+- Both Itten passages and the Cézanne analysis are rendered as source prose, not reduced to explanations of what the page shows.
+- All bibliographic and ordering fields are present and source-traceable.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- A few letters lie directly in the physical fold, but adjacent text, the companion page, and sentence grammar jointly support the recovered reading; no substantive clause remains unresolved.
+- The cross-gutter paragraphs overlap the preceding leaf spatially. They are retained here as complete continuous passages to prevent loss in the Chinese reader.
