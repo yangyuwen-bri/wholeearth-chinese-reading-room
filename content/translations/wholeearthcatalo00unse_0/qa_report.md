@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 87
+- `source_ready`: 86
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 61
+- `accepted`: 62
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -142,6 +142,8 @@ This report is updated after each accepted batch.
   four classified ads, all publication reviews, rental models, rates, and contacts.
 - `n54` accepted with the full sauna use/build text and diagram, complete boffing
   review and kit, plus every waterbed dimension, weight, option, price, and address.
+- `n95` accepted with all ten leather-braid figures and steps, eight Osborne tool
+  size series, every MacPherson leather/needle label, price, stock code, and contact.
 - `n119` accepted with all four tent/sleeping-bag entries, complete Yeti price
   matrix, every size/material/address, Ocaté diagrams, and tetrahedron design text.
 - `n114` accepted with full boatbuilding review/diagrams, every fishing-method
