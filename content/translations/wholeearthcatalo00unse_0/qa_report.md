@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 108
+- `source_ready`: 107
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 40
+- `accepted`: 41
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -108,3 +108,5 @@ This report is updated after each accepted batch.
   Scripps participants, Big Rock catalog taxonomy, prices, addresses, and form.
 - `n117` accepted with every motorcycle-service label and procedure, the complete
   Travelers' Directory entry/cover, and all tanning tools, layers, and excerpt.
+- `n91` accepted with all four glass/reed entries, every catalog product and
+  handmade specification, weaving diagrams, prices, addresses, and tool labels.
