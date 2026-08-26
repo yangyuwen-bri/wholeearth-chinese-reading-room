@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 130
+- `source_ready`: 129
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 18
+- `accepted`: 19
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -64,3 +64,5 @@ This report is updated after each accepted batch.
   dimensions, prospecting layout, windlass labels, and clean-up-paddle caption.
 - `n28` accepted with all three carpentry books and scan-only roof, stair,
   footing, wall-layer, solar-heating, and rational-framing diagram labels.
+- `n29` accepted with both earth manuals, all 13 suggested references, full
+  fiberglass excerpts, soil-cement instructions, and the road-drag diagram.
