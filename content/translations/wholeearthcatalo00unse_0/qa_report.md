@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 134
+- `source_ready`: 133
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 14
+- `accepted`: 15
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -56,3 +56,5 @@ This report is updated after each accepted batch.
   address, list item, and the diamond-packaging caption preserved.
 - `n24` accepted with three rural-practice articles, the editor's note, both
   heating entries, all lamp models/parts, the dealer letter, and scan-only labels.
+- `n25` accepted with both architecture reviews, three long excerpts, all image
+  captions, and the two Arcology diagrams' legible labels recovered from scan.
