@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 57
+- `source_ready`: 56
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 91
+- `accepted`: 92
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n86` accepted with all three supplier records, complete tool descriptions, every caption/address, and all 11 punch, eight handscrew, four tape, six plane, five blade, and two clamp rows preserved independently with exact model, size, weight, and price data.
 - `n115` accepted with the full thermaling and tow-release instructions, all Stick and Rudder reviews/passages/captions and three distributor addresses, the complete aeronautical-chart review, and every BD-4 performance and price field.
 - `n111` accepted with all four source records, both complete Cache Lake passages, 32-point compass and every legible field illustration, both complete Old Boathouse boat descriptions, both ocean-science passages, reliable submersible labels, and both sailing-force labels.
 - `n75` accepted with all three complete reviews/order records, the full neural-memory passage and logic labels, all three symbol-dictionary entries, every Art of Memory paragraph, and the complete 1533 figure source/caption; no entry was reduced to a topic summary.
