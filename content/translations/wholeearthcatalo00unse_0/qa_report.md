@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 44
+- `source_ready`: 43
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 104
+- `accepted`: 105
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n45` accepted with all three complete reviews/order records, the six-row two-scenario stew table preserved cell by cell, both lentil paragraphs and the complete kumquat, clementine, and mango entries; no communal-cooking or botanical prose was summarized.
 - `n38` accepted with complete veterinary and pack-horse book records, all fever/cow-age text, four suture steps, six tooth ages, all three supplier records and five products with every dosage/price, plus full horse selection/loading/rope passages and all hitch labels.
 - `n136` accepted with both complete book records, all seven attributed teaching paragraphs, full RSVP poem and ecological/Tarot/goal-orientation text, all process figures, and the dense Leary chart retained as eight orientations and 16 independent causal behavior chains.
 - `n105` accepted with complete Moor and Mountain, MSR, Ski Mountaineering, and Camping and Woodcraft records; all cord models/prices, harness and Auto-Belayer labels, full accident/testing narrative, two-step and lightning passages, and all Kephart figure numbers remain explicit.
