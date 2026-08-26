@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 32
+- `source_ready`: 31
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 116
+- `accepted`: 117
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n51` accepted with both complete reviews, all six publication records and order fields, three burn captions restored from the scan, full hepatitis and dermatitis treatment/prophylaxis excerpts, all 14 fecal-plate labels, four respiration steps, and the complete DDT passage; historical medical risks are explicitly bounded.
 - `n73` accepted using the raw 7952×5304 spread to restore all gutter-clipped Itten/Fischer continuations; every Kandinsky passage, artwork caption, color opposition, movement, node, geometric instruction, and both complete book records remain explicit.
 - `n61` accepted with all three periodical records/reviews, every Shaker agriculture/invention paragraph, the complete pig-slaughter article, all dehydrator steps and seven vegetable rows, and the full five-ingredient goat-feed formula with safety boundaries.
 - `n88` accepted with all nonprofit, Defense, GSA, and bid-abstract procedures, every form/service record, ten GSA addresses, and all five sample lots retaining every model, serial/FSN, condition, cost, weight, dimension, and quantity.
