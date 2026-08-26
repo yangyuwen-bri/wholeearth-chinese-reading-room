@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 81
+- `source_ready`: 80
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 67
+- `accepted`: 68
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,9 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n42` accepted with the complete mushroom-identification and metol procedure,
+  all five species labels, full family-land review and 22-chapter contents, both
+  captions, the complete hemp verse, order records, and plant-diagram labels.
 - Verified source mapping contains 148 public access leaves and excludes three
   non-public physical pages (`0`, `1`, `150`).
 - Dense multi-column contents/index pages (`n3`–`n4`) require high-resolution
