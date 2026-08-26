@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 89
+- `source_ready`: 88
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 59
+- `accepted`: 60
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -138,6 +138,8 @@ This report is updated after each accepted batch.
   exact material/price data, seven labels, and both stitch procedures in full.
 - `n64` accepted with every surplus component and specification, complete magazine
   subscription rules, the full Heathkit letter, graphics entry, and scan-correct prices.
+- `n78` accepted with both complete cinematography tables, every diagram label,
+  four classified ads, all publication reviews, rental models, rates, and contacts.
 - `n119` accepted with all four tent/sleeping-bag entries, complete Yeti price
   matrix, every size/material/address, Ocaté diagrams, and tetrahedron design text.
 - `n114` accepted with full boatbuilding review/diagrams, every fishing-method
