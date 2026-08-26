@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 43
+- `source_ready`: 42
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 105
+- `accepted`: 106
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n141` accepted with five complete book records and seven full excerpts, the source-printed `fat` anomaly, all Fleming printed advertising and four numbered handwritten points, every old/new price component, stamp/signature, and visible flour-sack text; no literary passage was summarized.
 - `n45` accepted with all three complete reviews/order records, the six-row two-scenario stew table preserved cell by cell, both lentil paragraphs and the complete kumquat, clementine, and mango entries; no communal-cooking or botanical prose was summarized.
 - `n38` accepted with complete veterinary and pack-horse book records, all fever/cow-age text, four suture steps, six tooth ages, all three supplier records and five products with every dosage/price, plus full horse selection/loading/rope passages and all hitch labels.
 - `n136` accepted with both complete book records, all seven attributed teaching paragraphs, full RSVP poem and ecological/Tarot/goal-orientation text, all process figures, and the dense Leary chart retained as eight orientations and 16 independent causal behavior chains.
