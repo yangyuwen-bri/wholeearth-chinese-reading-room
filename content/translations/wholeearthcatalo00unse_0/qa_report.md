@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 62
+- `source_ready`: 61
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 86
+- `accepted`: 87
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n67` accepted with all calligraphy reviews/instructions, the complete Kelsey review and product specifications, every font/galley/quoin/composing-stick price, all NAZ-DAR troubleshooting text, 18 stencil-silk price cells, and eight squeegee models; no table rows were grouped.
 - `n68` accepted with both complete theatre reviews/order records, all four scenery-carpentry passages, balcony labels and eight joint names, all five Grotowski excerpts, and the full Akropolis caption; no theory passage was replaced by a synopsis.
 - `n84` accepted using the raw spread to restore gutter text; both full book/booklet reviews, all file definitions and diagram labels, the complete Woodcraft and Gerstner reviews, four Woodcraft model-specific product records, and both Gerstner configuration rows were translated without grouping.
 - `n35` accepted with all livestock review/excerpts, 67 pig/cow diagram labels, complete bee-supply specifications/prices, both bee books and periodical/catalog records, all four development stages, and the entire bread recipe with every quantity and step.
