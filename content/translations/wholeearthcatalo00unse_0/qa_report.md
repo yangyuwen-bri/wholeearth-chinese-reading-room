@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 121
+- `source_ready`: 120
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 27
+- `accepted`: 28
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -82,3 +82,5 @@ This report is updated after each accepted batch.
   five Truckin' lines, four Gung Ho slogans, and legible decorative text.
 - `n147` accepted with the complete Home Galaxy cover text, Carl Sagan attribution,
   OCR-restored sentences, and the page-4 sunflower-seed caption.
+- `n138` accepted with both environmental excerpts, full paper-airplane metadata
+  and labels, all cooperage tools, and complete New Schools Exchange details.
