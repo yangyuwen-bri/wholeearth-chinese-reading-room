@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 137
+- `source_ready`: 136
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 11
+- `accepted`: 12
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -49,3 +49,6 @@ This report is updated after each accepted batch.
   records remain itemized.
 - `n20` accepted with all axe-handle/head patterns and all 16 British Columbia
   agriculture, commerce, forestry, land, mapping, mining, recreation contacts.
+- `n22` accepted with both dome publications, the full panel-lifting narrative,
+  diagram labels, and the complete Zome/geodesic comparison; one irrecoverable
+  tiny handwritten arrow is explicitly bounded in the omission audit.
