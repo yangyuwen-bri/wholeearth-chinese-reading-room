@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 93
+- `source_ready`: 92
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 55
+- `accepted`: 56
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -130,6 +130,8 @@ This report is updated after each accepted batch.
   seven blackberry-training methods, the stone-wall caption, and source-exact prices.
 - `n69` accepted with both publication records, all Zen captions and prose, and
   both scan-reconstructed poems preserved line by line without summary substitution.
+- `n81` accepted with both Time-Life books, all meter/Polaroid specifications,
+  East Street order data, and the full archival-processing and storage guidance.
 - `n119` accepted with all four tent/sleeping-bag entries, complete Yeti price
   matrix, every size/material/address, Ocaté diagrams, and tetrahedron design text.
 - `n114` accepted with full boatbuilding review/diagrams, every fishing-method
