@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 59
+- `source_ready`: 58
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 89
+- `accepted`: 90
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n111` accepted with all four source records, both complete Cache Lake passages, 32-point compass and every legible field illustration, both complete Old Boathouse boat descriptions, both ocean-science passages, reliable submersible labels, and both sailing-force labels.
 - `n75` accepted with all three complete reviews/order records, the full neural-memory passage and logic labels, all three symbol-dictionary entries, every Art of Memory paragraph, and the complete 1533 figure source/caption; no entry was reduced to a topic summary.
 - `n48` accepted with all 17 state-listed and six mail-order food sources kept independent, both Corona purchase records, the full Lee mill review and four-row output table, Composition of Foods record, and every loan-library rule; no supplier group was summarized.
 - `n67` accepted with all calligraphy reviews/instructions, the complete Kelsey review and product specifications, every font/galley/quoin/composing-stick price, all NAZ-DAR troubleshooting text, 18 stencil-silk price cells, and eight squeegee models; no table rows were grouped.
