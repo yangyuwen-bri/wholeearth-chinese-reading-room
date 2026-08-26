@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 79
+- `source_ready`: 78
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 69
+- `accepted`: 70
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,9 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n10` accepted with the full Canadian almanac origin/ordering record, supplier
+  and planting notes, scan-only badge and mouth labels, plus all three complete
+  information-directory entries and their services, holdings, and publications.
 - `n74` accepted after replacing the gutter-cropped access image with the raw
   two-page JP2; all Itten and Fischer passages, captions, reviews, and order
   records were restored and translated without summary substitution.
