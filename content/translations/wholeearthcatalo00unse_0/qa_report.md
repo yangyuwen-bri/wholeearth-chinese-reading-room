@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 131
+- `source_ready`: 130
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 17
+- `accepted`: 18
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -62,3 +62,5 @@ This report is updated after each accepted batch.
   products, boatbuilding entry, compost excerpts, and every order detail.
 - `n27` accepted after scan-only recovery of the log-house review, construction
   dimensions, prospecting layout, windlass labels, and clean-up-paddle caption.
+- `n28` accepted with all three carpentry books and scan-only roof, stair,
+  footing, wall-layer, solar-heating, and rational-framing diagram labels.

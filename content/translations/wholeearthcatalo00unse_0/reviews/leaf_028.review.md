@@ -2,24 +2,27 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: Canadian Wood Frame House Construction 评论/书目及四组图；
+  House Carpentry Simplified 评论/书目；The Owner-Built Home 七段评论、书目、
+  四卷标题、墙体/采暖/框架密集图。
+- Translation coverage: 所有正文、引文、价格、地址、年代、页数、尺寸、图注和
+  可辨部件标签均译出或保留专名。
+- Permitted omissions: 无。
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- 已以 `n28_w2000.jpg` 分区复核；底部手绘图单独放大，确认太阳调温采暖和八组
+  合理框架体系的标签没有被 OCR 缺失带入译文遗漏。
+- 三本书保持独立，Owner-Built Home 的段落与图示没有压缩成概述。
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- 手绘图中的线条关系只按原标签转录；没有推断未标文字的构造细节。
