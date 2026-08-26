@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 115
+- `source_ready`: 114
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 33
+- `accepted`: 34
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -94,3 +94,5 @@ This report is updated after each accepted batch.
   complete tool specifications, catalog data, labels, model numbers, and prices.
 - `n101` accepted with all three craft-book entries, blacksmithing excerpt and
   school, exact knot-diagram indices, woodcarving cartoon, and mechanical labels.
+- `n112` accepted with both canoe books, every travel excerpt, full bark-canoe
+  construction data, paddle/yoke captions, and all nine Klepper folding-boat models.
