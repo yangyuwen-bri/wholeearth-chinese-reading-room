@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 76
+- `source_ready`: 75
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 72
+- `accepted`: 73
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,9 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n3` accepted after full high-resolution reconstruction of the A-L index:
+  seven section starts plus 230 independent bilingual entries and all page
+  numbers remain searchable; no title grouping or summary substitution.
 - `n63` accepted with the section poem, full abacus and mathematics passages,
   all MARCHANT features, the complete Coxeter formula text including its source
   printing duplication, every price/address, and all diagram letters.
