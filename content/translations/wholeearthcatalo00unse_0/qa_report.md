@@ -5,23 +5,23 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 4
+- `source_ready`: 3
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 144
+- `accepted`: 145
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- `n3`–`n4`, `n6`–`n8`, `n10`–`n147`: translation and independent scan-backed
-  review pending.
+- `n11`, `n56`, `n140`: full translation and independent high-resolution scan-backed review pending.
 
 ## Notes
 
+- `n6` accepted with the complete Black Elk review/record, Crazy Horse vision and sacred-stone account, vision-performance passage, Wounded Knee close and final sacred-tree line; complete Machina ex Deo review/record and all five excerpts; complete Technological Society review/record and all four long excerpts; historical ethnonyms and dehumanizing language are preserved with explicit context rather than omitted or summarized.
 - `n16` accepted with the complete Laws of Form review/record, all definitions and language/memory/existence/self-observation arguments; all Parable orientation, food-sharing and chemical passages; and the full Hero review/record/myth passage, including source wordplay and historical cultural framing.
 - `n8` accepted with the complete Biology review/record, population graph, cloning/evolution excerpts and every annual-cycle label; all five Book of Tea passages; and the complete Husserl review/record/method argument, with historical eugenic and cultural claims preserved but explicitly contextualized.
 - `n39` accepted with the complete two-column Organic Gardening Books essay and both records, every fertilizer/forest/bird/plant passage, all three pest-control steps and species lists, plus the mushroom shelf and barrel-root-cellar labels; the review's full learning progression and political argument were not summarized.
