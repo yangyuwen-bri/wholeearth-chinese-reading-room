@@ -219,6 +219,7 @@ PRINTED_PAGE_RULES = [
 
 def inline_md(text: str) -> str:
     escaped = html.escape(text, quote=False)
+    escaped = escaped.replace("&lt;br&gt;", "<br>")
     escaped = re.sub(r"`([^`]+)`", r"<code>\1</code>", escaped)
     escaped = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", escaped)
     escaped = re.sub(r"\*([^*]+)\*", r"<em>\1</em>", escaped)

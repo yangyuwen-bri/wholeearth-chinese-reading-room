@@ -5,7 +5,7 @@
 [![线上站点](https://img.shields.io/badge/live_site-GitHub_Pages-2f6f63?style=flat-square)](https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/)
 [![静态站点](https://img.shields.io/badge/site-static_HTML%2FCSS%2FJS-6b7280?style=flat-square)](#本地运行)
 [![已索引期数](https://img.shields.io/badge/issues_indexed-147-3b6ea8?style=flat-square)](#当前状态)
-[![开放阅读室](https://img.shields.io/badge/open_reading_rooms-3-b17a2c?style=flat-square)](#重点入口)
+[![开放阅读室](https://img.shields.io/badge/open_reading_rooms-4-b17a2c?style=flat-square)](#重点入口)
 [![视觉小册子](https://img.shields.io/badge/visual_booklets-1-7c4d9e?style=flat-square)](#重点入口)
 [![许可证](https://img.shields.io/badge/license-not_declared-lightgrey?style=flat-square)](#许可与权利说明)
 
@@ -19,27 +19,31 @@
 
 <table>
   <tr>
-    <td width="16%">
+    <td width="14%">
+      <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/reader-prototype/index.html?issue=fall-1970"><strong>1970 秋季《全球概览》对照阅读室</strong></a><br>
+      148 个扫描叶全部完成忠实全文翻译、高清复核和独立审校，所有可辨识段落、图注、表格、规格、价格、型号与地址均按原页保留。
+    </td>
+    <td width="14%">
       <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/reader-prototype/index.html?issue=spring-1970"><strong>1970 春季《全球概览》对照阅读室</strong></a><br>
       148 个扫描叶全部完成忠实全文翻译、高清复核和独立审校，保留可辨识的图注、表格、规格、价格与地址。
     </td>
-    <td width="16%">
+    <td width="14%">
       <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/reader-prototype/index.html?issue=fall-1969"><strong>1969 秋季《全球概览》对照阅读室</strong></a><br>
       132 个扫描叶全部完成全文翻译和逐页复核，中文正文与 Internet Archive 原书扫描同步。
     </td>
-    <td width="16%">
+    <td width="14%">
       <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/reader-prototype/index.html"><strong>1974 Epilog 对照阅读室</strong></a><br>
       <em>Whole Earth Epilog</em> 的中文精读本，正文与 Internet Archive 原书扫描页同步滚动。
     </td>
-    <td width="16%">
+    <td width="14%">
       <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/content/visuals/1974-epilog-booklet/"><strong>1974 Epilog 视觉小册子</strong></a><br>
       基于完整中文章稿制作的章节插画小册子，按 10 个章节进入。
     </td>
-    <td width="16%">
+    <td width="14%">
       <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/content/demos/wholeearth_webgl_console_demo.html"><strong>WebGL 文库首页</strong></a><br>
       147 期 Whole Earth 出版物的视觉索引，展示每一期的阅读状态和入口。
     </td>
-    <td width="16%">
+    <td width="14%">
       <a href="content/readings/1985_software_catalog_full_chinese_reading.md"><strong>1985 Software Catalog 中文导读</strong></a><br>
       <em>Whole Earth Software Catalog 2.0</em> 的完整中文导读，后续可整理成独立阅读室。
     </td>
@@ -64,9 +68,9 @@
 | 项目 | 状态 |
 | --- | --- |
 | 公开首页 | WebGL 文库控制台，已部署到 GitHub Pages |
-| 已开放阅读室 | *Whole Earth Catalog*：1969 年秋季号、1970 年春季号；1974 年 10 月 *Whole Earth Epilog* |
-| 已验收完整翻译包 | *Whole Earth Catalog*：1968 年秋季号（68/68 页）、1969 年春季号（134/134 页）、1969 年秋季号（132/132 页）、1970 年春季号（148/148 页） |
-| 最近完成 | *Whole Earth Catalog* 1970 年春季号：148/148 页 accepted，release gate 已通过并生成对照阅读器 |
+| 已开放阅读室 | *Whole Earth Catalog*：1969 年秋季号、1970 年春季号、1970 年秋季号；1974 年 10 月 *Whole Earth Epilog* |
+| 已验收完整翻译包 | *Whole Earth Catalog*：1968 年秋季号（68/68 页）、1969 年春季号（134/134 页）、1969 年秋季号（132/132 页）、1970 年春季号（148/148 页）、1970 年秋季号（148/148 页） |
+| 最近完成 | *Whole Earth Catalog* 1970 年秋季号：148/148 页 accepted，release gate 已通过并生成对照阅读器 |
 | 已并入 `main`、待 Pages 发布的阅读器 | *Whole Earth Catalog* 1968 年秋季号、1969 年春季号 |
 | 视觉小册子 | *Whole Earth Epilog*, 1974 章节小册子 |
 | 已完成中文导读 | *Whole Earth Software Catalog 2.0*, 1985 年秋 |
@@ -97,7 +101,7 @@ data/
 reader-prototype/
   index.html          # 已发布期刊共用的扫描对照阅读室
   1968/, 1969/        # 已验收、待发布的单期阅读器
-  data/               # 1969 秋、1970 春、Epilog 阅读器 JSON 和锚点核查数据
+  data/               # 1969 秋、1970 春秋、Epilog 阅读器 JSON 和锚点核查数据
 
 scripts/
   *.py                # 抽取、核查和实验性检索脚本
@@ -124,6 +128,7 @@ http://127.0.0.1:8911/
 常用本地入口：
 
 - `reader-prototype/index.html`
+- `reader-prototype/index.html?issue=fall-1970`
 - `reader-prototype/index.html?issue=spring-1970`
 - `content/visuals/1974-epilog-booklet/index.html`
 - `content/demos/wholeearth_webgl_console_demo.html`
