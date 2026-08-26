@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 23
+- `source_ready`: 22
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 125
+- `accepted`: 126
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n129` accepted with the complete casting note and order data, full Return and Peace hexagrams preserving every judgment, image, line and commentary paragraph, plus the complete Square Sun review, eight drawing instructions, taxi dialogue, Shinto music passages and ink-line image; no divination or travel prose was summarized.
 - `n127` accepted with both complete yoga reviews/records, all ten independent teaching passages, every photograph group, the full four-verse Big Rock Candy Mountain song with chorus, all three catalog-policy paragraphs and complete subscription data; no wellness, song, or education text was summarized.
 - `n13` accepted with the complete telescope review/record, optical bench, five specifications and every pipe-mount label, all three Star Maker excerpts, and the full Nature and Man's Fate review plus ten independent passages and plant-evolution caption; historical social-biological claims are explicitly bounded.
 - `n122` accepted with the complete Monday Night Class review and all six sermon excerpts, the full four-paragraph astrology review, two main records, seven Alan Leo titles, the three-volume Rudhyar series, both numbered figures, and the complete poster review/order data; no spiritual, drug, or astrology passage was summarized.

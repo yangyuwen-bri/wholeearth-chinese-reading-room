@@ -2,24 +2,24 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: I Ching casting note, developing/final ideographs, complete book record/cover and two prices; Return upper/lower trigrams, judgment, three explanatory paragraphs, image, commentary, two lines and interpretations; Peace upper/lower trigrams, judgment, four explanatory paragraphs, image and commentary; complete Square Sun review/record/cover, eight drawing instructions, taxi dialogue, two Shinto paragraphs and ink-line image; printed page number.
+- Translation coverage: every legible paragraph, oracle line, heading, ideograph, trigram, translator, date, page count, price, address, month, quotation, dialogue turn, instrument, image label and attribution was checked against the 3232 × 4370 scan and translated.
+- Permitted omissions: none; all meaningful source text is legible at high resolution.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- High-resolution review restores the full three-column divination layout and lower excerpts that OCR interleaved.
+- Both hexagrams retain judgment, image, line and commentary structures; none is reduced to a divination summary.
+- Every Square Sun quotation and scene remains separate and complete with bibliographic/order evidence.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- The Chinese classic wording is aligned to the source's English structure; it is an archival translation, not a new critical edition of the I Ching.
