@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 136
+- `source_ready`: 135
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 12
+- `accepted`: 13
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -52,3 +52,5 @@ This report is updated after each accepted batch.
 - `n22` accepted with both dome publications, the full panel-lifting narrative,
   diagram labels, and the complete Zome/geodesic comparison; one irrecoverable
   tiny handwritten arrow is explicitly bounded in the omission audit.
+- `n23` accepted with all four space-structure entries, every dimension, price,
+  address, list item, and the diamond-packaging caption preserved.

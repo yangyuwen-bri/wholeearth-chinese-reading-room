@@ -129,15 +129,104 @@ vada)
 
 ## Final Translation
 
+### 《建筑设计》（Architectural Design）
+
+……这远远不只是一份建筑杂志……
+
+——SB
+
+*Architectural Design*；月刊；全年 13.50 美元，邮资已付。购自
+Architectural Design, 26 Bloomsbury Way, London W.C.1, England。
+
+图片标题：“柔性建筑”（SOFT ARCHITECTURE）。
+
+### 《测地学》（Geodesics）
+
+这是第一本完全献给测地结构的书。文字出色、图画清楚；开篇介绍富勒测地
+穹顶的基本原理。
+
+书中展示木材、金属和塑料穹顶，其中大部分为工业生产；每种穹顶旁都配有
+轮毂细部剖面、施工方法和组装顺序。
+
+简短正文讨论：
+
+- 多面体；
+- 定向；
+- 细分；
+- 分频；
+- 底部截除；
+- 弦长系数（计算不同直径穹顶所需的常数）。
+
+——SB；Onyx 推荐
+
+*Geodesics*
+Edward Popko
+1968 年；124 页。
+4.00 美元，邮资已付。
+购自 University of Detroit Press, 4001 West McNichols Road, Detroit,
+Michigan 48221；或向 WHOLE EARTH CATALOG 订购。
+
+图注：菱形构件的打包顺序。一套巧妙的销轴与铰链系统，让菱形构件可以局部
+拆开，从而减小包装体积；图中还示出典型菱形构件和底座支撑。这是富勒研究
+基金会项目。
+
+### 《空间网格结构》（Space Grid Structures）
+
+空间网格能以很小的重量和少数直接支点跨越很远距离。1959 年，Buckminster
+Fuller 在现代艺术博物馆搭建的 Octetruss 宽 35 英尺，从一列支柱向一个方向
+跨 60 英尺、向另一个方向跨 40 英尺；它由 2 英寸管材制成。
+
+空间网格由两个平行平面组成，形成地板和天花板；其间的“腹杆”按某种方式
+把两者连接起来，使外部荷载向所有方向分散。
+
+这本书是“关于平面空间网格结构近期发展成果的信息交流”。书中有结构和
+节点的照片、图画与模型。三部分分别讨论平面双层空间网格结构、应力蒙皮
+空间网格，以及细致清楚的空间网格几何图。另有一份很长的参考书目。正文很少；
+也不需要更多，因为图画和照片极好。
+
+——SB
+
+*Space Grid Structures*
+John Borrego
+1968 年；200 页。
+12.50 美元，邮资已付。
+购自 The M.I.T. Press, Room 765, 50 Ames Street, Cambridge,
+Massachusetts 02142；或向 WHOLE EARTH CATALOG 订购。
+
+### ★ Domecile 模型套件
+
+Domecile Kit 是读完穹顶书以后合乎逻辑的下一步。如果你已经能自在地用纸板
+或轻木设计、制作比例模型，这一步并非特别必要。另一方面，如果你曾惊叹于
+展览中那些整洁、利落的比例模型，想知道这种模型制作本领是怎样学来的，
+或者自己是否也能做出同等的模型，那就该考虑 Domecile Kit。
+
+借助套件，你不必成为几何奇才或拿模型刀的外科医生，也能迅速发明数量无限的
+独特结构。你可以做出梦想中的穹顶模型，然后发现它为什么其实是一场噩梦。
+如果你先花时间小心切制了自己的形板，这种发现可能会很痛苦。
+
+Domecile Kit 包含 60 块模切塑料模板、备用的透明与不透明塑料面板以及可重复
+使用的胶带。随附说明页，讲解如何制作模型和结构；还有 5 种正多面体和
+13 种阿基米德多面体的插图、关于全尺寸结构建造技术的讨论，以及有用书籍和
+材料的参考资料。
+
+总的说来，这是一种很有帮助的起步方式：规划你的下一处居所，同时学习很多
+有关穹顶、几何、模型、材料、环境和自我的知识。
+
+——Mitchell Zucker 评论
+
+*Domecile Kit*；10.00 美元，邮资已付。购自 Domecile Company,
+P.O. Box 954, Mendocino, California 95460。
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已用高分辨率扫描核对三栏四个条目、`SOFT ARCHITECTURE` 图片标题、
+  菱形打包图注、六项测地学主题和两本书/期刊/套件的书目地址。
 
 ## Self Critique
 
-- Pending translation.
+- 已覆盖四项评论、全部价格/刊期/页数/地址、空间网格实例尺寸与三类结构、
+  套件 60 块模板和 5+13 种多面体；没有以建筑图片概述代替条目正文。
