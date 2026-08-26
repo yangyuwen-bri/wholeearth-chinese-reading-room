@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 138
+- `source_ready`: 137
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 10
+- `accepted`: 11
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -47,3 +47,5 @@ This report is updated after each accepted batch.
 - `n19` accepted after scan-only recovery of the handwritten shelter, stove,
   compost, garden, manure, and stump-house instructions; all 31 USDA publication
   records remain itemized.
+- `n20` accepted with all axe-handle/head patterns and all 16 British Columbia
+  agriculture, commerce, forestry, land, mapping, mining, recreation contacts.
