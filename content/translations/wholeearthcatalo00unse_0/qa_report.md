@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 118
+- `source_ready`: 117
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 30
+- `accepted`: 31
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -88,3 +88,5 @@ This report is updated after each accepted batch.
   federal-assistance updates, nine government-publication records, and full essay.
 - `n125` accepted with all three toy catalogs, magazine cover/subscription data,
   four attributed dialogue passages, mixed French-English slogan, and image text.
+- `n135` accepted with the complete ecology-game scenario, both autoharp entries,
+  full order data and instructional excerpt, and all three performer captions.
