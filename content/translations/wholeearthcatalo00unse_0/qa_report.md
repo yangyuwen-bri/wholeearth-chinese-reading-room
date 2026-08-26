@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 50
+- `source_ready`: 49
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 98
+- `accepted`: 99
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n94` accepted with both complete book records and excerpts, full raku discussion, all 16 supplier records kept independent, every clay-sieving and 16-part St. Ives kiln label, complete double-crossdraft caption and A–D airflow marks, with all addresses and technical specifications preserved.
 - `n53` accepted with complete Kama Sutra Oil, Snugli, Birth Control Handbook, and Population Services records; every historical medical paragraph and diagram label, all timing/size/quantity fields, six condom models with 18 price cells, and all foam/test prices are preserved, with an explicit historical-medical disclaimer.
 - `n77` accepted with both complete film-book reviews/order records, all four Guide instructional paragraphs, all five attributed director quotation paragraphs, Arriflex/production-camera specifications, Behrend review, captions, and the source-printed `OUT OF PRINT` obstruction explicitly documented.
 - `n121` accepted with the complete Boy Scout review/order record, all 99 merit-badge rows retained independently with number/year, full American Morse and semaphore inventories, Scout oath, complete bean recipe, square-knot and friction-fire instructions, and hamster-wheel materials.
