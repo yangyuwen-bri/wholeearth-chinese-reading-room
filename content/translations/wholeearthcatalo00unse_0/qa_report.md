@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 5
+- `source_ready`: 4
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 143
+- `accepted`: 144
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n16` accepted with the complete Laws of Form review/record, all definitions and language/memory/existence/self-observation arguments; all Parable orientation, food-sharing and chemical passages; and the full Hero review/record/myth passage, including source wordplay and historical cultural framing.
 - `n8` accepted with the complete Biology review/record, population graph, cloning/evolution excerpts and every annual-cycle label; all five Book of Tea passages; and the complete Husserl review/record/method argument, with historical eugenic and cultural claims preserved but explicitly contextualized.
 - `n39` accepted with the complete two-column Organic Gardening Books essay and both records, every fertilizer/forest/bird/plant passage, all three pest-control steps and species lists, plus the mushroom shelf and barrel-root-cellar labels; the review's full learning progression and political argument were not summarized.
 - `n47` accepted after rotating the sideways high-resolution page, with the complete Hansen review/records, all 12 butter and 15 hard-cheese steps, every temperature/time/quantity/criterion, and all cutting/pressing figure labels; unsafe historical raw-milk and home-aging procedures are explicitly bounded.
