@@ -2,24 +2,24 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: complete Meditation review/record/cover and six excerpt groups including Q&A; complete Hopi review/record/cover, four Second World paragraphs, portrait, Soyál caption, paho diagram/labels and ritual paragraph; complete massage-roller three-paragraph statement, user review, product image, price and address; printed page number.
+- Translation coverage: every legible review/excerpt paragraph, dialogue turn, title, author, year, page count, price, address, indigenous name, ritual, figure number, label, quotation and attribution was checked against the 3232 × 4370 scan and translated.
+- Permitted omissions: none; all meaningful source text is legible at high resolution.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- High-resolution review restores the full three-column order, paho labels and product details that OCR displaced.
+- Every meditation argument, Hopi narrative paragraph and massage claim remains separate and explicit rather than being replaced with cultural description.
+- Historical health and racialized framing are preserved as evidence and clearly bounded from endorsement.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Meditation and massage health claims are historical and unverified; the period title uses racial terminology not suitable as current guidance.
