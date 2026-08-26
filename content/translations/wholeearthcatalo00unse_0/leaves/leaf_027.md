@@ -75,15 +75,63 @@ operation
 
 ## Final Translation
 
+### 建造原木房屋
+
+在 Missoula 和 Great Falls 之间的某个地方，坐落着全地球上最美丽的房子：
+一幢两层原木小屋，立在一处小丘上，微笑着。花两角五分买下这本书，它就能把
+你送到那里。
+
+——jd
+
+*Building a Log House*；1914、1965 年；43 页；0.25 美元，邮资已付。
+购自 Extension Editor, Cooperative Extension Service, University of Alaska,
+College, Alaska 99701；或向 WHOLE EARTH CATALOG 订购。
+
+页面所示施工图文字：
+
+- 图 19：木杆填缝；
+- 拼接原木：约 18 英寸；定位销应伸入下面第二根原木；
+- B 剖面：椽子之间用 1×4 英寸木板填充，或用图中虚线所示的圆杆，从室内
+  滚压就位；2×8 英寸天花搁栅；6 英寸支座；为椽子凸出部分在原木上开槽；
+  嵌缝；16 英寸；
+- 右侧节点尺寸：4 英寸、10 英寸、1 英尺 6 英寸、8 英寸。
+
+### 《阿拉斯加淘金者手册》（Handbook for the Alaskan Prospector）
+
+长久以来的幻想：学一点岩石知识，走也好，飞也好，到外面某个地方去，划下一块
+砂矿权，从此幸福生活。然后这本书让我明白：我对岩石的了解必须远远不止“一点”。
+
+——jd
+
+*Handbook for the Alaskan Prospector*
+Ernest Wolff
+1969 年；460 页。
+6.00 美元，邮资已付。
+购自 The Mineral Industry Research Laboratory, University of Alaska,
+College, Alaska 99701；或向 WHOLE EARTH CATALOG 订购。
+
+页面所示淘金设备图文字：
+
+- 平面图：沉淀池、循环泵、溜槽、沉淀桶；
+- 剖面图：3 英寸泵、沉箱；
+- 图注：沉箱、泵、溜槽及其他设备的布置；
+- 木材制作的绞盘：钢带；此处可再装一根手柄，供两人操作；孔位用销固定；
+  螺栓外套管；绳索制动器。图 16-10：木材制作的绞盘；圆杆制作的绞盘见
+  图 13-7；
+- 清理桨。
+
+其余配图为雪地运输、淘洗、吊桶、雪橇和竖井构造示意，没有另附文字图注。
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已以高清扫描复核两个条目和全部图面；OCR 漏掉的原木房短评、绞盘小字、
+  清理桨名称及多个施工尺寸已补回。
 
 ## Self Critique
 
-- Pending translation.
+- 两篇正文、全部书目/价格/地址及所有可辨图注、部件标签和尺寸均已覆盖；
+  没有用“建筑与淘金工具图”概述替代图中文字。

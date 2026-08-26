@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 132
+- `source_ready`: 131
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 16
+- `accepted`: 17
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -60,3 +60,5 @@ This report is updated after each accepted batch.
   captions, and the two Arcology diagrams' legible labels recovered from scan.
 - `n26` accepted with all seven UN volumes, the solar-house diagram, four tractor
   products, boatbuilding entry, compost excerpts, and every order detail.
+- `n27` accepted after scan-only recovery of the log-house review, construction
+  dimensions, prospecting layout, windlass labels, and clean-up-paddle caption.
