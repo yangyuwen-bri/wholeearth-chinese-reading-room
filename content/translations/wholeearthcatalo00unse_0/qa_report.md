@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 17
+- `source_ready`: 16
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 131
+- `accepted`: 132
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n55` accepted with both complete Consumer Reports excerpts/records/captions, all four Hong Kong sources, two Nikon camera descriptions and every body/lens configuration, three lens rows, four Sony recorder entries including the source-page continuation, and the complete Armchair Shopper review, tax passage and five independent suppliers; every specification and price remains explicit.
 - `n43` accepted with the complete bread-book review, sponge-method explanation, unyeasted loaf recipe and six variations, full mustard-gingerbread recipe, every Community verse, wok product record, complete soybean review/cheese method/nutrition passage, and all 11 Chinese-frying steps; all quantities, temperatures, prices and addresses remain explicit.
 - `n58` accepted with the complete Counter Culture review/record, all 26 illustrated contents entries, self-publishing list and both full excerpts; complete Beyond Economics review and four excerpts; full Rural Industry review, quoted rationale, machine inventory, institutional history, and every Hydro-Hi-Lift pump principle/specification/installation item; no political, economic, or technical prose was summarized.
 - `n52` accepted with the complete emergency review/record, all four first-aid figures and epilepsy passage, full Commonsense review and seven pregnancy/labor/breastfeeding excerpts, complete Rural Midwives review and breech procedure, plus every ICEA service/address; obsolete medical risks are strongly bounded.

@@ -2,24 +2,25 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: complete Consumer Reports review/subscription records, Jiffy and noise-reducer excerpts, two captions; complete Hong Kong review, four sources, two Nikon camera records and seven body/lens configurations, three lens rows, four Sony recorder entries; complete Armchair Shopper's Guide review/record, tax passage and five supplier examples; printed page.
+- Translation coverage: every legible paragraph, quotation, title, address, percentage, dimension, speed, decibel value, camera feature, lens, price, voltage, frequency, input/output, supplier description and caption was checked against the 3232 × 4370 scan and translated.
+- Permitted omissions: none; TC-123 is explicitly recorded as a source-page continuation rather than silently completed or dropped.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- High-resolution review restores fractions, model numbers, prices and the four-part page order that OCR interleaved.
+- Every model/variant and all five mail-order examples remain independent rather than grouped into category summaries.
+- Historical legal, import and safety statements are preserved but bounded from current advice.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- TC-123 continues beyond the physical bottom of this source page; only the visible portion can be accepted here.
+- Tax, customs and product-safety details are archival and may no longer be valid.
