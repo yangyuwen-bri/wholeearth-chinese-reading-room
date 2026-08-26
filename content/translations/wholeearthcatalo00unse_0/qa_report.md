@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 71
+- `source_ready`: 70
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 77
+- `accepted`: 78
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n106` accepted after high-resolution scan review; all camping-equipment reviews, diagrams, product specifications, shoe models/sizes/prices, addresses, and captions were translated without summary substitution.
 - `n132` accepted with four complete reviews/records and excerpts, all machine
   letters and 17 drill-press labels, three American Boys captions/instruction,
   both Centering passages, and every aikido movement paragraph.
