@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 133
+- `source_ready`: 132
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 15
+- `accepted`: 16
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -58,3 +58,5 @@ This report is updated after each accepted batch.
   heating entries, all lamp models/parts, the dealer letter, and scan-only labels.
 - `n25` accepted with both architecture reviews, three long excerpts, all image
   captions, and the two Arcology diagrams' legible labels recovered from scan.
+- `n26` accepted with all seven UN volumes, the solar-house diagram, four tractor
+  products, boatbuilding entry, compost excerpts, and every order detail.
