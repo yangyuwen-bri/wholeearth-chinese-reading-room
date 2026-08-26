@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 143
+- `source_ready`: 142
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 5
+- `accepted`: 6
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -35,3 +35,5 @@ This report is updated after each accepted batch.
 - `n9` accepted after source-specific comparison against the Spring 1970
   translation memory; changed book metadata and Fall-only passages were audited
   against the scan.
+- `n21` accepted with both numeric tables, full materials list, diagram labels,
+  construction instructions, and `Domebook Two` solicitation intact.
