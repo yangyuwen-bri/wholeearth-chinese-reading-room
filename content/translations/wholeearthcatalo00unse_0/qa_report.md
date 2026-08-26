@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 69
+- `source_ready`: 68
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 79
+- `accepted`: 80
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n99` accepted with all 41 natural-dye materials and 123 price cells, quantity/postage rules, both full book reviews/order records, the complete oversewing method, and every legible tool specification/address; no table rows were grouped.
 - `n104` accepted using the raw two-page JP2 to restore gutter-clipped text; both full reviews/order records, every blanket-coat and moccasin construction step, all dimensions/labels, both survival excerpts, and legible tool captions were translated without compression.
 - `n106` accepted after high-resolution scan review; all camping-equipment reviews, diagrams, product specifications, shoe models/sizes/prices, addresses, and captions were translated without summary substitution.
 - `n132` accepted with four complete reviews/records and excerpts, all machine
