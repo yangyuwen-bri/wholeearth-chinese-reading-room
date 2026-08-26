@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 98
+- `source_ready`: 97
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 50
+- `accepted`: 51
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -120,6 +120,8 @@ This report is updated after each accepted batch.
   Flute price/postage schedules, and the complete Dennis Dorogi statement.
 - `n66` accepted with both complete reviews and order records, every Chinese-
   painting excerpt, and the full two-mode drawing-study passage restored from scan.
+- `n92` accepted with both metalwork books, all order data, forge-welding and
+  jewelry-teaching passages, exact necklace dimensions, processes, and captions.
 - `n119` accepted with all four tent/sleeping-bag entries, complete Yeti price
   matrix, every size/material/address, Ocaté diagrams, and tetrahedron design text.
 - `n114` accepted with full boatbuilding review/diagrams, every fishing-method
