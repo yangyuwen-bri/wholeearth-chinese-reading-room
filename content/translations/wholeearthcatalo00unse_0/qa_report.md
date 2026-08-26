@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 100
+- `source_ready`: 99
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 48
+- `accepted`: 49
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -124,3 +124,5 @@ This report is updated after each accepted batch.
   excerpt and figure, all Avon sources, and the complete Netcraft product record.
 - `n87` accepted with all six tool catalogs, every product/model/price/address,
   the exact socket and engraving-tool series, and all bulk-sale conditions.
+- `n98` accepted with both books, complete dye/shears records, all 17 pigment
+  rows and bulk prices, every craft project, and exact knot-plate indices.
