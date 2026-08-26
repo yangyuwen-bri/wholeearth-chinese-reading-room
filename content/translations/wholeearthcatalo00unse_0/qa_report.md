@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 105
+- `source_ready`: 104
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 43
+- `accepted`: 44
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -114,3 +114,5 @@ This report is updated after each accepted batch.
   four mountaineering excerpts, and every figure/caption/piton type.
 - `n93` accepted with all five wheel/equipment suppliers, every model, speed and
   price, full Pioneer Pottery excerpts, composition list, and technical figures.
+- `n109` accepted with every factory-service-manual brand, model/year range,
+  medium/availability note, department/address, cross-reference, and Joblot entry.
