@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 123
+- `source_ready`: 122
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 25
+- `accepted`: 26
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -78,3 +78,5 @@ This report is updated after each accepted batch.
   history plate labels, moon phases, and the complete methane-converter letter.
 - `n124` accepted after scan-only recovery of two full dialogue strips, their
   captions/sound effects, the cutout hint, and the stylized bottom text.
+- `n123` accepted with the comic review/addresses, all Workaday World dialogue,
+  five Truckin' lines, four Gung Ho slogans, and legible decorative text.
