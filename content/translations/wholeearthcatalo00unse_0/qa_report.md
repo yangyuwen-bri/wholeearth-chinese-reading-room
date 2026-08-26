@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 128
+- `source_ready`: 127
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 20
+- `accepted`: 21
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -68,3 +68,5 @@ This report is updated after each accepted batch.
   fiberglass excerpts, soil-cement instructions, and the road-drag diagram.
 - `n30` accepted with excavation instructions, all catalog ads, the complete
   transit parts list, differential-leveling table, and six setup steps.
+- `n31` accepted with the full 19-row Aermotor table, all drilling/ram/pump
+  labels, well-type excerpt, order details, and scan-corrected manual price.
