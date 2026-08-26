@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 77
+- `source_ready`: 76
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 71
+- `accepted`: 72
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,9 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n63` accepted with the section poem, full abacus and mathematics passages,
+  all MARCHANT features, the complete Coxeter formula text including its source
+  printing duplication, every price/address, and all diagram letters.
 - `n90` accepted using the raw spread to restore the clipped review and second
   volume; both full procedures, seven figure groups and every label, and both
   accessory records are translated with all dimensions and order details.
