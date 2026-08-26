@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 13
+- `source_ready`: 12
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 135
+- `accepted`: 136
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n50` accepted with the complete American Indian Medicine review/record and all contraception, mesquite, disease-history, wild-mint and hydrotherapy passages; every Dear Doctor Q&A/letter; all three prescription-drug entries with doses/prices/statistics; and the complete shipboard appendicitis text, with obsolete medical risks explicitly bounded.
 - `n65` accepted with the complete Tarot review/record, all three cards and both symbolism/history excerpts; full parapsychology review and experimental argument; complete Alphaphone poem/record/brain-wave passage; and every Human Biocomputer review and metaprogramming, group-work and LSD-isolation paragraph, with speculative science and drug risks explicitly bounded.
 - `n134` accepted with the complete Milarepa review/record and full disciple-teacher song, every one of 57 automotive, grain, drug-abuse and water-resource teaching-material rows with codes/indexes, and the complete Sayings of the Ancient One review/record/dialogue; no literary passage or catalog row was summarized.
 - `n49` accepted with all six herb suppliers, the complete Herb Grower and mushroom records/excerpts, both medicinal-herb books and every water-treatment, catnip and botanical passage, plus the complete poisonous-plant review, six safety rules and rhododendron toxicology; dangerous historical health claims remain full but explicitly bounded.
