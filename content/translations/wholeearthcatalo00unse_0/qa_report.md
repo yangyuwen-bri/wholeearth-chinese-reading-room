@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 19
+- `source_ready`: 18
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 129
+- `accepted`: 130
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n58` accepted with the complete Counter Culture review/record, all 26 illustrated contents entries, self-publishing list and both full excerpts; complete Beyond Economics review and four excerpts; full Rural Industry review, quoted rationale, machine inventory, institutional history, and every Hydro-Hi-Lift pump principle/specification/installation item; no political, economic, or technical prose was summarized.
 - `n52` accepted with the complete emergency review/record, all four first-aid figures and epilepsy passage, full Commonsense review and seven pregnancy/labor/breastfeeding excerpts, complete Rural Midwives review and breech procedure, plus every ICEA service/address; obsolete medical risks are strongly bounded.
 - `n137` accepted with the complete Meditation review/record and six excerpt groups, full Hopi review and four Second World paragraphs, Soyál and paho figures with all labels, plus the complete three-paragraph massage statement, user review, price and address; historical health/racial framing is bounded without omission.
 - `n14` accepted with the complete Kundalini review poem, record and five-part continuous experience from initial sensation through recovery, mechanism and claimed transformation, plus all six Tao Te Ching excerpt groups and full order data; personal health claims are bounded without summarization.
