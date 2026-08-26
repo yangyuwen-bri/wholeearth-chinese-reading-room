@@ -123,15 +123,83 @@ x |
 
 ## Final Translation
 
+### ★《美国西部野生可食植物》（Wild Edible Plants of the Western United States）
+
+我们需要一本优秀、厚大而色彩丰富的书，介绍美国、北美、整个地球等等地方的野生
+可食植物。到目前为止还没人愿意接下这件工作；我猜主要是因为制作这样一本书会
+非常昂贵，要把价格降到想出门搜寻可食好东西的人付得起的程度会很困难。这本书既
+不彩色，也不覆盖整个地球；不过，如果你准备在落基山脉以西搜寻一点天然食物，
+它应该能帮助你辨认材料，也能帮你把一餐做出来。书中的线描图数量丰富、精确，
+而且画得很用心。
+
+——jd
+
+《美国西部野生可食植物》，Donald Kirk、Janice Kirk 著；1970 年；307 页；
+3.95 美元，邮资已付。购自 Naturegraph Publishers, Healdsburg,
+California 95448；或《全球概览》。
+
+书中植物条目：
+
+#### *Tragopogon dubius*：黄婆罗门参
+
+*Tragopogon* 属（4），菊科；俗名：婆罗门参、salsify、牡蛎草。
+
+**制备与用途：** 肉质根可以生吃或煮食；至于味道像牡蛎还是欧防风，要看你问的
+是谁。植株只有几英寸高时，嫩茎连同下部叶片的叶基可以当煮食蔬菜。许多印第安人
+群体曾把这些外来植物凝结后的乳汁当口香糖咀嚼；这种汁液也被视为消化不良的药物。
+古时在希腊、意大利以及旧大陆其他地区，人们用亚麻布垫浸透蒸馏后的汁液，敷在
+流血的疮口和伤口上。老普林尼记载，这种汁液与人乳混合，是治疗各种眼疾的万灵药。
+*T. porrifolius* 是栽培的婆罗门参，也称牡蛎草。
+
+**生境与分布：** 婆罗门参属植物见于西部各地的开阔地。
+
+**形态：** 这些植物高大粗壮，是具肉质直根的二年生或多年生草本；叶片全缘、
+草状、抱茎。黄色或紫色头状花序生在高而多叶的茎上；成熟花序像一颗蓬松的巨型
+蒲公英花球。
+
+插图：*Tragopogon dubius*，黄婆罗门参，图 144。
+
+#### *Cannabis sativa*（1）：大麻
+
+桑科；俗名：hemp、marijuana。
+
+**制备与用途：** 世界许多国家广泛把烘炒过的大麻籽当作食物。大麻籽也常被磨
+成粉，或压制成饼。众所周知，这种植物是毒品 marijuana 以及 hashish 的来源；
+在墨西哥，它也因优良的纤维——hemp——而种植。
+
+### 觅食、觅食、觅食（Stalking, Stalking, Stalking）
+
+Euell Gibbons 的几本“觅食”书如今全都有平装版。它们是优秀、好读的野外指南；
+三本合在一起，能为试图最大限度依靠周围环境生活的觅食游牧者组成一套不错的
+藏书。虽然书并不针对这个国家的某个特定地区，但在我看来还是稍微偏东海岸。
+很好的入门书和参考资料。
+
+——jd
+
+- 《寻找野生芦笋》（Stalking the Wild Asparagus）；1962、1970 年；303 页。
+- 《寻找有益健康的草药》（Stalking the Healthful Herbs）；1966、1970 年；
+  295 页。
+- 《寻找蓝眼扇贝》（Stalking the Blue Eyed Scallop）；1964、1970 年；
+  332 页。
+
+每本 2.95 美元，邮资已付。购自 David McKay Company, 750 Third Avenue,
+New York, New York 10017；或《全球概览》。
+
+页面植物与动物图注：野生芦笋；接骨木；香蒲；灯笼果；刺荨麻；人参；绿海胆；
+上图为北方扇贝，右图为岩扇贝。
+
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已用 `n116_w2000.jpg` 复核；以扫描把出版社城市校正为 `Healdsburg`、公司名
+  校正为 `David McKay Company`，并恢复 OCR 漏掉的植物和贝类图注。
+- 植物拉丁名、英文俗名与书名保留原文，以免中文俗名掩盖原书检索信息。
 
 ## Self Critique
 
-- Pending translation.
+- 两组评论、两段植物条目、三本书的全部书目信息和九项图注均已覆盖；没有把植物
+  用途、形态和分布压缩成摘要。

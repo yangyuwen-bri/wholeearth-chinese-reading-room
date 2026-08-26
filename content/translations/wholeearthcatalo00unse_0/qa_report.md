@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 114
+- `source_ready`: 113
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 34
+- `accepted`: 35
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -96,3 +96,5 @@ This report is updated after each accepted batch.
   school, exact knot-diagram indices, woodcarving cartoon, and mechanical labels.
 - `n112` accepted with both canoe books, every travel excerpt, full bark-canoe
   construction data, paddle/yoke captions, and all nine Klepper folding-boat models.
+- `n116` accepted with both wild-food reviews, the complete salsify and cannabis
+  entries, three individual Gibbons records, and all plant/shellfish captions.
