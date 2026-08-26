@@ -68,15 +68,32 @@ from page 4.
 
 ## Final Translation
 
+### 家园星系
+
+来自家园行星，在许多个繁星之夜。
+
+有一个地方，天空中有四颗太阳——红色、白色、蓝色和黄色；其中两颗靠得如此
+之近，彼此接触，星体物质在它们之间流动。
+
+我知道一个拥有一百万颗卫星的世界。我知道一颗和地球一样大、由钻石构成的太阳。
+有些原子核横跨数英里，每秒旋转三十次。恒星之间有细小的颗粒，其大小和原子组成
+与细菌相似。有恒星正离开银河系，也有巨大的气体云落入银河系。有翻腾的等离子体，
+在 X 射线和伽马射线中扭动；还有强大的恒星爆炸。也许，还有一些地方位于我们的
+宇宙之外。宇宙浩瀚而令人敬畏；我们第一次正开始成为它的一部分。
+
+——Carl Sagan
+
+图注：来自第 4 页的葵花籽。
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无书目或订购信息。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已以高清封底扫描核对标题、副标题、Carl Sagan 全文署名和葵花籽图注；
+  OCR 中被破折号/字符层破坏的句子已按图恢复。
 
 ## Self Critique
 
-- Pending translation.
+- 封底全部可辨文字均已全文翻译，没有把 Carl Sagan 段落缩成宇宙感言。
