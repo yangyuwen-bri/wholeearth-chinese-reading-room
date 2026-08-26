@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 53
+- `source_ready`: 52
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 95
+- `accepted`: 96
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n121` accepted with the complete Boy Scout review/order record, all 99 merit-badge rows retained independently with number/year, full American Morse and semaphore inventories, Scout oath, complete bean recipe, square-knot and friction-fire instructions, and hamster-wheel materials.
 - `n118` accepted with complete Drinkit, Survival Book, and pre/in/FORM records, every poem line, all Prusik and shelter-diagram labels, and the full 16-paragraph underground-shelter report including quotations, figures, coined terms, error list, and conclusion.
 - `n142` accepted with five complete book records and excerpts, every dialogue turn and prose paragraph, full ordering data, recommendation labels, cover subtitle, page-bottom OCR restoration, and explicit handling of two indeterminate slang forms and one historical slur without summary substitution.
 - `n103` accepted with all three full book reviews/order records, ten independently translated Bushcraft titles, every trapping-ethics paragraph, the complete White Clouds poem and two excerpts, both diagram labels, all prices/addresses, and the uncaptioned-photo limitation recorded without invented identities.
