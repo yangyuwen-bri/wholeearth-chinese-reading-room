@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 73
+- `source_ready`: 72
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 75
+- `accepted`: 76
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,9 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n18` accepted with all eight comic groups transcribed panel by panel, both
+  book/order records, the full pipeline-policy passage, and every paragraph,
+  quantity, task, and meal detail in the Alaska winter-camp excerpt.
 - `n144` accepted with all 121 Book People P-Z mail-order listings, every issue
   code and exact price, the source-printed `F 96` anomaly, cartoon dialogue, and
   the common order address; no series or price rows were grouped.

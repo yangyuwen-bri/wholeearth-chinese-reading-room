@@ -2,24 +2,26 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: complete Odd Bodkins book review and order record; eight comic groups with every speech balloon, handwritten lyric, narration, and sound cue; Alaska Wilderness editor review, pipeline/road introduction, full four-paragraph camp excerpt, two-edition record, price, and two publisher addresses.
+- Translation coverage: all inventory prose, comic handwriting, numeric dimensions/volumes/times, place names, food details, prices, and addresses were checked against n18 at 2000 pixels and retained.
+- Permitted omissions: none. The uncaptioned photographs contain no additional prose.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Comic text was read panel by panel from the scan; no dialogue was replaced by a plot description.
+- The Alaska excerpt preserves the complete transport-corridor argument and every camp task from snowshoe packing through dog feeding and second-night cooking.
+- Both book entries retain title variants, author, years, page counts, prices, publisher, and all addresses.
+- Scan-only sound effects, heartbeat/breath annotations, and the parody song are included explicitly.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Several comic words are deliberately stylized and slang-heavy; the translation preserves tone while English source remains available in the evidence transcript and scan.
+- Historical pipeline policy and winter-camp practices are presented as archival source text, not contemporary guidance.
