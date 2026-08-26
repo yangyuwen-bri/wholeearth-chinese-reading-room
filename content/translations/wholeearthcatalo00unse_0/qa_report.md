@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 119
+- `source_ready`: 118
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 29
+- `accepted`: 30
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -86,3 +86,5 @@ This report is updated after each accepted batch.
   and labels, all cooperage tools, and complete New Schools Exchange details.
 - `n60` accepted with all foundation excerpts, the complete San Francisco sample,
   federal-assistance updates, nine government-publication records, and full essay.
+- `n125` accepted with all three toy catalogs, magazine cover/subscription data,
+  four attributed dialogue passages, mixed French-English slogan, and image text.

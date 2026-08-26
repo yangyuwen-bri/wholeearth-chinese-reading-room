@@ -85,15 +85,60 @@ way girls always have to?
 
 ## Final Translation
 
+### ★ 木制玩具
+
+小精灵生活着，叮、叮、叮，做出玩具，木制玩具。
+
+三份目录均免费：
+
+- Everdale Toys, Box 29, Hillsburgh, Ontario, Canada；
+- The Toy Shop, Southwest Harbor, Maine 07679（Joeann Yellott 推荐）；
+- Vermont Wooden Toy Company, Old High School Building, Waitsfield,
+  Vermont 05673。
+
+页面展示木制卡车、翻斗车、拖拉机、拖车、飞机和双层玩具床；图片本身没有型号
+或价格图注。
+
+### 《这本杂志谈学校》（This Magazine is about Schools）
+
+而且它比任何人都更会谈学校。它怪趣、鲜活、聪明而年轻——大概也节俭、勇敢、
+虔敬。边疆上的精华。
+
+——SB
+
+封面标题：*Dreaming in the Beds of Academe: The Rochdale Experience*，
+Sarah Spinks 著；0.95 美元。
+
+*This Magazine is about Schools*；每年 3.50 美元，共 4 期。购自 This Magazine
+is about Schools, 56 Esplanade Street East, Suite 301, Toronto 215, Ontario,
+Canada。
+
+页面所引对话：
+
+- F：“这星期我在读 Salem 女巫的事。他们是不是因为那些女人对妇女解放的想法
+  和你一样，才去迫害她们？”
+- T：“你知道，我真的很困惑。如果我们关于怎样做女孩的一切都是教出来的，那
+  还有什么是天生的吗？我的意思是，如果那些东西不是天生的，我们为什么要全都
+  学会？”
+- P：“我不明白，为什么父亲不帮忙铺床。我父亲在军队里必须自己铺床，而且他
+  可以铺得比我母亲好，可他就是不干！”
+- A：“还有，为什么小弟弟们不像女孩历来必须做的那样，帮助自己的母亲？”
+
+混合法英标语：“魁北克必须尽快找到并确立自己的身份，否则它就有失去自己的
+语言、并作为一种真正文化消失的危险。”
+
+右下图中文字：“……她是 Stan 的女孩……”
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已用高清扫描复核三个玩具目录、杂志书目信息、四段对话和两处图中文字；
+  OCR 漏掉的地址、封面副题和混合法英标语均已恢复。
 
 ## Self Critique
 
-- Pending translation.
+- 全部正文、价格、期数、地址、封面字、对话和标语均已覆盖；没有把教育性别讨论
+  或木制玩具改写成概述。
