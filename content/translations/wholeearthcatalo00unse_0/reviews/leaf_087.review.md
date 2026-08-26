@@ -2,24 +2,25 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: Otto Frei、Graves-Humphreys、T. N. Lawrence、Vigor/Bergeon/
+  Bestfit、Grainger、Snap-On 六本目录及全部可辨商品。
+- Translation coverage: 型号、规格、十三种套筒尺寸、刻刀种类、价格、批量条件、
+  地址和全部说明均已译出。
+- Permitted omissions: 无。
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- 已以 `n87_w2000.jpg` 重建多栏商品数据，逐项核对型号、尺寸和价格。
+- 各商品保持独立记录，没有以供应商简介替代原始目录文字。
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- 少数英国雕刻工具商品名无稳定中文译名，译文保留原词以便检索。
