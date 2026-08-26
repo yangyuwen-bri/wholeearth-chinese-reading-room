@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 74
+- `source_ready`: 73
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 74
+- `accepted`: 75
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,9 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n144` accepted with all 121 Book People P-Z mail-order listings, every issue
+  code and exact price, the source-printed `F 96` anomaly, cartoon dialogue, and
+  the common order address; no series or price rows were grouped.
 - `n4` accepted after full high-resolution reconstruction of the M-Z index:
   177 independent bilingual entries and every page locator remain searchable;
   the two-page index is now complete without grouping or summary substitution.
