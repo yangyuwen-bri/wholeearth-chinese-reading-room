@@ -139,15 +139,106 @@ complicates these senses .. .
 
 ## Final Translation
 
+### 音乐合成器（Music Synthesizers）
+
+几年前，从蒙大拿的雪地进入加利福尼亚时，卡车收音机开始收到一个陌生、切分节奏、
+仿佛外星来的《Cripple Creek》版本。听起来像一架人形节拍器在棚车里弹班卓琴，
+琴上还装着哇音踏板。后来才知道那是 Moog。看来合成器玩家应该远离
+《Don't Step on Mama's Roses》这类老标准曲，开发一种与工具本身相配的声音。
+
+——jd
+
+本页列出的合成器：
+
+- **Putney：** 看来是一套较朴素的自成一体单元，价格范围较低（约 1,000 美元）。
+  咨询 Ionic Industries, Incorporated, 128 James Street, Morristown,
+  New Jersey 07960。
+- **Moog：** 3,500—8,000 美元。咨询 R. A. Moog Co., Trumansburg, New York。
+- **Buchla：** 由 CBS 经销，附一本方便的用户指南。咨询 CBS Musical Instruments,
+  Columbia Broadcasting System, Inc., 1300 East Valencia, Fullerton,
+  California 92631。
+- **ARP：** 完整系统 3,500—8,000 美元。咨询 ARP Instrument Division,
+  Tonus, Inc., 45 Kenneth Street, Newton Highlands, Massachusetts 02161。
+
+### ★ *Synthesis*
+
+亲爱的《全球概览》各位：
+
+关于你们询问各种合成器相对优劣的问题，我认为不花几个小时就不可能回答。
+
+一份名为 *Synthesis* 的新季刊将在一月号刊登五种主要合成器的文章。
+
+*Synthesis* 是电子音乐和喧闹争论的论坛，将于 1971 年 1 月创刊。
+
+可写信索取一份小型免费赠阅本：Synthesis, 1315 Fourth Street,
+Minneapolis, Minnesota 55414。
+
+祝平安，William A. Johnson（编辑）
+
+### ★ Melody Flute
+
+乐器是极能给人满足感的工具。不过多数情况下，优质乐器的成本让人难以承受。
+Melody Flute 是个例外。花 1.00—1.75 美元，就能得到一件镀镍、六孔、音质优美
+的乐器，以及一本说明手册。
+
+它容易学，演奏起来非常有趣。
+
+Melody Flute Company 还以非常合理的价格销售全系列竖笛。
+
+〔Winston Fowlkes 推荐并评论〕
+
+1 号金属款有降 B 调和 C 调，采用标准音高；音域超过两个八度。
+
+Melody Flute 价格 0.75—1.75 美元；资料免费。购自 Melody Flute Company,
+126 Lafayette Avenue, Laurel, Maryland 20810。
+
+价格表：
+
+- 0 号：C 调塑料笛，带吹嘴 0.50 美元；教材 0.25 美元；合计 0.75 美元。
+- 1 号：C 调金属笛，带吹嘴 0.75 美元；教材 0.25 美元；合计 1.00 美元。
+- 1 号：降 B 调金属笛，带吹嘴 1.25 美元；教材 0.25 美元；合计 1.50 美元。
+- 2 号：降 B 调专业型金属笛 1.50 美元；教材 0.25 美元；合计 1.75 美元。
+
+金属款均镀镍。无论数量多少均为同一单价。
+
+邮资：订单满 5.00 美元，以上价格包含邮资；较小订单每单加 0.25 美元邮寄费。
+教材单购每本 0.25 美元，不限数量；订单满 1.00 美元邮资预付，较小订单加
+0.10 美元邮寄费。
+
+### ★ Dennis Dorogi 扬琴（Dulcimers）
+
+Dave Smith 说，在亲手演奏以前，你无法判断一把扬琴。听起来有道理。我从未演奏
+Dennis Dorogi 做的扬琴，但它们看起来很漂亮；对这种优质乐器而言，价格也很合适。
+
+——jd
+
+〔J. H. Supple 夫人推荐〕
+
+Dennis Dorogi 扬琴 70.00 美元起。目录免费。索取地址：Dennis Dorogi,
+Ellicott Road, Brocton, New York 14716。
+
+Dorogi 原文：
+
+> 乐器在形式、材料和装饰上都有一种美，这一点很自然地吸引了身为雕塑家的我……
+> 我实在说不清最初吸引我接近扬琴的是它的形状、声音，还是两者同时发生。正如
+> 不同的人会被不同艺术形式吸引，同一个人也会随时间与经验改变，我发现，对功能
+> 的深入体验增强了我最初对形式的欣赏；如今，我欣赏一件设计良好的乐器，与欣赏
+> 任何其他艺术品一样。说得更具体些：我发现自己喜欢制作乐器，因为这项工作同时
+> 涉及视觉、触觉和听觉；而演奏乐器反过来又会调动这些感官，并使它们的关系更加
+> 复杂……
+
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已用 `n80_w2000.jpg` 复核；官方 OCR 将四种合成器、笛子价格表和扬琴引文交错，
+  并把笛子免邮门槛误识为 1 美元；扫描清楚显示为 5 美元。
+- `Dulcimer` 的具体形制可能对应不同中文乐器，标题保留英文原名便于识别。
 
 ## Self Critique
 
-- Pending translation.
+- 四种合成器、完整 Synthesis 来信、四行笛子价格与两套邮资规则、扬琴评论及引文
+  均已覆盖；没有把乐器观点或产品表改写为选购摘要。

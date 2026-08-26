@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 104
+- `source_ready`: 103
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 44
+- `accepted`: 45
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -116,3 +116,5 @@ This report is updated after each accepted batch.
   price, full Pioneer Pottery excerpts, composition list, and technical figures.
 - `n109` accepted with every factory-service-manual brand, model/year range,
   medium/availability note, department/address, cross-reference, and Joblot entry.
+- `n80` accepted with all four synthesizers, full Synthesis letter, exact Melody
+  Flute price/postage schedules, and the complete Dennis Dorogi statement.
