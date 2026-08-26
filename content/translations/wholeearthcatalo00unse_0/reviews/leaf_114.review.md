@@ -2,24 +2,25 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: Boatbuilding 评论、书目与三组建造图；Fish Catching Methods
+  评论、书目、四段引文和三幅图；Avon 三个来源；Netcraft 评论和尼龙线商品。
+- Translation coverage: 所有正文、价格、页数、地址、材料、尺寸、图注、构件标签、
+  商品号和完整引文均已译出。
+- Permitted omissions: 无。
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- 已以 `n114_w2000.jpg` 重建页面分区，恢复 OCR 漏掉的造船构件和捕鱼图注。
+- 四段捕鱼历史/爆炸物原文保持完整，没有改写为捕鱼技术摘要。
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- 船尾建造图的少量手写缩写在公开扫描中不可稳定辨认；全部清晰标签已覆盖。
