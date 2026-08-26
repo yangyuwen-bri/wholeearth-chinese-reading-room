@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 66
+- `source_ready`: 65
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 82
+- `accepted`: 83
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n76` accepted with all poetry/language excerpts, three full reviews/order records, both scientific arguments, exact exponents, the complete 551-bit Drake message and decode instructions, all thought-form principles, and captions; no binary or prose block was summarized away.
 - `n17` accepted with all five Gary Snyder poem/prose groups translated line by line, including cross-column continuations, quotations, parentheticals, source labels, three independent book prices, and the full order address; no poem was replaced by a thematic synopsis.
 - `n62` accepted using the raw spread to restore gutter text; all 16 cover lines, hoof labels, copyright paragraphs, dandelion-wine quantities/steps, reviews/order records, annotated bibliography entries, and legible village-plan labels were translated without summary substitution.
 - `n99` accepted with all 41 natural-dye materials and 123 price cells, quantity/postage rules, both full book reviews/order records, the complete oversewing method, and every legible tool specification/address; no table rows were grouped.
