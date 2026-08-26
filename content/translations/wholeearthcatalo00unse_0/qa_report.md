@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 60
+- `source_ready`: 59
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 88
+- `accepted`: 89
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n75` accepted with all three complete reviews/order records, the full neural-memory passage and logic labels, all three symbol-dictionary entries, every Art of Memory paragraph, and the complete 1533 figure source/caption; no entry was reduced to a topic summary.
 - `n48` accepted with all 17 state-listed and six mail-order food sources kept independent, both Corona purchase records, the full Lee mill review and four-row output table, Composition of Foods record, and every loan-library rule; no supplier group was summarized.
 - `n67` accepted with all calligraphy reviews/instructions, the complete Kelsey review and product specifications, every font/galley/quoin/composing-stick price, all NAZ-DAR troubleshooting text, 18 stencil-silk price cells, and eight squeegee models; no table rows were grouped.
 - `n68` accepted with both complete theatre reviews/order records, all four scenery-carpentry passages, balcony labels and eight joint names, all five Grotowski excerpts, and the full Akropolis caption; no theory passage was replaced by a synopsis.
