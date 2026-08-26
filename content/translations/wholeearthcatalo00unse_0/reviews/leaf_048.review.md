@@ -2,24 +2,23 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: 1 篇指南评介／书目；按 5 州列出的 17 个独立来源及全部电话／产品／邮寄说明；Corona 评介和 2 个购买记录；Lee 评介／地址、4 行产能价格表和 4 项共通规格；6 个邮购食品来源；《食品成分》评介／书目；借阅图书馆规则／地址。
+- Translation coverage: 所有供应商均逐条翻译，型号、格值、价格、电话、地址、品类、限制、借期和逾期费完整。
+- Permitted omissions: 无。
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- 译文没有把 23 个食品来源按州或品类合并；磨机表格也逐行保留。
+- 高清扫描复核修正了 OCR 打散的目录与产量表。
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- 源页部分来源本来就只有名称和地址，译文忠实保留该信息边界。
