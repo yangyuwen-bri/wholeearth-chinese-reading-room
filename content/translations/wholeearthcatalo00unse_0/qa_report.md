@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 55
+- `source_ready`: 54
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 93
+- `accepted`: 94
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n142` accepted with five complete book records and excerpts, every dialogue turn and prose paragraph, full ordering data, recommendation labels, cover subtitle, page-bottom OCR restoration, and explicit handling of two indeterminate slang forms and one historical slur without summary substitution.
 - `n103` accepted with all three full book reviews/order records, ten independently translated Bushcraft titles, every trapping-ethics paragraph, the complete White Clouds poem and two excerpts, both diagram labels, all prices/addresses, and the uncaptioned-photo limitation recorded without invented identities.
 - `n86` accepted with all three supplier records, complete tool descriptions, every caption/address, and all 11 punch, eight handscrew, four tape, six plane, five blade, and two clamp rows preserved independently with exact model, size, weight, and price data.
 - `n115` accepted with the full thermaling and tow-release instructions, all Stick and Rudder reviews/passages/captions and three distributor addresses, the complete aeronautical-chart review, and every BD-4 performance and price field.
