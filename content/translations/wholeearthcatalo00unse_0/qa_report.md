@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 37
+- `source_ready`: 36
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 111
+- `accepted`: 112
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n133` accepted with the full teaching poem, scan-restored Huang Po translator/year/pages, both complete Zen passages, the Worlds review and every image group, plus all five Holt passages on speech, teacher control, explanation, coordination, and experimentation.
 - `n130` accepted with the scan-restored full review and kibbutz passage, all Firestone family/sexuality/marriage arguments, the Beauvoir quotation and Reich five-item analysis, plus all six Rasberry financing paragraphs, figures, percentages, loan conditions, and dedication.
 - `n70` accepted with every LNS paragraph, the complete 59-line Castillo poem, all ten San Quentin statistics, both news items and cartoon dialogue, plus seven independent Collectors News ads retaining all quantities, dimensions, prices, addresses, and codes.
 - `n83` accepted with both complete reviews/order records, every Pye paragraph and editorial aphorism, all 17 screw-length rows and diameter values, nine spindle labels, 33 saw-part labels, ten joint captions, and the full visible mortise-and-tenon text.
