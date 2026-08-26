@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 107
+- `source_ready`: 106
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 41
+- `accepted`: 42
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -110,3 +110,5 @@ This report is updated after each accepted batch.
   Travelers' Directory entry/cover, and all tanning tools, layers, and excerpt.
 - `n91` accepted with all four glass/reed entries, every catalog product and
   handmade specification, weaving diagrams, prices, addresses, and tool labels.
+- `n107` accepted with both suppliers, exact ice-screw/boot specifications, all
+  four mountaineering excerpts, and every figure/caption/piton type.
