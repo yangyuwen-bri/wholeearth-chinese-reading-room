@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 35
+- `source_ready`: 34
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 113
+- `accepted`: 114
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n88` accepted with all nonprofit, Defense, GSA, and bid-abstract procedures, every form/service record, ten GSA addresses, and all five sample lots retaining every model, serial/FSN, condition, cost, weight, dimension, and quantity.
 - `n7` accepted with both complete publication records, every macrobiotic health/political paragraph, all body/history/spine labels, both mushroom entries and three names, and full cheetah selection/feeding passages; historical health risks are explicitly bounded.
 - `n133` accepted with the full teaching poem, scan-restored Huang Po translator/year/pages, both complete Zen passages, the Worlds review and every image group, plus all five Holt passages on speech, teacher control, explanation, coordination, and experimentation.
 - `n130` accepted with the scan-restored full review and kibbutz passage, all Firestone family/sexuality/marriage arguments, the Beauvoir quotation and Reich five-item analysis, plus all six Rasberry financing paragraphs, figures, percentages, loan conditions, and dedication.
