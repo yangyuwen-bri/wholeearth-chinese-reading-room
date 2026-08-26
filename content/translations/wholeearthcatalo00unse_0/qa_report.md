@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 116
+- `source_ready`: 115
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 32
+- `accepted`: 33
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -92,3 +92,5 @@ This report is updated after each accepted batch.
   full order data and instructional excerpt, and all three performer captions.
 - `n102` accepted with all three supplier entries, five engine-service diagrams,
   complete tool specifications, catalog data, labels, model numbers, and prices.
+- `n101` accepted with all three craft-book entries, blacksmithing excerpt and
+  school, exact knot-diagram indices, woodcarving cartoon, and mechanical labels.
