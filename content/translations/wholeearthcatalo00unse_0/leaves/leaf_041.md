@@ -169,15 +169,148 @@ growing plants in s
 
 ## Final Translation
 
+## 种子与树木
+
+种子、目录、树木。
+
+种子就是一株装在盒子里、随身带着午餐的小植物。
+写信到这些地址索取免费目录和手册。
+
+——jd
+
+### W. Atlee Burpee Co.
+
+W. Atlee Burpee Co.
+Riverside, California 92502
+
+并非有机种子，但蔬菜和花卉种子目录大概是最完整的；服务非常快捷高效。
+
+### Joseph Harris Company Inc.
+
+Joseph Harris Company Inc.
+Moreton Farm
+Rochester, New York 14624
+
+关于 Harris 种子公司：除目录外，Harris 还免费赠送一本精巧的小手册，名叫
+《家庭菜园养护》（*Care of the Home Garden*），告诉你应在什么时候播种
+他们的种子。记得索取。
+
+### Natural Development Company
+
+蔬菜与花卉种子。
+Natural Development Company
+Bainbridge, Pennsylvania 17502
+
+有机肥和杀虫剂。Tri-excel DS 是用于花卉、蔬菜、浆果和树木的无毒植物
+保护剂。它由磨碎的花、树脂等制成，而且确实有效。这是综合品类最好的种子
+来源。
+
+### Stark Brothers’ Nurseries & Orchards
+
+Stark Brothers’ Nurseries & Orchards
+Louisiana, Missouri 63353
+
+C. M. Stark 为 Delicious 苹果命了名。如今他们提供一系列“低维护”树木——
+换个名字说，也就是有机树木。
+
+### Stokes Seeds, Inc.
+
+Stokes Seeds, Inc.
+Box 15, Ellicott Street Station
+Buffalo, New York 14205
+
+大型完整目录，与 Burpee 类似。
+
+### Vita Green Farms：有机种子
+
+Vita Green Farms
+P.O. Box 878
+Vista, California 92803
+
+“未经处理、天然、老式、未杂交、未异型杂交。”几位园丁报告说，这些种子
+的发芽情况不如杂交品种。
+
+### Clyde Robin：野花与野生树木种子
+
+园丁、食物种植者——也许还有狩猎采集者——都该看看 Clyde Robin 的种子
+目录。这里不仅有无需太多照料便容易生长的野花，还有许多古怪而罕见的花卉、
+树木、灌木、香草和蔬菜种子；有时还附带它们的栽培、外观、用途等信息。
+
+“路边专用混合种”能在你以为只有杂草才长得出来的地方生长，并在初夏开出
+真正艳丽的一片。花开完以后，把它们全部齐地割掉，加利福尼亚罂粟便会重新
+长出，再开一次花。种些猫薄荷，让你的猫也兴奋起来——猫薄荷很容易从种子
+种起，但必须先把幼苗放在小型防护铁丝笼里培育（植株会穿过笼网向上、向外
+生长），否则那些像嗑了药一样疯狂的猫会把幼苗彻底蹭毁。
+
+——David Noton 推荐并评论
+
+目录：0.50 美元。
+购自 Clyde Robin, P.O. Box 2091, Castro Valley, California 94546。
+
+### 农业推广服务
+
+50 个州都通过本州农业推广服务处的县或地区办公室，提供农业建议和服务。
+服务分为两类：
+
+1. **农业顾问、推广员或县推广员**——名称取决于你所住的州。采用上述某一
+   名称的工作人员可以提供咨询或上门服务，范围涵盖农业的任何领域，也包括
+   草坪养护、家庭园艺、牲畜、害虫或啮齿动物防治、土壤与水资源保持等相关
+   领域。多数机构通常还有一位家政经济学家。
+2. **出版物**——农业推广服务处或美国农业部还提供范围广泛的出版物。有些
+   收费，但大多数免费。这些材料不是写给科学家的，而是面向普通人；主题
+   广泛，涉及商业农业、家庭园艺或家政。多数州都编有出版物目录，例如图中
+   加利福尼亚大学的两册目录。你可以邮购出版物，也可以直接到县办公室领取。
+   如有具体问题，通常最好到县办公室拿说明书，这样可以同时请教农业顾问。
+   农业推广办公室通常列在电话簿的县政府条目之下。
+
+——Ed Johnson 评论
+
+**农业出版物：免费。** 可向当地县办公室领取；或邮购：Agricultural
+Publications, 207 University Hall, University of California, Berkeley,
+California 94720。
+
+### 松、柏、冷杉、红杉、桉树
+
+Davis Headquarters Forest Nursery, Rte. 1, Box 1410, Davis, California
+95616。这里是加利福尼亚州为重新造林、防治侵蚀和建立防风林带而设的树木
+分发中心。订购表当然很长；他们邮寄松、柏、冷杉、红杉和桉树，每批
+100–1,000 棵或更多。一年生裸根苗高 4–10 英寸，500 棵最低只要 10 美元。
+
+### ★ 水培（Hydroponics）
+
+不用土壤种东西……还记得放在冰箱顶上那杯水吗？一颗鳄梨核用四根牙签悬在
+杯口；或者半个马铃薯躲在某个阴暗角落里，慢慢蒙上一层浮沫？这些做法都有
+一个名字。这里有一整套水培短册。
+
+——jd
+
+James J. Berryhill 推荐
+
+#### 《蔬菜作物的水培》（Hydroponic Culture of Vegetable Crops）
+
+M. E. Marvel；免费。购自 University of Illinois, College of Agriculture,
+Extension Service in Agriculture and Home Economics, Urbana, Illinois 61801。
+
+图 3：一种适合业余使用的小型家用装置。图中标注：横梁、滑轮、提升绳、
+向排水口倾斜、软管、5 加仑溶液罐。
+
+#### 《把水培当作爱好》（Hydroponics as a Hobby）
+
+免费。购自 University of Illinois, College of Agriculture, Extension
+Service in Agriculture and Home Economics, Urbana, Illinois 61801。
+
+图中标注：棉花、溶液。图注：在溶液中种植植物的一种简单方法。
 
 ## Omitted Bibliographic/Order Info
 
-- None recorded at source-preparation stage.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- Translation and high-resolution scan review pending.
+- 已用高分辨率扫描重建左栏七家种子供应者、中栏农业推广服务、右栏树苗供应
+  及页底两本水培短册；OCR 中跨栏的 Clyde Robin 段落已按扫描归位。
 
 ## Self Critique
 
-- Pending translation.
+- 已逐项核对九个邮寄地址、目录价格、树苗数量/尺寸/价格、农业服务两项清单、
+  两本免费水培短册及两幅装置图的全部标签和图注。

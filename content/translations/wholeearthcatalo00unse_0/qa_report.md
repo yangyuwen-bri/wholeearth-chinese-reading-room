@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 142
+- `source_ready`: 141
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 6
+- `accepted`: 7
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -37,3 +37,5 @@ This report is updated after each accepted batch.
   against the scan.
 - `n21` accepted with both numeric tables, full materials list, diagram labels,
   construction instructions, and `Domebook Two` solicitation intact.
+- `n41` accepted with every seed supplier, agricultural-extension service,
+  nursery quantity/price, hydroponics booklet, and apparatus label preserved.
