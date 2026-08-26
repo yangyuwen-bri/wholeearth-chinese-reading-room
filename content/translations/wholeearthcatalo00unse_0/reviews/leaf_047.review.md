@@ -2,24 +2,24 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: complete Hansen review and three records; all 12 farm-butter steps; all 15 hard-cheese steps; every preparation, cutting, heating, washing, salting, pressing and storage figure/label; printed page.
+- Translation coverage: every legible title, product, date, page count, price, address, ingredient, fraction, temperature, duration, quantity, dimension, rotation speed, numbered step, test criterion and diagram label was checked against the rotated 3232 × 4370 scan and translated.
+- Permitted omissions: none; all 27 procedural steps remain explicit.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- Rotating the high-resolution scan restores the actual reading order obscured by sideways OCR and permits direct figure-to-step verification.
+- Every procedure and technical value remains independent rather than represented by a dairy-making summary.
+- Historical raw-milk and home-aging procedures are explicitly bounded from current food-safety practice.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- The archival process cannot establish modern microbial safety; practical use requires validated current guidance.
