@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 31
+- `source_ready`: 30
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 117
+- `accepted`: 118
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n36` accepted with the full goat review and three herd-behavior excerpts, both book records, dairy-conformation text, world map key, complete journal/yogurt/equipment advertisements, and all four rabbit-book entries retaining every price, model, dimension, weight, term, and address; historical animal-welfare risks are bounded.
 - `n51` accepted with both complete reviews, all six publication records and order fields, three burn captions restored from the scan, full hepatitis and dermatitis treatment/prophylaxis excerpts, all 14 fecal-plate labels, four respiration steps, and the complete DDT passage; historical medical risks are explicitly bounded.
 - `n73` accepted using the raw 7952×5304 spread to restore all gutter-clipped Itten/Fischer continuations; every Kandinsky passage, artwork caption, color opposition, movement, node, geometric instruction, and both complete book records remain explicit.
 - `n61` accepted with all three periodical records/reviews, every Shaker agriculture/invention paragraph, the complete pig-slaughter article, all dehydrator steps and seven vegetable rows, and the full five-ingredient goat-feed formula with safety boundaries.
