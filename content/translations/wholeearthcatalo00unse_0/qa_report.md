@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 135
+- `source_ready`: 134
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 13
+- `accepted`: 14
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -54,3 +54,5 @@ This report is updated after each accepted batch.
   tiny handwritten arrow is explicitly bounded in the omission audit.
 - `n23` accepted with all four space-structure entries, every dimension, price,
   address, list item, and the diamond-packaging caption preserved.
+- `n24` accepted with three rural-practice articles, the editor's note, both
+  heating entries, all lamp models/parts, the dealer letter, and scan-only labels.
