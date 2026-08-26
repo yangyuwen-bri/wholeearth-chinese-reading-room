@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 38
+- `source_ready`: 37
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 110
+- `accepted`: 111
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n130` accepted with the scan-restored full review and kibbutz passage, all Firestone family/sexuality/marriage arguments, the Beauvoir quotation and Reich five-item analysis, plus all six Rasberry financing paragraphs, figures, percentages, loan conditions, and dedication.
 - `n70` accepted with every LNS paragraph, the complete 59-line Castillo poem, all ten San Quentin statistics, both news items and cartoon dialogue, plus seven independent Collectors News ads retaining all quantities, dimensions, prices, addresses, and codes.
 - `n83` accepted with both complete reviews/order records, every Pye paragraph and editorial aphorism, all 17 screw-length rows and diameter values, nine spindle labels, 33 saw-part labels, ten joint captions, and the full visible mortise-and-tenon text.
 - `n37` accepted with all three complete book records, the full stock-horse review and pressure-training text, every shoeing purpose and five figure groups, complete vaccine and breeding passages, and all anatomical captions; historical animal-welfare risks are preserved and explicitly bounded.
