@@ -2,24 +2,24 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: complete Kundalini review poem/recommendation/record/cover and five continuous experiential/interpretive paragraphs; complete Tao Te Ching review/record/cover and six distinct excerpt groups; printed page number.
+- Translation coverage: every legible verse line, narrative paragraph, title, author, translator, year, page count, price, address, quotation group, philosophical term and attribution was checked against the 3232 × 4370 scan and translated.
+- Permitted omissions: none; all meaningful source text is legible at high resolution.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- High-resolution review restores the complete three-column Kundalini sequence and the six Tao groups that OCR interleaved.
+- The bodily experience, claimed mechanism, long aftermath and concluding claim all remain explicit rather than being reduced to a mystical-awakening description.
+- Tao passages preserve their independent sequence and source structure without adding unprinted chapters.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Kundalini health/evolution claims are a historical personal account, not verified medical guidance.
