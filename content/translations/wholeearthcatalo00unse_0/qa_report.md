@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 90
+- `source_ready`: 89
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 58
+- `accepted`: 59
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -136,6 +136,8 @@ This report is updated after each accepted batch.
   steam-engine proposal, both jobs, all directory records, pay, prices, and contacts.
 - `n96` accepted with the complete quilt and embroidery reviews, all patterns,
   exact material/price data, seven labels, and both stitch procedures in full.
+- `n64` accepted with every surplus component and specification, complete magazine
+  subscription rules, the full Heathkit letter, graphics entry, and scan-correct prices.
 - `n119` accepted with all four tent/sleeping-bag entries, complete Yeti price
   matrix, every size/material/address, Ocaté diagrams, and tetrahedron design text.
 - `n114` accepted with full boatbuilding review/diagrams, every fishing-method
