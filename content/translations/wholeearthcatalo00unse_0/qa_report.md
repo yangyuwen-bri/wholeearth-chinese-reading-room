@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 26
+- `source_ready`: 25
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 122
+- `accepted`: 123
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n122` accepted with the complete Monday Night Class review and all six sermon excerpts, the full four-paragraph astrology review, two main records, seven Alan Leo titles, the three-volume Rudhyar series, both numbered figures, and the complete poster review/order data; no spiritual, drug, or astrology passage was summarized.
 - `n100` accepted with all three complete reviews/records, the urinal, six-nail and sump-pump figures, both marble-cement recipes, all five Henley formulas, and the complete soap process/temperature table retaining every chemical, quantity, size, duration and warning; severe historical chemistry risks are bounded.
 - `n110` accepted with both complete Muir reviews, all six repair excerpts and every diagram label, the full Western review and six-row fuel table, plus the Warshawsky review, five diesel engines, complete exhaust-system copy, four fuel-pump rows and every model/fitment/price; historical automotive risks are bounded.
 - `n139` accepted with the complete Golden Flower poem, record and both excerpts, plus every Blasting review paragraph, four literature sources, six numbered figures/captions and both charge passages retaining all costs, dimensions, quantities, addresses and firing terms; damaged woodcut characters and severe archival safety risks are explicitly bounded.
