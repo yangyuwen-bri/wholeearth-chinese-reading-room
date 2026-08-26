@@ -2,24 +2,26 @@
 
 ## Conclusion
 
-source_ready
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: pending translation and scan-backed inventory.
-- Translation coverage: pending.
-- Permitted omissions: pending.
+- Source inventory: complete welding-books review; two separate volume records; full blowpipe-lighting and arc-striking excerpts; seven numbered figure/plate groups with every label; electric plastic welder and Solidox torch records with prices, reviews, and addresses.
+- Translation coverage: all inventory items, technical values, procedural conditions, safety steps, captions, labels, and ordering fields were checked against the high-resolution access image and the raw spread.
+- Permitted omissions: none. Product photographs and unlabelled linework contain no additional prose.
 
 ## Reasons
 
-- Official OCR source pack is available; translation and independent review
-  have not yet been completed.
+- The raw spread restores the gutter-clipped review opening and confirms the second welding volume absent from OCR.
+- Both long procedures are translated step by step, preserving current, electrode size, stock dimensions, distances, flame changes, and stuck-electrode recovery.
+- Every joint, flame, torch, and arc-diagram label is present in Chinese rather than replaced with a generic diagram description.
+- Both accessory entries preserve the editor's assessment, information terms, price where shown, and full postal address.
 
 ## Required Fixes
 
-- Complete full translation and scan-backed independent review.
+- 无。
 
 ## Residual Risks
 
-- Multi-column reading order, small type, captions, diagrams, tables, and OCR
-  errors remain unverified until the high-resolution scan pass.
+- Historical welding instructions are translated as archival text; acceptance establishes source fidelity, not current occupational-safety certification.
+- The source itself prints `Pergammon`; the translation retains that source spelling for traceability.
