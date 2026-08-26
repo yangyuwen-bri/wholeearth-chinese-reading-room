@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 41
+- `source_ready`: 40
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 107
+- `accepted`: 108
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n37` accepted with all three complete book records, the full stock-horse review and pressure-training text, every shoeing purpose and five figure groups, complete vaccine and breeding passages, and all anatomical captions; historical animal-welfare risks are preserved and explicitly bounded.
 - `n79` accepted with the complete Kord chord lesson and score labels, both source numerical contradictions, all Acoustical Foundations passages and diagram labels, banjo/harpsichord suppliers, and every H. L. Wild wood/model row, dimension, and price.
 - `n141` accepted with five complete book records and seven full excerpts, the source-printed `fat` anomaly, all Fleming printed advertising and four numbered handwritten points, every old/new price component, stamp/signature, and visible flour-sack text; no literary passage was summarized.
 - `n45` accepted with all three complete reviews/order records, the six-row two-scenario stew table preserved cell by cell, both lentil paragraphs and the complete kumquat, clementine, and mango entries; no communal-cooking or botanical prose was summarized.
