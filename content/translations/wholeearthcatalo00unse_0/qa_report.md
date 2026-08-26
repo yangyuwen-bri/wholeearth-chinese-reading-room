@@ -5,14 +5,14 @@ This report is updated after each accepted batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 67
+- `source_ready`: 66
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 81
+- `accepted`: 82
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -22,6 +22,7 @@ This report is updated after each accepted batch.
 
 ## Notes
 
+- `n17` accepted with all five Gary Snyder poem/prose groups translated line by line, including cross-column continuations, quotations, parentheticals, source labels, three independent book prices, and the full order address; no poem was replaced by a thematic synopsis.
 - `n62` accepted using the raw spread to restore gutter text; all 16 cover lines, hoof labels, copyright paragraphs, dandelion-wine quantities/steps, reviews/order records, annotated bibliography entries, and legible village-plan labels were translated without summary substitution.
 - `n99` accepted with all 41 natural-dye materials and 123 price cells, quantity/postage rules, both full book reviews/order records, the complete oversewing method, and every legible tool specification/address; no table rows were grouped.
 - `n104` accepted using the raw two-page JP2 to restore gutter-clipped text; both full reviews/order records, every blanket-coat and moccasin construction step, all dimensions/labels, both survival excerpts, and legible tool captions were translated without compression.
