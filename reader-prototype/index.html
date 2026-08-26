@@ -471,6 +471,7 @@
   const dataFiles = {
     "fall-1969": "data/fall_1969_reader.json",
     "spring-1970": "data/spring_1970_reader.json",
+    "fall-1970": "data/fall_1970_reader.json",
   };
   const dataFile = dataFiles[issue] || "data/epilog_reader.json";
   const data = await (await fetch(dataFile)).json();
