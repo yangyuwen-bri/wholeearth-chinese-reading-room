@@ -271,18 +271,165 @@ b
 
 ## Glossary Updates
 
+- practice chanter：练习笛管
+- course：复弦组
+- tracking force：循迹压力
+- cartridge：唱头
+- fair trade pricing：公平交易定价
 
 ## Final Translation
 
+## 音乐、音乐
+
+### 终于有风笛了
+
+对有兴趣购买或演奏风笛的人，Scotland 有一家优秀公司：
+
+Hugh MacPherson Ltd.<br>
+17 West Maitland Street<br>
+Edinburgh 12, Scotland
+
+自行进口约比在这里购买便宜四倍。此外，质量更好，服务极为有礼，虽然很慢：订购后要三个月才能拿到风笛。但很值得。
+
+一套全尺寸、全套仿象牙装饰的风笛，按当前汇率折合美国货币约 84.52 美元。（这也是他们会替你做的事：把价格换算成美国人看得懂的货币符号。）在 California，一套廉价的 Pakistan 仿 Scotland 风笛要 150 美元！！！MacPherson 产品以精选 African blackwood 制作，带着老式的工艺自豪感，根本无法相比。
+
+他们最华丽的型号以 H.M. 银全套装饰，可选錾刻或雕花，价格 170 英镑。（让别人把它换成美元吧；我只请他们换算了低价型号。）他们甚至提供约 50 美元（£22 10s 0d）的迷你风笛，适合室内演奏。
+
+他们还出售练习笛管、教程、Ceol Mor 曲集、维护配件，甚至有表演者用 Highland 服装之类多余好东西。写信可收到一份勉强称得上目录的东西。
+
+我强烈建议从练习笛管开始。最简单的约 8 美元，能教你音符，让你演奏曲调。优秀的初学教程是 Seumas MacNeill 与 Thomas Pearston 的 *College of Piping Tutor Book I*。订笛管时也要多订几个簧片；塑料簧片很耐用。
+
+—Tiny Alice<br>
+Los Angeles, California
+
+## 老而弥坚
+
+Musical Heritage Society 已发行五百多张唱片，演奏出色，录音工程无可匹敌。曲目覆盖所有时期，尤其重视 Renaissance 与 Baroque。一半以上音乐从未录制过，还有大量非凡套装，例如 Bach 管风琴作品全集（二十五张）、Beethoven 钢琴奏鸣曲全集（十一张），以及 Haydn 全部一百部交响曲（四十九张）。该协会甚至向会员投票征求未来发行建议。
+
+过去七年，该协会唱片获得的奖项超过任何其他美国唱片公司，许多发行获得著名的 Grand Prix du Disque。唱片音质代表当前录音艺术水平，品相几乎绝不会低于完美。万一唱片有缺陷或不合口味，可退回换货、记账抵扣或退款。额外好处是唱片装在带聚乙烯内衬、标签窗口的白纸套中。内页说明从不侮辱人。
+
+这些录音全是立体声 LP，不在唱片店销售，因此也不列入 Schwann 目录。每张 2.79 美元，每次寄送固定收 0.60 美元邮费。协会每月向会员寄送即将发行唱片的公告，但只是公告；除非明确订购，不会寄任何唱片。没有最低购买数量，没有会员费，也无需退回烦人的卡片来阻止唱片寄出。
+
+成为会员，只需写信索取目录和月度公告：
+
+The Musical Heritage Society<br>
+1991 Broadway<br>
+New York, New York 10023
+
+Ron Goldstein<br>
+Oxford, Pennsylvania
+
+## 学习音乐、音乐、音乐
+
+这里有一套学习演奏的方法：把一个乐句一遍又一遍演奏，集中注意力，每次都一模一样地重复。过程中从错误学习。第一个乐句每次重复得越准确，你能演奏的新东西就越多。这是最快的方法。本周到那里，下周也到那里。试试看。如果起初没有成功，就适应。
+
+Ron Williams<br>
+ONYX<br>
+NYC
+
+## 超级吉他
+
+大约两个月前，我们完全不可能考虑把自己列入你们《目录》，因为乐器价格非常高，积压订单也很长。那时我们感到，除了大赚钱的团体和独唱艺人（如 Bob Dylan、The Band、Richie Havens、John Sebastian、Jake Holmes、Judy Collins 等）以外，我们对其他人也负有义务和承诺；所以重组工作室，开始训练人们制作高质量手工吉他。
+
+现在正在印目录。暂时随信附上全部乐器说明和价目；我们会设法寄些照片，让你们亲自查看和判断我们的高质量标准。
+
+谨致敬意，
+
+Michael Gurian<br>
+Gurian Guitars, Limited<br>
+100 Grand Street<br>
+N.Y., N.Y. 10013
+
+### 钢弦吉他
+
+- Size 1：桃花心木侧板与背板；云杉面板；黑檀指板；Schaller 弦钮；琴身接十二品；最适合轻或超轻弦。250 美元。
+- Size 3：桃花心木侧背；云杉面板；黑檀指板；Schaller 弦钮；琴身接十四品；最适合轻或中等弦。325 美元。
+- Size 3：同上，但侧背为 rosewood。425 美元。
+- Jumbo：桃花心木侧背；云杉面板；黑檀指板；Schaller 弦钮；琴身接十四品；最适合中等或重弦。300 美元。
+- Jumbo：同上，但侧背为 rosewood。400 美元。
+
+### 古典吉他
+
+- CL 1：桃花心木侧背；European spruce 面板；黑檀指板；有货时使用 Landstorfer 弦钮。325 美元。
+- CL 2：Indian rosewood 侧背；European spruce 面板；黑檀指板；有货时使用 Landstorfer 弦钮。425 美元。
+- CL 3 演奏会型：Brazilian rosewood 侧背；最高质量 European spruce 面板；黑檀指板；有货时使用 Landstorfer 弦钮。525 美元。
+
+### Flamenco
+
+遵循 flamenco 吉他传统，我开发了一种拥有 flamenco 演奏者追求的明亮清晰音色的吉他；此外还有古典吉他的声音投射力。为达到效果，面板、背板和侧板使用专门选择的木材；如有偏好，可用传统 Spanish cypress。与古典型号一样，琴颈用 Peruvian mahogany，指板用黑檀。琴头可安装摩擦弦轴或 Landstorfer 弦钮，也有手工制作的饰环。价格 750 美元。
+
+### 鲁特琴
+
+Elizabethan 型：按个人偏好使用七或八组复弦。琴颈用 Peruvian mahogany，指板用黑檀，船形琴背用 curly maple，面板用云杉；饰环按传统设计并手工雕刻。价格 850 美元。
+
+`Sony & Barbara & hot water`
+
+## 立体声音响折扣
+
+你最近是否为立体声组件或录音带支付了全额标价？如果是，你被烧到了。下次，折扣商可以让你与热浪保持舒适距离。
+
+许多折扣商在 *Stereo Review* 和 *High Fidelity* 做广告；我把名单缩到价格最低的六家，当然不表示以后不会出现同样好的商家。这些折扣商不是俱乐部，不收会员费；确有经营音响器材的俱乐部，但据我所知，折扣比不上折扣商。
+
+六家是：
+
+Downtown Audio<br>
+17 Warren Street<br>
+New York, NY 10007
+
+Dixie Hi-Fidelity Wholesalers<br>
+10530 Detrick Avenue<br>
+Kensington, MD 20795
+
+Hi-Fidelity Center<br>
+239 East 149 Street<br>
+Bronx, NY 10451
+
+Boston Audio Co.<br>
+1 Discount Drive<br>
+Randolph, MA 02368
+
+Rabsons 57 Street Inc.<br>
+119 West 57 Street<br>
+New York, NY 10019
+
+Carston Studios<br>
+R.D. 3; Route 7<br>
+Brookfield, CT 06804
+
+我亲自与前三家交易满意。没有向其他几家订过货，但它们价格同样低。与任何购买一样，值得逐家查询具体组件价格。部分折扣如下：
+
+| 组件 | 标价 | 折扣价 |
+|---|---:|---:|
+| Dynaco SCA-80 功放，已接线 | 249.95 | 165.00 |
+| Shure M44E 唱头 | 34.95 | 10.50 |
+| Superex ST-Pro-B 耳机 | 49.95 | 32.00 |
+| Garrard 40B 自动换片机，含底座、防尘罩，不含唱头 | 55.50 | 33.48 |
+| Harman-Kardon HK-50 扬声器系统 | 95.00 | 55.00 |
+| Watts Dust Bug | 6.50 | 4.95 |
+
+某些品牌实行公平交易定价，理论上不能低于标价出售；但有时可通过同时订购一件实行公平交易定价的组件和一件不实行的组件绕开。完整系统的折扣甚至好于单件。
+
+想买循迹压力为 2 至 3½ 克的低价立体声唱头，例如 Shure M44-7、ADC 220X、Pickering P/AT 或 Empire 909/X？忘掉它们——你要的是 Grado FTR，不是 24.95 美元，不是 19.95 美元，而是向 Grado Laboratories, 4614 5th Avenue, Brooklyn, NY 11220 购买的 9.95 美元。折扣商可能只卖 5 至 7 美元。
+
+在 *Stereo Review* 1969 年 7 月唱头调查中，FTR 音质紧随 ADC 25（100 美元）和 Elac STS-444-12（69.50 美元），以微小差距排名第三；并领先价格最高达 69.50 美元的其他唱头。（为保持正确视角，有些更昂贵唱头的循迹压力低于 FTR。）我没有一堆测试设备，只能补充：我已使用 FTR 一年，它完成了应该完成的工作。
+
+其他 Grado 唱头有 FTE（19.95 美元，椭圆唱针）、FCR（25 美元）和 FCE（35 美元，椭圆唱针）。据 Grado 说，FC 系列装配比 FT 系列更细致；不过我不知道任何测试报告。
+
+R. Andrews Buc<br>
+Clayton, Mo.
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。风笛、唱片会员制度、全部吉他／鲁特琴规格、六家折扣商地址、音响折扣表和唱头测试价格均已保留。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 将多个音乐栏目、价目表与音响栏目交错输出；译文依标题重建，仍须扫描确认栏序。
+- Gurian 钢弦型号标签重复且古典型号在 OCR 中错位；译文按规格连续性恢复 Size 1／Size 3／Jumbo 与 CL 1–3，需页面确认。
+- `Sony & Barbara & hot water` 是孤立图像说明或边栏文字，意义与归属不明，按原样保留。
+- Shure M44E 折扣价 OCR 为 `10509`，按表格位置恢复为 10.50 美元；风笛货币、乐器名与若干地址也需扫描核字。
 
 ## Self Critique
 
-- Pending translation.
+- 已完整覆盖风笛购买与学习、唱片协会制度、练习法、Gurian 全型号与材料价格、六家折扣商、六项价格表及 Grado 比较，没有改写为音乐器材概览。
+- 型号错位、一个价格和孤立照片说明仍需高分辨率确认，本页暂为 `needs_highres_scan`。
