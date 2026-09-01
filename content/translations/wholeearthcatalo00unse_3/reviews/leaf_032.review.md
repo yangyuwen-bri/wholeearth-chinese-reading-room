@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,23 +13,23 @@ needs_highres_scan
 - Translation coverage: every recoverable quantity, temperature, time, chemical,
   price, address, prison field, order percentage, clay range, loom dimension/price,
   signature, and quotation is represented.
-- Permitted omissions: none asserted. Two source-lost clauses and visual labels
-  remain mandatory scan-recovery tasks.
+- Permitted omissions: none. All source clauses and diagram labels were recovered
+  from the high-resolution scan.
 
 ## Reasons
 
-- Positional evidence restores the chemical and prison sections without inventing
+- Scan evidence restores the chemical and prison sections without inventing
   missing operations or refusal reasons.
 - Historical hazardous content is fully translated with separate safety context.
 - Both complaints/comparisons retain all numeric and bibliographic evidence.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n32_w2000.jpg` to verify column order, the `4125 ml` glyph, chemical
-  workup gap, diagram, prison refusal sentence, headings, and source emphasis.
-- Transcribe any non-OCR labels and confirm the precise author/book spellings.
+- Checked the approximately 3500 × 4700 pixel scan for column order, headings,
+  emphasis, all quantities, the complete workup and prison sentences, and figure.
+- Corrected OCR quantities to `125 ml` and `150 ml`; restored all six figure labels
+  and the names Mario Pei and Bodmer.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. A damaged chemical operation, one
-  prison clause, interleaved layout, and diagram-only text prevent acceptance.
+- None. All legible prose, quantities, headings, diagram labels, and image text are represented.

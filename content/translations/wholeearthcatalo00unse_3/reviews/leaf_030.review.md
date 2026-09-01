@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,8 @@ needs_highres_scan
 - Translation coverage: every recoverable dimension, material, price, address,
   table value, loading rule, title, vendor term, phone/contact, postscript, weapon
   claim, numbered note, signature, and editorial safety distinction is retained.
-- Permitted omissions: none asserted. Damaged model alignment and visual labels
-  remain scan-recovery tasks.
+- Permitted omissions: none. Model alignment, images, and visual labels were checked
+  against the high-resolution scan.
 
 ## Reasons
 
@@ -23,13 +23,13 @@ needs_highres_scan
   notes, not replaced by a generalized description.
 - Added safety context is visibly separate and does not alter source content.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n30_w2000.jpg` to verify column order, snowshoe model/price alignment,
-  bath option, platform table, black-powder glyphs, and all image captions.
-- Identify visual text on the snowshoe, tub, platform, blocks, bubbles, and weapons.
+- Checked the approximately 3500 × 4700 pixel scan for column order, snowshoe
+  model/price alignment, bath options, platform table, ads, and image captions.
+- Restored `fir` and the printed caliber range `.36 → infinity`; confirmed all nine
+  black-powder notes and their typographic emphasis.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Price/model displacement, damaged
-  words, dense layout, and non-OCR visual text prevent acceptance.
+- None. All legible prose, tables, models, prices, captions, and visual text are represented.

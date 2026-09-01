@@ -181,6 +181,16 @@ Carmel, California
 
 ## Final Translation
 
+### 致南非的“酸”
+
+请告诉我该怎样制备 LSD。我懂一点化学。
+
+我研究了《Catalog》，却找不到 LSD 的相关条目。需求很大，供应很少。
+
+爱，<br>
+Len<br>
+Johannesburg, South Africa
+
 ### 《迷幻圣餐制备指南》
 
 【译者提示：以下是 1970 年出版物的史料翻译，不是化学实验或非法药物制备指导。原页自身存在数字和步骤残损，任何人都不应据此操作。】
@@ -191,17 +201,17 @@ Carmel, California
 
 **步骤 I——使用黄光**
 
-将 5.36 克 d-麦角酸悬浮在 4,125 毫升［数字可能断裂］乙腈中，再把悬浮液放入以干冰冷却的丙酮浴，使温度降至约 -20 摄氏度。向悬浮液中加入 8.82 克三氟乙酸酐溶于 75 毫升乙腈所成的冷溶液（-20 度）。让混合物在 -20 度静置约 1½ 小时；在此期间，悬浮物溶解，d-麦角酸转化为麦角酸与三氟乙酸的混合酸酐。
+将 5.36 克 d-麦角酸悬浮在 125 毫升乙腈中，再把悬浮液放入以干冰冷却的丙酮浴，使温度降至约 -20 摄氏度。向悬浮液中加入 8.82 克三氟乙酸酐溶于 75 毫升乙腈所成的冷溶液（-20 度）。让混合物在 -20 度静置约 1½ 小时；在此期间，悬浮物溶解，d-麦角酸转化为麦角酸与三氟乙酸的混合酸酐。
 
 在约 0 度以下的温度，于真空中蒸去溶剂，可以把混合酸酐以油状物分离出来。一切都必须保持无水。
 
 **步骤 II——使用红光**
 
-把步骤 I 得到的混合酸酐乙腈溶液加入 450 毫升含有 7.6 克二乙胺的乙腈。混合物在室温黑暗处放置约 2 小时。在真空中蒸去乙腈，留下 LSD-25 与其他杂质构成的残留物。
+把步骤 I 得到的混合酸酐乙腈溶液加入 150 毫升含有 7.6 克二乙胺的乙腈。混合物在室温黑暗处放置约 2 小时。在真空中蒸去乙腈，留下 LSD-25 与其他杂质构成的残留物。
 
-将残留物溶于 150 毫升氯仿和 20 毫升冰水。移出氯仿层；水相部分［此处步骤连接残缺］，继而以四份各 50 毫升的冰冷水洗涤。再用无水 Na₂SO₄ 干燥氯仿溶液，并在真空中蒸发。
+将残留物溶于 150 毫升氯仿和 20 毫升冰水。移出氯仿层，把水相合并，随后以四份各 50 毫升的冰冷水洗涤。再用无水 Na₂SO₄ 干燥氯仿溶液，并在真空中蒸发。
 
-**图 1 标签：** 注入酒精用橡胶管。
+**图 1 标签：** 过滤器；通往泵；培养罐；注入酒精用橡胶管；NaClO；空气阱。
 
 ### 关于再版的来信
 
@@ -223,14 +233,6 @@ Dallas, Texas
 
 Heaven-Sent
 
-### 来自南非的询问
-
-我研究了《Catalog》，却找不到 LSD 的相关条目。需求很大，供应很少。
-
-爱，<br>
-Len<br>
-Johannesburg, South Africa
-
 ### 向监狱捐赠
 
 **RONALD REAGAN，州长**
@@ -247,7 +249,7 @@ Dept. of Corrections<br>
 CALIFORNIA STATE PRISON<br>
 San Quentin, California 94964
 
-《全球概览》收到的监狱来信多得惊人，其中很多对我们确实有用。1969 年秋季号《CATALOG》多印了约 40,000 本时，JD 负责把存书捐给各监狱。多数监狱出于［原句在此残缺］而拒收，［只有一部分］接受。我们希望各种期刊今后能把退货照例寄给学校和监狱。
+《全球概览》收到的监狱来信多得惊人，其中很多对我们确实有用。1969 年秋季号《CATALOG》多印了约 40,000 本时，JD 负责把存书捐给各监狱。多数监狱出于这样那样的原因拒收；Quentin 是接受捐赠的监狱之一。我们希望各种期刊今后能把退货照例寄给学校和监狱。
 
 ——SB
 
@@ -296,9 +298,9 @@ Vancouver, B.C.
 
 ### 对《The Story of Language》的异议
 
-上一期你们推荐了 Marie Pri 的《The Story of Language》。书目中列到的 Robt. A. Hall, Jr. 对这本书作了如下评价：
+上一期你们推荐了 Mario Pei 的《The Story of Language》。书目中列到的 Robt. A. Hall, Jr. 对这本书作了如下评价：
 
-> ［Pri 的书和另一本书、Bedmer 的《Loom of Language》］都是迎合传统误解的通俗化尝试，而我们一直试图驳斥这些误解：规定式教条主义、误解文字与语言的关系，以及以自身族群为中心的价值判断。两本书都装腔作势，充斥过时观念、错误信息和错误解释，完全具有误导性。
+> ［Pei 的书和另一本书、Bodmer 的《Loom of Language》］都是迎合传统误解的通俗化尝试，而我们一直试图驳斥这些误解：规定式教条主义、误解文字与语言的关系，以及以自身族群为中心的价值判断。两本书都装腔作势，充斥过时观念、错误信息和错误解释，完全具有误导性。
 
 也许你们愿意把这段话刊在增刊里。
 
@@ -314,21 +316,20 @@ Barbara Weaver<br>
 
 ## OCR / Uncertainty Notes
 
-- The chemical procedure, two letters, a diagram label, and prison material are
-  heavily interleaved. Their reading order was reconstructed from XML positions.
-- The acetonitrile volume `4125 ml`, a missing aqueous-workup clause, one prison
-  refusal reason, and several headings are damaged; no technical correction is made.
-- Exact diagram geometry, source emphasis, and any non-OCR labels require visual
-  verification.
+- The high-resolution scan confirms the column order, headings, source emphasis,
+  chemical quantities, prison paragraph, book names, and diagram labels.
+- It corrects OCR errors to `125 ml` in Step I and `150 ml` in Step II, restores the
+  aqueous-workup and prison sentences, and identifies Mario Pei and Bodmer.
+- Figure 1 labels are all transcribed: filter, pump, culture jug, alcohol-injection
+  tube, NaClO, and air trap.
 - The historical controlled-substance procedure is translated for documentary
   fidelity with a separate safety/legal notice, not endorsed as current guidance.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: the full recoverable two-step procedure,
+- Coverage is complete against the scan: the full two-step procedure,
   both related letters, prison letter/editor note, complete ceramics complaint,
   language note, full loom comparison, and book criticism.
-- The hazardous source is neither expanded nor silently repaired; damaged operations
-  remain marked. No complaint or bibliographic criticism is summarized.
-- Missing chemical/prison clauses, diagram information, and dense layout prevent
-  acceptance until high-resolution review.
+- The hazardous source is neither expanded nor summarized; the translator notice
+  remains visibly separate from the complete historical text.
+- All legible prose, figures, headings, labels, and image text are represented.

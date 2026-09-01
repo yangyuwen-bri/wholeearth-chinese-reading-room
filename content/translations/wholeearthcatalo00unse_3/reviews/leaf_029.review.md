@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,8 @@ needs_highres_scan
 - Translation coverage: every recoverable brand, price, percentage, material,
   address, phone, signal/electrical specification, procedural step, book/record
   title, quotation, and signature is represented.
-- Permitted omissions: none asserted. One address and diagram-only labels remain
-  scan-recovery tasks.
+- Permitted omissions: none. All visible address, table, diagram, and ad text was
+  checked against the high-resolution scan.
 
 ## Reasons
 
@@ -22,13 +22,14 @@ needs_highres_scan
 - Chair-Loc, radio, film, and sleeping-bag instructions retain their full sequence.
 - The two cultural recommendations remain separate from the practical letters.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n29_w2000.jpg` to verify columns, display text, product spellings,
-  J. Schackter address, SSTV/RC-6A table values, and Chair-Loc diagram labels.
-- Identify all product images and transcribe any dimensions/captions absent from OCR.
+- Checked the approximately 3500 × 4700 pixel scan for column order, product
+  spellings, SSTV/RC-6A values, ads, captions, and image associations.
+- Restored the $195 price, RC-6A dimensions, Chair-Loc ½-inch instruction, and
+  J. Schackter's `N.Y.C.` address line.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Dense mixed layout, uncertain brand
-  forms, one illegible address, and diagram-only information prevent acceptance.
+- None. All legible prose, prices, addresses, specifications, diagram text, and
+  captions are represented.

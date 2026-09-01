@@ -9,10 +9,10 @@ This report is updated after each reviewed batch.
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 19
+- `needs_highres_scan`: 15
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 29
+- `accepted`: 33
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -20,22 +20,6 @@ This report is updated after each reviewed batch.
 - `n0`: accepted after 1761 × 2353 scan review; all 37 quotations, attributions,
   dates, response boxes, title, date, and price are represented. The source itself
   prints Buckminster Fuller's year as `197?`, which remains explicit.
-- `n29`: the complete product/manual letter, wood contacts, microfiche/SSTV letter
-  and table, carrier-current station record/specifications, Chair-Loc instructions,
-  SB recommendations, and sleeping-bag materials letter are translated and reviewed;
-  brands, one address, tables, columns, and diagram labels await scan verification.
-- `n30`: the complete snowshoe, bath, floating-platform table/cost notes, block,
-  snake bibliography/vendor, button, bubble, and nine-note black-powder entries are
-  translated and reviewed; price/model alignment, damaged words, columns, and all
-  visual labels await scan verification.
-- `n31`: all eleven reader-note groups, including the reconstructed complete Karma I,
-  Karma II, AFI letter/caption/Stewart response, Muir update, and Ocate note are
-  translated and reviewed; columns, decorative text, damaged glyphs, and image
-  associations await scan verification.
-- `n32`: the recoverable two-step historical chemical text and related letters,
-  prison acknowledgment/editor note, complete ceramics complaint, language note,
-  loom comparison, and book criticism are translated and reviewed; two missing
-  clauses, diagram text, headings, and columns await scan verification.
 - `n33`: the complete rabbit correction/resources, T-shirt order, stove/recipe and
   Holubar/Angier letters, and all nineteen Aikido directory records plus concluding
   argument are translated and reviewed; names, one clipped price, columns, and

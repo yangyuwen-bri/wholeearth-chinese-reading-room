@@ -251,7 +251,7 @@ wei te ae
 请不要提我的名字，我是个逃亡者。
 
 Athalmer<br>
-BIG<br>
+B.C.<br>
 Canada
 
 ### 来自一位想当挤奶女工的人
@@ -354,7 +354,7 @@ American Forest Institute 成员公司开放了 6,500 万英亩林地，供公�
 
 我在 AFI 只工作了三个月，但在我看来，多用途土地利用能为最多的人带来最多好处。公司——政府其实也一样——若把土地围起来，只准一种用途，例如只准种树，或只准休闲（尽管两种情况都有少数合理例外），就像是在说：“听着，这个房间只能用来睡觉，不准阅读，不准做爱，不准吃东西，也不准做任何类似的事，只准睡觉。”
 
-［图片说明］Pigasus 与 Wavey Gravy 在 Liferaft Earth。
+图片说明：Pigasus 与 Wavey Gravy 在 Liferaft Earth。照片：Bonnie Jean Romney。
 
 平安，<br>
 Donald Biggs<br>
@@ -397,19 +397,16 @@ Rick Fleshin<br>
 
 ## OCR / Uncertainty Notes
 
-- The page interleaves multiple letters, a photo caption, an editorial response,
-  and display marks. Reading order requires scan verification.
-- The first anonymous note has several illegible decorative/title marks; `Athalmer
-  / BIG / Canada` is retained as printed without asserting its meaning.
-- The Karma I letter was reconstructed from two interleaved OCR sequences.
-- Exact photo association, the Ocate fraction, and any non-OCR handwritten text
-  require visual review.
+- The high-resolution scan confirms all letter boundaries, column order, display
+  marks, addresses, and the reconstruction of the Karma I letter.
+- It restores `B.C.` in the anonymous note, confirms the Ocate `1/8` fraction, and
+  supplies the photograph credit `Bonnie Jean Romney`.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: all reader appeals, migration and
+- Coverage is complete against the scan: all reader appeals, migration and
   tool notes, the complete Karma I and II letters, AFI letter and Stewart response,
   travel update, photo caption, and Ocate letter are included.
 - Every discrete voice remains separate; no letter is collapsed into a thematic
   summary. The Karma I reconstruction preserves all paragraphs and network names.
-- Decorative marks, visual association, and a few damaged glyphs prevent acceptance.
+- All legible prose, display text, caption, credit, and visual associations are represented.

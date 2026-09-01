@@ -390,7 +390,9 @@ Low Power Broadcast Co.<br>
 Frazer, Pa. 19355<br>
 (215) 644-4096
 
-#### 性能规格 § 198
+#### 性能规格
+
+售价：195 美元。
 
 | 项目 | 规格 |
 | --- | --- |
@@ -404,11 +406,13 @@ Frazer, Pa. 19355<br>
 
 RC-6A AM 广播发射机代表 4 瓦单楼覆盖发射机的最高水平，适合载波电流或有限区域广播。它的设计建立在这样一份经验之上：自 1960 年以来，已经生产和应用了三种同类设备，共 2,000 多台。RC-6A 发射机配合 RC-T2 系列匹配耦合单元，可以为大型多层建筑提供可靠的广播级覆盖。若再使用 RC-T1 系列功率分配器，也能覆盖由相邻小楼构成的两栋或三栋建筑群。
 
+图示尺寸：发射机正视图宽 10 英寸、高 8 英寸；侧视图宽 8 英寸、高 8 英寸。
+
 ### 新建议：斧头松动问题的解决办法
 
 不用拆下横档，也能拧紧松动椅子！把椅子放倒，让松动横档朝下。将 CHAIR-LOC 瓶嘴抵住接合处，让液体慢慢渗入缝隙。
 
-不用拆下锤头或斧头，也能紧固松动的锤柄和斧柄。只需把 CHAIR-LOC 涂在安装头部的一端，略微积成一小滩，让它顺着柄孔四周渗下去。如果楔子松了，用冲子把它敲紧。也可以截下一枚 6 penny 钉，从钉头量起保留 ¾ 英寸，制成一枚能用的楔子，再沿柄端木纹方向把它敲进去。
+不用拆下锤头或斧头，也能紧固松动的锤柄和斧柄。只需把 CHAIR-LOC 涂在安装头部的一端，略微积成一小滩，让它顺着柄孔四周渗下去。如果楔子松了，用冲子把它敲紧。也可以截下一枚 6 penny 钉，从钉头量起保留 ½ 英寸，制成一枚能用的楔子，再沿柄端木纹方向把它敲进去。
 
 3 盎司塑料瓶，邮资已付价 1.30 美元。
 
@@ -441,7 +445,7 @@ Lakehurst, N.J. 08733
 
 J. Schackter Co.<br>
 Allen St.<br>
-［城市字形不清］
+N.Y.C.
 
 （Gerry's 每磅要 19.50 美元。）
 
@@ -462,20 +466,17 @@ N.Y. 13, NY
 
 ## OCR / Uncertainty Notes
 
-- At least three columns, several ads, a performance table, display lettering, and
-  product illustrations are interleaved. Reading order requires scan verification.
-- Brand forms `Sprament`, `Shaeffer`, `grafting pencils`, and `Leroi` are interpreted
-  as Sprayment, Sheaffer, drafting pencils, and Leroy; exact page forms need review.
-- The J. Schackter address city is illegible, and the Aerotel-like stray marks at
-  the top of the OCR require visual identification.
-- Diagram-only Chair-Loc labels and RC-6A drawing dimensions may not be fully
-  represented in OCR.
+- The high-resolution scan confirms all three columns, display lettering, product
+  spellings, tables, advertisements, and visual associations.
+- It restores the handwritten $195 transmitter price, the RC-6A drawing dimensions,
+  the Chair-Loc ½-inch nail cut, and `N.Y.C.` in the J. Schackter address.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: all product recommendations, three
+- Coverage is complete against the scan: all product recommendations, three
   wood-association records, both poor-man's-TV technologies and full SSTV table,
   carrier-current letter/table/description, Chair-Loc procedure, SB recommendations,
   and the complete sleeping-bag-materials letter.
 - Lists and technical records are translated item-by-item rather than condensed.
-- Layout, brand spellings, one address, and non-OCR diagram text prevent acceptance.
+- All legible prose, prices, addresses, table values, diagram dimensions, captions,
+  and display text are represented.

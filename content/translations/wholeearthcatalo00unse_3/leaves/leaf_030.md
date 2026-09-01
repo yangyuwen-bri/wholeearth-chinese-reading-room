@@ -294,7 +294,7 @@ Caratunk, Maine 04925
 
 浴桶以木条桶板围成，底部为钢制，并有红木板条坐台保护你的屁股。这些浴桶专为宜人的户外环境而设计（红木林、草地、俯瞰海洋的悬崖），用柴火加热；电或丙烷也可以。柴火约 30 分钟就能把水烧得蒸汽腾腾，并能在长时间浸泡中保持水温。
 
-可定制尺寸和木材：圆形、红木、长圆形、雪松，［一项木材或形式字样不清］。价格合理，也可交换。所需维护很少，只需涂亚麻籽油，偶尔收紧箍带。水中放点香味很好，例如 Dr. Bronner's 或桉树油。清洁自己，同别人一起沐浴。水泥海上的水手找到了港口。
+可定制尺寸和木材：圆形、红木、长圆形、雪松、冷杉。价格合理，也可交换。所需维护很少，只需涂亚麻籽油，偶尔收紧箍带。水中放点香味很好，例如 Dr. Bronner's 或桉树油。清洁自己，同别人一起沐浴。水泥海上的水手找到了港口。
 
 联系：
 
@@ -406,7 +406,7 @@ Hempstead, NY 11551
 
 我在某期《W.E.》里看到一段谈武器的文字，记不清何时何处了；里面提到弩、枪、燧发／火帽击发前装枪之类。好吧，事实是，如果你想要一种威力大、好玩、又相当合法的武器，只有一条路——**黑火药（步枪与手枪）**。
 
-你瞧，这些东西可以毫无限制地邮寄给任何人（不过要查本地法律）。要买手枪，你必须声称自己已经 21 岁。多大点事。总之，前装长枪（燧发式和火帽击发式）相当准确，会发出一声他妈的巨大而美妙的轰响。手枪也一样。射击成本还很低，可能只有定装弹武器的十分之一。口径从 .36 到［上限字样不清］（燧发枪与霰弹枪）。这些枪仿照古代式样，例如 .36 口径 Navy 火帽击发转轮手枪，或 Kentucky 式松鼠枪。
+你瞧，这些东西可以毫无限制地邮寄给任何人（不过要查本地法律）。要买手枪，你必须声称自己已经 21 岁。多大点事。总之，前装长枪（燧发式和火帽击发式）相当准确，会发出一声他妈的巨大而美妙的轰响。手枪也一样。射击成本还很低，可能只有定装弹武器的十分之一。口径从 .36 一直到无限大（燧发枪与霰弹枪）。这些枪仿照古代式样，例如 .36 口径 Navy 火帽击发转轮手枪，或 Kentucky 式松鼠枪。
 
 货源：找一本枪械杂志，例如《Shooting Times》或《Guns & Ammo》，查看价格、说明和图片。（恋物癖者尤其要留意。）或者：
 
@@ -446,21 +446,20 @@ Allston, Massachewsit［原信如此拼写］
 
 ## OCR / Uncertainty Notes
 
-- The page interleaves multiple columns, advertisements, a platform table, and
-  product images. Reading order and visual associations require scan verification.
-- Snowshoe price/model alignment, one bathtub option, table typography, and several
-  black-powder glyphs are damaged or displaced.
+- The high-resolution scan confirms column order, snowshoe model/price alignment,
+  the platform table, product images, and all visual associations.
+- It restores `fir` in the bath entry and `infinity` as the upper end of the source's
+  deliberately hyperbolic black-powder caliber range.
 - The historical weapon letter is translated in full with a visibly separate
   safety/legal context; its 1970 claims are not validated as current guidance.
-- Illustration-only labels for the bath, platform, blocks, Chair-Loc-like images,
-  bubbles, and firearms may be absent from OCR.
+- The snowshoe caption and all visible ad and illustration text are represented.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: all eight major entries, the full
+- Coverage is complete against the scan: all eight major entries, the full
   floating-platform table and cost notes, every snake title/vendor, both product
   records, and all nine numbered paragraphs of the black-powder letter.
 - No controversial or hazardous source section is summarized away. Translator
   context is clearly labeled and does not replace source wording.
-- Model/price alignment, damaged words, dense layout, and visual text prevent
-  acceptance until high-resolution review.
+- All legible model, price, address, table, caption, and illustration text has been
+  checked against the high-resolution scan.
