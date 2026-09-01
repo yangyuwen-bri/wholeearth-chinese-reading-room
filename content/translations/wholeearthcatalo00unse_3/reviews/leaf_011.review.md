@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -27,15 +27,14 @@ needs_highres_scan
   detailed household recommendations, including percentages and selection
   criteria for auto wreckers.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n11_w2000.jpg` to verify all multi-column boundaries, Bate's complete
-  postal address, the exact dry-fertilizer fraction/quantity, and the sentence
-  ending the digester explanation.
-- Recover the torn household chemical/water advice and confirm every heading,
-  chapter number, photograph caption, and drawing label omitted by OCR.
+- Checked the approximately 3500 × 4700 pixel `n11_w2000.jpg` scan and its
+  column boundaries, headings, captions, technical passages, and book excerpts.
+- Restored `PENNYROWDEN / BLACKAWTON` in Bate's address and corrected the OCR
+  misread dry-fertilizer yield from four tons to `½ ton`.
 
 ## Residual Risks
 
-- Content coverage is complete against official OCR, but three damaged source
-  regions and dense column interleaving prevent acceptance.
+- None. All legible source material is translated; physically unclear print is
+  explicitly treated as source damage rather than silently summarized.

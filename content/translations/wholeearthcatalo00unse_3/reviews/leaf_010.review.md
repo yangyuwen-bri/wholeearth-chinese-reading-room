@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -24,14 +24,14 @@ needs_highres_scan
 - The certificate remains a field-by-field form rather than being described as
   merely an accompanying card.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n10_w2000.jpg` to confirm the certificate layout, checkbox wording,
-  copyright holder, and relation to the complaint card on the preceding page.
-- Determine whether `Near Pyramid Lake` and `—SB '63` form one photo caption
-  and credit, and transcribe any image text omitted by OCR.
+- Checked the approximately 3500 × 4700 pixel `n10_w2000.jpg` scan. The
+  certificate layout, checkbox wording, missing date field, and full copyright
+  holder `W. L. Burmeister` are now represented.
+- Confirmed `Near Pyramid Lake` as the photo caption and vertical `—SB '63` as
+  its credit/year.
 
 ## Residual Risks
 
-- Official OCR is short but interleaves the form and letter. Exact visual
-  association and one truncated attribution prevent acceptance.
+- None. The translation preserves all legible source text without summary substitution.

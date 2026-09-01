@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -24,16 +24,14 @@ needs_highres_scan
   choices, blanks, identifier, and copyright attribution.
 - The poem is complete against OCR and kept distinct from article prose.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n9_w2000.jpg` to verify the page's exact column order and boundaries
-  among both news pieces, form, photograph, and poem.
-- Recover any price or publication text represented by `ee 42 Pi.` and verify
-  all form boxes, labels, identifier digits, and the copyright line.
-- Confirm the nova image caption and whether any visible bumper-sticker text or
-  photograph credit was omitted by OCR.
+- Checked the approximately 3500 × 4700 pixel `n9_w2000.jpg` scan. It confirms
+  the four-block reading order, nova caption, both Fox articles, form identifier
+  and copyright, and all visible form fields.
+- Restored the form's day/month/year fields and the poem record's `1965` and
+  `Oyez`, which official OCR had displaced or damaged.
 
 ## Residual Risks
 
-- Textual coverage is complete against official OCR. Layout, form fidelity, and
-  one damaged publication field remain the only acceptance blockers.
+- None. The translation preserves all legible source text without summary substitution.

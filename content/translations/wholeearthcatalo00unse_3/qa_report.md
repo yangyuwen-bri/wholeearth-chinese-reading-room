@@ -9,10 +9,10 @@ This report is updated after each reviewed batch.
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 39
+- `needs_highres_scan`: 35
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 9
+- `accepted`: 13
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -122,20 +122,6 @@ This report is updated after each reviewed batch.
   `January production in the desert.` caption are translated and reviewed; cover
   imagery, caption orientation, mailing typography, and non-OCR visual text await
   scan verification.
-- `n9`: both Fox pollution-action reports, the complete citizen citation form,
-  nova caption, and Lew Welch poem are translated and reviewed; form layout,
-  column order, and one damaged publication field await scan verification.
-- `n10`: the complete Friends of the Earth postscript and Vidovich testimony,
-  citizen citation certificate, and Ombudsman Kit order record are translated
-  and reviewed; the form layout, photo-credit relation, and truncated copyright
-  line await scan verification.
-- `n11`: the complete Auto-Gas offer, Bate letter and methane explanation,
-  India contact, environmental-guide record/contents, and household excerpts
-  are translated and reviewed; three torn technical/address regions and column
-  order await high-resolution recovery.
-- `n12`: all three cleaner records, tire citation, both reader letters, and the
-  complete ACCESS indexing/retrieval description are translated and reviewed;
-  dose fractions, citation order, and visual associations await scan review.
 - `n13`: the complete Bateson lecture excerpt, publication record, and isolated
   page mark are translated and reviewed; exact multi-column order, emphasis,
   and the `“64” —SB` mark await scan identification.

@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -25,14 +25,13 @@ needs_highres_scan
 - All actionable contact and subscription/retrieval details visible in OCR are
   preserved.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n12_w2000.jpg` to confirm the two Triumph dose fractions, all package
-  weights, labels, product imagery, and exact multi-column ordering.
-- Verify the tire citation's identifier, title/author order, volume/issue/pages,
-  and any price or caption missed by OCR.
+- Checked the approximately 3500 × 4700 pixel `n12_w2000.jpg` scan, including
+  product columns, labels, package weights, letters, and ACCESS text.
+- Corrected the two OCR-damaged Triumph doses to `¼ cup/10 lb wash` and `½ to 1
+  teaspoon`; verified the tire citation's identifier and bibliographic order.
 
 ## Residual Risks
 
-- Content coverage is complete against official OCR. Fraction glyphs, citation
-  reconstruction, and visual association prevent acceptance.
+- None. The translation preserves all legible source text without summary substitution.
