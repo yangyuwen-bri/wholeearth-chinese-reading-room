@@ -244,11 +244,16 @@ San Francisco, Ca. 94133
 ### 图中存款单可辨文字
 
 U.R. HOPE<br>
-1039 OUR PLACE
+1099 OUR PLACE<br>
+HOMETOWN, EARTH 96053
 
-存入总额（TOTAL AMOUNT DEPOSITED）
+［✓］人民项目（PEOPLE）　［　］其他（OTHER）
 
-`DEPOSIT`　`2522`　`FOR`　`20-66`　`DATE`　`2/10/71`　`2056492`
+存入总额：25.00 美元（TOTAL AMOUNT DEPOSITED）
+
+存款金额：25.00 美元（FOR DEPOSIT）　日期：2/10/71
+
+底部机读号码：`1:2273…0658:040 2056492…`
 
 ## 用你的储蓄账户开支票；让你的支票账户赚取利息
 

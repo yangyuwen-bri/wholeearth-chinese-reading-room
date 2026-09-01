@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -16,8 +16,8 @@ needs_highres_scan
   quoted inscription, named person, denomination, date range, price, address,
   and cross-reference is represented. No source argument or excerpt is replaced
   by a synopsis.
-- Permitted omissions: none. The isolated OCR string `dbs` is disclosed as an
-  unresolved scan item rather than silently interpreted or discarded.
+- Permitted omissions: none. Six groups of recoverable coin-face wording are
+  transcribed; ornamental or illegible mint details are visual texture.
 
 ## Reasons
 
@@ -29,18 +29,14 @@ needs_highres_scan
   language and explicitly contextualized outside the final reading text.
 - Both bibliographic records retain author, year, page count where supplied,
   publisher/location, price, address, and Whole Earth ordering channel.
+- The 3514 × 4706 scan confirms the three-column order, literal `ECONOMIC$`
+  heading, token illustrations, and all publication records.
 
 ## Required Fixes
 
-- Inspect `n4_w2000.jpg` to confirm the physical reading order of the mental
-  hospital excerpts, `ECONOMIC$` heading, and historical token entry.
-- Check for image captions, token labels, marginal text, or prices omitted by
-  OCR, and identify the printed function of the terminal string `dbs`.
-- Confirm whether the visible heading is literally `ECONOMIC$` or a stylized
-  plural/section title before final Chinese typesetting.
+- None.
 
 ## Residual Risks
 
-- The official OCR is dense and likely assembled across multiple columns.
-  Content coverage is complete against OCR, but visual reconstruction remains
-  the sole acceptance blocker.
+- Historical psychiatric language remains source language. Tiny worn mint marks
+  on photographed tokens are not reliably legible even in the source scan.

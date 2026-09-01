@@ -9,10 +9,10 @@ This report is updated after each reviewed batch.
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 44
+- `needs_highres_scan`: 39
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 4
+- `accepted`: 9
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -122,24 +122,6 @@ This report is updated after each reviewed batch.
   `January production in the desert.` caption are translated and reviewed; cover
   imagery, caption orientation, mailing typography, and non-OCR visual text await
   scan verification.
-- `n4`: the complete token-economy editorial, hospital-study excerpts, supply
-  and demand examples, both coinage records, and British/US/Canadian token
-  history are translated and reviewed; multi-column order, image labels, and
-  the terminal `dbs` string await scan review.
-- `n5`: the complete banking critique, depositor-directed People's Project
-  proposal, account instructions, testimonial, all rates, amounts, and contact
-  details are translated and reviewed; column order and the deposit-slip image
-  await high-resolution transcription.
-- `n6`: the Tribune organizing article, Henry George course letter, silver-coin
-  item, Maoist environmental excerpt, Science subscription, and film listing
-  are translated and reviewed; interleaved columns, image-caption association,
-  and two isolated labels await scan verification.
-- `n7`: the complete inflation/craftsman argument and the separate Han-shan
-  poetry record are translated and reviewed; one truncated repair-market line,
-  one suspicious year, and the multi-column association await scan repair.
-- `n8`: the complete historical nonprofit-corporation Q&A, dollar-sign note,
-  Bigfoot brief, Han-shan verse, and book record are translated and reviewed;
-  two damaged legal phrases and sidebar placement await scan verification.
 - `n9`: both Fox pollution-action reports, the complete citizen citation form,
   nova caption, and Lew Welch poem are translated and reviewed; form layout,
   column order, and one damaged publication field await scan verification.

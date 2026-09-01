@@ -352,7 +352,11 @@ Washington, DC 20009
 Ruth A. Kenney<br>
 Glendale, California
 
-`senus A -3970`［原页可辨字符］
+### 页首图案文字
+
+“越界地带”（OUTLAW AREA）／“能源信用”（ENERGY CREDIT）／“诺克斯堡”（FORT KNOX）／“黄金”（GOLD）／“银行通道系列 A—1970”（BANK ACCESS SERIES A—1970）。
+
+图案署名：Ant Farm。
 
 ## 钱更多，亲爱的
 
@@ -405,7 +409,6 @@ Nan Huai-ching 是中国传统健身舞蹈形式太极拳的大师；他在 Thom
 
 （8 分钟，黑白；租金 10 美元，购买 80 美元；联系 Tom Davenport Films，235 2nd Ave., New York 10003。）
 
-Ant Farm。
 
 ## Omitted Bibliographic/Order Info
 

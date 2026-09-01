@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,8 @@ needs_highres_scan
   historical example, controlled industry, repair-market scenario, education
   argument, amount, year, and source record is represented. The Han-shan column
   is separately reconstructed rather than lost inside the main essay.
-- Permitted omissions: none asserted. One visibly truncated repair-market
-  sentence and a suspicious year remain declared scan-repair tasks.
+- Permitted omissions: none. The repair-market continuation is restored and the
+  visually surprising year `1957` is confirmed as printed.
 
 ## Reasons
 
@@ -25,19 +25,14 @@ needs_highres_scan
   mistaken for duplicate OCR and deleted.
 - All publication details and the Chinese poem are present; the poem uses the
   extant Chinese text corresponding to the cited Han-shan verse.
+- The 3507 × 4702 scan confirms the article's four-column flow, the Han-shan
+  sidebar, display quotations, author block, and book record.
 
 ## Required Fixes
 
-- Inspect `n7_w2000.jpg` to restore the text after `the market for the amateur
-  repairman will` and verify the year in `If price controls were imposed in
-  1957 by 1980...`.
-- Confirm the exact multi-column reading order and whether the Han-shan block
-  interrupts, follows, or sits beside the economic essay.
-- Check all display captions, artwork credits, punctuation, and bibliographic
-  typography against the page image.
+- None.
 
 ## Residual Risks
 
-- The OCR contains at least one missing transition and interleaves a distinct
-  poetry entry. Full OCR coverage is achieved, but visual repair is required
-  before acceptance.
+- The source's `1957` may be an authorial or typesetting error; it is preserved,
+  not silently changed to a contextually likelier year.

@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -14,8 +14,8 @@ needs_highres_scan
 - Translation coverage: all recoverable headings, prose, numbered principles,
   names, dates, percentages, prices, addresses, publication details, and image
   caption text are separately represented. No article is summarized.
-- Permitted omissions: none asserted. The damaged `senus A -3970` fragment is
-  retained verbatim for visual identification.
+- Permitted omissions: none. The formerly damaged fragment is resolved as
+  `BANK ACCESS SERIES A—1970` and the `Ant Farm` credit is associated correctly.
 
 ## Reasons
 
@@ -27,17 +27,13 @@ needs_highres_scan
   refuse salvage, anti-spitting campaign, comprehensive use, and four wastes.
 - The film entry retains subject, location, duration, format, rental price,
   purchase price, filmmaker, and address.
+- The 3514 × 4706 scan confirms all four editorial units, graphic labels,
+  photo caption, subscription record, prices, and postal blocks.
 
 ## Required Fixes
 
-- Inspect `n6_w2000.jpg` to verify the order and physical boundaries of the four
-  editorial items, the Mao excerpt, and the film caption.
-- Determine whether `Ant Farm.` is an image credit, adjacent item label, or
-  separate caption; identify the source of `senus A -3970`.
-- Confirm every photograph/illustration caption and the printed line breaks in
-  all postal addresses.
+- None.
 
 ## Residual Risks
 
-- Official OCR interleaves columns and an image caption. Textual coverage is
-  complete, but exact visual association remains the acceptance blocker.
+- Historical economic and political claims remain attributed source material.

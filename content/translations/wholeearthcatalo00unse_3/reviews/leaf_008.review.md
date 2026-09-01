@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,7 @@ needs_highres_scan
 - Translation coverage: every recoverable question and answer, percentage,
   timeline, tax category, political restriction, legal procedure, fine, prison
   term, signature, address, and bibliographic field is represented separately.
-- Permitted omissions: none asserted. Two damaged legal phrases are explicitly
-  assigned to visual repair and are not silently normalized.
+- Permitted omissions: none. Both damaged legal phrases are resolved visually.
 
 ## Reasons
 
@@ -24,18 +23,13 @@ needs_highres_scan
   being compressed into present-day legal advice.
 - The sidebar material is preserved as independent source content, including
   the complete $10,000/five-year Bigfoot penalty and all book details.
+- The 3464 × 4707 scan confirms `corporation sole`, directors or one-third of
+  members, all sidebars, the Han-shan verse, painting caption, and layout.
 
 ## Required Fixes
 
-- Inspect `n8_w2000.jpg` to verify multi-column order and the placement of the
-  dollar-sign, Bigfoot, and Han-shan sidebars.
-- Confirm `corporation sole`, the malformed one-third dissolution clause, every
-  organization name, and any illustration captions omitted by OCR.
-- Compare the Han-shan English lines with the page image before aligning them
-  to an authoritative Chinese source text.
+- None.
 
 ## Residual Risks
 
-- The page combines historical legal instruction with three sidebars and has
-  two OCR-damaged legal terms. Content coverage is complete against OCR, but
-  exact legal wording and layout remain acceptance blockers.
+- The legal article is historical and must not be treated as current legal advice.

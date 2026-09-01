@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,8 @@ needs_highres_scan
 - Translation coverage: every recoverable narrative and argument is translated
   in full, including all dollar amounts, interest rates, loan periods, account
   conditions, project examples, bank names, signatures, and addresses.
-- Permitted omissions: none asserted. Damaged deposit-slip characters remain
-  an explicit visual-verification item rather than being silently invented.
+- Permitted omissions: none. All legible deposit-slip labels and machine numbers
+  are represented; worn separators remain ellipses.
 
 ## Reasons
 
@@ -24,17 +24,15 @@ needs_highres_scan
   period, retroactive 9% charge, $100 opening deposit, and check-clearing rule.
 - The three source voices remain distinct; the testimonials are not absorbed
   into the main editorial argument or replaced by a summary.
+- The 3507 × 4702 scan confirms column order, `the transformer`, the 4¼% rate,
+  two account notes, and the deposit-slip fields.
 
 ## Required Fixes
 
-- Inspect `n5_w2000.jpg` to confirm column order and the placement of the two
-  shorter account notes relative to the main banking essay.
-- Transcribe all legible deposit-slip labels, numbers, handwritten fields, and
-  any caption that the official OCR failed to recover.
-- Confirm the printed fraction in the United Security Accounts rate and the
-  exact typography of `the transformer` signature block.
+- None. The deposit address, amount, checkboxes, date, and machine line were
+  corrected or added from the scan.
 
 ## Residual Risks
 
-- Content coverage is complete against official OCR. The deposit-slip image and
-  dense multi-column layout prevent acceptance until visual review is possible.
+- The deposit slip is a satirical design; the translation preserves it as source
+  material rather than presenting it as a usable banking instrument.
