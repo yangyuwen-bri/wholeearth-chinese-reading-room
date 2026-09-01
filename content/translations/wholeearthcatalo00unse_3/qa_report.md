@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 34
+- `source_ready`: 33
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 14
+- `needs_highres_scan`: 15
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n14`–`n21`, `n23`–`n47`: source packs are complete; full translations,
+- `n0`, `n15`–`n21`, `n23`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -66,6 +66,9 @@ This report is updated after each reviewed batch.
 - `n13`: the complete Bateson lecture excerpt, publication record, and isolated
   page mark are translated and reviewed; exact multi-column order, emphasis,
   and the `“64” —SB` mark await scan identification.
+- `n14`: the complete living-dwelling note, NASA/Genesis parody, and technical
+  checks-and-balances editorial are translated and reviewed; a displaced clause,
+  column order, and isolated illustration marks await scan verification.
 - Archive high-resolution scan access is currently unavailable from the local
   environment; drafting may proceed from official OCR, but acceptance is
   blocked until representative and leaf-specific visual checks are possible.
