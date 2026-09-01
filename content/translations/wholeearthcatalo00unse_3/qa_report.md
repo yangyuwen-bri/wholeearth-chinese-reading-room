@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 9
+- `source_ready`: 8
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 39
+- `needs_highres_scan`: 40
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n40`–`n47`: source packs are complete; full translations,
+- `n0`, `n41`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -91,6 +91,10 @@ This report is updated after each reviewed batch.
   letters, Truck Store list, Pacific Domes media records/update, and full small-press
   offer are translated and reviewed; page/price alignment, source arithmetic,
   names, columns, and ad fine print await scan verification.
+- `n40`: the complete valley/spring/cleanup/production report, generator setup,
+  cost/equipment/energy accounting, closing lines, and all five OCR-visible captions
+  are translated and reviewed; one clipped phrase, photo associations, and visual
+  text await scan verification.
 - `n2`: the complete Ken Kesey interview, song, three-swordsmen story, address,
   contents tokens, and copyright notice are translated and reviewed; the
   column-scrambled contents block still requires scan reconstruction.
