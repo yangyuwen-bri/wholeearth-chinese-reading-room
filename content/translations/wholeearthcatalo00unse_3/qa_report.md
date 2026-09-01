@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 43
+- `source_ready`: 42
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 5
+- `needs_highres_scan`: 6
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n5`–`n21`, `n23`–`n47`: source packs are complete; full translations,
+- `n0`, `n6`–`n21`, `n23`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -35,6 +35,10 @@ This report is updated after each reviewed batch.
   and demand examples, both coinage records, and British/US/Canadian token
   history are translated and reviewed; multi-column order, image labels, and
   the terminal `dbs` string await scan review.
+- `n5`: the complete banking critique, depositor-directed People's Project
+  proposal, account instructions, testimonial, all rates, amounts, and contact
+  details are translated and reviewed; column order and the deposit-slip image
+  await high-resolution transcription.
 - Archive high-resolution scan access is currently unavailable from the local
   environment; drafting may proceed from official OCR, but acceptance is
   blocked until representative and leaf-specific visual checks are possible.
