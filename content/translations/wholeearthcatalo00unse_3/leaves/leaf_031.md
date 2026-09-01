@@ -234,18 +234,182 @@ wei te ae
 
 ## Glossary Updates
 
+- milkmaid — 挤奶女工
+- animal-keeper — 动物饲养员
+- zoo protective custody — 动物园保护性圈养
+- Thomas Register — 《Thomas Register》工业名录
+- still — 蒸馏器
+- multiple use — 多用途利用
+- time-envelope — 时间尺度
+- non-renewable lease — 不续租租约
+- factory second — 工厂二等品
 
 ## Final Translation
 
+### 匿名短笺
+
+请不要提我的名字，我是个逃亡者。
+
+Athalmer<br>
+BIG<br>
+Canada
+
+### 来自一位想当挤奶女工的人
+
+我很喜欢给奶牛挤奶，最好用手（这件事很有感官享受），机器也可以，因为我真的就是喜欢跟奶牛待在一起。它们其实懂得很多。
+
+总之，我想找份工作；而且我希望自己喜欢这份工作，那为什么不找一份给奶牛挤奶的工作呢？可我不知道怎样才能找到这种工作。我写信给 Vermont 的农业部和商会，但它们看来不想回复。所以我想问你们：对于到哪里能找到一份给奶牛挤奶的工作——美国任何地方都行——你们有什么建议吗？或者，有没有人愿意供我吃住，让我替他们挤奶？（只要跟奶牛有关，其他工作也行。）随便什么人，写点奶牛的事吧！
+
+爱，<br>
+Diana Meredith<br>
+Box 29<br>
+Hillsburgh, Ontario<br>
+Canada
+
+### “女性动物饲养员设施”？！
+
+（向 1 月增刊读者公开呼吁）
+
+同志们：
+
+我们这里那家可爱的老动物园没有学徒计划，也没有暑期兼职饲养员职位；它非常担心工会纠纷，还说：“虽然欢迎女性申请，但我们就是没有女性动物饲养员所需的设施。”
+
+如果你有一家动物园，或知道哪家动物园更愿意接纳立志从事动物饲养工作的年轻女性，请告诉我。（大学学业目前挡在前面，所以我是在为将来考虑。）
+
+另外，如果有人知道介绍熊和狼的好书，特别是与它们在动物园保护性圈养中的照料和管理有关的书，请把书名和出版社名称寄给我，不胜感激。
+
+致意，<br>
+Mary Lee Schneiders<br>
+5314 Lakepointe<br>
+Detroit, Michigan 48224
+
+### Gwinco 意味着土豆，南美洲
+
+人们写了、谈了许多全家迁往加拿大的事，不过，也有一股规模适中的人潮迁往南美洲。给那些了解墨西哥、因而觉得另外二十来个国家也都差不多的人一点忠告：根本不是那么回事。语言、习俗和种族会以微妙、有时又极其明显的方式变化。
+
+这是一趟全新的旅程；如果南美抓住了你，从此任何地方看起来都不大对劲，也不再像家。
+
+如果有人想知道我们在哪里、厄瓜多尔正在发生什么，我们非常乐意提供帮助。只管写信：
+
+Ira<br>
+Gwinco<br>
+Apartado 2097<br>
+Quito—Ecuador<br>
+S.A.
+
+平安，<br>
+Ira
+
+### 去年版更便宜
+
+买上一年度版本的《Handbook of Chemistry & Physics》，价格会更低。我在 1962 年买到 1961 年版，只花了 6.50 美元。如果能凑一群人一起直接订购，也许再用学校抬头信纸，会更有帮助。
+
+《Thomas Register》常常能免费得到（同样是上一年度版本）。可以去找工业图书馆，甚至本地公共图书馆；一般来说，它们都会被大家送来的旧版淹没。大企业极其重视保持资料最新，而《Thomas Register》不用增补页更新——每年都是全新的七卷。
+
+Frank Mittermeir（355 E. Tremont Ave., Bronx, NY 10465）出售一系列非常出色的木工凿、圆凿等工具，也有价格实在的金工工具。这是一家小店，所以除非你真想买，不要索取目录。
+
+爱、和平，继续好好干！
+
+——Peter Heinlein，纽约州 Yonkers
+
+### Karma I：别人的来信
+
+我们写信来，是为了感谢你们把我们收入《全球概览》春季版（酿酒用品，以及一本名为《How To Build A Still》的书）。你们很清楚，结果《NEWSWEEK》在评论你们的《Catalog》时也把我们写了进去。起初并没有发生太多事，但到 8 月和 9 月，我们已经被询问和订单压得喘不过气。
+
+不幸的是，我们是一家非常小的企业；突如其来的宣传把我们推入一种恐慌状态，至今还没有完全恢复。大多数用品从英国和欧洲大陆进口，而重新补货要延迟六周到两个月，造成大量订单积压、尚未交付。但我们不是在抱怨。要是事先知道你们会有这么大影响，我们就会准备得更好。
+
+顺便说一句，你们杂志带来的另一个非常重要的副产品，是我们将同 Dan Rowan（《Rowan and Martin Laugh-In》）和 Dinah Shore 一起上全国电视节目。CBS Radio 也正在筹备一档讨论美国酿酒的节目，会在节目中播放对我们的录音采访。这两个广播电视网都是通过你们的《Catalog》找到我们的。
+
+与此同时，万分感谢。我们得回去继续设法从堆积如山的文书工作下面脱身。如果你们收到任何关于我们目前服务迟缓的询问，希望能代为转达歉意，并向大家保证，只要我们从这场突如其来的好运中恢复过来，就会重新变得及时高效（希望如此）。
+
+谨致问候，<br>
+Norman E. Gilbey<br>
+The Wyne Table<br>
+P.O. Box 490<br>
+Norman, Oklahoma 73069
+
+### Karma II
+
+一年前，你们做 Liferaft 时，我有些惊讶：你们竟把精力投入一趟偏执之旅。我也有点好奇，有点嫉妒，看着人们离开这里去参加活动。我从来没有禁食过。六天前，我开始了第一次禁食；开始时，我就知道它至少会持续七天，因为 Liferaft 持续了七天。
+
+今天，我在一棵绿树下坐了很久，透过叶片仰望天空。绿色有许多种深浅；随着太阳移动，叶片的图案也不断变化。非常美。
+
+不知为何，我发现自己想起最近读的一本科普书中的一句话：“当今世界大概有三亿儿童营养不良，严重到正在遭受永久性脑损伤。”
+
+自从搬到乡下生活，我一直不让无用的信息进入脑中。如果我可以劈柴、把黑莓装罐，或给孩子们讲故事，就不想听那些恐怖故事。我拒绝为自己无能为力的事情担忧。可是这句话给我的感觉不同。我就坐在一棵树下，周围只有美好的事物；然而我知道，在这个星球上，孩子们正在挨饿——真实的孩子；只要有足够的钱和一本护照，我一天之内就能轻易到达他们身边。他们进入了我的脑中，而他们本来就应当在那里。
+
+我不知道接下来该往哪里走。感觉就像迟到一年，终于登上了 Liferaft。
+
+——Elaine，俄勒冈州 Cave Junction
+
+### American Forest Institute，以及回应
+
+American Forest Institute 成员公司开放了 6,500 万英亩林地，供公众免费进行露营、狩猎、钓鱼等休闲活动。这是很大一片土地，比国家公园和国家森林的总面积还大。
+
+我们几乎所有成员都会出版休闲指南，例如我附上的三本。全国各地免费区域的指南肯定超过 50 种。有些地方几乎完全是荒野，有些则有帐篷平台、户外烤架、自来水等设施。
+
+我正在编一本“所有这些指南的指南”，附地图，以及应当向谁写信索取各地区资料的名单。大概要花三个月，因为大多数公司都在修订材料，准备 1971 年指南。等 AFI 的指南编好，我会寄几本给你们，由你们决定是否愿意把它列入《全球概览》。看过之后，请四处问问，再告诉我通过《全球概览》大概能发出多少本，以免我们供应不够。它会免费提供。
+
+如果你想知道 American Forest Institute 是什么：它是由公司和个人组成的协会，致力于保护全国适合树木生长的土地，供**多用途**利用——种树采伐、公众免费休闲和野生动物管理。
+
+我在 AFI 只工作了三个月，但在我看来，多用途土地利用能为最多的人带来最多好处。公司——政府其实也一样——若把土地围起来，只准一种用途，例如只准种树，或只准休闲（尽管两种情况都有少数合理例外），就像是在说：“听着，这个房间只能用来睡觉，不准阅读，不准做爱，不准吃东西，也不准做任何类似的事，只准睡觉。”
+
+［图片说明］Pigasus 与 Wavey Gravy 在 Liferaft Earth。
+
+平安，<br>
+Donald Biggs<br>
+American Forest Institute<br>
+1835 K St. NW<br>
+Washington, DC
+
+#### 给 Donald Biggs 的回应
+
+我的一个朋友 Gordon Ashby 曾受 Bank of America 邀请，为它们可以采取哪些环境行动提供建议。他的建议是：既然该银行承办 Boise、Weyerhaeuser 等公司的大部分贷款，而那些土地大多按 150 年的时间尺度使用，那就应当要求木材公司把土地切成小块（20 至 100 英亩），以 20 年不续租租约提供给临时居住者——我们那些搭圆锥帐篷、土坯屋和原木小屋的人，正迫切需要一个地方，把精力投入不伤害土地的学习式实践，而且尤其不要修路。
+
+好吧，Bank of America 所有人都说，“很好，很好”，但这里没有任何人能够发起这样的政策。
+
+真的那么不切实际吗？
+
+——Stewart
+
+### 《The Idiot's Guide to VW Repair》继续上路
+
+在伦敦待了三个月，现在去西班牙、北非，再到 Zermatt 过圣诞。
+
+正在写一本书：《How to Feel Your Way Through Europe and Other Subjects》。
+
+感觉良好是一种生活方式！
+
+——John 与 Eve Muir
+
+### 更便宜的 Ocate 睡袋
+
+今年 8 月，我在 Santa Fe 买了一只 Ocate 睡袋，在 Wheeler Peak 一带待了两周——漂亮的睡袋——舒适、温暖、轻巧——谢谢你们把它列出来。顺便说，如果直接向 Santa Fe 的工厂购买，他们只卖二等品（比零售品薄 1/8），便宜得多，用起来同样好。
+
+回头见——<br>
+Rick Fleshin<br>
+得克萨斯州 Austin
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- None. All recoverable names, addresses, quantities, dates, prices, organization
+  claims, publication titles, postscript-like notes, and captions are retained.
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- The page interleaves multiple letters, a photo caption, an editorial response,
+  and display marks. Reading order requires scan verification.
+- The first anonymous note has several illegible decorative/title marks; `Athalmer
+  / BIG / Canada` is retained as printed without asserting its meaning.
+- The Karma I letter was reconstructed from two interleaved OCR sequences.
+- Exact photo association, the Ocate fraction, and any non-OCR handwritten text
+  require visual review.
 
 ## Self Critique
 
-- Pending translation.
+- Coverage is complete against official OCR: all reader appeals, migration and
+  tool notes, the complete Karma I and II letters, AFI letter and Stewart response,
+  travel update, photo caption, and Ocate letter are included.
+- Every discrete voice remains separate; no letter is collapsed into a thematic
+  summary. The Karma I reconstruction preserves all paragraphs and network names.
+- Decorative marks, visual association, and a few damaged glyphs prevent acceptance.
