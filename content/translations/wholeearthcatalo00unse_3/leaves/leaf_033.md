@@ -285,18 +285,178 @@ Montclair, New Jersey 9» 4 +
 
 ## Glossary Updates
 
+- doe — 母兔
+- buck — 公兔
+- fryer — 肉用幼兔
+- feed conversion — 饲料转化率
+- throwing body — 拉坯泥料
+- show-oriented — 以展赛为导向
+- woodburning stove — 燃木炉
+- creosote — 木馏油积垢
+- fur ruff — 毛皮风帽饰边
+- Aikikai — 合气会
+- Sensei — 老师
 
 ## Final Translation
 
+### 兔子更正
+
+**Small Stock Magazine**<br>
+一份 Countryside 出版物<br>
+P.O. Box 107<br>
+Marshall, Wisconsin 53559<br>
+Jerome D. Belanger，编辑兼出版人
+
+亲爱的 Gurney：
+
+我是《WEC》的热心支持者，也知道你们影响很大；而且《Small Stock》早已不在 Pierce City 出版，所以我真希望你们在 9 月号《Catalog》中刊出我们的现址。Pierce City 那边如今连邮件都不转寄了，因此你们许多读者会以为我不回信（这很遗憾，因为有时我宁愿回信，也不想出杂志）。
+
+不管怎样，身为兔业刊物编辑（除了《Countryside》——我相信你或那里某个人刚订阅了它），我仔细寻找你们那一页通常会出现的兔子套话和错误，却没有找到。事实上，我唯一勉强能争论的地方（如果我想吹毛求疵），是你提到那位农民朋友为自家食用养了 6 只母兔和 1 只公兔，每周却只得到一两只肉用幼兔。
+
+管理得当时，一只优秀母兔（至少在你用自己的种兔扩充兔群之后，这是唯一值得养的种类）每窝应当养大 8 只幼兔，每年至少生 4 窝。那就是每只 32 只，乘以 6 只母兔，一年等于 192 只肉兔。你的朋友（以及许多同他一样的人）在浪费饲料、时间和力气。
+
+简而言之，这就是我怎样从《Countryside》和自己的宅地生活进入兔业杂志这一行。我完全同意你那篇东拉西扯的兔子高论，也同意兔子能在后资本主义家庭手工业经济中发挥作用。但我也知道，在后院随便养几只兔子与把事情真正做好之间，差别他妈的大得很。（我应该知道……因为我自己错了太久。）
+
+我试着把这点说给 John Shuttleworth 听（最近顺路去看他，发现他打算刊一篇兔子文章……铁丝鸡网、木地板，全是那些真正懂行的人多年前就淘汰的东西），但我觉得没能说服他。我收到各种来信，有人想养 Flemish Giant 当肉兔。它们体形大，所以产肉最多？这些人完全没有饲料转化率、生长速度、受孕率等概念。
+
+每个人都“知道”许多并不真实的兔子知识，所以根本不会去寻求帮助。但是在像我们这样的宅地上，既养兔、鸡、山羊和蜜蜂，又做更多事情，每天省几分钟，一年就能累积成四十多个小时……那是很长一段时间，可以更好地用于各种其他项目。更别说浪费的钱了。
+
+我相信简单，但不把它叫作倒退。如果把所有**有用的**技术，以及我们关于遗传、营养等知识全都扔掉，我们就比穴居人好不到哪里去。最终一天 24 小时加半个晚上都在流汗，却没有得到任何精神提升；而在我看来，精神提升才是真正的意义所在。
+
+完全坦白地说，我应当指出，自己几个月前才买下《Small Stock》，所以它仍处在过渡期。这份刊物一直以展赛为导向，近年才夹带少量商业内容。但兔子从来没有真正得到应有的地位。我真诚相信，兔子可以成为你文章中所写一切的主要环节——不过，前提是人们了解事实，而且做这件事时至少多少知道自己在干什么。
+
+怀着这种理念，再加上我经营《Countryside》和宅地的经验，我打算改变《SSM》的方向。也许还会改变兔子的未来——这么说是不是太自负了？
+
+无论如何，我确实希望你们继续宣传把兔子作为食物——当然要采用现代管理原则。如果还能告诉人们到哪里找到《Small Stock Magazine》，那就更好了。我真认为我们能帮助他们。
+
+致意，<br>
+J. D. Belanger
+
+### 更多兔子资料
+
+养兔方面，除了你们以前已经列过的书，再补充一些：
+
+**American Rabbit Breeders Assoc.**<br>
+4323 Murray Ave.<br>
+Pittsburgh, Pa. 15217<br>
+25 美分
+
+**Boy Scout Merit Badge Series，第 3375 号**
+
+**Albers Milling Co.**<br>
+800 West 47th St.<br>
+Kansas City, Missouri 64112<br>
+《Raising Rabbits》（我想是免费的）<br>
+《Commercial Rabbit Raising》50 美分
+
+**Glick Manufacturing Co.**<br>
+1595 Almaden Road<br>
+San Jose, Calif. 95125<br>
+目录与书：1.00 美元
+
+**Commercial Rabbit Growers Discount Club**<br>
+P.O. Box 5693<br>
+San Jose, Calif. 95150<br>
+目录免费
+
+养 4 只母兔和 1 只公兔，投入不到 85 美元，你就能吃得不错，而且两年内收回成本——如果把多余兔子卖给商业收购商的话。只要你不是素食者，这是一种不错的生活方式。
+
+——T. G. Crouthamel，新泽西州 Spotswood
+
+### “I seem to be a verb” T 恤
+
+每件 2.50 美元，购买地址：
+
+Mark Victor Hansen<br>
+Box 1275<br>
+Carbondale, Illinois 62901
+
+### 更好的炉子与 100 名海军陆战队员
+
+Riteway 燃木炉最近几经易主。现在的公司是：
+
+Riteway<br>
+Marco Industries<br>
+169 Pleasant Hill Road<br>
+Harrisonburg, Virginia 22801
+
+他们很好打交道。例如，有个孩子把一个零件弄坏了，我们打电话索要；那家伙说：“唔，我们刚把所有东西运到这里，堆得到处都是，不过你把它仔细描述一下，我们就找找看。”我的意思是，见鬼，你会忍不住再出去弄坏点什么，好同他们做生意。
+
+听着，Riteway 比 Ashley 好太多，根本不值得争论。它让烟管里积的木馏油更少，燃烧时间更长，使用寿命长许多年。
+
+爱，<br>
+George von Hilsheimer
+
+又及：政府文件总监会寄给你一整箱供 100 名海军陆战队员使用的食谱。绝对实用。菜出奇地好；而且若要计算该用多少食材，它不可或缺，内容也比你们列的另一种东西丰富得多。**《MARINE CORPS RECIPES》：100 人份／5 × 8 英寸卡片。**
+
+### Holubar 与 Angier
+
+我认为，Holubar Co. of Colorado 值得一篇比你们给出的更好的评论！我们同他们做过几次生意，体验格外好。去年买的两个睡袋，后来证明几乎**太**暖了——昨晚我们在零下 5 度的环境中过夜，里面依然舒适。决定试用 Holubar 之前，我们作了许多比较。邮差把睡袋送到时，一位刚买了 Sierra Designs 睡袋的朋友正在做客；他惊呼：“75 美元？我上当了！”**绝对是好商品。**
+
+他们的目录还有精选的登山用品和羽绒服。另一件值得关注的事，是今年的新政策：出于生态考虑，不再使用任何动物毛皮做风帽饰边（狼和狼獾都是受威胁物种）。更多公司应当站出来，采取这样的立场。
+
+另一个话题：我丈夫建议你们列入老朋友 B. Angier 与 E. R. Kodet 医生合著的《Being Your Own Wilderness Doctor》。我们觉得，这本医疗指南非常新，比《How To Survive In The Woods》中的内容更好。它针对徒步深入荒野等活动中（可能）遇到的问题编写。只要钱够，我们就想把它加入私人藏书。书前有一份资料速查索引。
+
+那些超有机主义怪人不会太喜欢它，因为书中强调新药；但其他资料（扭伤、脱臼、骨折、缝合等等）肯定有用。我在医院急诊室工作过两年；在我看来，这是我见过为非医疗人士编写的最佳急救指南之一。Stackpole Books 出版，价格没法告诉你，因为可爱的公共图书馆把那一角剪掉了。大概是 5.95 或 6.95 美元。
+
+好了，来自白雪覆盖的东北部，眼下大概就这些。向你们所有浑身湿透的加利福尼亚怪人，以及其他每个人致以爱与和平。
+
+——Lewis，加拿大 Ontario 省 Ottawa
+
+### 合气道
+
+《Catalog》第一次触及我的亲身经验，是 1969 年秋季号列出一本合气道书时。虽然我没有看过那本书，却听同学们极力称赞。我对这门艺术的学习还不完整；我曾在马萨诸塞州 Cambridge 跟随 Mitsunari Kanai 老师学习几个月。
+
+要理解合气道那种温和的和谐，最好的办法是观看实际练习，并同练习者交谈。下面这份合气道俱乐部和学校名单来自 American Aikido Federation；该组织与 New York Aikikai 地址相同。
+
+- **Arizona Aikikai**：817 North 1st Street, Phoenix, Arizona 85004。
+- **Berkeley Aikikai**：1260 Hopkins St., Berkeley, Cal.；联系人 Kenechi Suzuki。
+- **Buffalo Aikikai**：103 Buckeye Road, Amherst, NY 14226；联系人 Frederick Utech。
+- **Connecticut Aikikai**：115 Bushnell St., Hartford, Conn.；联系人 Ralph Chiaradia。
+- **Aikikai Deutschland**：Manfred Putzka, D53 Bonn, Nonschauer Strasse 7, Germany；老师 Katsuaki Asai。
+- **Haverhill Aikikai**：Heath Road, Merrimac, Mass.；联系人 Allan M. Chapman。
+- **Aikikai Italia**：Via Eleniana 2, Rome, Italia 00185。
+- **Long Island Aikikai**：303 Maple Street, Rockville Center, L.I., NY；电话 (516) 766-8466；老师 Eddie Hagihara。
+- **Los Angeles Aikikai**：8929 Ellis Ave., Los Angeles, Calif.；电话 (213) 838-7557；联系人 Rod Kobayashi。
+- **Montreal Aikikai**：4510 St. Denis, Montreal, Canada；电话 845-5971；联系人 Massimo Nicolaci di Villadorata。
+- **Milwaukee Aikikai**：915 West Wisconsin Ave., Milwaukee, Wis.；联系人 Brian Kagan。
+- **New York Aikikai**：142 West 18th St., New York, NY。
+- **Hawaii Aikikai**：3224 Waialae Ave., Honolulu, Hawaii；电话 777-133。
+- **Hilo Aikikai**：P.O. Box 552, Papaiko, Hawaii；老师 Takashi Nonaka。
+- **Illinois Aikido Club**：1103 W. Bryn Mawr, Chicago, Ill.；电话 784-5821。
+- **Wyckoff Aikikai**：315 Franklin Ave., Wyckoff, New Jersey；电话 TW 1-0903。
+- **New England Aikikai**：698 Massachusetts Ave., Cambridge, Mass.；老师 Mitsunari Kanai；电话 (617) 491-9582。
+- **San Francisco Aikikai**：701 Linden Ave., South San Francisco, Calif.；电话 (415) 588-4955；联系人 Robert Tann。
+- **Sydney Aikikai**：6/519 Church St., North Parramatta, N.S.W., Australia；老师 S. Sugano。
+
+马萨诸塞州 New Bedford 还有一家俱乐部，电话簿里可以查到。
+
+如果你翻黄页寻找合气道，要小心：像所有严肃武术一样，这门艺术也有许多粗糙、麻木的变种。还有大量骗子拿自卫当生意。
+
+我很难描述合气道。它是一门身体、心智和精神的修炼，首先让你做好面对任何身体威胁的准备。更重要的是，它赋予你应对能力。害怕身体暴力，是今天最常见的恐惧之一。合气道使你摆脱恐惧，不是因为它让你刀枪不入，而是因为它证明暴力毫无意义。合气道能做许多事；这是一趟很好的旅程。
+
+——Roger C. Letts，新泽西州 Montclair
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- None. All recoverable publication addresses/prices, rabbit production figures,
+  stove and recipe details, product/book comparisons, and every Aikido club address,
+  contact, teacher, and telephone number are retained.
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- The page contains dense interleaved columns and a long club directory. Reading
+  order, exact headings, and address spelling require scan verification.
+- `Nonschauer`, `Hillo`, `Nwe England`, `Kenechi`, and other names are conservatively
+  normalized only where the intended entry is clear; exact printed forms remain risky.
+- Snow-temperature units and the clipped wilderness-book price require visual review.
+- Any club logos, images, or labels absent from OCR remain unidentified.
 
 ## Self Critique
 
-- Pending translation.
+- Coverage is complete against official OCR: the full rabbit correction and all
+  resource records, T-shirt order, complete stove/recipe and Holubar/Angier letters,
+  and all nineteen Aikido directory entries plus concluding argument.
+- Numeric production claims, comparative prices, and directory fields remain intact;
+  no list is collapsed into a regional summary.
+- Proper-name spellings, dense layout, and non-OCR visual text prevent acceptance.

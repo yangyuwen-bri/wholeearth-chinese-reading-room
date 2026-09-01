@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 16
+- `source_ready`: 15
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 32
+- `needs_highres_scan`: 33
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n33`–`n47`: source packs are complete; full translations,
+- `n0`, `n34`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -63,6 +63,10 @@ This report is updated after each reviewed batch.
   prison acknowledgment/editor note, complete ceramics complaint, language note,
   loom comparison, and book criticism are translated and reviewed; two missing
   clauses, diagram text, headings, and columns await scan verification.
+- `n33`: the complete rabbit correction/resources, T-shirt order, stove/recipe and
+  Holubar/Angier letters, and all nineteen Aikido directory records plus concluding
+  argument are translated and reviewed; names, one clipped price, columns, and
+  visual text await scan verification.
 - `n2`: the complete Ken Kesey interview, song, three-swordsmen story, address,
   contents tokens, and copyright notice are translated and reviewed; the
   column-scrambled contents block still requires scan reconstruction.
