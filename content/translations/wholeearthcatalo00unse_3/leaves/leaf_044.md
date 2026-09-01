@@ -94,18 +94,146 @@ Title of book or name of item: >
 
 ## Glossary Updates
 
+- composer — 排字员／排字机
+- field operations — 现场作业
+- bookkeeping — 簿记
+- mail order — 邮购
+- photostat machine — 复印制版机
+- unit cost — 单册成本
+- research and development — 研究与开发
+- suggestion form — 建议表
 
 ## Final Translation
 
+## 1 月号《Catalog》制作人员
+
+### 沙漠制作组
+
+- Stewart Brand——编辑
+- ［一名人员姓名与职务字形不清］
+- Bud DeZonia——现场作业
+- Barbara DeZonia——排字
+- ［一名人员姓名与职务字形不清］
+- Fred Richardson——现场作业
+- Lois Brand——食物、勘误、簿记
+- ［一名人员］——排字［姓名字形不清］
+- Andy Shapiro——Ant Farm
+- Joe Hall——Ant Farm
+- Curtis Schreier——Ant Farm
+
+**图片说明：** Barbara 浑身还带着洗澡后的水，正在排字。
+
+### 1 月号《Catalog》制作成本（粗略估算）
+
+| 项目 | 金额 |
+| --- | ---: |
+| 印刷 | 3,600 美元 |
+| 工资（研究除外） | 3,650 美元 |
+| 旅行 | 300 美元 |
+| 材料用品 | 600 美元 |
+| ［项目名称字形不清］ | 750 美元 |
+| 邮寄与邮资 | 700 美元 |
+| 排字机 | 300 美元 |
+| 供暖 | 200 美元 |
+| **合计** | **10,100 美元** |
+
+1971 年 1 月印刷 45,000 本。单册成本约 22½ 美分。
+
+### Whole Earth Truck Store 团队
+
+- J. D. Smith——经理
+- Herald Hoyt——助理经理
+- Laura Besserman——研究
+- George de Alth——订阅
+- Francine Slate——簿记
+- ［姓名字形不清］——邮购
+- Jerry Fihn——订阅
+- ［姓名字形不清］——邮购
+- Diane Erickson——店面
+- Mary Jo Morra——订阅
+- Troll——订阅
+- Pam Smith——研究
+- ［一项人员记录字形不清］
+- Bernie Sproch——归档
+
+### 你的一美元去了哪里
+
+- 40 美分给书店
+- 16 美分给经销商（Book People）
+- 8 美分给印刷商
+- 8 美分用于制作人员工资
+- 6½ 美分用于其他制作成本
+- 4 美分给 Portola Institute
+- 17½ 美分用于研究与开发
+
+### 出售
+
+Stat King 全套复印制版机。使用两年，状态极佳。将于 1971 年 6 月出售。现在即可出价。
+
+### Whole Earth Truck Store
+
+营业时间：星期一至星期六，上午 9 时至下午 6 时。
+
+558 Santa Cruz Avenue<br>
+Menlo Park, CA 94025<br>
+电话：(415) 323-0313
+
+Menlo Park 的 Whole Earth Truck Store 是我们的主要研究来源之一；店里备有《CATALOG》中的大多数物品。我们能看到谁在买什么，能听到投诉和建议，也会试用可能收入下一期《CATALOG》的物品。我们还有一个地方，让朋友们过来看看正在发生什么。
+
+［孤立文字：Stanford University。］
+
+## 现在就提出建议
+
+1971 年 3 月之后收到的任何材料，几乎都没有机会进入《LAST CATALOG》。
+
+### 给《WHOLE EARTH CATALOG》的建议
+
+一件物品若被列入《CATALOG》，是因为它被认为：
+
+1. 作为工具很有用；
+2. 与自主教育有关；
+3. 质量高或价格低；
+4. 容易通过邮购获得。
+
+请尽可能填写更多信息；这会有很大帮助。
+
+如果建议的物品是要取代《CATALOG》中已有的物品，请注明要替换哪一项：________
+
+- [ ] 我愿意写一篇评论。
+- [ ] 随信附上对这件物品的评论。
+- [ ] 我推荐以下人员评论这件物品（姓名、地址、电话）：________
+
+截止日期栏：［日期字形不清］
+
+- 我的姓名：________
+- 地址：________
+- 邮政编码：________
+- 电话：________
+
+**我建议：**
+
+- 书名或物品名称：________
+- 补充资料／评论：________
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- None intentionally omitted. All recoverable credits, roles, costs, print run,
+  dollar allocation, sale/store fields, deadline warning, selection criteria,
+  checkboxes, and suggestion-form labels are represented.
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- Credits, cost table, dollar chart, sale ad, photograph, and form are heavily
+  interleaved. XML positions recover sections but not all names/roles.
+- Several staff names, two roles, the $750 cost label, unit-cost fraction, and form
+  deadline are unreadable; calculated consistency supports but does not prove 22½¢.
+- Exact form geometry, checkbox alignment, photograph captions, logos, and fine print
+  require visual transcription.
 
 ## Self Critique
 
-- Pending translation.
+- Coverage is complete against recoverable official OCR: all visible personnel,
+  complete cost and dollar-allocation tables, print run, store record/description,
+  equipment sale, four selection criteria, and every form field/checkbox.
+- Illegible names and labels remain explicit rather than being invented or omitted.
+- This credits/form page materially requires high-resolution visual review before acceptance.
