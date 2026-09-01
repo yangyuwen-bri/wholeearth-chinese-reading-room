@@ -314,18 +314,184 @@ Murray, Kentucky
 
 ## Glossary Updates
 
+- assisted passage：补贴船费移民计划
+- dulcimer：阿巴拉契亚扬琴
+- clavichord：击弦古钢琴
+- harpsichord：拨弦古钢琴
+- virginal：维吉纳琴
+- hurdy-gurdy：手摇风琴
 
 ## Final Translation
 
+## Alaska 的成本
+
+Wes Plouf 给我们寄来一本 Alaska 土地小册子，并附上这些警告：
+
+> “远离城镇和公路的土地价格低，但生活成本是全国最高的，Anchorage 以外的失业率也高。这里空间很多，你会受到欢迎；但是 Alaska 仍会杀死粗心的人和不会规划的人。”
+
+### Fairbanks, Alaska
+
+公寓租金（不含水电等费用）：
+
+- 一卧室，无家具：每月 175–196 美元
+- 两卧室，无家具：每月 227–269 美元
+
+汽车汽油：
+
+- 普通汽油：每加仑 0.55–0.57 美元
+- Ethel：每加仑 0.59–0.61 美元
+
+拖车营地租金：每月约 45–55 美元，包括供水、下水道和垃圾处理；电力、燃油和丙烷另计。
+
+美国劳工部目前数字显示，以 Seattle 的生活成本为 100%，Fairbanks 为 132%。
+
+把 Alaska 一片未开发土地建设成投产的农场或牧场，需要多年艰苦劳动；按类型不同，投资为 30,000 至 150,000 美元。开发一座有二十至二十五英亩投产面积的蔬菜农场，每英亩需要 1,200 至 1,500 美元。一座两百至二百二十五英亩、饲养一百至二百头奶牛的奶场，每头需投资 600 至 800 美元，总投资估计为 75,000 至 150,000 美元。预期年收入为 5,000 至 10,000 美元。
+
+### Anchorage 与 Portland 物价比较
+
+| 商品 | Anchorage | Portland |
+|---|---:|---:|
+| 5 磅袋装土豆 | 0.98 | 0.49 |
+| 大盒 Kellogg’s Corn Flakes | 字形不清 | 0.28 |
+| 半加仑强化牛奶 | 0.93 | 0.49 |
+| 三包盒装薯片 | 2.19 | 0.69 |
+| 3 磅汉堡肉 | 2.07 | 1.77 |
+| 一夸脱 Best Foods 蛋黄酱 | 0.89 | 0.69 |
+| 一打 Campbell’s 罐装汤 | 3.12 | 2.06 |
+| 一条 balloon bread | 0.53 | 0.41 |
+| 六罐 Rainier Beer | 1.59 | 1.08 |
+| 3 磅圆牛排 | 5.07 | 3.84 |
+| 1 磅 Armour “Mira Cure” 培根 | 1.19 | 0.98 |
+| 一打母鸡蛋 | 0.61 | 字形不清 |
+| 一条 Marlboro 香烟 | 3.39 | 2.69 |
+| 四卷装卫生纸 | 0.49 | 字形不清 |
+| 3 磅罐装 Crisco | 0.93 | 字形不清 |
+| 合计 | 23.13 | 17.36 |
+
+## 第一批参加船费补贴计划的美国人抵达 New Zealand
+
+*The New York Times* 特稿
+
+Auckland, New Zealand，12 月 12 日——来自 United States 的移民已经开始通过船费补贴安排抵达 New Zealand。
+
+不久以前，只有 British 人，以及少数特殊情况下的 European大陆居民，才有资格获得援助。9 月，常规补贴船费计划扩大，纳入 United States 和若干 Western European 国家的人。获计划接纳的移民，单身者船费只付 25 美元，已婚者付 46 美元。
+
+此后，New Zealand 驻 United States 政府办公室持续收到申请。申请者包括技工、化学工程师、电气和电子工程师、教师，以及一对都持有博士学位的夫妇。
+
+有些人已经到达；一旦找到愿意雇用申请人的公司，预计人数还会增加。
+
+New Zealand 许多职业的工资不到 United States 同类工作的一半，但生活成本也较低。人们愿意接受大幅减薪，主要原因看来是 United States 生活的压力与紧张，以及就业困难。
+
+每年有许多美国人自费抵达并定居。截至 3 月 31 日的一年中，人数为 1,716，比前一年增加 400。迹象显示，今年包括补贴移民在内的总数会高得多。
+
+*The New York Times*<br>
+1970 年 12 月 13 日
+
+Roger Knights 寄来
+
+## 音乐、音乐
+
+### 致乐器制作者及其朋友
+
+我们正在整理一份名单，准备在 WEC 刊登，列出 United States 和 Canada 定期制作任何种类乐器的个人制作者。我希望知道制作者姓名／地址，并从认识他们的人或制作者本人取得以下资料：
+
+- 尽可能提供照片；
+- 价格；
+- 对阿巴拉契亚扬琴、罕见乐器或个人发明等尺寸常有差异的物品，提供总长／宽／厚；
+- 是否邮购；
+- 一般描述／资料，例如有多少根弦；是否同时制作古典吉他和钢弦吉他；有人询问时是否提供调音说明，等等。
+
+John Dubroff，代表 WHOLE EARTH CATALOG
+
+## 阿巴拉契亚扬琴续篇
+
+我希望这封信及时到达，让你们考虑收入新《目录》。过去几期已有不同的人写信谈山地扬琴，我想为这个话题再贡献价值两美分的意见。
+
+首先列出我弹过而且非常喜欢的扬琴：
+
+- Frank Proffitt, Jr., Vilas, N.C. 28642——制作方式与 Frank Sr. 过去一样。可选数种木材，全部工艺精细、音准正确，必须单独订购。我现在有一把，绝不会舍弃。
+- Jean Ritchie, 7A Locust Ave., Port Washington, N.Y.——制作方式与 Jean 自己的扬琴相同，也有多种木材，工艺精细、音准正确。
+- Joseph E. Smith, Musical Instruments, P.O. 791, Marshall, Ca.——1968 年在 Renaissance Fair 见过，同样制作漂亮，声音洪亮。
+- 来自东部的一把，可能由 Hindman, Ky. 的 Jethro Amburgey 或 125 Sunset Blvd., Winchester, Ky. 的 Homer Ledford 制作。工艺不如上述精细，却结实、音准正确、声音洪亮，而且价格较低。关于这两位制作者我都听过好话，至少他们过去的作品如此。
+
+我见过或弹过、但不喜欢的扬琴：
+
+- Jeffrey’s 或 Appalachian Dulcimer Corp., 232 W. Frederick St., Staunton, Va. 24401——我有过一把，好几年后很高兴转给一个刚入门的朋友。这些琴制作良好，却很重，高八度音似乎不准，也不像前述琴那样共鸣。价格约 100 美元，太贵！！
+- Hughes Co. 套件，19.95 美元——在 Truck Store 见过。这是一堆胶合板；花时间和力气拼装，还不如直接买好木材。我不知道声音怎样，也不愿想象。
+
+其他来源：过去几期《目录》列过若干家。现期 *Sing Out!*（559 Broadway, N.Y., N.Y. 10012）列有六家，包括上述部分制作者，以及 “The Dulcimer Works, 1402 Olympic Blvd., Santa Monica, Ca. 90404”。最后一家看来像旧 McCabe’s Topanga Canyon Dulcimer，非常漂亮，是我弹过最甜美的琴之一。
+
+我见过、弹过不同的人为自己制作的琴；有些很好，有些相当滑稽。想自己做，过去《目录》和 *Sing Out!* 列有各种套件和书。Howie Mitchell 的 Folk-Legacy 唱片与书据说很好（FSL-29，唱片 6.95 美元，书 2.95 美元；Sharon, Conn. 06069）。
+
+我所知道最好的制作指南，是 Charles Seeger 刊于 *Journal of American Folklore* 1958 年 1–3 月号的一篇文章；它说明具体尺寸和制作方法，展示多种乐器形状与样式，也介绍一点历史。
+
+演奏教材与唱片方面，Howie Mitchell（Folk-Legacy）、Jean Ritchie（Oak Publications 与 Folkways Records）、John Putnam（*The Plucked Dulcimer and How to Play It*，Council of the Southern Mountains, Berea, Ky.），以及 A. W. Jeffreys 的书（*Tuning and Playing the Appalachian Dulcimer*, 416 Parkwood Lane, Staunton, Va.）都很好。但最好是听别人演奏，再自己动手。
+
+Jean Ritchie 说，她曾请父亲教她弹琴；父亲回答：“琴就在墙上。把它取下来；你会弹，就会弹；不会，就不会。”
+
+希望其中一些对你们有用。
+
+和平，
+
+Peg Benepe<br>
+Palo Alto, California
+
+## 对奇异乐器的需求正在增长
+
+有两类东西我想看到被列出，却不知道供应商。一类是相当奇异的乐器，例如 ondes Martenot、theremin、ondioline、Mellotron 等等。谁出售？另一类是一本优秀、入门级的 sitar 演奏书。
+
+Bob Shell<br>
+Roanoke, Virginia
+
+## 奇异而精致的乐器，尤其是拨弦古钢琴
+
+其实我是雕塑家，但最近开始参与拨弦古钢琴和击弦古钢琴。我阅读相关资料，随后开始制作击弦古钢琴，并把注意力集中在它们上面。可以简短说说吸引我的特质。
+
+你大概知道，它们是早期键盘乐器，原理非常简单。演奏时声音安静到会被两个人谈话淹没。不能与另一件乐器合奏，因为太安静；我甚至严重怀疑，在城市交通噪声中能否令人满意地演奏。
+
+但是——这个“但是”很美味——它们是所有键盘乐器中最敏感的。音量可以一直弹到接近无声；手指在琴键上轻轻上下加压，就能给音符添加颤音。按住琴键时，如果你够敏感，可以在手指里感觉琴弦振动。
+
+关键在这里。电视上几乎所有东西，杂志、广告牌等处读到的几乎所有文字，都是为一个兴趣不大的人设计。广告必须抓住正要走进厨房的家伙，必须伸手揪住听者。击弦古钢琴令我兴奋的一大原因，是它根本不试图这样做。你必须走向它，必须接受它的条件，也就是绝对安静。
+
+演奏或聆听时，你的听觉敏锐度不断提高。开始听来微弱叮当的声音，会变成饱满、几乎响亮的音乐；这时若有人咳嗽，听起来就像炸药。我喜欢微小声音得到欣赏，喜欢一种必须主动寻找、不会强塞进喉咙的高度敏感。按照击弦古钢琴自己的条件接近它，它会给你极多。
+
+下面说一些对你们更实用的东西。在复兴古老乐器这整件事上，有许多资料来源。
+
+Frank Hubbard 的 *Three Centuries of Harpsichord Making*，Harvard University Press, 79 Garden Street, Cambridge 02138，12.95 美元，简直是本非凡的书。它描述制作拨弦古钢琴的技术过程（完全不谈击弦古钢琴），研究彻底得令人头晕。作者花很多篇幅谈 1500 至 1800 年的一般工艺，例如木料怎样锯切和出售、可以买到什么尺寸的木板、普通别针怎样制作（你绝不会相信！）、使用什么工具等等。
+
+另一部好书是 Wolfgang Zuckermann 的 *The Modern Harpsichord*，October House, 55 W. 13th St., N.Y. 10011，15.00 美元，讨论今天制造的乐器。它有很好的古乐器和旧工艺章节；主体列出现代制作者，附地址、照片、古怪意见、非常好的意见、幽默轶事等等。
+
+书中列有所有现代制作者；你们也许对其中较有意思、主要制作套件的这些人感兴趣：
+
+- J. Witcher, Ancient Instruments, 17715 La Rosa Lane, Fountain Valley, California 92708。这家公司棒极了（由两名前水下工程师经营），制作拨弦古钢琴、维吉纳琴、击弦古钢琴、Gigues、Liri da Braccio、Citterns、Hurdy Gurdies、Epinettes des Vosges、巴洛克长笛、巴洛克双簧管、柔音双簧管、Cornetti、弱音 Cornetti、Rackets、Curtals，以及著名的巴洛克巴松。真的。他们的扬琴约 30 和 45 美元；还制作 75 美元的手摇风琴套件和桌上型击弦古钢琴套件（95 或 125 美元）。好家伙。
+- E. O. Witt, Route 3, Three Rivers, Michigan 49093。制作非常严肃的拨弦和击弦古钢琴系列，包括有品击弦古钢琴——我听说唯一做这种琴的人；在这个拥挤世界里，如果你是唯一做某件事的人，那就算一回事。他的击弦古钢琴从 505 到 1,025 美元；他说可以提供部分完成品（所有棘手部件已经做好），价格约为成品三分之二。拨弦古钢琴也一样，约半价。看起来很好。
+- Herbert Burton, 917 O Street, P.O. Box 222, Lincoln, Neb. 68508。制作一套外观很棒的拨弦古钢琴套件，590 美元，除了液体表面处理材料以外全部包括。他说无需专用工具和夹具，六十至八十小时即可制成（不含表面处理）。这是一件大型、多用途、设计良好的乐器。他还说收到订单当天就发货。
+- Zuckermann Harpsichords, 115 Christopher St., N.Y. 10014，这个地址你们肯定知道。他的拨弦古钢琴套件 150 美元，做出一件相当难看、矮胖、不够灵活却声音惊人响亮的乐器。他还制作 100 美元击弦古钢琴套件，但得到的只是键盘、一块作音板的胶合板、一些金属丝和其他零碎部件。
+- Frank Hubbard, 185A Wyman St., Waltham, Mass. 02154。非凡的乐器制作者，全部是拨弦古钢琴。他制作一种套件，单键盘 700 美元、双键盘 900 美元；施工困难、要求精确，只适合有经验的木工，但完成后的乐器几乎不输可以买到的任何琴，包括 4,000 美元的琴！顶级货，只供认真人士。
+- William Post Ross, 791 Tremont St., Room 515, Boston 02118。主要认真制作精良拨弦古钢琴，但也有约 560 美元的维吉纳琴套件。维吉纳琴是长方形拨弦古钢琴，音色更圆润、更“桶状”，有时也更响；在房屋里不占多少空间。他的套件做出一件历史准确的十八世纪 Italy 乐器。
+- S. R. Williams, 1229 Olancha Dr., Los Angeles 90065。为小型拨弦古钢琴、三角形 spinet 和另外一两种东西制作套件，但我把小册子弄丢了。看起来不错，也不太贵。
+
+更多东西。H. L. Wild, 510 East 11 St., N.Y. 10009，是吉他用品的非凡来源。他有全部木料（高级 Germany 银杉等等）、琴颈、饰环、品丝、工具、书籍，一切都有。真正很棒。也有班卓琴零件！
+
+我不知道你们是否想要所有这些杂七杂八，但我怀疑，那些想停止杀戮、停止吃塑料食物、停止建立塑料关系、离开成功阶梯、想闻见树木并听见世界中微小声音的人，也会想聆听和制作音乐，亲手制作乐器。
+
+即使别的都不算，Kentucky 偏远乡间也有一个击弦古钢琴狂热者（谁想得到……）。
+
+Harold R. Lungland<br>
+Murray, Kentucky
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。Alaska 全部成本和物价行、New Zealand 人数与船费、扬琴制作者和教材，以及古键盘乐器的所有书目、厂商、型号、价格和地址均已保留。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 将成本表、报纸报道和多个乐器栏目交错输出；译文依标题重建，仍须扫描确认栏序。
+- Anchorage/Portland 表中四个 Portland 或 Anchorage 价格字形损坏；译文明确标为不清，没有猜数，但保留原表合计。
+- `Ethel` 汽油名称、扬琴地址、Ancient Instruments 击弦古钢琴套件首价以及若干乐器名可能有 OCR 误识，须逐项对照页面。
+- 本页所有价格、移民安排和产品评价均为 1970 年资料，不代表当前状态。
 
 ## Self Critique
 
-- Pending translation.
+- 已完整翻译 Alaska 成本与十五项表格、New Zealand 报道、乐器资料征集、扬琴正反评价与全部教材，以及击弦古钢琴长信和七家厂商，没有压缩成乐器推荐摘要。
+- 四个表格值、专名拼写和多栏关系仍待高分辨率复核，本页暂为 `needs_highres_scan`。
