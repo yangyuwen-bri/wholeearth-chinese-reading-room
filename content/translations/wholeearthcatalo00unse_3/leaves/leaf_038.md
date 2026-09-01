@@ -253,6 +253,8 @@ B23 South Amboy, NJ
 
 ### Arcosanti 工作坊
 
+图示标签：Astermo。
+
 Paolo Soleri<br>
 Cosanti Foundation<br>
 6433 Doubletree Road<br>
@@ -306,7 +308,7 @@ U.S.P.S. 把一门出色的航行定位课程改得更好——免费提供。�
 会员可以修读船艺、高级定位、导航、天气、船用电子设备、帆船和发动机维护等高级课程。这些课程通常约 15 美元，但不含绘图仪器；如果你打算真正使用所学内容，反正也需要这些仪器。
 
 ——Robert Point<br>
-［地址首部字形不清］ South Amboy, NJ
+South Amboy, NJ
 
 ### UC Santa Cruz 的法式密植园艺
 
@@ -365,18 +367,17 @@ New York, New York 10017
 
 ## OCR / Uncertainty Notes
 
-- Arcosanti, piloting-course, garden, legal, and Tele Session columns are interleaved.
-  Reading order was reconstructed and requires scan verification.
-- The one-workshop row appears as `Barkshop`; the course-letter signature/address,
-  `Monadnock`, and several proper names are damaged.
-- Exact table typography, photos/diagrams, article continuation marks, and any
-  non-OCR visual text require high-resolution transcription.
+- The high-resolution scan confirms every column, the five-row Arcosanti table,
+  course fields, legal quotation, garden article, Tele Sessions record, and names.
+- It confirms Robert Point's printed address as only `South Amboy, NJ` and restores
+  the `Astermo` diagram label.
+- The garden photograph, caption, source, and article continuation are verified.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: both Arcosanti entries and full price
+- Coverage is complete against the scan: both Arcosanti entries and full price
   table, complete piloting course record/letter, entire garden excerpt and both
   quotations, source/order details, photo caption, land-law note, and Tele Sessions.
 - Tables, course fields, garden practices, and legal language remain explicit rather
   than being collapsed into descriptions.
-- Proper names, physical column order, and visual associations prevent acceptance.
+- All legible prose, tables, labels, captions, addresses, and visual text are represented.

@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,8 @@ needs_highres_scan
 - Translation coverage: every recoverable amount, address, phone, population/country
   count, numbered principle, language, form field, signature instruction, course fee,
   duration, benefit, teacher, quotation, and signature is represented.
-- Permitted omissions: none asserted. Physical form geometry and possible fine print
-  remain scan-verification tasks.
+- Permitted omissions: none. Physical form geometry, symbols, and fine print were
+  checked against the high-resolution scan.
 
 ## Reasons
 
@@ -22,13 +22,13 @@ needs_highres_scan
 - All declarations and rights remain numbered and individually traceable.
 - The CIDOC review retains every caveat, cost, location, and catalog quotation.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n37_w2000.jpg` to verify column order, form front/back geometry, ballot
-  labels, underscores, capitalization, proper names, logos, and all fine print.
-- Confirm the Gandhi attribution and exact CIDOC catalog typography.
+- Checked the approximately 3500 × 4700 pixel scan for columns, front/back form
+  geometry, ballot labels, capitalization, symbol, and every fine-print instruction.
+- Confirmed the source's `Mat Ghandi` spelling and restored Edgar Friedenberg and
+  the other CIDOC names.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Form layout, several damaged names,
-  and possible visual-only rules or labels prevent acceptance.
+- None. All legible prose, form fields, fine print, symbols, and visual text are represented.

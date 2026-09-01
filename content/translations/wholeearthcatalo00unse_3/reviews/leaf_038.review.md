@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,8 @@ needs_highres_scan
 - Translation coverage: every recoverable amount, duration, area, rate, address,
   phone, class/benefit, crop/input/practice, dictionary distinction, quotation,
   publication field, caption, legal phrase, and signature is represented.
-- Permitted omissions: none asserted. One course address and possible visual labels
-  remain scan-verification tasks.
+- Permitted omissions: none. The printed course address and all visual labels were
+  checked against the high-resolution scan.
 
 ## Reasons
 
@@ -22,13 +22,13 @@ needs_highres_scan
 - The garden article and two long quotations are translated without condensation.
 - Piloting and Tele Session contact/order fields are preserved within reading text.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n38_w2000.jpg` to verify columns, Arcosanti table, course signature/address,
-  proper names, article continuation, photo relation, legal quotation, and fine print.
-- Transcribe all diagrams, logos, or labels absent from OCR.
+- Checked the approximately 3500 × 4700 pixel scan for columns, table, signature,
+  names, legal quotation, garden continuation, source, photograph, and fine print.
+- Restored the `Astermo` label and confirmed that Robert Point's address is printed
+  only as `South Amboy, NJ`.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Dense interleaving, one damaged address,
-  names, tables, and possible visual-only information prevent acceptance.
+- None. All legible prose, tables, labels, captions, addresses, and visual text are represented.

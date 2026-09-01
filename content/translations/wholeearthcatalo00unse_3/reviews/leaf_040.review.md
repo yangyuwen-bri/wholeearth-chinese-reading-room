@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -12,8 +12,8 @@ needs_highres_scan
 - Translation coverage: every recoverable distance, temperature, amount, percentage,
   wire size, equipment/model, capacity, fuel quantity, name, quotation, and caption
   is represented.
-- Permitted omissions: none asserted. One clipped phrase and image associations
-  remain scan-verification tasks.
+- Permitted omissions: none. The clipped OCR phrase and all image associations were
+  recovered from the high-resolution scan.
 
 ## Reasons
 
@@ -21,12 +21,13 @@ needs_highres_scan
 - Cost and energy accounting remains complete and numerically explicit.
 - Every OCR-visible caption/name is retained rather than omitted as marginal text.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n40_w2000.jpg` to verify paragraph order, clipped pass/generator phrases,
-  all photograph-to-caption associations, names, and visual-only text.
+- Checked the approximately 3500 × 4700 pixel scan for title, paragraph order,
+  pass/generator wording, all four photographs, captions, credits, and names.
+- Restored the full generator caption, Fred Richardson attribution, and Bud DeZonia
+  photo credit.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Photo layout, one clipped technical
-  phrase, decorative marks, and possible non-OCR captions prevent acceptance.
+- None. All legible prose, captions, credits, decorative text, and visual labels are represented.

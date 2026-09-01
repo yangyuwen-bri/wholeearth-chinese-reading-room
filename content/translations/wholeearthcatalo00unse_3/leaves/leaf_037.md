@@ -274,7 +274,7 @@ San Francisco, California 94127
 
 虽然你们宣称的宗旨更倾向自主学习而非正规学校，我仍想向你们推荐 Mexico 的 Cuernavaca 所在的 **CENTRO INTERCULTURAL DE DOCUMENTACION（CIDOC）**。我认为，对于希望理解 Latin America 在第三世界中所扮演角色的人，这所学校会提供一个极好的基地。
 
-CIDOC 实际分为两部分：一所强化西班牙语培训学校，以及一所自由形式的“当代拉丁美洲研究所”；后者涵盖从土地改革到古巴青年等许多领域。课程大多用英语授课，教师包括 Ivan Illich（协助创办 CIDOC）、Paul Goodman、John Holt、Herbert Kohl 和 Edgar Friendenberg。引用目录原文：
+CIDOC 实际分为两部分：一所强化西班牙语培训学校，以及一所自由形式的“当代拉丁美洲研究所”；后者涵盖从土地改革到古巴青年等许多领域。课程大多用英语授课，教师包括 Ivan Illich（协助创办 CIDOC）、Paul Goodman、John Holt、Herbert Kohl 和 Edgar Friedenberg。引用目录原文：
 
 > CIDOC 不是一所大学，而是人文学者的聚会场所；他们共同关心的是，社会与意识形态变化会怎样影响人的头脑与心灵。这里是理解社会革命含义的环境，而不是推广特定社会行动理论的工具。这里是学习的环境，而不是行动主义规划的总部。CIDOC 的主要语境是当代拉丁美洲。
 
@@ -302,19 +302,17 @@ Greensboro, NC
 
 ## OCR / Uncertainty Notes
 
-- The World Citizen declaration and two-part form are interleaved with CIDOC copy.
-  Their logical order was reconstructed and requires scan verification.
-- Exact form boxes, underscores, ballot layout, capitalization, and the relationship
-  between front/reverse fields cannot be proven from OCR alone.
-- `INFERNATIONAL`, `Cernavaca`, `Ivan lich`, and several names are OCR-damaged;
-  intended proper forms are used conservatively.
-- Any logos, rules, or fine print absent from OCR require visual transcription.
+- The high-resolution scan confirms the complete Hog Farm appeal, form/declaration
+  order, all boxes, ballot reminder, capitalization, languages, and reverse-side note.
+- It confirms the source's `Mat Ghandi` attribution and restores Cuernavaca, Ivan
+  Illich, Edgar Friedenberg, and all other names.
+- The World Citizen symbol contains no omitted verbal text.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: the full Hog Farm appeal, all World
+- Coverage is complete against the scan: the full Hog Farm appeal, all World
   Citizen principles and form fields, the complete CIDOC review/quotation, every
   fee, benefit, location detail, address, and signature.
 - Forms are rendered as forms rather than summarized descriptions; all numbered
   declarations remain individually traceable.
-- Physical form layout, visual marks, and proper-name spellings prevent acceptance.
+- All legible prose, form labels, fine print, symbols, and visual text are represented.

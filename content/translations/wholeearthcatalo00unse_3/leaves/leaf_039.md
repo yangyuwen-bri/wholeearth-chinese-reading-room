@@ -427,19 +427,18 @@ Paradise, California 95969
 
 ## OCR / Uncertainty Notes
 
-- Correction lists, correspondence, and the Pacific Domes column are interleaved.
-  Reading order and exact page associations require scan verification.
+- The high-resolution scan confirms all correction columns, page associations,
+  letters, media records, prices, addresses, and the complete boxed advertisement.
 - Behrend's `fourteen thousand` versus two lots of 7,500 is internally inconsistent
   in the source and is translated without silent arithmetic repair.
-- Several names/addresses (`Marykae Josh`, `Syniducate`, DUSTbooks typography) are
-  OCR-risky and require visual confirmation.
-- Logos, ad borders, and any fine print absent from OCR remain to be transcribed.
+- It confirms Marykae Josh, Underground Press Syndicate, DUSTbooks, both four-year
+  subscription offers, and every line of the package deal.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: all Fall and previous-catalog corrections,
+- Coverage is complete against the scan: all Fall and previous-catalog corrections,
   the full Behrend and Peacemaker letters, nine Truck Store books, every Pacific
   Domes source/update paragraph, and the complete small-press offer.
 - Each correction remains page-, title-, price-, and source-specific; no lists are
   reduced to generic availability summaries.
-- Dense layout, source arithmetic, proper names, and visual fine print prevent acceptance.
+- All legible prose, prices, fine print, ad text, and visual labels are represented.

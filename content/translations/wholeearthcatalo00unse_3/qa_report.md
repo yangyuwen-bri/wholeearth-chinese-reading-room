@@ -9,10 +9,10 @@ This report is updated after each reviewed batch.
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 11
+- `needs_highres_scan`: 7
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 37
+- `accepted`: 41
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -20,22 +20,6 @@ This report is updated after each reviewed batch.
 - `n0`: accepted after 1761 × 2353 scan review; all 37 quotations, attributions,
   dates, response boxes, title, date, and price are represented. The source itself
   prints Buckminster Fuller's year as `197?`, which remains explicit.
-- `n37`: the complete Hog Farm appeal, all World Citizen declarations and two-part
-  registration form, and full CIDOC review/catalog quotation are translated and
-  reviewed; form geometry, ballot labels, names, columns, and possible fine print
-  await scan verification.
-- `n38`: both Arcosanti entries/rate table, full piloting course record/review,
-  complete French Intensive garden excerpt/quotations/source/caption, land-law note,
-  and Tele Sessions record are translated and reviewed; table and column layout,
-  one address, names, and visual text await scan verification.
-- `n39`: all Fall/previous-catalog corrections, complete Behrend and Peacemaker
-  letters, Truck Store list, Pacific Domes media records/update, and full small-press
-  offer are translated and reviewed; page/price alignment, source arithmetic,
-  names, columns, and ad fine print await scan verification.
-- `n40`: the complete valley/spring/cleanup/production report, generator setup,
-  cost/equipment/energy accounting, closing lines, and all five OCR-visible captions
-  are translated and reviewed; one clipped phrase, photo associations, and visual
-  text await scan verification.
 - `n41`: all come-along, PVC dome, desert anchoring, full Shapiro technical note,
   dinner event, work-environment critique, portable table, and recreational passages
   are translated and reviewed; diagram words, technical fractions, captions, and

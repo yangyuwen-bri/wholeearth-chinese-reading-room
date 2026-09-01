@@ -110,7 +110,7 @@ We are not sensually deprived.
 
 ## Final Translation
 
-### 在温泉边制作增刊
+### 沙漠中的制作
 
 对面群山拔地而起，高出谷底 10,000 英尺。从这里到电话所在处要两小时，路程 70 英里。进入山谷的唯一山口有雪、冰和泥，气候同这里截然不同；不过到目前为止，道路仍然可以通行，让 Bud 偶尔进文明世界办事。
 
@@ -130,12 +130,13 @@ We are not sensually deprived.
 
 “全世界的工人，散开吧。”
 
-**图片说明：**
+——Fred Richardson
 
-- Fred Richardson。
-- 狂风中的 Hal，站在充气软体建筑上。
+**图片说明与照片文字：**
+
+- 大型发电机租用三周花了 315 美元。为了降低噪声，我们把它放在离营地 250 英尺的一条冲沟里（需要 3/8 英寸电线），用沙袋筑起屏障，并把排气管埋进一堆石头。Bud 正在换机油；Fred 正在埋接地线；我正在拍照。
+- 狂风中的 Hal，站在充气软体建筑上。照片：Bud DeZonia。
 - 深夜泡在池里的 Lois。
-- Bud DeZonia。
 - 我们的感官并不匮乏。
 
 ## Omitted Bibliographic/Order Info
@@ -145,16 +146,15 @@ We are not sensually deprived.
 
 ## OCR / Uncertainty Notes
 
-- Prose paragraphs and photograph captions are interleaved. Reading order was
-  reconstructed but exact image-to-caption associations require scan verification.
-- A phrase before `(required 3/8 wire)` and some pass/weather words are clipped.
-- Exact photograph count, names, decorative marks, and non-OCR captions require
-  visual transcription.
+- The high-resolution scan confirms paragraph order, the exact page title, all four
+  photographs, caption associations, names, equipment, fuel figures, and wire size.
+- It restores the full generator caption, Fred Richardson attribution, and Bud
+  DeZonia photo credit.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: location/access, spring governance,
+- Coverage is complete against the scan: location/access, spring governance,
   cleanup, production motive, generator/noise setup, equipment/cost/energy report,
   star/worker lines, all named captions, and final sensory statement.
 - The page remains an experiential production report, not a condensed travel summary.
-- Caption placement, one clipped technical phrase, and visual-only text prevent acceptance.
+- All legible prose, captions, credits, decorative text, and visual labels are represented.

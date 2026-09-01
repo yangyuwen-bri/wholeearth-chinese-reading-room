@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,7 +13,8 @@ needs_highres_scan
 - Translation coverage: every recoverable page, price, stock/reprint status, title,
   edition, address, quantity, volume/subscription term, offer, quotation, signature,
   and editor/source attribution is represented.
-- Permitted omissions: none asserted. Ad fine print and visual styling remain scan tasks.
+- Permitted omissions: none. Ad fine print and all visual styling were checked
+  against the high-resolution scan.
 
 ## Reasons
 
@@ -21,13 +22,13 @@ needs_highres_scan
 - Both full letters and the Pacific Domes future plan are translated without summary.
 - The small-press package retains all products and individual/combined prices.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n39_w2000.jpg` to verify column order, every page association, names,
-  addresses, display/ad typography, Behrend figures, and fine print.
-- Confirm the exact boundaries between Shambala, previous-catalog, and Pacific Domes lists.
+- Checked the approximately 3500 × 4700 pixel scan for every correction, page,
+  price, title, name, address, list boundary, letter, ad line, and package term.
+- Confirmed that the Behrend quantities are internally inconsistent in the source;
+  they remain unrepaired, as required for fidelity.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Dense correction layout, inconsistent
-  source arithmetic, several names, and possible ad fine print prevent acceptance.
+- None. All legible prose, source arithmetic, fine print, and visual text are represented.
