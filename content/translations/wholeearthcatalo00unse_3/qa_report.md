@@ -9,10 +9,10 @@ This report is updated after each reviewed batch.
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 7
+- `needs_highres_scan`: 3
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 41
+- `accepted`: 45
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -20,22 +20,6 @@ This report is updated after each reviewed batch.
 - `n0`: accepted after 1761 × 2353 scan review; all 37 quotations, attributions,
   dates, response boxes, title, date, and price are represented. The source itself
   prints Buckminster Fuller's year as `197?`, which remains explicit.
-- `n41`: all come-along, PVC dome, desert anchoring, full Shapiro technical note,
-  dinner event, work-environment critique, portable table, and recreational passages
-  are translated and reviewed; diagram words, technical fractions, captions, and
-  visual labels await scan verification.
-- `n42`: the full wind/anchor incident, dome specs, pressure data, complete
-  Inflatocookbook review/critique/order record, dorm/fire/joint text, and 40-foot
-  product ad are translated and reviewed; diagram words, one damaged sentence,
-  fractions, columns, and photo associations await scan verification.
-- `n43`: the complete production-relocation, camera/exposure, pressure-switch,
-  anchoring, heating/cooling, participant, and site-closing material is translated
-  and reviewed; conflicting depths, final caption relation, photo placement, and
-  visual text await scan verification.
-- `n44`: all recoverable credits, complete cost/dollar-allocation tables, sale/store
-  details, selection criteria, checkboxes, and suggestion-form fields are translated
-  and reviewed; several names/roles, one cost label, unit-cost fraction, deadline,
-  form layout, and fine print require high-resolution transcription.
 - `n45`: the entire chronological distribution-agent report, Random House/Dutton
   decision, complete subscription/single/multiple form, and sixteen-entry editor
   roster are translated and reviewed; subscription alignment, stray fragments,

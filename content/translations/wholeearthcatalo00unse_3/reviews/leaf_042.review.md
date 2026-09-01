@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,7 @@ needs_highres_scan
 - Translation coverage: every recoverable wind speed, movement, material/dimension,
   pressure, meter range/price, construction feature, person, quotation/metaphor,
   address, product inclusion, sale and rental price is represented.
-- Permitted omissions: none asserted. Damaged diagram text and one prose fragment
-  remain scan-recovery tasks.
+- Permitted omissions: none.
 
 ## Reasons
 
@@ -22,12 +21,12 @@ needs_highres_scan
 - Technical pressure and product data are preserved field-by-field.
 - Readable dorm/joint diagram fragments are retained rather than omitted.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n42_w2000.jpg` to verify column order, conduit fraction, diagram labels,
-  review gap, all photo associations, joint detail, `pentapus`, and fine print.
+- Checked the original high-resolution scan. The completed translation now preserves
+  the ½-inch conduit specification, the previously damaged review sentence, 3-inch
+  node disks, complete joint/edge labels, column order, photo associations, and fine print.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Diagram-led construction data, one
-  damaged sentence, fractions, and visual associations prevent acceptance.
+- None identified after scan verification.

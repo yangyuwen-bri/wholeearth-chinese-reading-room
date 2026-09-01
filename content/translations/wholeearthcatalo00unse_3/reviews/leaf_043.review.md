@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -12,8 +12,7 @@ needs_highres_scan
 - Translation coverage: every recoverable model, exposure, depth, pressure range,
   wind speed, log dimension, stretch/calculation step, material, name, caption,
   warning, and design proposal is represented.
-- Permitted omissions: none asserted. Final caption relation and visual-only labels
-  remain scan-verification tasks.
+- Permitted omissions: none.
 
 ## Reasons
 
@@ -21,12 +20,13 @@ needs_highres_scan
 - Conflicting three-foot and four-foot anchor depths are both preserved.
 - All names and captions remain visible rather than being treated as decoration.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n43_w2000.jpg` to verify paragraph/photo order, depths, camera name and
-  exposure, final `and / Bud DeZonia` relation, captions, and visual-only labels.
+- Checked the original high-resolution scan. Paragraph/photo order, both printed
+  anchor depths, camera details, the final site caption, and Bud DeZonia credit are
+  now represented in their correct relationships.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Image placement, conflicting source
-  depths, final attribution, and possible diagram text prevent acceptance.
+- None identified after scan verification; the source's differing three-foot and
+  four-foot depth statements are intentionally both retained.

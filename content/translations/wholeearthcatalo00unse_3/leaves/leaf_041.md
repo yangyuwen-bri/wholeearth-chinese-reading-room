@@ -137,8 +137,6 @@ Person-flinging giddiness maker.
 
 每个人都该有一台 come-along 手扳牵引器。花 20 至 30 美元，你就能慢慢把任何东西拉到任何地方。Ant Farm 用我们的牵引器调整覆盖充气软体结构的网所承受的张力。
 
-［图示可辨标签：可调节；链条尺寸字形不清。］
-
 ——Bud DeZonia
 
 ### 简洁的 PVC 圆顶
@@ -155,15 +153,19 @@ Person-flinging giddiness maker.
 
 我们的乙烯软体结构是 50 × 50 英尺的正方形。加上覆盖网后，看起来大致如图。
 
-图中可辨文字：
+图中标签：
 
-- “软体结构在下方”
-- “相对两端……在各角系紧”［中间字形不清］
-- “在每个角内插入一个充气的［物件字形不清］，再绕着它扎紧。这种方法很有效，能使乙烯材料……形成像乳头一样的突起。”
+- 每个角一只地锚螺旋钻：10,000 磅；
+- 8,000 磅级织带；
+- 可调节 ⅜ 英寸链条；
+- 软体结构在下方；
+- 透明端部在各角系紧：把一条充气内胎塞进每个角内，再绕着它扎紧。这能充分利用乙烯材料的强度，外形像乳头。
 
 覆盖网的中央部分和各个“乳头”都是这次旅程才加上去的。两者都非常有效，能降低软体结构的轮廓（从而减小风阻）。
 
-软体结构的两端和顶部使用 14 号单层透明与半透明乙烯膜；地板使用每平方码 15 盎司的增强白色乙烯材料。它由两台约 ¾ 马力［分数字形不清］多翼离心鼓风机支撑，每台风量 1,500 至 2,000 CFM。
+软体结构的两端和顶部使用 14 号单层透明与半透明乙烯膜；地板使用每平方码 15 盎司的增强白色乙烯材料。它由两台 ¼ 马力多翼离心鼓风机支撑，每台风量 1,500 至 2,000 CFM。
+
+图片说明：Hal 与 Lois 高高在上一切之上休息。照片：Bud DeZonia。
 
 ### 沙漠纵酒
 
@@ -195,17 +197,17 @@ Person-flinging giddiness maker.
 
 ## OCR / Uncertainty Notes
 
-- The page is photo/diagram-led, and several hand-lettered schematic labels are
-  unreadable. All confidently recoverable fragments are represented.
-- Come-along chain size, corner-detail wording, blower horsepower fraction, and
-  exact vinyl gauge/unit need visual verification.
-- Exact photo captions/associations and any non-OCR construction labels require scan.
+- The high-resolution scan confirms the complete photo/caption order, all schematic
+  labels, material gauges, dimensions, capacities, and construction wording.
+- It restores the ⅜-inch chain, four complete corner-detail labels, and two ¼-HP
+  blower specification.
+- The Hal/Lois caption and Bud DeZonia photo credit are represented.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: come-along, dome, anchoring, full Andy
+- Coverage is complete against the scan: come-along, dome, anchoring, full Andy
   Shapiro technical note, dinner event, work-environment critique, portability, and
   recreational conclusion.
 - The page's technical and experiential voices remain intact; unreadable diagram
   text is not replaced by invented construction guidance.
-- Diagram labels, technical fractions, and image associations prevent acceptance.
+- All legible prose, captions, diagram labels, fractions, and visual text are represented.

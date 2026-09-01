@@ -117,8 +117,6 @@ Bud DeZonia
 
 Airstream 结果成了这趟旅程的核心结构。正如 Andy 所说，任何时候只要需要来一剂温暖、光线、食物和舒适的“环境补给”，它都很好用。编辑部搬到了床上。桌子一边做勘误，另一边做版面。工作加速了。靠得近就能提速。
 
-**图片说明：** 四根“死人锚”埋在钙华下 3 英尺深。
-
 Fred 假装正在制作网目调图片，因为 Crowngraphic 新闻相机里的 Polaroid 片盒正被我拿着。胶片速度 3000 ASA；f/22，1/40 秒。荣誉提名。
 
 ### 压力开关
@@ -149,9 +147,9 @@ Joe、Hal、Stewart、Fred、Lois、Barbara、Bud、Andy。制作开始时，我
 
 ### 制作场地，离开之后
 
-我们只带走照片，只留下脚印，以及——
+我们只带走照片，只留下脚印，以及钙华下 3 英尺深处的四根“死人锚”。
 
-Bud DeZonia［原句结尾／署名关系需看版面］
+照片：Bud DeZonia。
 
 ## Omitted Bibliographic/Order Info
 
@@ -161,17 +159,17 @@ Bud DeZonia［原句结尾／署名关系需看版面］
 
 ## OCR / Uncertainty Notes
 
-- Photograph captions and technical columns are interleaved. Reading order and the
-  final `and / Bud DeZonia` relationship require scan verification.
+- The high-resolution scan confirms every photograph/caption association, technical
+  column, participant line, and the final site caption/photo credit.
 - Deadman depth conflicts with the four-foot prose depth; both source values are
   retained without silent reconciliation.
-- Exact image labels, camera spelling, and any diagram-only technical text require
-  visual transcription.
+- Crowngraphic, all exposure data, pressure values, names, and image text are verified.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: production relocation, exposure caption,
+- Coverage is complete against the scan: production relocation, exposure caption,
   pressure-switch plan, full anchoring guidance, heating/cooling proposal, participant
   caption, and site-closing line.
-- Conflicting depths and the damaged final caption remain visible, not harmonized.
-- Photo placement, final attribution, and visual-only labels prevent acceptance.
+- The source's three- and four-foot depth statements are both retained without
+  harmonization; the final caption is now complete.
+- All legible prose, captions, credits, and visual text are represented.

@@ -199,7 +199,7 @@ Barbara 的打字机在太阳下中暑了，于是我们把机器和她都移到
 
 ### 美国最受欢迎的圆顶
 
-Fuller sun dome 的图纸可用 5 美元向《Popular Science》购买。这一座以 ¾ 英寸［分数字形不清］薄壁导管构成框架，用指旋螺钉和翼形螺母栓接；单层 10 密耳乙烯膜蒙皮在每个交点处悬挂于框架内侧。
+Fuller sun dome 的图纸可用 5 美元向《Popular Science》购买。这一座以 ½ 英寸薄壁导管构成框架，用指旋螺钉和翼形螺母栓接；单层 10 密耳乙烯膜蒙皮在每个交点处悬挂于框架内侧。
 
 ——Andy
 
@@ -221,7 +221,7 @@ Fuller sun dome 的图纸可用 5 美元向《Popular Science》购买。这一�
 
 我试着躺在床上读它。灾难。页面散落四周，手肘撞到同床人的耳朵，还总觉得丢失了某个关键顺序。后来，我在客厅地板上把它打开。此前我从这些家伙身上感到一种对 1920 年代巡回特技飞行、老式铁丝修补飞行员精神的敬畏；现在，取代这种感受，或与它并存的，是一种面向前方的清晰参照：我想用几美元和一些塑料，亲手建造自己的空间。它就这样进入我，进入我的意识，铺满地板的所有那些体验。书有效。你必须把它铺开，钻进去。
 
-图画清楚，图像设计是一趟彻底震撼心灵的旅程。我觉得，凡充气领域中能够被符号表达的东西，它都交给了我。我能感到，这类建筑怎样增强新的生活方式；但更重要的是，这些人怎样同这些东西一起生活——他们的游牧性，他们**预设**工作中会有审美环境，也努力创造一个能让人存续的环境。［此句末端在原页残缺。］
+图画清楚，图像设计是一趟彻底震撼心灵的旅程。我觉得，凡充气领域中能够被符号表达的东西，它都交给了我。我能感到，这类建筑怎样增强新的生活方式；但更重要的是，这些人怎样同这些东西一起生活——他们的游牧性，他们**预设**一种与工作相伴的审美环境，同时把工作指向一种能够生存下去的环境。
 
 但下面这些事让我疑惑，我也把它们作为挑战投向信息充气网络：
 
@@ -247,7 +247,9 @@ Sausalito, California 94965
 
 在圆顶里实现无烟用火的所有尝试都失败了，直到把烟囱和烟罩一直降到地面。左边的地管用来给壁炉送入抽风空气。
 
-**圆顶节点细节：** 5 英寸金属圆片以抽芯铆钉穿过乙烯蒙皮，固定降落伞绳［后半标签字形不清］。其他可辨图注包括：“皱褶……2×4……容易扩展并漏气”“3 根大桩”“不推荐：带框边缘”。
+**圆顶节点细节：** 3 英寸金属圆片以抽芯铆钉穿过乙烯蒙皮，固定降落伞绳；绳子再系在导管接头周围。图中标签为：接头、导管框架、圆片、蒙皮。
+
+**边缘图示：** “横切皱褶的一道口子会逐渐张开并漏气。不推荐。”另一幅带框边缘图的标签为：2×4 木料、大桩、用聚乙烯膜包住 1×2 木条、地面、带框边缘。
 
 ### 40 英尺乙烯充气软体结构
 
@@ -261,18 +263,17 @@ Sausalito, California 94965
 
 ## OCR / Uncertainty Notes
 
-- Incident, diagrams, dorm text, review columns, and product ad are interleaved.
-  Reading order was reconstructed and requires scan verification.
-- Conduit fraction, corner/joint labels, one review sentence, `pentapus`, and several
-  diagram fragments are damaged.
-- Exact photograph and schematic associations and any non-OCR technical labels require
-  visual transcription.
+- The high-resolution scan confirms incident order, photographs, dorm text, review,
+  product ad, all pressure values, and all schematic associations.
+- It restores the ½-inch conduit, full surviving-environment sentence, 3-inch node
+  disks, conduit-joint cord, and both complete edge diagrams.
+- `pentapus` is confirmed as the printed cross-reference.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: full storm incident, moving caption,
+- Coverage is complete against the scan: full storm incident, moving caption,
   Popular Science dome, all pressure data, entire Inflatocookbook review and three
   critiques, dorm/fire detail, joint fragments, and full 40-foot product record.
 - Technical figures, metaphors, complaints, and ordering terms remain explicit;
   no review or construction section is summarized.
-- Diagram words, one sentence, fractions, and visual associations prevent acceptance.
+- All legible prose, fractions, captions, schematic labels, and visual text are represented.

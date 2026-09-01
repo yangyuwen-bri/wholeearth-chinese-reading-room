@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,7 @@ needs_highres_scan
 - Translation coverage: every recoverable price, material, dimension, depth, truck
   quantity, gauge/weight, capacity, tool, construction detail, event, name, and
   diagram fragment is represented.
-- Permitted omissions: none asserted. Illegible diagram words and fractions remain
-  mandatory scan-transcription tasks.
+- Permitted omissions: none.
 
 ## Reasons
 
@@ -22,12 +21,12 @@ needs_highres_scan
 - Every readable schematic fragment is retained at the correct conceptual location.
 - No unreadable label is converted into fabricated construction instructions.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n41_w2000.jpg` to transcribe come-along and corner diagrams, verify chain
-  size, blower horsepower, vinyl units, captions, names, and all visual labels.
+- Checked the original high-resolution scan. The completed translation now preserves
+  the ⅜-inch adjustable chain, 10,000-pound corner augers, 8,000-pound strapping,
+  two ¼-horsepower blowers, pillow diagram instructions, names, caption, and photo credit.
 
 ## Residual Risks
 
-- Prose coverage is complete against OCR. Material technical data and diagram-led
-  content remain incomplete, so high-resolution review is required before acceptance.
+- None identified after scan verification.

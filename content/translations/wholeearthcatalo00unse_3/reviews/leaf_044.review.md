@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,7 @@ needs_highres_scan
 - Translation coverage: every recoverable person/role, amount, fraction, date,
   quantity, address, phone, sale condition, criterion, checkbox, and form label is
   represented. Unreadable names/labels are marked in place.
-- Permitted omissions: none asserted. Illegible staff/cost/deadline text remains a
-  mandatory scan-recovery task.
+- Permitted omissions: none.
 
 ## Reasons
 
@@ -22,13 +21,13 @@ needs_highres_scan
 - The public suggestion form is translated as a usable field structure, not summary.
 - No damaged credit is silently assigned to a neighboring person.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n44_w2000.jpg` to recover all staff names/roles, $750 cost label, exact
-  unit-cost fraction, deadline, captions, form geometry, logos, and fine print.
-- Verify the reconstructed four selection criteria against the printed form.
+- Checked the original high-resolution scan. The completed translation preserves all
+  production credits and roles, the Ant Farm and rent costs, the printed `22 2/4`
+  unit-cost form, all 17 Truck Store names, map labels, selection criteria, checkboxes,
+  and suggestion-form fields.
 
 ## Residual Risks
 
-- Most structured content is translated, but several credits and fields remain
-  unreadable. This form/credits page cannot be accepted before visual transcription.
+- None identified after scan verification.

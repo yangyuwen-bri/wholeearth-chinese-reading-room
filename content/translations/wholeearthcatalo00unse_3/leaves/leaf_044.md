@@ -110,13 +110,11 @@ Title of book or name of item: >
 ### 沙漠制作组
 
 - Stewart Brand——编辑
-- ［一名人员姓名与职务字形不清］
+- Hal Hershey——版面
 - Bud DeZonia——现场作业
 - Barbara DeZonia——排字
-- ［一名人员姓名与职务字形不清］
-- Fred Richardson——现场作业
+- Fred Richardson——现场作业、MP-3
 - Lois Brand——食物、勘误、簿记
-- ［一名人员］——排字［姓名字形不清］
 - Andy Shapiro——Ant Farm
 - Joe Hall——Ant Farm
 - Curtis Schreier——Ant Farm
@@ -131,13 +129,13 @@ Title of book or name of item: >
 | 工资（研究除外） | 3,650 美元 |
 | 旅行 | 300 美元 |
 | 材料用品 | 600 美元 |
-| ［项目名称字形不清］ | 750 美元 |
+| Ant Farm | 750 美元 |
 | 邮寄与邮资 | 700 美元 |
 | 排字机 | 300 美元 |
-| 供暖 | 200 美元 |
+| 租金 | 200 美元 |
 | **合计** | **10,100 美元** |
 
-1971 年 1 月印刷 45,000 本。单册成本约 22½ 美分。
+1971 年 1 月印刷 45,000 本。单册成本 22 2/4 美分（原页写法）。
 
 ### Whole Earth Truck Store 团队
 
@@ -146,15 +144,18 @@ Title of book or name of item: >
 - Laura Besserman——研究
 - George de Alth——订阅
 - Francine Slate——簿记
-- ［姓名字形不清］——邮购
+- John Clark——邮购
 - Jerry Fihn——订阅
-- ［姓名字形不清］——邮购
+- Austin Jenkins——邮购
 - Diane Erickson——店面
 - Mary Jo Morra——订阅
 - Troll——订阅
 - Pam Smith——研究
-- ［一项人员记录字形不清］
+- Peter Ratner——书籍
 - Bernie Sproch——归档
+- Terry Gunesch——午餐
+- Carolyn Green——午餐
+- Soni Stoye——午餐
 
 ### 你的一美元去了哪里
 
@@ -180,7 +181,7 @@ Menlo Park, CA 94025<br>
 
 Menlo Park 的 Whole Earth Truck Store 是我们的主要研究来源之一；店里备有《CATALOG》中的大多数物品。我们能看到谁在买什么，能听到投诉和建议，也会试用可能收入下一期《CATALOG》的物品。我们还有一个地方，让朋友们过来看看正在发生什么。
 
-［孤立文字：Stanford University。］
+两幅地图上的文字标签包括：S.F.、Bayshore Freeway、Marsh Road、Middlefield Road、Willow Road、Dumbarton Bridge、Bayshore、to San Jose、University、Palo Alto、El Camino Real、Menlo Park、Oak Grove、Merrill、Ravenswood、Santa Cruz Ave.、Palm Drive、Whole Earth Truck Store、Stanford University、Golden Gate、San Francisco、Berkeley、Oakland、S.F.–Oakland Bay Bridge、San Mateo Bridge、San Mateo、Redwood City、Palo Alto 与 San Jose。
 
 ## 现在就提出建议
 
@@ -203,8 +204,7 @@ Menlo Park 的 Whole Earth Truck Store 是我们的主要研究来源之一；�
 - [ ] 随信附上对这件物品的评论。
 - [ ] 我推荐以下人员评论这件物品（姓名、地址、电话）：________
 
-截止日期栏：［日期字形不清］
-
+- 日期：________
 - 我的姓名：________
 - 地址：________
 - 邮政编码：________
@@ -213,6 +213,11 @@ Menlo Park 的 Whole Earth Truck Store 是我们的主要研究来源之一；�
 **我建议：**
 
 - 书名或物品名称：________
+- 作者：________
+- 价格：________
+- 出版商或供应商：________
+- 地址：________
+- 邮政编码：________
 - 补充资料／评论：________
 
 ## Omitted Bibliographic/Order Info
@@ -223,17 +228,17 @@ Menlo Park 的 Whole Earth Truck Store 是我们的主要研究来源之一；�
 
 ## OCR / Uncertainty Notes
 
-- Credits, cost table, dollar chart, sale ad, photograph, and form are heavily
-  interleaved. XML positions recover sections but not all names/roles.
-- Several staff names, two roles, the $750 cost label, unit-cost fraction, and form
-  deadline are unreadable; calculated consistency supports but does not prove 22½¢.
-- Exact form geometry, checkbox alignment, photograph captions, logos, and fine print
-  require visual transcription.
+- The high-resolution scan confirms all credits/roles, cost and dollar tables, sale
+  ad, store record, two maps, deadline sentence, and complete suggestion form.
+- It restores Hal Hershey, Fred Richardson's MP-3 role, five Truck Store names/roles,
+  the three lunch credits, `Ant Farm` and `Rent` cost lines, and printed `22 2/4¢`.
+- Every form field, checkbox, caption, map label, and fine-print line is represented.
 
 ## Self Critique
 
-- Coverage is complete against recoverable official OCR: all visible personnel,
+- Coverage is complete against the scan: all personnel,
   complete cost and dollar-allocation tables, print run, store record/description,
   equipment sale, four selection criteria, and every form field/checkbox.
-- Illegible names and labels remain explicit rather than being invented or omitted.
-- This credits/form page materially requires high-resolution visual review before acceptance.
+- The credits, costs, maps, sale notice, store information, criteria, and form are
+  transcribed item by item rather than summarized.
+- All legible prose, fields, labels, captions, and visual text are represented.
