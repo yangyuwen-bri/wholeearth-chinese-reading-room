@@ -252,18 +252,215 @@ Allston, Massachewsit
 
 ## Glossary Updates
 
+- snowshoe — 雪鞋
+- binding — 雪鞋固定带
+- modified bear paw — 改良熊掌式雪鞋
+- stave — 桶板
+- floor loading — 楼面荷载
+- bare-board platform — 毛坯平台
+- air cell — 气室
+- tongue-and-groove block — 榫槽砌块
+- flintlock — 燧发枪
+- percussion muzzleloader — 火帽击发前装枪
+- proofed firearm — 经过强度试验的枪械
 
 ## Final Translation
 
+### 雪鞋
+
+林中冬季。雪地摩托太吵、太难看，也许还会破坏生态。越野滑雪板很棒，但干活时太碍事（砍树、在灌木丛中工作等等）。我见过最好的雪鞋是 Walter York 的产品。它们比最常出售的加拿大雪鞋做得更好。
+
+York 从亲手砍下、晾干白蜡木开始。他把白蜡木蒸软、弯曲；自己制作生皮，也自己做固定带。雪鞋他妈的漂亮，又轻又结实。真正的好工具。他甚至会卖给你鞋头上翘的款式（阿拉斯加式），不过你得说服他，因为上翘鞋头会让你在下坡时往后滑。他还很不情愿地承认，氯丁橡胶也许比生皮更适合编网，因为湿雪不会粘在氯丁橡胶上。两种他都卖。
+
+价格与通常市价大致相当：约 30 美元，另加 4 美元固定带。他会按订单和具体需要定制雪鞋。（体重较大的人需要更大的雪鞋；有些人想要快拆固定带，等等。）他说也修雪鞋，不过讨厌修加拿大货。用过他的雪鞋之后，我不怪他。
+
+祝《Catalog》好运，一路顺风。<br>
+Snee 与 Anne Ashley<br>
+纽约州纽约市
+
+**改良熊掌式，上翘鞋头**
+
+- 13 × 36 英寸：26.00 美元
+- 氯丁橡胶编网：26.00 美元
+- 生皮编网：28.00 美元
+
+如需更多信息请写信：
+
+Caratunk Snowshoes<br>
+Walter E. York, Mfr.<br>
+Caratunk, Maine 04925
+
+### 清洁近乎神圣的工具：户外日式浴桶
+
+浴桶以木条桶板围成，底部为钢制，并有红木板条坐台保护你的屁股。这些浴桶专为宜人的户外环境而设计（红木林、草地、俯瞰海洋的悬崖），用柴火加热；电或丙烷也可以。柴火约 30 分钟就能把水烧得蒸汽腾腾，并能在长时间浸泡中保持水温。
+
+可定制尺寸和木材：圆形、红木、长圆形、雪松，［一项木材或形式字样不清］。价格合理，也可交换。所需维护很少，只需涂亚麻籽油，偶尔收紧箍带。水中放点香味很好，例如 Dr. Bronner's 或桉树油。清洁自己，同别人一起沐浴。水泥海上的水手找到了港口。
+
+联系：
+
+J. Hunt<br>
+Mt. Madonna Rd.<br>
+Gilroy, Ca. 95020
+
+### TTA 浮动平台
+
+我在 Buckley 的《National Review》里看到这则广告；它看来瞄准的是非法商业企业。不过，为什么不能用于公社和学校呢——当然，得资金充足。想象一下：一群人住在 Amerika 之外，自由漂游于各处海洋，没有法律，没有税收？
+
+——Mark Reeve，俄亥俄州 Cincinnati
+
+TTA Enterprises<br>
+1015 Laguna Street, Ste. 10<br>
+Santa Barbara, California 93101
+
+| 平台边长 | 建筑层数 | 各层总面积 | 平台总成本 | 每平方英尺成本 |
+| --- | ---: | ---: | ---: | ---: |
+| 50 英尺 | 1 | 2,500 平方英尺 | 180,000 美元 | 72 美元 |
+| 100 英尺 | 1 | 10,000 平方英尺 | 300,000 美元 | 30 美元 |
+
+以上为典型 TTA 浮动平台的成本估算，假定锚泊点水深 80 英尺、平台高出水面 25 英尺，楼面荷载为每平方英尺 20 磅。
+
+这些成本针对“毛坯”平台，包括码头、出入楼梯、带主衬与备用衬的气室、带衬里的围裙结构、维持气室内气压的发动机和鼓风机，以及四只锚和系泊缆。平台完工和装备费用为每平方英尺 5 至 20 美元起，视预定用途而定。
+
+住宅和其他轻型用途建议楼面额定荷载为每平方英尺 10 磅；办公室、轻型制造及其他一般用途建议 20 磅；重型设备、密集储存和类似重载用途应采用 40 磅。楼面额定荷载不是每平方英尺 20 磅时，必须对上表数字作近似调整。
+
+### 榫槽砖
+
+老主意的好设计：堆叠式混凝土砌块，带有凹槽和凸脊，能把整座结构锁在一起。因为全部互锁，不需要砂浆。这也让砌块能够重复使用。如果你搬家——把房子拆开，跟你一起搬走。
+
+砌块由 Wedge-Block, Inc. 的特许经销商销售，地址 10439 Garibaldi, St. Louis 63131；不过，自制模具应该很容易。
+
+——Tom Cryar，宾夕法尼亚州 Pittsburgh
+
+### 蛇
+
+我想提个建议。我是个蛇迷（指爬行动物）；从伊甸园时代起，蛇一直名声很坏，我想让你们和读者也喜欢上这项爱好。
+
+适合初学者的优秀蛇类书籍是 Hobart M. Smith 的《Snakes As Pets》。书很容易读，唯一缺点是可能过于简单——对已经开始养蛇的人来说，细节不够。
+
+其他书籍：
+
+**蛇类分类：**
+
+- Roger Conant 与 William Bridges：《What Snake Is That?》
+
+**一般读物：** Clifford H. Pope 的书相当不错：
+
+- 《Snakes Alive & How They Live》
+- 《The Giant Snakes》（讲蟒蛇、蚺蛇和森蚺）
+- 《The Reptile World》
+- C. H. Curran 与 Carl Kauffield：《Snakes and Their Ways》
+- Albert Hazen Wright、Anna Allen Wright：《Handbook of Snakes》
+
+一般来说，直接从宠物店买蛇更有利（到处问问，看谁在卖）；不过也有几家信誉良好的蛇商：
+
+- Wild Cargo，P.O. Box 3, Hollywood, Florida 33022。索取目录；第一次免费，以后收取少量费用。
+- Philadelphia Reptile Exchange，436 Vernon Road, Jenkintown, Pennsylvania 19046。
+- Snake Farm，P.O. Box 96, Laplace, Louisiana 70068。
+- Hermosa Reptile，Hermosa Beach, Calif. 90254。
+- Midwest Reptile Sales, Inc.，P.O. Box 6119, Fort Wayne, Indiana 46806。
+
+如需任何爬行动物的小册子、但不买蛇，请联系：
+
+Ross Allen Reptile Institute<br>
+Silver Springs, Inc.<br>
+P.O. Box 367<br>
+Silver Springs, Florida 32688
+
+付款和处理约定随目录附上。
+
+把蛇当作爱好有个缺点：爱好者通常必须自己当兽医。没有多少动物医生了解蛇的疾病。蛇是迷人而镇定的生物，容易照料，还有奇妙的色彩组合。
+
+爱，<br>
+Jay Brethauer<br>
+545 So. 7th St., Apt. 10<br>
+San Jose, Calif.
+
+又及：如需更多信息请写信。如果采用这段材料，就别给那 10 美元——也许送份免费订阅，但不要钱。你们都是好人。
+
+### 徽章，徽章
+
+给运动组织最低价格。质量是我们见过最好的。交货快——有要求还可以更快。所有产品都有工会标志。可开立赊购账户。约有 150 至 200 种现货徽章（不是那些平庸口号），可立即发货。很好打交道的人；每张订单都得到非常个人化的照料。
+
+Printed Celluloid Buttons<br>
+Larry Fox Associates<br>
+P.O. Box 581<br>
+Hempstead, NY 11551
+
+可索取清单。
+
+——Karen Penner，纽约州 Valley Stream
+
+### 四英尺大的泡泡
+
+我想推荐 Franklin Institute 出版的《True Plastic Bubbles and How to Blow Them》供你们评论。它出自同一批人之手；约一年前，他们用巨大而持久的肥皂泡引起轰动。随之而来的兴奋激励他们再上层楼。这份报告讲解怎样吹出直径达 4 英尺的泡泡！泡泡结实、防水，而且由塑料薄膜制成，寿命没有明确期限。报告提供说明册和材料来源。
+
+请索取《Plastic Bubbles Report》（第 1 号），向 Franklin Institute 购买，地址 21st and the Parkway, Philadelphia, Pa.；价格 1.00 美元。
+
+——John Prenis，纽约州 Utica
+
+### 砰！逮到啦
+
+【译者提示：以下是 1970 年来信的史料翻译，不是今天的武器购买、法律或操作建议。枪械与火药具有致命危险，相关法律和安全要求也已变化。】
+
+亲爱的朋友们：
+
+我在某期《W.E.》里看到一段谈武器的文字，记不清何时何处了；里面提到弩、枪、燧发／火帽击发前装枪之类。好吧，事实是，如果你想要一种威力大、好玩、又相当合法的武器，只有一条路——**黑火药（步枪与手枪）**。
+
+你瞧，这些东西可以毫无限制地邮寄给任何人（不过要查本地法律）。要买手枪，你必须声称自己已经 21 岁。多大点事。总之，前装长枪（燧发式和火帽击发式）相当准确，会发出一声他妈的巨大而美妙的轰响。手枪也一样。射击成本还很低，可能只有定装弹武器的十分之一。口径从 .36 到［上限字样不清］（燧发枪与霰弹枪）。这些枪仿照古代式样，例如 .36 口径 Navy 火帽击发转轮手枪，或 Kentucky 式松鼠枪。
+
+货源：找一本枪械杂志，例如《Shooting Times》或《Guns & Ammo》，查看价格、说明和图片。（恋物癖者尤其要留意。）或者：
+
+Centennial Arms Corp.<br>
+3318 W. Devon Ave.<br>
+Lincolnwood, Ill. 60645<br>
+价目表 1.00 美元！！（“你不可能总是得到想要的一切……”）
+
+或者：
+
+Dixie Gun Works<br>
+Dept. 1, Union City, Tenn. 38161<br>
+目录 1.00 美元——250 页！！！有许多好东西。
+
+或者，枪械杂志里看到的其他任何商家。
+
+**说明：**
+
+1. Dixie 的目录非常超前。他们诚实！！！
+2. Centennial 又好又便宜，还有漂亮的手枪。他们的手枪（意大利和比利时制造）以这个价格而言做得很好——例如钢制底把 .36 口径火帽击发手枪只要 39.95 美元。注意不要买 .36 口径以上的黄铜底把手枪；钢更坚固。
+3. **永远、永远、永远不要使用无烟火药**——用了的话，你会被炸得稀烂。**只能用黑火药。** 原信声称它很安全：用锤子砸也不会爆炸，只会被火花（来自燧石或火帽）点燃。
+4. 确保买到的武器已经“强度试验”（测试）过，这样才能确信它不会爆炸；提防“贸易枪”。一分钱一分货。
+5. 定期清洁枪械。黑火药具有**腐蚀性**，会把武器弄得一团糟。这些枪清洁起来并不太难（当然也没多少乐趣）。向懂行的人了解最佳方法，或者自己想办法。
+6. 燧发枪击发时最令人着迷：先“啪”，再“呼”，然后“轰”。火帽击发枪则只会“轰”一声。总之，如果还想同邻居保持友好，就在打猎、打靶或偷猎前告诉他们，免得他们以为你在扮演《阿拉伯的劳伦斯》炸火车。（“轰”声就像在 50 加仑油桶里点燃一枚大爆竹。）
+7. 对所有类型枪械，可以买一本《The Gun Digest》编辑编写的《Guns Illustrated 1970》。所有合法枪械都在里面：各种步枪、手枪、掌心手枪等等。不幸的是，价格为 2.95 美元。若你是认真的，就值得。
+8. 加入 NRA。NRA 建制派怪人想废除枪支法律。他们全是变态，不过加入吧，这是件好事。
+9. 这个世界现在需要的是一种更好的“无政府状态”。
+
+平安，<br>
+Crazy Bill<br>
+Allston, Massachewsit［原信如此拼写］
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- None. All recoverable product specifications, prices, addresses, tables, book
+  records, vendor terms, postscript, safety claims, and numbered notes are retained.
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- The page interleaves multiple columns, advertisements, a platform table, and
+  product images. Reading order and visual associations require scan verification.
+- Snowshoe price/model alignment, one bathtub option, table typography, and several
+  black-powder glyphs are damaged or displaced.
+- The historical weapon letter is translated in full with a visibly separate
+  safety/legal context; its 1970 claims are not validated as current guidance.
+- Illustration-only labels for the bath, platform, blocks, Chair-Loc-like images,
+  bubbles, and firearms may be absent from OCR.
 
 ## Self Critique
 
-- Pending translation.
+- Coverage is complete against official OCR: all eight major entries, the full
+  floating-platform table and cost notes, every snake title/vendor, both product
+  records, and all nine numbered paragraphs of the black-powder letter.
+- No controversial or hazardous source section is summarized away. Translator
+  context is clearly labeled and does not replace source wording.
+- Model/price alignment, damaged words, dense layout, and visual text prevent
+  acceptance until high-resolution review.
