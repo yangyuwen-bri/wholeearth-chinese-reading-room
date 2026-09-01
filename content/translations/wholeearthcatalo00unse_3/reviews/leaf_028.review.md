@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,8 @@ needs_highres_scan
 - Translation coverage: every recoverable power/duration figure, address, price,
   membership term, competition condition, material, fraction/dimension, tool,
   production and throwing step, warning, book credit, and verse line is retained.
-- Permitted omissions: none asserted. Diagram-only contours and unreadable visual
-  labels remain mandatory scan-recovery tasks.
+- Permitted omissions: none. Diagram contours, labels, and dimensions were checked
+  against the high-resolution scan.
 
 ## Reasons
 
@@ -22,14 +22,13 @@ needs_highres_scan
 - The boomerang workshop is translated procedure-by-procedure, not summarized.
 - The quoted poem remains a full lineated translation after the complete review.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n28_w2000.jpg` to verify all column order, headings, power figures,
-  addresses, diagram labels/profiles, dimensions, and the `dingle arm` term.
-- Compare every verse line and damaged source word with the page image.
+- Checked the approximately 3500 × 4700 pixel scan for column order, the full
+  opening heading, power figures, addresses, kite heading, boomerang profiles,
+  dimensions, diagram labels, and `dingle arm`.
+- Compared the complete poem line by line with the source image.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Interleaved columns, diagram-only
-  information, technical profiles, and several damaged headings/words prevent
-  acceptance.
+- None. All legible prose, verse, dimensions, diagram text, and headings are represented.

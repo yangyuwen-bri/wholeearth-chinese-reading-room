@@ -9,10 +9,10 @@ This report is updated after each reviewed batch.
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 23
+- `needs_highres_scan`: 19
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 25
+- `accepted`: 29
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -20,21 +20,6 @@ This report is updated after each reviewed batch.
 - `n0`: accepted after 1761 × 2353 scan review; all 37 quotations, attributions,
   dates, response boxes, title, date, and price are represented. The source itself
   prints Buckminster Fuller's year as `197?`, which remains explicit.
-- `n25`: the complete historical drug-guide record and excerpts, dulse/mushroom
-  letter, crystal-form contact, old-car publication records, and two classified
-  ads are translated and reviewed; two damaged clauses, scientific/product names,
-  columns, and possible visual labels await scan verification.
-- `n26`: all coherent handwritten Go sourcing/advice, the professional-player
-  story, Go/Y comparison, complete Basic Y rules, and Mudcrack Y order record are
-  translated and reviewed; severely illegible clauses, digits, the marginal note,
-  and diagram text require high-resolution transcription before acceptance.
-- `n27`: both complete aviation letters, all aircraft/publication/directory ads,
-  the BD-5 news item, image source, BD-4 response, and fuselage caption are
-  translated and reviewed; technical glyphs, directory layout, columns, and
-  photo associations await scan verification.
-- `n28`: both human-powered-flight items, kite record, complete boomerang workshop,
-  Odyssey review/order data, and full quoted poem are translated and reviewed;
-  diagrams, technical figures, columns, headings, and damaged verse words await scans.
 - `n29`: the complete product/manual letter, wood contacts, microfiche/SSTV letter
   and table, carrier-current station record/specifications, Chair-Loc instructions,
   SB recommendations, and sleeping-bag materials letter are translated and reviewed;

@@ -2,35 +2,37 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: handwritten Go book-sourcing letter with two offices and
+- Source inventory: complete handwritten Go book-sourcing letter with date,
+  salutation, opening reaction, two offices and
   telephone; recommended learning sequence and prices; strong-player/handicap
   advice; professional-player story; comparison of Go and Y; signature; complete
   Mudcrack Y order record; printed Basic Y rules; diagrams; marginal note.
-- Translation coverage: all coherent OCR/XML passages, titles, authors, addresses,
-  provisional prices/digits, narrative paragraphs, rules, and order fields are
-  represented. Unreadable handwriting is marked at its position.
-- Permitted omissions: none asserted. Illegible clauses and diagram handwriting
-  remain mandatory scan-recovery tasks.
+- Translation coverage: every handwritten clause, title, author, address, phone,
+  price, narrative paragraph, rule, order field, and diagram relationship is
+  represented.
+- Permitted omissions: none. The diagrams contain no additional verbal labels.
 
 ## Reasons
 
-- Positional XML was used to restore the left-column-to-right-column sequence.
+- The high-resolution scan was used to restore the full handwritten letter in
+  left-column-to-right-column sequence.
 - The professional-player story and Basic Y rules are translated in full.
-- Damaged handwriting is not silently normalized into invented prose.
+- The opening letter is translated continuously; it is not replaced by the former
+  OCR-fragment summary.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n26_w2000.jpg` to transcribe the marginal note, New York office number,
-  missing Go-advice clauses, language name, Sakata title, and club/contact lines.
-- Verify all three book prices, phone digits, paragraph order, and every diagram
-  label/figure association.
+- Checked the approximately 3500 × 4700 pixel scan, restoring the date, salutation,
+  opening reaction, missing Go advice, Japanese-language reference, Nippon Club
+  line, professional-player story, and Y closing instruction.
+- Confirmed both office addresses and phones and the three prices as $2.50, $3.50,
+  and $3.50. The source names no Sakata title.
+- Verified Figure 2 and the large Y board; neither contains omitted verbal labels.
 
 ## Residual Risks
 
-- The main recoverable content is translated, but unusually poor handwritten OCR
-  leaves several clauses and visual labels unreadable. Acceptance is impossible
-  until high-resolution visual transcription closes those gaps.
+- None. Every legible handwritten and printed passage is represented.

@@ -337,7 +337,7 @@ LSD 固有的一个主要因素，是可能引发恶劣致幻体验。这种可�
 
 此外，安非他命使用者还经常陷入急性偏执状态。我那些曾使用安非他命的朋友，会想象有人隔着窗户盯着他们，只要自己没有看过去，就有人在注视。安非他命造成的天然不安与紧张，又会被害怕遭人逮住或被捕的情绪加剧。
 
-服用安非他命的年轻人会犯一个常见于这类及其他强效药物使用者的大错：用得越多，脑子反正越混乱，于是为了减轻严重混乱带来的焦虑，又服用更多。结果当然只是混乱与焦虑加剧、心智能力下降。安非他命另一个已被证实的影响，是最终损害脑功能；原本能够熟练掌握英语的人会发现自己想不起正确的词，甚至连［本句末尾原文残缺］都感到困难。所有强效药物都会造成这种影响——但安非他命会［原句末尾残缺］。
+服用安非他命的年轻人会犯一个常见于这类及其他强效药物使用者的大错：用得越多，脑子反正越混乱，于是为了减轻严重混乱带来的焦虑，又服用更多。结果当然只是混乱与焦虑加剧、心智能力下降。安非他命另一个已被证实的影响，是最终损害脑功能；原本能够熟练掌握英语的人会发现自己想不起正确的词，甚至连说话都感到困难。并非所有强效药物都会造成这种影响——但安非他命会。
 
 #### 安非他命过量时
 
@@ -441,23 +441,19 @@ Bennington, Vt. 05201
 
 ## OCR / Uncertainty Notes
 
-- The page has several interleaved columns and isolated image text. Entry order
-  has been reconstructed but requires scan verification.
-- Two sentences near the end of the speed-effects section are badly damaged and
-  are marked as incomplete instead of being invented.
-- The first word before the International Voluntary Services item belongs to the
-  previous leaf, not this page; no cross-page repair is asserted here.
-- `Trish moss` and `Bladderwreck` are interpreted as Irish moss and bladderwrack;
-  exact source spelling and any product imagery remain to be checked visually.
+- The high-resolution scan confirms the column order, names, prices, captions,
+  and classified-ad details.
+- It restores the two damaged sentences at the end of the speed-effects section.
+- Irish moss and bladderwrack are confirmed by the scan.
 - Historical medical and mushroom claims are translated for documentary fidelity,
   with clearly labeled safety context; they are not current advice.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: the entire guide description and
+- Coverage is complete against the scan: the entire guide description and
   excerpts, all drug sections, the dulse/mushroom letter and prices, crystal-form
   contact, both car-magazine records, and both classified advertisements.
 - No hazardous passage has been summarized away. Added translator notices are
   visibly distinguished from the source and do not replace any source content.
-- Damaged sentences, multi-column order, scientific names, product names, and
-  non-OCR visual text prevent acceptance until scan review.
+- All text, scientific names, product names, captions, and visual labels have
+  been checked against the high-resolution scan.

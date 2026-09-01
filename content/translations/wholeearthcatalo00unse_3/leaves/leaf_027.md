@@ -262,10 +262,10 @@ Frank Kingston Smith 著，Random House，3.95 美元。
 分东部、西部和巴哈马版，每册 3.50 美元。<br>
 Vacation Flyers, 16 Robert Rd., Princeton, N.J. 08540。
 
-**目录样页：AEROTEL LODGE ON Y LAKE**<br>
+**目录样页：AEROTEL LODGE ON COWBOY LAKE**<br>
 IRON MOUNTAIN, MICH. 49801<br>
 现代乡野风格。经理 PEG 与 RALPH FULLERMAN；电话 906-774-0037。<br>
-划船、钓鱼；高尔夫球场距 1 英里；狩猎；骑马处距 3 英里；帆船；滑雪处距 3 英里；湖中游泳。提供礼宾车，距［设施］1 个街区。
+划船、钓鱼；高尔夫球场距 1 英里；狩猎；骑马处距 3 英里；帆船；滑雪处距 3 英里；湖中游泳。原样页另列：`1 BLOCK`；提供礼宾车。
 
 **《Aircraft Components Catalog》**<br>
 757 Woodland Avenue, Benton Harbor, Mich. 49022。
@@ -338,21 +338,18 @@ D. J. Clausing<br>
 
 ## OCR / Uncertainty Notes
 
-- The page is multi-column and mixes letters, advertisements, a directory sample,
-  article excerpt, and captions; ordering requires scan verification.
-- The Aerotel sample has heavily displaced activity markers and one unresolved
-  `1 BLOCK` association. Its recoverable services are retained conservatively.
-- `6000SMOH` in the DC-3 airframe line and `A & E mechanic` are retained from the
-  source even though the technical wording may be damaged.
-- Exact aircraft/photo associations and any labels not present in OCR remain to
-  be identified visually.
+- The high-resolution scan confirms the column order, advertisements, technical
+  specifications, captions, and directory sample.
+- It restores `AEROTEL LODGE ON COWBOY LAKE` and confirms that `1 BLOCK` is a
+  separate directory line rather than an association with the courtesy car.
+- The aircraft and photograph associations have been checked visually.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: both full letters, every aircraft
+- Coverage is complete against the scan: both full letters, every aircraft
   and catalog record, all technical figures and prices, the BD-5 item, the BD-4
   critique and editorial response, source credit, and final caption are included.
 - Competing views are preserved as separate voices; neither is reduced to a
   synthesized account of private aviation.
-- Directory layout, several technical glyphs, and visual associations prevent
-  acceptance until high-resolution review.
+- Directory layout, technical glyphs, labels, and visual associations are all
+  scan-verified; the page is ready for acceptance.

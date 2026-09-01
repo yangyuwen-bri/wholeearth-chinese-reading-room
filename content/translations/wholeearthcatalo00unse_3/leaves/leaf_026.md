@@ -167,30 +167,37 @@ TOOT Ue
 
 ### 围棋书与怎样学围棋
 
-为了找到一些英文围棋书——不只是本地书店或《Books in Print》中列出的那些——人们很可能会得出结论，以为 7 月号《Catalog》所列的就是市面上仅有的书。其实，更好的书可以向 JAPAN PUBLICATIONS TRADING CO., INC. 购买（少数书店也有销售）。
+1970 年 9 月 10 日
+
+亲爱的朋友们：
+
+当我把 7 月号《Catalog》翻到第 42 页“娱乐与游戏”，看到那里推荐的围棋书时，我一手扶住额头，嘴里叫道：“哦，不！”Lasker 与 Smith 毕竟教过我一点围棋，我欠他们一份情；但从那以后几十年间，英文世界已经有了好得多的书。遗憾的是，如果你只查本地书店或 *Books in Print*，很可能会得出结论，以为 7 月号《Catalog》所列的就是市面上仅有的书。
+
+更好的书可以向 JAPAN PUBLICATIONS TRADING CO., INC. 购买（少数书店也有销售）。
 
 JAPAN PUBLICATIONS TRADING CO., INC.<br>
 1255 Howard St.<br>
 San Francisco, CA 94103<br>
-电话：415-431-3394［号码首组字形不清］
+电话：415-431-3394
 
 纽约办事处：<br>
-［门牌号字形不清］ Fifth Ave.<br>
-New York, NY 10010
+175 Fifth Ave.<br>
+New York, NY 10010<br>
+电话：212-OR3-5844
 
-最适合作为起点的是 Kaku Takagawa 的《How to Play Go》，2.95 美元。Takagawa 是当代最伟大的围棋手之一，所以他所说的内容可靠。这本书虽然是入门书，但只要真正掌握，就能达到相当不错的水平。阅读时要记住一件重要的事：如果在任何一点上，你觉得 Takagawa 所说的［一处手写文字不清］，那就该停下来，更仔细地研究这个局面；弄明白它为什么正确，［句末字形不清］。
+最适合作为起点的是 Kaku Takagawa 的《How to Play Go》，2.50 美元。Takagawa 是当代最伟大的围棋手之一，所以他所说的内容可靠。这本书虽然是入门书，但只要真正掌握，就能达到相当不错的水平。阅读时要记住一件重要的事：如果在任何一点上，你觉得 Takagawa 所说的不对，那就该停下来，更仔细地研究这个局面，直到弄明白它为什么是对的。
 
-接下来该读 Kensaku Segoe 的《Go Proverbs Illustrated》，3.25 美元。围棋格言是一种毫不费力吸收大量信息的方法，能显著提高你的棋力。
+接下来该读 Kensaku Segoe 的《Go Proverbs Illustrated》，3.50 美元。围棋格言是一种毫不费力吸收大量信息的方法，能显著提高你的棋力。
 
-这两本书几乎可以满足你认真钻研之前的全部需要。等你真正认真起来，其余围棋文献大多是［语言名称字形不清］，不过英文材料还有少数几种。首先是 Kaku Takagawa 的《Vital Points of Go》，3.82 美元。Takao Matsuda 提供（至少过去提供）一套很好的函授课程，包括他的教材和亲自指导。美国围棋协会或许能提供 Matsuda 的地址。据我了解，另一位［身份字形不清］Sakata 也有一本［书名或类别字形不清］的书。
+这两本书几乎可以满足你认真钻研之前的全部需要。等你真正认真起来，其余围棋文献大多是日文，不过英文材料还有少数几种。首先是 Kaku Takagawa 的《Vital Points of Go》，3.50 美元。Takao Matsuda 至少在七年前还提供一套很好的函授课程，包括他的教材和亲自指导。美国围棋协会或许能提供 Matsuda 的地址。据我了解，还有一本 Sakata 著作的译本；Sakata 也是围棋界的一位大师。
 
-如果你住在大城市，可以查找当地的 Nihon Ki-in（日本棋院）［联络方式的手写句子残缺］。应当尽量同所能找到的最强棋手下棋；同较弱的棋手对弈，会让你养成坏习惯。围棋有一套让子制度，棋力相差很大的人也能进行有意思的对局。［此段有数个手写词无法辨认。］
+如果你住在大城市，可以查找当地的 Nippon Club 或 Nihon Ki-in（日本棋院），从而找到一些优秀棋手。应当尽量同所能找到的最强棋手下棋；同其他初学者对弈，会让你养成坏习惯。围棋有一套让子制度，棋力相差很大的人也能进行对局。
 
-让我给你讲一个真实的围棋故事。几年前我在普林斯顿，［遇到］一位最有前途的年轻［棋手之一；相邻字形不清］。他给我们讲了自己怎样成为职业棋手的故事。他年轻时下了很多围棋，水平变得非常高，于是决定成为职业棋手。他去拜访一位围棋名家，希望成为对方的学生。这位名家先考了他，看看他是否真有天分；确认他确实是一位很有前途的棋手后，就收他作学生。
+别以为围棋只是一种游戏，让我讲一个我最喜欢的围棋故事。几年前我在普林斯顿时，一位最有前途的年轻职业围棋手访问美国，推广围棋。他给我们讲了自己怎样成为职业棋手的故事。他年轻时下了很多围棋，水平变得非常高，于是决定成为职业棋手。他去拜访一位围棋名家，希望成为对方的学生。这位名家先考了他，看看他是否真有天分；确认他确实是一位很有前途的棋手后，就收他作学生。
 
-此后师徒进行了许多次会面，却从来不谈围棋；他们谈的是文学、艺术、政治，［以及其他主题，若干词不清］。过了许多个月，老师说，这个年轻人现在已经具备成为职业棋手所需的眼界深度。为了确定这一点，他们又下了一盘棋；老师随后说明，自己的学生确实已经达到职业水准。
+此后师徒进行了许多次会面，却从来不谈围棋；他们谈的是政治、艺术、哲学等等。过了许多个月，老师说，这个年轻人现在已经具备成为职业棋手所需的眼界深度。为了确定这一点，他们又下了一盘棋；老师随后说明，自己的学生确实已经达到职业水准。
 
-我在大信封里还附上了自己设计的策略游戏 Y。不错，我喜欢认为 Y 天生是一种比围棋更好的游戏。不过，许多个世纪以来，围棋有无数人投入时间和［心力］研究，因此拥有一种任何［新］游戏都无法匹敌的丰富性。再过几个世纪，谁知道呢？Y 的全部规则只占一页，［句末手写文字不清］。
+我在大信封里还附上了自己对策略游戏的贡献：Y。不错，我喜欢认为 Y 天生是一种比围棋更好的游戏。不过，许多个世纪以来，无数人倾注一生探索围棋的可能性，因此它拥有一种任何新近开发的游戏都无法匹敌的丰富性。再过几个世纪，谁知道呢？Y 的全部规则只占一页。无论如何，请先玩游戏，再读其余文字。
 
 ——Craige Schensted<br>
 Ann Arbor, MI 48104
@@ -207,11 +214,7 @@ Ann Arbor, Michigan 48107
 
 图 2 显示了在图 1 所示棋盘上进行的五局游戏的最终局面。在五种情况中，每一局的胜者都以自己的颜色连成一个大 Y 而获胜。
 
-［本页另有 Y 棋盘示意图及五个终局图；图内手写标记字形不清。］
-
-### 页边手写批注
-
-这段批注只能辨出零散词组：“……7 月号《Catalog》……会很有趣……一本书……亲手挑选……我推荐……给孩子……也许你会喜欢一两本……Smith……教了我一些东西……好得多……寓言……”其余字形无法可靠连成句子。
+图示：图 2 为五局终局；下方大图是 Y 棋盘图案。图中没有其他文字标签。
 
 ## Omitted Bibliographic/Order Info
 
@@ -221,22 +224,17 @@ Ann Arbor, Michigan 48107
 
 ## OCR / Uncertainty Notes
 
-- Official OCR is exceptionally poor because most of the page is handwritten.
-  XML coordinates were used to restore left-to-right and cross-column order.
-- The New York street number, parts of the introductory book advice, a language
-  name, the Sakata title, several Go-club lines, and the marginal note remain
-  unreadable without the scan.
-- Prices are provisionally read as $2.95, $3.25, and $3.82; the San Francisco
-  telephone number is provisionally normalized to 415-431-3394.
-- Diagram labels and the exact relationship among Figures 1 and 2 require visual
-  verification; no invented labels have been added.
+- The approximately 3500 × 4700 pixel scan makes the handwritten letter legible.
+  It restores the date, salutation, opening reaction, both office addresses and
+  phones, Japanese-language reference, club lines, professional-player story,
+  and Y closing instruction.
+- The three book prices are confirmed as $2.50, $3.50, and $3.50. The source
+  names no Sakata title; it only says a translation of a book by Sakata exists.
+- Figure 2 and the large Y board contain no omitted verbal labels.
 
 ## Self Critique
 
-- Every coherent passage recoverable from official OCR and positional XML has
-  been translated, including book sourcing, the learning sequence, player story,
-  Y comparison, full basic rules, signature, price, and Neo Press address.
-- The badly damaged marginal note is transcribed as fragments, not converted into
-  a fluent but fabricated summary. This is a fidelity limit, not an accepted page.
-- High-resolution review is indispensable before any missing handwritten clauses,
-  exact prices, address digits, or diagram text can be considered complete.
+- The supposed marginal note was actually the opening of the main letter. It is
+  now translated continuously rather than represented by a summary of fragments.
+- All handwritten clauses, prices, address digits, and diagram text have been
+  checked against the high-resolution scan.

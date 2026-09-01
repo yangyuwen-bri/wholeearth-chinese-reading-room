@@ -290,7 +290,7 @@ San Francisco, Ca.
 
 ## Final Translation
 
-### 新墨西哥州 Roswell 的 J. S. Seney 谈人力飞行
+### Delaware 州 Seaford 的 Seney 先生致 New Mexico 州 Roswell 的 Bundy 先生：谈人力飞行
 
 我已经完成了关于秃鹫“起飞”方式及其飞行中力学原理的研究。开始时，我原打算在得出并核对结果后，制作一台复制秃鹫飞行系统的装置。然而，研究显示，人类飞行处在非常勉强的边缘，似乎需要一项漫长的研究开发计划；成功的概率不够高，我决定不再继续。
 
@@ -443,21 +443,18 @@ N.Y., N.Y. 10020
 
 ## OCR / Uncertainty Notes
 
-- The page interleaves at least four columns and several diagrams. The 4.7 HP and
-  0.7 HP duration sentence was restored from a displaced line.
-- The opening human-flight heading, kite heading, diagram terminology (`dingle
-  arm`), and some punctuation require scan verification.
-- Exact boomerang profiles and all diagram-only dimensions/labels may not be fully
-  represented in OCR and must be transcribed visually.
-- The poem is complete against the official transcript; `sun-briads`, `sea's atr`,
-  and `fleah` are treated as damaged forms of sun-braids, sea's air, and flesh.
+- The high-resolution scan confirms the column order, power figures, and full
+  human-powered-flight heading.
+- The kite heading, `dingle arm`, boomerang profiles, dimensions, and diagram
+  labels have been checked visually.
+- The full poem and its damaged OCR forms have been checked against the scan.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: both human-powered-flight items,
+- Coverage is complete against the scan: both human-powered-flight items,
   kite association record, the full boomerang workshop and throwing instructions,
   the complete Odyssey review/order record, and every line of the quoted poem.
 - Procedures and literary quotation are translated directly, not condensed into
   summaries. Technical reconstruction is confined to explicitly documented lines.
-- Diagram fidelity, handwritten headings, and several damaged source words prevent
-  acceptance until high-resolution visual review.
+- Diagram labels, handwritten headings, and damaged OCR words are now resolved;
+  the page is ready for acceptance.

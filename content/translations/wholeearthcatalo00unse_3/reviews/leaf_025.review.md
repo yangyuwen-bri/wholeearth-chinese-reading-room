@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,8 @@ needs_highres_scan
 - Translation coverage: every recoverable medical claim, classification, dose
   reference, price, address, subscription class, scientific/common name,
   preparation step, vehicle specification, phone number, and signature remains.
-- Permitted omissions: none asserted. Two source-damaged clauses and possible
-  visual labels remain scan-verification tasks.
+- Permitted omissions: none. All visible labels and damaged clauses were checked
+  against the high-resolution scan.
 
 ## Reasons
 
@@ -23,14 +23,12 @@ needs_highres_scan
 - The drug-guide sections retain their original claims, sequence, and distinctions.
 - All order and classified-ad details are present in the reading text.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n25_w2000.jpg` to verify columns, the two damaged speed sentences,
-  scientific names, seaweed names/prices, typography, and illustration labels.
-- Confirm whether any car images have captions or model associations absent from OCR.
+- Checked the approximately 3500 × 4700 pixel scan for every column, scientific
+  and common name, seaweed price, vehicle caption, and classified-ad detail.
+- Restored the two OCR-damaged sentences at the end of the speed-effects section.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Damaged medical clauses, interleaved
-  columns, uncertain seaweed spellings, and possible non-OCR visual text prevent
-  acceptance.
+- None. All legible prose, names, prices, captions, and visual labels are represented.
