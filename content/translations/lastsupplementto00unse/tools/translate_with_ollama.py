@@ -25,69 +25,53 @@ SYSTEM = """你是《全球概览》中文阅读室的忠实翻译员。你翻�
 1. 逐项、逐段翻译证据中的全部可恢复英文，不得总结、概述、合并或删节。
 2. 必须保留标题、署名、引文、诗行、对话、价格、邮资、编号、页数、地址、表格项、表单字段、图片说明和有意义的标签。重复内容也不能压缩。
 3. 不补写背景知识，不把页面改写成百科介绍，不写“本页介绍/右栏展示/正文节选自”之类页面描述。
-4. OCR 明显损坏而无法可靠恢复的片段放进 uncertainty_notes，不猜测；不要把不确定占位符写进 final_translation。
+4. OCR 明显损坏而无法可靠恢复的片段不猜测，但不得因局部破损而删掉整段。
 5. 中文应自然可读，但原文的论证次序、语气、讽刺、粗话、犹疑和历史用语都要保留。
-6. 作品名第一次出现写中文译名（English Original）；人名可保留英文并给常用中译。
-7. 输出必须是严格 JSON，不要 Markdown 代码围栏，不要分析过程。
+6. 人名和地名保留英文原文，不自行换成另一个中文专名；作品名可写中文译名（English Original）。
+7. 只输出完整的中文译文，可使用 Markdown 标题和列表保留结构。不要 JSON，不要分析过程，不要复述英文原文。
 """
-
-SCHEMA = {
-    "type": "object",
-    "properties": {
-        "context_notes": {"type": "array", "items": {"type": "string"}},
-        "glossary_updates": {"type": "array", "items": {"type": "string"}},
-        "final_translation": {"type": "string"},
-        "uncertainty_notes": {"type": "array", "items": {"type": "string"}},
-        "self_critique": {"type": "array", "items": {"type": "string"}},
-    },
-    "required": [
-        "context_notes",
-        "glossary_updates",
-        "final_translation",
-        "uncertainty_notes",
-        "self_critique",
-    ],
-}
 
 
 def section(text: str, heading: str) -> str:
     match = re.search(
-        rf"^## {re.escape(heading)}\s*\n(.*?)(?=\n## |\Z)",
+        rf"^## {re.escape(heading)}[ \t]*\n(.*?)(?=\n## |\Z)",
         text,
         re.MULTILINE | re.DOTALL,
     )
     return match.group(1).strip() if match else ""
 
 
-def call_model(source_pack: str, leaf: int) -> dict[str, object]:
-    tesseract_path = TESSERACT_ROOT / f"leaf_{leaf:03d}.txt"
-    tesseract = tesseract_path.read_text(errors="ignore") if tesseract_path.exists() else "[not available]"
-    prompt = f"""扫描页：access leaf n{leaf}。
+def official_transcript(source_pack: str) -> str:
+    match = re.search(
+        r"^### Official OCR Line Transcript.*?^~~~text\n(.*?)^~~~[ \t]*$",
+        source_pack,
+        re.MULTILINE | re.DOTALL,
+    )
+    if not match:
+        raise RuntimeError("Official OCR transcript is missing")
+    return match.group(1).strip()
 
-下面先给出官方 Internet Archive DjVu XML 证据，再给出对 2734 像素宽高清扫描运行的独立 Tesseract OCR。两份 OCR 的行序都可能受多栏版式影响；第二份只用于补证，若冲突则不得猜测。请先识别独立文本单元，再完整翻译。final_translation 中可以用 `###` 分隔独立条目，但不要写页面说明或 QA 话语。
 
-### 官方 DjVu XML
-{source_pack}
-
-### 高清扫描 Tesseract OCR
-~~~text
-{tesseract}
-~~~
-"""
+def chat(prompt: str, system: str, *, source_words: int) -> str:
+    if source_words > 1500:
+        num_ctx, num_predict = 16384, 7000
+    elif source_words > 600:
+        num_ctx, num_predict = 8192, 5000
+    else:
+        num_ctx, num_predict = 4096, 3000
     payload = json.dumps(
         {
             "model": MODEL,
             "stream": False,
             "think": False,
-            "format": SCHEMA,
             "messages": [
-                {"role": "system", "content": SYSTEM},
+                {"role": "system", "content": system},
                 {"role": "user", "content": prompt},
             ],
             "options": {
                 "temperature": 0.1,
-                "num_ctx": 32768,
-                "num_predict": 12000,
+                "num_ctx": num_ctx,
+                "num_predict": num_predict,
             },
         }
     ).encode()
@@ -98,7 +82,66 @@ def call_model(source_pack: str, leaf: int) -> dict[str, object]:
     )
     with urllib.request.urlopen(request, timeout=3600) as response:
         envelope = json.load(response)
-    return json.loads(envelope["message"]["content"])
+    return envelope["message"]["content"].strip()
+
+
+def call_model(source_pack: str, leaf: int) -> str:
+    tesseract_path = TESSERACT_ROOT / f"leaf_{leaf:03d}.txt"
+    tesseract = tesseract_path.read_text(errors="ignore") if tesseract_path.exists() else "[not available]"
+    transcript = official_transcript(source_pack)
+    source_words_match = re.search(r";\s*([\d,]+) OCR words", source_pack)
+    source_words = int(source_words_match.group(1).replace(",", "")) if source_words_match else 0
+    # Duplicate OCR consumes scarce context and can make the model echo English.
+    # Only expose the supplemental pass when the official transcript is sparse.
+    supplement = ""
+    if source_words < 120 and tesseract.strip() not in {"", "[not available]"}:
+        supplement = f"\n\n高清扫描补充 OCR（仅用于补全官方 OCR 缺字）：\n{tesseract.strip()}"
+    prompt = f"""请将下列扫描页 OCR 按原有单元和顺序完整翻译成中文。源文中的断行与连字符多为 OCR 排版痕迹，译文应恢复正常段落。不得总结、缩写、避译或照抄英文。人名和地名直接保留原文，不要猜测中文译名；地址和书名原文可保留在中文之后。只输出译文。
+
+--- 原文开始 ---
+{transcript}
+--- 原文结束 ---{supplement}
+"""
+    return chat(prompt, SYSTEM, source_words=source_words)
+
+
+def call_model_chunked(source_pack: str, leaf: int) -> str:
+    tesseract_path = TESSERACT_ROOT / f"leaf_{leaf:03d}.txt"
+    source = (
+        tesseract_path.read_text(errors="ignore").strip()
+        if tesseract_path.exists()
+        else official_transcript(source_pack)
+    )
+    chunks: list[str] = []
+    current: list[str] = []
+    current_size = 0
+    for line in source.splitlines():
+        added = len(line) + 1
+        if current and current_size + added > 1600:
+            chunks.append("\n".join(current).strip())
+            current = []
+            current_size = 0
+        current.append(line)
+        current_size += added
+    if current:
+        chunks.append("\n".join(current).strip())
+    translations: list[str] = []
+    for index, chunk in enumerate(chunks, start=1):
+        prompt = f"""将下列英文 OCR 按原有顺序完整翻译成中文。修复 OCR 断行和行末连字号，但不得总结、缩写、遗漏或照抄英文整句。标题、署名、引文、数字、价格、地址和标签全部保留。只输出这一段的中文译文，不要说明。
+
+--- 第 {index}/{len(chunks)} 段 ---
+{chunk}
+--- 本段结束 ---
+"""
+        translated = chat(
+            prompt,
+            "你是英译中翻译器。完整翻译所有源文，只输出中文译文。",
+            source_words=max(1, len(chunk.split())),
+        )
+        if len(re.findall(r"[\u3400-\u9fff]", translated)) < 20:
+            raise RuntimeError(f"Chunk {index}/{len(chunks)} did not return Chinese")
+        translations.append(translated)
+    return "\n\n".join(translations)
 
 
 def bullets(values: object, empty: str) -> str:
@@ -109,7 +152,7 @@ def bullets(values: object, empty: str) -> str:
 
 def replace_section(text: str, heading: str, body: str) -> str:
     pattern = re.compile(
-        rf"(^## {re.escape(heading)}\s*\n)(.*?)(?=\n## |\Z)",
+        rf"(^## {re.escape(heading)}[ \t]*\n)(.*?)(?=\n## |\Z)",
         re.MULTILINE | re.DOTALL,
     )
     if not pattern.search(text):
@@ -117,21 +160,34 @@ def replace_section(text: str, heading: str, body: str) -> str:
     return pattern.sub(lambda match: f"{match.group(1)}\n{body.strip()}\n", text, count=1)
 
 
-def render(path: Path, result: dict[str, object]) -> int:
+def render(path: Path, final: str, source_words: int) -> int:
     text = path.read_text()
-    final = str(result["final_translation"]).strip()
     if len(final) < 20:
         raise RuntimeError(f"Model returned implausibly short translation for {path.name}")
-    text = replace_section(text, "Context Notes", bullets(result["context_notes"], "无补充。"))
-    text = replace_section(text, "Glossary Updates", bullets(result["glossary_updates"], "无。"))
+    cjk_count = len(re.findall(r"[\u3400-\u9fff]", final))
+    if source_words >= 20 and cjk_count < max(20, int(len(final) * 0.12)):
+        raise RuntimeError(
+            f"Model did not return a Chinese translation for {path.name}: "
+            f"{cjk_count} CJK chars in {len(final)} chars"
+        )
+    final_words = [word.lower() for word in re.findall(r"[A-Za-z]+", final)]
+    copied_run = any(
+        " ".join(final_words[index : index + 8])
+        in " ".join(word.lower() for word in re.findall(r"[A-Za-z]+", official_transcript(section(text, "Source Pack"))))
+        for index in range(max(0, len(final_words) - 7))
+    )
+    if 80 <= source_words <= 1500 and copied_run:
+        raise RuntimeError(f"Model copied a long English source span into {path.name}")
+    source_pack = section(text, "Source Pack")
+    context = "- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。"
+    if source_words < 120:
+        context = "- 官方 OCR 文字较少，已同时参照高清扫描的独立 OCR 补证；待独立复核。"
+    text = replace_section(text, "Context Notes", context)
+    text = replace_section(text, "Glossary Updates", "- 无。")
     text = replace_section(text, "Final Translation", final)
     text = replace_section(text, "Omitted Bibliographic/Order Info", "- 无。")
-    text = replace_section(
-        text,
-        "OCR / Uncertainty Notes",
-        bullets(result["uncertainty_notes"], "官方 OCR 未见无法处理的残缺；仍须对照高清扫描。"),
-    )
-    text = replace_section(text, "Self Critique", bullets(result["self_critique"], "已逐项自检；待独立复核。"))
+    text = replace_section(text, "OCR / Uncertainty Notes", "- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。")
+    text = replace_section(text, "Self Critique", "- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。")
     path.write_text(text)
     return len(final)
 
@@ -151,6 +207,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument("leaves", nargs="+", type=int)
     parser.add_argument("--force", action="store_true")
+    parser.add_argument("--chunked", action="store_true")
     return parser.parse_args()
 
 
@@ -164,8 +221,26 @@ def main() -> None:
         if current and not args.force:
             print(f"leaf {leaf:03d}: already drafted; skipped", flush=True)
             continue
-        result = call_model(section(text, "Source Pack"), leaf)
-        counts[leaf] = render(path, result)
+        source_pack = section(text, "Source Pack")
+        source_words_match = re.search(r";\s*([\d,]+) OCR words", source_pack)
+        source_words = int(source_words_match.group(1).replace(",", "")) if source_words_match else 0
+        if args.chunked:
+            final = call_model_chunked(source_pack, leaf)
+            counts[leaf] = render(path, final, source_words)
+        else:
+            last_error: RuntimeError | None = None
+            for attempt in range(1):
+                final = call_model(source_pack, leaf)
+                try:
+                    counts[leaf] = render(path, final, source_words)
+                    last_error = None
+                    break
+                except RuntimeError as error:
+                    last_error = error
+            if last_error is not None:
+                print(f"leaf {leaf:03d}: whole-page retries failed; using chunked fallback", flush=True)
+                final = call_model_chunked(source_pack, leaf)
+                counts[leaf] = render(path, final, source_words)
         update_status(counts)
         print(f"leaf {leaf:03d}: drafted ({counts[leaf]} chars)", flush=True)
 

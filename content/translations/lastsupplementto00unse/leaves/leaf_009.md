@@ -80,25 +80,45 @@ porate into its theories and strategies information abstrac ;
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+这个出版项目《全球概览》的启动与终止，是我们这个时代的独特特征和需求最清晰的体现之一。《全球概览》试图提供在地球上生存所必需的基本信息。在许多方面，《全球概览》已经取得了成功；而在它未能做到的地方，或许它所催生的继任者们，由于它早期就宣布了即将终结，终有一天会找到所需的答案。
+
+我们的历史位置是独特的，正如许多其他人，尤其是巴克敏斯特·富勒所指出的那样，因为我们是地球这个封闭行星系统的一部分。在过去，人类行为的碎片化可以被解释为他与本质上的孤立状态有关。自从第一条电报线路连接起来以来，世界逐渐、令人兴奋地变得互联起来。无线电、电话和电视未能完成的事情，很快将通过卫星系统强行灌输给许多尚未准备好的地球人。
+
+尽管也许我们世界人口中不到一半的人意识到我们本质上的互联性，但已经没有回头路了。所有问题和所有解决方案现在都是本地的，也就是全球性的。
+
+当尤里·加加林能够从太空俯瞰我们的星球时，他是第一个体验到对一个星球整体感知的物理视图的人。这里没有边界，没有界限。
+
+那些意识到我们在全球层面互相联系的人，肩负着确定无疑的行星责任。我们是第一批“行星人”。我们必须开始以行星层面的模式去感知。要对已经存在的行星能量加以熔铸和塑形，必须进行大量的文化融合。
+
+我目前正在完成一本书，书名为《不用药物便开启意识》（Turning On Without Drugs），将在今年晚些时候由 Trident Press 出版。这本书的大部分内容，将用来讨论一种“意识已开启”的社会情境所带来的社会后果；书中还会提供一份手册，描述并界定几百种旧的和新的方法，用于在不使用药物的情况下改变意识。
+
+这本书的最后一部分是一篇论文，我在其中探讨：当我们的意识已经“开启”之后，我们做什么？我的意思是：当我们已发现一些关于自己以及自己与宇宙之间关系的、基本而又可以验证的“真理”之后，我们做什么？
+
+我指的是：当我们已熟练地学会了如何主动改变自己的意识，以至于现在已拥有能让我们以新方式在当下世界行事的洞见、直觉和构想时，接下来会发生什么？我同时也是在说那种使绝大多数成年人瘫痪的“迷幻意识”策略，也就是 Timothy Leary 的“开启，调谐，退出”（Turn on, Tune in, Drop out）。
+
+我想在这里思考我那本书里更为详细处理过的一些主题。
+
+在过去二十年中，我们见证了心理学的巨大转变。心理学是研究心理过程和行为的科学。心理学的许多源头，与从病人行为中抽取出的信息有关；一些心理学形式的起源，基本上可以追溯到精神病理学。自20世纪50年代以来，尤其是在已故 Abraham Maslow 的工作推动下，心理学已开始把从健康人行为中抽取出的信息，纳入自己的理论和策略之中。
+
+*本页专名原文：Whole Earth Catalog；Bucky Fuller；When Yuri Gagarin；Withe
+Drugs；Abraham Maslow。*
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按独立复核清单逐项修订；待再次独立复核。
