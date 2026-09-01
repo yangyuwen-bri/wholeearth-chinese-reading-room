@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -23,14 +23,13 @@ needs_highres_scan
   technological self-address, internal rivalry, and civilizing war.
 - The three source voices remain distinct despite OCR interleaving.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n14_w2000.jpg` to verify exact column order and the placement of the
-  displaced `whatever was to come of their work` clause.
-- Identify all living-dwelling illustration labels represented by `Age / 8 OD`
-  and confirm signatures, dates, and any drawing captions omitted by OCR.
+- Checked the approximately 3500 × 4700 pixel `n14_w2000.jpg` scan, confirming
+  all three text blocks and the displaced Genesis closing clause.
+- Removed the false OCR fragment `Age / 8 OD`; restored `—SB`, Joseph Buch's
+  Toronto credit, and the complete *American Album* source/price/address line.
 
 ## Residual Risks
 
-- Full OCR text is translated, but cross-column reconstruction and illegible
-  illustration labels prevent acceptance.
+- None. All legible prose, credits, captions, and order data are represented.

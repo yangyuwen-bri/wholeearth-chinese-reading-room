@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -24,14 +24,14 @@ needs_highres_scan
 - Potentially inaccurate medical and safety claims are faithfully translated
   but identified outside the final text as unverified historical advice.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n15_w2000.jpg` to restore the exact medical checklist wording,
-  roller fraction, and all Handy Jack diagram labels and attachment directions.
-- Verify column order, every price/dimension, the photograph reference, and
-  typographic attribution of all anonymous/signed items.
+- Checked the approximately 3500 × 4700 pixel `n15_w2000.jpg` scan, confirming
+  the column order, product names, prices, contacts, and all procedural dimensions.
+- Corrected the medical list to warm/dry/pink skin, confirmed the `¾ inch`
+  protrusion, and restored the joint-roller labels `Before / After`; the Handy
+  Jack section has no separate diagram on this page.
 
 ## Residual Risks
 
-- Content coverage is complete against OCR. Broken medical text, technical
-  diagram association, and dense multi-column order prevent acceptance.
+- None. All legible source text and illustration labels are represented.

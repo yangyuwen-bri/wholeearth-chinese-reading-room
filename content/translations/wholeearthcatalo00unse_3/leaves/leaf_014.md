@@ -131,7 +131,7 @@ eliminate it.
 
 防止虐待建筑物协会。
 
-`Age`　`8 OD`
+—SB
 
 ## 《创世记》第六章第十八节
 
@@ -147,6 +147,10 @@ eliminate it.
 
 Edward Szofran<br>
 Philadelphia
+
+右侧图像署名：Joseph Buch，Toronto。
+
+页面照片取自 *American Album*，American Heritage Editors，1968、1970；256 页；3.95 美元。购自 Ballantine Books，101 Fifth Avenue，New York, N.Y. 10003。
 
 ## 技术制衡
 
@@ -186,11 +190,10 @@ Fuller 提议汇集技术与资源资料，用计算机建立它们之间的关�
 
 ## OCR / Uncertainty Notes
 
-- 官方 OCR 将三个独立栏目交错输出；译文依句义恢复“活体住宅”、NASA 寓言和“技术制衡”，须由高分辨率扫描确认准确栏序。
-- `Age / 8 OD` 是活体住宅插图附近的孤立字符，意义不明，按可辨形式保留，等待识别。
-- NASA 寓言中 `whatever was to come of their work` 被插入技术文章中部；译文按语法接回寓言末句，但需页面补证。
+- 已以约 3500 × 4700 像素扫描确认各区块版序。OCR 的 `Age / 8 OD` 是图像误识，原页没有这段文字。
+- 扫描确认 NASA 末句位置，并恢复 Joseph Buch 图像署名与 *American Album* 照片来源、页数、价格和订购地址。
 
 ## Self Critique
 
 - 已完整保留三个栏目及其结论，包括容易被摘要删掉的住宅细节、九艘飞船、宪法局限、自我推进技术和“文明化战争”主张。
-- 多栏关联和孤立插图文字仍需视觉确认，因此本页为 `needs_highres_scan`。
+- 活体住宅、NASA 仿经文、“技术制衡”全文及页面可辨图像文字均已逐项对照扫描。

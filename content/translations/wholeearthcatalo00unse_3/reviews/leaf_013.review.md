@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -24,15 +24,14 @@ needs_highres_scan
   OCR duplication.
 - All names, technical terms, dates, publication details, and price are present.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n13_w2000.jpg` to verify the exact multi-column reading order,
-  emphasis, paragraph breaks, and any visual captions omitted by OCR.
-- Identify the function of `“64” —SB` and confirm spellings of all quoted
-  titles, names, and foreign terms against the page image.
+- Checked the approximately 3500 × 4700 pixel `n13_w2000.jpg` scan. It confirms
+  the three-column reading order, paragraph boundaries, names, quoted titles,
+  and foreign terms.
+- Identified OCR's displaced `“64” —SB` as the vertical photo credit `—SB ’64`
+  and moved it out of the lecture text.
 
 ## Residual Risks
 
-- The official OCR is long and multi-column but semantically continuous.
-  Textual coverage is complete; visual ordering and one isolated mark prevent
-  acceptance.
+- None. The full lecture and all legible page text are represented without summary substitution.

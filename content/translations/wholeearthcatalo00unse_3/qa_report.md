@@ -9,10 +9,10 @@ This report is updated after each reviewed batch.
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 35
+- `needs_highres_scan`: 31
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 13
+- `accepted`: 17
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -122,18 +122,6 @@ This report is updated after each reviewed batch.
   `January production in the desert.` caption are translated and reviewed; cover
   imagery, caption orientation, mailing typography, and non-OCR visual text await
   scan verification.
-- `n13`: the complete Bateson lecture excerpt, publication record, and isolated
-  page mark are translated and reviewed; exact multi-column order, emphasis,
-  and the `“64” —SB` mark await scan identification.
-- `n14`: the complete living-dwelling note, NASA/Genesis parody, and technical
-  checks-and-balances editorial are translated and reviewed; a displaced clause,
-  column order, and isolated illustration marks await scan verification.
-- `n15`: all eight practical-tip/letter groups, including complete roller and
-  Handy Jack procedures, are translated and reviewed; damaged medical lines,
-  one fraction, and technical diagram labels await scan verification.
-- `n16`: the scrambler, log/firewood, complete mountain-family, redwood/globe,
-  old-magazine, leather, and full boot-repair items are translated and reviewed;
-  two technical diagrams, fractions, and visual associations await scan review.
 - `n17`: cooperative records, complete bee and worm material, the full practical
   out-of-print bibliography, and information-access contact are translated and
   reviewed; proper-name spellings, price glyphs, and column order await scans.

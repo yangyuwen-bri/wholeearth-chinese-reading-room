@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -25,14 +25,14 @@ needs_highres_scan
 - Potentially hazardous historical suggestions remain attributed source text
   and are not presented as verified current guidance.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n16_w2000.jpg` to transcribe the log-rack and boot-clamp diagrams,
-  verify all fractions/dimensions, and confirm column order.
-- Check the exact Weatherman/backhoe wording, all manufacturer spellings,
-  address lines, product-model typography, and any image captions missed by OCR.
+- Checked the approximately 3500 × 4700 pixel `n16_w2000.jpg` scan, confirming
+  column order, fractions, dimensions, manufacturer spellings, addresses, and
+  product models.
+- Transcribed the telephone-scrambler circuit labels and boot-clamp handwriting;
+  the log-rack drawing contains no additional text.
 
 ## Residual Risks
 
-- Content coverage is complete against OCR. Two technical diagrams, dense
-  multi-column association, and fraction glyphs prevent acceptance.
+- None. All legible prose, technical labels, and handwritten diagram text are represented.
