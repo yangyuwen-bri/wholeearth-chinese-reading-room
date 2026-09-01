@@ -164,15 +164,13 @@ New York, New York 10022
 
 ## OCR / Uncertainty Notes
 
-- 官方 OCR 把 `Production` 拆到页面末尾；按同一可见署名字段合并为
-  `Reich Minister of Armaments and War Production`，仍待扫描确认行序。
-- 长引文与纽伦堡图片说明在 OCR 中互相穿插；正文内容已完整翻译，但
-  图片位置、标点及标题层级仍须高分辨率扫描复核。
+- 高分辨率扫描确认，页面末尾的 `Production` 属于同一身份字段，应合并为
+  `Reich Minister of Armaments and War Production`。
+- 扫描也确认了长引文、纽伦堡图片说明、标题层级、标点和阅读顺序。
 - 原文历史政治判断与编者按均照译，不代表译者或项目立场。
 
 ## Self Critique
 
 - 已逐段核对两条标题、施佩尔长引文、图片说明、身份字段、书目价格地址
   与 SB 编者按；未将其中任何论证或历史判断压缩成摘要。
-- 未补写 OCR 之外的背景；当前唯一未闭合项是扫描所决定的版面次序与
-  个别标点。
+- 未补写原页之外的背景；扫描复核后未发现遗漏或未闭合项。

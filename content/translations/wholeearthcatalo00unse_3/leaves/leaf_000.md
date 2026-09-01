@@ -328,7 +328,7 @@ Ve 4 OTS oe ins eee oa ay : ie Re See
 
 ## OCR / Uncertainty Notes
 
-- The high-resolution proxy scan was inspected at 1761 × 2353 pixels.
+- The original high-resolution scan was inspected at 3521 × 4706 pixels.
 - Buckminster Fuller's attribution visibly prints `197?`; the unknown final digit is
   preserved rather than inferred.
 - The page carries ornamental rules and aged-paper texture but no additional wording.

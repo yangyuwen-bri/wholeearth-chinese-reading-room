@@ -56,20 +56,20 @@ January product
 
 一月号在沙漠中的制作现场。
 
+［照片：Bud DeZonia］
+
 ## Omitted Bibliographic/Order Info
 
 - None intentionally omitted. All 24 OCR words are represented.
 
 ## OCR / Uncertainty Notes
 
-- The final caption is reconstructed from the three OCR fragments `January product`,
-  `ion in`, and `the desert.`, which join exactly as `January production in the desert.`
-- The scan is required to verify caption orientation, punctuation, imagery, postal
-  typography, and any visible text that OCR did not capture.
+- The original high-resolution scan confirms the horizontal caption exactly as
+  `January production in the desert.` and shows the vertical credit `Bud DeZonia`.
+- Postal indicia, title, address, punctuation, and all visible cover text were checked.
 
 ## Self Critique
 
 - All recoverable postal and caption text is translated; no source prose is replaced
   with a descriptive summary.
-- The page remains scan-dependent because near-image-only covers are especially prone
-  to missing non-OCR labels and because the caption reading order was reconstructed.
+- Scan verification found no remaining omitted or uncertain text.

@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,7 @@ needs_highres_scan
 - Translation coverage: every recoverable date, company/person, amount, percentage,
   print/sales count, page/weight specification, issue/price, form field, roster role,
   quotation, signature, and note is represented.
-- Permitted omissions: none asserted. Form-price alignment and stray visual fragment
-  remain scan-verification tasks.
+- Permitted omissions: none.
 
 ## Reasons
 
@@ -22,13 +21,13 @@ needs_highres_scan
 - All form prices and roster entries are individually preserved.
 - Source inconsistencies, including two $7.25 subscription rows, remain visible.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n45_w2000.jpg` to verify subscription checkbox/price/starting-issue alignment,
-  names, `Rat Waterss`, report/roster boundaries, WHOOPING CRANE, Zip, and fine print.
-- Verify every roster date and collaborator attribution against layout.
+- Checked the original high-resolution scan. Each subscription price is now paired
+  with its printed starting issue; all 16 editor entries, collaborator attributions,
+  address lines, postal-code field, crane label, report boundaries, and fine print
+  are represented. The OCR-only `Rat Waterss` fragment is absent from the scan.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Subscription form alignment, stray labels,
-  names, and page graphics prevent acceptance.
+- None identified after scan verification.

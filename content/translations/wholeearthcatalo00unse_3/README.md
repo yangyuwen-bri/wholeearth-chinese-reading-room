@@ -32,6 +32,8 @@ not be used as the translation source.
 - `glossary.md`: title, name, term, and institution decisions.
 - `qa_report.md`: status counts and blockers.
 - `workflow_lessons.md`: issue-specific workflow findings and reusable lessons.
+- `tools/validate_release.py`: release gate for complete text, concrete review
+  evidence, accepted status, unresolved placeholders, and summary drift.
 - `prompts/`: prompts used for this issue.
 - `examples/`: canonical leaf and review shapes.
 - `agent_kickoff.md`: issue handoff instructions.

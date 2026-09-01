@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -10,7 +10,7 @@ needs_highres_scan
   full Menlo Park address, and the fragmented back-cover caption.
 - Translation coverage: all 24 OCR words are represented, including the caption
   reconstructed as `January production in the desert.`
-- Permitted omissions: none asserted.
+- Permitted omissions: none.
 
 ## Reasons
 
@@ -18,12 +18,12 @@ needs_highres_scan
   the issue's January desert-production context.
 - Postal class, permit status, title, street, city, state, and ZIP code remain explicit.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n47_w2000.jpg` to verify the caption's orientation and punctuation, mailing
-  indicia, address, imagery, and any text or logo absent from OCR.
+- Checked the original high-resolution scan. The horizontal caption, postal indicia,
+  title/address block, punctuation, and vertical `Bud DeZonia` photo credit are all
+  represented.
 
 ## Residual Risks
 
-- The textual reconstruction is complete against OCR, but this cover cannot be accepted
-  without a visual inventory of the scan.
+- None identified after scan verification.

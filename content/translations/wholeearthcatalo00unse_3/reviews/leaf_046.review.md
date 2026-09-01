@@ -2,18 +2,17 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
 - Source inventory: complete Portola Institute purpose, funding, experimental
   structure, project-creation description, information-request form, five-project
-  list, two postal addresses, 60 sustaining-subscriber entries, and 146
+  list, two postal addresses, 60 sustaining-subscriber entries, and 154
   retaining-subscriber entries.
 - Translation coverage: every recoverable paragraph, field label, project title,
   address, personal or institutional name, and locality is represented.
-- Permitted omissions: none asserted. Illegible roster glyphs are marked in place
-  rather than silently omitted or guessed.
+- Permitted omissions: none.
 
 ## Reasons
 
@@ -21,17 +20,15 @@ needs_highres_scan
   reduced to a description of Portola Institute.
 - Both subscriber categories are transcribed entry by entry; no aggregate summary
   substitutes for the printed names and locations.
-- The source OCR interleaves three narrow roster columns, so exact name/location
-  pairing cannot be certified from OCR alone.
+- The three printed roster columns were checked directly against the scan.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n46_w2000.jpg` column by column and verify all 206 subscriber records,
-  especially entries explicitly marked `字形不清`.
-- Verify the form geometry, category break, project/address placement, punctuation,
-  and any logos or non-OCR visual text.
+- Checked `n46` at high resolution, top-to-bottom within each column. All 214 subscriber
+  records are now paired exactly as printed: 60 sustaining and 154 retaining. The form,
+  category break, five-project list, two addresses, punctuation, and visual text were
+  also verified; all former unreadable-name placeholders were resolved.
 
 ## Residual Risks
 
-- Textual coverage is complete against recoverable OCR. Proper-name spelling,
-  three-column pairing, form layout, and visual elements prevent acceptance.
+- None identified after scan verification.

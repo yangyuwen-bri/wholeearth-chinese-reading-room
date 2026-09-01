@@ -357,17 +357,10 @@ Book People
 
 ### 订阅
 
-- 7.25 美元——五期订阅，起始期：________
-- 7.25 美元——四期订阅，起始期：________
-- 5.25 美元——三期订阅，起始期：________
-- 4.25 美元——两期订阅，起始期：________
-
-可选起始期：
-
-- 1970 年 9 月 1 美元版《Catalog》
-- 1970 年秋季号《Catalog》
-- 1971 年 1 月 1 美元版《Catalog》
-- 1971 年 3 月 1 美元版《Catalog》
+- □ 7.25 美元——五期订阅，从 1970 年 9 月 1 美元版《Catalog》开始
+- □ 7.25 美元——四期订阅，从 1970 年秋季号《Catalog》开始
+- □ 5.25 美元——三期订阅，从 1971 年 1 月 1 美元版《Catalog》开始
+- □ 4.25 美元——两期订阅，从 1971 年 3 月 1 美元版《Catalog》开始
 
 ### 单册
 
@@ -410,7 +403,15 @@ Menlo Park, California 94025
 
 如果更改地址，请告诉我们。邮局几乎从不转寄！
 
-［孤立图文标记：WHOOPING CRANE；Zip。］
+姓名／地址：
+
+______________________________
+
+______________________________
+
+______________________________　邮政编码：________
+
+［插图文字：美洲鹤（WHOOPING CRANE）。］
 
 ## Omitted Bibliographic/Order Info
 
@@ -420,14 +421,11 @@ Menlo Park, California 94025
 
 ## OCR / Uncertainty Notes
 
-- The agent report, subscription form, SB note, roster, and image labels are
-  interleaved. Their reading order was reconstructed but form alignment needs scan.
-- The five-/four-issue subscriptions both OCR as $7.25; this possible price/alignment
-  issue is retained rather than silently corrected.
-- Several names/typos and the `Rat Waterss` fragment near the 448-page sentence
-  require visual identification.
-- Checkbox placement, issue-to-start alignment, and any fine print absent from OCR
-  require high-resolution transcription.
+- The original high-resolution scan was checked against the agent report, subscription
+  form, SB note, editor roster, address lines, and crane label.
+- The source itself prints both the five- and four-issue subscriptions at $7.25; that
+  duplication is retained. Each price is now paired with its printed starting issue.
+- The apparent OCR fragment `Rat Waterss` is not present in the scan and is excluded.
 
 ## Self Critique
 
@@ -436,4 +434,4 @@ Menlo Park, California 94025
   entries, explanatory roster note, warning, and isolated labels.
 - The business history remains chronological and unabridged; it is not replaced by
   the final Random House outcome.
-- Form price alignment, stray labels, and visual layout prevent acceptance.
+- Scan verification found no remaining omitted or uncertain text.

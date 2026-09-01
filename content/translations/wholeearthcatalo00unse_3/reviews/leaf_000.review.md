@@ -14,7 +14,7 @@ accepted
 
 ## Reasons
 
-- The 1761 × 2353 scan resolves every OCR-damaged quotation and attribution.
+- The original 3521 × 4706 scan resolves every OCR-damaged quotation and attribution.
 - The printed uncertainty `Buckminster Fuller 197?` remains uncertain in Chinese;
   no year was invented.
 - The translation preserves provocative and profane historical wording rather than

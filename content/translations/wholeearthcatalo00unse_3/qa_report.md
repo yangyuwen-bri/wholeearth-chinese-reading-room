@@ -9,33 +9,16 @@ This report is updated after each reviewed batch.
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 3
+- `needs_highres_scan`: 0
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 45
+- `accepted`: 48
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- `n0`: accepted after 1761 × 2353 scan review; all 37 quotations, attributions,
-  dates, response boxes, title, date, and price are represented. The source itself
-  prints Buckminster Fuller's year as `197?`, which remains explicit.
-- `n45`: the entire chronological distribution-agent report, Random House/Dutton
-  decision, complete subscription/single/multiple form, and sixteen-entry editor
-  roster are translated and reviewed; subscription alignment, stray fragments,
-  roster layout, names, and fine print await scan verification.
-- `n46`: the complete Portola Institute description, information form, five-project
-  list, two addresses, all 60 sustaining-subscriber records, and all 146 recoverable
-  retaining-subscriber records are translated or transcribed and reviewed; exact
-  name/location pairing, proper-name glyphs, form geometry, and visual text await
-  column-by-column scan verification.
-- `n47`: all postal indicia, publication/address lines, and the reconstructed
-  `January production in the desert.` caption are translated and reviewed; cover
-  imagery, caption orientation, mailing typography, and non-OCR visual text await
-  scan verification.
-- Direct Archive download access remains unavailable, but a read-only image proxy now
-  supplies 1761 × 2353 scans. Leaf-specific visual closure is in progress; no page
-  enters `accepted` until its review requirements are checked against those scans.
+None. All 48 public leaves were checked against the original high-resolution scans
+(approximately 3500 × 4700 pixels), and every review is accepted.
 
 ## Notes
 
@@ -46,6 +29,7 @@ This report is updated after each reviewed batch.
   `n22` image/near-blank OCR page, `n44` credits and forms, and `n47` back cover.
 - No leaf may enter `accepted` with a summary, grouped entries, omitted prices,
   addresses, form labels, captions, or other legible source elements.
-- `n1` calibration draft retains the entire Speer excerpt, caption, identity
-  block, publication record, exact price/address, and signed editorial note;
-  status remains `needs_highres_scan`, not `accepted`.
+- Final release state: 48 translations, 48 independent reviews, 48 accepted leaves,
+  and zero scan or coverage blockers. Nine leaves retain 15 informational flags for
+  historical political, medical, legal, financial, or offensive source language;
+  these are context notices, not missing-translation findings.

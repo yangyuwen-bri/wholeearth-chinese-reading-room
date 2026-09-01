@@ -408,173 +408,177 @@ Menlo Park, California 94025
 
 ## 保留订户
 
-- Francis A. Martin, Jr. — San Francisco, California
-- Stewart Iglehart, Jr. — Delray Beach, Florida
-- Dave Kramer — Portland, Oregon
-- Maughn Matsuoka — Cambridge, Maryland
 - Mark Albert — San Francisco, California
-- Edmunds Enterprises — Portland, Oregon
-- Mrs. Arthur White — San Francisco, California
 - John Doss — San Francisco, California
-- Katrina Pflaumer — New York, New York
-- Thomas Crary — Bloomington, Indiana
 - Edmund Scientific Co. — Barrington, New Jersey
-- Bruce & Louisa Stark — Madison, Wisconsin
-- ZBS Media, Inc. — Ft. Edward, N.Y.
 - Henry Jacobs and Assoc. — Sausalito, California
 - Edward Rosenfeld — New York, New York
 - St. George Bryan — Maui, Hawaii
 - Geoffrey Gates — New York, New York
 - Peter Cornell — Berkeley, California
+- Bill Davis — Boulder, Colorado
+- Halbert Speer — Sea Cliff, New York
+- Constance Hwang — Berkeley, California
+- Terry Borton — Cambridge, Massachusetts
+- Frederick and Karen Worden — Sausalito, California
+- Don Winsberg — Chicago, Illinois
+- Jeffrey Mitchell — New York, New York
+- The Committee — San Francisco, California
+- Mrs. Audrey Sabol — Villanova, Pennsylvania
+- Paul Kventsky — Houston, Texas
+- Syntex Corporation — Palo Alto, California
+- Geoff Stirling — Wickenberg, Arizona
+- Bernard Loven — Minneapolis, Minnesota
+- Ronald Jorgensen — New York, New York
+- Gerald J. Driessen — Chicago, Illinois
+- Joseph L. Bridger — Woodstock, New York
+- Joe & Ann McConnell, Jr. — Point Reyes Station, California
+- Vera L. Pratt — Cambridge, Massachusetts
+- Jim Temple — Adamant, Vermont
+- Anthony D'Amato — Chicago, Illinois
+- Bill Chaitkin — Syracuse, New York
+- David M. Meggyesy — Saint Louis, Missouri
+- James J. Storrow III — New York, New York
+- Eugene Lee — Warwick, Rhode Island
+- Martin Stephen Moskof & Associates, Inc. — New York, New York
+- Mr. & Mrs. Warren Rubin — New York, New York
+- Edward Rosen — New York, New York
+- Mrs. John Hauberg — Seattle, Washington
+- David Baxter — Beverly Hills, California
+- Hendrik D. Gideonse — Washington, D.C.
+- Mr. & Mrs. Louis Mackall — Milford, Connecticut
+- Michael Dreyfuss — Trumansburg, New York
+- Barbara Schultz — Chicago, Illinois
+- Mrs. Nicholas DeWolf — Boston, Massachusetts
+- Jack Wise — Texada Island, British Columbia
+- Mr. & Mrs. David Menkin — Los Angeles, California
+- Mr. & Mrs. Fred Lazarus III — Cincinnati, Ohio
+- Mrs. Martin Dimbat — Concord, California
+- Mrs. Charlotte L. Taylor — Rochester, New York
+- D. T. Carter — USS Grant County, FPO, New York
+- Monroe Litman — New York, New York
+- Francis A. Martin, Jr. — San Francisco, California
+- Dave Kramer — Portland, Oregon
+- Edmunds Enterprises — Portland, Oregon
+- Katrina Pflaumer — New York, New York
+- Bruce & Louisa Stark — Madison, Wisconsin
 - Donal S. Jones — Washington, D.C.
 - Chris West — Taos, New Mexico
 - Charles S. Dewey, Jr. — New York, New York
 - Mark Matthews — Columbus, Ohio
 - John Craig, Jr. — Tulsa, Oklahoma
+- Norman F. Caplan — Philadelphia, Pennsylvania
+- George Towne Baker III — Fullerton, California
+- Tom & Cynthia Green — Brookeville, Maryland
+- Louise P. Smith — Hillsborough, North Carolina
+- Milo G. Clark, Jr. — San Diego, California
+- Jean Bullock — Hillsborough, California
+- Mr. & Mrs. Stephen Gerstman — Philadelphia, Pennsylvania
+- W. Cary Robinson — Washington, D.C.
+- Wendell Peabody — Boise, Idaho
+- Arthur Lundquist, Jr. — Setauket, New York
+- Bruce C. Dale — Boston, Massachusetts
+- Yann Weymouth — New York, New York
+- Rev. David C. Bergman — Burr Oak, Michigan
+- Rev. Billy Spire — Portal, Arizona
+- Tom Evans — Cambridge, Massachusetts
+- James P. Miner — Boston, Massachusetts
+- Heinz von Foerster — Urbana, Illinois
+- Lowell K. Cohn — New York, New York
+- Carl Dubitsky — Danbury, Connecticut
+- Richard and Shirley Flint — San Jose, California
+- Paul Goldsmith — New York, New York
+- Frank Millspaugh — New York, New York
+- Jay A. Richardson, President, Consumer's Grass Co. — Toronto, Canada
+- Peter Sam — San Diego, California
+- Kenneth Leonard — Urbana, Illinois
+- Kennon & Callihan — Baton Rouge, Louisiana
+- Robert Stratton — Riverdale, New York
+- Dan Brown — St. Simons Island, Georgia
+- Margaret M. Thomas — Washington, D.C.
+- Joe Richardson — San Diego, California
+- Kathleen Chase — Umbertide, Italy
+- Orsin Whyte — Accokeek, Maryland
+- Stephen Sanders — Estepona, Spain
+- W. M. Miller — Fresno, California
+- Mary Netzou — Thiensville, Wisconsin
+- Dilexi Foundation — San Francisco, California
+- Donald C. MacDonald, Jr. — Minneapolis, Minnesota
+- Queens Magazine — London, England
+- Jennifer & Bill Delafield — Philadelphia, Pennsylvania
+- James G. Mason — Chicago, Illinois
+- Don Winsberg — Chicago, Illinois
+- Stewart Iglehart, Jr. — Delray Beach, Florida
+- Maughn Matsuoka — Cambridge, Maryland
+- Mrs. Arthur White — San Francisco, California
+- Thomas Crary — Bloomington, Indiana
+- ZBS Media, Inc. — Ft. Edward, N.Y.
 - Susan & Richard Roman — Pittsburgh, Pennsylvania
 - Nelson M. Griggs — Boyds, Maryland
 - Richard Isackson — Bay City, Michigan
 - Lee Hirsey — Hancock, Massachusetts
 - W. M. Ittmann — Williamstown, Massachusetts
-- Bill Davis — Boulder, Colorado
 - John Reinemund — Los Angeles, California
-- Norman F. Caplan — Philadelphia, Pennsylvania
-- George Towne Baker III — Fullerton, California
 - Robert Zeslger — APO San Francisco, California
-- Tom & Cynthia Green — Brookeville, Maryland
 - Jerome Sands — Bethany, Connecticut
-- Jerry Borton — Cambridge, Massachusetts
-- ［姓名首部字形不清］ Smith — Hillsborough, North Carolina
 - David Baxter — Beverly Hills, California
-- Frederick and Karen Worden — Sausalito, California
-- Don Winsberg — Chicago, Illinois
-- Milo G. Clark, Jr. — San Diego, California
-- Jean Bullock — Hillsborough, California
 - Gurdon Wattles — New Haven, Connecticut
 - Hugo L. Ingram — Huntsville, Alabama
-- Jeffrey Mitchell — New York, New York
 - M. M. Newell — Albany, New York
-- Mr. & Mrs. Stephen Gerstman — Philadelphia, Pennsylvania
 - Steve & Linda Fifield — Chicago, Illinois
-- The Committee — San Francisco, California
-- W. Cary Robinson — Washington, D.C.
-- D. Morgan — Cambridge, Massachusetts
-- Mrs. Audrey Sabol — Villanova, Pennsylvania
+- H. D. Morgan — Cambridge, Massachusetts
 - D. Craig Geyer — Minneapolis, Minnesota
-- Wendell Peabody — Boise, Idaho
-- Paul Kventsky — Houston, Texas
-- Arthur Lundquist, Jr. — Setauket, New York
 - Eileen Kiesle — San Jose, California
-- Syntex Corporation — Palo Alto, California
-- Bruce C. Dale — Boston, Massachusetts
 - Bill Balsley — San Jose, California
-- Geoff Stirling — Wickenberg, Arizona
-- Yann Weymouth — New York, New York
 - Tom Chastain — Palm Beach, Florida
-- Bernard Loven — Minneapolis, Minnesota
-- Ronald Jorgensen — New York, New York
-- Gerald J. Driessen — Chicago, Illinois
-- Joseph L. Bridger — Woodstock, New York
-- Rev. David C. Bergman — Burr Oak, Michigan
-- Rev. Billy Spire — Portal, Arizona
-- Tom Evans — Cambridge, Massachusetts
-- James P. Miner — Boston, Massachusetts
 - James F. Arthur — Memphis, Tennessee
 - William R. Criss — Latana, Florida
 - Gordon & Susan Piland — Jacksonville Beach, Florida
 - James Arthur — Tennessee
-- Joe & Ann McConnell, Jr. — Point Reyes Station, California
-- ［一条姓名／地点配对字形不清］ — Missouri
-- Wer Pratt — Cambridge, Massachusetts
+- Sylvia Zilber — Silver Springs, Missouri
 - Mrs. Sooy — Charlevaux, Mississippi
-- Jim Temple — Adamant, Vermont
-- Lowell K. Cohn — New York, New York
 - Mrs. Loeb — Highland Park, Illinois
-- Carl Dubitsky — Danbury, Connecticut
 - Henry Felt — Charlestown, Massachusetts
-- Anthony D'Amato — Chicago, Illinois
-- Richard and Shirley Flint — San Jose, California
 - Bill Aycock Pottery — Huntsville, Alabama
-- Bill Chaitkin — Syracuse, New York
-- Paul Goldsmith — New York, New York
 - William & Carol Goodell — San Carlos, California
-- David M. Meggyesy — Saint Louis, Missouri
-- James J. Storrow III — New York, New York
-- Frank Millspaugh — New York, New York
-- Jay A. Richardson, President — ［机构／地点关系字形不清］
 - Sarah & Hendrik Gideonse — Washington, D.C.
 - Roland Landry — Tamal, California
-- Eugene Lee — Warwick, Rhode Island
-- ［一条 Toronto, Canada 记录姓名字形不清］
-- James Stewart Polshek & Associates, Inc. — N.Y., N.Y.
-- Kenneth Leonard — Urbana, Illinois
-- Mr. & Mrs. Warren Rubin — New York, New York
-- Kennon & Callihan — Baton Rouge, Louisiana
-- Ned ［中间名字形不清］ Bacon — Yellow Springs, Ohio
-- Edward Rosen — New York, New York
-- Robert Stratton — Riverdale, New York
+- Rev. David Lewis — Aurora, N.Y.
+- J. Sleeper — Alden, Kansas
+- James Stewart Polshek & Assoc. Architects — N.Y., N.Y.
+- Joe & Sally Bacon — Yellow Springs, Ohio
 - James S. Kolb — Washington, D.C.
-- Mrs. John Hauberg — Seattle, Washington
-- Dan Brown — St. Simons Island, Georgia
 - Jack Sidener — Western Caroline Islands
-- David Baxter — Beverly Hills, California
-- Margaret M. Thomas — Washington, D.C.
 - Martin Manasse — N.Y., N.Y.
-- Hendrik D. Gideonse — Washington, D.C.
-- Joe Richardson — San Diego, California
 - Sarah Hudson — Tyringham, Maryland
-- Mr. & Mrs. Louis Mackall — Milford, Connecticut
-- Kathleen Chase — Umbertide, Italy
 - Donald Cooke — Cambridge, Massachusetts
-- Michael Dreyfuss — Trumansburg, New York
-- Orsin Whyte — ［Maryland 地名字形不清］
-- ［姓名字形不清］ Schultz — Chicago, Illinois
-- Stephen Sanders — Estepona, Spain
+- Stephen Shore — N.Y., N.Y.
+- Laird Williamson — Austin, Texas
 - Frank Malbranche — Chicago, Illinois
-- Mrs. Nicholas DeWolf — Boston, Massachusetts
-- W. M. Miller — Fresno, California
 - James Stevens — Barrow, Arkansas
-- Jack Wise — Texada Island, British Columbia
-- Mary Netzou — Thiensville, Wisconsin
 - Moorish Orthodox Church — Boston, Massachusetts
-- Mr. & Mrs. David Menkin — Los Angeles, California
-- Dilexi Foundation — San Francisco, California
 - Ken & Donasu Carpenter — North Troy, Vermont
-- Mr. & Mrs. Fred Lazarus III — Cincinnati, Ohio
-- Donald C. MacDonald, Jr. — Minneapolis, Minnesota
 - Jean Brouning — Spring Lake, Michigan
-- Mrs. Martin Dimbat — Concord, California
-- Queens Magazine — London, England
 - Philip Ebersole — Hagerstown, Missouri
-- Mrs. Charlotte L. Taylor — Rochester, New York
-- Jennifer & Bill Delafield — Philadelphia, Pennsylvania
 - Mr. & Mrs. D. Helserman — San Diego, California
-- D. T. Carter — USS Grant County, FPO, New York
-- James G. Mason — Chicago, Illinois
 - Don & Mary Biggs — Washington, D.C.
-- Monroe Litman — New York, New York
-- Don Winsberg — Chicago, Illinois
 
 ## Omitted Bibliographic/Order Info
 
-- None intentionally omitted. The full Portola description, information-request
-  fields, project list, both addresses, and every recoverable subscriber name/location
-  pair are represented; genuinely unreadable roster lines are marked in place.
+- None. The full Portola description, information-request fields, project list, both
+  addresses, and every printed subscriber name/location pair are represented.
 
 ## OCR / Uncertainty Notes
 
-- The subscriber roster spans multiple narrow name/location columns. OCR merges
-  adjacent columns, so several pairings and spellings remain uncertain.
-- At least five retaining-subscriber records are partly illegible; no names or
-  locations are invented to fill them.
-- Exact category boundary, ordering, typography, form geometry, and any logos require
-  visual verification.
+- The original high-resolution scan was read top-to-bottom within each printed
+  name/location column. It resolves the OCR's merged columns and damaged names.
+- The print spellings and localities are retained even where they appear unusual,
+  including `Latana`, `Tamal`, `Zeslger`, and `Donasu`.
 
 ## Self Critique
 
-- Coverage is complete against recoverable official OCR: the Portola mission/funding/
+- Coverage is complete against the high-resolution scan: the Portola mission/funding/
   structure text, all five projects, all request/address fields, 60 sustaining records,
-  and every retaining record that can be paired from positional text.
+  and all 154 retaining-subscriber records.
 - The roster is transcribed entry-by-entry, not replaced with an aggregate statement.
-- Because multiple subscriber identities remain visually ambiguous, this page cannot
-  be accepted before high-resolution column-by-column transcription.
+- Scan verification found no remaining omitted or uncertain text.
