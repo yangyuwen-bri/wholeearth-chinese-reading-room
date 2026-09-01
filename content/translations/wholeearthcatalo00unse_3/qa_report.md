@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 24
+- `source_ready`: 23
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 24
+- `needs_highres_scan`: 25
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n25`–`n47`: source packs are complete; full translations,
+- `n0`, `n26`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -32,6 +32,10 @@ This report is updated after each reviewed batch.
   complete Tom Collins information letter, and the complete John Holt book,
   school-tool, stereo, trade, measuring, Maslow, and playground letter are
   translated and reviewed; model glyphs, fractions, columns, and captions await scans.
+- `n25`: the complete historical drug-guide record and excerpts, dulse/mushroom
+  letter, crystal-form contact, old-car publication records, and two classified
+  ads are translated and reviewed; two damaged clauses, scientific/product names,
+  columns, and possible visual labels await scan verification.
 - `n2`: the complete Ken Kesey interview, song, three-swordsmen story, address,
   contents tokens, and copyright notice are translated and reviewed; the
   column-scrambled contents block still requires scan reconstruction.
