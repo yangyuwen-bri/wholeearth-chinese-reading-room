@@ -167,18 +167,168 @@ Carmel, California
 
 ## Glossary Updates
 
+- lysergic acid — 麦角酸
+- trifluoroacetic anhydride — 三氟乙酸酐
+- mixed anhydride — 混合酸酐
+- acetonitrile — 乙腈
+- diethylamine — 二乙胺
+- in vacuo — 在真空中
+- throwing body — 拉坯泥料
+- grog — 熟料颗粒
+- harness frame — 综框
+- heddle — 综丝
+- warp advance — 送经
 
 ## Final Translation
 
+### 《迷幻圣餐制备指南》
+
+【译者提示：以下是 1970 年出版物的史料翻译，不是化学实验或非法药物制备指导。原页自身存在数字和步骤残损，任何人都不应据此操作。】
+
+你祈求的答案来了：《Psychedelic Guide to Preparation of the Eucharist》现在再次有售。可向我们购买，3.95 美元。我们从 Berkeley 的 Book People 进货。这本书会得到一篇配得上它的权威评论，［并］在今年 7 月的《LAST CATALOG》中刊出。
+
+#### 制备法 2
+
+**步骤 I——使用黄光**
+
+将 5.36 克 d-麦角酸悬浮在 4,125 毫升［数字可能断裂］乙腈中，再把悬浮液放入以干冰冷却的丙酮浴，使温度降至约 -20 摄氏度。向悬浮液中加入 8.82 克三氟乙酸酐溶于 75 毫升乙腈所成的冷溶液（-20 度）。让混合物在 -20 度静置约 1½ 小时；在此期间，悬浮物溶解，d-麦角酸转化为麦角酸与三氟乙酸的混合酸酐。
+
+在约 0 度以下的温度，于真空中蒸去溶剂，可以把混合酸酐以油状物分离出来。一切都必须保持无水。
+
+**步骤 II——使用红光**
+
+把步骤 I 得到的混合酸酐乙腈溶液加入 450 毫升含有 7.6 克二乙胺的乙腈。混合物在室温黑暗处放置约 2 小时。在真空中蒸去乙腈，留下 LSD-25 与其他杂质构成的残留物。
+
+将残留物溶于 150 毫升氯仿和 20 毫升冰水。移出氯仿层；水相部分［此处步骤连接残缺］，继而以四份各 50 毫升的冰冷水洗涤。再用无水 Na₂SO₄ 干燥氯仿溶液，并在真空中蒸发。
+
+**图 1 标签：** 注入酒精用橡胶管。
+
+### 关于再版的来信
+
+亲爱的《全球概览》同仁：
+
+你们在春季号《Catalog》第 99 页说，如果《Guide to the Eucharist》再版，会刊登一篇文章。现在，写这本书的那个人——一位出色的生药学家——已经把发行和印刷的全部权利交给我们，所以请写信给：
+
+Heaven-Sent<br>
+3454 Franklin<br>
+Dallas, Texas
+
+这样我们就能知道需要做什么。我们希望赶在下一期增刊付印。请尽快来信。没有 Dope，就不可能抓住未来。
+
+——匿名
+
+再见。
+
+又及：来 Austin 吃烧烤、喝啤酒吧。永远**欢迎**你们。
+
+Heaven-Sent
+
+### 来自南非的询问
+
+我研究了《Catalog》，却找不到 LSD 的相关条目。需求很大，供应很少。
+
+爱，<br>
+Len<br>
+Johannesburg, South Africa
+
+### 向监狱捐赠
+
+**RONALD REAGAN，州长**
+
+Smith 先生：
+
+借此机会感谢您最近慷慨捐赠多本《全球概览》。书已收到，目前收藏在图书馆、科学教室和图书室。
+
+再次感谢您对服刑人员的兴趣和关怀。
+
+L. S. Nelson，监狱长<br>
+K. W. Hayball，教育主管<br>
+Dept. of Corrections<br>
+CALIFORNIA STATE PRISON<br>
+San Quentin, California 94964
+
+《全球概览》收到的监狱来信多得惊人，其中很多对我们确实有用。1969 年秋季号《CATALOG》多印了约 40,000 本时，JD 负责把存书捐给各监狱。多数监狱出于［原句在此残缺］而拒收，［只有一部分］接受。我们希望各种期刊今后能把退货照例寄给学校和监狱。
+
+——SB
+
+## 投诉
+
+### Westwood Ceramics
+
+我们从 Westwood Ceramics 购买陶瓷用品已经一年多，觉得是时候评价一下他们的服务了。
+
+第一次打交道，是去他们位于加利福尼亚州 City of Industry 的办事处。那一次，我们购买了将近 100 美元的各类陶瓷杂物：工具、氧化物、基础釉料，以及几百磅炻器拉坯泥料。等了一个半小时以上，让他们把订单配齐之后，我们发现里面近三分之一的商品都错了。
+
+因为他们是西部主要的陶瓷用品供应商（据我所知，是南加州地区唯一一家），我们仍继续向他们购买。这不是因为满意，而是出于必要。
+
+他们的拉坯泥料严重不一致。我们拿到的不同批次有的太湿，有的太干，有的结块；烧成温度也常常不是太高，就是太低。熟料颗粒含量据称为 10%，实际上看来在 5% 到 25% 之间变化。
+
+同其他陶工交谈后，我们发现不只自己在抱怨。我们还听说 Westwood 在账单和发货方面出过错，虽然自己没有遇到。
+
+尽管有这些挫折，Westwood 提供的炻器类商品最齐全，低温精制黏土和釉料、浇铸材料以及制模设备的供应也不错，而且价格很好。
+
+——Chick 与 Barb，俄勒冈州 Portland
+
+### 糟糕用语
+
+所有写提案和文章的人，我们看穿你们了。
+
+只要一听见“生活方式”这个词，我们就知道有人在胡扯。
+
+——SB
+
+### Gilmore 织机
+
+……最后，你们在宣传 LeClerc 织机。它不是最好的，只是广告最多。我是一名有经验的织工，用过大多数品牌。凡真正对织布感兴趣、而不是只想玩玩样子的人，我都衷心推荐 **GILMORE**。
+
+Gilmore 更便宜、制造得更好，而且无论安装还是织造过程都高效得多。综框可以直接提出来，在两个织造项目之间迅速更换综丝；它采用独特的送经系统，升起的梭口可靠而多变；工艺无可匹敌。速度重要时，这些特点极其重要。
+
+我有一台 8 综、46 英寸、非常沉重坚固的 Gilmore（350 美元；紧凑型 315 美元）。LeClerc 与它相当的 Nilart 8 综 45 英寸型号要 457 美元（！），还更差。好好领会一下，然后索取说明册：
+
+Mr. E. E. Gilmore<br>
+Gilmore Looms<br>
+1032 North Broadway<br>
+Stockton, California 95205
+
+真诚地，<br>
+Don 与 Mikal Deese<br>
+Vancouver, B.C.
+
+### 对《The Story of Language》的异议
+
+上一期你们推荐了 Marie Pri 的《The Story of Language》。书目中列到的 Robt. A. Hall, Jr. 对这本书作了如下评价：
+
+> ［Pri 的书和另一本书、Bedmer 的《Loom of Language》］都是迎合传统误解的通俗化尝试，而我们一直试图驳斥这些误解：规定式教条主义、误解文字与语言的关系，以及以自身族群为中心的价值判断。两本书都装腔作势，充斥过时观念、错误信息和错误解释，完全具有误导性。
+
+也许你们愿意把这段话刊在增刊里。
+
+你的，<br>
+Barbara Weaver<br>
+加利福尼亚州 Carmel
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- None. All recoverable chemical quantities, prices, addresses, prison letter
+  fields, complaint figures, loom specifications, publication names, quotations,
+  signatures, and editorial attributions are retained.
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- The chemical procedure, two letters, a diagram label, and prison material are
+  heavily interleaved. Their reading order was reconstructed from XML positions.
+- The acetonitrile volume `4125 ml`, a missing aqueous-workup clause, one prison
+  refusal reason, and several headings are damaged; no technical correction is made.
+- Exact diagram geometry, source emphasis, and any non-OCR labels require visual
+  verification.
+- The historical controlled-substance procedure is translated for documentary
+  fidelity with a separate safety/legal notice, not endorsed as current guidance.
 
 ## Self Critique
 
-- Pending translation.
+- Coverage is complete against official OCR: the full recoverable two-step procedure,
+  both related letters, prison letter/editor note, complete ceramics complaint,
+  language note, full loom comparison, and book criticism.
+- The hazardous source is neither expanded nor silently repaired; damaged operations
+  remain marked. No complaint or bibliographic criticism is summarized.
+- Missing chemical/prison clauses, diagram information, and dense layout prevent
+  acceptance until high-resolution review.

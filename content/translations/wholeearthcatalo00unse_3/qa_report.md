@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 17
+- `source_ready`: 16
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 31
+- `needs_highres_scan`: 32
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n32`–`n47`: source packs are complete; full translations,
+- `n0`, `n33`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -59,6 +59,10 @@ This report is updated after each reviewed batch.
   Karma II, AFI letter/caption/Stewart response, Muir update, and Ocate note are
   translated and reviewed; columns, decorative text, damaged glyphs, and image
   associations await scan verification.
+- `n32`: the recoverable two-step historical chemical text and related letters,
+  prison acknowledgment/editor note, complete ceramics complaint, language note,
+  loom comparison, and book criticism are translated and reviewed; two missing
+  clauses, diagram text, headings, and columns await scan verification.
 - `n2`: the complete Ken Kesey interview, song, three-swordsmen story, address,
   contents tokens, and copyright notice are translated and reviewed; the
   column-scrambled contents block still requires scan reconstruction.
