@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 4
+- `source_ready`: 3
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 44
+- `needs_highres_scan`: 45
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n45`–`n47`: source packs are complete; full translations,
+- `n0`, `n46`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -111,6 +111,10 @@ This report is updated after each reviewed batch.
   details, selection criteria, checkboxes, and suggestion-form fields are translated
   and reviewed; several names/roles, one cost label, unit-cost fraction, deadline,
   form layout, and fine print require high-resolution transcription.
+- `n45`: the entire chronological distribution-agent report, Random House/Dutton
+  decision, complete subscription/single/multiple form, and sixteen-entry editor
+  roster are translated and reviewed; subscription alignment, stray fragments,
+  roster layout, names, and fine print await scan verification.
 - `n2`: the complete Ken Kesey interview, song, three-swordsmen story, address,
   contents tokens, and copyright notice are translated and reviewed; the
   column-scrambled contents block still requires scan reconstruction.
