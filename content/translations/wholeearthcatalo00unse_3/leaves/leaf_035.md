@@ -228,6 +228,8 @@ Binghamton, NY
 
 ### Hola Tso：神圣知识
 
+图片说明：Hola Tso。照片：SB，1964 年。
+
 你能否告诉我，印第安人教给了你哪些组织方面的知识？几个月前读过《Rolling Stone》里的文章，此后我一直在想这个问题。希望你能抽时间回答。
 
 爱，<br>
@@ -315,7 +317,7 @@ Johnson Reprint Corporation 刚刚出版 Edward S. Curtis 的《THE NORTH AMERIC
 - 正文布面精装单卷：25.00 美元
 - 补编共 4 卷，布面精装：每卷 30.00 美元
 
-订购用书名代码为 3393-LO68；同时写上作者与书名。如果你没法一下拿下整套，Johnson Reprints 会提供每卷内容的细分资料（涉及哪些部落）。
+订购用书名代码为 3393-L068；同时写上作者与书名。如果你没法一下拿下整套，Johnson Reprints 会提供每卷内容的细分资料（涉及哪些部落）。
 
 我还附上 Johnson Reprint 介绍现有印第安主题出版物的小册子。好好享用。
 
@@ -359,19 +361,18 @@ Mark<br>
 
 ## OCR / Uncertainty Notes
 
-- Multiple columns interleave the hide and canoe entries with catalogs and photos.
-  Reading order and image associations require scan verification.
-- The loom/model layout, exact tribe/name spellings, `stash` in the hide letter,
-  and Curtis dimensions/code glyphs remain visually risky.
-- PLUME's precise museum/store address is not present in OCR; no address is invented.
-- Any beadwork, canoe, hide, and Curtis photo captions absent from OCR require visual
-  transcription.
+- The high-resolution scan confirms column order, all photo associations, tribe and
+  person names, loom models, dimensions, prices, and craft terms.
+- It confirms that the page supplies no PLUME street address and restores the Curtis
+  title code as `3393-L068`.
+- The Hola Tso photo/copyright line, canoe identification, and Edward Curtis credit
+  are all represented.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: sacred-knowledge exchange, recording
+- Coverage is complete against the scan: sacred-knowledge exchange, recording
   record, both loom entries, hide and full canoe letters, both Curtis sales records,
   quoted reprint description, and complete anthropology-library note.
 - Catalog and craft information remains itemized; no production process, price,
   address, volume, or tribe list is replaced by summary prose.
-- Visual associations, several proper names, and diagram/image text prevent acceptance.
+- All legible prose, captions, credits, models, dimensions, and image text are represented.

@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -12,23 +12,22 @@ needs_highres_scan
 - Translation coverage: every recoverable title, address, telephone, quantity,
   price, subscription term, tribe/person, quotation, signature, caption, fragment,
   and date is represented.
-- Permitted omissions: none asserted. Illegible handwritten art text remains a
-  mandatory scan-transcription task.
+- Permitted omissions: none. Every legible handwritten line is translated; a short
+  beam segment physically hidden by overlapping paint is identified as source-obscured.
 
 ## Reasons
 
 - Both prose letters and Black Elk quotations are translated in full.
-- All readable artwork fragments are retained individually rather than synthesized.
+- The artwork is restored line by line rather than summarized or synthesized.
 - The image caption and short pamphlet record are not discarded as marginalia.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n36_w2000.jpg` to transcribe the entire central handwritten artwork and
-  verify its reading order, caption relation, proper names, titles, and typography.
-- Confirm whether any visual labels exist beyond the OCR fragments.
+- Checked the approximately 3500 × 4700 pixel scan and close crops of the central
+  artwork, restoring its rain, clay, color, sky, `HOH`, and singing lines.
+- Verified the page caption, SB 1964 credit, titles, names, newspaper records, and
+  Hungry Wolf address. No other legible visual label is omitted.
 
 ## Residual Risks
 
-- Prose coverage is complete against OCR, but the central visual/handwritten work
-  is materially incomplete. The page cannot be accepted without high-resolution
-  visual transcription.
+- None. All legible prose, handwriting, caption, credit, and visual text are represented.

@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,8 @@ needs_highres_scan
 - Translation coverage: every recoverable rabbit production figure, price, title,
   address, stove claim, temperature, book comparison, club/contact/teacher/phone,
   quotation, postscript, and signature is represented.
-- Permitted omissions: none asserted. Proper-name spellings and visual elements
-  remain scan-verification tasks.
+- Permitted omissions: none. Proper names, display text, and visual elements were
+  checked against the high-resolution scan.
 
 ## Reasons
 
@@ -22,13 +22,13 @@ needs_highres_scan
 - The medical/outdoor review retains its source qualifications and clipped price.
 - Every Aikido directory record is preserved individually, not grouped by region.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n33_w2000.jpg` to verify columns, all directory spellings/phones,
-  Rabbit resource prices, Holubar temperature notation, and the clipped book price.
-- Transcribe any club logos, product images, captions, or display labels absent from OCR.
+- Checked the approximately 3500 × 4700 pixel scan for columns, all directory
+  spellings and phones, rabbit prices, display text, and image associations.
+- Confirmed -5 degrees and that the source copy itself clips the wilderness-book
+  price; the printed author's $5.95/$6.95 estimate is retained exactly.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Dense directory layout, several proper
-  names, one clipped price, and possible visual text prevent acceptance.
+- None. All legible prose, directory fields, prices, labels, and image text are represented.

@@ -152,17 +152,27 @@ Don Fitch<br>
 
 ——Emily Kramer，Montana 州 Poplar
 
-### 图像与手写文字
+### 图像中的手写作品
 
-中央图像中可辨出的文字片段如下；其他笔迹无法可靠连成句子：
+黑板上的手写文字依照画面分行译为：
 
-- “……揉和黏土……”
-- “天空色调”
-- “云之弓”
-- “泥变成泥”
-- “创造黏土”
+> Hoh，晨雨湿润——<br>
+> 伟大的存在正在揉和黏土——<br>
+> 白色叠在棕色上，棕色叠在灰色上，灰色叠在灰色上，湿气——<br>
+> 天空低垂，越过西边台地；<br>
+> 云碗注满旱谷——<br>
+> 泥成为泥，<br>
+> 创造黏土——<br>
+> 黄色赭石；<br>
+> 黏土！<br>
+> 红叠在红上再叠在红上——黏土；<br>
+> ［横梁和颜料覆盖处仍可辨“棕色”“黏土”“湿”“黄色”等词，但原页已无法形成连续句子。］<br>
+> Hoh！天空冲刷而下；<br>
+> Hoh！我是天空；<br>
+> HOH！<br>
+> 我／我们正在歌唱。
 
-**图片说明：** Santa Fe 的 Institute of American Indian Arts。
+图片说明：Santa Fe 的 Institute of American Indian Arts。照片：SB，1964 年。
 
 ### 印第安迷小册子
 
@@ -173,8 +183,6 @@ P.O. Box 1424<br>
 Golden, British Columbia<br>
 Canada
 
-——SB，1964 年
-
 ## Omitted Bibliographic/Order Info
 
 - None. All recoverable titles, addresses, telephone, prices, subscription terms,
@@ -182,16 +190,16 @@ Canada
 
 ## OCR / Uncertainty Notes
 
-- The central art/poetry feature is primarily visual and handwriting recognition
-  failed. Only confidently recoverable fragments are represented.
-- Exact source styling, illustration labels, and the relationship among `Worn`,
-  `STAN`, `great getting mixing clay`, and the visible fragments require scan review.
-- Newspaper and proper-name spellings also require visual confirmation.
+- The high-resolution scan restores the central handwritten work line by line,
+  including the rain/clay sequence, color words, `HOH`, and final singing line.
+- A short stretch painted across the beam is physically overlapped and illegible in
+  the source image; its individually visible words are recorded without synthesis.
+- The scan confirms newspaper spellings, proper names, caption, and SB 1964 credit.
 
 ## Self Critique
 
-- Coverage is complete against official OCR for both full letters, all publication
+- Coverage is complete against the scan for both full letters, all publication
   records, both Black Elk quotations, prices, addresses, and pamphlet information.
-- The central artwork is not converted into an invented fluent poem; every readable
-  phrase is retained and the page remains explicitly unaccepted pending scan review.
-- Handwriting, layout, and any visual-only text prevent acceptance.
+- The central artwork is translated line by line rather than converted into a
+  summary; the source-obscured beam text is identified precisely at its location.
+- All legible prose, handwriting, caption, credit, and visual text are represented.

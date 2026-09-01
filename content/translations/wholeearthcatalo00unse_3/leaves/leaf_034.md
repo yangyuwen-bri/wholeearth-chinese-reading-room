@@ -175,9 +175,9 @@ Tamal Land Press, Fairfax, Ca.
 
 ### 更好的谷物磨，以及土壤书
 
-你们也许会对 C. S. Bell 的 2 型磨（2MQ）有兴趣。创刊号里，你们展示了 Bell 的小型磨，后来又换成 Corona 谷物磨。Corona 远胜 Bell 小型磨，不过 Bell 大型磨（2 号）又远胜 Corona。当然，它贵得多：约 30.00 美元，Corona 是 13.00 美元。但它完全值这个钱。在东海岸，Erewhon Trading Company 经销这款磨。
+你们也许会对 C. S. Bell 的 2 型磨（2MG）有兴趣。创刊号里，你们展示了 Bell 的小型磨，后来又换成 Corona 谷物磨。Corona 远胜 Bell 小型磨，不过 Bell 大型磨（2 号）又远胜 Corona。当然，它贵得多：约 30.00 美元，Corona 是 13.00 美元。但它完全值这个钱。在东海岸，Erewhon Trading Company 经销这款磨。
 
-另一本出色的书，是 Devin-Adair 出版的《The Soil and Health》。这是 Sir Albert Howard 在有机农业领域的经典著作。Howard 还写过《An Agricultural Testament》，并对 J. J. Rodale 等人产生了主要影响。这本书同《Plowman's Folly》《Farmers of Forty Centuries》（以及早已绝版的《Topsoil and Civilization》）一样，都是这一领域不可或缺的著作。
+另一本出色的书，是 Devin-Adair 出版的《The Soil and Health》。这是 Sir Albert Howard 在有机农业领域的经典著作。Howard 还写过《An Agricultural Testament》，并对 J. I. Rodale 等人产生了主要影响。这本书同《Plowman's Folly》《Farmers of Forty Centuries》（以及早已绝版的《Topsoil and Civilization》）一样，都是这一领域不可或缺的著作。
 
 ——Jimmy Silver，马萨诸塞州 Boston
 
@@ -198,7 +198,7 @@ Tamal Land Press, Fairfax, Ca.
 谨致问候，<br>
 Henry Abraham, M.D.<br>
 University of Arizona<br>
-Tuscon, Arizona
+Tucson, Arizona
 
 ### Nez Perce 更正
 
@@ -226,6 +226,8 @@ Moscow, ID 83843
 Iris Rothman<br>
 密歇根州 Jackson
 
+图示文字：*Cannabis sativa*；“Jimson-weed（有毒）”，*Datura stramonium*。两幅植物图均由 Ida Geary 绘制。
+
 ### “草”续篇
 
 【译者提示：以下是 1970 年关于大麻种植的历史来信，不是今天的种植、药物或法律建议。相关法律因时因地而异。】
@@ -248,7 +250,7 @@ Iris Rothman<br>
 
 ——John J. Kocher，得克萨斯州 Austin
 
-《Marin Trails》作者，2.95 美元<br>
+Ida Geary，《Marin Trails》作者；2.95 美元<br>
 Tamal Land Press, Fairfax, Ca.
 
 ## Omitted Bibliographic/Order Info
@@ -259,19 +261,19 @@ Tamal Land Press, Fairfax, Ca.
 
 ## OCR / Uncertainty Notes
 
-- The page mixes five columns/entries. Heading order and source emphasis require
-  scan verification.
-- `Soy veh`, `ore of`, `Tuscon`, `Michaocan`, and several plant-science spellings
-  are damaged or nonstandard; proper forms are not silently overclaimed.
+- The high-resolution scan confirms all columns, headings, emphasis, citations,
+  names, prices, and source spellings.
+- It restores Bell model `2MG`, `J. I. Rodale`, `Tucson`, both scientific plant
+  labels, the poisonous note, and artist/author Ida Geary.
 - The historical cannabis letter is translated in full with separate legal context;
   it is not validated or expanded into present-day cultivation guidance.
-- Any product/book images and captions absent from OCR require visual transcription.
+- The Time-Life image label and both plant illustrations are represented.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: Bell mill and all farm-book records,
+- Coverage is complete against the scan: Bell mill and all farm-book records,
   the full soybean nutrition letter/citation, complete Nez Perce correction, photo
   book price/address, and every paragraph of the cannabis letter plus author record.
 - Scientific and controversial source claims remain attributed to their writers;
   no advice section is condensed or modernized.
-- Damaged spellings, page layout, and possible visual text prevent acceptance.
+- All legible prose, scientific labels, image text, credits, and order details are represented.

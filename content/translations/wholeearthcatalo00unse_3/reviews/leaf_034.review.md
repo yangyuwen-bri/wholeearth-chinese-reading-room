@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -13,8 +13,8 @@ needs_highres_scan
 - Translation coverage: every recoverable price, title, author, edition/page cite,
   nutrient/amino-acid claim, address, leaflet number, growth time/height, publication
   month, source spelling, and order field is represented.
-- Permitted omissions: none asserted. Visual captions and damaged spellings remain
-  scan-verification tasks.
+- Permitted omissions: none. Scientific labels, credits, and damaged spellings were
+  resolved from the high-resolution scan.
 
 ## Reasons
 
@@ -23,13 +23,13 @@ needs_highres_scan
   expansion, with separate legal context.
 - Corrections and bibliographic details are fully preserved in the reading text.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n34_w2000.jpg` to verify columns, headings, product model, citations,
-  prices, proper names, scientific terms, and all display/image text.
-- Confirm the exact spelling of location/author/publisher fields and source emphasis.
+- Checked the approximately 3500 × 4700 pixel scan for columns, headings, model,
+  citations, prices, proper names, scientific labels, and source emphasis.
+- Restored `2MG`, `J. I. Rodale`, `Tucson`, the two plant names, poisonous label,
+  and the Ida Geary illustration/author credit.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Damaged names/scientific spellings,
-  dense layout, and possible non-OCR visual text prevent acceptance.
+- None. All legible prose, labels, credits, and visual text are represented.

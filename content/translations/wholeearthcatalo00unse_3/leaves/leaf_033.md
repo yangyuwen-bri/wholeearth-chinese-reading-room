@@ -445,18 +445,18 @@ George von Hilsheimer
 
 ## OCR / Uncertainty Notes
 
-- The page contains dense interleaved columns and a long club directory. Reading
-  order, exact headings, and address spelling require scan verification.
-- `Nonschauer`, `Hillo`, `Nwe England`, `Kenechi`, and other names are conservatively
-  normalized only where the intended entry is clear; exact printed forms remain risky.
-- Snow-temperature units and the clipped wilderness-book price require visual review.
-- Any club logos, images, or labels absent from OCR remain unidentified.
+- The high-resolution scan confirms column order, headings, all nineteen directory
+  entries, names, addresses, phones, contacts, and teachers.
+- It confirms the snow temperature as -5 degrees and that the wilderness-book price
+  is physically clipped in the photographed library copy; the author's $5.95/$6.95
+  estimate is itself the complete printed source.
+- The T-shirt display text and rabbit image contain no omitted caption text.
 
 ## Self Critique
 
-- Coverage is complete against official OCR: the full rabbit correction and all
+- Coverage is complete against the scan: the full rabbit correction and all
   resource records, T-shirt order, complete stove/recipe and Holubar/Angier letters,
   and all nineteen Aikido directory entries plus concluding argument.
 - Numeric production claims, comparative prices, and directory fields remain intact;
   no list is collapsed into a regional summary.
-- Proper-name spellings, dense layout, and non-OCR visual text prevent acceptance.
+- All legible prose, directory fields, prices, display text, and visual labels are represented.

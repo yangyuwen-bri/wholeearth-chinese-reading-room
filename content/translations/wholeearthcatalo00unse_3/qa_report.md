@@ -9,10 +9,10 @@ This report is updated after each reviewed batch.
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 15
+- `needs_highres_scan`: 11
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 33
+- `accepted`: 37
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -20,22 +20,6 @@ This report is updated after each reviewed batch.
 - `n0`: accepted after 1761 × 2353 scan review; all 37 quotations, attributions,
   dates, response boxes, title, date, and price are represented. The source itself
   prints Buckminster Fuller's year as `197?`, which remains explicit.
-- `n33`: the complete rabbit correction/resources, T-shirt order, stove/recipe and
-  Holubar/Angier letters, and all nineteen Aikido directory records plus concluding
-  argument are translated and reviewed; names, one clipped price, columns, and
-  visual text await scan verification.
-- `n34`: the Bell mill/farm bibliography, complete soybean letter, Nez Perce
-  correction, photo-book price note, and full historical cannabis letter/author
-  record are translated and reviewed; spellings, scientific terms, columns, and
-  possible visual text await scan verification.
-- `n35`: the sacred-knowledge exchange, recording and both loom entries, complete
-  hide/canoe letters, both Curtis sales records/prospectus, and anthropology-library
-  note are translated and reviewed; proper names, models/dimensions, columns, and
-  photo captions await scan verification.
-- `n36`: both complete book/newspaper letters, Black Elk quotations, all publication
-  and pamphlet records, image caption, and recoverable artwork fragments are
-  translated and reviewed; the materially illegible central handwritten work and
-  proper-name/layout details require high-resolution transcription.
 - `n37`: the complete Hog Farm appeal, all World Citizen declarations and two-part
   registration form, and full CIDOC review/catalog quotation are translated and
   reviewed; form geometry, ballot labels, names, columns, and possible fine print
