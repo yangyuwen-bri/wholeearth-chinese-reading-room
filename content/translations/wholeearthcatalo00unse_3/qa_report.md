@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 12
+- `source_ready`: 11
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 36
+- `needs_highres_scan`: 37
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n37`–`n47`: source packs are complete; full translations,
+- `n0`, `n38`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -79,6 +79,10 @@ This report is updated after each reviewed batch.
   and pamphlet records, image caption, and recoverable artwork fragments are
   translated and reviewed; the materially illegible central handwritten work and
   proper-name/layout details require high-resolution transcription.
+- `n37`: the complete Hog Farm appeal, all World Citizen declarations and two-part
+  registration form, and full CIDOC review/catalog quotation are translated and
+  reviewed; form geometry, ballot labels, names, columns, and possible fine print
+  await scan verification.
 - `n2`: the complete Ken Kesey interview, song, three-swordsmen story, address,
   contents tokens, and copyright notice are translated and reviewed; the
   column-scrambled contents block still requires scan reconstruction.
