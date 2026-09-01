@@ -16,6 +16,7 @@ from pathlib import Path
 
 PACKAGE = Path(__file__).resolve().parent.parent
 STATUS_PATH = PACKAGE / "status.jsonl"
+TESSERACT_ROOT = Path("/private/tmp/lastsupplementto00unse-tesseract")
 MODEL = "qwen3:14b"
 
 SYSTEM = """你是《全球概览》中文阅读室的忠实翻译员。你翻译的是 1971 年 3 月《The Last Supplement to The Whole Earth Catalog》的单个扫描页。
@@ -59,11 +60,19 @@ def section(text: str, heading: str) -> str:
 
 
 def call_model(source_pack: str, leaf: int) -> dict[str, object]:
+    tesseract_path = TESSERACT_ROOT / f"leaf_{leaf:03d}.txt"
+    tesseract = tesseract_path.read_text(errors="ignore") if tesseract_path.exists() else "[not available]"
     prompt = f"""扫描页：access leaf n{leaf}。
 
-下面是官方 Internet Archive DjVu XML 证据，行序可能受多栏版式影响。请先识别独立文本单元，再完整翻译。final_translation 中可以用 `###` 分隔独立条目，但不要写页面说明或 QA 话语。
+下面先给出官方 Internet Archive DjVu XML 证据，再给出对 2734 像素宽高清扫描运行的独立 Tesseract OCR。两份 OCR 的行序都可能受多栏版式影响；第二份只用于补证，若冲突则不得猜测。请先识别独立文本单元，再完整翻译。final_translation 中可以用 `###` 分隔独立条目，但不要写页面说明或 QA 话语。
 
+### 官方 DjVu XML
 {source_pack}
+
+### 高清扫描 Tesseract OCR
+~~~text
+{tesseract}
+~~~
 """
     payload = json.dumps(
         {

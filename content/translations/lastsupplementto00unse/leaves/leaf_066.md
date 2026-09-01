@@ -30,25 +30,28 @@ ae
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 2734 × 4212 高清扫描已核验。这是一页无对白漫画，文字仅有场景编号、货币符号和电话亭标签。
 
 ## Glossary Updates
 
+- `TELEPHONE` / `TEL`：`电话`。
 
 ## Final Translation
 
+场景编号：6；7。
+
+衣服上的符号：$。
+
+电话亭标签：电话。（完整标签出现三次，缩写 `TEL` 出现一次。）
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 高清扫描确认漫画没有对白、标题、说明或署名。
 
 ## Self Critique
 
-- Pending translation.
+- 保留了全部可见标签及其重复次数，没有把无对白漫画写成情节摘要。

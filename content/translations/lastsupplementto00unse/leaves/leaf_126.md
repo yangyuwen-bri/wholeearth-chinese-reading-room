@@ -25,25 +25,32 @@ ee nc
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 2734 × 4212 高清扫描已核验。整页为 Meher Baba 肖像、手写引文、姓名及联系地址。
 
 ## Glossary Updates
 
+- `Meher Baba`：`梅赫·巴巴（Meher Baba）`。
 
 ## Final Translation
 
+“我是亘古之人，是居于每一颗心中的那一位。因此，要爱他人，使他人幸福；即使自己要承受不便，也要服务他人——这就是爱我。”
+
+梅赫·巴巴（Meher Baba）
+
+Meher Baba Information
+
+Box 1101
+
+Berkeley, California 94701
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 和 Tesseract 均几乎为空；引文与地址由高清扫描人工逐字恢复。
 
 ## Self Critique
 
-- Pending translation.
+- 引文的命令语气、分号关系及完整邮寄地址均已保留，没有改写成教义简介。

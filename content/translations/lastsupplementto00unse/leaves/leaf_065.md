@@ -48,25 +48,24 @@ Vey
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 2727 × 4165 高清扫描已核验。这是一页无对白漫画，只有画面内一张纸上的数字 `4`。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+纸张上的数字：4。
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 高清扫描确认漫画没有对白、标题、说明或署名。
 
 ## Self Critique
 
-- Pending translation.
+- 保留唯一可见数字，没有把无文字画面改写成情节概述。

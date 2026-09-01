@@ -23,25 +23,24 @@ SR
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 2734 × 4212 高清扫描已核验。页面是一幅无标题线描，唯一文字是画家签名。
 
 ## Glossary Updates
 
+- `Guindon`：保留画家签名。
 
 ## Final Translation
 
+画家签名：Guindon。
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 高清扫描确认除签名外没有可翻译文字。
 
 ## Self Critique
 
-- Pending translation.
+- 没有用图像描述代替原文；仅保留扫描中确有的署名。
