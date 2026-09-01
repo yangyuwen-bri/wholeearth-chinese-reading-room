@@ -3,7 +3,7 @@
 阅读器采用左侧原书扫描页、右侧中文译文的对照结构，滚动时两边保持同步。
 
 共用公开入口是 `reader-prototype/index.html`，当前承载 1969 年秋季号、
-1970 年春季号、1970 年秋季号和 1974 年 *Whole Earth Epilog*。1968 年秋季号与 1969 年春季号
+1970 年春季号、1970 年秋季号、1971 年 1 月号和 1974 年 *Whole Earth Epilog*。1968 年秋季号与 1969 年春季号
 的完整译稿和独立阅读器已并入 `main`，分别位于 `reader-prototype/1968/`、
 `1969/`；两者仍需经过 Pages 集成检查后才算公开发布。
 
@@ -16,6 +16,7 @@
 | 1969 年秋季《全球概览》 | 132/132 页 accepted | 已公开 |
 | 1970 年春季《全球概览》 | 148/148 页 accepted | 已公开 |
 | 1970 年秋季《全球概览》 | 148/148 页 accepted | 已公开 |
+| 1971 年 1 月《全球概览》 | 48/48 页 accepted | 已公开 |
 | 1974 *Whole Earth Epilog* | 283 页 accepted、25 页待高清复核、14 页无需翻译 | 已公开，QA 状态继续保留 |
 
 ## 内容原则
@@ -40,7 +41,7 @@
 
 每个 leaf 只抽取 `## Final Translation`。`Source Pack`、`Context Notes`、`OCR / Uncertainty Notes`、`Self Critique`、review 文件等只用于翻译和审核，不进入读者正文。
 
-1968、1969 春季、1969 秋季、1970 春季和 1970 秋季号分别从对应的
+1968、1969 春季、1969 秋季、1970 春季、1970 秋季和 1971 年 1 月号分别从对应的
 `content/translations/<issue_id>/` 包读取相同的 `Final Translation` 区段。
 
 扫描图直接从 Internet Archive 加载：
@@ -57,11 +58,12 @@ python3 reader-prototype/1969/build_reader_data.py
 python3 reader-prototype/build_fall_1969_reader_data.py
 python3 reader-prototype/build_spring_1970_reader_data.py
 python3 reader-prototype/build_fall_1970_reader_data.py
+python3 reader-prototype/build_january_1971_reader_data.py
 cd reader-prototype
 python3 build_translation_reader_data.py
 cd ..
 python3 -m http.server 8911
-# 打开 http://127.0.0.1:8911/reader-prototype/index.html?issue=fall-1970
+# 打开 http://127.0.0.1:8911/reader-prototype/index.html?issue=january-1971
 ```
 
 `index.html` 通过 fetch 读取 JSON，必须走 HTTP，不能直接双击打开文件。
@@ -108,9 +110,11 @@ python3 build_data.py
 - `build_translation_reader_data.py` — 从 leaf 级完整译稿生成阅读器数据
 - `build_spring_1970_reader_data.py` — 生成 1970 年春季号阅读器数据
 - `build_fall_1970_reader_data.py` — 生成 1970 年秋季号阅读器数据
+- `build_january_1971_reader_data.py` — 生成 1971 年 1 月号阅读器数据
 - `data/epilog_reader.json` — 生产阅读器数据
 - `data/spring_1970_reader.json` — 1970 年春季号生产阅读器数据
 - `data/fall_1970_reader.json` — 1970 年秋季号生产阅读器数据
+- `data/january_1971_reader.json` — 1971 年 1 月号生产阅读器数据
 - `index.html` — 阅读器本体（无依赖、无构建工具）
 - `build_data.py` — 兼容入口，调用当前 leaf 级构建器
 

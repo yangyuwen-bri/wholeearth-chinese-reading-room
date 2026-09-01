@@ -472,6 +472,7 @@
     "fall-1969": "data/fall_1969_reader.json",
     "spring-1970": "data/spring_1970_reader.json",
     "fall-1970": "data/fall_1970_reader.json",
+    "january-1971": "data/january_1971_reader.json",
   };
   const dataFile = dataFiles[issue] || "data/epilog_reader.json";
   const data = await (await fetch(dataFile)).json();
@@ -632,11 +633,12 @@
   document.getElementById("leafNext").addEventListener("click", () => setLeaf(currentLeaf + 1));
 
   const navButtons = {};
-  function addNavButton(id, label) {
+  function addNavButton(id, label, leaf) {
     const btn = document.createElement("button");
     btn.textContent = label;
     btn.addEventListener("click", () => {
-      document.getElementById(id).scrollIntoView({ behavior: "smooth", block: "start" });
+      document.getElementById(id).scrollIntoView({ behavior: "auto", block: "start" });
+      if (Number.isFinite(leaf)) setLeaf(leaf);
     });
     nav.appendChild(btn);
     navButtons[id] = btn;
@@ -661,7 +663,7 @@
     preface.appendChild(el);
   });
   content.appendChild(preface);
-  addNavButton("preface", "序 · 导读");
+  addNavButton("preface", "序 · 导读", data.leaf_min ?? 0);
 
   data.chapters.forEach(chap => {
     const article = document.createElement("article");
@@ -676,7 +678,7 @@
       article.appendChild(renderSection(sec, chap));
     });
     content.appendChild(article);
-    addNavButton(chap.id, shortTitle(chap.title));
+    addNavButton(chap.id, shortTitle(chap.title), chap.leaf_start);
   });
 
   content.addEventListener("click", event => {
@@ -684,8 +686,10 @@
     if (target) setLeaf(Number(target.dataset.leaf));
     const sectionTarget = event.target.closest("a[data-target]");
     if (sectionTarget) {
-      document.getElementById(sectionTarget.dataset.target)
-        ?.scrollIntoView({ behavior: "smooth", block: "start" });
+      const section = document.getElementById(sectionTarget.dataset.target);
+      section?.scrollIntoView({ behavior: "auto", block: "start" });
+      const leaf = Number(section?.dataset.leaf);
+      if (!Number.isNaN(leaf)) setLeaf(leaf);
     }
   });
 
@@ -753,8 +757,12 @@
 
   lensModules.addEventListener("click", event => {
     const target = event.target.closest("a[data-chapter]");
-    if (target) document.getElementById(target.dataset.chapter)
-      .scrollIntoView({ behavior: "smooth", block: "start" });
+    if (target) {
+      const chapter = document.getElementById(target.dataset.chapter);
+      chapter?.scrollIntoView({ behavior: "auto", block: "start" });
+      const leaf = Number(chapter?.querySelector("section.entry")?.dataset.leaf);
+      if (!Number.isNaN(leaf)) setLeaf(leaf);
+    }
   });
 
   setLeaf(data.leaf_min ?? 0);
