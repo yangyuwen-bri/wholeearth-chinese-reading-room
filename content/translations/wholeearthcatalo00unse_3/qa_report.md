@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 22
+- `source_ready`: 21
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 26
+- `needs_highres_scan`: 27
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n27`–`n47`: source packs are complete; full translations,
+- `n0`, `n28`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -40,6 +40,10 @@ This report is updated after each reviewed batch.
   story, Go/Y comparison, complete Basic Y rules, and Mudcrack Y order record are
   translated and reviewed; severely illegible clauses, digits, the marginal note,
   and diagram text require high-resolution transcription before acceptance.
+- `n27`: both complete aviation letters, all aircraft/publication/directory ads,
+  the BD-5 news item, image source, BD-4 response, and fuselage caption are
+  translated and reviewed; technical glyphs, directory layout, columns, and
+  photo associations await scan verification.
 - `n2`: the complete Ken Kesey interview, song, three-swordsmen story, address,
   contents tokens, and copyright notice are translated and reviewed; the
   column-scrambled contents block still requires scan reconstruction.
