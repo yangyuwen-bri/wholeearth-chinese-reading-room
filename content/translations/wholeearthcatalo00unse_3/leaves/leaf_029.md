@@ -291,18 +291,191 @@ te
 
 ## Glossary Updates
 
+- bulk film loader — 散装胶卷分装器
+- leaching field — 渗滤场
+- microfiche — 缩微平片
+- slow-scan television — 慢扫描电视
+- aspect ratio — 宽高比
+- sweep rate — 扫描频率
+- carrier-current radio — 载波电流广播
+- matching and coupling unit — 匹配耦合单元
+- power splitter — 功率分配器
+- mill ends — 厂尾布
 
 ## Final Translation
 
+### 靴子、印刷与化粪池
+
+既然我要订东西，也许可以顺便提几项建议。其中有一两件你们可能已经听过，不过我觉得很好。
+
+**Frye 靴子**——相对便宜，却比 Acme 靴子耐用得多。可以用下面这种东西做防水处理。
+
+**Sno-Seal**——绝对是最棒的一小罐靴子防水剂。即使走进小溪，也能让双脚保持干燥（当然，得穿着靴子）。把它加热，擦进接缝等处；给靴子做处理时，闻起来也浓郁自然。背包、接缝和其他厚重物品也能用。Anderson & Thompson Ski Co.，Seattle, Washington。
+
+**Sprayment**——我用过的一种喷雾胶，用来装裱照片。并不十分便宜，但速度快、容易用，而且不会干裂脱胶。你大概能把它用于许多粘接工作。Scotch 制造。
+
+**Sheaffer 与 Parker 钢笔**——不是开玩笑。你有没有想过，所有铅笔头、圆珠笔芯和毡尖笔最后都去了哪里？（我现在正用毡尖笔写这封信——花了 69 美分，大概只能用一个月。）钢笔用墨水，几乎没有浪费（玻璃瓶还能回收），而且可以用一辈子；写起来也令人满足得多。啊，又看到那闪亮的墨迹了！还有……
+
+**Koh-I-Noor 制图铅笔**——一种夹铅芯的（机械式）笔杆。它夹的当然是铅芯；还能换用不同硬度和颜色的铅芯。还有……
+
+**Koh-I-Noor Rapidograph 制图笔**——在可复制图稿上完成高质量墨线最容易、最快的办法。有许多不同线宽。
+
+**Leroy 描字设备**——用于图纸等文字书写的机械导引系统。有多种字型；很好，但不便宜。不过经久耐用。
+
+（Koh-I-Noor 和 Leroy 描字设备可在任何工程用品店购买，也可向 Keuffel & Esser 购买。）
+
+**Strunk 与 White《The Elements of Style》**——那本小红书，能回答任何写作者脑中挥之不去的语法、文体、拼写和写作“规则”问题中的 99%。Macmillan 出版平装本。
+
+**Letraset 即时贴字**——可按压粘贴的字样，有数百种字型和尺寸，甚至还有符号、阴影等。优质工程用品店或美术用品店可提供目录，也可向 Letraset 索取，地址 2379 Charleston Rd., Mountain View, Calif。这东西让你轻而易举地做出（哇！）特别漂亮、可供胶印的文字，或只是整洁的标牌等。你也可以自己把它翻拍下来，尽情制作卡片或任何东西。上面的字不到 10 秒就完成了。
+
+**Watson 散装胶卷分装器**——花 8 至 10 美元买下这个小玩意，黑白胶卷成本至少能省 60%。一卷 Plus-X 在商店里可能要 1 美元，但你可以买一卷 100 英尺的长装胶片，再用可重复使用的暗盒“自己卷”，毫无浪费，每卷只需 25 至 30 美分。还可以散装其他没有单卷出售的胶片——剩余物资、古怪的彩色胶片或工业胶片。
+
+**Nikor 卷片显影罐**——这些宝贝能永远用下去！同样，它不是最便宜的，但长期来看会一遍又一遍省回它的价格。装片非常容易，也容易清洗、晾干后重新装片。有许多尺寸——不锈钢——由 Honeywell Photo Products 经销……我想是吧。这又让我想到：
+
+**Thermos 不锈钢全金属保温瓶**——没有会摔碎的玻璃内胆。随便狠摔也不会破裂或染色。我的那只满是凹痕——每一道凹痕若换成玻璃内胆，大概都得让我买个新的。约 15 至 18 美元；依然是用价格换耐久。
+
+**《Manual of Sewage Treatment Practice》**——美国公共卫生署（或卫生、教育与福利部）出版的一本平装书，提供设计良好、便宜、高效的卫生废物处理系统所需的全部资料——包括化粪池、渗滤场等。联邦机构审查这种地块内系统设计时，把它当作标准；所以只要在友善的本地下水道检查员面前挥一挥这本书，他就不会来找你麻烦。根据我的亲身经验，就美国林务局而言，它是这类工作的“圣经”。大概很便宜……
+
+你的，<br>
+Frank Barrett<br>
+科罗拉多州 Golden
+
+### 免费木结构详图
+
+你们在 1970 年春季号《Catalog》第 25 页列了 American Plywood Association。也可以考虑列入：
+
+1. American Wood Preservers Institute<br>2600 Virginia Ave. NW<br>Washington, DC 20037
+2. National Forest Products Association<br>1619 Massachusetts Ave. NW<br>Washington, DC 20036
+3. Southern Forest Products Association<br>P.O. Box 52468<br>New Orleans, Louisiana 70150
+
+这三个非营利组织（由相关行业经营）都会免费寄出涵盖极广主题的小册子，希望你会购买它们的产品。小册子是杂志尺寸，也使用同类纸张。
+
+你们的读者也许会感兴趣。若是我，我就会感兴趣，而我正是一名读者。
+
+谢谢。<br>
+James A. Webb<br>
+佛罗里达州 Coral Gables
+
+### 穷人的电视
+
+**缩微平片与缩微胶卷。** 缩微平片上究竟有哪些东西？前些时候，NCR 用整版广告介绍把经典著作拍成缩微资料、建立优质廉价图书馆的计划，但此后再无消息。Ann Arbor 的 University Microfilms 通过密歇根大学图书馆发掘冷僻书籍，以离谱的价格出售缩微胶卷，同时也拍摄数量庞大的美国期刊。据我所知，缩微平片还没有大众销售渠道，尽管便携式阅读器不到 100 美元，观看器不到 10 美元。
+
+缩微平片大概代表未来趋势，因为它储存信息的密度高于几乎任何东西，同时又有良好的随机存取能力。平片卡比纸带、缩微胶卷、CBS 正在推广的盒式 EVR 系统更容易储存和运输；更何况，它还可以低成本私自翻制……
+
+**慢扫描电视（SSTV）。** 1970 年 7 月号《73》第 22 页有一份 SSTV 书目。这个由业余无线电爱好者开发的系统，是一种低分辨率、窄带宽电视；文章说明怎样从零开始组装摄像机和接收器。规格如下：
+
+| 项目 | 规格 |
+| --- | --- |
+| 宽高比 | 1:1（正方形） |
+| 扫描频率 | 15 Hz |
+| 帧率 | 每帧 8 秒（形成 120 行画面，分辨率很低） |
+| 频率范围 | 1500–2300 Hz FM |
+| 同步脉冲 | 1200 Hz（总带宽 1100 Hz） |
+
+这意味着，任何拥有一台还算像样的录音机的人，都能把电视画面磁带通过邮件寄出去，或保存起来建立资料库。把 SSTV 接到电话线或无线电波上（嗯，业余无线电……），你就有了某种“人民的可视电话”。一套像样的设备大概不到 200 美元就能造出来——不含录音机。
+
+——Wes Plouff，密歇根州 Port Huron
+
+### 不受 FCC 管制的广播
+
+这里有一些关于 Low Power Broadcast 的资料。他们出售载波电流广播站设备。载波电流电台的覆盖范围有限，以建筑物电力系统作为天线。只要信号局限在有限区域内，就不受 FCC 管制。
+
+在 New College，我们花约 600 美元建了一座为 400 人服务的广播站。你也不必很懂电子技术。这确实是运用广播媒介的好办法。也许你们可以把他们列入《Catalog》。我很乐意替你们写篇评论。总裁 Richard Crompton 人很好；我们遇到麻烦时，他接听了我们打去的对方付费电话，帮助解决问题。
+
+Robert Swartz<br>
+Boston, Mass.
+
+Low Power Broadcast Co.<br>
+520 Lincoln Hwy.<br>
+Frazer, Pa. 19355<br>
+(215) 644-4096
+
+#### 性能规格 § 198
+
+| 项目 | 规格 |
+| --- | --- |
+| 功率输出 | 4 瓦射频载波 |
+| 输出阻抗 | 50 欧姆同轴，SO-239 接头 |
+| 音频输入 | 600 欧姆平衡音频线路，-25 dBm |
+| 音频失真 | 调制度 85% 时低于 2%，50 Hz 至 15 kHz |
+| 噪声电平 | 比满调制至少低 50 dB |
+| 音频响应 | 50 Hz 和 15 kHz 处下降 3 dB |
+| 电源输入 | 约 65 瓦，117 V、50/60 Hz |
+
+RC-6A AM 广播发射机代表 4 瓦单楼覆盖发射机的最高水平，适合载波电流或有限区域广播。它的设计建立在这样一份经验之上：自 1960 年以来，已经生产和应用了三种同类设备，共 2,000 多台。RC-6A 发射机配合 RC-T2 系列匹配耦合单元，可以为大型多层建筑提供可靠的广播级覆盖。若再使用 RC-T1 系列功率分配器，也能覆盖由相邻小楼构成的两栋或三栋建筑群。
+
+### 新建议：斧头松动问题的解决办法
+
+不用拆下横档，也能拧紧松动椅子！把椅子放倒，让松动横档朝下。将 CHAIR-LOC 瓶嘴抵住接合处，让液体慢慢渗入缝隙。
+
+不用拆下锤头或斧头，也能紧固松动的锤柄和斧柄。只需把 CHAIR-LOC 涂在安装头部的一端，略微积成一小滩，让它顺着柄孔四周渗下去。如果楔子松了，用冲子把它敲紧。也可以截下一枚 6 penny 钉，从钉头量起保留 ¾ 英寸，制成一枚能用的楔子，再沿柄端木纹方向把它敲进去。
+
+3 盎司塑料瓶，邮资已付价 1.30 美元。
+
+The Chair-Loc Company<br>
+Lakehurst, N.J. 08733
+
+来自 Roger Knights 的建议。
+
+### 没什么理由
+
+我一直很想找个借口推荐下面这些东西。它们并不真正符合《CATALOG》对“工具”的严格定义，只是些该死的好东西，却似乎被我们警觉得并不均匀的亚文化媒体漏掉了。
+
+借口：Hal 刚才说，“我这里有块空白……”
+
+若想听 Hovhaness《Mysterious Mountain》以来最好的、浪漫得超越旋律的音乐，就去找 Terry Riley 的《A Rainbow in Curved Air》；如果你更偏概念，就听他更早的《In C》。唱片好店都有。
+
+若想读革命之后关于媒介意识最出色的推想——而赌注是真正的问题：不朽——可以考虑 Norman Spinrad 的《Bug Jack Barron》。文字居然也很好。“你用你的形象操我，我也用我的形象操你”，这句话一直留在我脑中。破旧平装本。
+
+——SB
+
+### 睡袋材料
+
+既然你们就要收尾，我想最好现在补点东西。
+
+关于制作睡袋——
+
+《Light Weight Camping Equipment—and How to Make It》很有指导性，却小心翼翼，不肯给出任何会同他们自家 Gerry 产品线竞争的设计。你必须自己调整。基本内容仍然有帮助。
+
+你们所列货源的鹅绒贵得吓人。大多数羽毛供应商不愿理你，除非你一次能买约 100 磅羽绒。不过，做被子的人有时愿意出售。我以每磅 8 美元在下面这家买到：
+
+J. Schackter Co.<br>
+Allen St.<br>
+［城市字形不清］
+
+（Gerry's 每磅要 19.50 美元。）
+
+尼龙面料很难找。我惊讶地发现，Syracuse 几乎所有布料中心都不知道自家布料用了什么纤维；布料都做过强力定型，他们却只关心颜色！我找遍纽约市的成衣区，偶然走进一家昏暗小店，专卖“厂尾布”或剩余布料。我半价找到了正想要的东西——对方还笑脸相迎！
+
+Fabric Export Co.<br>
+45 Walker St.<br>
+N.Y. 13, NY
+
+长拉链很难找；尼龙制成、两头都能拉开的长拉链，例如 Waldes 拉链，更是极难找到，甚至根本找不到。Waldes 不做零售。我仍没有找到拉链，不过这个睡袋（？）暖和得很，到现在还没需要拉链。
+
+——David Briars，纽约州 Syracuse
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- None. All recoverable brands, prices, source addresses, technical specifications,
+  contacts, subscription/order terms, instructions, and signatures are retained.
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- At least three columns, several ads, a performance table, display lettering, and
+  product illustrations are interleaved. Reading order requires scan verification.
+- Brand forms `Sprament`, `Shaeffer`, `grafting pencils`, and `Leroi` are interpreted
+  as Sprayment, Sheaffer, drafting pencils, and Leroy; exact page forms need review.
+- The J. Schackter address city is illegible, and the Aerotel-like stray marks at
+  the top of the OCR require visual identification.
+- Diagram-only Chair-Loc labels and RC-6A drawing dimensions may not be fully
+  represented in OCR.
 
 ## Self Critique
 
-- Pending translation.
+- Coverage is complete against official OCR: all product recommendations, three
+  wood-association records, both poor-man's-TV technologies and full SSTV table,
+  carrier-current letter/table/description, Chair-Loc procedure, SB recommendations,
+  and the complete sleeping-bag-materials letter.
+- Lists and technical records are translated item-by-item rather than condensed.
+- Layout, brand spellings, one address, and non-OCR diagram text prevent acceptance.
