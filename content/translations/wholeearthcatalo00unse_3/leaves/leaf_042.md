@@ -166,18 +166,113 @@ vinyl. $2,000-2,500. Rents for $150/day. Other sizes and shapes (see
 
 ## Glossary Updates
 
+- lee anchor — 下风侧锚点
+- U-bolt splice — U 形螺栓接头
+- static pressure — 静压
+- D-ring — D 形环
+- thin-wall conduit — 薄壁导管
+- 10 mil vinyl — 10 密耳乙烯膜
+- pop rivet — 抽芯铆钉
+- dielectric welding — 高频介电焊接
+- membrane — 膜材
+- barnstorming — 早期巡回特技飞行
 
 ## Final Translation
 
+### 风暴中的充气软体结构
+
+有一天，制作进行到一半，风开始刮起来。风速达到每小时 25 英里时，Andy 把两台鼓风机都打开，让软体结构达到最大硬度，以免它塌下，或像帆一样飞走。风越来越大，变成了沙尘暴。
+
+Barbara 的打字机在太阳下中暑了，于是我们把机器和她都移到更阴凉的一边。突然，伴着一声令人兴奋的“砰——”，一根锚索脱开；乙烯地板抬起，把 Barbara、她的排字机和桌子一同抛向软体结构中央。她没事，排字机也没事（这是给 IBM 的用户证言）；但环境已经有点松动，不适合工作，而风还在增强。
+
+我们撤出软体结构，改在它如今高得惊人的顶部玩耍。
+
+奇怪的是，断掉的是下风侧锚点（钢缆从 U 形螺栓接头中滑出）。这意味着，最强的压力可能来自升力，软体结构正在像机翼一样工作。我们把卡车系在网上，暂时充当锚点；一阵风竟把卡车抬起，移动了 3 英尺。
+
+不过我对这些事仍有疑问，现在把它们作为挑战，投向信息充气网络。
+
+——Bud DeZonia
+
+### 搬运圆顶
+
+**图片说明：** Curtis、Joe 和 Andy 骄傲地把圆顶从临时营地带往永久营地。它正好紧贴着放在 Fred 的卡车上，但经过道路路堤时必须把它抬起来。
+
+### 美国最受欢迎的圆顶
+
+Fuller sun dome 的图纸可用 5 美元向《Popular Science》购买。这一座以 ¾ 英寸［分数字形不清］薄壁导管构成框架，用指旋螺钉和翼形螺母栓接；单层 10 密耳乙烯膜蒙皮在每个交点处悬挂于框架内侧。
+
+——Andy
+
+### 运行压力
+
+以下数据由 Dwyer 460 Air Flow Meter 测得。这台仪表在 San Francisco 的 Store Plumbers 售价 14.00 美元（其他经销商请向 Dwyer, Inc. 查询）。它很轻、方便而准确，可测量 0.01 至 1 英寸静压；也能以英尺／分钟测量气流，因此可以检查风扇或鼓风机输出，也能检查室外风速（如果灰尘不太大）。
+
+- 无风时，0.07 至 0.12 英寸静压是舒适的运行压力。
+- 要在每小时 40 至 45 英里风中保持软体结构形状，需要 0.5 英寸压力。
+- 0.45 英寸压力会让我们的带状覆盖网缝合接头过载，即织带连接 D 形环的位置（各地锚处）。我们会用更结实的线加强这些部位。
+
+### 《Inflatocookbook》
+
+这本“书”收集了一个叫 **ANT FARM**、以 California 州 Sausalito 为基地的团体所提供的陈述、事实、实物、被符号化的经验、图像、工具、宣传、爱与希望。它是一套惊人的散页，装在一个乙烯塑料文件夹里。
+
+所谓“页”，包括：自己动手所需的全部高技术内容——绳索强度、固定锚、塑料种类、边缘、形状、接头、鼓风机、抗风事项、热与阳光事项、几何形态等等；幻想——完整环境、起伏的围合体、巨蛇和双头龟；膜材与体验目录，以及不断成长的“充气网络”中其他团体的资料；还呼吁围绕充气结构开展反馈与信息交换——一个新出现的国际网络汇集点——一种不受**媒体盘剥**、把东西汇集起来的新方式。
+
+从来没有人做过这种书——甚至那些装在盒子里的可爱实验品、“杂志”也没有。
+
+我试着躺在床上读它。灾难。页面散落四周，手肘撞到同床人的耳朵，还总觉得丢失了某个关键顺序。后来，我在客厅地板上把它打开。此前我从这些家伙身上感到一种对 1920 年代巡回特技飞行、老式铁丝修补飞行员精神的敬畏；现在，取代这种感受，或与它并存的，是一种面向前方的清晰参照：我想用几美元和一些塑料，亲手建造自己的空间。它就这样进入我，进入我的意识，铺满地板的所有那些体验。书有效。你必须把它铺开，钻进去。
+
+图画清楚，图像设计是一趟彻底震撼心灵的旅程。我觉得，凡充气领域中能够被符号表达的东西，它都交给了我。我能感到，这类建筑怎样增强新的生活方式；但更重要的是，这些人怎样同这些东西一起生活——他们的游牧性，他们**预设**工作中会有审美环境，也努力创造一个能让人存续的环境。［此句末端在原页残缺。］
+
+但下面这些事让我疑惑，我也把它们作为挑战投向信息充气网络：
+
+他们没有谈电。我的意思是：这一切唯一的缺陷，是必须有一台**风扇**。（我忽然看见公元 3001 年的“教堂”——一个环境受控的充气结构，套在另外几个环境受控充气结构里——人们崇拜这台古老的 1970 年代风扇。）风扇是一切充气结构美好事物的源头。
+
+我不禁想：与自然风支撑的充气物相比，风扇支撑的充气物，是不是就像帆船上的舷外发动机；是不是就像振动不止的 Piper Cub 对滑翔机？不错，充气结构让人解放；但它们也绝望地依赖一根脐带，连在 Con-Edison 等公司身上。
+
+再把另一个没有谈到的担忧展开：气味。乙烯闻起来像工业制品。它不像天然木摇篮那样，带着木材、手汗、锯末和人类爱之劳动的气味；反而像动物学标本供应商用来保存大型哺乳动物的溶液那种刺鼻化学味，像医学院停尸房……Hudson、Chip、Joe 等人——请处理这个问题。（我希望醒来时，风扇送来的气流里飘着覆盆子与香脂树的混合香气。）
+
+最后是寒冷。夜里到底怎样给这些该死的东西供暖？对于我这种火象星座的人，没有洞穴里的火，要怎么活？
+
+——Robert Greenway
+
+《Inflatocookbook》3.00 美元（包括即将出版的增补），购买地址：
+
+ANT FARM<br>
+247 Gate 5 Road<br>
+Sausalito, California 94965
+
+### 男子宿舍圆顶
+
+这是男子宿舍（区别于格调更高的已婚者住房），一度睡了 17 个人——当时有访客——后来变得相当舒适。因为它位于温泉下方，水被引过两张水床，一张温暖，一张冰凉。
+
+在圆顶里实现无烟用火的所有尝试都失败了，直到把烟囱和烟罩一直降到地面。左边的地管用来给壁炉送入抽风空气。
+
+**圆顶节点细节：** 5 英寸金属圆片以抽芯铆钉穿过乙烯蒙皮，固定降落伞绳［后半标签字形不清］。其他可辨图注包括：“皱褶……2×4……容易扩展并漏气”“3 根大桩”“不推荐：带框边缘”。
+
+### 40 英尺乙烯充气软体结构
+
+高频介电焊接乙烯软体结构，带两台鼓风机、覆盖网和土／气锚。两扇门；乙烯材料有多种颜色和重量。售价 2,000 至 2,500 美元；租金每天 150 美元。可按订单制作其他尺寸和形状（见 pentapus）。
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- None. All recoverable wind/pressure data, instrument/order fields, construction
+  specifications, complete review/critique, names, technical fragments, product
+  inclusions, sale/rental prices, and address are retained.
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- Incident, diagrams, dorm text, review columns, and product ad are interleaved.
+  Reading order was reconstructed and requires scan verification.
+- Conduit fraction, corner/joint labels, one review sentence, `pentapus`, and several
+  diagram fragments are damaged.
+- Exact photograph and schematic associations and any non-OCR technical labels require
+  visual transcription.
 
 ## Self Critique
 
-- Pending translation.
+- Coverage is complete against official OCR: full storm incident, moving caption,
+  Popular Science dome, all pressure data, entire Inflatocookbook review and three
+  critiques, dorm/fire detail, joint fragments, and full 40-foot product record.
+- Technical figures, metaphors, complaints, and ordering terms remain explicit;
+  no review or construction section is summarized.
+- Diagram words, one sentence, fractions, and visual associations prevent acceptance.
