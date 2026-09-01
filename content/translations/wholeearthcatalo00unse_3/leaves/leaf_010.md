@@ -82,18 +82,83 @@ Wilmette, Illinois 60091
 
 ## Glossary Updates
 
+- omnibus complaint：综合投诉
+- tribal council：部落委员会
+- rookery：繁殖栖息地
+- ombudsman kit：申诉专员套件
+- citation certificate：表彰证书
 
 ## Final Translation
 
+## 综合投诉
+
+以下内容是 Friends of the Earth 的 Dave Brower 所写会员招募信的附言。
+
+Friends of the Earth<br>
+451 Pacific Ave.<br>
+San Francisco, Ca. 94133
+
+普通会员费：每年 15 美元。
+
+### 附言
+
+Pyramid Lake 部落委员会主席 James Vidovich 证词中有一段令人心痛的摘录，用它作为 Friends of the Earth 信件的结尾很合适。它让我想到，我们应当在内华达州 Pyramid Lake 设立一个小办事处，加入我们设在纽约、华盛顿、Albuquerque、Anchorage、Honolulu、Seattle、巴黎、伦敦和苏黎世，以及旧金山的那些工作据点。
+
+Vidovich 先生的关切于 1969 年在 Sacramento 表达，并在去年 9 月的 *Sierra Club Bulletin* 中受到引用：
+
+> “只要还有一座湖、一条溪、一片森林、一处草地，你们就非得管理它不可，非得给它筑坝、修渠、重新造林不可。你们非得在溪流中重新投放鱼类、建立野生动物保护区，把全部精力先花在破坏上，再通过进一步破坏来试图消除那场破坏。<br>
+>
+> “但是，你们难道不能留下一件东西不去碰，不能让一个民族安静生活吗？你们难道不能履行一项承诺吗？你们难道连一座湖、一条溪、一种几近灭绝的鱼、一处天然鹈鹕繁殖地，以及一座天然湖泊——伟大冰川时代遗留下来的伟大湖泊中最伟大的一座——都不能尊重吗？”
+
+我相信，我们在 Friends of the Earth 会始终共同怀有这样的关切。
+
+D. R. B.
+
+Pyramid Lake 附近
+
+`—SB ’63`
+
+## 公民表彰证书
+
+本证书旨在：
+
+- □ 表扬
+- □ 和／或祝贺
+
+对象：____________
+
+有关其个人或他们的事项：____________
+
+副本寄送给：____________
+
+谨建议采取的进一步行动：____________
+
+美利坚合众国公民：____________
+
+版权所有 © 1970 W. L. B［原页在此处截断］
+
+## 申诉专员套件
+
+2 美元可购得一本套件，其中有 33 张投诉卡（可作为明信片邮寄）和 33 张表彰证书（适合装框）。经销商承担运费，可享 50% 折扣。Burmeister 预计，随着销量增长，他会降低套件价格。
+
+订购地址：
+
+Warren L. Burmeister<br>
+Action Kit<br>
+922 Forest Ave.<br>
+Wilmette, Illinois 60091
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。会员费、Friends of the Earth 地址、证词来源和年份、表单字段、套件数量、售价、经销折扣及订购地址均已保留。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 公民表彰证书在官方 OCR 中与主文交错，且版权行只恢复到 `W. L. B`；需以高分辨率扫描核对表单布局和完整版权姓名。
+- `Near Pyramid Lake` 与 `—SB '63` 的关系不明，可能是照片说明与摄影署名；译文保留为独立行，等待页面确认。
+- 会员招募信称“去年 9 月”，译文按原文相对时间保留，并同时保留证词的 1969 年绝对年份。
 
 ## Self Critique
 
-- Pending translation.
+- 已覆盖整封附言、Vidovich 全段证词、组织地址与会员费、公民表彰证书全部可辨字段，以及套件邮购条件，没有只摘译环保引语。
+- 表单版式、照片署名关系和截断的版权行仍需扫描核实，因此本页暂为 `needs_highres_scan`。

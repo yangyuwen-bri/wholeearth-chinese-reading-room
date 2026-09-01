@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 38
+- `source_ready`: 37
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 10
+- `needs_highres_scan`: 11
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n10`–`n21`, `n23`–`n47`: source packs are complete; full translations,
+- `n0`, `n11`–`n21`, `n23`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -52,6 +52,10 @@ This report is updated after each reviewed batch.
 - `n9`: both Fox pollution-action reports, the complete citizen citation form,
   nova caption, and Lew Welch poem are translated and reviewed; form layout,
   column order, and one damaged publication field await scan verification.
+- `n10`: the complete Friends of the Earth postscript and Vidovich testimony,
+  citizen citation certificate, and Ombudsman Kit order record are translated
+  and reviewed; the form layout, photo-credit relation, and truncated copyright
+  line await scan verification.
 - Archive high-resolution scan access is currently unavailable from the local
   environment; drafting may proceed from official OCR, but acceptance is
   blocked until representative and leaf-specific visual checks are possible.
