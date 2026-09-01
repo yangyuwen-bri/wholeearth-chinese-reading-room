@@ -383,17 +383,13 @@ c bas
 
 出自：
 
-《路上风景》（Scenes Along the Road）
-
-照片集
+《路上风景：荒凉天使 1944–1960 年照片集》（*Scenes Along the Road: Photographs of the Desolation Angels 1944–1960*）
 
 安·查特斯（Ann Charters）编
 
 1970 年；56 页
 
 Portents / Gotham Book Mart
-
-《荒凉天使》（The Desolation Angels），1944–1960
 
 我们的这本（是 3.95 美元吗？）购自：
 

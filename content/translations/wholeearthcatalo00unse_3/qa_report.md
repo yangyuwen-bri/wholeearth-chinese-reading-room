@@ -9,10 +9,10 @@ This report is updated after each reviewed batch.
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 47
+- `needs_highres_scan`: 44
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 1
+- `accepted`: 4
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -20,9 +20,6 @@ This report is updated after each reviewed batch.
 - `n0`: accepted after 1761 × 2353 scan review; all 37 quotations, attributions,
   dates, response boxes, title, date, and price are represented. The source itself
   prints Buckminster Fuller's year as `197?`, which remains explicit.
-- `n1`: full translation and fidelity review are complete; high-resolution
-  verification of quotation/caption order and the reconstructed identity line
-  remains before acceptance.
 - `n22`: caption translation and review are complete; high-resolution review
   must prove whether any image label or edge text was missed by OCR.
 - `n23`: every gardening, Jugtown pottery, kitchen, cookbook, new-college,
@@ -125,13 +122,6 @@ This report is updated after each reviewed batch.
   `January production in the desert.` caption are translated and reviewed; cover
   imagery, caption orientation, mailing typography, and non-OCR visual text await
   scan verification.
-- `n2`: the complete Ken Kesey interview, song, three-swordsmen story, address,
-  contents tokens, and copyright notice are translated and reviewed; the
-  column-scrambled contents block still requires scan reconstruction.
-- `n3`: the complete interview continuation, Cassady quotation and publication
-  record, media dialogue, parable, basketball account, Tom Wolfe anecdote,
-  editor note, subscription price, and London address are translated and
-  reviewed; multi-column order and one damaged transition await scan review.
 - `n4`: the complete token-economy editorial, hospital-study excerpts, supply
   and demand examples, both coinage records, and British/US/Canadian token
   history are translated and reviewed; multi-column order, image labels, and

@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -19,17 +19,15 @@ needs_highres_scan
 
 - The interview's full sequence, interruptions, colloquial intensity, repeated
   questions, names, dates, address, and continuation marker are preserved.
-- The contents OCR is column-scrambled. Its tokens have been retained, but the
-  proposed title/page pairings cannot be certified without the scan.
+- The 3510 × 4704 scan resolves the contents column and confirms all thirteen
+  title/page pairings, the `Production in the desert` and `Business` entries,
+  photo caption, continuation marker, and copyright notice.
 
 ## Required Fixes
 
-- Reconstruct the complete contents block from `n2_w2000.jpg`, preserving every
-  heading, page number, column order, and any typography that changes grouping.
-- Verify the opening photo caption and whether the headline is one or multiple
-  visual units.
+- None. Missing page numbers and the misread `52` were corrected from the scan.
 
 ## Residual Risks
 
 - Historical drug, medical, political, and racist language is source content;
-  the remaining acceptance blocker is visual order and one unreadable fragment.
+  it remains visible rather than normalized or summarized.

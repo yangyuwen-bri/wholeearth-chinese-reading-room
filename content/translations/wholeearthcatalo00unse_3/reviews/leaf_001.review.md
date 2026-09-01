@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -20,19 +20,15 @@ needs_highres_scan
   and individual freedom.
 - The publication record, exact price, publisher, street address, caption,
   archival credit, and `SB` signature are retained.
-- The official OCR interrupts the quotation with the image caption and moves
-  the final fragment of `Production` to the page end. The reconstruction is
-  plausible and textually complete, but visual reading order has not yet been
-  verified against the high-resolution scan.
+- The 3514 × 4706 scan confirms the quotation is continuous below the image;
+  the caption, identity block, book record, and final `Production` word are in
+  the translated order.
 
 ## Required Fixes
 
-- Compare `n1_w2000.jpg` with the quotation/caption boundary, identity block,
-  and final `Production` fragment; correct line order or punctuation if needed.
-- Confirm whether the source visually distinguishes the two headline lines as
-  separate statements or one paired headline.
+- None.
 
 ## Residual Risks
 
-- Historical political language is faithfully retained. The remaining risk is
-  source layout, not summary drift or missing transaction data.
+- Historical political language is faithfully retained. The two headline lines
+  are visually distinct but form one paired rhetorical heading.
