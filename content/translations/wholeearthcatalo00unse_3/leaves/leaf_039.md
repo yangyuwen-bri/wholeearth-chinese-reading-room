@@ -291,18 +291,155 @@ San Francisco, California —
 
 ## Glossary Updates
 
+- correction — 勘误／更正
+- temporarily out of print — 暂时绝版
+- remaindered — 清仓处理
+- hardcover — 精装本
+- paperback — 平装本
+- cable television — 有线电视
+- video guerrilla — 录像游击队
+- little magazine — 小型文学杂志
+- small press — 小型出版社
 
 ## Final Translation
 
+## 1970 年秋季号《Catalog》更正
+
+- **《Hero With A Thousand Faces》**，第 15 页：由 2.95 美元涨至 3.95 美元。
+- **《Living on the Earth》**，第 18 页：暂时绝版；Random House 将于 4 月重印。
+- **《Canadian Wood Frame House Construction》**，第 27 页：令人难以置信。这本出色的 197 页书不是 1.95 美元，而是可以免费索取：Canadian Central Mortgage and Housing Corp., 650 Lawrence Avenue West, Toronto 7, Ontario, Canada。
+- **《Northern Cookbook》**，第 43 页：由 3.50 美元涨至 4.50 美元。
+- **《The Sinister Garden》**，第 48 页：绝版。
+- **Meadowbrook Herb Garden**，第 48 页：不提供免费目录。
+- **《Consumer Reports Buying Guide》**，第 54 页：由 1.95 美元涨至 2.65 美元。
+- **《Understanding Foundations》**，第 59 页：在《Catalog》第二次印刷中被报为绝版；看来仍然有售。
+- **《The Eagle, The Jaguar, And The Serpent》**，第 73 页：由 17.50 美元涨至 20.00 美元。
+- **Behrend's Book**，第 76 页：见下方来信。
+- **《International Film Guide》**，第 77 页：由 2.95 美元涨至 3.95 美元。
+- **《Cabinetmaking and Millwork》**，第 82 页：由 13.48 美元涨至 16.68 美元。
+- **《Henley's》**，第 99 页：向 WHOLE EARTH CATALOG 购买，价格 6.95 美元。
+- **《Bark Canoes and Skin Boats》**，第 111 页：由 3.25 美元涨至 3.75 美元。
+- **《Sometimes a Great Notion》**，第 140 页：可向我们购买，也可向 Bantam Books 购买，地址 666 Fifth Avenue, New York, N.Y. 10019。
+- **《Let Us Now Praise Famous Men》**，第 141 页：由 1.25 美元涨至 1.65 美元。
+
+### Behrend's Book 来信
+
+亲爱的 Sealander 先生：
+
+感谢您索取《Behrend's Book》。
+
+《全球概览》把我们的存货一扫而空。我觉得这件事很有意思。
+
+我们过去总是按预计三年所需数量印刷目录。这一次，我们印了 14,000 本，立刻寄出 7,500 本，又留下 7,500 本，给看过广告后索取目录的人；估计至少能用三年。第一次寄送后不久，《全球概览》列出了《Behrend's Book》，结果不到四个月，我们就发完了。
+
+我们只能说：如果你来 Chicago，或对某件具体电影设备或电影技术感兴趣，请告诉我们。我们不是最便宜的，但会让你第一次就买对东西，从而替你省钱。
+
+顺便说，如果你来，请带一部影片，让我们看看你正在做什么。
+
+Jack Behrend<br>
+总裁
+
+### 秋季号中也可由 Whole Earth Truck Store 购得的书
+
+- 《Alaska Wilderness》，第 17 页
+- 《How to Have a Green Thumb Without an Aching Back》，第 39 页
+- 《Guide to Organic Foods Shopping》，第 47 页
+- 《Boffers》，第 53 页
+- 《Guide to Filmmaking》，第 76 页
+- 《Home Tanning and Leather Making Guide》，第 116 页
+- 《Light on Yoga》，第 126 页
+- 《The Starrett Book for Student Machinists》，第 131 页
+- 《Tales of the North American Indians》，第 139 页
+
+## Shambala Booksellers：1970 秋季号《全球概览》更正
+
+- **第 121 页：** Alan Leo 所列书籍可用较低价格 7.50 美元向 SAMUEL WEISER, INC. 购买，地址 734 Broadway, New York City 10003。
+- **第 125 页：** 《The Book of the Hand》可用 4.95 美元向 OUTLET BOOK CO. 购买，地址 419 Park Ave. So., New York City 10016。
+- **第 128 页：** 《I Ching》将涨至邮资已付 6.00 美元，向 SHAMBALA BOOKSELLERS 购买，地址 2482 Telegraph Ave., Berkeley, Ca. 94704；或用 7.50 美元向 Princeton University Press 购买，地址 Princeton, N.J. 08540。
+- **第 126 页：** 《The Yoga System of Health and Relief from Tension》的精装本价格比平装本更便宜。邮资已付 1.00 美元，向 Outlet Book Co. 购买，地址 419 Park Ave. So., New York City 10016。难得有一次，精装本又漂亮又便宜。
+
+### 以前各期《Catalog》
+
+- 《Tantra Art》仍有售，但价格为 35.00 美元。
+- 《Cymatics》现在只能向 BASILIUS PRESS 购买：Guterstrasse 86, Basel, Switzerland。
+
+### 更早各期勘误
+
+- 《Man's Domain》：由 2.75 美元涨至 3.50 美元。
+- 《Physical Control of the Mind》：Harper & Row 将于 3 月推出平装本，1.95 美元。
+- 《Up the Organization》：Fawcett World 将于 3 月推出平装本，1.25 美元。
+- 《Handbook of Stitches》（3.50 美元）：据说 Van Nostrand 正在重印。
+- 出色的《How to Parent》现在已有平装本，1.25 美元，可向我们或 New American Library 购买。
+- Air Force 的《Annotated Bibliography of Basic Survival》已经绝版。
+- 《Over 2000 Free Publications》暂时绝版。在得到进一步消息前不要订购。
+
+## Peacemaker 更正，抱歉
+
+在 1970 年春季增刊中，C. J. Hinke 在谈 Peacemaker Sharing Plan 时提到我的名字（大概列在“另类生活方式”之类的标题下）。我已经收到约 20 封感兴趣者的来信，可我就是没有精力提供他们需要的资料，也没人帮我回复。
+
+**请——务必**在下一期增刊刊登通知，说明这项“计划”本身已经终止。对于想发起类似计划的人，我们唯一的建议很简单：按需要规划分享，并让小组保持在本地。我们的计划没有成功，因为成员散布全国各地，而且参与之后才暴露出他们自己都不知道存在的金钱心理障碍。
+
+我真希望你们刊出这条消息；既然你们登了 C. J. 的信，导致这堆来信直勾勾地指责我，我觉得这是你们的责任。他写信给你们之前没有同我商量，这让我很生气；因为我不会回复这些人，却又觉得自己应该回。
+
+谢谢。<br>
+Marykae Josh<br>
+Philadelphia, Pa.
+
+## Pacific Domes 报告
+
+最近兴奋事件的一些笔记：
+
+- **《New Radical Software》**：1.25 美元，地址 24 E. 22nd St., 2nd floor, NYC 10010。扩充了，变得更好，是当前录像资料中的最佳来源。
+- **《The Wired Nation》**：《The Nation》关于有线电视的特刊，35 美分，向 Nation Assoc. Inc. 购买，地址 333 6th Ave., NYC 10014。
+- **《Print Project Amerika》**：第 I 卷第 1 号，刊有 Gene Youngblood 讨论录像信息与“录像游击队”的优秀文章。五期 5 美元，也许单期 1 美元；地址 444 Central Park West 10F, NYC 10025。
+- 两份极好的地下报纸（这可是例外）：**《East Village Other》** 始终是最有分量的一份，是每周录像信息的最佳来源；版式、图像设计超前，还有 Latimer 写的离谱文章。年费 5 美元；EVO, 20 E. 12th St., NYC 10003。
+- **《Organ》**：年费 5 美元；Box 4520, Berkeley, Ca. 94704。也关注录像，还有其他好东西。
+- 这两份报纸再加《Rolling Stone》，能让你相当充分地掌握东、西海岸新闻。可向 **Underground Press Syndicate** 索取所有地下报纸的最新名单，其中包括欧洲报纸：Box 26, Village P.O., NYC 10014。
+- **新书《EST: The Steersman's Handbook / Charts of the Coming Decade of Conflict》**：L. Clark Stevens 著，1.50 美元；Capricorn Press, 705 Anacapa St., Santa Barbara, Ca. 93101。并非完全正确，但包含许多我以前没见过有人处理得这么好的思想。
+
+我想，我们会在这一带待一阵，很快会有录像带设备；希望在附近找块土地，建立一个中心，做我们正在做的任何事。一所学校，但又不是学校，因为学校就是行不通。（Cal Arts 正陷入困境；他们把 critical studies 系主任开除了，理由是太无结构。）
+
+教育体验将来自建造这个地方本身。我们会拍摄录像，继续制作 Domebooks，也许改做某种其他出版物（圆顶建筑资料正不断涌来）。但也会涉足其他东西，而录像带会成为整个计划很大的一部分。你们有没有想过，在即将出现的新有线电视系统中设法弄到一个频道，或建立一座录像游击队中心？
+
+Lloyd Kahn<br>
+Pacific Domes<br>
+Los Gatos, Ca.
+
+## 小型杂志与出版社资料
+
+- **《1970 DIRECTORY OF LITTLE MAGAZINES, Small Presses and Underground Press Newspapers》**：为写作者和图书馆提供详尽资料。每本 2.50 美元；四年订阅 8.00 美元。
+- **《SMALL PRESS REVIEW》**：报道全球小型出版活动的新闻、评论与特写。四期 3.50 美元。
+- **《DIRECTORY OF SMALL PRESS EDITORS》**：第一版，1970 年。每本 2.50 美元；四年订阅 8.00 美元。
+- **《SMALL PRESS RECORD OF BOOKS》**：按作者编排。每本 2.00 美元。
+- **组合优惠：** 寄 9.00 美元并附本广告，可得到每种《Directory》各一本、《Record》一本，以及《Small Press Review》四期订阅。
+
+DUSTbooks<br>
+5218 Scottwood Road<br>
+Paradise, California 95969
+
+［由 Tom Veitch，加利福尼亚州 San Francisco 寄来］
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- None. Every recoverable page number, price change, stock status, address, title,
+  edition note, volume/subscription term, quoted quantity, correction, signature,
+  and package offer is retained.
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- Correction lists, correspondence, and the Pacific Domes column are interleaved.
+  Reading order and exact page associations require scan verification.
+- Behrend's `fourteen thousand` versus two lots of 7,500 is internally inconsistent
+  in the source and is translated without silent arithmetic repair.
+- Several names/addresses (`Marykae Josh`, `Syniducate`, DUSTbooks typography) are
+  OCR-risky and require visual confirmation.
+- Logos, ad borders, and any fine print absent from OCR remain to be transcribed.
 
 ## Self Critique
 
-- Pending translation.
+- Coverage is complete against official OCR: all Fall and previous-catalog corrections,
+  the full Behrend and Peacemaker letters, nine Truck Store books, every Pacific
+  Domes source/update paragraph, and the complete small-press offer.
+- Each correction remains page-, title-, price-, and source-specific; no lists are
+  reduced to generic availability summaries.
+- Dense layout, source arithmetic, proper names, and visual fine print prevent acceptance.
