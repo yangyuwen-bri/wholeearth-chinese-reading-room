@@ -300,18 +300,281 @@ Washington, D.C.
 
 ## Glossary Updates
 
+- nonprofit corporation — 非营利法人
+- private foundation — 私人基金会
+- public agency — 公共机构
+- project proposal — 项目提案
+- sustaining subscriber — 持续支持订户
+- retaining subscriber — 保留订户
+- off-campus project center — 校外项目中心
 
 ## Final Translation
 
+## Portola Institute
+
+Portola Institute 于 1966 年成立，是一家非营利法人，宗旨是鼓励、组织并实施创新教育项目。该研究所依靠私人基金会和公共机构提供支持，并向它们提交具体项目提案。
+
+Portola Institute 是私人组织，无须创造利润，也无须保证“成功”，因此可以试验那些难以在结构更严密的组织内部管理的新颖、非同寻常的教育项目。出于这个原因，研究所的人员和设施有意保持小规模与灵活性。
+
+在它的框架内，只要有想法的人能让有资金的人产生兴趣，就可以创立涉及创新教育的各种项目。无论在现有部门和计划中，还是在尚未探索的学习体验领域，新项目始终都在考虑之中。
+
+《Whole Earth Catalog》只是 Portola Institute 的一个部门。其他现有活动包括：
+
+- AA Acme Art Academy
+- Big Rock Candy Mountain
+- Media Access Center
+- Music Resources Program
+- The Tree School（原 Scripps Off-Campus Center）
+
+如需了解 Portola Institute，请填写：
+
+- 请寄给我 Portola Institute 的资料。
+- 特别想了解：________
+- 姓名：________
+- 地址：________
+- 邮政编码：________
+
+关于 AA Acme Art Academy 和 Scripps Off-Campus Project Center 的询问，请寄：
+
+815 Shasta Street<br>
+Redwood City, California 94063
+
+Portola Institute, Inc.<br>
+1115 Merrill Street<br>
+Menlo Park, California 94025
+
+## 持续支持订户
+
+- Bob Mitchell — North Bergen, New Jersey
+- Guy Pignolet — Ithaca, New York
+- Camiel Productions, Inc. — Brooklyn, New York
+- Jerry Driessen — Chicago, Illinois
+- Julia Brand — Rockford, Illinois
+- Nancy Dibner — Westbrook, Maryland
+- Mary Ohlson — San Francisco, California
+- Forrest A. Richey, Jr. — Charleston, West Virginia
+- Phil & Naomi Schechter — New York, New York
+- Michael Strater — San Francisco, California
+- Frederick W. Davis — Kirkland, Washington
+- Philip Ebersole — Hagerstown, Maryland
+- Gil Walter — Chicago, Illinois
+- Clark Gesner — Brooklyn, New York
+- Susan Christian — Roxbury, Massachusetts
+- Artcraft Displays — Duluth, Minnesota
+- John E. Clay — Glencoe, Illinois
+- J. R. Getsinger — Bethesda, Maryland
+- Robert Hamburg — Andes, New York
+- Daniel M. Beach — Cambridge, Massachusetts
+- Donald R. Marsch — Chicago Heights, Illinois
+- Tom E. Stucker — Covina, California
+- Pat Canavan — East Haven, Connecticut
+- David & Rosalyn Lounsbury — Carbondale, Illinois
+- Om — East Bridgehampton, New York
+- Mrs. Alan Rosenthal — Princeton, New Jersey
+- The Gray Family — Portland, Oregon
+- Arthur Satz — New York, New York
+- Edward Voynow, Jr. — Albuquerque, New Mexico
+- Mr. & Mrs. Henry Abuza — Rockville, Connecticut
+- Nancy Dine — London, England
+- Emily & Michael Zimmer — Pembroke, Maine
+- Thomas T. Barts — Cincinnati, Ohio
+- Donald & Kit Williams — Austin, Texas
+- Ron Shendrov — Los Angeles, California
+- Harry DeValcourt — APO, N.Y.
+- Billy Woods — Phoenix, Arizona
+- Clark Gesner — Brooklyn, N.Y.
+- Jim & Bitte Miller — Geyserville, California
+- Bob & Mary Esther Woodbury — Davis, California
+- Warren Besore — Washington, D.C.
+- Walter Holtkamp — Cleveland, Ohio
+- Bruce & Karen Frishkoff — Lawrence, New York
+- Martin Manasse — New York, New York
+- Jim Zerdian — New York, New York
+- Annette & Theodore Lucas — Detroit, Michigan
+- Mark Engel — Ben Lomond, California
+- Stephen Shore — New York, New York
+- Edward Callahan — Sioux Falls, South Dakota
+- Jim Woodward — Princeton, New Jersey
+- Sid Dimond Associates, Inc. — Boston, Massachusetts
+- Mr. C. B. Robertson — Balboa, Canal Zone
+- Robert Mitchell — New Jersey
+- Joseph Myers — Lexington, North Carolina
+- Elizabeth Kent Gay — Calais, Vermont
+- Rodney Boxter — Wichita, Kansas
+- Lincoln Magill — Demarest, New Jersey
+- Victor A. Curran — Havre de Grace, Maryland
+- Irene Silverman — Ann Arbor, Michigan
+- Alex McDonell — New York, New York
+
+## 保留订户
+
+- Francis A. Martin, Jr. — San Francisco, California
+- Stewart Iglehart, Jr. — Delray Beach, Florida
+- Dave Kramer — Portland, Oregon
+- Maughn Matsuoka — Cambridge, Maryland
+- Mark Albert — San Francisco, California
+- Edmunds Enterprises — Portland, Oregon
+- Mrs. Arthur White — San Francisco, California
+- John Doss — San Francisco, California
+- Katrina Pflaumer — New York, New York
+- Thomas Crary — Bloomington, Indiana
+- Edmund Scientific Co. — Barrington, New Jersey
+- Bruce & Louisa Stark — Madison, Wisconsin
+- ZBS Media, Inc. — Ft. Edward, N.Y.
+- Henry Jacobs and Assoc. — Sausalito, California
+- Edward Rosenfeld — New York, New York
+- St. George Bryan — Maui, Hawaii
+- Geoffrey Gates — New York, New York
+- Peter Cornell — Berkeley, California
+- Donal S. Jones — Washington, D.C.
+- Chris West — Taos, New Mexico
+- Charles S. Dewey, Jr. — New York, New York
+- Mark Matthews — Columbus, Ohio
+- John Craig, Jr. — Tulsa, Oklahoma
+- Susan & Richard Roman — Pittsburgh, Pennsylvania
+- Nelson M. Griggs — Boyds, Maryland
+- Richard Isackson — Bay City, Michigan
+- Lee Hirsey — Hancock, Massachusetts
+- W. M. Ittmann — Williamstown, Massachusetts
+- Bill Davis — Boulder, Colorado
+- John Reinemund — Los Angeles, California
+- Norman F. Caplan — Philadelphia, Pennsylvania
+- George Towne Baker III — Fullerton, California
+- Robert Zeslger — APO San Francisco, California
+- Tom & Cynthia Green — Brookeville, Maryland
+- Jerome Sands — Bethany, Connecticut
+- Jerry Borton — Cambridge, Massachusetts
+- ［姓名首部字形不清］ Smith — Hillsborough, North Carolina
+- David Baxter — Beverly Hills, California
+- Frederick and Karen Worden — Sausalito, California
+- Don Winsberg — Chicago, Illinois
+- Milo G. Clark, Jr. — San Diego, California
+- Jean Bullock — Hillsborough, California
+- Gurdon Wattles — New Haven, Connecticut
+- Hugo L. Ingram — Huntsville, Alabama
+- Jeffrey Mitchell — New York, New York
+- M. M. Newell — Albany, New York
+- Mr. & Mrs. Stephen Gerstman — Philadelphia, Pennsylvania
+- Steve & Linda Fifield — Chicago, Illinois
+- The Committee — San Francisco, California
+- W. Cary Robinson — Washington, D.C.
+- D. Morgan — Cambridge, Massachusetts
+- Mrs. Audrey Sabol — Villanova, Pennsylvania
+- D. Craig Geyer — Minneapolis, Minnesota
+- Wendell Peabody — Boise, Idaho
+- Paul Kventsky — Houston, Texas
+- Arthur Lundquist, Jr. — Setauket, New York
+- Eileen Kiesle — San Jose, California
+- Syntex Corporation — Palo Alto, California
+- Bruce C. Dale — Boston, Massachusetts
+- Bill Balsley — San Jose, California
+- Geoff Stirling — Wickenberg, Arizona
+- Yann Weymouth — New York, New York
+- Tom Chastain — Palm Beach, Florida
+- Bernard Loven — Minneapolis, Minnesota
+- Ronald Jorgensen — New York, New York
+- Gerald J. Driessen — Chicago, Illinois
+- Joseph L. Bridger — Woodstock, New York
+- Rev. David C. Bergman — Burr Oak, Michigan
+- Rev. Billy Spire — Portal, Arizona
+- Tom Evans — Cambridge, Massachusetts
+- James P. Miner — Boston, Massachusetts
+- James F. Arthur — Memphis, Tennessee
+- William R. Criss — Latana, Florida
+- Gordon & Susan Piland — Jacksonville Beach, Florida
+- James Arthur — Tennessee
+- Joe & Ann McConnell, Jr. — Point Reyes Station, California
+- ［一条姓名／地点配对字形不清］ — Missouri
+- Wer Pratt — Cambridge, Massachusetts
+- Mrs. Sooy — Charlevaux, Mississippi
+- Jim Temple — Adamant, Vermont
+- Lowell K. Cohn — New York, New York
+- Mrs. Loeb — Highland Park, Illinois
+- Carl Dubitsky — Danbury, Connecticut
+- Henry Felt — Charlestown, Massachusetts
+- Anthony D'Amato — Chicago, Illinois
+- Richard and Shirley Flint — San Jose, California
+- Bill Aycock Pottery — Huntsville, Alabama
+- Bill Chaitkin — Syracuse, New York
+- Paul Goldsmith — New York, New York
+- William & Carol Goodell — San Carlos, California
+- David M. Meggyesy — Saint Louis, Missouri
+- James J. Storrow III — New York, New York
+- Frank Millspaugh — New York, New York
+- Jay A. Richardson, President — ［机构／地点关系字形不清］
+- Sarah & Hendrik Gideonse — Washington, D.C.
+- Roland Landry — Tamal, California
+- Eugene Lee — Warwick, Rhode Island
+- ［一条 Toronto, Canada 记录姓名字形不清］
+- James Stewart Polshek & Associates, Inc. — N.Y., N.Y.
+- Kenneth Leonard — Urbana, Illinois
+- Mr. & Mrs. Warren Rubin — New York, New York
+- Kennon & Callihan — Baton Rouge, Louisiana
+- Ned ［中间名字形不清］ Bacon — Yellow Springs, Ohio
+- Edward Rosen — New York, New York
+- Robert Stratton — Riverdale, New York
+- James S. Kolb — Washington, D.C.
+- Mrs. John Hauberg — Seattle, Washington
+- Dan Brown — St. Simons Island, Georgia
+- Jack Sidener — Western Caroline Islands
+- David Baxter — Beverly Hills, California
+- Margaret M. Thomas — Washington, D.C.
+- Martin Manasse — N.Y., N.Y.
+- Hendrik D. Gideonse — Washington, D.C.
+- Joe Richardson — San Diego, California
+- Sarah Hudson — Tyringham, Maryland
+- Mr. & Mrs. Louis Mackall — Milford, Connecticut
+- Kathleen Chase — Umbertide, Italy
+- Donald Cooke — Cambridge, Massachusetts
+- Michael Dreyfuss — Trumansburg, New York
+- Orsin Whyte — ［Maryland 地名字形不清］
+- ［姓名字形不清］ Schultz — Chicago, Illinois
+- Stephen Sanders — Estepona, Spain
+- Frank Malbranche — Chicago, Illinois
+- Mrs. Nicholas DeWolf — Boston, Massachusetts
+- W. M. Miller — Fresno, California
+- James Stevens — Barrow, Arkansas
+- Jack Wise — Texada Island, British Columbia
+- Mary Netzou — Thiensville, Wisconsin
+- Moorish Orthodox Church — Boston, Massachusetts
+- Mr. & Mrs. David Menkin — Los Angeles, California
+- Dilexi Foundation — San Francisco, California
+- Ken & Donasu Carpenter — North Troy, Vermont
+- Mr. & Mrs. Fred Lazarus III — Cincinnati, Ohio
+- Donald C. MacDonald, Jr. — Minneapolis, Minnesota
+- Jean Brouning — Spring Lake, Michigan
+- Mrs. Martin Dimbat — Concord, California
+- Queens Magazine — London, England
+- Philip Ebersole — Hagerstown, Missouri
+- Mrs. Charlotte L. Taylor — Rochester, New York
+- Jennifer & Bill Delafield — Philadelphia, Pennsylvania
+- Mr. & Mrs. D. Helserman — San Diego, California
+- D. T. Carter — USS Grant County, FPO, New York
+- James G. Mason — Chicago, Illinois
+- Don & Mary Biggs — Washington, D.C.
+- Monroe Litman — New York, New York
+- Don Winsberg — Chicago, Illinois
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- None intentionally omitted. The full Portola description, information-request
+  fields, project list, both addresses, and every recoverable subscriber name/location
+  pair are represented; genuinely unreadable roster lines are marked in place.
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- The subscriber roster spans multiple narrow name/location columns. OCR merges
+  adjacent columns, so several pairings and spellings remain uncertain.
+- At least five retaining-subscriber records are partly illegible; no names or
+  locations are invented to fill them.
+- Exact category boundary, ordering, typography, form geometry, and any logos require
+  visual verification.
 
 ## Self Critique
 
-- Pending translation.
+- Coverage is complete against recoverable official OCR: the Portola mission/funding/
+  structure text, all five projects, all request/address fields, 60 sustaining records,
+  and every retaining record that can be paired from positional text.
+- The roster is transcribed entry-by-entry, not replaced with an aggregate statement.
+- Because multiple subscriber identities remain visually ambiguous, this page cannot
+  be accepted before high-resolution column-by-column transcription.
