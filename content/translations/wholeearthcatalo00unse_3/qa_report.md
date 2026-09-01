@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 31
+- `source_ready`: 30
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 17
+- `needs_highres_scan`: 18
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n17`–`n21`, `n23`–`n47`: source packs are complete; full translations,
+- `n0`, `n18`–`n21`, `n23`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -75,6 +75,9 @@ This report is updated after each reviewed batch.
 - `n16`: the scrambler, log/firewood, complete mountain-family, redwood/globe,
   old-magazine, leather, and full boot-repair items are translated and reviewed;
   two technical diagrams, fractions, and visual associations await scan review.
+- `n17`: cooperative records, complete bee and worm material, the full practical
+  out-of-print bibliography, and information-access contact are translated and
+  reviewed; proper-name spellings, price glyphs, and column order await scans.
 - Archive high-resolution scan access is currently unavailable from the local
   environment; drafting may proceed from official OCR, but acceptance is
   blocked until representative and leaf-specific visual checks are possible.
