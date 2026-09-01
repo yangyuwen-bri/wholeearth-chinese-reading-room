@@ -5,20 +5,21 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 1
+- `source_ready`: 0
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
 - `needs_highres_scan`: 47
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 0
+- `accepted`: 1
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
 
-- `n0`: source pack is complete; full translation,
-  independent reviews, and orchestrator gates remain to be completed.
+- `n0`: accepted after 1761 × 2353 scan review; all 37 quotations, attributions,
+  dates, response boxes, title, date, and price are represented. The source itself
+  prints Buckminster Fuller's year as `197?`, which remains explicit.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
   remains before acceptance.
@@ -190,9 +191,9 @@ This report is updated after each reviewed batch.
 - `n21`: complete bagpipe, record-society, practice, Gurian instrument catalog,
   and stereo-discount material is translated and reviewed; model alignment,
   one price, and isolated visual text await scan verification.
-- Archive high-resolution scan access is currently unavailable from the local
-  environment; drafting may proceed from official OCR, but acceptance is
-  blocked until representative and leaf-specific visual checks are possible.
+- Direct Archive download access remains unavailable, but a read-only image proxy now
+  supplies 1761 × 2353 scans. Leaf-specific visual closure is in progress; no page
+  enters `accepted` until its review requirements are checked against those scans.
 
 ## Notes
 
