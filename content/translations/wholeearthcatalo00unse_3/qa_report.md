@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 46
+- `source_ready`: 45
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 2
+- `needs_highres_scan`: 3
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,13 +17,16 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n2`–`n21`, `n23`–`n47`: source packs are complete; full translations,
+- `n0`, `n3`–`n21`, `n23`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
   remains before acceptance.
 - `n22`: caption translation and review are complete; high-resolution review
   must prove whether any image label or edge text was missed by OCR.
+- `n2`: the complete Ken Kesey interview, song, three-swordsmen story, address,
+  contents tokens, and copyright notice are translated and reviewed; the
+  column-scrambled contents block still requires scan reconstruction.
 - Archive high-resolution scan access is currently unavailable from the local
   environment; drafting may proceed from official OCR, but acceptance is
   blocked until representative and leaf-specific visual checks are possible.

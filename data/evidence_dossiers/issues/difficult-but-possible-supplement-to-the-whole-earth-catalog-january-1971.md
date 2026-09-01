@@ -1,4 +1,4 @@
-# Difficult But Possible Supplement to the Whole Earth Catalog, January 1971
+# Whole Earth Catalog, January 1971
 
 - identifier: `wholeearthcatalo00unse_3`
 - year: 1971

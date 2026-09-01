@@ -3,7 +3,6 @@
 | English | Chinese | Type | Status | Notes |
 | --- | --- | --- | --- | --- |
 | Whole Earth Catalog | 《全球概览》 | publication | accepted | Continue established project title. |
-| Difficult But Possible Supplement | 《困难但可能》增刊 | publication | accepted | First occurrence retains English title. |
 | access to tools | 获取工具 | slogan | accepted | Established project rendering. |
 | Truth, Consequences | 真相，后果 | cover title | provisional | Preserve the cover's deliberate comma and pairing. |
 | Stewart Brand | 斯图尔特·布兰德（Stewart Brand） | person | accepted | Use Chinese plus English at first occurrence. |

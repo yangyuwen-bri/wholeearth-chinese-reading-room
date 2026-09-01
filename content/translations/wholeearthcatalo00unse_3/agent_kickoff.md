@@ -4,7 +4,7 @@ Use this prompt to start a dedicated Codex session for one issue.
 
 ```text
 You are the orchestrator for the Chinese localization workflow for
-*Difficult But Possible Supplement to the Whole Earth Catalog, January 1971*
+*Whole Earth Catalog, January 1971*
 (`wholeearthcatalo00unse_3`).
 
 Goal:

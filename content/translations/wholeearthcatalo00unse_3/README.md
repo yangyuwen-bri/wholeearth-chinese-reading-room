@@ -1,10 +1,9 @@
-# Difficult But Possible Supplement, January 1971 — Chinese Translation Package
+# Whole Earth Catalog, January 1971 — Chinese Translation Package
 
 ## Goal
 
-Produce a faithful, readable Chinese translation of *Difficult But Possible
-Supplement to the Whole Earth Catalog, January 1971* that can power the public
-Chinese reading room.
+Produce a faithful, readable Chinese translation of *Whole Earth Catalog,
+January 1971* that can power the public Chinese reading room.
 
 The translation base is the English source: Archive scans plus official OCR.
 Existing Chinese summaries, older guide text, or generated reader prose must
@@ -13,8 +12,7 @@ not be used as the translation source.
 ## Issue Metadata
 
 - Issue ID: `wholeearthcatalo00unse_3`
-- Issue title: `Difficult But Possible Supplement to the Whole Earth Catalog,
-  January 1971`
+- Issue title: `Whole Earth Catalog, January 1971`
 - Archive URL: https://archive.org/details/wholeearthcatalo00unse_3
 - Public access leaf range: `n0`–`n47` (48 pages)
 - Physical scan mapping: access leaves map to physical leaves `1`–`48` after
