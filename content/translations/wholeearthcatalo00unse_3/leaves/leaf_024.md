@@ -254,18 +254,127 @@ BOSTON, MASS.
 
 ## Glossary Updates
 
+- Frogskin glaze — 蛙皮釉
+- salt glaze — 盐釉
+- kick wheel — 脚踢陶轮
+- hammer mill — 锤式粉碎机
+- block radio station — 街区广播站
+- clearing house — 信息交换中心
+- body and fender shop — 车身与钣金修理厂
+- mason — 泥瓦匠
+- drafting table — 制图桌
 
 ## Final Translation
 
+### 来自贾格敦的泥土餐具（续）
+
+我们很大一部分产品就在这里销售，而且比起批发，我们更喜欢这种方式，因为人们可以亲眼看到工序、工具和建筑，了解 18 世纪的陶器作坊是什么样子。我们确实做了一些改变——以动力代替脚踢陶轮，用锤式粉碎机把黏土打成粉末，也不再只烧木柴。但这些土地面原木建筑中进行的工序，以及最后做出的成品，基本上仍与从前相同。我们的批发比例正在增加，不过直接接触顾客仍然令人满意得多。
+
+贾格敦归非营利法人 Country Roads 所有，该组织由 Ralph Rinzler 和我共同创办。它作为文化教育机构，享有联邦免税资格。我们始终有 4 名学徒，也有许多年轻人有兴趣到这里来。娱乐要自己创造，工作强度很大，而要让这些年轻人离开这里却很难。
+
+Ralph 说，您可能有兴趣在《Catalog》中刊登一些关于贾格敦的内容——也许把上述材料以书信形式作一篇梳理，配一两张工作过程的照片，再放 4 至 6 件陶器的照片和规格，让人们能够向我们订购。我们非常希望如此。事实上，我很熟悉《全球概览》，觉得这两者结合起来再自然不过。我会寄给您一件盐釉陶器和一些碎片，让您看看颜色（拿碎片时请务必小心，它们非常锋利）。如果您愿意，我也可以寄一组照片样片；照片能告诉您的，比我说得更多。
+
+我真心希望这件事能够实现。尽管我们在出售陶器，却不是一家商业企业。收入总是不足以完全维持收支平衡，我不得不筹款；我既不擅长，也不喜欢这样做，主要因为那些有钱捐赠的人并不明白这一切究竟是怎么回事。你们的读者会明白。如果能用邮购方式直接卖出一批为数不多的器物，也许正好能给我们所需的支撑。无论如何，希望收到您的回音。
+
+未列价格。来函索取目录：
+
+Jugtown Pottery<br>
+Rt. 2<br>
+Seagrove, N.C. 27341
+
+#### 盐釉器及其他器物规格
+
+- **#4 瓶形花瓶**：宽 3¼ 英寸，高 6¼ 英寸，口径 1¼ 英寸。蛙皮釉、白釉、黑白斑驳釉、盐釉。
+- **#17 中式水仙盆**：宽 5¼ 英寸，高 2 英寸。蛙皮釉、白釉、黑白斑驳釉。
+- **#13 花瓶**：宽 6¼ 英寸，高 5 英寸，口径 3 英寸。釉色同上。
+- **#34 碗**：宽 7 英寸，高 4 英寸。蛙皮釉、白釉、黑白斑驳釉、盐釉。
+- **#31 钟形碗**：宽 4 英寸，高 3¼ 英寸。蛙皮釉、白釉、黑白斑驳釉。
+- **#72 指压纹器**：宽 7¼ 英寸，高 4 英寸。蛙皮釉、白釉、黑白斑驳釉。另有较小的 #32（图中未展示）：宽 6¼ 英寸，高 3¼ 英寸，釉色相同。
+- **#14 花瓶**：宽 5 英寸，高 4 英寸，口径 2 英寸。蛙皮釉、白釉、黑白斑驳釉。
+- **#9 中式三足画笔筒**：宽 4 英寸，高 4 英寸。釉色同上。
+- **#10［型号字形不清］邦联杯**：宽 4 英寸，高 3 英寸。棕釉、橙釉、米黄釉、蛙皮釉、白釉。
+- **#96 特大砂锅（苦力帽形盖）**：顶部直径 13 英寸，高 7 英寸。棕釉、橙釉、Maré 蓝釉、意外釉、米黄釉。
+- **#90 大平盘**：直径 14 英寸，深 1¼ 英寸。棕釉、橙釉、Maré 蓝釉、意外釉、米黄釉。
+- **#102 鸟屋**：宽 6¼ 英寸，高 8½ 英寸。棕釉、橙釉。
+
+——Nancy Sweezy
+
+### 地方刊物、书籍与信息组织
+
+《Maine Times》并不是唯一一份致力于照实报道的出版物。许多其他地区刊物也已出现，向外传播消息。有一本极其精彩的月刊，叫作《The New Mexico Review and Legislative Journal》。它们今年夏天险些停刊，但看来挺过来了。刊物深入报道新墨西哥州的社会、生态和政治，具有独立性、机智、风格和精美的图像设计，也刊登许多知名作者的作品，包括 Robert Creeley、Scott Momaday、Winfield Townley Scott 等人的新作。每年 5 美元。得克萨斯州也有一份——《The Texas Observer》，地址 504 West 24th St., Austin, Texas。
+
+在芝加哥，一群不满现状的记者聚到一起，创办了《Chicago Journalism Review》。每年 5 美元，地址 11 East Hubbard St., Chicago 60611。它不断揭露当地新闻界的琐碎、虚伪等毛病，在这个过程中提出的问题往往具有全国意义。刊有 Mauldin 的原创漫画。
+
+《I. F. Stone's Weekly》也是一种我从没在《全球概览》里见过的东西。Stone 如今已是老人，健康每况愈下，所以刊物改为双周出版。他的文章一直登在《The New York Review》上，有时也出现在 David Frost 的节目里，仿佛他终于开始得到某种接近于应得的尊敬。
+
+Stone 是这个国家仍在世的记者中最伟大的一位。他曾任《Nation》编辑，毕生都在挖掘别人懒得理会的新闻，也专门突出《New York Times》淡化的消息。他对大量原始资料所作的高超分析，以文献证据揭穿了朝鲜战争、东京湾事件——“我们唯一能确定的，就是第一枪是我们开的”——以及我们永远拿不到的“和平红利”这些骗局。
+
+仅仅一期《Weekly》通过分析国务院臭名昭著的白皮书，就能用白皮书自己的统计数字，把支撑这场战争的整座摇摇欲坠的建筑化为废墟。任何想知道标题背后真相的人都绝对不可不读。每年 5 美元。地址：4420 29th St. NW, Washington, DC。
+
+还有 Laura Ingalls Wilder 的书。她是个在威斯康星、达科他地区和大平原上长大的拓荒女孩。六卷书的阅读难度逐册增加，仿佛读者也随之成长。Laura 仔细描写父亲怎样搭原木小屋、浇铸子弹，母亲怎样设法让食物多撑一阵，怎样搅制黄油、收割小麦，等等。故事有趣、温暖、诙谐、有人情味，也有智慧。其中不仅藏着道德真理（藏得很巧妙），还有历史上的准确性；它也让人感到，那些才二十出头的疯狂年轻人是怎样收拾行装，向西迁往只有上帝知道的地方，从荒野里开辟出一个国家。那种疯狂的勇气，以及那份已经失去的机会——因为我们再也不可能有同样的经历——足以令人落泪。这绝对是能够送给任何孩子或任何祖父母的最好的书。我以前给你寄过她的照片……
+
+［本段起首字样不清］工作又来了。寄 1 美元给 International Voluntary Services，地址 155 Connecticut Ave. NW，索取他们的《Invest Yourself》。书中说明怎样联系许多不同机构；无论在美国还是国外，当你参与援助工作时，这些机构都会支付基本生活费。
+
+有人了解在台湾或香港低价印书的办法吗？
+
+有没有人办一份通讯，把所有正在试验“控制论式偶然发现”的作曲家、诗人、艺术家和电影人联系起来？为什么不办呢？……
+
+Aquarian Research Foundation 的 Art Rosenbaum（5620 Morton St., Philadelphia 19144）会跟你详细谈谈怎样为社区建立街区广播站——便宜又容易。他也研究植物及其对人、坏气场等产生的生理反应。他正尝试通过分享信息、交流，以及建立新机构和项目（例如这个广播计划）等方式提高意识水平。很有意思。给他写信时请附一笔捐款，补偿他的费用……
+
+然后不妨试试 American Polar Society。凡对极地地区的历史和探索有兴趣者都可加入。该协会充当信息交换中心，协助极地探险的组织和成员，并传播极地知识。他们每年出版两期《The Polar Times》，在纽约等地举行会议。年费 1 美元。申请表向秘书 August Howard 索取，地址 98-20 62nd Dr., Apt. H, Rego Park, NY 11374……
+
+《Amex》是一本面向居住在加拿大的美国侨民的杂志。地址 PO Box 187, Station D, Toronto 165, Ontario, Canada；三期试读价 1 美元。
+
+现在我不在伯克利，所以从康涅狄格向你送上爱意。
+
+——Tom Collins，康涅狄格州 Meriden
+
+### John Holt：写信冠军
+
+一些杂项。今年秋天即将出版的书中，我尤其想推荐 Ivan Illich 的《CELEBRATION OF AWARENESS: A CALL FOR INSTITUTIONAL REVOLUTION》（Doubleday）；Judson Jerome 的《CULTURE OUT OF ANARCHY》——这是我读过的关于高等教育及其改革的最佳作品；Larry Cole 的《STREET KIDS》——一份讲述他在下东区行动计划中工作的、真正令人心碎的记录；还有我自己的《WHAT DO WE DO MONDAY?》。虽然我会留给别人作更完整的评论，但在我看来，它确实开辟了相当多的新领域。无论如何，我认为人们会从中有所收获。
+
+你们的许多读者应该看过 Illich 刊于《THE NEW YORK REVIEW OF BOOKS》的文章。所有这些文章都已汇编成册，由教育改革中心出版（2115 South St., NW, Washington, DC 20008）。但我认为，这本书和作者本人一样，会成为我们这个时代最重要的事物之一。这家伙确实看得到很远的未来。在我看来，他是真正的革命者；他的思考，恰恰从许多革命者停止思考的地方开始。
+
+下面这件事也许更适合《BIG ROCK CANDY MOUNTAIN》，而不是你们；不过我早就觉得，最好的教室书桌、画架或工作台，是许多制图用品商店都能找到的那种可拆装制图桌。例如，Dietzgen 公司生产许多不同尺寸的小画板。孩子坐在地板或椅子上时，可以把它们放在腿上使用，比笨重的教室家具好得多。画板还附有丁字尺和三角板，很方便。
+
+下一项或许同时适合《Whole Earth》和《Rock Candy》。你们有许多读者对音乐和音乐器材有兴趣，我认为学校也应有一套音质良好的立体声唱机，既能播放流行音乐，也能播放古典音乐。很长一段时间里，同价位最好的紧凑系统是 KLH 11；但最近我把它同新出的 Sony H-P-155 作了 A/B 对比，不得不说，我认为后者不仅更便宜，也更好。它还多出几个功能——可以再接一对外置扬声器，并有耳机插孔。不过最重要的是，我就是觉得它声音更好。以它的价格而言，这台小机器相当惊人——约 180 美元，除非你能拿到某种折扣。
+
+再说一件完全不同的事。今年夏天我开车西行，在一家餐馆同一个男人聊起来。他离开自己在新泽西的生意，到某地打两个星期猎。原来他经营一家车身与钣金修理厂；他的一个难题是，尽管他和当地其他修理厂每小时付 8.50 美元，却仍找不到帮手。他又告诉我，圣何塞这类工作的时薪高达 13 美元。他说已经没有新人进入这门手艺了。
+
+对那些已经掌握、或有兴趣学习一种社会所需技能的激进派来说，这听起来像是一条不用出卖自己也能挣到钱的好路子，你不觉得吗？一个擅长这种工作的人，就能维持一整个城市公社。总的说来，我觉得，那些从事社会必需行业的父亲们，他们的儿子正越来越多地抛弃父业。这里也许形成了一种真空，正等着“新生活”的人进入。在全国大多数地方，熟练泥瓦匠肯定都稀罕得像母鸡的牙齿。也许自由学校应当想一想这件事。
+
+下面这项也许更适合《BIG ROCK CANDY》。加利福尼亚州圣莫尼卡一家名叫 Rolatapes 的公司，生产几种很不错的地面距离测量工具。其中最好的一种带可伸缩表盘，读数可达 1,000 英尺，并能精确到 0.1 英尺。这东西可以派上各种用场。
+
+再谈书。Harper and Row 今年秋天将出版 Abraham Maslow《MOTIVATION AND PERSONALITY》的修订更新版，应该非常值得一读。显然，他生前为自己晚年有关心理学的思想和观点录制了大量磁带；未来一两年内，这些材料的全部或大部分会出版，所以大家应当留意。
+
+我不知道价格是多少，不过有人考虑过给城市学校的操场铺 AstroTurf 人造草皮吗？前几天我听说有人用它铺了私人草坪。它不如真草那么好，但许多孩子挤在一小块地方会把草踩死，而它肯定胜过沥青地面。
+
+JOHN HOLT<br>
+BOSTON, MASS.
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- None. All recoverable publication prices, subscription and application
+  addresses, pottery specifications, model numbers, and product prices are
+  retained in the translation.
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- The page contains at least three interleaved columns: the Jugtown continuation
+  and catalog, Tom Collins's letter, and John Holt's letter. Their reading order
+  has been reconstructed but requires scan verification.
+- Several pottery fractions and model glyphs are damaged: `310`, `£96`, `£90`,
+  and `##102` are provisionally read as #10, #96, #90, and #102.
+- The first word before the International Voluntary Services item and the postal
+  code after I. F. Stone's Washington address are absent or damaged in OCR.
+- Exact styling, photo-to-model associations, and any non-OCR captions remain
+  unknown without the high-resolution scan.
 
 ## Self Critique
 
-- Pending translation.
+- Coverage is complete against the official OCR: the entire Jugtown continuation,
+  thirteen cataloged forms including the smaller #32 variant, every subscription,
+  address, price, book, organization, product comparison, wage, and measurement
+  in both long letters has been retained.
+- No letter or recommendation is summarized, but the severely interleaved layout
+  and damaged pottery fractions/model labels prevent acceptance.
