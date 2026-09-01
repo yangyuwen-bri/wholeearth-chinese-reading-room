@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 2
+- `source_ready`: 1
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 46
+- `needs_highres_scan`: 47
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n47`: source packs are complete; full translations,
+- `n0`: source pack is complete; full translation,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -120,6 +120,10 @@ This report is updated after each reviewed batch.
   retaining-subscriber records are translated or transcribed and reviewed; exact
   name/location pairing, proper-name glyphs, form geometry, and visual text await
   column-by-column scan verification.
+- `n47`: all postal indicia, publication/address lines, and the reconstructed
+  `January production in the desert.` caption are translated and reviewed; cover
+  imagery, caption orientation, mailing typography, and non-OCR visual text await
+  scan verification.
 - `n2`: the complete Ken Kesey interview, song, three-swordsmen story, address,
   contents tokens, and copyright notice are translated and reviewed; the
   column-scrambled contents block still requires scan reconstruction.

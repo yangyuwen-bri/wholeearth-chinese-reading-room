@@ -37,18 +37,39 @@ January product
 
 ## Glossary Updates
 
+- second class — 二类邮件（美国历史邮政类别）
+- permit pending — 邮寄许可审批中
 
 ## Final Translation
 
+**邮寄许可：审批中**
+
+**加利福尼亚州门洛帕克**
+
+**二类邮件**
+
+**《全球概览》**
+
+圣克鲁斯大道 558 号
+
+加利福尼亚州门洛帕克，邮编 94025
+
+一月号在沙漠中的制作现场。
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- None intentionally omitted. All 24 OCR words are represented.
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- The final caption is reconstructed from the three OCR fragments `January product`,
+  `ion in`, and `the desert.`, which join exactly as `January production in the desert.`
+- The scan is required to verify caption orientation, punctuation, imagery, postal
+  typography, and any visible text that OCR did not capture.
 
 ## Self Critique
 
-- Pending translation.
+- All recoverable postal and caption text is translated; no source prose is replaced
+  with a descriptive summary.
+- The page remains scan-dependent because near-image-only covers are especially prone
+  to missing non-OCR labels and because the caption reading order was reconstructed.
