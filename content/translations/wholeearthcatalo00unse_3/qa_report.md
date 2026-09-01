@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 42
+- `source_ready`: 41
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 6
+- `needs_highres_scan`: 7
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n6`–`n21`, `n23`–`n47`: source packs are complete; full translations,
+- `n0`, `n7`–`n21`, `n23`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -39,6 +39,10 @@ This report is updated after each reviewed batch.
   proposal, account instructions, testimonial, all rates, amounts, and contact
   details are translated and reviewed; column order and the deposit-slip image
   await high-resolution transcription.
+- `n6`: the Tribune organizing article, Henry George course letter, silver-coin
+  item, Maoist environmental excerpt, Science subscription, and film listing
+  are translated and reviewed; interleaved columns, image-caption association,
+  and two isolated labels await scan verification.
 - Archive high-resolution scan access is currently unavailable from the local
   environment; drafting may proceed from official OCR, but acceptance is
   blocked until representative and leaf-specific visual checks are possible.
