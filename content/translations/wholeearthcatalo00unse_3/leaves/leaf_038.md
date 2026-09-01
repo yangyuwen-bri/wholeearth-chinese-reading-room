@@ -237,18 +237,146 @@ B23 South Amboy, NJ
 
 ## Glossary Updates
 
+- arcology — 生态建筑学／生态城市
+- co-usership — 共同使用权
+- space rental — 空间租用
+- piloting — 近岸航行定位
+- seamanship — 船艺
+- French Intensive Method — 法式密植法
+- composted manure — 腐熟厩肥
+- bone meal — 骨粉
+- nicotine sulphate — 硫酸烟碱
+- implied dedication — 推定奉献给公众使用
+- telephone conference call — 电话会议
 
 ## Final Translation
 
+### Arcosanti 工作坊
+
+Paolo Soleri<br>
+Cosanti Foundation<br>
+6433 Doubletree Road<br>
+Scottsdale, Arizona 85251
+
+Soleri 的第一座生态城市 Arcosanti 位于 Arizona 中部，完全由学生和学徒施工，以一系列六周工作坊组织。明年，工作坊将从 4 月持续到 11 月，每名学生费用约 200 美元。这笔钱用于工具和材料，并在一项称作“共同使用权”的计划空间租用制度中，记入学生名下。
+
+随着 Arcosanti 逐步建成、生活工作空间可以使用，这些空间将按平方英尺出售。人们购买一定面积，例如 120 平方英尺，再按自己的意愿布置和使用。本人不在时，这块空间可以改作其他用途，或由别人占用；主人回来时，会改用另一处 120 平方英尺的空间——也就是说，你购买的不是某一个特定空间，而是一定数量的空间。这就是“共同使用权”。
+
+参加的工作坊越多，共同使用权费率越低：
+
+| 参加工作坊数量 | 每平方英尺共同使用权价格 |
+| ---: | ---: |
+| 4 次 | 3.00 美元 |
+| 3 次 | 4.00 美元 |
+| 2 次 | 5.00 美元 |
+| 1 次 | 6.00 美元 |
+| 0 次 | 10.00 美元 |
+
+每位共同使用者另付土地款 100 美元。每次工作坊由 5 个工作周和 1 个选修周组成。
+
+去年夏天，Arcosanti 已经开工。
+
+——Rennie Boyd，加利福尼亚州 Santa Cruz
+
+### Soleri 的 Siltpile 海报
+
+很少有人看过 Paolo Soleri 在纽约 Whitney Museum 举办的作品展，也没有多少人拿得出 26 美元买他的书（尽管它很值）……不过，只要 1 美元就能买到他每年秋季推出的海报。
+
+Soleri 为建筑专业学生开办暑期学校。每年，他都会制作一张“Siltpile 系列”海报，为学校做广告，也大致说明他们正在研究什么。总之，每年的海报都很好看，现在已经出到《Siltpile No. 11》。
+
+寄 1 美元至：
+
+Cosanti Foundation<br>
+6433 East Doubletree Road<br>
+Scottsdale, Arizona 85253
+
+——Jon Zimmerman，弗吉尼亚州 Norfolk
+
+### 航行定位与导航课程
+
+- **主办／作者：** United States Power Squadrons
+- **价格：** 免费
+- **出版／联系方：** United States Power Squadrons, P.O. Box 345, Montvale, NJ 07645
+- **查询：** 写信给全国总部，询问离你最近的课程时间与地点；或拨免费电话 800-243-6000。
+
+U.S.P.S. 把一门出色的航行定位课程改得更好——免费提供。这门课不仅讲航行定位，也涉及航行规则、船艺、船舶结构、维护与水上安全。
+
+课程通常每周一次，每次 2 小时，持续 12 周。它比 Coast Guard 提供的课程好得多，因为更重视定位与海图作业。另一个优点是，通过最后的考试后，你会获邀加入 U.S.P.S。
+
+会员可以修读船艺、高级定位、导航、天气、船用电子设备、帆船和发动机维护等高级课程。这些课程通常约 15 美元，但不含绘图仪器；如果你打算真正使用所学内容，反正也需要这些仪器。
+
+——Robert Point<br>
+［地址首部字形不清］ South Amboy, NJ
+
+### UC Santa Cruz 的法式密植园艺
+
+University of California at Santa Cruz 校园里有一座由学生经营的花园。那里以极其丰盛、旺盛的方式长出花卉和蔬菜，只有亲眼看见才能完全理解。在我看来，这场示范、这场全年闪耀的丰饶仪式，具有长期影响；虽然影响还不完全清楚，但随着岁月流逝，它很可能会改变数千、甚至数百万美国人的生活。
+
+如今，“革命性”是个既容易又危险、可以随手乱扔的词；不过，用在这里肯定恰当。负责花园的这些全心投入的年轻人，不仅在一块 4 英亩的山坡土地上成功种出花卉和蔬菜，产量比商业农业高出许多倍——至少高 4 倍；他们还创造了一个持续运转的机构，拥有目标感、希望感、共同体感，以及一种渗透一切的健全感，而今天我们其他许多机构和活动或多或少都缺少这些。
+
+这些学生中，许多人也许同样感到那种愤怒；它已经把许多校园里的许多人推向许多不同、往往悲惨的方向。不过，Santa Cruz 的根本动力看来涌自更平静的泉源……
+
+关于“法式密植法”（Chadwick 对这套有机园艺方法的称呼），有一些基本观察，是花园成功的核心。
+
+首先，园中土壤不断得到增肥。最初种下蚕豆等固氮作物；每茬作物之间，种植床会铺上腐熟两年的厩肥——未经处理，直接来自农场，同超市里袋装的产品大不相同。每张苗床都添加骨粉，但用量比最初两年少。过去和现在，许多蔬菜都会使用木灰。开始时，能买到或制成多少堆肥，就往苗床里混入多少；堆肥至今仍是土壤调理过程的一项固定而重要的工作。
+
+每次重新整理苗床、准备播种或栽植，土壤都会得到改善；作物种植收获后，土壤往往甚至更加肥沃。（第一次参观花园时，我注意到，用于肥沃土壤的有机材料一直被称作 **nutriments**，而不是 nutrients。我承认，自己当时不能确定 nutriment 是否只是 nutrient 的误传，于是查了字典。按《Webster's Collegiate》，nutrient 是“一种滋养物质或成分”，nutriment 则是“滋养或促进生长、修补有机生命自然损耗的事物”。我怀疑自己永远不会忘记这个优雅的区别。）……
+
+与土壤增肥一样，害虫防治也完全不依靠合成化学品的摆弄。有时，某些作物——例如抱子甘蓝——上的蚜虫会失去控制；如果天敌没有出现，就向植株喷洒硫酸烟碱（一种毒性很强、源自植物、不持久残留的杀虫剂）。除此之外，只用手清除蜗牛和蛞蝓，其余防治交给自然。
+
+关于怎样让自然工作，又怎样协助自然工作，从而达到最佳花园状态，Steve Kaffka 这样说：
+
+> “害虫”这个词需要重新定义。在自然中，没有这种东西。自然有一些平衡，用来维持健康的植物生命——昆虫、鸟、动物，各有位置。遵循模拟自然原则的园丁，会努力维持这种平衡。如果做到了，“害虫”这个词就不会出现。我们的花园是鸟类保护区；今年鸟比以往任何一年都多，而且每年都在增加。为了鼓励鸟来这里并留下，我们允许千里光和蒲公英等杂草继续生长结籽，鸟就会吃种子。灯草鹀、金丝雀莺等许多鸟，种子和昆虫都吃。我们提供鸟浴盆和水槽，让它们不受打扰地饮水。为了鸟，我们也尽量阻止猫出现。
+
+> 不使用杀虫剂和毒物时，经常会出现螳螂和瓢虫等捕食破坏性昆虫的虫类。每一年，无害昆虫的数量都在增加，吃它们的鸟也一样。每多过一年不用毒物的日子，所有生命就多一分生存与繁盛的可能。
+
+出处：William Bronson《The Lesson of a Garden》，刊于 1970/71 年冬季号《Cry California》。年费 9 美元，订阅地址：
+
+California Tomorrow<br>
+Monadnock Building<br>
+681 Market Street<br>
+San Francisco, California 94105
+
+**图片说明：** 一名初学园艺者在工作人员 Steve Kaffka（右）的指导下移栽卷心菜幼苗。他一只脚踩在木板上，避免压实精心准备的苗床土壤。移栽在傍晚进行。
+
+### 糟糕的土地法律
+
+Don Biggs 刚告诉我们，了解情况的土地所有者对 California Supreme Court 的这项宣告深感担忧：
+
+法院在最近一项判决中说，某私人土地所有者在过去五年没有把人们从一块海滨土地赶走，实际上就意味着“推定把土地奉献给公众使用”。在问题得到解决之前，许多人担心会失去他们赖以为别人提供收入和／或工作的土地。
+
+### Tele Sessions
+
+(212) 725-2525
+
+Bob Easton 告诉 Lloyd Kahn，Lloyd 又告诉我们：拨打这个纽约号码，可以参加一次电话会议，就你感兴趣的任何特定主题，同素不相识的专家交谈（广告列有：人类学家、养狗者、美食厨师、海洋学家、风险投资家等等）。
+
+更多信息：
+
+Tele Session Company<br>
+475 Fifth Ave.<br>
+New York, New York 10017
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- None. All recoverable workshop/co-use fees, addresses, course duration and prices,
+  article/source fields, cultivation details, full quotations, image caption, legal
+  statement, telephone, and Tele Session contact are retained.
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- Arcosanti, piloting-course, garden, legal, and Tele Session columns are interleaved.
+  Reading order was reconstructed and requires scan verification.
+- The one-workshop row appears as `Barkshop`; the course-letter signature/address,
+  `Monadnock`, and several proper names are damaged.
+- Exact table typography, photos/diagrams, article continuation marks, and any
+  non-OCR visual text require high-resolution transcription.
 
 ## Self Critique
 
-- Pending translation.
+- Coverage is complete against official OCR: both Arcosanti entries and full price
+  table, complete piloting course record/letter, entire garden excerpt and both
+  quotations, source/order details, photo caption, land-law note, and Tele Sessions.
+- Tables, course fields, garden practices, and legal language remain explicit rather
+  than being collapsed into descriptions.
+- Proper names, physical column order, and visual associations prevent acceptance.
