@@ -5,11 +5,11 @@ This report is updated after each reviewed batch.
 ## Status Counts
 
 - `pending`: 0
-- `source_ready`: 39
+- `source_ready`: 38
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 9
+- `needs_highres_scan`: 10
 - `revise`: 0
 - `blocked_ocr`: 0
 - `accepted`: 0
@@ -17,7 +17,7 @@ This report is updated after each reviewed batch.
 
 ## Remaining Blockers
 
-- `n0`, `n9`–`n21`, `n23`–`n47`: source packs are complete; full translations,
+- `n0`, `n10`–`n21`, `n23`–`n47`: source packs are complete; full translations,
   independent reviews, and orchestrator gates remain to be completed.
 - `n1`: full translation and fidelity review are complete; high-resolution
   verification of quotation/caption order and the reconstructed identity line
@@ -49,6 +49,9 @@ This report is updated after each reviewed batch.
 - `n8`: the complete historical nonprofit-corporation Q&A, dollar-sign note,
   Bigfoot brief, Han-shan verse, and book record are translated and reviewed;
   two damaged legal phrases and sidebar placement await scan verification.
+- `n9`: both Fox pollution-action reports, the complete citizen citation form,
+  nova caption, and Lew Welch poem are translated and reviewed; form layout,
+  column order, and one damaged publication field await scan verification.
 - Archive high-resolution scan access is currently unavailable from the local
   environment; drafting may proceed from official OCR, but acceptance is
   blocked until representative and leaf-specific visual checks are possible.
