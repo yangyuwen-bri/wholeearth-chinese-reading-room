@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -24,14 +24,14 @@ needs_highres_scan
 - The second land letter preserves acreage, citizenship/development periods,
   payment schedule, wait, survey cost, and property description.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n19_w2000.jpg` to recover the Haida proportion, verify maps, fares,
-  prices, land dimensions, and exact multi-column order.
-- Determine whether the tax-land letter continues visually elsewhere and
-  transcribe all image/advertisement captions omitted by OCR.
+- Checked the approximately 3500 × 4700 pixel `n19_w2000.jpg` scan, confirming
+  column order, map associations, fares, prices, land dimensions, and restoring
+  the Haida share as slightly under one half.
+- The tax-land letter continues below the OCR cutoff; its complete markup,
+  price-comparison, and never-buy-unseen conclusion has now been translated.
 
 ## Residual Risks
 
-- Content coverage is complete against the available OCR, but one lost fraction,
-  one truncated source paragraph, and dense columns prevent acceptance.
+- None. All legible prose, map text, fractions, and concluding paragraphs are represented.

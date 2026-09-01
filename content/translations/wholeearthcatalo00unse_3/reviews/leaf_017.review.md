@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -25,14 +25,14 @@ needs_highres_scan
 - The complete practical-book list is present item by item, with original titles
   retained alongside Chinese translations.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n17_w2000.jpg` to verify all book-author spellings, prices, heading
-  fragments, and multi-column ordering.
-- Confirm the cooperative publication frequency, bee-hole fraction, worm-rate
-  typography, and any advertisement artwork or labels omitted by OCR.
+- Checked the approximately 3500 × 4700 pixel `n17_w2000.jpg` scan, including
+  all book-author/title rows, prices, column order, publication frequency, and
+  the ¾-inch bee-hole dimension.
+- Confirmed the source's unusual `$1.40 cents` worm-rate typography and restored
+  the `PIT-RUN / BREEDER / CENSORED` illustration labels.
 
 ## Residual Risks
 
-- Content coverage is complete against official OCR. Dense bibliography,
-  ambiguous proper-name spellings, and visual association prevent acceptance.
+- None. All legible prose, bibliography, prices, and artwork labels are represented.

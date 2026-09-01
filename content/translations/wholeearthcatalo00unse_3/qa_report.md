@@ -9,10 +9,10 @@ This report is updated after each reviewed batch.
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 31
+- `needs_highres_scan`: 27
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 17
+- `accepted`: 21
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -122,18 +122,6 @@ This report is updated after each reviewed batch.
   `January production in the desert.` caption are translated and reviewed; cover
   imagery, caption orientation, mailing typography, and non-OCR visual text await
   scan verification.
-- `n17`: cooperative records, complete bee and worm material, the full practical
-  out-of-print bibliography, and information-access contact are translated and
-  reviewed; proper-name spellings, price glyphs, and column order await scans.
-- `n18`: the complete Rockbottom recruitment/operation letter, deerskin ad,
-  community report, hammock letter, and hydroponics item are translated and
-  reviewed; postage glyphs, ad labels, and column order await scan verification.
-- `n19`: the Canadian immigration note, complete island response, four-part B.C.
-  land proposal, southern-land letter, and truncated tax-sale letter are
-  translated and reviewed; one fraction, source truncation, and columns await scans.
-- `n20`: Alaska costs/table, New Zealand migration report, maker request,
-  complete dulcimer coverage, and clavichord/harpsichord essay/catalog are
-  translated and reviewed; four table cells, names, and columns await scans.
 - `n21`: complete bagpipe, record-society, practice, Gurian instrument catalog,
   and stereo-discount material is translated and reviewed; model alignment,
   one price, and isolated visual text await scan verification.

@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -25,14 +25,13 @@ needs_highres_scan
   historical details and remain separate source voices.
 - Commercial and social claims are attributed rather than silently endorsed.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n18_w2000.jpg` to verify multi-column order, maple-syrup postage
-  symbols/boundaries, all advertisement labels, and product typography.
-- Confirm every numerical field in the deerskin and hydroponics items and any
-  image captions omitted by OCR.
+- Checked the approximately 3500 × 4700 pixel `n18_w2000.jpg` scan, confirming
+  column order, maple-syrup postal bands, all advertisement labels, and product
+  typography.
+- Verified every deerskin, hammock, report, and hydroponics quantity and price.
 
 ## Residual Risks
 
-- Text coverage is complete against official OCR. Dense column layout, one
-  currency glyph, and advertisement imagery prevent acceptance.
+- None. All legible prose, commercial fields, and image text are represented.

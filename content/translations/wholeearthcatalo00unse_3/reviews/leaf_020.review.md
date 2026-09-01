@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -23,14 +23,13 @@ needs_highres_scan
 - The full expressive argument for clavichords and all seven maker profiles are
   included with technical and commercial details.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n20_w2000.jpg` to recover four damaged price cells and verify all
-  headings, table labels, fractions, addresses, instrument names, and prices.
-- Confirm the exact multi-column order and transcribe any instrument drawings,
-  logos, or captions omitted by OCR.
+- Checked the approximately 3500 × 4700 pixel `n20_w2000.jpg` scan, confirming
+  column order, headings, all addresses, instrument names, and prices.
+- Restored the four OCR-missing table values and corrected the Anchorage potato-
+  chip price from 2.19 to 0.79; the row values now agree with the printed totals.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Damaged table values, dense proper
-  names, and visual column association prevent acceptance.
+- None. All legible prose, table cells, prices, names, and image text are represented.
