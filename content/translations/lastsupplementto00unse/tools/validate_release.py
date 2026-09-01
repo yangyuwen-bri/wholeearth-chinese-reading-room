@@ -13,6 +13,7 @@ STATUS_PATH = ROOT / "status.jsonl"
 LEAF_DIR = ROOT / "leaves"
 REVIEW_DIR = ROOT / "reviews"
 EXPECTED_LEAVES = 132
+DENSE_DIRECTORY_LEAVES = set(range(114, 126))
 
 REQUIRED_EVIDENCE = ("Translation coverage:", "Permitted omissions:")
 SUMMARY_DRIFT = re.compile(
@@ -51,6 +52,32 @@ def final_character_count(text: str) -> int:
 def ocr_word_count(text: str) -> int:
     match = re.search(r";\s*([\d,]+) OCR words", text)
     return int(match.group(1).replace(",", "")) if match else 0
+
+
+def source_transcript(text: str) -> str:
+    match = re.search(
+        r"^### Official OCR Line Transcript.*?^~~~text\s*\n(.*?)^~~~",
+        text,
+        re.MULTILINE | re.DOTALL,
+    )
+    return match.group(1) if match else ""
+
+
+def numeric_tokens(text: str) -> set[str]:
+    return set(re.findall(r"(?<!\w)[$£]?\d[\d,.:/-]*", text))
+
+
+def proper_ascii_tokens(text: str) -> set[str]:
+    stop = {
+        "The", "This", "That", "And", "For", "From", "With", "Your",
+        "You", "All", "Our", "New", "Street", "Road", "Avenue", "Box",
+        "Page", "Mail", "List", "Whole", "Earth", "Catalog",
+    }
+    return {
+        token
+        for token in re.findall(r"\b[A-Z][A-Za-z.'-]{2,}\b", text)
+        if token not in stop
+    }
 
 
 def validate_issue() -> list[str]:
@@ -120,6 +147,24 @@ def validate_issue() -> list[str]:
                 f"leaf {leaf:03d}: possible summary drift "
                 f"({actual_count} translation chars / {source_words} OCR words)"
             )
+
+        transcript = source_transcript(leaf_text)
+        numbers = numeric_tokens(transcript)
+        if len(numbers) >= 10:
+            retained = len(numbers & numeric_tokens(final)) / len(numbers)
+            if retained < 0.9:
+                errors.append(
+                    f"leaf {leaf:03d}: only {retained:.0%} of numeric source tokens retained"
+                )
+
+        if leaf in DENSE_DIRECTORY_LEAVES:
+            names = proper_ascii_tokens(transcript)
+            retained_names = len(names & proper_ascii_tokens(final)) / len(names) if names else 1
+            if retained_names < 0.7:
+                errors.append(
+                    f"leaf {leaf:03d}: dense directory may be compressed "
+                    f"({retained_names:.0%} of capitalized name/address tokens retained)"
+                )
 
     return errors
 
