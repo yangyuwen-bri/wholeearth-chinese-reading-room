@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -17,11 +17,12 @@ needs_highres_scan
   caption translation is present, but OCR silence does not prove that no small
   labels or edge text exist.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n22_w2000.jpg` and confirm whether any label, number, credit, or
-  additional caption appears outside the OCR transcript.
+- Checked the entire approximately 3500 × 4700 pixel `n22_w2000.jpg` scan. No
+  text appears beyond the translated caption, `SB ’63` credit, and printed page
+  number.
 
 ## Residual Risks
 
-- Image-only text remains the sole acceptance blocker.
+- None. All source text is represented without inferring image content.

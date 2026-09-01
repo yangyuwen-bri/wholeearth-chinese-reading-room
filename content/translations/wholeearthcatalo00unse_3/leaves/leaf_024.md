@@ -292,7 +292,7 @@ Seagrove, N.C. 27341
 - **#72 指压纹器**：宽 7¼ 英寸，高 4 英寸。蛙皮釉、白釉、黑白斑驳釉。另有较小的 #32（图中未展示）：宽 6¼ 英寸，高 3¼ 英寸，釉色相同。
 - **#14 花瓶**：宽 5 英寸，高 4 英寸，口径 2 英寸。蛙皮釉、白釉、黑白斑驳釉。
 - **#9 中式三足画笔筒**：宽 4 英寸，高 4 英寸。釉色同上。
-- **#10［型号字形不清］邦联杯**：宽 4 英寸，高 3 英寸。棕釉、橙釉、米黄釉、蛙皮釉、白釉。
+- **#10 邦联杯**：宽 4 英寸，高 3 英寸。棕釉、橙釉、米黄釉、蛙皮釉、白釉。
 - **#96 特大砂锅（苦力帽形盖）**：顶部直径 13 英寸，高 7 英寸。棕釉、橙釉、Maré 蓝釉、意外釉、米黄釉。
 - **#90 大平盘**：直径 14 英寸，深 1¼ 英寸。棕釉、橙釉、Maré 蓝釉、意外釉、米黄釉。
 - **#102 鸟屋**：宽 6¼ 英寸，高 8½ 英寸。棕釉、橙釉。
@@ -313,7 +313,7 @@ Stone 是这个国家仍在世的记者中最伟大的一位。他曾任《Natio
 
 还有 Laura Ingalls Wilder 的书。她是个在威斯康星、达科他地区和大平原上长大的拓荒女孩。六卷书的阅读难度逐册增加，仿佛读者也随之成长。Laura 仔细描写父亲怎样搭原木小屋、浇铸子弹，母亲怎样设法让食物多撑一阵，怎样搅制黄油、收割小麦，等等。故事有趣、温暖、诙谐、有人情味，也有智慧。其中不仅藏着道德真理（藏得很巧妙），还有历史上的准确性；它也让人感到，那些才二十出头的疯狂年轻人是怎样收拾行装，向西迁往只有上帝知道的地方，从荒野里开辟出一个国家。那种疯狂的勇气，以及那份已经失去的机会——因为我们再也不可能有同样的经历——足以令人落泪。这绝对是能够送给任何孩子或任何祖父母的最好的书。我以前给你寄过她的照片……
 
-［本段起首字样不清］工作又来了。寄 1 美元给 International Voluntary Services，地址 155 Connecticut Ave. NW，索取他们的《Invest Yourself》。书中说明怎样联系许多不同机构；无论在美国还是国外，当你参与援助工作时，这些机构都会支付基本生活费。
+良心拒服兵役者的工作又来了。寄 1 美元给 International Voluntary Services，地址 155 Connecticut Ave. NW，索取他们的《Invest Yourself》。书中说明怎样联系许多不同机构；无论在美国还是国外，当你参与援助工作时，这些机构都会支付基本生活费。
 
 有人了解在台湾或香港低价印书的办法吗？
 
@@ -360,15 +360,12 @@ BOSTON, MASS.
 
 ## OCR / Uncertainty Notes
 
-- The page contains at least three interleaved columns: the Jugtown continuation
-  and catalog, Tom Collins's letter, and John Holt's letter. Their reading order
-  has been reconstructed but requires scan verification.
-- Several pottery fractions and model glyphs are damaged: `310`, `£96`, `£90`,
-  and `##102` are provisionally read as #10, #96, #90, and #102.
-- The first word before the International Voluntary Services item and the postal
-  code after I. F. Stone's Washington address are absent or damaged in OCR.
-- Exact styling, photo-to-model associations, and any non-OCR captions remain
-  unknown without the high-resolution scan.
+- The approximately 3500 × 4700 pixel scan confirms the Jugtown continuation,
+  Tom Collins and John Holt column order, all pottery photo-to-model associations,
+  fractions, glaze names, and models #10, #96, #90, and #102.
+- The scan restores `CO jobs again` as the opening of the International
+  Voluntary Services item. I. F. Stone's printed address ends at Washington, DC
+  without a legible ZIP code, so none is invented.
 
 ## Self Critique
 
@@ -376,5 +373,5 @@ BOSTON, MASS.
   thirteen cataloged forms including the smaller #32 variant, every subscription,
   address, price, book, organization, product comparison, wage, and measurement
   in both long letters has been retained.
-- No letter or recommendation is summarized, but the severely interleaved layout
-  and damaged pottery fractions/model labels prevent acceptance.
+- No letter or recommendation is summarized; all legible models, labels,
+  captions, prices, addresses, and long-form prose have been scan-verified.

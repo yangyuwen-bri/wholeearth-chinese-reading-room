@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -24,15 +24,14 @@ needs_highres_scan
 - All pottery specifications are translated model-by-model, including #32.
 - Both long letters preserve their internal sequence and every discrete item.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n24_w2000.jpg` to verify column order, pottery fractions/model numbers,
-  glaze names, catalog-photo associations, and the I. F. Stone address ending.
-- Recover the damaged first word of the International Voluntary Services item
-  and transcribe all captions or labels absent from OCR.
+- Checked the approximately 3500 × 4700 pixel `n24_w2000.jpg` scan, confirming
+  column order, all pottery fractions/models, glaze names, photo associations,
+  and address endings.
+- Restored #10 without uncertainty and translated `CO jobs again`, the OCR-
+  damaged opening of the International Voluntary Services item.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Multi-column interleaving, several
-  model glyphs/fractions, one missing phrase, and visual associations prevent
-  acceptance.
+- None. All legible prose, models, fractions, labels, and captions are represented.

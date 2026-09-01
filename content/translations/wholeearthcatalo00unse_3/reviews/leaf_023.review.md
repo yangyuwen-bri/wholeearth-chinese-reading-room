@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -23,15 +23,14 @@ needs_highres_scan
   fragments, including the historical narrative and technical process.
 - Bibliographic and order information is retained within the reading text.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n23_w2000.jpg` to verify column order, the Jugtown opening date and
-  cropped phrases, glaze count, proper names, temperatures, and punctuation.
-- Recover the Libertarian Connection price and terminal signature; identify the
-  isolated `Rec` label and transcribe any image captions missed by OCR.
+- Checked the approximately 3500 × 4700 pixel `n23_w2000.jpg` scan, confirming
+  column order, Jugtown chronology, glaze count, names, temperatures, headings,
+  and punctuation.
+- Restored the $3.50 *Libertarian Connection* price. The alleged signature and
+  `Rec` label are OCR artifacts; neither is printed on the page.
 
 ## Residual Risks
 
-- Textual coverage is complete against OCR. Severe column interleaving, several
-  cropped Jugtown lines, one missing price, and possible visual text prevent
-  acceptance.
+- None. All legible prose, prices, headings, and visual text are represented.

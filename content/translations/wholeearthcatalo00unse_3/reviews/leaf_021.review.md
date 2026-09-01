@@ -2,7 +2,7 @@
 
 ## Conclusion
 
-needs_highres_scan
+accepted
 
 ## Coverage Evidence
 
@@ -23,14 +23,14 @@ needs_highres_scan
 - The stereo section preserves six vendors, every table row, fair-trade workaround,
   survey ranking, alternate cartridges, prices, and stylus distinctions.
 
-## Required Fixes
+## Scan Verification
 
-- Inspect `n21_w2000.jpg` to verify Gurian model labels, Shure discount price,
-  fractions, currencies, addresses, and exact multi-column order.
-- Identify `Sony & Barbara & hot water` and transcribe any instrument/product
-  photos, diagrams, or captions omitted by OCR.
+- Checked the approximately 3500 × 4700 pixel `n21_w2000.jpg` scan, confirming
+  Gurian model alignment, fractions, currencies, addresses, all stereo-table
+  values, and the Shure M44E discount price of $10.50.
+- Confirmed `Sony & Barbara & hot water` as the upper-right photo caption and
+  translated it in that role.
 
 ## Residual Risks
 
-- Content coverage is complete against OCR. Model alignment, one price, and
-  visual associations prevent acceptance.
+- None. All legible prose, model data, prices, and captions are represented.

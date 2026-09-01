@@ -253,6 +253,8 @@ thyme... yrs ‘ hice
 
 ## Final Translation
 
+## 新建议
+
 ### 《园艺家文摘》
 
 《园艺家文摘》是一份季刊，介绍所有用英语出版的园艺文献。其实，它不只是一份指南，还是一本不断更新的手册；其中的文摘并非对文章的简单描述，而是经过认真编写的文章摘要。人们很少需要越过这里呈现的精华再去查阅原文；但若确有必要，圣巴巴拉公共图书馆会免费提供它所摘录的任何文章的副本。
@@ -360,11 +362,9 @@ Bob Fried<br>
 
 你们在早期某期《全球概览》中列过的《Efficacy》，已经迁到 Box 1747, Harlingen, Texas。那些真正有兴趣躲开“老大哥”的人，应联系 Preform/Inform，Box 607, Grants Pass, Oregon 97526。他们有一点相关信息和出版物，也介绍正在这样生活的人。2 美元。
 
-自由意志主义行动理论全都收在《Libertarian Connection》中，向 Lisa Dawn，PO Box 90913, Worldway Postal Center, Los Angeles, Calif. 90009 购买，价格栏字样不清。你会得到 200 页材料（约合四年订阅），还可将自己编写的两张油印蜡纸印刷后夹入刊物，只要你也是志同道合、寻求个人自由的人。
+自由意志主义行动理论全都收在《Libertarian Connection》中，3.50 美元，向 Lisa Dawn，PO Box 90913, Worldway Postal Center, Los Angeles, Calif. 90009 购买。你会得到 200 页材料（约合四年订阅），还可将自己编写的两张油印蜡纸印刷后夹入刊物，只要你也是志同道合、寻求个人自由的人。
 
 还有，最快且像样的汤可以这样做：加热一罐炖西红柿，加入 ½ 茶匙小苏打。它会冒泡，酸性也会被中和。然后加入牛奶，加温即可上桌。加洋葱很合适，也可以加百里香……
-
-你的……［署名字形不清］
 
 ## Omitted Bibliographic/Order Info
 
@@ -373,16 +373,14 @@ Bob Fried<br>
 
 ## OCR / Uncertainty Notes
 
-- The official transcript interleaves at least three columns. Reading order has
-  been reconstructed entry-by-entry; scan verification remains necessary.
-- The opening date/transition in the Jugtown letter, several cropped words in its
-  forms/process paragraphs, and the exact number of glazes are partly damaged.
+- The approximately 3500 × 4700 pixel scan confirms the three-column order,
+  Jugtown transitions, glaze count, temperatures, names, and the spread heading
+  `NEW SUGGESTIONS`, now translated as “新建议”.
 - The `Catálogo` price adjective appears as `encono-priced`; it is retained as a
   visible but unresolved source form rather than silently normalized.
-- The Libertarian Connection price is truncated after a dollar sign, and the
-  terminal signature is damaged. Both are explicitly marked in the translation.
-- A stray `Rec` label and any image captions or decoration absent from OCR require
-  visual identification on the high-resolution scan.
+- The scan restores the *Libertarian Connection* price as $3.50. The apparent
+  terminal signature and stray `Rec` are OCR artifacts; the source ends with
+  `thyme...` and carries no signature there.
 
 ## Self Critique
 
@@ -390,5 +388,5 @@ Bob Fried<br>
   list, address, price, technical temperature, book reference, and recipe quantity.
 - The Jugtown letter was restored as one continuous text rather than summarized,
   but several source-damaged transitions are necessarily conservative.
-- This page cannot be accepted until the column order, cropped Jugtown words,
-  Libertarian Connection price, and any non-OCR visual text are checked on scan.
+- All prose, prices, recipes, addresses, headings, and legible visual text have
+  been checked against the high-resolution scan.

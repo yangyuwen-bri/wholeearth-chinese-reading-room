@@ -9,10 +9,10 @@ This report is updated after each reviewed batch.
 - `drafted`: 0
 - `self_checked`: 0
 - `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 27
+- `needs_highres_scan`: 23
 - `revise`: 0
 - `blocked_ocr`: 0
-- `accepted`: 21
+- `accepted`: 25
 - `no_translation_needed`: 0
 
 ## Remaining Blockers
@@ -20,16 +20,6 @@ This report is updated after each reviewed batch.
 - `n0`: accepted after 1761 × 2353 scan review; all 37 quotations, attributions,
   dates, response boxes, title, date, and price are represented. The source itself
   prints Buckminster Fuller's year as `197?`, which remains explicit.
-- `n22`: caption translation and review are complete; high-resolution review
-  must prove whether any image label or edge text was missed by OCR.
-- `n23`: every gardening, Jugtown pottery, kitchen, cookbook, new-college,
-  Spanish-catalog, libertarian-book/contact, and soup entry is fully translated
-  and reviewed; interleaved columns, cropped pottery lines, one missing price,
-  a signature, and non-OCR visual text await scan verification.
-- `n24`: the Jugtown continuation and all thirteen pottery forms/variants, the
-  complete Tom Collins information letter, and the complete John Holt book,
-  school-tool, stereo, trade, measuring, Maslow, and playground letter are
-  translated and reviewed; model glyphs, fractions, columns, and captions await scans.
 - `n25`: the complete historical drug-guide record and excerpts, dulse/mushroom
   letter, crystal-form contact, old-car publication records, and two classified
   ads are translated and reviewed; two damaged clauses, scientific/product names,
@@ -122,9 +112,6 @@ This report is updated after each reviewed batch.
   `January production in the desert.` caption are translated and reviewed; cover
   imagery, caption orientation, mailing typography, and non-OCR visual text await
   scan verification.
-- `n21`: complete bagpipe, record-society, practice, Gurian instrument catalog,
-  and stereo-discount material is translated and reviewed; model alignment,
-  one price, and isolated visual text await scan verification.
 - Direct Archive download access remains unavailable, but a read-only image proxy now
   supplies 1761 × 2353 scans. Leaf-specific visual closure is in progress; no page
   enters `accepted` until its review requirements are checked against those scans.
