@@ -67,25 +67,41 @@ recommended by Buckminster Fuller and Wavy Gravy
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+联邦大楼现在使用单入口或双入口。包裹和公文包会被检查。这一切都是为了保护法官的办公室免受干扰。
+
+在争取人道主义优先事项的斗争中，象征意义是恰当的：一名共同被告的低智商（IQ）提供了车辆，使安吉拉·戴维斯案中的法官因偏见而自行退出。该法官的真实动机——恐惧——仍然是我们承诺的纪念碑。
+
+**没有蓝图**
+
+在美国，激进分子必须意识到，他们被基于经典革命的政策所困，陷入了死胡同。对法农的研究表明，美国大陆的陆地质量并不等于阿尔及尔。对毛泽东、列宁、阮文高（Giap）以及 Sierra Maestra 的研究可能唤醒了真正的革命梦想，但试图实施游击战术在美国这样的宪政民主国家并不奏效，因为这里没有“权力中心”可以推翻。在美国，占领一个广播电台是荒谬的，因为还有数百个电台包围着它。在有四十九个州首府尚未被占领的情况下，占领一个州首府是鲁莽的。每个州首府都有一个众议院、参议院、州长、美国众议员和美国参议员；每个州民兵都由联邦部队加强，而联邦部队又由国家后备部队支持，这些后备部队有能力在远东地区进行十年战争，而无需一次全面动员。
+
+在这股力量背后，是世界上最具有破坏力的空军，其能力从凝固汽油弹到氢弹不等。
+
+“基本原则是，除非能确保胜利，否则不得进行任何战斗、战斗或小规模冲突。”——切·格瓦拉（CHE）
+
+激进分子现在知道，像切或图帕马罗（Tupamaros）所实践的游击战可能在像罗得岛那样大小的国家中有效，因为那里有一个单一城市权力中心，可以被占领；但在美国，这个超级大国，一个横跨全球一半的国家，其政府控制权在地理上、时间上和个人上被分割、制约、平衡、分裂、切割和撕裂，因此没有任何地方可以开始或结束。
+
+——L. Clark Stevens  
+引自《est》（Capricorn Press，加利福尼亚州圣巴巴拉）  
+推荐人：巴克敏斯特·富勒（Buckminster Fuller）和瓦维·格雷维（Wavy Gravy）  
+21
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

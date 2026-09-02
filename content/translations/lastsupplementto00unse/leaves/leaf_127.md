@@ -294,25 +294,68 @@ Springfield, Ore. 7877
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+- 我们是《Whole Earth》的精神与身体，《Whole Earth Catalog》的工作人员需要一个安身之处。我们想要建造一所学校、一个农场，一个能够支持和运用《Whole Earth》原则的生活方式，同时也受到来自世界各地许多好朋友的启发，他们也在努力全面地处理一切事务。我们在财务资源方面积累得很少。到六月时，我们的精神与身体将一无所有。如果你知道有适合我们安身的地方或旅行路线——我们有二十个坚强的人——请写信给Troll，地址是Whole Earth Truck Store。
+- 如果你想要了解越南人民的真实情况，可以购买相关文献、订阅期刊、租借影片。如需信息，请写信给美国援助越南南方民族解放阵线委员会，地址是Box C, Old Chelsea Station, New York, N.Y. 10011，或致电212-YU2-7162。
+- 精神之旅的研究生，如果希望在人类生物计算机和神秘传统方面有所拓展，请写信给J. C. Lilly，地址是8910 Beverlywood St., Los Angeles, Calif. 90034。
+- 《Environmental Law Digest》——由环境法研究所提供的文件服务，地址是1346 Connecticut Ave. NW, Washington, D.C. 20036。初版于1970年9月，售价1美元。该书旨在帮助查找与环境案件相关的文件。ELI还出版一份期刊，每年50美元。
+- 我发现的最出色的环境文献——一部感人而真实的故事——《The Man Who Planted Hope and Grew Happiness》（《播种希望并培育幸福的人》），作者是Jean Giono，由Friends of Nature出版，地址是Miss Ellen R. Riggs, 92 Arlington St., Winchester, Mass. 01890，每本75美分，5本24美元，25-49本50美元，50本及以上45美元，邮费已包含。
+- 听无广告的广播和听有广告的广播之间的区别，就像喝一杯清凉的山泉水和喝一杯尿液之间的区别。我说山泉水，因为城市用水是回收的尿液。
+-（在6月11日的聚会上，Stuart Brand将否认有关他参选的传闻。）
+- 女性历史研究中心，地址是2325 Oak, Berkeley, Calif. 94708。这是一个研究、出借、通信和出售女性文学的图书馆：书籍、期刊、小册子、参考书目、文章、剪报、磁带和图片。主题包括国家中的女性、女性团体中的女性、特定女性、角色、主题、历史中的女性、行动项目、特定男性对女性的言论。使用该图书馆进行研究的女性所完成的工作。
+- 一份包含订购材料地址的持续目录，以成本价提供给其他团体，以避免从头开始。请寄一封贴邮票的自留信以获取资料。电话：415-524-7772。
+- Ken Kern的杰出著作《Owner-Built Home》（《自建房屋》）现在可以直接从《Whole Earth Catalog》购买，价格为5美元。如果你想要这本书加上Ken为你的特定项目设计的初步设计，请寄10美元给Ken Kern，地址是Sierra Route, Oakhurst, Calif. 93644。
+- 《The Marijuana Review》（《大麻评论》）每年2美元，可以从编辑Michael Aldrich处获得，地址是California Institute of Arts, 7500 Glenoaks Blvd., Burbank, Calif.
+- 我想出售我在‘londa的一所房子，这是一所非常好的房子，还有五英亩的红杉树，距离海洋七英里。我想直接出售，不经过银行。你可以向La Honda的任何人询问，如果感兴趣，可以打电话给我在俄勒冈州的号码。这所房子可以成为一个很好的童子军营地或家庭，配有溪流、树木和回忆。
+- Ken Kesey
+- 电话：503-746-9230
+- 《Outside the Net》是一本教育杂志，“从激进的视角进行编辑”（两年4美元，邮编184，Lansing, Mich. 48901）。
+- “Chicken Man!”（“鸡人”！）（英国的Harold Bate）已经上市销售一种套件，它使汽车摆脱了汽油的束缚，释放了普通粪便中固有的力量。（参见分类广告部分。）
+- “Agua Man!”（“水人”！）是西班牙发明家Eduard Estevel。1971年1月23日，Eduard Estevel在欧洲电视上展示了一种以水为燃料的发动机。不是蒸汽机，而是一种以普通、普通的水为燃料的动力单元。据发明者称，它的工作原理是将水分解为基本元素：氢作为燃烧燃料，氧气通过排气管排出。
+- 氧气通过排气管排出！
+- 这是一项发明，不仅不污染，而且实际上可以稍微稀释其他发动机的废气。谁听说过发动机改善大气呢？
+- 此外，Estevel声称，汽车版本的这种发动机每加仑可以行驶400英里，并说作为汽车发动机，它可以以仅25美元的价格大规模生产。
+- 在西班牙展示后的几天内，Tullio Stermin和Giovanni Zabbia，两位南非工程师，在开普敦展示了他们的Bate风格的转换单元，使250cc的汽油发动机能够使用从普通水中释放的氢气运行。他们还匆忙申请了“水燃烧发动机”的世界专利。Stermin和Zabbia声称他们的设备可以轻松适应汽车转换。
+- 他们的系统包括移除化油器，并用一个简单的氢气供给装置代替，该装置将气体-空气混合物引入气缸。一辆改装后的汽车将携带两个燃料箱；一个装普通水，另一个用于生成、储存和在压力下释放氢气。秘密在于定期加入到加压箱中的添加剂，以保持从水中发酵氢气。当然，添加剂的成分被保密；但已知只涉及两种成分，且两者都常见。一种是金属，另一种是“家用化学品”，由Rod Chadwick提供。
+- Harold Bate的转换套件，连同他的家庭鸡燃料生产蓝图和一切其他所需的东西，以使无汽油的汽车或卡车上路（你在9月目录的第17页提到了这一点），已经在美国家中可用。地址是Earth Move，邮编10121，波特兰，俄勒冈州97210，通过邮寄购买整个套件的价格是35美元。
+- Movement Speakers Bureau负责安排所有预订演讲者的事宜，以确保为大学、组织或团体提供服务。
+- 500美元，这里是为了永恒的。
+- 900美元，1029 Vermont Ave., 32€. 20005 电话：202-628-8057。
+- “地下铁路快递”。
+- 不成为问题的一种方式是支持地下替代方案。
+- 此外，这里还有一些更疯狂性质的期刊：
+- 《The Green Revolutions》（“绿色革命”）是一个广泛的去中心化和生活努力，地址是Rural Route 1, P.O. Box 129, Freeland, Md. 21053。
+- 《Nomad》（“游牧者”）是为那些步行、骑自行车、乘船、乘公共汽车、火车或骑马穿越国家和世界各地的人，以及那些住在船上、驳船上、拖车和帐篷、圆顶和帐篷中的人提供服务。“按需免费提供新闻卡”（Nomad, 41 Union Sq. W., New York, N.Y. 10003）。
+- 最后，如果你更愿意自己动手，母亲，一本名为《How to Publish Your Very Own Underground Newspaper》（《如何出版你自己的地下报纸》）的优秀指南，可以从Free Ranger Press获得，地址是Box 26, Village Sta., New York, N.Y. 10014。
+- 关于太阳能的更多信息：有一个“太阳能协会”，这是一个“致力于太阳能应用科学和技术的国际专业组织”，根据他们的宗旨声明。他们通过每季度的期刊《Solar Energy》传播太阳能应用的信息。“协会的会员费每年15美元，包括订阅。或者，可以从订阅经理Pergamon Press，位于Leadington，牛津，英格兰订购订阅，每年15美元。该期刊具有很高的科学质量，技术文章可能对普通读者来说有点过于技术性。该协会刚刚将其世界总部从亚利桑那州立大学，坦佩，迁至“国家科学中心”，191 Royal Parade, Parkville, Victoria, Australia。有一个新成立的美国分会，地址是Smithsonian Radiation Biology, 12th Floor, Parliament Drive, Parkville, Vic. 20052，写信到那里获取美国的信息。
+- Steve Sargent
+- BLOSSOM ANTI-FREEZE
+- 适用于所有水果、花卉、蔬菜和灌木
+- 经过十年的商业果园测试，结果非常出色。
+- 在水果或花卉花蕾的快速生长期，花蕾对食物的需求非常大，以至于它能够通过其组织吸收大量的食物和矿物质。如果在花蕾快速生长期的温暖日子（高于50°F）喷洒花蕾，它将吸收足够的食物进入细胞，以降低其冰点。
+- 此外，胚胎被滋养到足以产生更好的果实。
+- BLOSSOM ANTI-FREEZE由39种植物食品组成，完全是有机的——且无毒。通过使用这种喷雾来防止花蕾致死的霜冻，就不需要使用会产生污染的烟雾罐了。
+- BLOSSOM ANTI-FREEZE可以在单加仑或6加仑的箱子中购买，每加仑价格为2.98美元，加上运费。此外，如需更多信息，可以请求提供。
+- IT REALLY WORKSSS4
+- 池塘商店，145 N. 3rd，
+- 斯普林菲尔德，俄勒冈州7877
+- 请写信给：
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

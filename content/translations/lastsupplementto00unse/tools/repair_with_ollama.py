@@ -40,7 +40,7 @@ def transcript(source: str) -> str:
 def call_model(source: str, translation: str, fixes: str, source_words: int) -> str:
     if source_words > 1500:
         num_ctx, num_predict = 16384, 7000
-    elif source_words > 600:
+    elif source_words > 900:
         num_ctx, num_predict = 8192, 5000
     else:
         num_ctx, num_predict = 4096, 3000

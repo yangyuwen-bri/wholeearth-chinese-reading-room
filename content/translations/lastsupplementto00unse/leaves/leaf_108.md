@@ -64,25 +64,82 @@ cove Hayy * TOMOLLY
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+格雷格·埃斯·查恩克·克洛伊-
+对追踪
+
+埃·埃·埃·“奥尔。
+埃·埃
+
+塞·埃·特·埃·埃
+马克·斯坦库尔克洛是那些人；
+3 | 埃·埃·埃·杜安
+为创造移动，与HLoriLo，
+莱·哔哔半是这个埃·埃
+
+SS i 巴普和
+
+的
+和
+
+当前冲击
+
+这里有一个例子，说明事件的迅速发展如何使本补充资料中的信息在出版前就变得过时。下面是一封来自我儿子的信，他在本期中的自画像中少了一只脚。
+
+亲爱的爸爸
+
+我迫不及待想见到你。
+
+我希望你收到了我的信。你收到了吗？
+
+5月1日
+我很高兴你正在工作时玩得开心。
+=我又掉了一颗牙齿“亨斯雷
+
+我掉了三颗牙齿
+
+£3
+
+缺失。&
+请给我从墨西哥带点很棒的东西，也给自己带点。也许是一件漂亮的墨西哥*：
+衬衫或者一件给我。妈妈说你会知道给她带什么，
+在阿卡普尔科附近。‘
+天气实在太好了，我整个周末都在骑自行车。我正在学习如何除法，如果你有任何除法问题，请发给我。
+牙医本来要拔掉我一些后牙，让我的嘴里有空间，他说那里就像一条地铁。但现在他不打算拔了，因为我掉了这么多牙齿，如果他再拔一些，我将成为第一个七岁就戴假牙的孩子。
+
+请向肯·凯西问好，并
+在他耳边吹气 HE HE。
+
+你实在太好了，我ygm&xmanGcxxxxxxxxxx
+x
+不能88x
+
+~ @mxx相信它哦，对不起爸爸
+我是说，我相信它，我太傻了，是我XXHX
+你们不是EF
+
+我
+爱——海斯
+
+汤米
+
+107
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

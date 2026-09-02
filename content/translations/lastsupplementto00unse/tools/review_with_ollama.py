@@ -112,7 +112,7 @@ def call_model(leaf: int, source: str, translation: str, tesseract: str) -> dict
     source_words = int(source_words_match.group(1).replace(",", "")) if source_words_match else 0
     if source_words > 1500:
         num_ctx = 16384
-    elif source_words > 600:
+    elif source_words > 900:
         num_ctx = 8192
     else:
         num_ctx = 4096

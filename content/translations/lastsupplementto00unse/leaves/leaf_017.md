@@ -28,25 +28,30 @@ But when | became a man
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 官方 OCR 文字较少，已同时参照高清扫描的独立 OCR 补证；待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+当我还是个孩子时，  
+我说话像孩子，  
+我理解得像孩子，  
+我思想也像孩子；  
+但当我成为大人时，  
+我就丢弃了孩子般的事物。  
+——! Cor. Ch. 13:17
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

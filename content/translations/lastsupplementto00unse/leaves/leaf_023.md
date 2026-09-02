@@ -71,25 +71,42 @@ Photo by John Manos
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+法律作为一种革命工具  
+作者：Jim Wolpman  
+
+你可以从好的案例中看到这一点，就是那个好的案例。  
+在1到10的尺度上，它是10分。一切都齐全了；其余的，7分、5分，也许2分有一些，但它们也具有启发性，而10分就是10分。  
+如今，人们称它为政治案例，但那只是它的一部分，所以在这里我们不会这么称呼它。事实上，我们会淡化它，因为它已经被过分强调了……这应该会使它最终呈现出正确的面貌。  
+整个事情——包括案例本身——可以被看作是一种工具，但那里确实有一种产品——一种生产——不能被忽视。我的意思是，10分可以靠自己的双脚站立，让别人去使用它。在这里，律师就是工具；他就是法律，至少是法律的一个重要部分。换句话说，他所做的在很大程度上决定了法律到底是什么。他还是其他东西，比如一个人。  
+这确实让情节变得复杂，而且必须加以处理。事实上，这可能就是他一直在做或应该一直做的事情：做一个真正的人。  
+
+要成为一个案例，首先必须被识别，而识别是困难的。人们很容易抽象地说出并看到当前发生的事情多么错误和腐朽，但要看到蜘蛛网中的每一条线，那张肯定抓住了这个特定的人的网，那就困难得多。  
+在这里，客户比律师更清楚：这是他的生活，而这张网就是为这种生活而发明的。一切都存在，整个事情，每一条线都存在。  
+
+你小时候肯定读过那种书，书上有一些点和数字，你按照数字把点连起来，最后就会出现一幅画。这是一件事，可以做到。现在发生的事情，丑陋和可怕到了极点，而它越是努力隐藏这种丑陋，它就越变得可怕。它花越来越多的时间去隐藏，而它本身也变得越来越疯狂和愚蠢。或者，正如他们所说，矛盾正在浮现。  
+尾巴上有一点蜂蜜。（这里有一种诱惑：如果你喜欢看，要小心。）  
+
+法庭只能容纳这么多。法警和证据法的主要职责是防止发生太多事情。“我们不希望这里有任何这些东西。”但如果你用证据规则，像禅宗规则那样，悄悄地、温和地填满它，你就可以填满它。  
+
+22  
+照片由 John Manos 拍摄
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

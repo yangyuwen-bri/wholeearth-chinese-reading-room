@@ -57,25 +57,56 @@ You're invited too of course. ;
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+你被邀请参加一个  
+专属派对，  
+庆祝《Whole Earth Catalog》的  
+**终结**  
+在旧金山举行，  
+时间是6月17日星期五，晚上7点开始。  
+
+以下人士受邀参加：  
+所有曾在Menlo Park和Portola Institute的Whole Earth Truck Store & Catalog工作的现职和前任员工。  
+所有曾与《Whole Earth Catalog》合作的Nowels Publications、Book People、Smith Co（邮寄）、East Wind、Bohannen P.O.和Random House的员工。  
+所有曾在《Whole Earth Catalog》或其补充刊物上发表评论、来信或建议的人。  
+
+请回复（RSVP）：请将你的姓名、地址以及你将带多少人，寄送至：  
+**终结**  
+《Whole Earth Catalog》  
+558 Santa Cruz Ave  
+Menlo Park, CA 94025  
+我们将告诉你派对的地点。  
+
+**注意 注意**  
+所有《Whole Earth Catalog》的制造者，  
+所有曾在《Whole Earth Catalog》或其补充刊物中列出项目或创作内容的作者和创作者，  
+所有持续订阅和支持的订阅者，  
+所有参与LIFERAFT EARTH和ALLOY项目的人，  
+所有曾对《Whole Earth Catalog》或LIFERAFT EARTH进行评论或撰写文章的媒体人员。  
+
+着装：你可以打扮成一件工具。  
+
+注意美国国内税务局：  
+此次活动是一场教育性质的活动，其确切性质  
+可能要到6月11日晚上10点才会揭晓。  
+
+当然，你也受邀参加。
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

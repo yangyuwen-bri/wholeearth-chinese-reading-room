@@ -122,25 +122,55 @@ fantastic fertility rite you’ve ever seen.”
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+道德：如果你真的想做点什么来恢复这个星球上生命形式之间的平衡与和谐，我在此宣布一场战争，针对人民！把巴比伦推倒，刮干净它的表面，同时在你清理引擎时，把巴比伦的超级爱国者们压入服役，为大众服务……每个公民都有责任为他的环境尽一份力。你将会很高兴，你迪奥！我们伟大的国家所面临的日益增加的污染危险，是由70亿人口这一简单事实造成的。因此，必须采取措施控制我们不断增长的人口。司法部长和我起草了措施，虽然严厉，但为了对抗这一邪恶是必要的……
+
+加里·格里姆肖！
+
+太空中的地球
+
+以上摘自加里·格里姆肖的笔下，出现在地下漫画书《慢死》第一期中。
+
+以下的信件往来出现在第二期中。
+
+亲爱的格里姆肖先生：
+
+关于您在《慢死：生态之旅中的巴比伦》第一版中的漫画，您把斯科特·卡彭特描绘成一个巴比伦的爱国者。我认为这是不公平的，因为据我所知，您对他的性格了解有误。我认识他是一位父亲，也是一位非常自由派的人——他绝不是尼克松及其做法的崇拜者。他是一位工程师，也略懂科学——我认为他对“X-720 Z”有一定的了解。他向我解释过，并与许多科学家讨论过，它确实有效。他还是Sea Sciences Corp.的总裁，这家公司主要致力于阻止和清理污染，以及维持大众的生存。他真的关心孩子们以及他们正在做的事情，因此，当我明显贬低他时，我感到非常不满。
+
+真诚地，  
+克里斯滕·卡彭特
+
+附言：他和我的姓氏拼写是CARPENTER，而不是CRAPENTER。
+
+亲爱的克里斯滕：
+
+感谢你的来信。它已经转交给格里姆肖先生。视觉YoYo部落调查了F-310。根据联邦贸易委员会，它是一个骗局。据说它会产生光气（芥子气）。看起来它既不会增加氧化亚氮（《地球时报》第3期）也不会减少它（生态信息小组）。它只是一种清洁剂，如果化油器保持调整，它就没有应用价值。如果标准石油公司把那些数百万美元用于教导公众如何调整化油器，而不是像你父亲那样欺骗人们，世界将会变得更好。我们相信Sea Science Corporation以及你和你的父亲将继续为与《慢死》相同的理想而努力。
+
+人民万岁，  
+罗纳德·E·特纳，编辑
+
+赶紧去拯救正在消失的肯塔基州表层土壤。或者重新种植海洋中日益减少的海藻。甚至在足球比赛后指挥交通。（如果每个人，无论年龄，都必须在某个时间服兵役六个月，作为交通警察、公园管理员或垃圾收集者，那会怎么样呢？）
+
+所以，你们这些大人物的军队，快点从美元想要你们去的地方撤出来，去那些真正需要你们的地方开展行动吧！
+
+“等他们点起火时，那将是你见过最壮观的生育仪式。”  
+97
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

@@ -55,7 +55,7 @@ def official_transcript(source_pack: str) -> str:
 def chat(prompt: str, system: str, *, source_words: int) -> str:
     if source_words > 1500:
         num_ctx, num_predict = 16384, 7000
-    elif source_words > 600:
+    elif source_words > 900:
         num_ctx, num_predict = 8192, 5000
     else:
         num_ctx, num_predict = 4096, 3000
@@ -85,6 +85,31 @@ def chat(prompt: str, system: str, *, source_words: int) -> str:
     return envelope["message"]["content"].strip()
 
 
+def longest_copied_run(source: str, translated: str) -> int:
+    """Return the longest verbatim English-word run shared by both texts.
+
+    Short runs are expected in names, titles, addresses, and bibliographic data.
+    A long run is evidence that the model copied prose instead of translating it.
+    """
+    source_words = [word.lower() for word in re.findall(r"[A-Za-z]+", source)]
+    translated_words = [word.lower() for word in re.findall(r"[A-Za-z]+", translated)]
+    source_positions: dict[str, list[int]] = {}
+    for index, word in enumerate(source_words):
+        source_positions.setdefault(word, []).append(index)
+    longest = 0
+    for translated_index, word in enumerate(translated_words):
+        for source_index in source_positions.get(word, []):
+            run = 0
+            while (
+                translated_index + run < len(translated_words)
+                and source_index + run < len(source_words)
+                and translated_words[translated_index + run] == source_words[source_index + run]
+            ):
+                run += 1
+            longest = max(longest, run)
+    return longest
+
+
 def call_model(source_pack: str, leaf: int) -> str:
     tesseract_path = TESSERACT_ROOT / f"leaf_{leaf:03d}.txt"
     tesseract = tesseract_path.read_text(errors="ignore") if tesseract_path.exists() else "[not available]"
@@ -106,12 +131,11 @@ def call_model(source_pack: str, leaf: int) -> str:
 
 
 def call_model_chunked(source_pack: str, leaf: int) -> str:
-    tesseract_path = TESSERACT_ROOT / f"leaf_{leaf:03d}.txt"
-    source = (
-        tesseract_path.read_text(errors="ignore").strip()
-        if tesseract_path.exists()
-        else official_transcript(source_pack)
-    )
+    # The official DjVu transcript has the more reliable reading order.
+    # Tesseract remains supplemental evidence for sparse scans, but its page-wide
+    # output often begins with marginal noise or rotated text and must not drive
+    # the normal chunk fallback.
+    source = official_transcript(source_pack)
     chunks: list[str] = []
     current: list[str] = []
     current_size = 0
@@ -125,11 +149,10 @@ def call_model_chunked(source_pack: str, leaf: int) -> str:
         current_size += added
     if current:
         chunks.append("\n".join(current).strip())
-    translations: list[str] = []
-    for index, chunk in enumerate(chunks, start=1):
+    def translate_piece(chunk: str, label: str) -> str:
         prompt = f"""将下列英文 OCR 按原有顺序完整翻译成中文。修复 OCR 断行和行末连字号，但不得总结、缩写、遗漏或照抄英文整句。标题、署名、引文、数字、价格、地址和标签全部保留。只输出这一段的中文译文，不要说明。
 
---- 第 {index}/{len(chunks)} 段 ---
+--- 第 {label} 段 ---
 {chunk}
 --- 本段结束 ---
 """
@@ -138,9 +161,29 @@ def call_model_chunked(source_pack: str, leaf: int) -> str:
             "你是英译中翻译器。完整翻译所有源文，只输出中文译文。",
             source_words=max(1, len(chunk.split())),
         )
-        if len(re.findall(r"[\u3400-\u9fff]", translated)) < 20:
-            raise RuntimeError(f"Chunk {index}/{len(chunks)} did not return Chinese")
-        translations.append(translated)
+        source_word_count = len(re.findall(r"[A-Za-z]+", chunk))
+        minimum_cjk = max(4, min(20, source_word_count // 2))
+        copied_run = longest_copied_run(chunk, translated)
+        if len(re.findall(r"[\u3400-\u9fff]", translated)) >= minimum_cjk and copied_run < 40:
+            return translated
+        lines = chunk.splitlines()
+        if len(chunk) <= 450 or len(lines) < 2:
+            raise RuntimeError(f"Chunk {label} did not return Chinese")
+        midpoint = max(1, len(lines) // 2)
+        left = "\n".join(lines[:midpoint]).strip()
+        right = "\n".join(lines[midpoint:]).strip()
+        return "\n\n".join(
+            part
+            for part in (
+                translate_piece(left, f"{label}a") if left else "",
+                translate_piece(right, f"{label}b") if right else "",
+            )
+            if part
+        )
+
+    translations: list[str] = []
+    for index, chunk in enumerate(chunks, start=1):
+        translations.append(translate_piece(chunk, f"{index}/{len(chunks)}"))
     return "\n\n".join(translations)
 
 
@@ -170,13 +213,10 @@ def render(path: Path, final: str, source_words: int) -> int:
             f"Model did not return a Chinese translation for {path.name}: "
             f"{cjk_count} CJK chars in {len(final)} chars"
         )
-    final_words = [word.lower() for word in re.findall(r"[A-Za-z]+", final)]
-    copied_run = any(
-        " ".join(final_words[index : index + 8])
-        in " ".join(word.lower() for word in re.findall(r"[A-Za-z]+", official_transcript(section(text, "Source Pack"))))
-        for index in range(max(0, len(final_words) - 7))
+    copied_run = longest_copied_run(
+        official_transcript(section(text, "Source Pack")), final
     )
-    if 80 <= source_words <= 1500 and copied_run:
+    if 80 <= source_words <= 1500 and copied_run >= 40:
         raise RuntimeError(f"Model copied a long English source span into {path.name}")
     source_pack = section(text, "Source Pack")
     context = "- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。"

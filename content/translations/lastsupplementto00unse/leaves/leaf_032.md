@@ -110,25 +110,38 @@ of that unhappy day.
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+thers 开始侵入他的土地。不久之后，她发现 Folake 与 Ojo 和 Kunle 一起玩耍，她与他们轮流享受乐趣。Ojo 和 Kunle 互相嫉妒，彼此憎恨。但 Folake 却能控制他们两人，因为她威胁要将他们的秘密告诉他们的妻子。有一天，Folake 正在和 Kunle 玩耍，他们打算一起忘记这个世界，突然他们听到了丈夫从一次旅行中意外返回的声音。Folake 迅速告诉 Kunle 躲进一个大锅里。丈夫进入后，以为 Folake 因为他回来而感到兴奋。当他开始坐下来吃 pounded yam（捣碎的山药）时，Ojo 突然闯了进来。但 Folake 的头脑比鹰扑向鸡还要快，她还没等丈夫起疑，就立刻对 Ojo 说：“这是你要来取的锅。请代我向我母亲问好。”  
+愚蠢并不是一种罪，但同样需要惩罚。  
+丈夫的头脑比乌龟上坡还要慢，他走过去帮 Ojo 把锅放在头上。  
+当 Ojo 沿着路走时，他打算在某个偏僻的地方释放 Kunle，那里没人会看到他们。但随后他开始自言自语：如果羚羊走进狮子的洞穴，它不就期待被吃掉吗？我难道要永远和这个无用的家伙一起与 Folake 分享吗？于是他迅速走向 Kunle 的家。当 Kunle 发现情况时，他从锅里喊道：“Ojo，我们不是一直以爱为兄弟吗？现在我们难道不能成为逃亡的兄弟吗？”但 Ojo 说：“你希望我像一个妻子那样，等着轮到她为丈夫做饭吗？”在 Kunle 还没反应过来之前，Ojo 已经把锅放在了 Kunle 的家里，并对他的妻子说：“我代你的好朋友 Folake 向你问好，她送你这个锅作为礼物。”说完这些话，他迅速离开了。当 Kunle 被他的妻子发现时，她把正在煮的 hat amala（一种食物）朝他脸上扔去，撕了他的衬衫，尖叫着并叫来了邻居。Kunle 被所有人责备，尤其是他感到羞愧，不敢去见 Folake，因为他的脸上皮都剥落了。  
+一段时间后，Ojo 独自与 Folake 享受时光，而她的丈夫仍然一无所知。任何人低头看，总会看到自己的鼻子。但当你必须一直盯着天空时，你又能怎么办呢？  
+最终，Kunle 的脸愈合了，他回到 Folake 那里。现在 Folake 很高兴，因为她不能只满足于一个情人。在 Kunle 还没来得及说：“我向你问好，因为前几天的事”之前，她已经脱下她的围裙。突然，她丈夫的声音被听到了。Folake 已经赤身裸体，她迅速跳进一个大锅里，把 Kunle 留下来解释。  
+Kunle 礼貌地向丈夫打招呼，并说：“我在市场上看到你的妻子，从她那里买了这个锅，她让我来取。”于是丈夫帮 Kunle 把锅放在头上。现在 Kunle 走在路上，他正在思考如何释放 Folake。但随后他开始思考：“为什么 Folake 在她离开我面对危险时却试图拯救自己？”他决定惩罚她。于是他走向 Ojo 的家，遇到了 Ojo 和他的妻子。他放下锅，说：“Folake 的丈夫让我送你这个礼物。”然后在赤裸的女人被发现之前，他迅速离开了。接着，就像五十只公鸡为了同一只鸡而争吵一样，发生了打斗和尖叫。起初，妇女们殴打并抓挠每个人，然后他们扑向了一个人，他看起来像雨后的猫头鹰，直到邻居们救了他。  
+就这样，Kunle 报了仇，但也失去了 Folake。因为丈夫就像那个寻找裤子的人，发现他其实正穿着它们。当他终于变得聪明时，他确保他的妻子被严密监视。  
+因此，Ojo 就像那个在路上拉屎的人，回来时发现有苍蝇。而 Kunle 则像那个棕榈酒采集者，为了惩罚棕榈树而割断了绳子。  
+
+**对罗伯特·亨特歌词中某些社会哲学主题的简要阐释**  
+**《“新赛道波吉”》**  
+作者：ED McCLANAHAN  
+
+感恩死乐队（The Grateful Dead）深度参与了滚石乐队（The Rolling Stones）灾难性的阿尔塔蒙特（Altamont）音乐会的策划——据大多数资料称，正是他们建议雇佣地狱天使（Hell’s Angels）来负责舞台周围的安保工作——而罗伯特·亨特（Robert Hunter）为《“新赛道波吉”》（“New Speedway Boogie”）所写的歌词，可以被视为他们对那天不幸事件的“官方”公开声明。
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

@@ -69,25 +69,62 @@ a we PIRATE EDITIONS, 640 Broadway, New York, N.Y. 10012
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+超过 30 家出版社  
+cecal | 拒绝了这本书  
+在马萨诸塞州波士顿，可于以下地点获取《偷这本书》：  
+Book Mart，659 Washington St.（左边第二个走道是最佳选择。）  
+在佐治亚州亚特兰大，可于以下地点获取《偷这本书》：  
+The Bookworm，92 Forsyth St., NW。（尝试在中午高峰时段。）  
+在佛罗里达州迈阿密，可于以下地点获取《偷这本书》：  
+Book Fair，N.E. 20th Ave. 和 163rd St., North Miami Beach。（使用洗手间将书藏在衣物中。）  
+在宾夕法尼亚州费城，可于以下地点获取《偷这本书》：  
+Bradd Alan Book Store，Cheltenham Shopping Center，Cheltenham。（周日和大部分晚上非常繁忙。）  
+在威斯康星州密尔沃基，可于以下地点获取《偷这本书》：  
+Rhubarb Book Store，1618 Wells。（有很多盲区。）  
+在纽约州纽约，可于以下地点获取《偷这本书》：  
+Eighth Street Book Shop，17 West Eighth St.（使用桌子上的助推箱。）  
+在华盛顿特区，可于以下地点获取《偷这本书》：  
+Washington Circle Community Book Shop，2 2147 K St. NW。（从商店后部行动。）  
+在伊利诺伊州芝加哥，可于以下地点获取《偷这本书》：  
+Store Front，2578 North Lincoln。（相机是假的，忽略它。）  
+在加利福尼亚州洛杉矶，可于以下地点获取《偷这本书》：  
+Pickwick Book Shop，6743 eet ad Blvd.（他们从不检查购物袋。）  
+
+正确技巧的插图。  
+《生存与战争手册》。超过 300 页，内容包括：  
+搭便车 | 猴子战争  
+急救 | 通讯  
+街头格斗 | 共同体  
+地下生活 | 食物阴谋  
+毒品交易 | 自由生活  
+商店盗窃 | 伪造  
+示威 | 法律建议  
+
+超过 100 张照片、插图、漫画和拼写错误。  
+特别章节介绍纽约、旧金山、芝加哥、洛杉矶。  
+
+本书的版税将捐赠给 WPAX — PO Box 410, Cooper Station, New York, N.Y. 10003。  
+——— 向东南亚的美军士兵进行无线电广播 ——— 我们也需要你的帮助！  
+RE SSD TE ODS TE ee ee oes!  
+a we PIRATE EDITIONS, 640 Broadway, New York, N.Y. 10012  
+“mid, 由 Grove 发行。（如果你的书店拒绝销售这本书，请写信给我们。）
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

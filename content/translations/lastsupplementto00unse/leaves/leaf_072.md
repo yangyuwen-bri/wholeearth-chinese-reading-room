@@ -75,25 +75,48 @@ One little flop don’t mean ya can’t reach the top;
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+AUL K N E R：你可能知道他的歌曲，但他的散文却不太为人所知。《Bound For Glory》是一部生动的见证，讲述了一个乡下人如何用他诗意的心灵欢笑面对生活。
+
+我们今天的悲剧是一种普遍的、身体上的恐惧，这种恐惧已经持续了这么久，以至于我们甚至能够忍受它。不再有精神上的问题……他必须自己教导自己，最卑微的事情就是害怕；教导自己，忘记这种恐惧，永远不再让它有容身之地，他的工作间里只留下那些古老的真实和心灵的真理，那些普遍的真理，缺乏这些，任何故事都是短暂的，注定失败的。
+
+爱、荣誉、怜悯、骄傲、同情、牺牲……我相信人类不仅会忍受，还会胜利。他是不朽的，不是因为他作为生物中唯一拥有不竭声音的生物，而是因为他拥有一颗灵魂，一种能够同情、牺牲和忍耐的精神。
+
+Bobby Zimmerman  
+在支离破碎的世界中歌唱  
+
+亲爱的 Bobby：  
+
+这里正下着猛烈的暴雨，我刚刚拿着锯子和链条出去，把威胁着我窗户的树砍掉，我开始思考诗歌；有时候，即使那些以灵感种植、以真理养育的事物，也必须在天气恶劣时被砍伐，只是为了保护房屋免受那些原本旨在保护它的枝条的伤害。但在这个物种中，针叶树的绿色在地下悄然生长。红杉的根不会死。  
+
+愿你平安与爱，  
+K.  
+
+我最喜欢的是福克纳。一支笛子正在吹奏，手工雕刻，来自沼泽底部那荒凉而可怕的过度生长。一匹耕马的粗壮马头被抬起来，倾听着。肥料在鸡舍旁生锈，因野性的音符逐渐归于沉默而震惊。是的，他想，抬起头望着晨光，是的，是的，如果南方舒适（Southern Comfort）在金银花甜腻的堕落中过于腻人，它仍然是少数几百种证明中的一种，证明一个人可以啜饮而不被灼伤；是的，福克纳是我承认的最爱。  
+
+……  
+
+一个错误：不要在 Hae 放弃  
+一次小小的失败并不意味着你不能到达顶峰；  
+“你必须继续努力……”  
+——复活节封印之歌  
+71
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

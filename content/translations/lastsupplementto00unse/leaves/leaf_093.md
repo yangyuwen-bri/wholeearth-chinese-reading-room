@@ -83,25 +83,76 @@ sonal Bible.
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+年轻诗人讲述身为黑人、波多黎各人、印度人、因纽特人、古巴人、日本人、中国人——以及美国人是什么感觉  
+编辑：弗吉尼亚·奥尔森·巴伦  
+附有42张照片  
+哈2阿姆尔！  
+1968年4月4日  
+战争——战争  
+为什么上帝的孩子要像动物一样互相争斗  
+曾经有一位伟大的人活着  
+一位黑人  
+他的名字是马丁·路德·金牧师  
+但你知道发生了什么吗  
+他被一个白人暗杀  
+一个拥有如此知识的人  
+马丁·路德·金  
+一个拥有如此勇气的人  
+站起来，让别人打他  
+却不还手  
+是的——  
+这就是勇气  
+当你还击的时候，当然你也很勇敢  
+但你是否能想象自己站起来  
+让别人打你  
+却不眨一下眼睛  
+这需要勇气  
+他们把他打倒了  
+没错  
+上帝的一个孩子  
+那么你可以期待一个漫长而炎热的夏天  
+我们的一位黑人领袖被杀害了  
+被谋杀  
+堕入了下水道  
+我将永远记住这个黑暗的日子  
+真奇怪，现在你甚至  
+不能再走出街去  
+某个疯子可能会在冷血中射杀你  
+这是什么样的世界？  
+我不知道。  
+迈克尔·古德 —— 眼睛  
+布鲁克林，纽约  
+冬季士兵阅读工具  
+以下是一些强烈推荐用于你私人意识提升的书籍：  
+*《革命非暴力》（Revolutionary Non-Violence）——戴夫·德尔林格著——  
+道德报告，应成为所有高中、大学、公社和军营的必读内容。  
+*《不再说谎》（No More Lies）——迪克·格里高利著——  
+关于美国历史的真相（并确保听听他的专辑《弗兰肯斯坦》）：  
+*《姐妹情谊是强大的》（Sisterhood is Powerful）——罗宾·摩根编辑——  
+这是一本提供超越性别界限的灵感的合集。  
+*《如何肮脏地说话并影响他人》（How to Talk Dirty and Influence People）——伦尼·布鲁斯著——  
+一位幽默先知的自传，让你不禁思考，如果他现在还活着，他会说什么。  
+*《约翰尼失去了他的枪》（Johnny Got His Gun）——达尔顿·特伦布著——  
+我的个人圣经。  
+——p.k.  
+92
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

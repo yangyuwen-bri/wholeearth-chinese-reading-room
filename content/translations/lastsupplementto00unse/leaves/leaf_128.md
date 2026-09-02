@@ -57,25 +57,55 @@ PRACT Ye key ah pa me Uo
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+《全球概览》的最后一期  
+共有 448 页，包含我们所知道的一切，价格为 5 美元，  
+预计于 1971 年 7 月下旬出版  
+订购方式：  
+全球概览  
+558 Santa Cruz Ave  
+Menlo Park, CA 94025  
+或  
+Random House, Inc  
+201 East 50th St  
+New York, NY 10022  
+
+合理的复制品  
+《滚石》杂志称，这最后一期《全球概览》补充版“也将邮寄给 Krassner 的不定期刊物《The Realist》的订阅者，作为其期待已久的周年纪念特刊。” 不，事实并非如此。这期只是《The Realist》的又一期。  
+下个月还会有另一期，同样只是另一期，内容包括“对 Ken Kesey 的不礼貌采访”；然后是三部曲“记者于小型事件”；接着，今年夏天，将出版传奇的、早于其时代 13 周年纪念特刊。Stewart Brand 被引用说过：“这也将是 Paul 最终搬到加利福尼亚的借口。” 是的。我预计将继续从旧金山编辑《The Realist》，尽管发行部门仍留在纽约。现在订阅，您将从下一期开始，包括周年纪念特刊。您也可以预订我书的一本副本。  
+
+NOV SHMOZ  
+KA POP?  
+AST ro  
+tue UNKNOWN!  
+
+《The Realist》，部门 WE  
+595 Broadway  
+New York, N.Y. 10012  
+
+$3 为《The Realist》一年（6 期）的订阅费  
+$5 为《The Realist》两年（12 期）的订阅费  
+$7 为《How a Satirical Editor Became a Yippie Conspirator in Ten Easy Years》一书的购买费——这是一本 Paul Krassner 的作品集，收录了《The Realist》上的内容，包括臭名昭著的“被删掉的肯尼迪书部分”，以及对 George Lincoln Rockwell、Dick Gregory、Dr. Robert Spencer、Joseph Heller、Norman Mailer、Mort Sahl、Pes Southern、Woody Allen 和 Timothy Leary 的不礼貌采访。  
+
+PoicWemaneeralinn nan lieder wre Rauuue Merch LN TO tatisirle jbilica eo) SAAN dae ee tice  
+eMac ct at ial soh) allah telitinal ace Diakecle eum onetlatncte( iii, Abe Seine  
+PRACT Ye key ah pa me Uo
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

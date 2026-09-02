@@ -78,25 +78,42 @@ checking the comode? It’s all good shit whatso’mevet
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+我其实并不真的推荐酸（LSD），因为酸现在已经变成了一种几乎毫无意义的化学物质。我的意思是，我第一次用的酸是Sandoz，是联邦政府在一系列实验中给我的（现在怎么样，叔叔？别给我那套反美毒品疯子的废话；你让我上瘾了……！）那是一次美妙的经历。从那以后，除了Owlsey的作品，我尝试过的所有自制批次都各有各的趣味、启发、痛苦、怪异等等，但从那以后，再也没有哪一次是如此纯粹的。
+
+同样的情况也适用于裸盖菇素（psilocybin）。
+
+我也不推荐安非他命和可卡因，因为我不是经纪人。
+
+我对STP持明确的“暂停”态度；我认为从业力（karma）的角度来看，它并没有什么问题，但它的旅程太漫长又毫无滋味，会损害你的轴承（比喻精神或身体的承受能力）。
+
+我也不推荐镇静剂，因为我唯一一次使用它们的经历是在精神病院工作时，那时它们基本上被当作化学警棍和手铐来使用。
+
+但老朋友大麻，我倒是可以推荐。它能让你在不发疯的情况下保持清醒（而且你越疯，就越疯），在不愚蠢的情况下保持平静，在不强迫的情况下保持兴趣，在不歇斯底里的状态下保持快乐……抽大麻吧。
+
+——LORD BUCKLEY  
+ROLAND KIRK  
+还有，尤其是，一定要说“是的”，考虑到到目前为止事情的发展，我已经明白了，  
+——NEAL CASSADY  
+——嘟嘟嘟，老家伙大多数时候只是老一套的“还有什么新消息？”嘟嘟嘟，一直如此，这不算什么大事，因为它一直就是嘟嘟嘟，即使看起来像是嘟嘟哒，实际上它仍然在嘟嘟嘟，就在那个特定的卷曲之下，仍然嘟嘟嘟，如果不是某些不驯服的头脑搅动者哼着嘟嘟嘟的火车经过，没人会察觉到这一点——快点，伙计；别等了！——你本来就在错误的轨道上，特别是考虑到那辆嘟嘟嘟的火车实际上在麦克阿瑟离开巴丹岛（1942年）时就已经停了下来，所以我直接告诉你，伙计；最好的办法就是一直灵活地前进，永远站在你那危险舌头的尖端，对吧？
+
+这些吟游诗人是我们最稀有和珍贵的工具之一。舌头自由地摆动，毫无摩擦；意识中没有隐藏。不需要编辑。没有什么可失去的，所以从不保留。谁还需要一个狡猾的小编辑，指甲都啃到指尖，检查马桶呢？所有的东西都是好东西，无论是什么。
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

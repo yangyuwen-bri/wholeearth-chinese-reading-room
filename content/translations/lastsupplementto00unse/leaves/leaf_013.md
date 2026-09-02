@@ -43,25 +43,52 @@ Q magic cook; e bush 1S.
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已直接对照高清扫描逐句转录漫画对话与手写评语。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+### 听我脚步走动的声音……
+
+淹没我说话的声音……
+
+Dan O’Neill 的一本 *Odd Bodkins* 漫画书。
+
+**漫画对话**
+
+- “我能看见海洋！我能看见太阳和月亮！”
+- “Fred 能看见我们，太阳！！”
+- “Fred 这家伙可是会一口吞下魔法饼干的……”
+- “一只鸟懂什么叫爱尔兰人！”
+- “你想跟一个谁也看不见的东西聊天！！”
+
+**Dumb Bird**
+
+**Odd Bodkins**
+
+它并不全都色彩斑斓，  
+它也不像一本漫画书，  
+而且它一点都不好笑。
+
+**我为什么喜欢它**
+
+因为其中有些地方色彩斑斓？！  
+因为太阳、月亮和海洋会说话。  
+因为 Fred 知道魔法饼干树在哪里。
+
+——Jed
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 已旋转或按版面重做高清 OCR；无法辨认的装饰性碎字未作猜测。
 
 ## Self Critique
 
-- Pending translation.
+- 已逐项恢复可辨内容，仍须独立对照高清扫描复核栏序、数字与专名。

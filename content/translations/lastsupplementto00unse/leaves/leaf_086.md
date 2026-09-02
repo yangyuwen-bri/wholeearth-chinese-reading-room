@@ -91,25 +91,61 @@ crazy-fun gym.
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+CLASS “C” 冠军。Jugs，Springfield Creamery 的篮球队，于周四在 Springfield Junior High School 以 88-79 击败 Farrell’s，赢得了 Willamalane 工业 C 联赛冠军。前排从左至右的是 David Caldwell、Luke Freeman、Sheryl Kesey、Leslie Block、Isaac Babbs、Mouse Babbs、Billy Block、Kit Kesey、Sq. Rabbs 和 Grim Babbs。第二排的是 Joe Baker、Ken Garrison、John “Jaybird” Martin、Dave Smilouitze、Don Rushin、Zodiac Carl 和 Sue Kesey。后排的是 Garrett Rosenthal、Bill Block、Terry Trenhom、Gary Mikkelson、Steve Van Brasch、Jay Crittenden、Bobby Steinbrecher 和 Ken Babbs。
+
+长发者的进攻随着警长的“帮派”逼近而减缓  
+法律，“Jugs”缠斗——在激烈的比赛中  
+作者：RAY MYERS  
+《Register-Guard》报  
+
+“我们等找到是谁偷走了篮球后，再开始下半场比赛，”满头大汗的裁判对谁也没说。  
+
+周五晚上，围绕着困惑的官员，南尤金高中体育馆内是一幅狂野、跺脚、大喊大叫的欢乐场面。这是本赛季最不寻常的篮球比赛之一的中段。  
+
+这场比赛的对阵双方是警察队对长发者队。  
+
+法律的长臂——兰恩县警长办公室的队伍——与共同生活英雄——Springfield Creamery 赞助的 Jugs 队——在友好的、充满激情的战斗中交锋。这一切都在观众和在包厢里演奏的 Amazing Grace 摇滚乐队的伴奏下进行。  
+
+挤在看台上，1300 多名观众每人支付 1 美元，观看这场为尤金 White Bird Socio-Medical /Free 诊所筹款的慈善比赛。  
+
+而在硬木地板上，一旦裁判找到了丢失的篮球（有几个三英尺高的 Bob Couseys 正用它投篮），穿着色彩鲜艳的 Jugs 队克服了自身的困难，击败了穿着绿色和黄色制服的警长队伍，以加时赛 104-94 获胜。  
+
+这场持续两个小时的比赛由一些兰恩社区学院的学生用电视录像带记录下来，“只是为了好玩”，其中一人说道。这场比赛由尤金的毒品销售商 Gary Middelsen 策划并制作，他同时也为 Jugs 队效力。比赛过程中多次被数十个孩子打断，他们无法克制自己不进入比赛区域。  
+
+没有人似乎在意。  
+
+大多数时候，这是一场激动人心、激烈的篮球比赛。根据满员且大多支持 Jugs 队的观众自由奔放的“氛围”来看，这场比赛只是非常有趣的娱乐。  
+
+警长队由后卫 Gary Stewart 和球员兼教练 Don Lighty 领导，在上半场的最后一分钟除外，他们一直表现火热。Jugs 队一度落后多达 8 分，直到他们突破了警卫的区域防守，将比分扳平至 44-44。  
+
+中场休息时，Amazing Grace 乐队进行了表演，观众们在篮球场上走动和跳舞，公共广播员威胁说，如果找不到车主，就要拍卖一套福特汽车钥匙。  
+
+下半场完全属于 Jugs 队。Bobby Steinbrecher、John “Jaybird” Martin、Chris Cotton、球员兼教练 Ken Babbs 和 Dave Smilouitze 带领 Creamery 队在比赛还剩 2 分 46 秒时以 79-72 领先。  
+
+然后 Stewart 和后卫 Frank McCartt 在一堆堆的 Jugs 队中翻滚，争取到足够的分数，将比分追至 83-83，比赛结束。  
+
+赢得比赛的疯狂场面全在 Jugs 队。他们一直领先于苦苦挣扎的警卫队，轻松获胜。  
+
+但总体的胜利属于那个疯狂有趣的体育馆里的每个人。  
+
+85
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

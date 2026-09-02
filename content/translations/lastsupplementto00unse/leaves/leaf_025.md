@@ -96,25 +96,60 @@ New York, NeYe 10011 ae ae:
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+计算机被用作压迫的工具。  
+它们是每一个军事和警察系统的核心。  
+它们是每一个主要公司的心脏，并被用来最大化利润，而很少考虑人类的需求。  
+
+春季联合计算机会议（SJCC）是一个年度贸易展览——技术会议——公关噱头——销售活动，它聚集了主要公司的代表（IBM、GE、Honeywell、RCA、Litton、Rand、AT&T 等），高级军事和政府代表，以及为他们利益服务的技术官僚精英。  
+
+显然，这一活动被白人男性所压倒性地主导。  
+
+SJCC 将于 5 月 18 日至 20 日在新泽西州大西洋城的会议中心举行。预计参加人数将超过 30,000 人，使这次会议成为美国国内最大的军事-工业集会之一。  
+
+“计算机人士为和平”发起了一项大规模的多议题系列行动：  
+
+“哦，天哪！天要塌了！”  
+
+“已向和平活动人士发出如下呼吁：请所有计算机人员加入我们，在大西洋城举行抗议活动，以反对计算机被用于战争和压迫。”  
+
+“Honeywell 是反战碎片信息系统的首要制造商，这些系统被用作社会控制的工具。（中情局对所有我们都有数据银行。）  
+
+“随着美国第三世界人民失业率的持续上升，同时中情局却在扩大其在南亚的活动。”  
+
+@ 计算机技术的当前误用与它在健康、教育、住房、生态和城市规划方面的建设性潜力之间的对比。  
+
+@ 自动化对失业率上升的影响。  
+
+中断  
+
+1971 年 2 月：  
+
+《计算机人士为和平》通讯  
+
+计算机人士为和平  
+
+海豚中心  
+
+137 西 11 街  
+
+纽约，纽约 10011
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。

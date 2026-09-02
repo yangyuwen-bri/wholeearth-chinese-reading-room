@@ -109,25 +109,55 @@ about 200 pages for free.
 
 ## Context Notes
 
-- Source pack generated from the verified public-access/DjVu/scandata mapping.
-- Inventory every visible entry, excerpt, caption, diagram, table, signature,
-  form label, and order/access field against the scan before translation.
-- Do not treat OCR line order as page reading order on multi-column layouts.
+- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
 
 ## Glossary Updates
 
+- 无。
 
 ## Final Translation
 
+by  
+Jon Kaplan  
+sah vase by Zane  
+作为一名陶艺师，我想给你一些关于材料、设备、书籍等的想法，这些可能会对一些人有用。  
+由 Pacifica Wood Crafts 制作的踢轮，你在 1970 年春季曾拥有过，是一件非常好的设备。它价格合理、耐用，而且是一个很好的工具。我知道一些拥有它的人，他们对它有很多好评。不过唯一不好的地方是价格——标准的轮子现在已超过 100 美元，加上运费。查看《Mother Earth News》最新一期（第 6 期），里面有我和一位陶艺朋友一起设计的轮子图纸。总成本大约是 65 美元。  
+
+Estrin Wheels——一家加拿大公司，也提供其他陶艺设备。他们提供四种不同飞轮重量的轮子，有带或不带电机的，价格从 109 美元到 164 美元不等，所有型号都加 6 美元的包装费用。  
+
+Oak Hill Industries——1301 North Utah Street, Davenport, Iowa 52804。他们提供标准踢轮的套件形式。你可以选择 80、110 和 7140 磅的飞轮重量。它有一个胶合板框架和一个铸铝轮头。你可以选择购买套件或预组装的。看起来是一个不错的轮子。  
+
+Westwood Ceramic Supply——14400 Lomitas Ave., City of Industry, California 91744，拥有一种非常棒的电动轮，配有自动反馈电路，可以根据陶艺师在陶土上施加的力来调节电力的使用量。这是一种带有齿轮减速系统的电动轮。看起来是一个非常好的工具。不幸的是，他们的目录中没有列出轮子的价格。  
+
+Skutt Ceramic Products——2618 East Steele Street, Portland, Oregon 97202。他们制造一种电动轮，价格为 324.95 美元，这是一笔相当高的费用。我使用过一个，也认识其他使用过它的陶艺师，它真的很漂亮，除了价格。  
+
+Oscar Paul Corporation——522 West 182 Street, Gardenia, California 90247。他们制造三种电动轮，内部使用不同的电机。价格范围从 275 美元到 350 美元。它有一个很好的机械传动系统。  
+
+Randall Pottery, Inc.—Box 774, Alfred, New York 14802。他们制造的踢轮和电动驱动轮可能是当今市场上最出色的之一，除了价格。他们提供标准踢轮，价格为 270 美元，如果再加 155 美元，可以将其电动化，因此电动轮的总价格为 425 美元。他们还有一种特别的轮子，价格为 565 美元，附带一些配件，总价值约 100 美元，因此这种轮子的总价格为 665 美元。我之前使用过 Randall 的电动轮，直到现在我制造的轮子之前一直用的是 Randall 的，它真的是一款非常好的轮子，除了价格。  
+
+窑炉：  
+如果你对燃气窑炉感兴趣，那就自己建造吧。不要购买燃气窑炉，因为它的价格会把你狠狠地宰一顿。你可以买到大约 300 美元的 1000 块 K-23 绝缘耐火砖，如果你四处寻找二手货，价格可能更低。我曾以半价买到 1000 块这样的砖。你可以用标准的管道配件制作燃烧器，并使用吸尘器进行强制通风。如果你想要燃烧器的设计图纸，可以写信给纽约州阿尔弗雷德的阿尔弗雷德大学（Alfred University）（陶瓷系），并要求“Alfred Burner”（阿尔弗雷德燃烧器）。他们会收取你一份复印件的费用（大概）。  
+
+你也可以从 Pyronics Incorporated（17700 Miles Ave., Cleveland, Ohio 44128）购买燃烧器。你可以根据自己的规格定制燃烧器，因为他们有很多设计。我买了两个他们的 10ET 扭矩燃烧器，配有引火器、安全开关和其他一些垃圾，总共花了大约 160 美元，这在我的窑炉中是最昂贵的部分。  
+
+书籍：  
+Rhodes 窑炉的唯一问题是它省略了很多内容，这些内容你不是得自己去发现，就是得通过试错法去发现。除此之外，它是一本非常好的书。  
+
+《Clay and Glazes for the Potter》（陶艺师的黏土与釉料）由 Rhodes 所著，是一本非常好的书，这大概就是你真正需要的全部内容。  
+
+如果希望书中包含艺术的历史发展，那么《Nelson’s Ceramics, a Potter’s Handbook》（Nelson 的陶瓷，陶艺师手册）也还不错。  
+
+其他建议：  
+如果你正在建造窑炉，写信给 A.P. Green 公司（1018 East Breckenridge St., Mexico, Missouri 65265），请求他们的《Pocket Refractories》（口袋耐火材料手册）。他们的目录是免费的，包含表格、产品信息、结构细节等，所有关于耐火材料的内容，大约有 200 页，免费提供。
 
 ## Omitted Bibliographic/Order Info
 
-- Pending translation.
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- High-resolution scan verification pending.
+- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
 
 ## Self Critique
 
-- Pending translation.
+- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。
