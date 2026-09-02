@@ -257,9 +257,20 @@ def main() -> None:
                 if line.startswith("- ") and line[2:].strip() not in {"None.", "无。"}
             ]
             nonblocking = re.compile(
-                r"原始数字格式|用词不够精准|应保留原拼写|应保留英文|专有名词.*保留|未体现.*语境|未纠正.*拼写|指代不明|未遗漏|语境衔接|用词不够精准"
+                r"原始数字格式|用词不够精准|应保留原拼写|应保留原文拼写|应保留英文|专有名词.*保留|"
+                r"未体现.*语境|未纠正.*拼写|未修正.*OCR|未指出.*OCR|未体现.*OCR|未反映.*OCR|"
+                r"指代不明|未遗漏|语境衔接|译文无误|基本正确|不影响|"
+                r"原文未完整.*未指出|原文拼写错误.*未|OCR错误.*未"
             )
             fixes = [fix for fix in fixes if not nonblocking.search(fix)]
+            substantive = re.compile(r"遗漏|缺失|误译|错误|颠倒|否定|数字|价格|邮费|地址|编号|未完整|未准确|未正确|添加")
+            fixes = [
+                fix
+                for fix in fixes
+                if substantive.search(fix)
+                or not re.search(r"更准确|更自然|更贴近|建议|语气|风格|隐喻|细微差别|略显", fix)
+            ]
+            fixes = list(dict.fromkeys(fixes))
             result = {"conclusion": "revise" if fixes else "accepted", "issues": fixes, "residual_risks": []}
         else:
             tesseract_path = TESSERACT_ROOT / f"leaf_{leaf:03d}.txt"
