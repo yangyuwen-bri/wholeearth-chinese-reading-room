@@ -151,13 +151,6 @@ stunt. é
 理查德，这个普通的家伙。我的意思是，在一部名为《放映师》的电影中，阿道夫·希特勒正在模仿约翰·F·肯尼迪著名的安慰剂台词：“不要问你的国家能为你做什么，而要问你能为你的国家做什么。”这绝非偶然。  
 而第二次降临，不过是一场大型的Brey噱头罢了。
 
-*本页专名原文：The LAST JUOGMENT；BURNING CANOLES ANO BURNING；INCENSE OFTEN ARE COVER-UPS FOR
-ODORS OF HARMFUL SMOKING；Eldridge Cleaver；IBM Selectric Kool-Aid Acid Typewriter；Another Nut With；Another Mother；Leonard
-Cohen；Seconds
-Well；Charlie Manson；Lenny Bruce；Lily Tomlin；President
-Nixon；Little Orphan
-Annie；The Projectionist；Adolf Hitler；Second Coming；Ask；Century；French；Generic；Gun；Jew；John；Juliet；Kesey；Love；Mafia；Mainly；Mann；MATERIALS；Nature；Peace；Pig；Pope；Rome；Romeo；Salem；Scientology；Verona；Vietnam；Wait；Young。*
-
 ## Omitted Bibliographic/Order Info
 
 - 无。

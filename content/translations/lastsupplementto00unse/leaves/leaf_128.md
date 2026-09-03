@@ -78,13 +78,11 @@ Random House, Inc
 New York, NY 10022  
 
 合理的复制品  
-《滚石》杂志称，这最后一期《全球概览》补充版“也将邮寄给 Krassner 的不定期刊物《The Realist》的订阅者，作为其期待已久的周年纪念特刊。” 不，事实并非如此。这期只是《The Realist》的又一期。  
-下个月还会有另一期，同样只是另一期，内容包括“对 Ken Kesey 的不礼貌采访”；然后是三部曲“记者于小型事件”；接着，今年夏天，将出版传奇的、早于其时代 13 周年纪念特刊。Stewart Brand 被引用说过：“这也将是 Paul 最终搬到加利福尼亚的借口。” 是的。我预计将继续从旧金山编辑《The Realist》，尽管发行部门仍留在纽约。现在订阅，您将从下一期开始，包括周年纪念特刊。您也可以预订我书的一本副本。  
+《Rolling Stone》称，这最后一期《Whole Earth Supplement》“也会寄给 Krassner 那本不定期刊物《The Realist》的订户，作为他们等待已久的周年纪念号”。才不是。这一本只是《The Realist》平常的一期。  
+下个月还会再来一本平常的一期，其中有“对 Ken Kesey 的一次无礼访谈”；接着是三期一组的“Reporter at Small”；然后，今年夏天，才轮到那本落后于自己时代的传奇第 13 周年纪念号。有人引述 Stewart Brand 的话：“这也会成为 Paul 终于搬到加利福尼亚的借口。”没错。我预计今后会在旧金山继续编辑《The Realist》，不过发行部门仍留在纽约。现在登记的订阅将从 Kesey 那一期开始，并包括周年纪念号。你也可以预订一本我的书。朋友们，在外面的门厅里，你们还会看到我陈列的果冻和蜜饯……  
 
-NOV SHMOZ  
-KA POP?  
-AST ro  
-tue UNKNOWN!  
+NOV SHMOZ KA POP?  
+探索未知！（QUEST INTO THE UNKNOWN!）  
 
 《The Realist》，部门 WE  
 595 Broadway  
@@ -92,11 +90,11 @@ New York, N.Y. 10012
 
 $3 为《The Realist》一年（6 期）的订阅费  
 $5 为《The Realist》两年（12 期）的订阅费  
-$7 为《How a Satirical Editor Became a Yippie Conspirator in Ten Easy Years》一书的购买费——这是一本 Paul Krassner 的作品集，收录了《The Realist》上的内容，包括臭名昭著的“被删掉的肯尼迪书部分”，以及对 George Lincoln Rockwell、Dick Gregory、Dr. Robert Spencer、Joseph Heller、Norman Mailer、Mort Sahl、Pes Southern、Woody Allen 和 Timothy Leary 的不礼貌采访。  
+$7：购买《How a Satirical Editor Became a Yippie Conspirator in Ten Easy Years》一册——Paul Krassner 在《The Realist》上发表作品的合集，包括臭名昭著的“Parts That Were Left Out of the Kennedy Book”，以及对 George Lincoln Rockwell、Dick Gregory、Dr. Robert Spencer、Joseph Heller、Norman Mailer、Mort Sahl、Terry Southern、Woody Allen 和 Timothy Leary 的无礼访谈。  
 
-PoicWemaneeralinn nan lieder wre Rauuue Merch LN TO tatisirle jbilica eo) SAAN dae ee tice  
-eMac ct at ial soh) allah telitinal ace Diakecle eum onetlatncte( iii, Abe Seine  
-PRACT Ye key ah pa me Uo
+姓名：__________　公寓号：__________  
+地址：__________  
+城市：__________　州：__________　邮编：__________
 
 ## Omitted Bibliographic/Order Info
 

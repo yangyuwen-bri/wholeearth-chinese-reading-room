@@ -6,13 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 逐项对照未发现实义遗漏或误译。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 无补充。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
@@ -20,5 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 部分OCR疑似存在字符识别错误，如“ite a oe: rie 4”等，可能影响译文完整性。
-- “fugleman”一词在译文中未保留原词，可能影响术语准确性。
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。

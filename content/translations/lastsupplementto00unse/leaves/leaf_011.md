@@ -93,10 +93,11 @@ tinguished! The old man’s riper than the day h
 
 ## Final Translation
 
-我们可以看到  
-这里就是  
-翻转主义接受  
-酸性测试的地方  
+**《易经》**  
+“噢，我的天哪！”  
+“我们可以看到，这里就是‘翻转主义’接受迷幻剂考验的地方！”  
+*[路牌：七岔路口，请遵守规则]*  
+——肯·凯西
 在指出我在《全球概览》中的第二项之前，  
 让我先介绍我们的国家通讯员，  
 Devlin（或者，更常被称作“Old Man”）  
@@ -123,7 +124,7 @@ Deboree，我们偶尔会依靠他提供那种
 当他开车经过大门时，  
 他想起了他的俘虏：“Mom！我的鱼在水桶里！”  
 戏剧的高潮部分没有给荒谬留下余地。  
-她想起了Lot的 lingering wife：  
+她想起了罗得那位依依不舍的妻子：  
 “忘掉这一切，”她严厉地建议，  
 于是孩子忘了鱼，  
 而Old Man Deboree在鱼被关押的几个月里  
@@ -164,15 +165,8 @@ Old Man Deboree，
 而鲶鱼则看着Old Man Deboree。  
 鲶鱼先开口了，对自己说：  
 
-**CATFISH**  
-This ought to be classic. This ought to be distinguished! The old man’s riper than the day he  
----
-
-*本页专名原文：WE CAN SEE
-THAT HERE；WHERE
-FLIPISM GETS；THE AciID TESTS；Natural American；OBEY RULES
-Se；TO CUs；RE
-CATFISH；CATALOG；Ce；Forget；INTERCHANGE；Lot's。*
+**鲶鱼**  
+这场面应该成为经典，应该卓尔不群！这老头熟得比他……那天还透——
 
 ## Omitted Bibliographic/Order Info
 

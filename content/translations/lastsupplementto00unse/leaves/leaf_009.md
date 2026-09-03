@@ -108,9 +108,6 @@ porate into its theories and strategies information abstrac ;
 
 在过去二十年中，我们见证了心理学的巨大转变。心理学是研究心理过程和行为的科学。心理学的许多源头，与从病人行为中抽取出的信息有关；一些心理学形式的起源，基本上可以追溯到精神病理学。自20世纪50年代以来，尤其是在已故 Abraham Maslow 的工作推动下，心理学已开始把从健康人行为中抽取出的信息，纳入自己的理论和策略之中。
 
-*本页专名原文：Whole Earth Catalog；Bucky Fuller；When Yuri Gagarin；Withe
-Drugs；Abraham Maslow。*
-
 ## Omitted Bibliographic/Order Info
 
 - 无。

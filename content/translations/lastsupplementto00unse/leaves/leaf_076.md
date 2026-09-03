@@ -62,25 +62,19 @@ ie we \
 
 ## Final Translation
 
-信使  
-服务  
+**Quicksilver Messenger Service**  
 
 啊，五年之前，银水（Quicksilver）如此滑腻而隐秘，以至于很少有人意识到他们有多出色，甚至他们自己也未能及时察觉，从而避免去追求他们早已拥有的东西。最近，他们似乎因过多的阳刚之气而受阻，现在正等待时机，而广告牌在日落大道（Sunset Boulevard）上于洛杉矶的烟雾灯光下逐渐剥落，他们等待着长期受苦的处女座月亮再次升起。《谁爱你，在快乐的旅途中》（Who Do You Love on Happy Trails）是一部经典之作。  
 
-这位写过《胡德》（Hud）的作家，他能够以既关注现状又回顾过去的眼光，书写德克萨斯州和我们伟大的西南部；他看到了我们快速消逝的孤独草原梦想中曾经存在的美好，也看到了如今覆盖平原的塑料瘟疫，就像各种不同种类的太空草（astro-turf crabgrass）一样。他是一位优美的作家。《离开切伊恩》（Leaving Cheyenne）是我最喜欢的。  
+**Larry McMurtry**
 
-  
+这位写过《Hud》的作家，书写得克萨斯和我们辽阔的西南部时，既看得见它如今的模样，也看得见它昔日的模样；他看见我们那迅速消逝的孤独草原之梦中曾有的一切美好，也看见如今像各种人造草皮蟹草一样铺满平原的塑料瘟疫。他是一位优美的作家。《Leaving Cheyenne》是我最喜欢的作品。  
 
-LP ESS SSS IIS  
+【图中文字】但尽管如此。
 
-=  
+**City Lights Book Store**  
 
-城光书店  
-
-} a iW i  
 如果过去十年中重要的革命性事件能够被绘制出来，那么会有一个明显的趋势，表明北滩（North Beach）的这家小书店是一个源泉。  
-
-hi A)
 
 ## Omitted Bibliographic/Order Info
 

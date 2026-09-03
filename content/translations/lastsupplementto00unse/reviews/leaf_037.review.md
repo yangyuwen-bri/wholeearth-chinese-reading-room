@@ -2,26 +2,23 @@
 
 ## Conclusion
 
-revise
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 发现需要修订或扫描补证的具体问题。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- “The Modesto Kid”在译文中被译为“The Modesto Kid”，但未保留原文的英文拼写，应保留原名。
-- “Guerneyville”被译为“格纳维利”，但未保留原文的英文拼写，应保留原名。
-- “Laytonville”被译为“莱顿维尔”，但未保留原文的英文拼写，应保留原名。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
-- “The Modesto Kid”在译文中被译为“The Modesto Kid”，但未保留原文的英文拼写，应保留原名。
-- “Guerneyville”被译为“格纳维利”，但未保留原文的英文拼写，应保留原名。
-- “Laytonville”被译为“莱顿维尔”，但未保留原文的英文拼写，应保留原名。
+- None.
 
 ## Residual Risks
 
-- None.
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。

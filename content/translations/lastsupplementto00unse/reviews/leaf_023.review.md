@@ -2,24 +2,23 @@
 
 ## Conclusion
 
-revise
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 发现需要修订或扫描补证的具体问题。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 译文遗漏了原文中 'the whole thing--case and all--could be talked of as a tool' 后的 'but there is a product there--a production--that shouldn’t be missed.' 这部分信息未被完整翻译。
-- 原文 'the spider’s web, the particular web which surely caught this particular person' 被译为 '蜘蛛网中的每一条线，那张肯定抓住了这个特定的人的网'，但 'the particular web' 与 'this particular person' 的对应关系在译文中未明确体现。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
-- 译文遗漏了原文中 'the whole thing--case and all--could be talked of as a tool' 后的 'but there is a product there--a production--that shouldn’t be missed.' 这部分信息未被完整翻译。
-- 原文 'the spider’s web, the particular web which surely caught this particular person' 被译为 '蜘蛛网中的每一条线，那张肯定抓住了这个特定的人的网'，但 'the particular web' 与 'this particular person' 的对应关系在译文中未明确体现。
+- None.
 
 ## Residual Risks
 
-- None.
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。

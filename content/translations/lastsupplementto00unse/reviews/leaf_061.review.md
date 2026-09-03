@@ -2,28 +2,23 @@
 
 ## Conclusion
 
-revise
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 发现需要修订或扫描补证的具体问题。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 原文中‘Cannibal Lib’在译文中统一译为‘食人族自由运动’，但原文中‘Lib’是‘Liberation’的缩写，应译为‘食人族解放运动’，以保持术语一致性。
-- 原文中‘Cannibal Lib’的‘Lib’在译文中未保留缩写形式，应保留为‘食人族解放运动（Cannibal Lib）’，以符合原文格式。
-- 原文中‘Cannibals Health, Education and Welldone’在译文中译为‘食人族健康、教育与良好生活协会’，但‘Welldone’应译为‘良好生活’或‘福祉’，译文未准确传达原意。
-- 原文中‘souffled the wife’在译文中译为‘用法式焗烤的方式“烹饪”了她’，但‘souffled’在此处是俚语，意为‘用法式焗烤的方式杀害’，译文未准确传达原文的讽刺和暴力意味。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
-- 原文中‘Cannibal Lib’在译文中统一译为‘食人族自由运动’，但原文中‘Lib’是‘Liberation’的缩写，应译为‘食人族解放运动’，以保持术语一致性。
-- 原文中‘Cannibal Lib’的‘Lib’在译文中未保留缩写形式，应保留为‘食人族解放运动（Cannibal Lib）’，以符合原文格式。
-- 原文中‘Cannibals Health, Education and Welldone’在译文中译为‘食人族健康、教育与良好生活协会’，但‘Welldone’应译为‘良好生活’或‘福祉’，译文未准确传达原意。
-- 原文中‘souffled the wife’在译文中译为‘用法式焗烤的方式“烹饪”了她’，但‘souffled’在此处是俚语，意为‘用法式焗烤的方式杀害’，译文未准确传达原文的讽刺和暴力意味。
+- None.
 
 ## Residual Risks
 
-- None.
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。

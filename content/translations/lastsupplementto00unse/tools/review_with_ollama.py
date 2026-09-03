@@ -47,6 +47,13 @@ SCHEMA = {
 
 
 def section(text: str, heading: str) -> str:
+    if heading == "Final Translation":
+        match = re.search(
+            r"^## Final Translation[ \t]*\n(.*?)(?=\n## Omitted Bibliographic/Order Info[ \t]*\n|\Z)",
+            text,
+            re.MULTILINE | re.DOTALL,
+        )
+        return match.group(1).strip() if match else ""
     match = re.search(
         rf"^## {re.escape(heading)}[ \t]*\n(.*?)(?=\n## |\Z)",
         text,
@@ -155,7 +162,10 @@ def call_model(leaf: int, source: str, translation: str, tesseract: str) -> dict
     issues: list[str] = []
     translation_tokens = set(re.findall(r"[A-Za-z][A-Za-z'-]*", translation))
     for raw_issue in result.get("issues", []):
-        issue = str(raw_issue).strip()
+        # Keep every finding on one Markdown bullet. Local-model JSON can
+        # occasionally contain embedded newlines that would otherwise split
+        # the review section and make the release evidence ambiguous.
+        issue = re.sub(r"\s+", " ", str(raw_issue)).strip()
         if not issue or re.search(
             r"无需修改|无明显错误|符合语境|译文正确|可理解|可能|未完全|隐喻色彩|文化内涵|语境混淆|更具象征|原始数字格式|用词不够精准|应保留原拼写|应保留英文|专有名词.*保留|未体现.*语境|未纠正.*拼写|指代不明|未遗漏|语境衔接",
             issue,
@@ -260,10 +270,16 @@ def main() -> None:
                 r"原始数字格式|用词不够精准|应保留原拼写|应保留原文拼写|应保留英文|专有名词.*保留|"
                 r"未体现.*语境|未纠正.*拼写|未修正.*OCR|未指出.*OCR|未体现.*OCR|未反映.*OCR|"
                 r"指代不明|未遗漏|语境衔接|译文无误|基本正确|不影响|"
-                r"原文未完整.*未指出|原文拼写错误.*未|OCR错误.*未"
+                r"原文未完整.*未指出|原文拼写错误.*未|OCR错误.*未|"
+                r"OCR.*(?:未修正|未指出|未处理|未体现|未恢复|应为)|"
+                r"(?:未修正|未指出|未处理|未体现|未恢复).*OCR|"
+                r"原文.*(?:截断|拼写错误).*未明确"
             )
             fixes = [fix for fix in fixes if not nonblocking.search(fix)]
-            substantive = re.compile(r"遗漏|缺失|误译|错误|颠倒|否定|数字|价格|邮费|地址|编号|未完整|未准确|未正确|添加")
+            substantive = re.compile(
+                r"遗漏|缺失|误译|错译|错误|颠倒|否定|数字|价格|邮费|地址|编号|"
+                r"未完整|未准确|未正确|未译出|逻辑断裂|语境错误|重复"
+            )
             fixes = [
                 fix
                 for fix in fixes

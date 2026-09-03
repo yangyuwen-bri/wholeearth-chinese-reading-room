@@ -2,26 +2,23 @@
 
 ## Conclusion
 
-revise
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 发现需要修订或扫描补证的具体问题。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- “the most viable currency in Southeast Asia”被译为“最可行的货币”，但“viable”在此语境中应理解为“最有效的”或“最流通的”，而非“可行的”。
-- “the opium poppy harvest”被译为“鸦片罂粟的收获”，但“harvest”在此处应译为“收获季节”或“收割”，而非“收获”本身。
-- “the opium products are guarded by Chinese Nationalist troops”被译为“鸦片产品由国民党军队守卫”，但“guarded”在此语境中应译为“护送”或“保护”，而非“守卫”，以体现运输过程中的护送行为。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
-- “the most viable currency in Southeast Asia”被译为“最可行的货币”，但“viable”在此语境中应理解为“最有效的”或“最流通的”，而非“可行的”。
-- “the opium poppy harvest”被译为“鸦片罂粟的收获”，但“harvest”在此处应译为“收获季节”或“收割”，而非“收获”本身。
-- “the opium products are guarded by Chinese Nationalist troops”被译为“鸦片产品由国民党军队守卫”，但“guarded”在此语境中应译为“护送”或“保护”，而非“守卫”，以体现运输过程中的护送行为。
+- None.
 
 ## Residual Risks
 
-- None.
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。

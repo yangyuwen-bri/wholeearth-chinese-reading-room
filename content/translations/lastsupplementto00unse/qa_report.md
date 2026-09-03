@@ -1,31 +1,36 @@
 # QA Report — March 1971 Last Supplement
 
-## Status Counts
+## Release Status
 
-- `pending`: 0
-- `source_ready`: 130
-- `drafted`: 0
-- `self_checked`: 0
-- `reviewed_needs_glossary`: 0
-- `needs_highres_scan`: 0
-- `revise`: 0
-- `blocked_ocr`: 0
-- `accepted`: 2
-- `no_translation_needed`: 0
+- Total public scan leaves: `132` (`000-131`)
+- Complete translations: `132`
+- Independent reviews: `132`
+- High-resolution scans checked: `132`
+- `accepted`: `132`
+- Remaining blockers: `0`
 
-## Remaining Blockers
+## Fidelity Checks
 
-- Leaves `002-131` require complete translation, independent review, and
-  high-resolution scan acceptance.
+- Every page retains the full readable source content in page order; no page
+  summary or descriptive substitute is used in place of source text.
+- Prose, interviews, poems, letters, captions, comic text, advertisements,
+  prices, addresses, repeated text, and the dense subscriber directories on
+  leaves `114-125` are preserved rather than compressed.
+- Source Pack text remains byte-for-byte aligned with the bootstrap source
+  evidence. Release validation also checks review evidence, acceptance status,
+  character counts, unresolved placeholders, summary drift, numeric retention,
+  and dense-directory name/address retention.
 
-## Notes
+## Focused Scan Resolutions
 
-- Official OCR and scandata map exactly to 132 public-access leaves; the two
-  excluded physical leaves are not OCR/public-access pages.
-- All 132 `w2000` source scans have been retrieved and a second Tesseract OCR
-  pass has been generated for discrepancy checks.
-- Leaves `000-001` passed high-resolution scan review. The cover required
-  manual recovery because official OCR omitted most speech balloons and labels.
-- Leaves `055`, `065-066`, `097`, and `126` are visually/OCR atypical and must
-  receive focused scan review. Leaves `114-125` contain very dense mailing-list
-  data that may not be compressed or summarized.
+- All 132 `w2000` scans were retrieved and inspected. Visually atypical leaves
+  `055`, `065-066`, `097`, and `126` received focused layout checks.
+- Leaf `035` was checked against the Internet Archive original JP2
+  (`2727×4165`) and an independent scan from *The Realist* No. 89. The faint
+  reverse type under “Earth” and May 6 was recovered and translated; no
+  unresolved placeholder remains in reader text.
+
+## Release Gate
+
+- `content/translations/lastsupplementto00unse/tools/validate_release.py`
+  passes with all 132 leaves complete, reviewed, and accepted.

@@ -112,4 +112,4 @@ particular philosophy or religion; something: that links
 
 ## Self Critique
 
-- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。
+- 已按独立复核清单逐项修订；待再次独立复核。

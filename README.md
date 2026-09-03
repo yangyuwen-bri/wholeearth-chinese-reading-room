@@ -5,7 +5,7 @@
 [![Live site](https://img.shields.io/badge/live_site-GitHub_Pages-2f6f63?style=flat-square)](https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/)
 [![Static site](https://img.shields.io/badge/site-static_HTML%2FCSS%2FJS-6b7280?style=flat-square)](#run-locally)
 [![Issues indexed](https://img.shields.io/badge/issues_indexed-147-3b6ea8?style=flat-square)](#current-status)
-[![Reading rooms](https://img.shields.io/badge/open_reading_rooms-5-b17a2c?style=flat-square)](#featured-entries)
+[![Reading rooms](https://img.shields.io/badge/open_reading_rooms-6-b17a2c?style=flat-square)](#featured-entries)
 [![Visual booklets](https://img.shields.io/badge/visual_booklets-1-7c4d9e?style=flat-square)](#featured-entries)
 [![License](https://img.shields.io/badge/license-not_declared-lightgrey?style=flat-square)](#license-and-rights)
 
@@ -19,6 +19,10 @@ The project treats each published issue as an edited reading object. A finished 
 
 <table>
   <tr>
+    <td width="12%">
+      <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/reader-prototype/index.html?issue=march-1971-last-supplement"><strong>March 1971 Last Supplement Reading Room</strong></a><br>
+      Faithful full translation of all 132 scan leaves, including prose, poetry, interviews, comics, captions, prices, addresses, and the complete subscriber directories after high-resolution review.
+    </td>
     <td width="12%">
       <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/reader-prototype/index.html?issue=january-1971"><strong>January 1971 Catalog Reading Room</strong></a><br>
       Faithful full translation of all 48 scan leaves, including articles, letters, captions, forms, diagrams, prices, addresses, and the complete subscriber roster after original high-resolution scan review.
@@ -72,9 +76,9 @@ Promotion from workbench to reading room is manual. The near-term goal is a smal
 | Area | Status |
 | --- | --- |
 | Public home | WebGL console deployed on GitHub Pages |
-| Open reading rooms | *Whole Earth Catalog*: Fall 1969, Spring 1970, Fall 1970, and January 1971; *Whole Earth Epilog*, October 1974 |
-| Accepted full translation packages | *Whole Earth Catalog*: Fall 1968 (68/68 leaves), Spring 1969 (134/134), Fall 1969 (132/132), Spring 1970 (148/148), Fall 1970 (148/148), January 1971 (48/48) |
-| Most recently completed | *Whole Earth Catalog*, January 1971: 48/48 leaves accepted, original-scan release gate passed, synchronized reader generated |
+| Open reading rooms | *Whole Earth Catalog*: Fall 1969, Spring 1970, Fall 1970, January 1971, and the March 1971 *Last Supplement*; *Whole Earth Epilog*, October 1974 |
+| Accepted full translation packages | *Whole Earth Catalog*: Fall 1968 (68/68 leaves), Spring 1969 (134/134), Fall 1969 (132/132), Spring 1970 (148/148), Fall 1970 (148/148), January 1971 (48/48), March 1971 *Last Supplement* (132/132) |
+| Most recently completed | March 1971 *The Last Supplement to The Whole Earth Catalog*: 132/132 leaves accepted, original-scan release gate passed, synchronized reader generated |
 | Readers integrated in `main`, awaiting Pages publication | *Whole Earth Catalog*: Fall 1968 and Spring 1969 |
 | Visual booklet | *Whole Earth Epilog*, 1974 chapter booklet |
 | Full Chinese guide | *Whole Earth Software Catalog 2.0*, Fall 1985 |
@@ -105,7 +109,7 @@ data/
 reader-prototype/
   index.html          # synchronized reading room for published issues
   1968/, 1969/        # accepted issue readers integrated before publication
-  data/               # Fall 1969, Spring/Fall 1970, January 1971, and Epilog reader data
+  data/               # Fall 1969, Spring/Fall 1970, January/March 1971, and Epilog reader data
 
 scripts/
   *.py                # extraction, audit, and experimental retrieval scripts
@@ -132,6 +136,7 @@ http://127.0.0.1:8911/
 Useful local paths:
 
 - `reader-prototype/index.html`
+- `reader-prototype/index.html?issue=march-1971-last-supplement`
 - `reader-prototype/index.html?issue=january-1971`
 - `reader-prototype/index.html?issue=fall-1970`
 - `reader-prototype/index.html?issue=spring-1970`

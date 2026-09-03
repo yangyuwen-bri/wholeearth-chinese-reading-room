@@ -2,22 +2,23 @@
 
 ## Conclusion
 
-revise
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 发现需要修订或扫描补证的具体问题。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- ‘the means of transmission--so that we scheme/plot/plan to make ways so that we can broadcast’被译为‘让我们成为传播方式的奴隶——以至于我们策划/阴谋/计划去创造途径，以便我们进行广播’，但原文中‘so that’的逻辑关系未被准确传达，应更清晰地表达为‘使我们成为传播方式的奴隶，以至于我们策划、阴谋、计划去创造途径，以便进行广播’。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
-- ‘the means of transmission--so that we scheme/plot/plan to make ways so that we can broadcast’被译为‘让我们成为传播方式的奴隶——以至于我们策划/阴谋/计划去创造途径，以便我们进行广播’，但原文中‘so that’的逻辑关系未被准确传达，应更清晰地表达为‘使我们成为传播方式的奴隶，以至于我们策划、阴谋、计划去创造途径，以便进行广播’。
+- None.
 
 ## Residual Risks
 
-- None.
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。

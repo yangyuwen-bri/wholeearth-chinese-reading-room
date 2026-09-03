@@ -2,24 +2,23 @@
 
 ## Conclusion
 
-revise
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 发现需要修订或扫描补证的具体问题。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 原文 'it damages the bearings' 译为 '会损害你的轴承（比喻精神或身体的承受能力）'，添加了括号解释，但未在原文中出现，属于添加内容。
-- 原文 'MacArthur left Bataan in ’42' 译为 '麦克阿瑟离开巴丹岛（1942年）'，但原文未加括号，译文添加了括号，属于添加内容。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
-- 原文 'it damages the bearings' 译为 '会损害你的轴承（比喻精神或身体的承受能力）'，添加了括号解释，但未在原文中出现，属于添加内容。
-- 原文 'MacArthur left Bataan in ’42' 译为 '麦克阿瑟离开巴丹岛（1942年）'，但原文未加括号，译文添加了括号，属于添加内容。
+- None.
 
 ## Residual Risks
 
-- None.
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。

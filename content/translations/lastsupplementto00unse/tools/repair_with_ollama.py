@@ -18,6 +18,13 @@ MODEL = "qwen3:14b"
 
 
 def section(text: str, heading: str) -> str:
+    if heading == "Final Translation":
+        match = re.search(
+            r"^## Final Translation[ \t]*\n(.*?)(?=\n## Omitted Bibliographic/Order Info[ \t]*\n|\Z)",
+            text,
+            re.MULTILINE | re.DOTALL,
+        )
+        return match.group(1).strip() if match else ""
     match = re.search(
         rf"^## {re.escape(heading)}[ \t]*\n(.*?)(?=\n## |\Z)",
         text,
@@ -78,6 +85,11 @@ def call_model(source: str, translation: str, fixes: str, source_words: int) -> 
         result = json.load(response)["message"]["content"].strip()
     if len(re.findall(r"[\u3400-\u9fff]", result)) < 20:
         raise RuntimeError("Repair did not return a Chinese translation")
+    if source_words >= 100 and len(result) < max(200, int(len(translation) * 0.55)):
+        raise RuntimeError(
+            "Repair shortened the page implausibly: "
+            f"{len(translation)} -> {len(result)} characters"
+        )
     missing = missing_proper_names(source, result)
     if missing:
         phrases: list[str] = []
@@ -97,10 +109,16 @@ def call_model(source: str, translation: str, fixes: str, source_words: int) -> 
 
 
 def replace_section(text: str, heading: str, body: str) -> str:
-    pattern = re.compile(
-        rf"(^## {re.escape(heading)}[ \t]*\n)(.*?)(?=\n## |\Z)",
-        re.MULTILINE | re.DOTALL,
-    )
+    if heading == "Final Translation":
+        pattern = re.compile(
+            r"(^## Final Translation[ \t]*\n)(.*?)(?=\n## Omitted Bibliographic/Order Info[ \t]*\n|\Z)",
+            re.MULTILINE | re.DOTALL,
+        )
+    else:
+        pattern = re.compile(
+            rf"(^## {re.escape(heading)}[ \t]*\n)(.*?)(?=\n## |\Z)",
+            re.MULTILINE | re.DOTALL,
+        )
     if not pattern.search(text):
         raise RuntimeError(f"Missing section: {heading}")
     return pattern.sub(lambda match: f"{match.group(1)}\n{body.strip()}\n", text, count=1)

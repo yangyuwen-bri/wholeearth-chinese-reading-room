@@ -142,15 +142,6 @@ If you have a mind’s eye picture of drug-crazed |
 
 如果你脑海中有一幅关于药物狂热的——
 
-*本页专名原文：IS YER ONLY
-REDEMPTION；Paul Krassner
-Stewart Brand Name；The
-Realist；Ken Kesey；Difficult
-But Impossible Supplement；Whole
-Universe Catalog；New York；Counter Culture；Hare
-Krishna；Intimacy
-Quotient；Ask Andy；San Francisco Chronicle；Arctic Ocean；Sable Island；Dick Tracy；Science Today；Bible；Book；Eskimos；Job；Joseph；Labrador；Massachusetts；TV；UPI-datelined；Vendetta。*
-
 ## Omitted Bibliographic/Order Info
 
 - 无。

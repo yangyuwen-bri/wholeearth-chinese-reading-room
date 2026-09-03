@@ -126,215 +126,135 @@ For complete almanac send $.50 to Atlantis Almanac, Marcola, Oregon. 3 4
 
 ## Final Translation
 
-月升于 12: api cay
+**《亚特兰蒂斯年历》**
 
-太阳进入金牛座于：10: QoAM
+**星期二·星期三·星期四**
 
-Ce Hae Duy Curie S tsnlute Haddin,
+**4 月 20 日**
 
-（the ae
+- 日出：5:21 am（B）；日落：7:01 pm（D）
+- 月出：3:06 am（D）；月落：1:58 pm（B）
+- 月亮于 12:05 pm 进入双鱼座
+- 太阳于 10:00 am 进入金牛座
 
-；我们 cellicr 观察 Mie
+“我们对未来唯一的希望，就在我们的孩子，以及我们和他们一起栽种的花园里。”——《请种下这本书》
 
-四月
+**4 月 21 日**
 
-SEELCL
+- 日出：5:20 am（B）；日落：7:02 pm（D）
+- 月出：3:32 am（D）；月落：3:16 pm（B）
+- 月亮在双鱼座
 
-Rhie ei 希望我们 Marve 为 hie fuctits：
-pene lilebren 和（hers wrdins 在 plant
+**4 月 22 日**
 
-升起：5:20 am My Stn 于 5:19 am（B）四月
-太阳落山：i 024 pin，（太阳落山：7:04 pm（D）
+- 日出：5:19 am（B）；日落：7:04 pm（D）
+- 月出：3:55 am（D）；月落：4:34 pm（C）
+- 月亮于 1:08 am 进入白羊座
+- 11:31 am：火星、金星与太阳合相
+- 地球日，1970
 
-Mooty 升起：3: 9) am（D）月升起：3:55 am（D）。
+“你必汗流满面才得糊口，直到你归了土，因为你是从土而出的；你本是尘土，仍要归于尘土。”
 
-月落：3:16 pin（B）
+**让一千座公园盛开**
 
-月在双鱼座
+人民公园，建于 1969 年。
 
-月落：4:34 pm（C）
-月进入 Wwies 于 108.4
+**观测行星**
 
-@ go 在 kl:3).am。（S P conjunction
+- 金星于 4:19 am 升起（C）
+- 火星于 12:01 am 升起（E）
+- 木星于 9:55 pm 升起（E）
+- 土星于 8:11 pm 落下（D）
+- 水星不可见
 
-Letun 出生 Lao
+**4 月 27 日**
 
-6 %
-[erst ne Swett thx face
+- 日出：5:11 am（B）；日落：7:09 pm（D）
+- 月出：6:39 am（A）；月落：11:02 pm（E）
+- 月亮在双子座
 
-；sialt hintcat brerele ollie。
-rerun ut the toundseten
-Guo fe awant tod taken
-fone dust tenant 和 Tee
-dust shaftchow reins
+*[牌子：这些都没什么大不了的。]*
 
-Ble rset Laan 这本书！
+**4 月 28 日**
 
-哦，唤醒雷声
-ns 渗透，内在是 mo >
-» Movernent，结合
-rr
+- 日出：5:08 am（B）；日落：7:11 pm（D）
+- 月出：8:36 am（A）；月落：11:59 pm（E）
+- 月亮于 5:58 pm 进入巨蟹座
 
-Sail 升起 453-0 tb
-7-24 poy（DB）
-i 44, pil
-a any tA
+**4 月 29 日**
 
-Se Pence ie :
+- 日出：5:08 am（B）；日落：7:11 pm（D）
+- 月出：7:38 am（A）；月落：午夜以后
+- 月亮在巨蟹座
 
-ate Oat - 92 auth a Me Oy, a ¥:
+按照占星术，金牛座是一个阴性、固定的土象星座，所表达的意思是：“土地是永不死去的母亲。”金牛座由金星主宰；金星是地球的姊妹行星，代表美、爱意与优雅，并为受其影响的事物带来柔软与顺滑。Venus 是希腊爱与美之女神 Aphrodite 的拉丁名字。玛雅人把这颗行星称作 Quetzal……
 
-园艺
+*[手写字：赢家会用鹅油覆盖大地——还要把它抹进自己的鼻子！]*
 
-~收集稻草来自 Snipe 将 ter quarters
-nul cite 番茄和 cor. a f
+**5 月 4 日**
 
-sala ate 豆种与 mirogen 通过 :
-细菌，— ，
+- 日出：5:02 am（B）；日落：7:17 pm（D）
+- 月出：2:05 pm（A）；月落：2:24 am（D）
+- 月亮在处女座
 
-«检查生菜是否有蜗牛（ ashes’ vf）
+《易经》第四十二卦：**益**  
+巽：温和的风。震：奋起的雷。外卦为渗入，内卦为行动。行动与渗入结合，为世界带来最大的增益。益显示品格的充盈，显示不假雕饰的充盈之成长。因此，益能推进有用之事。
 
-和 Mgt 陷阱用于干 spe} Is ales =>
+**5 月 5 日**
 
-t
-Tas leis aside a ute
+- 日出：5:01 am（B）；日落：7:18 pm（D）
+- 月出：3:05 pm（B）；月落：2:57 am（D）
+- 月亮在处女座
+- 8:26 pm：行星合相
+- 月亮到达距地球最远处（远地点）
 
-用于种植萝卜，
-“Week，苦苣，胡萝卜，以及所有
-植物的可食用部分在或
+*[手写字：因为在木星之外，巨型太空兔正在掷骰子。]*
 
-Fas! 观察行星
-金星升起于’ 4: 19, am（C）
-火星升起于. 12, Olam ee
-‘木星升起于 9:55 pm（E
-土星落山于 8: pm（D
-Mee cuny 不可见 gm.
-5 Sin aces Bi 08 an {B）四月
-太阳落山：7:1 pmD）
-月升起：8:36am（A）-
-月落山：11:59 pm（（E） &.
-don eniters County, Gs S8piny
-； oe AES nile SEM AEN.
-Hiaai dace\ 00 cael, Seow é
+**地球**
 
-Wil Miho le renal conch Le Ane dis
-ahh strmalinnd Hd VOM 5）
+呼吸，进食，出汗，睡眠，再呼吸；像数清她的每一根头发。生命唯一的准则，就是生命。其余一切——从血肉与水，到由太空朝地球洒落的喷流——从来都在同一首歌里低鸣。
 
-5 月（8）  
-太阳落山：2 月 18 日（0）  
-月亮升起：下午 3:05（B）  
-月亮落山：2-57 分（D）  
-月亮在维尼埃和法格雷特之间  
-3 点 @ 西 26 点 EDGR RP  
-在特林廷巴尔伯纳 Y  
-韦德斯：新哈尼埃克  
+**5 月 6 日**
 
-月亮升起：  
+- 日出：4:59 am（B）；日落：7:19 pm（D）
+- 月出：4:07 pm（C）；月落：3:14 am（C）
+- 月亮于 2:00 am 进入天秤座
+- 10:28 pm：行星合相
 
-吃你的生态，我亲爱的，我们睡觉吧，亲爱的  
+科学不愿把神话接纳为自己的兄弟，尽管神话保存着人类已知最早的地球观察；科学甚至把这位兄弟的孩子称作“原始人”。他们的质朴也许正是一种记忆的天赋：人类是不断滋生的寄生物。为了活下去，宿主必得震动、扭转大地，把他们甩落来救自己。请想想一切所谓“原始人”身上仍存的空间精神——幸存者，歌的歌者；我们的母亲生出了你们。
 
-RNA 看 GAVE tebe Sek CS  
-ed en Race ennlen Pees  
+**5 月 11 日**
 
-Pipcabee Nhoesteae, SiMe Eth che  
+- 日出：4:53 am（B）；日落：7:24 pm（D）
+- 月出：9:34 pm（E）；月落：5:17 am（A）
+- 月亮于 12:01 am 进入射手座
+- 4:02 am 与 5:57 am：行星合相
 
-BA ayo SO HLA ENG  
+**园艺**
 
-25 分（By 2  
-0:34 分 par CE）tae  
-6 点 am（Ay Bs  
-bye alti, ‘  
-ROG Grae  
-Dae é itd AO, int a  
-for Mier vg Ee Hseh nk pi a)  
-py Gidetanhi walierituaecotr pre! 3  
-g MEkGaIA ts ade Pisticci!  
-aechona belone Bully urssoe aes  
-STL nt ue We!  
+- 从动物越冬棚舍收集稻草，给番茄和玉米覆盖地面。
+- 用固氮菌给豆种接种。
+- 检查莴苣是否有蛞蝓；雨后转干时用草木灰和捕蛞蝓装置。
+- 为了让太阳温暖土地，把下个月要播种处的覆盖物稍稍拨开。
+- 据说 15:30 适合播种芜菁、韭葱、菊苣、胡萝卜，以及一切可食部分生在土中或土下的植物。
 
-iy i  
+**5 月 12 日**
 
-vanrbave alee Sine  
+- 日出：4:52 am（B）；日落：7:25 pm（D）
+- 月出：10:34 pm（E）；月落：6:01 am（A）
+- 月亮在射手座
 
-Te Niel  
+**5 月 13 日**
 
-TN Thea（酒店 Ae  
+- 日出：4:51 am（B）；日落：7:26 pm（D）
+- 月出：11:23 pm（E）；月落：6:56 am（A）
+- 月亮于 5:09 am 进入摩羯座
 
-52 点 am（By ro sa  
+**歌**
 
-Stil：升起：5:08 am（B）四月  
-> 太阳落山：2:11 am Uh  
+“我是葡萄树，你们是枝子。”
 
-ae！升起：7:38 am（A）  
-
-/ 月亮落山：午夜之后  
-
-月亮升起：3  
-
-2 x Accord 占星术，金牛座 2 ，  
-wae 2 女性 c tive es 地球 h 信号，在 a  
-pe) ate 感觉是：“土地是 5  
-% Mot! 永不死亡的母亲。”” 金牛座  
-é 由金星统治，地球的  
-ister-pl an gt. 哪个代表  
-caut thecti ee  
-ae re Apemertt| Cn coer  
-TINgING .\Tas ENT  
-oat eth eness and> | wt @o066  
-smoothness to’ Ao  
-ai tters 哪些  
-IPunder 她在  
-uence. 金星是  
-e * 拉丁语名称为  
-“7, 阿芙罗狄蒂。  
-希腊 £0 dess of  
-. 爱与美。  
-
-Pi  
-
-| PRISE -  
-| SWORT \T UP AS |  
-et ,  
-
-Mones oe The Mayen cs ed.  
-é 她这颗行星。奎兹特克  
-
-太阳升起；4:59 am（B）  
-d :) pny（D）  
-7 点 pm（C）  
-Wan（C）  
-= 月亮 Enis Ss 在 2:00 am .  
-Qo @ 10:28 pm  
-Preval berm VEE：Ralispnerre los  
-tie ne Tne dad Hinge Aynick tecamy rhe brik  
-STATE MUR IRE 3  
-iW ene：Oy SNe Gu  
-Cah hi hold  
-
-(ech ea eae on enn  
-
-Sea RORee ne Ua  
-
-ivan HO vc aan  
-PA Gn is  
-TM AEWA USES Racal aoe lll eqs  
-tr  
-
-Poe ean est Kirton  
-
-yaad, WN  
-
-Dretvemberiic a hee ohne
-
-### 5 月 12–13 日（底栏可辨数据）
-
-- 月落：6:56 am（A）
-- 日出：4:51 am（B）
-- 日落：7:26 pm（D）
-- 月出：11:23 pm（E）
-- 月亮于 5:09 am 进入摩羯座。
-
-其余装饰手写字在高清扫描中仍无法可靠辨认，未作猜测。
+如需完整年历，请寄 0.50 美元至 Atlantis Almanac, Marcola, Oregon。
 
 ## Omitted Bibliographic/Order Info
 
@@ -342,8 +262,8 @@ Dretvemberiic a hee ohne
 
 ## OCR / Uncertainty Notes
 
-- 已旋转或按版面重做高清 OCR；无法辨认的装饰性碎字未作猜测。
+- 已逐行对照 Internet Archive 原始 JP2（2727×4165）与《The Realist》第 89 期独立 PDF 的同页扫描，补回“地球”标题下五行短诗及 5 月 6 日下方全文；深色网点上的反白字以两份扫描共同支持的字形与句意为准。
 
 ## Self Critique
 
-- 已逐项恢复可辨内容，仍须独立对照高清扫描复核栏序、数字与专名。
+- 已按独立复核清单逐项修订；待再次独立复核。

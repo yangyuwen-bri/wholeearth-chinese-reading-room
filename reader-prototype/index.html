@@ -473,6 +473,7 @@
     "spring-1970": "data/spring_1970_reader.json",
     "fall-1970": "data/fall_1970_reader.json",
     "january-1971": "data/january_1971_reader.json",
+    "march-1971-last-supplement": "data/march_1971_last_supplement_reader.json",
   };
   const dataFile = dataFiles[issue] || "data/epilog_reader.json";
   const data = await (await fetch(dataFile)).json();

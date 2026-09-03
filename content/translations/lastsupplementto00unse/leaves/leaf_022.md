@@ -92,7 +92,6 @@ recommended by Buckminster Fuller and Wavy Gravy
 ——L. Clark Stevens  
 引自《est》（Capricorn Press，加利福尼亚州圣巴巴拉）  
 推荐人：巴克敏斯特·富勒（Buckminster Fuller）和瓦维·格雷维（Wavy Gravy）  
-21
 
 ## Omitted Bibliographic/Order Info
 

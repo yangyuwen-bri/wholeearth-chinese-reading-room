@@ -135,8 +135,6 @@ Monterey 和 Woodstock，Be-Ins 和 Love-Ins，以及客厅和宿舍的私人庆
 无可辩驳地证明了我们天真地相信，  
 你可以在社会死城——贫民窟中建立一个美好的生活——是愚蠢的。
 
-*本页专名原文：Charles Manson；New York；Groupie。*
-
 ## Omitted Bibliographic/Order Info
 
 - 无。

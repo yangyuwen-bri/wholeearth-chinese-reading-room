@@ -2,28 +2,23 @@
 
 ## Conclusion
 
-revise
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 发现需要修订或扫描补证的具体问题。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- “heads on the land”被译为“乡村的居民”，但原文中“heads”在反文化语境中指“迷幻药文化人士”，应保留原意或译为“迷幻药文化人士”
-- “heads in the back country”被译为“乡村的居民”，但“heads”在此处同样指“迷幻药文化人士”，应保留原意
-- “the humanization of technology”被译为“技术的人性化”，但原文强调“技术的人性化”是“对人类自身进化的引导”，译文未完整传达这一层含义
-- “the guidance of human evolution itself”被译为“对人类自身进化的引导”，但原文强调“引导”是“技术的人性化”的一部分，译文未明确这一关系
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
-- “heads on the land”被译为“乡村的居民”，但原文中“heads”在反文化语境中指“迷幻药文化人士”，应保留原意或译为“迷幻药文化人士”
-- “heads in the back country”被译为“乡村的居民”，但“heads”在此处同样指“迷幻药文化人士”，应保留原意
-- “the humanization of technology”被译为“技术的人性化”，但原文强调“技术的人性化”是“对人类自身进化的引导”，译文未完整传达这一层含义
-- “the guidance of human evolution itself”被译为“对人类自身进化的引导”，但原文强调“引导”是“技术的人性化”的一部分，译文未明确这一关系
+- None.
 
 ## Residual Risks
 
-- None.
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。

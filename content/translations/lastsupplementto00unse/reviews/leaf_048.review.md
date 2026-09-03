@@ -2,26 +2,23 @@
 
 ## Conclusion
 
-revise
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 发现需要修订或扫描补证的具体问题。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- “the proposed California water plan”被译为“加州的水计划”，但原文强调是“proposed”，即“拟议中的”，译文未体现这一关键限定词。
-- “we are, all of us, endangered species”译为“我们每个人都是濒危物种”，但原文强调“all of us”，译文未突出“我们所有人”这一集体性表述。
-- “the beginnings of a flexible and informal and partly intuitive rationality”译为“一种灵活、非正式、部分直觉的理性开端”，但“partly intuitive”应译为“部分直觉的”，而非“部分直觉的理性”，译文未准确区分“理性”与“直觉”的关系。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
-- “the proposed California water plan”被译为“加州的水计划”，但原文强调是“proposed”，即“拟议中的”，译文未体现这一关键限定词。
-- “we are, all of us, endangered species”译为“我们每个人都是濒危物种”，但原文强调“all of us”，译文未突出“我们所有人”这一集体性表述。
-- “the beginnings of a flexible and informal and partly intuitive rationality”译为“一种灵活、非正式、部分直觉的理性开端”，但“partly intuitive”应译为“部分直觉的”，而非“部分直觉的理性”，译文未准确区分“理性”与“直觉”的关系。
+- None.
 
 ## Residual Risks
 
-- None.
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。

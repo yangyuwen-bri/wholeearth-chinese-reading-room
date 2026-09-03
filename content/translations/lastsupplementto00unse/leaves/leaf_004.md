@@ -115,7 +115,8 @@ with God to the I/It consciousness who is trying to sell
 
 ## Final Translation
 
-by  
+**《圣经》**  
+Ken Kesey 著  
 奥克，我想我明白了。  
 这一周，我一直在柠檬街的这所房子里，  
 ——这所房子是由一位我从未见过的女士捐赠的，我翻阅着  
@@ -188,11 +189,6 @@ Eliot Porter拍摄的。他对岩石、花朵和树木的
 推销一些他酷炫的物品吗？因为如果你不能把这些东西卖出去，  
 那它们还有什么他妈的价值？  
 （待续）
-
-*本页专名原文：Lemon Street；Ws Picks；The CATALOG；KU--WORK ON WHAT HAS
-BEEN SPOILED；Kesey
-This；ALL RIGHT GET
-IT THIS TIME FOR THE LOVE OF GOD；THE REVOLUTION；The American Negro；Barb；Bible；Ching；Chings；Chronicle；Chuck；DECAY；Fall；Isn；Lib；Sherry；TFhou；There's；TV。*
 
 ## Omitted Bibliographic/Order Info
 

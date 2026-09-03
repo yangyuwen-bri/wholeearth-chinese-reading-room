@@ -42,7 +42,7 @@ But when | became a man
 我思想也像孩子；  
 但当我成为大人时，  
 我就丢弃了孩子般的事物。  
-——! Cor. Ch. 13:17
+——/ Cor. Ch. 13:17
 
 ## Omitted Bibliographic/Order Info
 
@@ -54,4 +54,4 @@ But when | became a man
 
 ## Self Critique
 
-- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。
+- 已按独立复核清单逐项修订；待再次独立复核。

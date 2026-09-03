@@ -2,28 +2,23 @@
 
 ## Conclusion
 
-revise
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 发现需要修订或扫描补证的具体问题。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 原文第 7 句的编号缺失，译文应为 '7. 正确的知识包括：直接感知、正确的推理和经典的证言。' 但译文未标明编号。
-- 原文第 8 句的编号为 '8.'，但译文误标为 '8. 厌恶是对痛苦的依附。'，导致编号错位。
-- 原文第 1 句的 'gives way to symphonic richness through use.' 译为 '使用使对称的丰富性得以实现。'，'symphonic richness' 译为 '对称的丰富性' 有误，应为 '交响乐般的丰富性' 或 '和谐的丰富性'。
-- 原文 'He who shits on the road will meet flies on his return' 译为 '在路上拉屎的人回来时会遇到苍蝇'，但原文为谚语，译文未保留谚语形式。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
-- 原文第 7 句的编号缺失，译文应为 '7. 正确的知识包括：直接感知、正确的推理和经典的证言。' 但译文未标明编号。
-- 原文第 8 句的编号为 '8.'，但译文误标为 '8. 厌恶是对痛苦的依附。'，导致编号错位。
-- 原文第 1 句的 'gives way to symphonic richness through use.' 译为 '使用使对称的丰富性得以实现。'，'symphonic richness' 译为 '对称的丰富性' 有误，应为 '交响乐般的丰富性' 或 '和谐的丰富性'。
-- 原文 'He who shits on the road will meet flies on his return' 译为 '在路上拉屎的人回来时会遇到苍蝇'，但原文为谚语，译文未保留谚语形式。
+- None.
 
 ## Residual Risks
 
-- None.
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。

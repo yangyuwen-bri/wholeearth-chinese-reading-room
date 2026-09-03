@@ -2,30 +2,23 @@
 
 ## Conclusion
 
-revise
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 发现需要修订或扫描补证的具体问题。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- “Methadone maintenance programs”被译为“甲基苯丙胺维持治疗计划”，但原文为“Methadone”，应译为“美沙酮”，属于误译。
-- “dope”被译为“毒品”，但原文语境中“dope”指代“成瘾者”，译为“毒品”导致语义偏差，属于误译。
-- “fiend”被译为“瘾君子”，但原文中“fiend”与“dope”搭配使用，应保留原词或译为“成瘾者”，属于语境误译。
-- “Narcotics Bureau”被译为“毒品局”，但原文中“Narcotics Bureau”应译为“麻醉品局”或“毒品管制局”，属于术语不一致。
-- “Federal Revenue Department”被译为“税务部门”，但原文中“Revenue Department”应译为“财政收入部”或“税务部”，属于术语不一致。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
-- “Methadone maintenance programs”被译为“甲基苯丙胺维持治疗计划”，但原文为“Methadone”，应译为“美沙酮”，属于误译。
-- “dope”被译为“毒品”，但原文语境中“dope”指代“成瘾者”，译为“毒品”导致语义偏差，属于误译。
-- “fiend”被译为“瘾君子”，但原文中“fiend”与“dope”搭配使用，应保留原词或译为“成瘾者”，属于语境误译。
-- “Narcotics Bureau”被译为“毒品局”，但原文中“Narcotics Bureau”应译为“麻醉品局”或“毒品管制局”，属于术语不一致。
-- “Federal Revenue Department”被译为“税务部门”，但原文中“Revenue Department”应译为“财政收入部”或“税务部”，属于术语不一致。
+- None.
 
 ## Residual Risks
 
-- None.
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。

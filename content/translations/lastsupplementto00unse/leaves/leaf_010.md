@@ -236,7 +236,6 @@ bring about the true awakening of planetary people.
 引导我们本性的转变和变化，  
 从而实现行星人的真正觉醒。  
 
-9
 
 ## Omitted Bibliographic/Order Info
 

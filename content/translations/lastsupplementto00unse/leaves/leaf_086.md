@@ -136,7 +136,6 @@ CLASS “C” 冠军。Jugs，Springfield Creamery 的篮球队，于周四在 S
 
 但总体的胜利属于那个疯狂有趣的体育馆里的每个人。  
 
-85
 
 ## Omitted Bibliographic/Order Info
 
@@ -148,4 +147,4 @@ CLASS “C” 冠军。Jugs，Springfield Creamery 的篮球队，于周四在 S
 
 ## Self Critique
 
-- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。
+- 已按独立复核清单逐项修订；待再次独立复核。

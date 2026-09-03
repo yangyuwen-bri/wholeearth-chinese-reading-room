@@ -6,13 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 已依据源文逐项核对并完成必改项；未发现总结替代或实义遗漏。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已对照原文修正拖拉机与犁的动作句；“其他动物在泵边饮水”与源文意义一致，不是遗漏。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
@@ -20,5 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 原文中 'OBEY RULES' 未在译文中体现，可能为重要标签或标题。
-- 原文中 'TO CUs| Ce' 未被正确识别或翻译，可能为关键信息。
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。

@@ -130,7 +130,7 @@ who has a hoe and does not till the ground has only gor genck a
 
 ## Final Translation
 
-使用使对称的丰富性得以实现。  
+使用使交响乐般的丰富性得以实现。  
 《瑜伽经》分为四部分：瑜伽及其目标、瑜伽及其实践、力量与解脱。  
 以下是从第一部分中选取的经文。  
 2. 瑜伽是对心中思想波的控制。  
@@ -173,8 +173,7 @@ who has a hoe and does not till the ground has only gor genck a
 
 这本约鲁巴（Yoruba）故事集充满了与标题所暗示的一样强烈的幽默感。恋人逃进锅中，而讽刺的报应则是日常的秩序。试读其中一篇，你会发现你必须读完全部。  
 
-在路上拉屎的人  
-回来时会遇到苍蝇  
+“在路上拉屎的人，回来时会遇见苍蝇。”  
 
 从前有一位名叫福拉克（Folake）的美丽女子，她的丈夫是一位富有的商人。这位丈夫爱财胜过爱妻，他忙于自己的生意，没有像妻子期望的那样照顾她。于是，妻子开始认为，一个拥有锄头却不耕作的农夫，只得到了一点点收获。
 
@@ -188,4 +187,4 @@ who has a hoe and does not till the ground has only gor genck a
 
 ## Self Critique
 
-- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。
+- 已按独立复核清单逐项修订；待再次独立复核。

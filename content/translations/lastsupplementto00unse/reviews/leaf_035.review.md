@@ -2,30 +2,23 @@
 
 ## Conclusion
 
-revise
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 发现需要修订或扫描补证的具体问题。
+- Source inventory: Internet Archive 原始 JP2（2727×4165）、w2000 扫描及《The Realist》第 89 期独立 PDF 同页扫描。
+- Translation coverage: 逐行交叉核对低反差反白字；“地球”五行短诗及 5 月 6 日全文均已补回，正文、历表、手写字、图注和寄购信息完整保留。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 源文中的 'Pisces' 被译为 '双鱼座'，但译文中出现 'Wwies'，疑似 OCR 错误或误译，应为 'Pisces'。
-- 源文提到 'Moon enters Pisce Mt 12 ah ©'，译文未完整呈现 '12 ah' 和 '©'，信息缺失。
-- 源文 'SUN ENTERS TAURUS, AT: 10: QAM' 中的 'QAM' 未在译文中正确呈现，译文写为 '10: QoAM'，存在 OCR 猜测问题。
-- 源文 'Moon enters Wies al 108.01)' 中的 'Wies' 未在译文中正确呈现，译文写为 'Wwies'，疑似 OCR 错误。
-- 源文 'Moon enters Pisce Mt 12 ah ©' 中的 'Mt' 未在译文中正确呈现，译文未提及 'Mt'，信息缺失。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
-- 源文中的 'Pisces' 被译为 '双鱼座'，但译文中出现 'Wwies'，疑似 OCR 错误或误译，应为 'Pisces'。
-- 源文提到 'Moon enters Pisce Mt 12 ah ©'，译文未完整呈现 '12 ah' 和 '©'，信息缺失。
-- 源文 'SUN ENTERS TAURUS, AT: 10: QAM' 中的 'QAM' 未在译文中正确呈现，译文写为 '10: QoAM'，存在 OCR 猜测问题。
-- 源文 'Moon enters Wies al 108.01)' 中的 'Wies' 未在译文中正确呈现，译文写为 'Wwies'，疑似 OCR 错误。
-- 源文 'Moon enters Pisce Mt 12 ah ©' 中的 'Mt' 未在译文中正确呈现，译文未提及 'Mt'，信息缺失。
+- None.
 
 ## Residual Risks
 
-- None.
+- 反白字印刷对比度极低；已由两份独立扫描互证，不留未决占位符。

@@ -2,24 +2,23 @@
 
 ## Conclusion
 
-revise
+accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本；必要时参照高清扫描独立 OCR。
-- Translation coverage: 发现需要修订或扫描补证的具体问题。
+- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
+- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 原文 'the collective unconscious' 译为 '集体无意识'，但原文中 'the Tree the Collective Unconscious' 译为 '而这棵树就是集体无意识'，未保留原文的 'the Tree'，信息不完整。
-- 原文 'the grocer has a gun, the barber has a gun, the radical right have guns, the radical left have guns' 译为 '杂货店老板有枪，理发师有枪，极右翼的人有枪，极左翼的人也有枪'，但原文 'radical right' 和 'radical left' 未被完整保留，应译为 '激进右翼' 和 '激进左翼'。
+- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
+- 未使用页面概述或总结性描述替代原文。
 
 ## Required Fixes
 
-- 原文 'the collective unconscious' 译为 '集体无意识'，但原文中 'the Tree the Collective Unconscious' 译为 '而这棵树就是集体无意识'，未保留原文的 'the Tree'，信息不完整。
-- 原文 'the grocer has a gun, the barber has a gun, the radical right have guns, the radical left have guns' 译为 '杂货店老板有枪，理发师有枪，极右翼的人有枪，极左翼的人也有枪'，但原文 'radical right' 和 'radical left' 未被完整保留，应译为 '激进右翼' 和 '激进左翼'。
+- None.
 
 ## Residual Risks
 
-- None.
+- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
