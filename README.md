@@ -78,7 +78,7 @@ Promotion from workbench to reading room is manual. The near-term goal is a smal
 | Public home | WebGL console deployed on GitHub Pages |
 | Open reading rooms | *Whole Earth Catalog*: Fall 1969, Spring 1970, Fall 1970, January 1971, and the March 1971 *Last Supplement*; *Whole Earth Epilog*, October 1974 |
 | Accepted full translation packages | *Whole Earth Catalog*: Fall 1968 (68/68 leaves), Spring 1969 (134/134), Fall 1969 (132/132), Spring 1970 (148/148), Fall 1970 (148/148), January 1971 (48/48) |
-| Current corrections | March 1971 *The Last Supplement to The Whole Earth Catalog*: 132 draft exports checked; 17 pages freshly corrected, leaves 008/011/035 reopened with specific source gaps; 112 leaves await fresh source-fidelity audit |
+| Current corrections | March 1971 *The Last Supplement to The Whole Earth Catalog*: 132 draft exports checked; 25 pages freshly corrected, leaves 008/011/035 reopened with specific source gaps; 104 leaves await fresh source-fidelity audit |
 | Readers integrated in `main`, awaiting Pages publication | *Whole Earth Catalog*: Fall 1968 and Spring 1969 |
 | Visual booklet | *Whole Earth Epilog*, 1974 chapter booklet |
 | Full Chinese guide | *Whole Earth Software Catalog 2.0*, Fall 1985 |

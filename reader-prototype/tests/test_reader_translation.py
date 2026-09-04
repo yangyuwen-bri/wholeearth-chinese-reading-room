@@ -106,6 +106,29 @@ class MarchReaderTests(unittest.TestCase):
         self.assertLess(body.index("**漫画**"), body.index("等他们回来时"))
         self.assertNotIn("等离子养老金", body)
 
+    def test_interview_and_inserted_pages_retain_source_boundaries(self):
+        bodies = {leaf: final_translation((march.LEAF_DIR / f"leaf_{leaf:03d}.md").read_text(), leaf)
+                  for leaf in range(14, 22)}
+        self.assertIn("GOSLOW", bodies[14])
+        self.assertIn("印第安人", bodies[14])
+        self.assertNotIn("SNS", bodies[16])
+        self.assertIn("它超出了联邦调查局全部技术所能触及的范围", bodies[16])
+        self.assertIn("《每日新闻》", bodies[16])
+        self.assertIn("目的就不能使手段正当化", bodies[16])
+        self.assertIn("## 枪", bodies[17])
+        self.assertIn("13:11", bodies[17])
+        self.assertEqual(markdown_to_html(bodies[17]).count("<br>"), 5)
+        self.assertIn("金钱战", bodies[18])
+        self.assertNotIn("猴子战术", bodies[18])
+        self.assertEqual(bodies[18].count("偷这本书。（"), 9)
+        self.assertIn("否”（Negative）", bodies[19])
+        self.assertIn("PATSALOS", bodies[20])
+        self.assertIn("被打乱顺序征召", bodies[20])
+        self.assertIn("4-F", bodies[21])
+        self.assertIn("Ramparts of Clay", bodies[21])
+        self.assertLess(bodies[21].index("**罗宾：**"), bodies[21].index("## 蓝幽灵"))
+        self.assertLess(bodies[21].index("## 蓝幽灵"), bodies[21].index("## 来自气象局"))
+
     def test_reopened_small_print_has_visible_notices_and_blocks_release(self):
         rows = march.load_rows(allow_pending_review=True)
         payload = march.build_payload(rows)

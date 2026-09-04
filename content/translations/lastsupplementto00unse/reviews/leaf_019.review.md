@@ -1,4 +1,4 @@
-# Leaf 019 Independent Review
+# Leaf 019 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
+- Source inventory: 接 leaf_016 的 tactics 问句、两栏采访发言，Dohrn 与团体、既往行动、职业运动者、寄信、交叉索引及备忘录。 本轮来源为本地 Internet Archive 高分辨率原扫描 leaf_019.jpg。
+- Translation coverage: 页首不重复上一页已经译出的 In other；纠正职业运动人士的否定与合法行动不再奏效，保留组织联系、拒答、重复追问、备忘录 Negative 和末句未完状态。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 全部版面文本单元逐项核对；修正不是基于旧 accepted 标签，而是重新读图核对正文。
+- 不用摘要替代问答，不替原作者修史实，不把图注、画内字并入采访人物发言。
 
 ## Required Fixes
 
@@ -21,4 +21,5 @@ accepted
 
 ## Residual Risks
 
-- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
+- 本次为同一执行者回源纠错，不等同于新增独立复核；此页结论不能外推成整本完成。
+- 阅读室导出、实际呈现和线上版本另行验证；历史政治、征兵、药物与行动文本不是当代操作建议。

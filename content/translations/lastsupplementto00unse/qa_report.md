@@ -14,7 +14,7 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
 | Translation and review files | 132 of each, leaves 000–131 |
 | Recorded translation status | 129 accepted records (mostly historical); leaves 008, 011 and 035 downgraded to needs_highres_scan |
 | Reader export coverage | All 132 rendered page bodies checked against explicitly delimited Final Translation sections |
-| Fresh source-to-translation audit in this correction | 17 pages corrected: 000–007, 009–010, 012–013, 034, 036–039; 008, 011 and 035 inspected but unresolved; the other 112 pages have not been re-audited in this correction |
+| Fresh source-to-translation audit in this correction | 25 pages corrected: 000–007, 009–010, 012–021, 034, 036–039; 008, 011 and 035 inspected but unresolved; the other 104 pages have not been re-audited in this correction |
 | Overall fidelity re-audit | In progress; do not describe it as completed independent review |
 
 ## Completed Correction
@@ -78,7 +78,21 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
   beside the restored poem; mobile rendering confirmed separate pending notices.
   The strict release gate correctly fails on leaves 008, 011 and 035.
 
-## Reproducible Gates (Updated)
+## Interview and Inserted Pages — 2026-09-04
+
+- Re-audited leaves 014–021, including the complete Hoover Vacuum interview through
+  its final answer on leaf 021, the Guns insert, Steal This Book advertisement,
+  Blue Phantom story and the opening Weather Bureau article.
+- Corrected invented SNS wording, reversed negation, wrong speaker, omitted questions,
+  Indian/Daily News/Money Warfare mistakes, and missing large titles and image credits.
+- The interview resumes on leaf 019 after two inserted pages; notes record this exact
+  sequence. Source 13:11 and the 4-F card are now retained, with no summary substitutions.
+- These eight pages now have specific source inventories and updated character counts.
+- Verification: the rebuilt payload passes 20 regression tests, including explicit
+  interview/insert order and restored small-label checks. Strict release remains blocked
+  on the three documented unresolved pages; corrective export is explicitly opt-in.
+
+## Reproducible Gates
 
 ```sh
 # Expected to fail while leaves 008, 011 and 035 are unresolved.
@@ -97,7 +111,7 @@ requires per-page comparison with the original scans.
 
 ## Remaining Work
 
-- Re-audit source coverage for the other 112 leaves, replacing generic review
+- Re-audit source coverage for the other 104 leaves, replacing generic review
   prose with page-specific inventories and explicit unresolved boundaries.
 - Close leaf 035's six documented gaps, leaf 008's signature and leaf 011's small sign without guessing. Prioritize other dense calendars, handwritten labels, poems,
   captions, and subscriber directories. Earlier scan-recovery claims must be
