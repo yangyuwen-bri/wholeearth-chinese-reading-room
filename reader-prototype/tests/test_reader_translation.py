@@ -140,6 +140,24 @@ class MarchReaderTests(unittest.TestCase):
                 self.assertIn("尚不完整", section["review_notice"])
                 self.assertTrue(any(f"{leaf:03d}" in error for error in errors))
 
+    def test_law_and_computer_pages_restore_omitted_units(self):
+        bodies = {leaf: final_translation((march.LEAF_DIR / f"leaf_{leaf:03d}.md").read_text(), leaf)
+                  for leaf in range(22, 26)}
+        for phrase in ("Weather Underground", "武元甲", "州议会大厦", "L. Clark Stevens"):
+            self.assertIn(phrase, bodies[22])
+        self.assertIn("引导那只握着铅笔的手", bodies[23])
+        self.assertIn("吞噬自身", bodies[23])
+        self.assertLess(bodies[23].index("John Manos"), bodies[23].index("## 法律"))
+        for phrase in ("Jab", "KK", "Yabe Yablonsky", "天翻地覆的震撼"):
+            self.assertIn(phrase, bodies[24])
+        self.assertEqual(markdown_to_html(bodies[24]).count("<br>"), 7)
+        for phrase in ("1984", "13 年", "军方情报机构", "南非市场", "137 West 14th Street"):
+            self.assertIn(phrase, bodies[25])
+        self.assertNotIn("中情局", bodies[25])
+        self.assertNotIn("南亚的活动", bodies[25])
+        self.assertEqual(markdown_to_html(bodies[25]).count("<li>"), 5)
+        self.assertIn("第 14 期", bodies[25])
+
     def test_reader_uses_established_name(self):
         template = (READER / "index.html").read_text()
         self.assertNotIn("中文精读室", template)

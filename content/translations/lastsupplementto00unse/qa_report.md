@@ -14,7 +14,7 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
 | Translation and review files | 132 of each, leaves 000–131 |
 | Recorded translation status | 129 accepted records (mostly historical); leaves 008, 011 and 035 downgraded to needs_highres_scan |
 | Reader export coverage | All 132 rendered page bodies checked against explicitly delimited Final Translation sections |
-| Fresh source-to-translation audit in this correction | 25 pages corrected: 000–007, 009–010, 012–021, 034, 036–039; 008, 011 and 035 inspected but unresolved; the other 104 pages have not been re-audited in this correction |
+| Fresh source-to-translation audit in this correction | 29 pages corrected: 000–007, 009–010, 012–025, 034, 036–039; 008, 011 and 035 inspected but unresolved; the other 100 pages have not been re-audited in this correction |
 | Overall fidelity re-audit | In progress; do not describe it as completed independent review |
 
 ## Completed Correction
@@ -92,6 +92,20 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
   interview/insert order and restored small-label checks. Strict release remains blocked
   on the three documented unresolved pages; corrective export is explicitly opt-in.
 
+## Law and Computer Activism — 2026-09-04
+
+- Re-audited leaves 022–025. Restored the Weather Underground credit, corrected Giap
+  and legal/metaphorical terms, and recovered the missing connect-the-dots / monster
+  passage in Law as a Revolutionary Tool.
+- The continuation retains Jab, KK, all quotations and all 12 lines of the King Kong poem.
+  Blow the judge's and jury's minds is translated as intellectual shock, not physical injury.
+- Retranslated leaf 025 from its scan: restored the 1984 / 13 years early title, all five
+  issues, Jerry Mayer, Interrupt 14 and 137 West 14th Street. Withdrawn wording had
+  conflated Honeywell, military intelligence and IBM into unsupported CIA/South Asia claims.
+- Remaining fresh source audit starts at leaf 026 (apart from already completed 034/036–039).
+- Verification: 21 regression tests pass and all 132 saved page bodies match the current
+  translations. Strict complete-release validation still fails on 008, 011 and 035.
+
 ## Reproducible Gates
 
 ```sh
@@ -111,7 +125,7 @@ requires per-page comparison with the original scans.
 
 ## Remaining Work
 
-- Re-audit source coverage for the other 104 leaves, replacing generic review
+- Re-audit source coverage for the other 100 leaves, replacing generic review
   prose with page-specific inventories and explicit unresolved boundaries.
 - Close leaf 035's six documented gaps, leaf 008's signature and leaf 011's small sign without guessing. Prioritize other dense calendars, handwritten labels, poems,
   captions, and subscriber directories. Earlier scan-recovery claims must be
