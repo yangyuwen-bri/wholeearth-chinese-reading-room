@@ -131,7 +131,7 @@ what things are and what they ought to be.”
 
 看来，挑战是显而易见的。正如一位CHEW成员所说：“我们中仍然有足够多的人愿意在现有体系内进食。但如果你不开放你的法律、你的经济制度、你整个压迫性的社会，你就不知道接下来要面对什么。”
 
-“人是唯一会笑也会哭泣的动物，因为唯有他会被事物的现状与它们应有的状态之间的差异。”
+“人是唯一会笑也会哭泣的动物，因为唯有他会被事物的现状与它们应有的状态之间的差异所触动。”
 ——威廉·海兹利特
 
 ## Omitted Bibliographic/Order Info
@@ -140,7 +140,7 @@ what things are and what they ought to be.”
 
 ## OCR / Uncertainty Notes
 
-- 据 w2000 核对讽刺文章续篇和 Hazlitt 引语；Lib 指 Liberation，并非图书馆。图画签名另待补证；不猜填姓名。
+- 据 w2000 核对讽刺文章续篇和 Hazlitt 引语；Lib 指 Liberation，并非图书馆。补回引语 is struck by 对应的“所触动”。图画签名未能可靠辨认，按 2026-09-04 用户允许的次要源文缺字例外注明保留，不猜填姓名，也不再阻断本页阅读验收。
 
 ## Self Critique
 

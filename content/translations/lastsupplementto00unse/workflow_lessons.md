@@ -23,6 +23,12 @@ record the problem here, then decide whether it is issue-local or reusable.
 
 ## Batch Lessons
 
+- 2026-09-04: The user allowed unreadable minor signatures/prices and similar
+  details to remain after checking original scans. Keep this exception local to
+  the four named leaves (011/062/084/086), record source_exception and visible
+  notices, and distinguish accepted-with-disclosed-gap from deciphered source.
+  It does not waive leaf 035's substantive prose or authorize summary translation.
+
 | Date | Leaves | Problem | Local Fix | Promote to Template? |
 | --- | --- | --- | --- | --- |
 | 2026-09-02 | 000-131 | Initial source audit found complex mixed layouts and dense transactional back matter. | Require visual inventory and scan verification on every accepted leaf. | no |

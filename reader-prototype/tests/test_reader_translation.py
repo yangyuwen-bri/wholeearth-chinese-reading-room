@@ -44,6 +44,24 @@ class FinalTranslationTests(unittest.TestCase):
 
 
 class MarchReaderTests(unittest.TestCase):
+    def test_minor_exception_cannot_hide_notice_or_waive_calendar_prose(self):
+        rows = march.load_rows(allow_pending_review=True)
+        rows[62]["reader_notice"] = ""
+        rows[35]["source_exception"] = "Unapproved prose waiver"
+        original_read = Path.read_text
+        def read_text(path, *args, **kwargs):
+            if path == march.STATUS_PATH:
+                return "\n".join(json.dumps(row) for row in rows)
+            return original_read(path, *args, **kwargs)
+        with patch.object(Path, "read_text", read_text):
+            errors = march.validate_issue()
+        self.assertIn("leaf 062: source exception requires accepted status and reader notice", errors)
+        self.assertIn("leaf 035: no authorized minor source exception", errors)
+
+    def test_hazlitt_quote_keeps_predicate(self):
+        body = final_translation((march.LEAF_DIR / "leaf_062.md").read_text(), 62)
+        self.assertIn("差异所触动", body)
+
     def test_current_preface_matches_pending_leaves(self):
         rows = march.load_rows(allow_pending_review=True)
         notice = next(s["html"] for s in march.PREFACE if s["title"] == "校订说明")
@@ -265,12 +283,20 @@ class MarchReaderTests(unittest.TestCase):
         rows = march.load_rows(allow_pending_review=True)
         payload = march.build_payload(rows)
         errors = march.validate_issue()
-        for leaf in (11, 35, 62, 84, 86):
+        for leaf in (35,):
             with self.subTest(leaf=leaf):
                 self.assertEqual(rows[leaf]["status"], "needs_highres_scan")
                 section = next(s for c in payload["chapters"] for s in c["sections"] if s["leaf"] == leaf)
                 self.assertIn("尚不完整", section["review_notice"])
                 self.assertTrue(any(f"{leaf:03d}" in error for error in errors))
+        for leaf in (11, 62, 84, 86):
+            with self.subTest(authorized_minor_exception=leaf):
+                self.assertEqual(rows[leaf]["status"], "accepted")
+                self.assertIn("用户允许", rows[leaf]["source_exception"])
+                self.assertIn("不作猜补", rows[leaf]["reader_notice"])
+                self.assertFalse(any(f"leaf {leaf:03d}:" in error for error in errors))
+        self.assertNotIn("source_exception", rows[35])
+        self.assertEqual(len(errors), 1)
         # The matching color painting resolves leaf 082's suspected inscription
         # as architecture and seated figures, not omitted source text.
         self.assertEqual(rows[82]["status"], "accepted")

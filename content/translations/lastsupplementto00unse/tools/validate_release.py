@@ -123,6 +123,11 @@ def validate_issue(*, allow_pending_review: bool = False) -> list[str]:
         )
 
         pending = row["status"] == "needs_highres_scan"
+        if row.get("source_exception"):
+            if leaf not in {11, 62, 84, 86}:
+                errors.append(f"leaf {leaf:03d}: no authorized minor source exception")
+            if row["status"] != "accepted" or not str(row.get("reader_notice") or "").strip():
+                errors.append(f"leaf {leaf:03d}: source exception requires accepted status and reader notice")
         if row["status"] != "accepted" and not (allow_pending_review and pending):
             errors.append(f"leaf {leaf:03d}: status is {row['status']}, not accepted")
         if pending and not str(row.get("reader_notice") or "").strip():
