@@ -32,6 +32,11 @@ class FinalTranslationTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             final_translation("## Source Pack\n证据", 0)
 
+    def test_display_title_never_moves_an_internal_heading(self):
+        body = "承接上页的正文。\n\n## 第二篇文章\n\n第二篇正文。"
+        self.assertEqual(split_display_title(body, "原书第 36 页"), ("原书第 36 页", body))
+        self.assertEqual(split_display_title("\n\n## 页首标题\n正文。", "页码"), ("页首标题", "正文。"))
+
 
 class MarchReaderTests(unittest.TestCase):
     def test_coverage_gate_rejects_dropped_page_and_truncated_body(self):
@@ -113,6 +118,37 @@ class MarchReaderTests(unittest.TestCase):
         self.assertIn("查尔斯问，他能否寄些儿童书籍给我", body)
         self.assertIn("批判性的身体能力", body)
         self.assertIn("Everett Ireon", body)
+
+    def test_leaf_034_caption_prose_and_repeated_lyrics(self):
+        body = final_translation((march.LEAF_DIR / "leaf_034.md").read_text(), 34)
+        for restored in ("Ron Boise", "Thunder Machine", "Peter & Helen Ready", "几乎真真切切的阴影", "Onward Christian Soldiers", "©"):
+            self.assertIn(restored, body)
+        self.assertNotIn("一字不差的阴影", body)
+        self.assertIn("无论如何，<br>\n无论如何，<br>\n无论如何，<br>", body)
+
+    def test_leaf_036_diagram_poetry_and_footnotes(self):
+        body = final_translation((march.LEAF_DIR / "leaf_036.md").read_text(), 36)
+        for restored in ("Hills of the Conscious", "Waters Below", "1：矿物", "2：植物", "3：动物", "4：人", "The Anima", "The Animus", "Terra Firma", "世界精神", "从自身分送到人类这棵树中", "自然、万物之母", "诸天、万物之父"):
+            self.assertIn(restored, body)
+        self.assertEqual(body.count("映照在"), 2)
+        self.assertNotIn("衡量这种魔法", body)
+        self.assertNotIn("卡文", body)
+        html = markdown_to_html(body)
+        self.assertIn("阴＊", html)
+        self.assertIn("阳＊", html)
+        self.assertIn("＊《易经》", html)
+        self.assertGreaterEqual(html.count("<br>"), 29)
+
+    def test_leaf_037_hitchhiking_fidelity(self):
+        body = final_translation((march.LEAF_DIR / "leaf_037.md").read_text(), 37)
+        for restored in ("水瓶座电能", "休班的美军士兵", "抽大麻", "竖拇指搭车", "最后一处还能搭便车", "R. Hunter", "Fidel Castro", "The Modesto Kid", "我们中的七个人"):
+            self.assertIn(restored, body)
+        for mistranslation in ("下班的警察", "最不可能搭便车", "按拇指"):
+            self.assertNotIn(mistranslation, body)
+        self.assertEqual(markdown_to_html(body).count("<br>"), 7)
+        title, rendered_body = split_display_title(body, "原书第 36 页")
+        self.assertEqual(title, "原书第 36 页")
+        self.assertLess(rendered_body.index("R. Hunter"), rendered_body.index("## 致健康迷组织"))
 
 
 if __name__ == "__main__":

@@ -78,7 +78,7 @@
 | 公开首页 | WebGL 文库控制台，已部署到 GitHub Pages |
 | 已开放阅读室 | *Whole Earth Catalog*：1969 年秋季号、1970 年春季号、1970 年秋季号、1971 年 1 月号、1971 年 3 月《最后一期增刊》；1974 年 10 月 *Whole Earth Epilog* |
 | 已验收完整翻译包 | *Whole Earth Catalog*：1968 年秋季号（68/68 页）、1969 年春季号（134/134 页）、1969 年秋季号（132/132 页）、1970 年春季号（148/148 页）、1970 年秋季号（148/148 页）、1971 年 1 月号（48/48 页） |
-| 当前校订 | 1971 年 3 月 *The Last Supplement to The Whole Earth Catalog*：132 页译稿导出核验；leaf 038/039 已校订，leaf 035 撤回验收并标明源文缺口，另 129 页待重新对照原文 |
+| 当前校订 | 1971 年 3 月 *The Last Supplement to The Whole Earth Catalog*：132 页译稿导出核验；leaf 034/036/037/038/039 已校订，leaf 035 撤回验收并标明源文缺口，另 126 页待重新对照原文 |
 | 已并入 `main`、待 Pages 发布的阅读器 | *Whole Earth Catalog* 1968 年秋季号、1969 年春季号 |
 | 视觉小册子 | *Whole Earth Epilog*, 1974 章节小册子 |
 | 已完成中文导读 | *Whole Earth Software Catalog 2.0*, 1985 年秋 |

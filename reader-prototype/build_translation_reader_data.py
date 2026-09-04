@@ -244,11 +244,15 @@ def final_translation(markdown: str, leaf: int) -> str:
 def split_display_title(markdown: str, fallback: str) -> tuple[str, str]:
     lines = markdown.splitlines()
     for index, line in enumerate(lines):
+        if not line.strip():
+            continue
         match = re.match(r"^#{1,6}\s+(.+)$", line.strip())
         if match:
             title = match.group(1).strip()
             body = "\n".join(lines[:index] + lines[index + 1 :]).strip()
             return title, body
+        # A heading after prose belongs to that position, not to the whole page.
+        break
     return fallback, markdown
 
 

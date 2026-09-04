@@ -14,7 +14,7 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
 | Translation and review files | 132 of each, leaves 000–131 |
 | Recorded translation status | 131 accepted records (mostly historical); leaf 035 downgraded to needs_highres_scan |
 | Reader export coverage | All 132 rendered page bodies checked against explicitly delimited Final Translation sections |
-| Fresh source-to-translation audit in this correction | Leaves 038 and 039 corrected; leaf 035 inspected but unresolved; the other 129 pages have not been re-audited in this correction |
+| Fresh source-to-translation audit in this correction | Leaves 034, 036, 037, 038 and 039 corrected; leaf 035 inspected but unresolved; the other 126 pages have not been re-audited in this correction |
 | Overall fidelity re-audit | In progress; do not describe it as completed independent review |
 
 ## Completed Correction
@@ -39,6 +39,24 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
   Six explicitly bounded unresolved groups remain in the review. The reader
   shows a separate editorial notice; this page is not a complete translation.
 
+## Additional Source Corrections — 2026-09-04
+
+- Leaf 034: restored the Ron Boise / Thunder Machine caption and Peter & Helen
+  Ready credit; repaired broken paragraph order and the literal-shadow mistranslation;
+  preserved both four-line lyric quotations and their repetitions.
+- Leaf 036: restored diagram layer labels, numbered Mineral/Vegetable/Animal/Human
+  entries, Anima/Animus, and the second reflection statement. Retranslated Arthur's
+  final two poem lines, restored nature/the heavens, and distinguished unconscious
+  from subconscious. Poem line breaks and source footnotes remain visible.
+- Leaf 037: corrected off-duty G.I., smoking dope, thumbing, and last place possible;
+  restored electrical energy, source bylines and the memo's example qualifier.
+- Browser inspection caught another export-order bug: the title splitter pulled
+  the mid-page health memo heading above the preceding astrology continuation.
+  Only a heading at the start of the page may now become its display title;
+  internal headings remain in place. Regression tests check this order explicitly.
+- These are executor corrections with page-specific scan inventories, not a new
+  independent all-book acceptance. Leaf 035 remains unresolved.
+
 ## Reproducible Gates
 
 ```sh
@@ -58,7 +76,7 @@ requires per-page comparison with the original scans.
 
 ## Remaining Work
 
-- Re-audit source coverage for the other 129 leaves, replacing generic review
+- Re-audit source coverage for the other 126 leaves, replacing generic review
   prose with page-specific inventories and explicit unresolved boundaries.
 - Close leaf 035's six documented gaps without guessing. Prioritize other dense calendars, handwritten labels, poems,
   captions, and subscriber directories. Earlier scan-recovery claims must be
