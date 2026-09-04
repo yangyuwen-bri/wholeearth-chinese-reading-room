@@ -288,6 +288,12 @@
     margin-bottom: 10px;
   }
   .entry-meta a { color: var(--blue-deep); text-decoration: none; border-bottom: 1px dotted var(--blue); cursor: pointer; }
+  .review-notice {
+    border-left: 3px solid var(--red);
+    padding-left: 14px;
+    font-size: 14px;
+    color: #4d4535;
+  }
   .book-links {
     margin: -4px 0 14px;
     font-size: 12px;
@@ -580,7 +586,8 @@
     el.dataset.chapter = chap.id;
     const meta = entryMeta(sec);
     const heading = sec.title === chap.title ? "" : "<h3>" + escapeHtml(sec.title) + "</h3>";
-    el.innerHTML = heading + meta + bookLinks(sec) + sec.html;
+    const reviewNotice = sec.review_notice ? '<p class="review-notice" role="note">编者校订说明（非原文）：' + escapeHtml(sec.review_notice) + '</p>' : '';
+    el.innerHTML = heading + meta + reviewNotice + bookLinks(sec) + sec.html;
     return el;
   }
 
