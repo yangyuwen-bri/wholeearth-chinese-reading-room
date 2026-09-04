@@ -25,6 +25,8 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
   8 for The Readings, and 11 for The Ordinary Group, plus Peter Friedman's byline.
 - Rechecking the original 2727×4165 scan also restored age 67, “most of” the
   forty-three years, and “before a class”. See this page's review for the inventory.
+- Readings now uses 通灵解读 consistently with leaf 038, replacing the misleading
+  instrument-reading term 读数 on leaf 039.
 - The established display name is 中文阅读室. Added chapter guides are explicitly
   labelled as editorial material, not original text.
 

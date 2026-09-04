@@ -61,7 +61,9 @@ class MarchReaderTests(unittest.TestCase):
     def test_leaf_039_keeps_both_previously_dropped_sections(self):
         source = (march.LEAF_DIR / "leaf_039.md").read_text()
         body = final_translation(source, 39)
-        self.assertIn("## 读数", body)
+        self.assertIn("## 通灵解读", body)
+        self.assertNotIn("“读数”", body)
+        self.assertNotIn("## 读数", body)
         self.assertIn("## 普通组", body)
         self.assertIn("没有白白停止刷牙", body)
         self.assertIn("67 岁", body)
