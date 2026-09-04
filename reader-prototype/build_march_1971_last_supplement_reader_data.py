@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import json
 import sys
 from collections import Counter
@@ -102,18 +103,23 @@ PREFACE = [
         "html": (
             "<p>本次修复了原书第 38 页正文显示不全的问题，并重新核对了 132 页译稿与阅读室正文的一致性。"
             "与原扫描的内容复核仍在继续；译稿完整载入不等于已经消除所有漏译和误译。</p>"
+            "<p>原书第 34 页年历已撤回验收：两段反白字旧译缺少逐字证据，已撤下；"
+            "部分小字、纪念事项和天体符号也尚待核实。该页保留明确的待核提示，目前不是完整译文。</p>"
         ),
     },
 ]
 
 
-def load_rows() -> list[dict]:
+def load_rows(*, allow_pending_review: bool = False) -> list[dict]:
     rows = [json.loads(line) for line in STATUS_PATH.read_text().splitlines() if line.strip()]
     rows.sort(key=lambda row: row["leaf"])
     if [row["leaf"] for row in rows] != list(range(132)):
         raise ValueError("expected contiguous leaves 000-131")
-    if any(row["status"] != "accepted" for row in rows):
+    allowed = {"accepted", "needs_highres_scan"} if allow_pending_review else {"accepted"}
+    if any(row["status"] not in allowed for row in rows):
         raise ValueError("reader release requires all leaves to be accepted")
+    if any(row["status"] != "accepted" and not str(row.get("reader_notice") or "").strip() for row in rows):
+        raise ValueError("pending page requires a reader notice")
     return rows
 
 
@@ -149,6 +155,7 @@ def build_payload(rows: list[dict]) -> dict:
                     "id": f"{chapter_id}-leaf-{leaf:03d}",
                     "anchor_status": row["status"],
                     "translation_status": row["status"],
+                    "review_notice": row.get("reader_notice", ""),
                     "qa_flags": row.get("qa_flags", []),
                     "review_path": row["review_path"],
                     "translation_path": row["translation_path"],
@@ -205,8 +212,12 @@ def validate_reader_payload(payload: dict) -> list[str]:
     if [section["leaf"] for section in sections] != list(range(132)):
         return ["reader must contain contiguous leaves 000-131 exactly once"]
     errors = []
+    rows = {row["leaf"]: row for row in load_rows(allow_pending_review=True)}
     for section in sections:
         leaf = section["leaf"]
+        row = rows[leaf]
+        if section.get("translation_status") != row["status"] or section.get("review_notice", "") != row.get("reader_notice", ""):
+            errors.append(f"leaf {leaf:03d}: reader review status or notice differs from source")
         source = (LEAF_DIR / f"leaf_{leaf:03d}.md").read_text()
         # This extractor uses explicit workflow delimiters, independently of
         # the shared reader parser. Rebuilding with the same buggy parser is
@@ -219,11 +230,15 @@ def validate_reader_payload(payload: dict) -> list[str]:
 
 
 def main() -> None:
-    errors = validate_issue()
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--allow-pending-review", action="store_true",
+                        help="build a labelled corrective draft, not an accepted full-book release")
+    args = parser.parse_args()
+    errors = validate_issue(allow_pending_review=args.allow_pending_review)
     if errors:
         preview = "\n".join(f"- {error}" for error in errors[:20])
         raise SystemExit(f"March 1971 release gate failed ({len(errors)} issues):\n{preview}")
-    rows = load_rows()
+    rows = load_rows(allow_pending_review=args.allow_pending_review)
     payload = build_payload(rows)
     reader_errors = validate_reader_payload(payload)
     if reader_errors:

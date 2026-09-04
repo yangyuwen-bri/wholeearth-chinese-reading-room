@@ -21,7 +21,7 @@ The project treats each published issue as an edited reading object. A finished 
   <tr>
     <td width="12%">
       <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/reader-prototype/index.html?issue=march-1971-last-supplement"><strong>March 1971 Last Supplement Reading Room</strong></a><br>
-      Chinese drafts for all 132 scan leaves alongside the originals. Printed page 38's truncated body has been restored and all exported bodies checked against the drafts; source-fidelity re-audit is ongoing. Historical accepted labels are not proof of completeness.
+      Chinese drafts for all 132 scan leaves alongside the originals. Source-fidelity re-audit is ongoing. Printed page 34 is explicitly incomplete: unsupported passages have been withdrawn and remaining gaps are labelled. Historical accepted labels are not proof of completeness.
     </td>
     <td width="12%">
       <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/reader-prototype/index.html?issue=january-1971"><strong>January 1971 Catalog Reading Room</strong></a><br>
@@ -78,7 +78,7 @@ Promotion from workbench to reading room is manual. The near-term goal is a smal
 | Public home | WebGL console deployed on GitHub Pages |
 | Open reading rooms | *Whole Earth Catalog*: Fall 1969, Spring 1970, Fall 1970, January 1971, and the March 1971 *Last Supplement*; *Whole Earth Epilog*, October 1974 |
 | Accepted full translation packages | *Whole Earth Catalog*: Fall 1968 (68/68 leaves), Spring 1969 (134/134), Fall 1969 (132/132), Spring 1970 (148/148), Fall 1970 (148/148), January 1971 (48/48) |
-| Current corrections | March 1971 *The Last Supplement to The Whole Earth Catalog*: all 132 draft exports checked; leaf 039's missing reader text and local translation omissions corrected; source-fidelity re-audit ongoing |
+| Current corrections | March 1971 *The Last Supplement to The Whole Earth Catalog*: 132 draft exports checked; leaves 038/039 corrected, leaf 035 reopened with unresolved source gaps; 129 leaves await fresh source-fidelity audit |
 | Readers integrated in `main`, awaiting Pages publication | *Whole Earth Catalog*: Fall 1968 and Spring 1969 |
 | Visual booklet | *Whole Earth Epilog*, 1974 chapter booklet |
 | Full Chinese guide | *Whole Earth Software Catalog 2.0*, Fall 1985 |

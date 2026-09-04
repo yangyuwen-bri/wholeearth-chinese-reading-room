@@ -93,7 +93,7 @@ def proper_ascii_tokens(text: str) -> set[str]:
     }
 
 
-def validate_issue() -> list[str]:
+def validate_issue(*, allow_pending_review: bool = False) -> list[str]:
     rows = [
         json.loads(line)
         for line in STATUS_PATH.read_text().splitlines()
@@ -122,8 +122,13 @@ def validate_issue() -> list[str]:
             r"^## Conclusion\s*\n\s*([^\n]+)", review_text, re.MULTILINE
         )
 
-        if row["status"] != "accepted":
+        pending = row["status"] == "needs_highres_scan"
+        if row["status"] != "accepted" and not (allow_pending_review and pending):
             errors.append(f"leaf {leaf:03d}: status is {row['status']}, not accepted")
+        if pending and not str(row.get("reader_notice") or "").strip():
+            errors.append(f"leaf {leaf:03d}: pending page requires a reader notice")
+        if pending and (not required_fixes or re.match(r"^-?\s*(?:无|None)(?:\b|[。.])", required_fixes, re.IGNORECASE)):
+            errors.append(f"leaf {leaf:03d}: pending review must identify required fixes")
         if not final:
             errors.append(f"leaf {leaf:03d}: Final Translation is empty")
         has_inventory = "Source inventory:" in evidence or "Visual inventory:" in evidence
@@ -133,9 +138,9 @@ def validate_issue() -> list[str]:
             or any(label not in evidence for label in REQUIRED_EVIDENCE)
         ):
             errors.append(f"leaf {leaf:03d}: review lacks concrete coverage evidence")
-        if not conclusion or conclusion.group(1).strip() != "accepted":
-            errors.append(f"leaf {leaf:03d}: review conclusion is not accepted")
-        if required_fixes and not re.match(
+        if not conclusion or conclusion.group(1).strip() != row["status"]:
+            errors.append(f"leaf {leaf:03d}: review conclusion differs from status")
+        if row["status"] == "accepted" and required_fixes and not re.match(
             r"^-?\s*(?:无|None)(?:\b|[。.])",
             required_fixes,
             re.IGNORECASE,

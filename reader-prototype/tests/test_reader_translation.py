@@ -1,6 +1,7 @@
 import json
 import sys
 import unittest
+from unittest.mock import patch
 from pathlib import Path
 
 
@@ -34,7 +35,7 @@ class FinalTranslationTests(unittest.TestCase):
 
 class MarchReaderTests(unittest.TestCase):
     def test_coverage_gate_rejects_dropped_page_and_truncated_body(self):
-        payload = march.build_payload(march.load_rows())
+        payload = march.build_payload(march.load_rows(allow_pending_review=True))
         self.assertEqual(march.validate_reader_payload(payload), [])
         section = next(s for c in payload["chapters"] for s in c["sections"] if s["leaf"] == 39)
         section["html"] = "<p>只剩第一篇。</p>"
@@ -74,6 +75,44 @@ class MarchReaderTests(unittest.TestCase):
         template = (READER / "index.html").read_text()
         self.assertNotIn("中文精读室", template)
         self.assertIn('document.title = (data.display_title || data.title) + " · 中文阅读室"', template)
+
+    def test_complete_release_stays_blocked_by_leaf_035(self):
+        with self.assertRaisesRegex(ValueError, "all leaves to be accepted"):
+            march.load_rows()
+        self.assertTrue(any("035" in error for error in march.validate_issue()))
+        self.assertEqual(march.validate_issue(allow_pending_review=True), [])
+
+    def test_pending_page_requires_matching_visible_notice(self):
+        rows = march.load_rows(allow_pending_review=True)
+        self.assertEqual(rows[35]["status"], "needs_highres_scan")
+        payload = march.build_payload(rows)
+        section = next(s for c in payload["chapters"] for s in c["sections"] if s["leaf"] == 35)
+        self.assertIn("尚不完整", section["review_notice"])
+        self.assertEqual(march.validate_reader_payload(payload), [])
+        section["review_notice"] = ""
+        self.assertTrue(any("035" in error for error in march.validate_reader_payload(payload)))
+        rows[35].pop("reader_notice")
+        with patch.object(Path, "read_text", return_value="\n".join(json.dumps(row) for row in rows)):
+            with self.assertRaisesRegex(ValueError, "requires a reader notice"):
+                march.load_rows(allow_pending_review=True)
+        template = (READER / "index.html").read_text()
+        self.assertIn("escapeHtml(sec.review_notice)", template)
+        self.assertIn("编者校订说明（非原文）", template)
+
+    def test_leaf_035_corrections_and_withdrawn_passages(self):
+        body = final_translation((march.LEAF_DIR / "leaf_035.md").read_text(), 35)
+        for restored in ("银铃", "列宁诞生，1870", "花朵绽放", "弗洛伊德", "卡尔·马克思", "15 日至 30 日", "2:25 am", "6:01 pm", "12:10 am"):
+            self.assertIn(restored, body)
+        for withdrawn in ("地球日，1970", "15:30", "呼吸，进食，出汗", "科学不愿把神话接纳为自己的兄弟", "我们的母亲生出了你们"):
+            self.assertNotIn(withdrawn, body)
+        self.assertLess(body.index("**4 月 21 日**"), body.index("**俳句**"))
+        self.assertLess(body.index("**俳句**"), body.index("**4 月 22 日**"))
+
+    def test_leaf_038_sender_and_source_wording(self):
+        body = final_translation((march.LEAF_DIR / "leaf_038.md").read_text(), 38)
+        self.assertIn("查尔斯问，他能否寄些儿童书籍给我", body)
+        self.assertIn("批判性的身体能力", body)
+        self.assertIn("Everett Ireon", body)
 
 
 if __name__ == "__main__":

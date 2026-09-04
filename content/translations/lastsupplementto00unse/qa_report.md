@@ -12,9 +12,9 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
 | Check | Current evidence |
 | --- | --- |
 | Translation and review files | 132 of each, leaves 000–131 |
-| Recorded translation status | 132 accepted records; historical labels, not a fresh all-page fidelity audit |
+| Recorded translation status | 131 accepted records (mostly historical); leaf 035 downgraded to needs_highres_scan |
 | Reader export coverage | All 132 rendered page bodies checked against explicitly delimited Final Translation sections |
-| Fresh source-to-translation audit in this correction | Leaf 039 only; the other 131 pages have not been re-audited in this correction |
+| Fresh source-to-translation audit in this correction | Leaves 038 and 039 corrected; leaf 035 inspected but unresolved; the other 129 pages have not been re-audited in this correction |
 | Overall fidelity re-audit | In progress; do not describe it as completed independent review |
 
 ## Completed Correction
@@ -29,12 +29,24 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
   instrument-reading term 读数 on leaf 039.
 - The established display name is 中文阅读室. Added chapter guides are explicitly
   labelled as editorial material, not original text.
+- Leaf 038 now identifies Charles as the sender of children's books, preserves
+  the source's unusual “critical physical ability” wording and Everett Ireon
+  spelling, and has a page-specific coverage inventory.
+- Leaf 035's previous acceptance is withdrawn. Missing nursery rhyme, birthday
+  lines, and planetary records were partially restored; Lenin's birth, calendar
+  times, and the 15–30 planting date range were corrected. Two unsupported old
+  passages were removed from the reading body, not replaced with summaries.
+  Six explicitly bounded unresolved groups remain in the review. The reader
+  shows a separate editorial notice; this page is not a complete translation.
 
 ## Reproducible Gates
 
 ```sh
+# Expected to fail while leaf 035 is unresolved: full-book release stays blocked.
 python3 content/translations/lastsupplementto00unse/tools/validate_release.py
 python3 reader-prototype/build_march_1971_last_supplement_reader_data.py
+# Explicit corrective draft only; pending pages require notices and matching reviews.
+python3 reader-prototype/build_march_1971_last_supplement_reader_data.py --allow-pending-review
 python3 -m unittest discover -s reader-prototype/tests -v
 ```
 
@@ -46,9 +58,9 @@ requires per-page comparison with the original scans.
 
 ## Remaining Work
 
-- Re-audit source coverage for the other 131 leaves, replacing generic review
+- Re-audit source coverage for the other 129 leaves, replacing generic review
   prose with page-specific inventories and explicit unresolved boundaries.
-- Prioritize dense calendars (including leaf 035), handwritten labels, poems,
+- Close leaf 035's six documented gaps without guessing. Prioritize other dense calendars, handwritten labels, poems,
   captions, and subscriber directories. Earlier scan-recovery claims must be
   checked, not inherited merely because a file is marked accepted.
 - Keep source fidelity, reader coverage, and public deployment verification
