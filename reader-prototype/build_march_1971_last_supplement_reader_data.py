@@ -23,6 +23,7 @@ LEAF_DIR = TRANSLATION_ROOT / "leaves"
 OUT = HERE / "data" / "march_1971_last_supplement_reader.json"
 sys.path.insert(0, str(TRANSLATION_ROOT / "tools"))
 from validate_release import validate_issue  # noqa: E402
+from validate_release import final_translation as source_final_translation  # noqa: E402
 
 
 CHAPTERS = [
@@ -81,10 +82,10 @@ PREFACE = [
     {
         "title": "这是什么",
         "html": (
-            "<p>这是 1971 年 3 月《最后一期〈全球概览〉增刊》的中文对照阅读室，共 132 个公开扫描叶。"
-            "右侧逐页呈现完整中文译文，左侧保留 Internet Archive 原扫描。</p>"
-            "<p>访谈、文章、诗歌、书信、漫画文字、图注、广告、价格、地址和订户名录均按原页保留；"
-            "没有用总结性描述替代正文。</p>"
+            "<p>这是 1971 年 3 月《最后一期〈全球概览〉增刊》的中文阅读室，共 132 个公开扫描叶。"
+            "右侧逐页呈现中文译稿，左侧保留 Internet Archive 原扫描。</p>"
+            "<p>翻译要求是完整保留访谈、文章、诗歌、书信、漫画文字、图注、广告、价格、地址和订户名录，"
+            "不得以摘要代替原文。章节分组和导读由编者添加，不属于原刊正文。</p>"
         ),
     },
     {
@@ -99,9 +100,8 @@ PREFACE = [
     {
         "title": "校订说明",
         "html": (
-            "<p>全书 132 页均完成源页清点、忠实全文翻译、高清扫描复核和独立审校。"
-            "发布门禁逐页检查正文完整性、审校证据、状态一致性、专名与数字保留、未决占位符和摘要漂移；"
-            "当前 132 页全部 accepted。</p>"
+            "<p>本次修复了原书第 38 页正文显示不全的问题，并重新核对了 132 页译稿与阅读室正文的一致性。"
+            "与原扫描的内容复核仍在继续；译稿完整载入不等于已经消除所有漏译和误译。</p>"
         ),
     },
 ]
@@ -179,7 +179,7 @@ def build_payload(rows: list[dict]) -> dict:
         "issue_id": "lastsupplementto00unse",
         "title": "The Last Supplement to The Whole Earth Catalog, March 1971",
         "display_title": "最后一期《全球概览》增刊 · 1971 年 3 月",
-        "subtitle": "中文对照阅读室 · 132 页忠实全文翻译 · 全册高清复核完成",
+        "subtitle": "中文阅读室 · 132 页原文对照 · 校订中",
         "scan_url": "https://archive.org/download/lastsupplementto00unse/page/n{leaf}_w500.jpg",
         "archive_page_url": "https://archive.org/details/lastsupplementto00unse/page/n{leaf}",
         "leaf_min": 0,
@@ -199,6 +199,25 @@ def build_payload(rows: list[dict]) -> dict:
     }
 
 
+def validate_reader_payload(payload: dict) -> list[str]:
+    """Check rendered bodies against independently delimited source translations."""
+    sections = [section for chapter in payload["chapters"] for section in chapter["sections"]]
+    if [section["leaf"] for section in sections] != list(range(132)):
+        return ["reader must contain contiguous leaves 000-131 exactly once"]
+    errors = []
+    for section in sections:
+        leaf = section["leaf"]
+        source = (LEAF_DIR / f"leaf_{leaf:03d}.md").read_text()
+        # This extractor uses explicit workflow delimiters, independently of
+        # the shared reader parser. Rebuilding with the same buggy parser is
+        # not evidence that a published page contains the full translation.
+        complete = source_final_translation(source).strip()
+        title, body = split_display_title(complete, section["title"])
+        if not complete or section["title"] != title or section["html"] != markdown_to_html(body):
+            errors.append(f"leaf {leaf:03d}: reader body differs from complete Final Translation")
+    return errors
+
+
 def main() -> None:
     errors = validate_issue()
     if errors:
@@ -206,6 +225,9 @@ def main() -> None:
         raise SystemExit(f"March 1971 release gate failed ({len(errors)} issues):\n{preview}")
     rows = load_rows()
     payload = build_payload(rows)
+    reader_errors = validate_reader_payload(payload)
+    if reader_errors:
+        raise SystemExit("Reader coverage gate failed:\n" + "\n".join(reader_errors))
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(payload, ensure_ascii=False))
     section_count = sum(len(chapter["sections"]) for chapter in payload["chapters"])

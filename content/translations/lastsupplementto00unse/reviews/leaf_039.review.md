@@ -1,4 +1,4 @@
-# Leaf 039 Independent Review
+# Leaf 039 Review — 2026-09-04 Corrective Audit
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
+- Source inventory: Internet Archive n39 原页（2727×4165），印刷页 38；左栏《EDGAR CAYCE (cont’d)》4 段、《THE READINGS》8 段，右栏《The Ordinary Group》11 段及署名 Peter Friedman。
+- Translation coverage: 三个标题、23 段正文及署名逐项核对；补回凯西逝世年龄 67 岁、“四十三年的大部分时间”、上课前的走廊场景。核对 1901/1944/1909/1923、16,000、14,249、200,000、8,985、2,500、667、1,995 与 37½%（其中数字可按中文写法表达）。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 原发布阅读室在第二个正文二级标题前截断，只导出了本页约 29% 的译稿；文件存在、accepted 标签及部署哈希一致均未阻止此错误。
+- 修复通用正文解析边界，并以独立的工作流分隔符核验全页导出，恢复《读数》和《普通组》全文，不以摘要替代。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
+- 本次纠错复核与修改由同一执行者完成，不另计为独立审校。该页的复核结论不能外推到其余 131 页。

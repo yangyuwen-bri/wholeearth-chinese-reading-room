@@ -96,6 +96,17 @@ Reviewer decisions:
 
 Reviewers identify fidelity problems first. Style polish is secondary.
 
+Record page-specific source inventories (article titles, paragraphs, captions,
+labels, and order metadata) and the actual corrected or unresolved units.
+Generic assertions of “full coverage” are not evidence of a fresh source audit.
+A correction by the same executor is not a new independent review.
+
+Verify source fidelity and reader export coverage separately. Internal Markdown
+headings must never terminate the Final Translation body. Compare every saved
+reader page against the full workflow-delimited translation before publishing;
+matching file counts, accepted labels, or deployment hashes cannot replace this
+check. A passed automated gate alone must not be reported as proof of fidelity.
+
 `no_translation_needed` does not remove the file/review requirement. Translate
 any visible non-index heading, instruction, caption, or quotation before using
 that status.

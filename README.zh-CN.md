@@ -20,8 +20,8 @@
 <table>
   <tr>
     <td width="12%">
-      <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/reader-prototype/index.html?issue=march-1971-last-supplement"><strong>1971 年 3 月《最后一期〈全球概览〉增刊》对照阅读室</strong></a><br>
-      132 个扫描叶全部完成忠实全文翻译、高清复核和独立审校；文章、诗歌、访谈、漫画、图注、价格、地址与完整订户名录均按原页保留。
+      <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/reader-prototype/index.html?issue=march-1971-last-supplement"><strong>1971 年 3 月《最后一期〈全球概览〉增刊》中文阅读室</strong></a><br>
+      已提供 132 页中文译稿与原扫描对照。已修复第 38 页正文截断并核验全册译稿导出一致性；原文忠实性重新复核中，不将历史 accepted 标签视为无遗漏证明。
     </td>
     <td width="12%">
       <a href="https://yangyuwen-bri.github.io/wholeearth-chinese-reading-room/reader-prototype/index.html?issue=january-1971"><strong>1971 年 1 月《全球概览》对照阅读室</strong></a><br>
@@ -77,8 +77,8 @@
 | --- | --- |
 | 公开首页 | WebGL 文库控制台，已部署到 GitHub Pages |
 | 已开放阅读室 | *Whole Earth Catalog*：1969 年秋季号、1970 年春季号、1970 年秋季号、1971 年 1 月号、1971 年 3 月《最后一期增刊》；1974 年 10 月 *Whole Earth Epilog* |
-| 已验收完整翻译包 | *Whole Earth Catalog*：1968 年秋季号（68/68 页）、1969 年春季号（134/134 页）、1969 年秋季号（132/132 页）、1970 年春季号（148/148 页）、1970 年秋季号（148/148 页）、1971 年 1 月号（48/48 页）、1971 年 3 月《最后一期增刊》（132/132 页） |
-| 最近完成 | 1971 年 3 月 *The Last Supplement to The Whole Earth Catalog*：132/132 页 accepted，原始高清扫描 release gate 已通过并生成对照阅读器 |
+| 已验收完整翻译包 | *Whole Earth Catalog*：1968 年秋季号（68/68 页）、1969 年春季号（134/134 页）、1969 年秋季号（132/132 页）、1970 年春季号（148/148 页）、1970 年秋季号（148/148 页）、1971 年 1 月号（48/48 页） |
+| 当前校订 | 1971 年 3 月 *The Last Supplement to The Whole Earth Catalog*：132 页译稿已导出核验；修复 leaf 039 漏载与局部漏译，全册原文忠实性重新复核中 |
 | 已并入 `main`、待 Pages 发布的阅读器 | *Whole Earth Catalog* 1968 年秋季号、1969 年春季号 |
 | 视觉小册子 | *Whole Earth Epilog*, 1974 章节小册子 |
 | 已完成中文导读 | *Whole Earth Software Catalog 2.0*, 1985 年秋 |

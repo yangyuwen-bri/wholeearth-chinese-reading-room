@@ -227,7 +227,15 @@ def inline_md(text: str) -> str:
 
 
 def final_translation(markdown: str, leaf: int) -> str:
-    match = re.search(r"^## Final Translation\s*\n(.*?)(?=\n## |\Z)", markdown, re.S | re.M)
+    # Source articles may themselves use ## headings. Only workflow headings
+    # terminate the translation; stopping at any heading silently drops prose.
+    match = re.search(
+        r"^## Final Translation[ \t]*\r?\n(.*?)"
+        r"(?=^## (?:Omitted Bibliographic/Order Info|OCR / Uncertainty Notes|Self Critique)"
+        r"[ \t]*\r?$|\Z)",
+        markdown,
+        re.S | re.M,
+    )
     if not match:
         raise ValueError(f"leaf {leaf:03d} has no Final Translation section")
     return match.group(1).strip()

@@ -194,7 +194,8 @@ def main() -> None:
         for error in errors:
             print(f"- {error}")
         raise SystemExit(1)
-    print("release gate passed: 132 leaves are complete, reviewed, and accepted")
+    print("package checks passed: 132 translation/review records marked accepted; "
+          "source fidelity and rendered-reader coverage require separate verification")
 
 
 if __name__ == "__main__":
