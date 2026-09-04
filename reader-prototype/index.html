@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Whole Earth · 中文精读室</title>
+<title>Whole Earth · 中文阅读室</title>
 <style>
   :root {
     --paper: #f5efe0;
@@ -424,7 +424,7 @@
 <header class="masthead">
   <div>
     <h1 id="mastheadTitle">Whole Earth</h1>
-    <p class="sub" id="mastheadSubtitle">中文精读室 · 图文对照</p>
+    <p class="sub" id="mastheadSubtitle">中文阅读室 · 图文对照</p>
   </div>
   <div class="spacer"></div>
   <div class="view-toggle" id="viewToggle">
@@ -492,10 +492,11 @@
   const lensModules = document.getElementById("lensModules");
   const viewToggle = document.getElementById("viewToggle");
 
-  document.title = (data.display_title || data.title) + " · 中文精读室";
+  document.title = (data.display_title || data.title) + " · 中文阅读室";
   document.getElementById("mastheadTitle").textContent = data.display_title || data.title;
   document.getElementById("mastheadSubtitle").textContent =
-    data.subtitle || "中文精读室 · 图文对照";
+    (data.subtitle || "中文阅读室 · 图文对照")
+      .replace(/^中文(?:精读室|精读本|对照阅读室)/, "中文阅读室");
   leafSlider.min = data.leaf_min ?? 0;
   leafSlider.max = data.leaf_total;
   leafSlider.value = data.leaf_min ?? 0;
@@ -587,7 +588,7 @@
     if (chap.summary) {
       const summary = document.createElement("p");
       summary.className = "chapter-summary";
-      summary.textContent = chap.summary;
+      summary.textContent = "编者导读（非原文）：" + chap.summary;
       article.appendChild(summary);
     }
     if (!chap.toc?.length) return;
@@ -656,7 +657,7 @@
   preface.id = "preface";
   preface.innerHTML = "<span class='preface-tag'>序</span><h2>" +
     escapeHtml(data.preface.title || "导读") + "</h2>" +
-    "<div class='chapter-meta'>面向读者的全书导读 · 正文从下一章开始</div>";
+    "<div class='chapter-meta'>编者添加的阅读说明，非原刊正文 · 原文译稿从下一章开始</div>";
   data.preface.sections.forEach(sec => {
     const el = document.createElement("section");
     el.className = "entry";
