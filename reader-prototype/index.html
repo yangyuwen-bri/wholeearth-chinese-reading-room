@@ -586,7 +586,7 @@
     el.dataset.chapter = chap.id;
     const meta = entryMeta(sec);
     const heading = sec.title === chap.title ? "" : "<h3>" + escapeHtml(sec.title) + "</h3>";
-    const reviewNotice = sec.review_notice ? '<p class="review-notice" role="note">编者校订说明（非原文）：' + escapeHtml(sec.review_notice) + '</p>' : '';
+    const reviewNotice = sec.review_notice ? '<p class="review-notice" role="note">' + (sec.review_notice.includes('非原文') ? '' : '编者校订说明（非原文）：') + escapeHtml(sec.review_notice) + '</p>' : '';
     el.innerHTML = heading + meta + reviewNotice + bookLinks(sec) + sec.html;
     return el;
   }

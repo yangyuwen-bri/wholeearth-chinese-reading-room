@@ -57,7 +57,8 @@ PRACT Ye key ah pa me Uo
 
 ## Context Notes
 
-- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
+- 本轮扫描清单：最后目录的 448 页、5 美元、1971 年 7 月下旬预告、两组邮购地址与 SB 署名；Reasonable Facsimile 长段、两漫画文字、杂志地址、三项订购选项和六个表格字段。
+- 对照原始高清扫描核对正文；人名与邮寄地址保留历史专名，不用总结代替原文。
 
 ## Glossary Updates
 
@@ -65,35 +66,43 @@ PRACT Ye key ah pa me Uo
 
 ## Final Translation
 
-《全球概览》的最后一期  
-共有 448 页，包含我们所知道的一切，价格为 5 美元，  
-预计于 1971 年 7 月下旬出版  
-订购方式：  
-全球概览  
-558 Santa Cruz Ave  
-Menlo Park, CA 94025  
-或  
-Random House, Inc  
-201 East 50th St  
-New York, NY 10022  
 
-合理的复制品  
-《Rolling Stone》称，这最后一期《Whole Earth Supplement》“也会寄给 Krassner 那本不定期刊物《The Realist》的订户，作为他们等待已久的周年纪念号”。才不是。这一本只是《The Realist》平常的一期。  
-下个月还会再来一本平常的一期，其中有“对 Ken Kesey 的一次无礼访谈”；接着是三期一组的“Reporter at Small”；然后，今年夏天，才轮到那本落后于自己时代的传奇第 13 周年纪念号。有人引述 Stewart Brand 的话：“这也会成为 Paul 终于搬到加利福尼亚的借口。”没错。我预计今后会在旧金山继续编辑《The Realist》，不过发行部门仍留在纽约。现在登记的订阅将从 Kesey 那一期开始，并包括周年纪念号。你也可以预订一本我的书。朋友们，在外面的门厅里，你们还会看到我陈列的果冻和蜜饯……  
+《最后的全球概览目录》（The Last Whole Earth Catalog）将用 448 页装下我们所知道的一切，售价 5 美元，将于 1971 年 7 月下旬出版。
 
-NOV SHMOZ KA POP?  
-探索未知！（QUEST INTO THE UNKNOWN!）  
+请向以下地址订购：
 
-《The Realist》，部门 WE  
-595 Broadway  
-New York, N.Y. 10012  
+《全球概览目录》（Whole Earth Catalog）<br>
+558 Santa Cruz Ave<br>
+Menlo Park, CA 94025
 
-$3 为《The Realist》一年（6 期）的订阅费  
-$5 为《The Realist》两年（12 期）的订阅费  
-$7：购买《How a Satirical Editor Became a Yippie Conspirator in Ten Easy Years》一册——Paul Krassner 在《The Realist》上发表作品的合集，包括臭名昭著的“Parts That Were Left Out of the Kennedy Book”，以及对 George Lincoln Rockwell、Dick Gregory、Dr. Robert Spencer、Joseph Heller、Norman Mailer、Mort Sahl、Terry Southern、Woody Allen 和 Timothy Leary 的无礼访谈。  
+或
 
-姓名：__________　公寓号：__________  
-地址：__________  
+兰登书屋公司（Random House, Inc）<br>
+201 East 50th St<br>
+New York, NY 10022
+
+——SB
+
+### 像模像样的复制品
+
+《滚石》（Rolling Stone）说，这最后一期《全球概览增刊》“也将寄给克拉斯纳那本不定期期刊《现实主义者》的订户，作为他们期待已久的周年纪念号”。才不是。这一期只是充当《现实主义者》（The Realist）又一期普通刊物。下个月还会有另一期“又一期普通刊物”，主打《对肯·凯西的一次无礼访谈》；接着是“小范围记者”（Reporter at Small）三部曲的三期刊物；然后，在今年夏天，才轮到那个落后于自己时代的、传说中的十三周年纪念号。有人引述斯图尔特·布兰德的话：“这也将成为保罗终于搬到加利福尼亚的借口。”没错。我预计今后会在旧金山继续编辑《现实主义者》，不过发行部门仍将留在纽约。现在登记的订阅将从凯西那一期开始，并包括周年纪念号。你也可以预订一本我的书。还有，朋友们，在外面的门厅里，你们会看到我陈列的果冻和蜜饯……
+
+NOV SHMOZ KA POP?
+
+《现实主义者》（The Realist），WE 部<br>
+595 Broadway<br>
+New York, N.Y. 10012
+
+探索未知！
+
+□ 3 美元，订阅《现实主义者》一年（6 期）。
+
+□ 5 美元，订阅《现实主义者》两年（12 期）。
+
+□ 7 美元，购买《一个讽刺杂志编辑如何在轻松十年间变成青年国际党阴谋家》（How a Satirical Editor Became a Yippie Conspirator in Ten Easy Years）一册——保罗·克拉斯纳（Paul Krassner）在《现实主义者》上发表作品的合集，包括臭名昭著的《肯尼迪那本书中被删去的部分》（Parts That Were Left Out of the Kennedy Book），以及对乔治·林肯·洛克韦尔（George Lincoln Rockwell）、迪克·格雷戈里（Dick Gregory）、罗伯特·斯宾塞医生（Dr. Robert Spencer）、约瑟夫·海勒（Joseph Heller）、诺曼·梅勒（Norman Mailer）、莫特·萨尔（Mort Sahl）、特里·萨瑟恩（Terry Southern）、伍迪·艾伦（Woody Allen）和蒂莫西·利里（Timothy Leary）的无礼访谈。
+
+姓名：__________　公寓号：__________<br>
+地址：__________<br>
 城市：__________　州：__________　邮编：__________
 
 ## Omitted Bibliographic/Order Info
@@ -102,8 +111,10 @@ $7：购买《How a Satirical Editor Became a Yippie Conspirator in Ten Easy Yea
 
 ## OCR / Uncertainty Notes
 
-- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
+- NOV SHMOZ KA POP 为漫画所显示的无意义语言，按原文保留，不伪造含义；Reporter at Small 保留英文辅助双关。
+- 官方 OCR 证据块原样保留；本轮纠错不回写原始证据。
 
 ## Self Critique
 
-- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。
+- 补回 SB，译出书名、肯尼迪文章标题与九位受访者；完整保留普通号／三部曲／十三周年的刊期顺序和果冻蜜饯笑话；不删 $3／$5／$7。
+- 本轮为同一执行者的逐页纠错复核，不是新增独立审校。

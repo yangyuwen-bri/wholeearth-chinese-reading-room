@@ -1,4 +1,4 @@
-# Leaf 131 Independent Review
+# Leaf 131 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
-- Permitted omissions: 无。
+- Source inventory: 封底的寄件机构、558 Santa Cruz Avenue、Menlo Park 94025、二类邮件／许可待批／地点三行，以及完整结语。
+- Translation coverage: 恢复目录刊名与句首 And 的承接；核实邮件状态不是已经许可。
+- Permitted omissions: 无正文省略。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 已对照本页高清扫描核对，不以旧 accepted 标签或 OCR 文件完整度代替源文审查。
+- 地球仪是蚯蚓照片内的物件，底图地名不是另设的地图说明；本轮保留原图，不把摄影背景扩写成现代地理说明。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
+- 本记录为同一执行者的纠错复核，不是新增独立审校；整本待核项以 status.jsonl 与 qa_report.md 的当前清单为准。

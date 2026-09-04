@@ -1,4 +1,4 @@
-# Leaf 087 Independent Review
+# Leaf 087 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
+- Source inventory: w2000 扫描；Monologue with Future Shock 标题、Johnson 引语、Jerome Agel 署名、引言与托弗勒独白全部两栏。
+- Translation coverage: 补标题与中文署名，恢复环保宣讲段的完整位置及转折；前往乡村公社而非离开城市公社；时间观念不添加空间；末句接 088。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 逐栏逐段核对原页扫描、可读图中文字及译文，保留原文重复，不以概述代替正文。
+- 补标题与中文署名，恢复环保宣讲段的完整位置及转折；前往乡村公社而非离开城市公社；时间观念不添加空间；末句接 088。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
+- 本记录为同一执行者的纠错复核，不是新增独立审校；整本重审尚未结束。

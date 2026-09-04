@@ -757,7 +757,8 @@ Venice, CA 90291
 
 ## Context Notes
 
-- 高密度名录页；姓名和邮寄地址按扫描原样保留，说明性文字译成中文。
+- 本轮扫描清单：六栏 238 条记录（42、38、38、41、39、40），从得克萨斯到加利福尼亚的邮寄地址及州标题。
+- 对照原始高清扫描核对正文；人名与邮寄地址保留历史专名，不用总结代替原文。
 
 ## Glossary Updates
 
@@ -765,748 +766,999 @@ Venice, CA 90291
 
 ## Final Translation
 
-### 《全球概览》自愿公开邮寄名单
+Carol Christian<br>
+4219 McKinney Avenue No, 2<br>
+Dallas, TX 75205
 
-以下姓名、机构、邮寄地址、州名缩写与邮编均按扫描文字原样保留，不改写专名或数字。
+Donald Pasquella<br>
+3454 Shenandoah<br>
+Dallas, TX 75205
 
-```text
-63 Olde ne Road
-~ Dallas, TX 75211
-rs Callan B.McNeelly
-- 6284 Richmond ~
+Edwin F. Brown<br>
+5732 Carute Haven Apt. 115<br>
+Dallas, TX 75206
+
+Robert Milsom<br>
+4263 Olde Forge Road<br>
+Dallas, TX 75211
+
+Callan B. McNeelly<br>
+6284 Richmond<br>
 Dallas, TX 75214
-es ‘Clark. Thurmond
-Box 5153
+
+Clark Thurmond<br>
+Box 5153<br>
 Waco, TX 76708
-— Lois Feuerle
-- 9334 San Fernando Way
-‘Dallas, TX 75218
-Susan Fekety
-_ 4151A Herschel
-- Dallas, TX 75219
-_ Norman Dealy
-6840 Bradbury Lane
-rie Dallas, TX 75230
-< Eugene Coleman
-3109 Douglas, No,104
-‘Dallas, TX 75235
-7814 Thistle, Apt. 1263
+
+Lois Feuerle<br>
+9334 San Fernando Way<br>
+Dallas, TX 75218
+
+Susan Fekety<br>
+4151A Herschel<br>
+Dallas, TX 75219
+
+Norman Dealy<br>
+6840 Bradbury Lane<br>
+Dallas, TX 75230
+
+Eugene Coleman<br>
+3109 Douglas, No,104<br>
+Dallas, TX 75235
+
+John P. Long<br>
+7814 Thistle, Apt. 1263<br>
 Dallas, TX 75240
-Jack Jones
-Box 5525
+
+Jack Jones<br>
+Box 5525<br>
 Austin, TX 76003
-Kent Harper
-307 West First Street
-Weatherford, .TX 76086
-Michael Durkin q
-54 Valley Ridge Road
+
+Kent Harper<br>
+307 West First Street<br>
+Weatherford, TX 76086
+
+Michael Durkin<br>
+54 Valley Ridge Road<br>
 Fort Worth, TX 76107
-T.W. Maddocks
-1913 Carleton
+
+T. W. Maddocks<br>
+1913 Carleton<br>
 Fort Worth, TX 76107
-‘Mary B. Moore
-. Box 8075 NT Station
+
+Mary B. Moore<br>
+Box 8075 NT Station<br>
 Denton, TX 76203
-Martin B. Tittle
-2410 Clarinda Avenue
+
+Martin B. Tittle<br>
+2410 Clarinda Avenue<br>
 Wichita Falls, TX 76308
-Bill B. Peters
-Box 291
+
+Bill B. Peters<br>
+Box 291<br>
 Belton, TX 76513
-SPS Stephen Hatfield
-— 44350 6491
-HHB 4/3 Arty, 1 AD
+
+SP5 Stephen Hatfield<br>
+443 50 6491<br>
+HHB 4/3 Arty, 1 AD<br>
 Fort Hood, TX 76545
-John R. Nobis
-1708 South 9th Street
+
+John R. Nobis<br>
+1708 South 9th Street<br>
 Waco, TX 76706
-Barry Hawkins
-4612 Sanger, Apt.216
+
+Barry Hawkins<br>
+4612 Sanger, Apt.216<br>
 Waco, TX 76710
-Charles R. Baker
-3130 West Beauregard, No.2
+
+Charles R. Baker<br>
+3130 West Beauregard, No.2<br>
 San Angelo, TX 76901
-Howard A, Cash
-2504 Louise No,7
+
+Howard A. Cash<br>
+2504 Louise No,7<br>
 Denton, TX 76201
-Sheldon Weisfeld
-4115 Elgin
+
+Sheldon Weisfeld<br>
+4115 Elgin<br>
 Houston, TX 77004
-David Cerruti
-Southcoast
-1902 Marshall
+
+David Cerruti<br>
+南岸（Southcoast）<br>
+1902 Marshall<br>
 Houston, TX 77006
-Charles Keith
-1510 Harold
+
+Charles Keith<br>
+1510 Harold<br>
 Houston, TX 77006
-Louis Swilley
-1417 Branard
+
+Louis Swilley<br>
+1417 Branard<br>
 Houston, TX 77006
-James T. Matthews
-828% Allston
+
+James T. Matthews<br>
+828½ Allston<br>
 Houston, TX 77007
-Katherine McKay
-5114 Browncroft, No.2
-Houston, TX 77021 r)
-Michael A. Willborn
-_ 5938 Schroeder No. 6
+
+Katherine McKay<br>
+5114 Browncroft, No.2<br>
 Houston, TX 77021
-Joann Kelsey
-— 4619% Walker
+
+Michael A. Willborn<br>
+5938 Schroeder No. 6<br>
+Houston, TX 77021
+
+Joann Kelsey<br>
+4619½ Walker<br>
 Houston, TX 77023
-Matt N. Young
-UTSPH
-_ Box 20186, Astrodome Station
-‘Houston, TX 77025
-Allen A. Ambrose —
-5140 Chevy Chase No. 2
+
+Matt N. Young<br>
+UTSPH<br>
+Box 20186, Astrodome Station<br>
+Houston, TX 77025
+
+Allen A. Ambrose<br>
+5140 Chevy Chase No. 2<br>
 Houston, TX 77027
-James Pendley
-5505 Fairdale
+
+James Pendley<br>
+5505 Fairdale<br>
 Houston, TX 77027
-~ David Curvin
-~ 9745 Tappenbeck Street
+
+David Curvin<br>
+9745 Tappenbeck Street<br>
 Houston, TX 77055
-: Ww. G. Robinson
-Apt. 60, 2041 San Sebastian
-~Houston, TX 77058
-John Farr
-405 Avenue C
+
+W.G. Robinson<br>
+Apt. 60, 2041 San Sebastian<br>
+Houston, TX 77058
+
+John Farr<br>
+405 Avenue C<br>
 Wharton, TX 77488
-Steve Mullins
-_ 226 East Oak ;
+
+Steve Mullins<br>
+226 East Oak<br>
 Deer Park, TX 77536
-Ernest E. Howerton
-301 Post Office Street
-_ Galveston, TX 77550
-~ Ray Childress _
-Box 306
-_ Seadrift, TX 77983
-im & Ellen Cronburg
-i Ni 398 Jackwon Street
-New Braun stele) TX 78130
-an antonio, TX 7820900
-\r, Charles Myler
-‘Edgehill Drive
+
+Ernest E. Howerton<br>
+301 Post Office Street<br>
+Galveston, TX 77550
+
+Ray Childress<br>
+Box 306<br>
+Seadrift, TX 77983
+
+Jim & Ellen Cronburg<br>
+1398 Jackwon Street<br>
+New Braunsfels, TX 78130
+
+Bruce Duderstadt<br>
+3606 Avenue B<br>
 San Antonio, TX 78209
-_ R.K. Asmussen
-221 West Lullwood
+
+W. P. Groos<br>
+530 Alta Avenue<br>
+San Antonio, TX 78209
+
+Dr. Charles Myler<br>
+1902 Edgehill Drive<br>
+San Antonio, TX 78209
+
+R. K. Asmussen<br>
+221 West Lullwood<br>
 San Antonio, TX 78212
-Physics Department
-Trinity University
-715 Stadium Drive
+
+物理系（Physics Department）<br>
+三一大学（Trinity University）<br>
+715 Stadium Drive<br>
 San Antonio, TX 78212
-Thomas Lottus
-2501 Westward Drive, No. 1207
+
+Thomas Loftus<br>
+2501 Westward Drive, No. 1207<br>
 San Antonio, TX 78227
-Sgt. Ted Van Every
-CMR No. 3, Box 364211
-Lackland, AFB, TX 78236—-
-Thomas Scott
-Bureau of Commercial Fisheries
-Box EE
+
+Sgt. Ted Van Every<br>
+CMR No. 3, Box 364211<br>
+Lackland, AFB, TX 78236
+
+Thomas Scott<br>
+商业渔业局（Bureau of Commercial Fisheries）<br>
+Box EE<br>
 Aransas Pass, TX 78336
-Edward W. Slavik, Jr.
-902 Miramar Place
+
+Edward W. Slavik, Jr.<br>
+902 Miramar Place<br>
 Corpus Christi, TX 78411
-John M. Whelan, Jr.
-704 West Avenue
+
+John M. Whelan, Jr.<br>
+704 West Avenue<br>
 Austin, TX 78701
-E.R. Stevens
-Box 6432
+
+E.R. Stevens<br>
+Box 6432<br>
 Austin, TX 78702
-Laurence Miller
-1207 Lorrain
+
+Laurence Miller<br>
+1207 Lorrain<br>
 Austin, TX 78703
-Ernest Perez
-1504 Elton Lane
+
+Ernest Perez<br>
+1504 Elton Lane<br>
 Austin, TX 78703
-Fred Proctor , Jr.
-806 Baylor Apt.2
+
+Fred Proctor , Jr.<br>
+806 Baylor Apt.2<br>
 Austin, TX 78703
-M. Runnels
-1516 West 31st
-Austin, TX 78703.
-Harold Smith, Jr.
-1707 West 29th
+
+M. Runnels<br>
+1516 West 31st<br>
 Austin, TX 78703
-Charles Jenkins
-202B West 32nd Street
+
+Harold Smith, Jr.<br>
+1707 West 29th<br>
+Austin, TX 78703
+
+Charles Jenkins<br>
+202B West 32nd Street<br>
 Austin, TX 78705
-Barry Oliver
-2307 Longview
+
+Barry Oliver<br>
+2307 Longview<br>
 Austin, TX 78705
-Richard Bombace
-Box 7661, C! T. Station
+
+Richard Bombace<br>
+Box 7661, C. T. Station<br>
 Austin, TX 78712
-Ted Barrow
-4509 Crestway Drive
+
+Ted Barrow<br>
+4509 Crestway Drive<br>
 Austin, TX 78731
-Mr. & Mrs. George T. Hasty
-1006 East 51st Street
+
+Mr. & Mrs. George T. Hasty<br>
+1006 East 51st Street<br>
 Astin, TX 78751
-K. E, Coulon
-8220 Research, 168C
+
+K. E. Coulon<br>
+8220 Research, 168C<br>
 Austin, TX 78758
-John H. Stewart
-333 Harmon Drive
-Reese AFB
+
+John H. Stewart<br>
+333 Harmon Drive<br>
+Reese AFB<br>
 Lubbock, TX 79415
-Lorin J. Rolls
-201 Ridglea
+
+Lorin J. Rolls<br>
+201 Ridglea<br>
 Midland, TX 79701
-Raymond Torp
-608 Highland Drive
+
+Raymond Torp<br>
+608 Highland Drive<br>
 Big Spring, TX 79720
-Carl Ponca \
-c/o McDonald Observatory
-Mount Locke
-Box 1337
+
+Carl Ponca<br>
+转交麦克唐纳天文台（McDonald Observatory）<br>
+Mount Locke<br>
+Box 1337<br>
 Fort Davis, TX 79734
-F. A. Williams
-2510 Wheeling
+
+F. A. Williams<br>
+2510 Wheeling<br>
 El Paso, TX 79930
-Colorado
-Douglas Wallace
-1210 Beeler Street
+
+### 科罗拉多州（Colorado）
+
+Douglas Wallace<br>
+1210 Beeler Street<br>
 Aurora, CO 80010
-Fred McNeill
-Senior Design Engineer
-McNeill Instruments
-Box 6305
+
+Fred McNeill<br>
+高级设计工程师<br>
+麦克尼尔仪器公司（McNeill Instruments）<br>
+Box 6305<br>
 Denver, Co 80206
-Paul S. Taylor
-1349 Fillmore Street
+
+Paul S. Taylor<br>
+1349 Fillmore Street<br>
 Denver, CO 80206
-Mel Averner
-Department of Biophysics
-4200 East 9th Street
+
+Mel Averner<br>
+生物物理学系（Department of Biophysics）<br>
+4200 East 9th Street<br>
 Denver, CO 80220
-Michael Hasbrouck
-1380 Hudson
+
+Michael Hasbrouck<br>
+1380 Hudson<br>
 Denver, CO 80220
-Chester F. McQueary
-c/o AFSC
-1460 Pennsylvania Street
+
+Chester F. McQueary<br>
+c/o AFSC<br>
+1460 Pennsylvania Street<br>
 Denver, CO 80203
-Mr, & Mrs. H. L. Happe
-1564 Monroe
+
+Mr. & Mrs. H. L. Happe<br>
+1564 Monroe<br>
 Denver, CO 80206
-Walter E. Black
-2257 South Franklin
+
+Walter E. Black<br>
+2257 South Franklin<br>
 Denver, CO 80210
-Holly Huntress
-1906% South Decatur Street
+
+Holly Huntress<br>
+1906½ South Decatur Street<br>
 Denver, CO 80219
-Ralph D. Hawkins
-2795 South Ingalls Way
+
+Ralph D. Hawkins<br>
+2795 South Ingalls Way<br>
 Denver, CO 80227
-_ Mr. & Mrs. Stanley S. Greenthal
-961 16th Street, Apt.1 |
+
+Mr. & Mrs. Stanley S. Greenthal<br>
+961 16th Street, Apt.1<br>
 Boulder, CO 80302
-Warren Kennison
-1014 Mapleton
+
+Warren Kennison<br>
+1014 Mapleton<br>
 Boulder, CO 80302
-Mr. i K. Laughlin
-Gold Hill
-Salina Star Route —
+
+Mr. J. K. Laughlin<br>
+Gold Hill<br>
+Salina Star Route<br>
 Boulder, CO 80302
-Mrs, Lu Knotts
-3242 4th
+
+Mrs. Lu Knotts<br>
+3242 4th<br>
 Boulder, CO 80302
-Mrs. A. A. Carson
-225 South 40th Street
+
+Mrs. A. A. Carson<br>
+225 South 40th Street<br>
 Boulder, CO 80303
-A. L. Schmeltekopf, Jr.
-970 Miami Way
+
+A. L. Schmeltekopf, Jr.<br>
+970 Miami Way<br>
 Boulder, CO 80303
-John L, Richardson
-Box 440B, RR 2
+
+John L. Richardson<br>
+Box 440B, RR 2<br>
 Evergreen, CO 80439
-Snugli
-Route One, Box 685
+
+Snugli<br>
+Route One, Box 685<br>
 Evergreen, CO 80439
-Steven H. Klein
-General Delivery
+
+Steven H. Klein<br>
+邮局留交（General Delivery）<br>
 Steamboat Springs, CO 80477
-Peter Lenz
-7509 NE County Line Road
+
+Peter Lenz<br>
+7509 NE County Line Road<br>
 Longmont, CO 80501
-M. Runnels
-11638 Kenosha Road
+
+M. Runnels<br>
+11638 Kenosha Road<br>
 Longmont, CO 80501
-J. C. Mattingly
-Route Three, Box 651
+
+J. C. Mattingly<br>
+Route Three, Box 651<br>
 Fort Collins, CO 80521
-Bob McMillan
-2208 Juniper Lane
+
+Bob McMillan<br>
+2208 Juniper Lane<br>
 Loveland, CO 80537
-Thomas D. Lesser
-829 17th STreet
+
+Thomas D. Lesser<br>
+829 17th STreet<br>
 Greeley, CO 80631
-William W. Dennett
-528 West Bijou Street
+
+William W. Dennett<br>
+528 West Bijou Street<br>
 Colorado Springs, CO 80905
-Robert S. Oleson
-5thM1D
+
+Robert S. Oleson<br>
+5th MID<br>
 Fort Carson, CO 80913
-Joe Blackburn
-516 West 9th Street
+
+Joe Blackburn<br>
+516 West 9th Street<br>
 Pueblo, CO 81003
-J. L. Wilson
-404 Newman Avenue
+
+J. L. Wilson<br>
+404 Newman Avenue<br>
 Pueblo, CO 81005
-Multi Fassett
-c/o Earth House
+
+Multi Fassett<br>
+转交地球屋（Earth House）<br>
 RFD Cedarege, CO 81413
-Donald Hilmuth
-Box 97
+
+Donald Hilmuth<br>
+Box 97<br>
 Aspen, CO 81611
-Eric Wolff
-Gerbaz
-Base No, 76
+
+Eric Wolff<br>
+Gerbaz<br>
+Base No, 76<br>
 Aspen, CO 81611
-Sandy Thomson
-T. O. Ranch Co.
+
+Sandy Thomson<br>
+T. O. 牧场公司（T. O. Ranch Co.）<br>
 Carbondale, CO 81623
-Wyoming
-Mike Milam
-1718 Newton
+
+### 怀俄明州（Wyoming）
+
+Mike Milam<br>
+1718 Newton<br>
 Cheyenne, WY 82001
-University Common Ministry
-1215 Grand Avenue
+
+大学联合教牧事工（University Common Ministry）<br>
+1215 Grand Avenue<br>
 Laramie, WY 82070
-Tom Wright
-Morrisey Route
+
+Tom Wright<br>
+Morrisey Route<br>
 Newcastle, WY 82701
-Donald Mason
-General Delivery
+
+Donald Mason<br>
+邮局留交（General Delivery）<br>
 Moran, WY 83013
-Idaho
-R. G. Davis
-Route Three, South, Box 206A
-Pocatello, 1D 83201
-Guy Muto
-1235 East Clark
-Pocatello, 1D 83201
-Jonathan Marvel
-Stanley, 1D 83278
-Bill J. Nichioka
-Route 5, Box 580 3
-Caldwell, 10 83605
-Utah
-John D. Varley
-Box 246
+
+### 爱达荷州（Idaho）
+
+R.G. Davis<br>
+Route Three, South, Box 206A<br>
+Pocatello, ID 83201
+
+Guy Muto<br>
+1235 East Clark<br>
+Pocatello, ID 83201
+
+Jonathan Marvel<br>
+Stanley, ID 83278
+
+Bill J. Nichioka<br>
+Route 5, Box 580<br>
+Caldwell, ID 83605
+
+### 犹他州（Utah）
+
+John D. Varley<br>
+Box 246<br>
 Dutch John, UT 84023
-Toby Levitt
-Alta Lodge
+
+Toby Levitt<br>
+阿尔塔旅舍（Alta Lodge）<br>
 Alta, UT 84070
-Lauren B. Vanderhoof
-1257 East 2nd S St. Apt. 5
-Sait Lake City, UT 84102
-Peggy Darger
-721 | Street
+
+Lauren B. Vanderhoof<br>
+1257 East 2nd S St. Apt. 5<br>
+Salt Lake City, UT 84102
+
+Peggy Darger<br>
+721 I Street<br>
 Salt Lake City, UT 84103
-Phil Faust
-328 Almond Street
+
+Phil Faust<br>
+328 Almond Street<br>
 Salt Lake City, UT 84103
-Fied Ler
-Box 8381
+
+Fied Ler<br>
+Box 8381<br>
 Salt Lake City, UT 84108
-John Havey
-4463 Wander Lane
+
+John Havey<br>
+4463 Wander Lane<br>
 Salt Lake City, UT 84117
-Kenton & Ceres Hyatt
-Box 201
+
+Kenton & Ceres Hyatt<br>
+Box 201<br>
 Cedar City, UT 84720
-Arizona
--
-Jack C. Witt
-Box 2811
+
+### 亚利桑那州（Arizona）
+
+Jack C. Witt<br>
+Box 2811<br>
 Phoenix, AZ 85002
-~ Desmond H. Byrne
-2211 East Portland Street
+
+Desmond H. Byrne<br>
+2211 East Portland Street<br>
 Phoenix, AZ 85006
-Alfred Schutt —
-5102 North 16th Brive!
-- Phoenix, AZ 85015
-Henry Schockley
-Box 21421 |
+
+Alfred Schutt<br>
+5102 North 16th Drive<br>
+Phoenix, AZ 85015
+
+Henry Schockley<br>
+Box 21421<br>
 Phoenix, AZ 85026
-Dyna Dome
-22226 North 23rd Avenue —
+
+Dyna Dome<br>
+22226 North 23rd Avenue<br>
 Phoenix, AZ 85027
-Clyde L. Nickle
-2033 West Pecan Road
+
+Clyde L. Nickle<br>
+2033 West Pecan Road<br>
 Phoenix, AZ 85041
-Bruce A. Roth
-901 West Verde Lane
+
+Bruce A. Roth<br>
+901 West Verde Lane<br>
 Phoenix, AZ 85103
-Oick Dover
-8530 East Mariposa
+
+Dick Dover<br>
+8530 East Mariposa<br>
 Scottsdale, AZ 85251
-James L. Alexander
-1206 East Lemon No. 6
+
+James L. Alexander<br>
+1206 East Lemon No. 6<br>
 Tempe, AZ 85281
-Melville Grant Boyd
-3730 South Mill Ave Apt, M-105
+
+Melville Grant Boyd<br>
+3730 South Mill Ave Apt, M-105<br>
 Tempe, AZ 85281
-Mark Brand
-1633 Camellia
+
+Mark Brand<br>
+1633 Camellia<br>
 Tempe, AZ 85281
-Tom Lauerman
-Box 3181
+
+Tom Lauverman<br>
+Box 3181<br>
 Tempe, AZ 85281
-Daniel A. Schroeder
-5540 North 62nd Avenue
+
+Daniel A. Schroeder<br>
+5540 North 62nd Avenue<br>
 Glendale, AZ 85301
-Dale S. Schutte
-Route Three, Box 364F
+
+Dale S. Schutte<br>
+Route Three, Box 364F<br>
 Yuma, AZ 85364
-Helen Lyles
-Box 1315
+
+Helen Lyles<br>
+Box 1315<br>
 Green Valley, AZ 85614
-Raymond M. Turner
-205 East Rudasill Road
+
+Raymond M. Turner<br>
+205 East Rudasill Road<br>
 Tuczon, AZ 85704
-James E. Prechette
-3221 North Tuttle Avenue
+
+James E. Prechette<br>
+3221 North Tuttle Avenue<br>
 Tucson, AZ 85705
-F. G. Borcherdt
-Box 271, Route Two
+
+F. G. Borcherdt<br>
+Box 271, Route Two<br>
 Tucson, AZ 85715
-Jared R. Curtis
-Department of English
-University of Arizona
+
+Jared R. Curtis<br>
+英语系（Department of English）<br>
+亚利桑那大学（University of Arizona）<br>
 Tucson, AZ 85721
-T. C. Brooks
-216 North Humphreys
+
+T. C. Brooks<br>
+216 North Humphreys<br>
 Flagstaff, AZ 86001
-Steven C. Moore
-2 East Juniper
+
+Steven C. Moore<br>
+2 East Juniper<br>
 Flagstaff, AZ 86001
-New Mexico
-Steve Baer
-Box 422
+
+### 新墨西哥州（New Mexico）
+
+Steve Baer<br>
+Box 422<br>
 Corrales, NM 87048
-Cowan & Harriet Collins
-601 Eleventh NW
+
+Cowan & Harriet Collins<br>
+601 Eleventh NW<br>
 Albuquerque, NM 87102
-Melvin E. Kanner
-429 Shirk Lane SW
-Albuquerque,e NM 87102
-Zomeworks Corporation
-Box 712
+
+Melvin E. Kanner<br>
+429 Shirk Lane SW<br>
+Albuquerque, NM 87102
+
+Zomeworks 公司（Zomeworks Corporation）<br>
+Box 712<br>
 Albuquerque, NM 87103
-Vic Hawley
-1621 Cornell
+
+Vic Hawley<br>
+1621 Cornell<br>
 Albuquerque, NM 87106
-Elliott Rapaport
-117 Dartmouth, SE
+
+Elliott Rapaport<br>
+117 Dartmouth, SE<br>
 Albuquerque, NM 87106
-W. E. C. Shunny
-2517 Cutler NE
+
+W.E.C. Shunny<br>
+2517 Cutler NE<br>
 Albuquerque, NM 87106
-James B. Watkins
-1037 Columbia Drive, NE
+
+James B. Watkins<br>
+1037 Columbia Drive, NE<br>
 Albuquerque, NM 87106
-Lawrence C. Wells
-208 Dartmouth SE
+
+Lawrence C. Wells<br>
+208 Dartmouth SE<br>
 Albuquerque, NM 87106
-Don B. Lichty
-514 Lindgren NW
+
+Don B. Lichty<br>
+514 Lindgren NW<br>
 Albuquerque, NM 87107
-Alex Mead
-819 Chavez Road, NW
+
+Alex Mead<br>
+819 Chavez Road, NW<br>
 Albuquerque, NM 87107
-Robert Goodkind
-1600 Carlisle NE No. 7
+
+Robert Goodkind<br>
+1600 Carlisle NE No. 7<br>
 Albuquerque, NM 87110
-Gerrie Glover
-4012 Inca, NE
+
+Gerrie Glover<br>
+4012 Inca, NE<br>
 Albuquerque, NM 87111
-Martha D. Brown
-9309 Indian School Road NE
-Apartment 2
+
+Martha D. Brown<br>
+9309 Indian School Road NE<br>
+Apartment 2<br>
 Albuquerque, NM 87112
-Jack Ellis
-806 East Green Avenue
+
+Jack Ellis<br>
+806 East Green Avenue<br>
 Gallup, NM 87301
-Bengt Carlson
-Route Four, Box 31
+
+Bengt Carlson<br>
+Route Four, Box 31<br>
 Santa Fe, NM 87501
-Carl M. Flock
-1004 Calle Vianson
+
+Carl M. Flock<br>
+1004 Calle Vianson<br>
 Santa Fe, NM 87501
-Phil Hawes
-425A Camino Manzano
+
+Phil Hawes<br>
+425A Camino Manzano<br>
 Santa Fe, NM 87501
-John Muir Publications
-Box 613
+
+约翰·缪尔出版社（John Muir Publications）<br>
+Box 613<br>
 Santa Fe, NM 87501
-John C. March
-Box 541
+
+John C. March<br>
+Box 541<br>
 Santa Fe, NM 87501
-Tom Duckworth
-Nucoa Ranch
-Box 74
-Embudo, NM. 87531
-William M. Taylor
-712 Iris, Apt. 4
+
+Tom Duckworth<br>
+Nucoa 牧场（Nucoa Ranch）<br>
+Box 74<br>
+Embudo, NM 87531
+
+William M. Taylor<br>
+712 Iris, Apt. 4<br>
 Los Alamos, NM 87544
-A2ts..
-\ oe
-Myron L. Stein
-3711 Gold Street Apt. 3
-~Los Alamos, NM 87544
-Richard & Shirley Flint
-General Delivery
-Pecos, NM 87552 ,
-William Davis
-Gei .ral Delivery
+
+Myron L. Stein<br>
+3711 Gold Street Apt. 3<br>
+Los Alamos, NM 87544
+
+Richard & Shirley Flint<br>
+邮局留交（General Delivery）<br>
+Pecos, NM 87552
+
+William Davis<br>
+邮局留交（General Delivery）<br>
 Taos, NM 87571
-Peter R. Duval
-General Delivery
+
+Peter R. Duval<br>
+邮局留交（General Delivery）<br>
 Taos, NM 87571
-Roland Silver
-General Delivery
+
+Roland Silver<br>
+邮局留交（General Delivery）<br>
 Taos, NM 87571
-Chris West
-Pilar Hill RED
+
+Chris West<br>
+Pilar Hill RFD<br>
 Taos, NM 87571
-Harold Cutcher
-Box 4595
+
+Harold Cutcher<br>
+Box 4595<br>
 University Park, NM 88001
-Robert J. Wall
-Box 225
+
+Robert J. Wall<br>
+Box 225<br>
 Las Cruces, NM 88001
-John Wahl
-1412 Mississippi Street
+
+John Wahl<br>
+1412 Mississippi Street<br>
 Silver City, NM 88061
-Dr. Simeon Schwartz
-1723B Juggler Lp.
+
+Dr. Simeon Schwartz<br>
+1723B Juggler Lp.<br>
 Cannon AFB, NM 88101
-Nevada
-Peter Wakeman
-Deep Spring College
-Deep Springs, California
-Via Oyer, NV 89010
-Dean Breeze
-Box 110
+
+### 内华达州（Nevada）
+
+Peter Wakeman<br>
+深泉学院（Deep Spring College）<br>
+Deep Springs, California<br>
+Via Dyer, NV 89010
+
+Dean Breeze<br>
+Box 110<br>
 Las Vegas, NV 89101
-Lyle F. Campbell
-Box 7377
+
+Lyle F. Campbell<br>
+Box 7377<br>
 Reno, NV 89502
-William A, Powers
-1250 Stagecoach Road
+
+William A. Powers<br>
+1250 Stagecoach Road<br>
 Reno, NV 89502
-Fred Rogers
-4845 South Virginia
+
+Fred Rogers<br>
+4845 South Virginia<br>
 Reno, NV 89502
-B. A. Lawrence
-1133 Buena Vista, No. 3
+
+B. A. Lawrence<br>
+1133 Buena Vista, No. 3<br>
 Reno, NV 89503
-Anthony Mindzing
-1521 Hillside Drive
+
+Anthony Mindzing<br>
+1521 Hillside Drive<br>
 Reno, NV 89503
-California
-Dennis Kier
-3750 West 2nd Apt. 8
-‘Los Angeles, CA 90004
-Haruyasu Yawata
-2176 West Venice Blvd. Apt. 9
+
+### 加利福尼亚州（California）
+
+Dennis Kier<br>
+3750 West 2nd Apt. 8<br>
+Los Angeles, CA 90004
+
+Haruyasu Yawata<br>
+2176 West Venice Blvd. Apt. 9<br>
 Los Angeles, CA 90006
-John Geoffrey Ungle
-1241 West 30th Street
+
+John Geoffrey Ungle<br>
+1241 West 30th Street<br>
 Los Angeles, CA 90007
-Lisa Dawn
-Libertarian Connection
-Box 90913
-Worldway Postal Center
+
+Lisa Dawn<br>
+自由意志主义者联络（Libertarian Connection）<br>
+Box 90913<br>
+Worldway 邮政中心（Worldway Postal Center）<br>
 Los Angeles, CA 90009
-Jim Grant
-111 East Jefferson Blvd.
+
+Jim Grant<br>
+111 East Jefferson Blvd.<br>
 Los Angeles, CA 90011
-Sam Kallish
-819 Santee Street
+
+Sam Kallish<br>
+819 Santee Street<br>
 Los Angeles, CA 90014
-Stephen Kunishima
-3699 South Victoria Avenue
+
+Stephen Kunishima<br>
+3699 South Victoria Avenue<br>
 Los Angeles, CA 90016
-Carolyn Libby
-4939 Linscott Place, No. 2
+
+Carolyn Libby<br>
+4939 Linscott Place, No. 2<br>
 Los Angeles, CA 90016
-Walter Houk
-Sunset Magazine
-1541 Wilshire Blvd
+
+Walter Houk<br>
+《日落》杂志（Sunset Magazine）<br>
+1541 Wilshire Blvd<br>
 Los Angeles, CA 90017
-James Parkerson
-Box 17463
+
+James Parkerson<br>
+Box 17463<br>
 Los Angeles, CA 90017
-Bret Blosser
-2505 Cimarron Street
+
+Bret Blosser<br>
+2505 Cimarron Street<br>
 Los Angeles, CA 90018
-Cal Cottam, DC
-1017 Arlington Avenue
+
+Cal Cottam, DC<br>
+1017 Arlington Avenue<br>
 Los Angeles, CA 90019
-Laura Meltzer
-1449 Elevado Street
+
+Laura Meltzer<br>
+1449 Elevado Street<br>
 Los Angeles, CA 90020
-Donald Allen Berk
-Box 280 380 Westwood Plaza
+
+Donald Allen Berk<br>
+Box 280 380 Westwood Plaza<br>
 Los Angeles, CA 90024
-Charels Ehler, Asst\Professor
-School of Architecture
-University of California
+
+Charels Ehler，助理教授<br>
+建筑学院（School of Architecture）<br>
+加利福尼亚大学（University of California）<br>
 Los Angeles, CA 90024
-Timothy Tunks
-1710 Thayer, No.6
+
+Timothy Tunks<br>
+1710 Thayer, No. 6<br>
 Los Angeles, CA 90024
-J. McSherry
-1255 South Granville No. 3
+
+J. McSherry<br>
+1255 South Granville No. 3<br>
 West Los Angeles, CA 90025
-Don Hall
-1317 Silverlake Blvd.
+
+Don Hall<br>
+1317 Silverlake Blvd.<br>
 Los Angeles, CA 90026
-Robert McNellis
-824 East Kensington Road
+
+Robert McNellis<br>
+824 East Kensington Road<br>
 Los Angeles, CA 90026
-Karen Morin
-1540 Curran
+
+Karen Morin<br>
+1540 Curran<br>
 Los Angeles, CA 90026
-Leonard Petter
-1422 Maltman Avenue
+
+Leonard Petter<br>
+1422 Maltman Avenue<br>
 Los Angeles, CA 90026
-John Thomas
-1521 Cerro Gordo
+
+John Thomas<br>
+1521 Cerro Gordo<br>
 Los Angeles, CA 90026
-Seymour Rosen
-c/o Junior Arts Center
-4800 Hollywood Blvd.
+
+Seymour Rosen<br>
+转交少年艺术中心（Junior Arts Center）<br>
+4800 Hollywood Blvd.<br>
 Los Angeles, CA 90027
-Gary Greenberg
-2606 Glen Green
+
+Gary Greenberg<br>
+2606 Glen Green<br>
 Hollywood, CA 90028
-Michael A. Mancuso
-7196 Woodrow Wilson Drive
+
+Michael A. Mancuso<br>
+7196 Woodrow Wilson Drive<br>
 Hollywood, CA 90028
-Marie Stein
-2635 Carmen Crest Drive
+
+Marie Stein<br>
+2635 Carmen Crest Drive<br>
 Los Angeles, CA 90028
-Vernon Zimmerman
-2068 Paramount Drive
+
+Vernon Zimmerman<br>
+2068 Paramount Drive<br>
 Hollywood, CA 90028
-Anne Lupton
-4224 Melrose Avenue No. 4
+
+Anne Lupton<br>
+4224 Melrose Avenue No. 4<br>
 Los Angeles, CA 90029
-Uncle Tom Photo Department
-Los Angeles Free Press
-7813 Beverly Blvd.
+
+汤姆叔叔摄影部（Uncle Tom Photo Department）<br>
+《洛杉矶自由报》（Los Angeles Free Press）<br>
+7813 Beverly Blvd.<br>
 Los Angeles, CA 90036
-Louis Danziger
-7001 Melrose Avenue
+
+Louis Danziger<br>
+7001 Melrose Avenue<br>
 Los Angeles, CA 90038
-Anthony Fisher
-1931 Whitmore Avenue
+
+Anthony Fisher<br>
+1931 Whitmore Avenue<br>
 Los Angeles, CA 90039
-Mary Morris
-2275 Hidalgo Avenue
+
+Mary Morris<br>
+2275 Hidalgo Avenue<br>
 Los Angeles, CA 90039
-Tom Aitken
-4322% York Blvd.
+
+Tom Aitken<br>
+4322½ York Blvd.<br>
 Los Angeles, CA 90041
-Carwford T. Perks
-729 Wheeling Way
+
+Carwford T. Perks<br>
+729 Wheeling Way<br>
 Los Angeles, CA 90042
-Jock de Swart
-Nucleus for the Exploration
-of Man’s Future
-5833 Eucalyptus Lane
+
+Jock de Swart<br>
+人类未来探索核心小组（Nucleus for the Exploration of Man’s Future）<br>
+5833 Eucalyptus Lane<br>
 Los Angeles, CA 90042
-Branson Bennett
-5617 Harcourt Avenue
+
+Branson Bennett<br>
+5617 Harcourt Avenue<br>
 Los Angeles, CA 90043
-Chuck Yancey
-6506 West 87th Place
+
+Chuck Yancey<br>
+6506 West 87th Place<br>
 Los Angeles, CA 90045
-A.M, Riach
-1353 North Fuller Avenue
+
+A. M. Riach<br>
+1353 North Fuller Avenue<br>
 West Hollywood, CA 90046
-Tony Newman
-c/o Carson/Roberts
-Box 48458
+
+Tony Newman<br>
+c/o Carson/Roberts<br>
+Box 48458<br>
 Los Angeles, CA 90048
-Christopher Malone
-11651% Montana Avenue
+
+Christopher Malone<br>
+11651¾ Montana Avenue<br>
 Los Angeles, CA 90049
-William Woodfield
-1367 Casiano Road
+
+William Woodfield<br>
+1367 Casiano Road<br>
 Los Angeles, CA 90049
-Frank Polk
-Box 2702 Terminal Annex
+
+Frank Polk<br>
+Box 2702 Terminal Annex<br>
 Los Angeles, CA 90054
-Christopher Beatty
-Tie Line Newsletter
-500 State Drive
+
+Christopher Beatty<br>
+《联络线》通讯（Tie Line Newsletter）<br>
+500 State Drive<br>
 Los Angeles, CA 90037
-Ena Dubnoff
-2300 Westwood Blvd.
+
+Ena Dubnoff<br>
+2300 Westwood Blvd.<br>
 Los Angeles, CA 90064
-George K. Tucker
-11219% Richland
+
+George K. Tucker<br>
+11219¾ Richland<br>
 Los Angeles, CA 90064
-Robert Charleston
-714 Cross Avenue
+
+Robert Charleston<br>
+714 Cross Avenue<br>
 Los Angeles, CA 90065
-James H. Johnson
-3976 Inglewood Blvd.
+
+James H. Johnson<br>
+3976 Inglewood Blvd.<br>
 Los Angeles, CA 90066
-Michael Woolf
-3980 East Boulevard
+
+Michael Woolf<br>
+3980 East Boulevard<br>
 Los Angeles, CA 90066
-Robert Lewine
-1120 North Kings Road
+
+Robert Lewine<br>
+1120 North Kings Road<br>
 Los Angeles, CA 90069
-Kenneth Shelton
-6241 Palm Avenue
+
+Kenneth Shelton<br>
+6241 Palm Avenue<br>
 Bell, CA 90201
-David Baxter
-9921 West Wanda Drive
+
+David Baxter<br>
+9921 West Wanda Drive<br>
 Beverly Hills, CA 90210
-M. Alfred Haynes
-800 South Poinsettia
+
+M. Alfred Haynes<br>
+800 South Poinsettia<br>
 Compton, CA 90221
-Joe & Gayni Keefe
-11854 Beatrice Street
+
+Joe & Gaynl Keefe<br>
+11854 Beatrice Street<br>
 Culver City, CA 90230
-Bob J. Portale
-7615 Fontana Street
+
+Bob J. Portale<br>
+7615 Fontana Street<br>
 Downey, CA 90241
-Herb Schneider
-106 Hill Street
+
+Herb Schneider<br>
+106 Hill Street<br>
 Hermosa Beach, CA 90254
-Sam & Ellen Farry
-217 20th Place
+
+Sam & Ellen Farry<br>
+217 20th Place<br>
 Manhattan Beach, CA 90266
-Robert F. Guest
-617 Valley Drive
+
+Robert F. Guest<br>
+617 Valley Drive<br>
 Manhattan Beach, CA 90266
-Ben Masselink
-633 Padcliffe Avenue
+
+Ben Masselink<br>
+633 Padcliffe Avenue<br>
 Pacific Palisades, CA 90272
-Larry D. Fitzgerald
-10001 West Frontage Road (230)
+
+Larry D. Fitzgerald<br>
+10001 West Frontage Road (230)<br>
 South Gate, CA 90280
-Richard Dehr
-Box 721
+
+Richard Dehr<br>
+Box 721<br>
 Topanga, CA 90290
-Or. & Mrs. David Hitchcock
-Box 357
+
+Dr. & Mrs. David Hitchcock<br>
+Box 357<br>
 Topanga, CA 90290
-Mr. & Mrs. David S. Miller
-1009 Vernon Avenue
+
+Mr. & Mrs. David S. Miller<br>
+1009 Vernon Avenue<br>
 Venice, CA 90291
-```
 
 ## Omitted Bibliographic/Order Info
 
@@ -1514,8 +1766,10 @@ Venice, CA 90291
 
 ## OCR / Uncertainty Notes
 
-- 邮寄名单保留历史扫描 OCR 拼写；不擅自纠改人名或地址。
+- 保留原刊 Carute、Jackwon、New Braunsfels、Astin、Cedarege、Tuczon、Carwford、Padcliffe、Charels 和 Fied Ler 拼写；不以现代地址代改历史资料。
+- 官方 OCR 证据块原样保留；本轮纠错不回写原始证据。
 
 ## Self Critique
 
-- 已保留所有可恢复姓名、地址、机构和数字；待独立复核。
+- 补回 Tom Lauverman 等姓名，核实 828½、4619½、1906½、4322½、11651¾、11219¾ 门牌；翻译机构、助理教授和邮局留交等说明。
+- 本轮为同一执行者的逐页纠错复核，不是新增独立审校。

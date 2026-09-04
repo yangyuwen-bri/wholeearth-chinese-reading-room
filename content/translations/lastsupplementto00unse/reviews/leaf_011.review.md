@@ -21,5 +21,7 @@ needs_highres_scan
 
 ## Residual Risks
 
+- 2026-09-04 补查《Walt Disney Comics and Stories》561 期（1991）重印的同一漫画格，来源：https://random-happenstance.blogspot.com/2026/07/its-coin-toss-whether-or-not-you-like.html 。两行小路牌和箭头与原刊一致，但仍无法建立可靠字母转写；不能因为它们像装饰性假字就擅自豁免。本页继续待核。
+
 - 本次检查与修订由同一执行者完成，不是新增独立复核；本页记录不能外推成整本重新验收。
 - 更清晰的源图或同版图像互证仍待获得；不按上下文猜补。

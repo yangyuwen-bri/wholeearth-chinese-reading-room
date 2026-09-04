@@ -1,4 +1,4 @@
-# Leaf 115 Independent Review
+# Leaf 115 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐条保留并抽查密集订户名录中的姓名、机构、街道、城市、州与邮编；未压缩、未概述。
+- Source inventory: THE MAILING LIST 标题、SB 全部编辑说明（含1969年引文、18个月与2000人/七分之一）；六栏 203 条记录（38、40、23、24、38、40）。
+- Translation coverage: 补原刊完整说明，名单按邮编边界重建，修复跨栏串行、Lineaweaver/Cairns 末字和大学/医学单位名称；波多黎各、维尔京群岛及四州标题译出。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 逐栏对照扫描重录名录，说明性文字译成中文；人名和历史邮递专名保留原拼写，不以总结替代。
+- 保留原刊 William College、Natucket、Brooklin 及不一致的邮编；名单为原刊自愿公开的历史记录，未补充现时个人资料。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 名录原刊存在个别老式缩写与破损字形；阅读正文中无未决占位符。
+- 本记录为同一执行者的纠错复核，不是新增独立审校；整本重审尚未结束。

@@ -762,7 +762,7 @@ Ve
 
 ## Context Notes
 
-- 高密度名录页；姓名和邮寄地址按扫描原样保留，说明性文字译成中文。
+- 本轮扫描清单：THE MAILING LIST 标题与纽约州六栏 240 条记录（41、39、40、40、39、41）。
 
 ## Glossary Updates
 
@@ -770,753 +770,993 @@ Ve
 
 ## Final Translation
 
-### 《全球概览》自愿公开邮寄名单
+## 邮寄名单
 
-以下姓名、机构、邮寄地址、州名缩写与邮编均按扫描文字原样保留，不改写专名或数字。
+C. R. Porter, Jr.<br>
+11 Riversdie Drive, Apt. 17 TW<br>
+New York, NY 10023
 
-```text
-- ee
-GR. Porter, See
-11 Riversdie Drive, Apt. 17 TW
-_ New York, NY 10023
-~Chuck Rapoport
-175 West 72nd Street
+Chuck Rapoport<br>
+175 West 72nd Street<br>
 New York, NY 10023
-Sigmund Heuberg
-255 West End Avenue
+
+Sigmund Heuberg<br>
+255 West End Avenue<br>
 New York, NY 10023
-Peter Behr
-929 Amsterdam Avenue, Apt. 35
+
+Peter Behr<br>
+929 Amsterdam Avenue, Apt. 35<br>
 New York, NY 10023
-William C. Elisburg
-160 West End Avenue
+
+William C. Elisburg<br>
+160 West End Avenue<br>
 New York, NY 10023
-Mr. & Mrs. Warren Rubin
-135 Central Park West, Apt. 7NC
+
+Mr. & Mrs. Warren Rubin<br>
+135 Central Park West, Apt. 7NC<br>
 New York, NY 10023
-Karin Bacon
-349 West End Avenue
+
+Karin Bacon<br>
+349 West End Avenue<br>
 New York, NY 10024
-Peter C. Frank
-150 West 82nd Street, Apt. 8B
+
+Peter C. Frank<br>
+150 West 82nd Street, Apt. 8B<br>
 New York, NY 10024
-John Brockman Associates
-241 Central Park West
+
+John Brockman Associates<br>
+241 Central Park West<br>
 New York, NY 10024
-Robert G, Kilzer
-15 West 81st Street
+
+Robert G. Kilzer<br>
+15 West 81st Street<br>
 New York, NY 10024
-Leonard A. Krosney
-47 West 86th Street
+
+Leonard A. Krosney<br>
+47 West 86th Street<br>
 New York, NY 10024
-Harold Ickes ‘
-150 West 79th Street, 12B
+
+Harold Ickes<br>
+150 West 79th Street, 12B<br>
 New York, NY 10024
-John H. Stewart
-440 West End Avenue
+
+John H. Stewart<br>
+440 West End Avenue<br>
 New York, NY 10024
-C. Pearson
-132 West 83rd Street
+
+C. Pearson<br>
+132 West 83rd Street<br>
 New York, NY 10024
-Summer Morning Films, Inc.
-78 Riverside Drive
+
+Summer Morning Films, Inc.<br>
+78 Riverside Drive<br>
 New York, NY 10024
-Jon P. Batkay
-601 West 113th Street, 2F
+
+Jon P. Batkay<br>
+601 West 113th Street, 2F<br>
 New York, NY 10025
-Jill Gelbspan
-316 West 98th Street, No.2
+
+Jill Gelbspan<br>
+316 West 98th Street, No.2<br>
 New York, NY 10025
-Edward N, Robinson
-546 West 114th Street
+
+Edward N. Robinson<br>
+546 West 114th Street<br>
 New York, NY 10025
-Mr. & Mrs. Walter N. Sloan
-382 Central Park West, 2K
+
+Mr. & Mrs. Walter N. Sloan<br>
+382 Central Park West, 2K<br>
 New York, NY 10025
-Mr. & Mrs, Henry L. Forbes
-910 West End Avenue, 15C
+
+Mr. & Mrs. Henry L. Forbes<br>
+910 West End Avenue, 15C<br>
 New York, NY 10025
-Arthur Albert
-650 West End Avenue (GC)
+
+Arthur Albert<br>
+650 West End Avenue (GC)<br>
 New York, NY 10025
-Mr. & Mrs, Bill Robertson
-650 West End Avenue
+
+Mr. & Mrs. Bill Robertson<br>
+650 West End Avenue<br>
 New York, NY 10025
-Dr. Anthony F. Philip
-Columbia College Counseling
-Service
-610 West 114th Street
+
+Dr. Anthony F. Philip<br>
+哥伦比亚学院咨询服务处（Columbia College Counseling Service）<br>
+610 West 114th Street<br>
 New York, NY 10025
-Tyler Smith
-7 West 107th Street, 7-5C
+
+Tyler Smith<br>
+7 West 107th Street, 7-5C<br>
 New York, NY 10025
-The Quays
-313 West 105th Street, No. 42
+
+The Quays<br>
+313 West 105th Street, No. 42<br>
 New York, NY 10025
-Mr, & Mrs. G. Zeidenstein
-350 Central Park West
+
+Mr. & Mrs. G. Zeidenstein<br>
+350 Central Park West<br>
 New York, NY 10025
-Mary Woodward
-90 Morningside Drive, 4-E
+
+Mary Woodward<br>
+90 Morningside Drive, 4-E<br>
 New York, NY 10027
-Robert B. Blackburn
-419 West 119th Street, Apt. 1A
+
+Robert B. Blackburn<br>
+419 West 119th Street, Apt. 1-A<br>
 New York, NY 10027
-Robert Bletter
-552 Riverside Drive
+
+Robert Bletter<br>
+552 Riverside Drive<br>
 New York, NY 10027
-George R. Collins
-702 Casa Italiano
-Columbia University
+
+George R. Collins<br>
+702 Casa Italiana<br>
+哥伦比亚大学（Columbia University）<br>
 New York, NY 10027
-Robert Gilbert
-44 East 32nd Street
+
+Robert Gilbert<br>
+44 East 32nd Street<br>
 New York, NY 10027
-Mike & Sandy Harner
-423 West 120th Street
+
+Mike & Sandy Harner<br>
+423 West 120th Street<br>
 New York, NY 10027
-Rev, Canon William S. Van Meter
-Council of Churches of
-City of New York
-475 Riverside Drive, Suite 425
+
+Rev. Canon William S. Van Meter<br>
+纽约市教会联合会（Council of Churches of City of New York）<br>
+475 Riverside Drive, Suite 425<br>
 New York, NY 10027
-Mrs, Esta Nesbitt
-422 East 92nd Street
+
+Mrs. Esta Nesbitt<br>
+422 East 92nd Street<br>
 New York, NY 10028
-Mr. & Mrs. Charles Brush
-655 Park Avenue
+
+Mr. & Mrs. Charles Brush<br>
+655 Park Avenue<br>
 New York, NY 10028
-J. Woodson Rainey, Jr.
-411 East 82nd Street, 2D
+
+J. Woodson Rainey, Jr.<br>
+411 East 82nd Street, 2D<br>
 New York, NY 10028
-Agnes Maier
-1614 York Avenue, 3A
+
+Agnes Maier<br>
+1614 York Avenue, 3A<br>
 New York, NY 10028
-Dr. Gerald |. Fogel
-35 East 85th Street
+
+Dr. Gerald I. Fogel<br>
+35 East 85th Street<br>
 New York, NY 10028
-Mrs. Henry Robert Kann
-205 East 85th Street
+
+Mrs. Henry Robert Kann<br>
+205 East 85th Street<br>
 New York, NY 10028
-Jane Sarnoff
-30 East End Avenue, 2S
+
+Jane Sarnoff<br>
+30 East End Avenue, 2S<br>
 New York, NY 10028
-Neal Small
-46 East 91st Street
+
+Neal Small<br>
+46 East 91st Street<br>
 New York, NY 10028
-S. Colin Pilcher
-317 East 92nd Street, SE
+
+S. Colin Pilcher<br>
+317 East 92nd Street, 5E<br>
 New York, NY 10028
-Ronald Williams
-406 East 83rd Street, 2B
-New York, NY 10028 s
-Alex Grinnell
-1170 5th Avenue
+
+Ronald Williams<br>
+406 East 83rd Street, 2B<br>
+New York, NY 10028
+
+Alex Grinnell<br>
+1170 5th Avenue<br>
 New York, NY 10029
-Mrs, Alexandra E. Whitney
-1158 Sth Avenue
+
+Mrs. Alexandra E. Whitney<br>
+1158 5th Avenue<br>
 New York, NY 10029
-Steve Cole
-652 West 163rd Street, No. 6
+
+Steve Cole<br>
+652 West 163rd Street, No. 6<br>
 New York, NY 10032
-Anthony Hiss
-Editorial Dept. The New Yorker
-25 West 43rd Street
+
+Anthony Hiss<br>
+《纽约客》编辑部（Editorial Dept. The New Yorker）<br>
+25 West 43rd Street<br>
 New York, NY 10036
-G. Luss
-500 5th Avenue
+
+G. Luss<br>
+500 5th Avenue<br>
 New York, NY 10036
-Alec Wilder
-59 West 44th Street
+
+Alec Wilder<br>
+59 West 44th Street<br>
 New York, NY 10036
-Brian Sherman
-Richmond College
-130 Stuyvesant Place
+
+Brian Sherman<br>
+里士满学院（Richmond College）<br>
+130 Stuyvesant Place<br>
 Staten Island, NY 10301
-M. J. Yareck
-200 Hart Boulevard
+
+M. J. Yareck<br>
+200 Hart Boulevard<br>
 Staten Island, NY 10301
-Richard Surving
-44 Pommer Avenue
+
+Richard Surving<br>
+44 Pommer Avenue<br>
 Staten Island, NY 10304
-Timothy Stiles
-95 Wadsworth Avenue
+
+Timothy Stiles<br>
+95 Wadsworth Avenue<br>
 Staten Island, NY 10305
-Gordon Fitch
-c/o Marino
-11 Sydney Place
+
+Gordon Fitch<br>
+c/o Marino<br>
+11 Sydney Place<br>
 Staten Island, NY 10306
-Robert Anderson
-823 Rossville Avenue
+
+Robert Anderson<br>
+823 Rossville Avenue<br>
 Staten Island, NY 10309
-Mrs. Marlene Barron
-Staten Island Montessori School
-500 Butler Boulevard
+
+Mrs. Marlene Barron<br>
+斯塔滕岛蒙台梭利学校（Staten Island Montessori School）<br>
+500 Butler Boulevard<br>
 Staten Island, NY 10309
-William Singer
-1081 Jerome Avenue, 6F
+
+William Singer<br>
+1081 Jerome Avenue, 6F<br>
 Bronx, NY 10452
-Lawrence Ingenito
-1996 Anthony Avenue
+
+Lawrence Ingenito<br>
+1996 Anthony Avenue<br>
 Bronx, NY 10457
-Gerard Friedberg
-Bensalem College
-Fordham University
+
+Gerard Friedberg<br>
+本萨勒姆学院（Bensalem College）<br>
+福特汉姆大学（Fordham University）<br>
 Bronx, NY 10458
-Donald R. Leighton
-3412 Hunter Avenue
+
+Donald R. Leighton<br>
+3412 Hunter Avenue<br>
 Bronx, NY 10469
-Leonard Shifrin
-875 Morrison Avenue
+
+Leonard Shifrin<br>
+875 Morrison Avenue<br>
 Bronx, NY 10472
-Mrs. William 0. Carlebach
-Box 1
+
+Mrs. William D. Carlebach<br>
+Box 1<br>
 Chappaqua, NY 10514
-Lincoln Magill
-Box 42
+
+Lincoln Magill<br>
+Box 42<br>
 Cold Spring, NY 10516
-~George A. DuCasse
-Amberlands, Apt. 7G
-Albany Post Road
+
+George A. DuCasse<br>
+Amberlands, Apt. 7G<br>
+Albany Post Road<br>
 Croton-on-Hudson, NY 10520
-Mrs. Richard Kolehmainen
-20 Wildwood Road
+
+Mrs. Richard Kolehmainen<br>
+20 Wildwood Road<br>
 Hartsdale, NY 10530
-Roger Phillips
-30 Lookout Circle
+
+Roger Phillips<br>
+30 Lookout Circle<br>
 Larchmont, NY 10538
-Gladys Sherak
-5S York Road
+
+Gladys Sherak<br>
+5 York Road<br>
 Larchmont, NY 10538
-Herbert R. Livesey
-141 Beach Avenue
+
+Herbert R. Livesey<br>
+141 Beach Avenue<br>
 Mamaroneck, NY 10543
-Mark B. Shaw
-61 West Grand Street, 4B
+
+Mark B. Shaw<br>
+61 West Grand Street, 4B<br>
 Mount Vernon, NY 10552
-Samuel N. Antupit
-East Woods Road
+
+Samuel N. Antupit<br>
+East Woods Road<br>
 Pound Ridge, NY 10576
-Storrs Haynes
-Kinnicutt Road
+
+Storrs Haynes<br>
+Kinnicutt Road<br>
 Pound Ridge, NY 10576
-Allan Harvey
-36 Woods Lane
+
+Allan Harvey<br>
+36 Woods Lane<br>
 Scarsdale, NY 10583
-Joel Carp
-999 Wilmot Road
+
+Joel Carp<br>
+999 Wilmot Road<br>
 Scarsdale, NY 10583
-John C. Anderson
-175 Harwood Avenue
+
+John C. Anderson<br>
+175 Harwood Avenue<br>
 North Tarrytown, NY 10591
-Jim & Liz Brown
-153 Duxbury
+
+Jim & Liz Brown<br>
+153 Duxbury<br>
 White Plains, NY 10604
-Richard Greenbaum
-50 Coralyn Avenue
+
+Richard Greenbaum<br>
+50 Coralyn Avenue<br>
 White Plains, NY 10605
-Jeff Schlanger
-556 Stratton Road
+
+Jeff Schlanger<br>
+556 Stratton Road<br>
 New Rochelle, NY 10804
-W. Patrick Milburo
-Center for Integrative Educator
-12 Church Street
+
+W. Patrick Milburn<br>
+整合教育中心<br>
+12 Church Street<br>
 New Rochelle, NY 10805
-T. Castle
-92 Spook Rock Road
+
+T. Castle<br>
+92 Spook Rock Road<br>
 Suffern, NY 10901
-Rockland Project School
-50 Leber Road
-Blauveit, NY 10913
-Samuel Field
-Box 222
+
+罗克兰项目学校（Rockland Project School）<br>
+50 Leber Road<br>
+Blauvelt, NY 10913
+
+Samuel Field<br>
+Box 222<br>
 Palisades, NY 10964
-Elizabeth Shaw
-206 North Street ~
+
+Elizabeth Shaw<br>
+206 North Street<br>
 Middletown, NY 10940
-Mr. & Mrs, Rostislav Eismont
-19 Red Hill Road
-' New City, NY 10956
-Theater Systems, Inc.
-Old Route 202
+
+Mr. & Mrs. Rostislav Eismont<br>
+19 Red Hill Road<br>
+New City, NY 10956
+
+Theater Systems, Inc.<br>
+Old Route 202<br>
 Pomona, NY 10970
-Frederick Horstmann
-Gate Hill Road
+
+Frederick Horstmann<br>
+Gate Hill Road<br>
 Stony Point, NY 10980
-Robert & Deborah Arnold
-42 Sterling Road
+
+Robert & Deborah Arnold<br>
+42 Sterling Road<br>
 Tappan, NY 10983
-Dr. Michael Carpendale
-NYS Rehabilitation Hospital
+
+Dr. Michael Carpendale<br>
+纽约州康复医院（NYS Rehabilitation Hospital）<br>
 West Haverstraw, NY 10993
-Dan Fast
-33-65 14th Street
+
+Dan Fast<br>
+33-65 14th Street<br>
 Long Island, NY 11106
-Georgia A. Baumbach
-174 State Street
+
+Georgia A. Baumbach<br>
+174 State Street<br>
 Brooklyn, NY 11201
-Joshua Brackett
-157 State Street
+
+Joshua Brackett<br>
+157 State Street<br>
 Brooklyn, NY 11201
-Charles Brown
-43 Hicks Street
-Brooklyn, NY 11201 ~
-Camiel Productions, Inc.
-179 Amity Street
+
+Charles Brown<br>
+43 Hicks Street<br>
 Brooklyn, NY 11201
-Aaron Lieber
-300 East 74th Street
+
+Camiel Productions, Inc.<br>
+179 Amity Street<br>
+Brooklyn, NY 11201
+
+Aaron Lieber<br>
+300 East 74th Street<br>
 New York, NY 10021
-lan Baldwin, Jr.
-195 Baltic Street
+
+Ian Baldwin, Jr.<br>
+195 Baltic Street<br>
 Brooklyn, NY 11201
-Clark Gesner
-87 Remsen Street
+
+Clark Gesner<br>
+87 Remsen Street<br>
 Brooklyn, NY 11201
-Noam Siegel
-989 Schnectady Avenue
+
+Noam Siegel<br>
+989 Schnectady Avenue<br>
 Brooklyn, NY 11203
-Charles P. Puglisi
-45 North Elliott Place, 13F
+
+Charles P. Puglisi<br>
+45 North Elliott Place, 13F<br>
 Brooklyn, NY 11205
-David Wesley
-477 84th Street
+
+David Wesley<br>
+477 84th Street<br>
 Brooklyn, NY 11209
-£.M. Bomse, M.D.
-8301 Ridge Boulevard
+
+E. M. Bomse, M.D.<br>
+8301 Ridge Boulevard<br>
 Brooklyn, NY 11209
-Clergue Jones
-484 State Street
+
+Clergue Jones<br>
+484 State Street<br>
 Brooklyn, NY 11217
-S. D. Klipper
-250 Hoyt Street
+
+S. D. Klipper<br>
+250 Hoyt Street<br>
 Brooklyn, NY 11217
-Gordon Mumma
-c/o Cunningham Dance Co.
-30 Lafayette Avenue
+
+Gordon Mumma<br>
+坎宁安舞蹈团转交（c/o Cunningham Dance Co.）<br>
+30 Lafayette Avenue<br>
 Brooklyn, NY 11217
-Curtis Roseman
-21 South Elliott Place
+
+Curtis Roseman<br>
+21 South Elliott Place<br>
 Brooklyn, NY 11217
-William G. Graves
-434 58th Street
+
+William G. Graves<br>
+434 58th Street<br>
 Brooklyn, NY 11220
-Dennis F. Foreman
-155 Avenue U
+
+Dennis F. Foreman<br>
+155 Avenue U<br>
 Brooklyn, NY 11223
-Stewart Stoller
-1650 West 10th Street
+
+Stewart Stoller<br>
+1650 West 10th Street<br>
 Brooklyn, NY 11223
-Larry Geller
-535 Neptune Avenue
+
+Larry Geller<br>
+535 Neptune Avenue<br>
 Brooklyn, NY 11224
-Arlin Roy
-c/o Flatbush Unitarian Universal
-Church
-Beverly Road & East 19th Street
-Brookiny, NY 11226
-Ken & Isabel Sole
-1775 East 13th Street
+
+Arlin Roy<br>
+弗拉特布什一神普救派教会转交（c/o Flatbush Unitarian Universal Church）<br>
+Beverly Road & East 19th Street<br>
+Brooklny, NY 11226
+
+Ken & Isabel Sole<br>
+1775 East 13th Street<br>
 Brooklyn, NY 11229
-Phillip Wallack
-259 Sackett Street
+
+Phillip Wallack<br>
+259 Sackett Street<br>
 Brooklyn, NY 11231
-Mr. & Mrs, Ed Lauter
-241-17 44th Avenue
-Douglastown, Queens, NY 41363
-Roy Oishi
-224 64th Avenue
+
+Mr. & Mrs. Ed Lauter<br>
+241-17 44th Avenue<br>
+Douglastown, Queens, NY 11363
+
+Roy Oishi<br>
+224 64th Avenue<br>
 Bayside, NY 11364
-Leon |. Chipkin
-146-38 61st Road
+
+Leon I. Chipkin<br>
+146-38 61st Road<br>
 Flushing, NY 11367
-John Vetter
-135-25 78th Drive
+
+John Vetter<br>
+135-25 78th Drive<br>
 Flushing, NY 11367
-M. McPeak
-98-38 57th Avenue, 18-J
+
+M. McPeak<br>
+98-38 57th Avenue, 18-J<br>
 Queens, NY 11368
-Edgar H. Roed
-90-10 34th Avenue
+
+Edgar H. Roed<br>
+90-10 34th Avenue<br>
 Jackson Heights, NY 11372
-T.C. Jensen
-35-22 90th Street
+
+T. C. Jensen<br>
+35-22 90th Street<br>
 Jackson Heights, NY 11372
-Paul Kahan
-245-50 Grand Central Station
+
+Paul Kahan<br>
+245-50 Grand Central Station<br>
 Bellerose, NY 11426
-Steven Denenberg
-270 Willard Drive
+
+Steven Denenberg<br>
+270 Willard Drive<br>
 Helwlett, NY 11557
-Charles Wonka
-1 Jefferson Avenue, C11
+
+Charles Wonka<br>
+1 Jefferson Avenue, C11<br>
 Rockville Center, NY 11570
-» -R. Wildermuth ie wih
-2482 Oceanside Road “tf
-Oceanside, NY 11572 |
-Halbert F. Speer
-Box 238 ‘
+
+R. Wildermuth<br>
+2482 Oceanside Road<br>
+Oceanside, NY 11572
+
+Halbert F. Speer<br>
+Box 238<br>
 Sea Cliff, NY 11579
-Samuel R. Sheiman
-681 Golf Drive
+
+Samuel R. Sheiman<br>
+681 Golf Drive<br>
 North Woodmere, NY 11581
-T. J, Owens
-74 Princeton Street
+
+T. J. Owens<br>
+74 Princeton Street<br>
 Willistan Park, NY 11590
-Henry Goldstein
-1021 Bay 24 Street
+
+Henry Goldstein<br>
+1021 Bay 24 Street<br>
 Far Rockaway, NY 11691
-Judy C. Rosenthal
-720 Virginia Street
+
+Judy C. Rosenthal<br>
+720 Virginia Street<br>
 Far Rockaway, NY 11691
-Lawrence Greany
-c/o Kathleen.Rizzo
-178 Beach 138th Street ‘
+
+Lawrence Greany<br>
+c/o Kathleen Rizzo<br>
+178 Beach 138th Street<br>
 Belle Harbor, NY 11694
-Richard G. Silver
-135 Ketcham Avenue
+
+Richard G. Silver<br>
+135 Ketcham Avenue ,<br>
 Amityville, NY 11701
-Kim L, Darrow *
-202 Jefferson Street
+
+Kim L. Darrow<br>
+202 Jefferson Street<br>
 East Islip, NY 11730
-David Cutts
-Shore Road
+
+David Cutts<br>
+Shore Road<br>
 East Setauket, NY 11733
-Louis Kanter
-1 Milburn Lane
+
+Louis Kanter<br>
+1 Milburn Lane<br>
 Huntington, NY 11743
-Mark Cohen
-35 Cambria Road
+
+Mark Cohen<br>
+35 Cambria Road<br>
 Syosset, NY 11791
-James J. Hicks
-3721 Richard Lane
+
+James J. Hicks<br>
+3721 Richard Lane<br>
 Wantagh, NY 11793
-Harriet Adams
-19 Jade Street
+
+Harriet Adams<br>
+19 Jade Street<br>
 Oakdale, NY 11769
-Leonard R, Johnson
-Box 181
+
+Leonard R. Johnson<br>
+Box 181<br>
 Shoreham, NY 11786
-Richard Williams
-401 Towne House Village
+
+Richard Williams<br>
+401 Towne House Village<br>
 Hauppage, NY 11787
-Susan Cohen
-Mount College C21C
-SUNY at Stony Brook
+
+Susan Cohen<br>
+Mount College C21C<br>
+纽约州立大学石溪分校（SUNY at Stony Brook）<br>
 Stony Brook, NY 11790
-J.C. Fineman
-79 Lake Avenue
+
+J. C. Fineman<br>
+79 Lake Avenue<br>
 Center Moriches, NY 11934
-Mrs. Paul B. Huylebroeck
-South Delray Drive RFD 1
+
+Mrs. Paul B. Huylebroeck<br>
+South Delray Drive RFD 1<br>
 Montauk, NY 11954
-Christopher Leonard
-Box 328-A
+
+Christopher Leonard<br>
+Box 328-A<br>
 Sag Harbor, NY 11963
-Josh Kopp
-20 Pennsyvania Street
+
+Josh Kopp<br>
+20 Pennsyvania Street<br>
 Upton, NY 11973
-Gary W. Thompson
-Box 389
+
+Gary W. Thompson<br>
+Box 389<br>
 Westhampton, NY 11977
-Mrs. A. Ansbacher
-44 Beach Lane
+
+Mrs. A. Ansbacher<br>
+44 Beach Lane<br>
 Westhampton Beach, NY 11978
-John E. Hurley
-32 Mill Road
+
+John E. Hurley<br>
+32 Mill Road<br>
 Westhamon Beach, NY 11978
-James R. Putnam
-27 Davies Lane
+
+James R. Putnam<br>
+27 Davies Lane<br>
 Cobleskill, NY 12043
-Marvin Clark
-42 Maple Avenue
+
+Marvin Clark<br>
+42 Maple Avenue<br>
 Troy, NY 12180
-James Lesch
-26 Slingerland Street D
+
+James Lesch<br>
+26 Slingerland Street<br>
 Albany, NY 12202
-Paul T. Erickson
-22 Johnston Road
+
+Paul T. Erickson<br>
+22 Johnston Road<br>
 Albany, NY 12203
-Betnard Pollara
-11 Sage Hill Lane
+
+Bernard Pollara<br>
+11 Sage Hill Lane<br>
 Menands, NY 12204
-Peter B. Hutchison
-Dudley Observatory
-100 Fuller Road
+
+Peter B. Hutchison<br>
+达德利天文台（Dudley Observatory）<br>
+100 Fuller Road<br>
 Albany, NY 12205
-Robert Brady
-68 Spring Street
-Albany, NY 12210 ;
-Sidney Fleisher
-391 Madison Avenue
+
+Robert Brady<br>
+68 Spring Street<br>
 Albany, NY 12210
-Michael Dew
-RD 2, Crooked Street
+
+Sidney Fleisher<br>
+391 Madison Avenue<br>
+Albany, NY 12210
+
+Michael Dew<br>
+RD 2, Crooked Street<br>
 Scotia, NY 12302
-D. J. McCollum
-249 Dunnsville Road
+
+D. J. McCollum<br>
+249 Dunnsville Road<br>
 Schenectady, NY 12306
-Serena Stockwell
-Box 85
+
+Serena Stockwell<br>
+Box 85<br>
 Tillson, NY 12486
-Richard Drake
-35 Speare Road
+
+Richard Drake<br>
+35 Speare Road<br>
 Woodstock, NY 12498
-Mrs, N, Thomas Walker
-Dutchfield Farms
+
+Mrs. N. Thomas Walker<br>
+Dutchfield Farms<br>
 Amenia, NY 12501
-Gary Mayer
-93 Shirley Avenue
+
+Gary Mayer<br>
+93 Shirley Avenue<br>
 Fishkill, NY 12524
-Savi Clough
-RD 3
+
+Savi Clough<br>
+RD 3<br>
 Newburgh, NY 12550
-W. A. Hinkey
-Box 13
+
+W. A. Hinkey<br>
+Box 13<br>
 New Hamburg, NY 12560
-116
-Buy ee Cooke 3 :
-Woodlea Road eres
-“Salt Point, NY 12578
-Ann Goldsmith
-The Birches _
-Woodlea Road — ,
-Salt Point, NY 12578.
-Richard Grossman
-RD 1, Box 185
+
+Stanley G. Cooke<br>
+Woodlea Road<br>
+Salt Point, NY 12578
+
+Ann Goldsmith<br>
+The Birches<br>
+Woodlea Road<br>
+Salt Point, NY 12578
+
+Richard Grossman<br>
+RD 1, Box 185<br>
 Wallkill, NY 12589
-D. McAtee
-Sunset Knolls, Rt, 9
+
+D. McAtee<br>
+Sunset Knolls, Rt. 9<br>
 Wappinger Falls, NY 12590
-W.W. Kelly
-65 Mandalay Drive
+
+W. W. Kelly<br>
+65 Mandalay Drive<br>
 Poughkeepsie, NY 12603
-Stephen B. Waters
-Stanton Terrace
+
+Stephen B. Waters<br>
+Stanton Terrace<br>
 Poughkeepsie, NY 12603
-+ Frank J. Wiggins
-52 Homer Place
-_ Poughkeepsie, NY 12603
-Ellen Green
-RD
+
+Frank J. Wiggins<br>
+52 Homer Place<br>
+Poughkeepsie, NY 12603
+
+Ellen Green<br>
+RD<br>
 Shushan, NY 12873
-William T. Dooley, III
-Adirondack Camp for Boys
+
+William T. Dooley, III<br>
+阿迪朗达克男孩营地（Adirondack Camp for Boys）<br>
 Glenbourne, NY 12861
-Capt. Edwin L. Powers
-6025A Maine Road
+
+Capt. Edwin L. Powers<br>
+6025A Maine Road<br>
 Plattsburgh, AFB, NY 12903
-Patience Brooks
-8 Maple Street
+
+Patience Brooks<br>
+8 Maple Street<br>
 Lake Placid, NY 12946
-tven Lourie
-5 Santanoni Avenue
+
+Iven Lourie<br>
+5 Santanoni Avenue<br>
 Saranac Lake, NY 12983
-H. Walter Hower
-Box 87
+
+H. Walter Hower<br>
+Box 87<br>
 Cleveland, NY 13042
-Nancy Northup
-Mott Road
+
+Nancy Northup<br>
+Mott Road<br>
 Fayetteville, NY 13066
-Charles W. Jermy, Jr.
-7 King Street
-Homer, NY 13077 *
-Alan Bostrom
-Dept. of Psychology
-State University College
+
+Charles W. Jermy, Jr.<br>
+7 King Street<br>
+Homer, NY 13077
+
+Alan Bostrom<br>
+心理学系（Dept. of Psychology）<br>
+州立大学学院（State University College）<br>
 Oswego, NY 13126
-Mr. & Mrs, J. H. McCroskery
-278 Washington,Blvd. <
+
+Mr. & Mrs. J. H. McCroskery<br>
+278 Washington,Blvd.<br>
 Oswego, NY 13126
-Nancy Rankin
-RD 1, West River Road
+
+Nancy Rankin<br>
+RD 1, West River Road<br>
 Waterloo, NY 13165
-Roger Scott
-1683 James Street
+
+Roger Scott<br>
+1683 James Street<br>
 Syracuse, NY 13203
-Patrick Dressler
-Box 197, Dellplain Hall
-601 Comstock Avenue
+
+Patrick Dressler<br>
+Box 197, Dellplain Hall<br>
+601 Comstock Avenue<br>
 Syracuse, NY 13210
-Edward A. Thibault
-125 Vincent Street
+
+Edward A. Thibault<br>
+125 Vincent Street<br>
 Syracuse, NY 13210
-Gary S. Hartman
-3956 East Genesee Street
+
+Gary S. Hartman<br>
+3956 East Genesee Street<br>
 Syracuse, NY 13214
-Beesley Landscaping & Nursery
-4094 Howlett Hill Road
+
+比斯利园林与苗圃（Beesley Landscaping & Nursery）<br>
+4094 Howlett Hill Road<br>
 Syracuse, NY 13215
-; Greg Kiersz
-960 Salt Springs Road
+
+Greg Kiersz<br>
+960 Salt Springs Road<br>
 Syracuse, NY 13224
-James E. Clarke
-Department of Education
-Colgate University
+
+James E. Clarke<br>
+教育系（Department of Education）<br>
+科尔盖特大学（Colgate University）<br>
 Hamilton, NY 13346
-Bill Hider
-Greig Road
+
+Bill Hider<br>
+Greig Road<br>
 Lyons Falls, NY 13368
-Jerome L. DeMauro
-c/o Virginia Schottel!
-121 East Bloomfield Street
+
+Jerome L. DeMauro<br>
+c/o Virginia Schottel<br>
+121 East Bloomfield Street<br>
 Rome, NY 13440
-Michael & Anne
-Morning Sun
-RFO 1
+
+Michael & Anne<br>
+Morning Sun<br>
+RFD 1<br>
 Roosie, NY 13646
-Deborah Boscoe
-187 Allen Street
+
+Deborah Boscoe<br>
+187 Allen Street<br>
 Massena, NY 13662
-JL. Richards
-Box 376
+
+J. L. Richards<br>
+Box 376<br>
 Norfolk, NY 13667
-Jerry M.:Carlin
-74 Marlat Street
+
+Jerry M. Carlin<br>
+74 Marlat Street<br>
 Potsdam, NY 13676
-William Wodraska
-Box 640
+
+William Wodraska<br>
+Box 640<br>
 Potsdam, NY 13676
-C. H. Moyer
+
+C. H. Moyer<br>
 Andes, NY 13731
-Elizabeth C. Baldwin
-RD 1, Horan Road
+
+Elizabeth C. Baldwin<br>
+RD 1, Horan Road<br>
 Vestal, NY 13850
-Hugh Wynd
-512 Tulane Street
+
+Hugh Wynd<br>
+512 Tulane Street<br>
 Vestal, NY 13850
-Gordon Goodman
-Box 1415
-Harpur College
+
+Gordon Goodman<br>
+Box 1415<br>
+哈珀学院（Harpur College）<br>
 Binghamton, NY 13901
-Sue Mellentine
-143 Sharon Drive
+
+Sue Mellentine<br>
+143 Sharon Drive<br>
 Tonawanda, NY 14150
-Mrs. E. L. Kleinschmidt
-880 West Ferry Street |
+
+Mrs. E. L. Kleinschmidt<br>
+880 West Ferry Street<br>
 Buffalo, NY 14209
-Mr, & Mrs. J. P. Levine
-141 Oxford Avenue
+
+Mr. & Mrs. J. P. Levine<br>
+141 Oxford Avenue<br>
 Buffalo, NY 14209
-‘ /
-: George Ritscher
-ih
-Baird Hall
-Buffalo, NY 1 oa
-Michael Brill
-207 Summit Avenu
+
+Richard Zander<br>
+布法罗科学博物馆（Buffalo Museum of Science）<br>
+Buffalo, NY 14211
+
+Joseph Kruszka<br>
+66 Wood Street<br>
+Buffalo, NY 14211
+
+Dr. Gerald O’Grady<br>
+英语系——A 附楼（Dept. of English - Annex A）<br>
+纽约州立大学（State University of New York）<br>
 Buffalo, NY 14214
-Richard Blau | j
-240 Dewey Avenue —
-- Buffalo, NY 14214—
-Mary P. Brodzinsky —
-285 Woodward Avenue
-Buffalo, NY 14214 q
-Lawrence Gross 3
-2204 Fillmore, Apt. B
-Buffalo, NY 14214 5
-Mike Aldrich Le Mar —
-Box 71, Norton Hall
-SUENONE TES
+
+George Ritscher<br>
+Baird Hall<br>
+纽约州立大学（State University of New York）<br>
+Buffalo, NY 15214
+
+James A. Stumm<br>
+95 Victoria Avenue<br>
 Buffalo, NY 14214
-James Gahagan ii
-168 Camden Avenue _
-Buffalo, NY 14216 oie
-Carl J. Schmidt ag
-71A Williamsburg Square
+
+Michael Brill<br>
+207 Summit Avenue,<br>
+Buffalo, NY 14214
+
+Richard Blau<br>
+240 Dewey Avenue<br>
+Buffalo, NY 14214
+
+Mary P. Brodzinsky<br>
+285 Woodward Avenue<br>
+Buffalo, NY 14214
+
+Lawrence Gross<br>
+2204 Fillmore, Apt. B<br>
+Buffalo, NY 14214
+
+Mike Aldrich Le Mar<br>
+Box 71, Norton Hall<br>
+纽约州立大学（S. U. N. Y.）<br>
+Buffalo, NY 14214
+
+James Gahagan<br>
+168 Camden Avenue<br>
+Buffalo, NY 14216
+
+Carl J. Schmidt<br>
+71A Williamsburg Square<br>
 Williamsville, NY 14221
-George Borowsky
-325 Bryant Street
+
+George Borowsky<br>
+325 Bryant Street<br>
 Buffalo, NY 14222
-Mr. & Mrs. Terry Collison
-105 Lancasetr Avenue
+
+Mr. & Mrs. Terry Collison<br>
+105 Lancasetr Avenue<br>
 Buffalo, NY 14222
-G. M. Cumbo
-528 Richmond Avenue
+
+G. M. Cumbo<br>
+528 Richmond Avenue<br>
 Buffalo, NY 14222
-Charles Haynie
-533 Ashland
+
+Charles Haynie<br>
+533 Ashland<br>
 Buffalo, NY 14222
-Thomas J. Arnold ~
-592 Englewood
+
+Thomas J. Arnold<br>
+592 Englewood<br>
 Buffalo, NY 14223
-D. L. Townley '
-72 Northwood Drive
--Kenmore, NY 14223
-Mr. & Mrs. Boddy
-5 Coolidge Drive
-Buffalo, NY 14226.
-William Selden’
-Elm Place
+
+D. L. Townley<br>
+72 Northwood Drive<br>
+Kenmore, NY 14223
+
+Mr. & Mrs. Boddy<br>
+5 Coolidge Drive<br>
+Buffalo, NY 14226
+
+William Selden<br>
+Elm Place<br>
 Avon, NY 14414
-Arnold Kendall
-85 Utica Street _
+
+Arnold Kendall<br>
+85 Utica Street<br>
 Brockport, NY 14420
-Bill & Rita Giles ©
-50 Bridgeman Road
+
+Bill & Rita Giles<br>
+50 Bridgeman Road<br>
 Churchville, NY 14428
-Jim Morrice.
-280 Blazey Road
+
+Jim Morrice<br>
+280 Blazey Road<br>
 Victor, NY 14564
-John B. Cairns
-645 Averill Avenue, Apt. 1
+
+John B. Cairns<br>
+645 Averill Avenue, Apt. 1<br>
 Rochester, NY 14607
-Kate Burnham
-3% Sumner Park :
+
+Kate Burnham<br>
+3½ Sumner Park<br>
 Rochester, NY 14607
-Hunter W. Jones
-45 Rutgers Street.
-Rochester, NY 14607 |
-Robert H. Wadsworth, D.D.S. —
-277 Alexander Street.
-308 Medical Arts Building —
+
+Hunter W. Jones<br>
+45 Rutgers Street<br>
 Rochester, NY 14607
-Mr. & Mrs. W. H. Rueckert
-16 Landing Road South —
+
+Robert H. Wadsworth, D.D.S.<br>
+277 Alexander Street<br>
+308 Medical Arts Building<br>
+Rochester, NY 14607
+
+Mr. & Mrs. W. H. Rueckert<br>
+16 Landing Road South<br>
 Rochester, NY 14610
-Villis A. Stomers
-57 Hammond Street
-Rochester, NY 14615 —
-Mr. & Mrs. Brian Williams
-81 Fairview Avenue
-Rochester, NY 14619 |
-John Foote, _ cf
-916 Monroe Avenue
+
+Villis A. Stomers<br>
+57 Hammond Street<br>
+Rochester, NY 14615
+
+Mr. & Mrs. Brian Williams<br>
+81 Fairview Avenue<br>
+Rochester, NY 14619
+
+John Foote,<br>
+916 Monroe Avenue<br>
 Rochester, NY 14620
-Robert F. Sarmiento
-19 Sanford Street
+
+Robert F. Sarmiento<br>
+19 Sanford Street<br>
 Rochester, NY 14620
-Kenneth Bergstresser —
-Box 5201, River Campus Statio
+
+Kenneth Bergstresser<br>
+Box 5201, River Campus Station<br>
 Rochester, NY 14627
-James Prendergast Free ui :
-509 Cherry Street j
+
+詹姆斯·普伦德加斯特免费图书馆（James Prendergast Free Lib）<br>
+509 Cherry Street<br>
 Jamestown, NY 14701
-Eric Renner
-12 Terrace Street
+
+Eric Renner<br>
+12 Terrace Street<br>
 Alfred, NY 14802
-Justin Lubold
-RD2
+
+Justin Lubold<br>
+RD 2<br>
 Corning, NY 14830
-Bill Brothers ; A
-450 North Triphammer Road he
-Ithaca, NY 14850 j Mae
-Or. Carl Sagan rs
-304 Space Sciences Buil 9
-CRSR, Cornell University
+
+Bill Brothers<br>
+450 North Triphammer Road<br>
 Ithaca, NY 14850
-Sherry Kragle |
-59 Houghton Circle —
-Corning, NY. 14830
-Elaine dadeeorts {
-Maple Avenue >
-Mecklenburg, NY 4863
-Leroy Hersh
-Box 449
-Painted Post, MY
-uh et
-Ve
-```
+
+Dr. Carl Sagan<br>
+304 Space Sciences Building<br>
+康奈尔大学 CRSR（CRSR, Cornell University）<br>
+Ithaca, NY 14850
+
+Sherry Kragle<br>
+59 Houghton Circle<br>
+Corning, NY 14830
+
+Elaine Jackson,<br>
+Maple Avenue<br>
+Mecklenburg, NY 14863
+
+Leroy Hersh<br>
+Box 449<br>
+Painted Post, NY 14870
 
 ## Omitted Bibliographic/Order Info
 
@@ -1524,8 +1764,9 @@ Ve
 
 ## OCR / Uncertainty Notes
 
-- 邮寄名单保留历史扫描 OCR 拼写；不擅自纠改人名或地址。
+- 原刊 Riversdie、Helwlett、Brooklny、Lancasetr、15214 等照录；整合教育中心原印 Education 末字母被截，中文按可恢复词义译出，不伪造英文末字。
 
 ## Self Critique
 
-- 已保留所有可恢复姓名、地址、机构和数字；待独立复核。
+- 补 Richard Zander、Joseph Kruszka、Gerald O’Grady、James A. Stumm 等原 OCR 漏项及 S.U.N.Y.；恢复 Carl Sagan 与 Leroy Hersh 完整记录、3½ 和 11363；读入各教育/图书馆/医院单位。
+- 以上为同一执行者的源文纠错，不是新增独立审校；原始 OCR 证据保留在 Source Pack。

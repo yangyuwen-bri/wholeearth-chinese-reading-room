@@ -1,4 +1,5 @@
 import json
+import subprocess
 import sys
 import unittest
 from unittest.mock import patch
@@ -13,6 +14,10 @@ from build_translation_reader_data import final_translation, markdown_to_html, s
 
 
 class FinalTranslationTests(unittest.TestCase):
+    def test_thematic_break_is_not_literal_text(self):
+        self.assertEqual(markdown_to_html("前一则。\n\n---\n\n后一则。"), "<p>前一则。</p><hr><p>后一则。</p>")
+        self.assertEqual(markdown_to_html("- 前项\n---\n> 后引文"), "<ul><li>前项</li></ul><hr><blockquote><p>后引文</p></blockquote>")
+
     def test_preserves_internal_headings_and_repeated_content(self):
         body = "## 第一篇\n\n正文。\n\n## 第二篇\n\n正文。\n\n### 订购\n\n价格：$2。"
         source = f"## Final Translation\n\n{body}\n\n## Omitted Bibliographic/Order Info\n\n无。"
@@ -39,6 +44,133 @@ class FinalTranslationTests(unittest.TestCase):
 
 
 class MarchReaderTests(unittest.TestCase):
+    def test_current_preface_matches_pending_leaves(self):
+        rows = march.load_rows(allow_pending_review=True)
+        notice = next(s["html"] for s in march.PREFACE if s["title"] == "校订说明")
+        pending = [row for row in rows if row["status"] != "accepted"]
+        self.assertIn(f"{len(rows) - len(pending)} 页", notice)
+        self.assertIn(f"{len(pending)} 页仍待补证", notice)
+        self.assertIn("、".join(f'{row["leaf"]:03d}' for row in pending), notice)
+        self.assertIn("不是另一位审校者的独立验收", notice)
+
+    def test_kesey_translation_is_consistent_in_last_pages(self):
+        for leaf in (127, 128, 130):
+            body = final_translation((march.LEAF_DIR / f"leaf_{leaf:03d}.md").read_text(), leaf)
+            self.assertIn("凯西", body)
+            self.assertNotIn("克西", body)
+
+    def test_restored_late_book_units_are_not_summarized(self):
+        required = {
+            104: ("麻醉药品成瘾", "Vintage"),
+            105: ("1969年4月13日",),
+            106: ("350 人", "5,000 美元"),
+            107: ("CN 221", "SNOOPY", "SCHULZ"),
+            108: ("TOMOLLY",),
+            111: ("在楼上跳舞啊",),
+            113: ("GUINDON",),
+            114: ("第二次世界大战", "出价最高的人", "Michael Dreyfuss"),
+            115: ("波多黎各", "维尔京群岛", "Lineaweaver", "Cairns"),
+            116: ("Sudbury Inn", "K. S. Cotton", "Cynthia Nielson", "259½", "Jim Zerdan"),
+            117: ("Richard Zander", "Joseph Kruszka", "James A. Stumm", "Carl Sagan", "3½", "11363"),
+            118: ("2528 Q Street", "Robert S. Philleo", "Michael A. Eiss", "Tim Reitz<br>\nBox 145"),
+            119: ("Carolyn Biggerstajj", "Carl Wimmer", "Loran V. Melnick"),
+            120: ("Conrad", "Ina Haugen", "1475½", "James Miles"),
+            121: ("Alan Luecke", "Apt. 2106", "824½", "81·1"),
+            122: ("Tom Lauverman", "11651¾", "11219¾", "Fied Ler"),
+            123: ("1103 Paloma No. 1", "San Diego, CA 62109", "Palo Alto, CA 04303"),
+            124: ("Masae Namba", "Clairmont Heights Enterprizes", "2233½", "2943½", "512 I Street"),
+            125: ("Jean Mollinson", "2770 Bellevue Avenue", "论沉默", "它不等待任何东西", "11664½"),
+            126: ("梅赫·巴巴资料处", "Box 1101"),
+            127: ("圣阿尔弗雷德", "FM 广播", "AM 广播", "记者证可免费索取", "PO Box 10121", "每年 4 美元"),
+            128: ("——SB", "448 页", "十三周年", "肯尼迪那本书中被删去的部分"),
+            129: ("6 月 11 日，星期五", "带点好吃的、好喝的，给别人享用", "你们一共多少人"),
+            130: ("滑石粉", "帮助穿上", "也许还有点紧张"),
+            131: ("目录", "而温顺的人", "许可证待批"),
+        }
+        for leaf, phrases in required.items():
+            body = final_translation((march.LEAF_DIR / f"leaf_{leaf:03d}.md").read_text(), leaf)
+            for phrase in phrases:
+                with self.subTest(leaf=leaf, phrase=phrase):
+                    self.assertIn(phrase, body)
+
+    def test_checked_directory_records_survive_export(self):
+        for leaf, count in ((115, 203), (116, 242), (117, 240), (118, 243),
+                            (119, 230), (120, 239), (121, 235), (122, 238),
+                            (123, 246), (124, 246), (125, 213)):
+            body = final_translation((march.LEAF_DIR / f"leaf_{leaf:03d}.md").read_text(), leaf)
+            with self.subTest(leaf=leaf):
+                self.assertEqual(sum("<br>" in block for block in body.split("\n\n")), count)
+                self.assertNotIn("```", body)
+                self.assertNotIn("以下姓名、机构、邮寄地址", body)
+        body = final_translation((march.LEAF_DIR / "leaf_118.md").read_text(), 118)
+        self.assertEqual(body.count("L. M. Ledbetter"), 2)
+        self.assertLess(body.index("2413 Maryland, Avenue"), body.index("Mr. T. Rawson"))
+        body = final_translation((march.LEAF_DIR / "leaf_125.md").read_text(), 125)
+        # 214 entries: 213 multi-line records and one printed name without an address.
+        self.assertEqual(body.count("John Wilcox"), 2)
+        self.assertIn("\n\nJohn Wilcox\n\nJohn Wilcox<br>", body)
+
+    def test_retired_directory_copier_cannot_overwrite_checked_files(self):
+        package = march.LEAF_DIR.parent
+        paths = [package / "status.jsonl"] + list(march.LEAF_DIR.glob("leaf_1[12][0-9].md"))
+        before = {path: path.read_bytes() for path in paths}
+        result = subprocess.run(
+            [sys.executable, str(package / "tools/build_directory_leaves.py")],
+            capture_output=True, text=True,
+        )
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("Directory generation is disabled", result.stderr)
+        self.assertEqual(before, {path: path.read_bytes() for path in paths})
+
+    def test_late_music_and_report_pages_keep_restored_units(self):
+        required = {
+            79: ("北斗七星", "北极星"),
+            83: ("Highway 1", "VAGABONDS", "D.C. al Coda", "我不会独自背负这份罪责"),
+            84: ("不能推荐抑制剂", "DIXIE CUPS", "LORD BUCKLEY"),
+            85: ("微型巴士", "免邮原样寄回", "尼尔心中的目标"),
+            87: ("Monologue with Future Shock", "跑到乡村公社"),
+            89: ("问一个选民", "政客本人不知道"),
+            93: ("HERE I AM!", "——8 岁", "印第安人"),
+            95: ("Ransom", "其实是送给那位朋友的"),
+            97: ("Get The Lead Out", "全部乘客出行里程"),
+            98: ("向人民开战", "把它还给印第安人", "THE MILITARY", "巴基斯坦地震"),
+            99: ("Nancy Mann", "第 179 页"),
+        }
+        for leaf, phrases in required.items():
+            body = final_translation((march.LEAF_DIR / f"leaf_{leaf:03d}.md").read_text(), leaf)
+            for phrase in phrases:
+                with self.subTest(leaf=leaf, phrase=phrase):
+                    self.assertIn(phrase, body)
+        lyrics = final_translation((march.LEAF_DIR / "leaf_083.md").read_text(), 83)
+        self.assertEqual(lyrics.count("我是你们的诗人。"), 2)
+        self.assertEqual(lyrics.count("原谅我们吧，啊，最后的孤独与困苦者。"), 2)
+
+    def test_historical_medical_and_gas_notices_stay_outside_source(self):
+        rows = march.load_rows(allow_pending_review=True)
+        for leaf in (73, 74, 94, 96, 97, 98, 100, 101, 102, 103, 111, 127, 130):
+            with self.subTest(leaf=leaf):
+                notice = rows[leaf]["reader_notice"]
+                self.assertIn("非原文", notice)
+                body = final_translation((march.LEAF_DIR / f"leaf_{leaf:03d}.md").read_text(), leaf)
+                self.assertNotIn(notice, body)
+        self.assertIn("切勿模仿", rows[96]["reader_notice"])
+
+    def test_corrected_food_pages_keep_units_and_steps(self):
+        body = final_translation((march.LEAF_DIR / "leaf_059.md").read_text(), 59)
+        for phrase in ("Shambala", "6 杯温水", "2 汤匙酵母（2 包）", "2 杯奶粉", "2 杯大麦面粉", "1-1/2 茶匙盐", "耳垂", "涂过油", "350°F 烤 1-1/2 小时"):
+            self.assertIn(phrase, body)
+        self.assertNotIn("燕麦", body)
+        self.assertLess(body.index("莎拉说"), body.index("### 藏式大麦面包"))
+        self.assertLess(body.index("涂过油"), body.index("### 关于埃德"))
+
+    def test_resolved_signature_and_separate_historical_safety_notices(self):
+        rows = march.load_rows(allow_pending_review=True)
+        self.assertEqual(rows[8]["status"], "accepted")
+        self.assertIn("Cieciorka", final_translation((march.LEAF_DIR / "leaf_008.md").read_text(), 8))
+        for leaf in (50, 51):
+            self.assertIn("非原文", rows[leaf]["reader_notice"])
+            self.assertNotIn("美国国家癌症研究所的资料", final_translation((march.LEAF_DIR / f"leaf_{leaf:03d}.md").read_text(), leaf))
+
     def test_coverage_gate_rejects_dropped_page_and_truncated_body(self):
         payload = march.build_payload(march.load_rows(allow_pending_review=True))
         self.assertEqual(march.validate_reader_payload(payload), [])
@@ -133,12 +265,17 @@ class MarchReaderTests(unittest.TestCase):
         rows = march.load_rows(allow_pending_review=True)
         payload = march.build_payload(rows)
         errors = march.validate_issue()
-        for leaf in (8, 11):
+        for leaf in (11, 35, 62, 84, 86):
             with self.subTest(leaf=leaf):
                 self.assertEqual(rows[leaf]["status"], "needs_highres_scan")
                 section = next(s for c in payload["chapters"] for s in c["sections"] if s["leaf"] == leaf)
                 self.assertIn("尚不完整", section["review_notice"])
                 self.assertTrue(any(f"{leaf:03d}" in error for error in errors))
+        # The matching color painting resolves leaf 082's suspected inscription
+        # as architecture and seated figures, not omitted source text.
+        self.assertEqual(rows[82]["status"], "accepted")
+        section = next(s for c in payload["chapters"] for s in c["sections"] if s["leaf"] == 82)
+        self.assertFalse(section.get("review_notice"))
 
     def test_law_and_computer_pages_restore_omitted_units(self):
         bodies = {leaf: final_translation((march.LEAF_DIR / f"leaf_{leaf:03d}.md").read_text(), leaf)
@@ -157,6 +294,25 @@ class MarchReaderTests(unittest.TestCase):
         self.assertNotIn("南亚的活动", bodies[25])
         self.assertEqual(markdown_to_html(bodies[25]).count("<li>"), 5)
         self.assertIn("第 14 期", bodies[25])
+
+    def test_mantras_sufism_yoga_and_lyrics_restore_source_units(self):
+        bodies = {leaf: final_translation((march.LEAF_DIR / f"leaf_{leaf:03d}.md").read_text(), leaf)
+                  for leaf in range(26, 34)}
+        for phrase in ("这咒语不卖钱", "要有信心", "六十个世纪", "审计者", "皮套"):
+            self.assertIn(phrase, bodies[27])
+        self.assertIn("## 苏菲主义", bodies[28])
+        self.assertIn("2.45 美元", bodies[28])
+        self.assertLess(bodies[29].index("在水上行走的人"), bodies[29].index("从 Bindu 到 Ojas"))
+        self.assertIn("重新上船", bodies[29])
+        for phrase in ("ॐ 15", "ॐ CVII", "悖论　悖论　悖论　悖论"):
+            self.assertIn(phrase, bodies[30])
+        self.assertNotIn("15 美元", bodies[30])
+        self.assertIn("把潜在的视为永恒的", bodies[31])
+        self.assertIn("7. 执着", bodies[31])
+        self.assertIn("FRISCO", bodies[32])
+        for phrase in ("诸神的黄昏", "二十英里", "伍德斯托克", "头盔", "斯库拉"):
+            self.assertIn(phrase, bodies[33])
+        self.assertGreaterEqual(markdown_to_html(bodies[33]).count("<br>"), 33)
 
     def test_reader_uses_established_name(self):
         template = (READER / "index.html").read_text()

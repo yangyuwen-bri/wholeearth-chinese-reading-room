@@ -1,4 +1,4 @@
-# Leaf 066 Independent Review
+# Leaf 066 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
+- Source inventory: w2000 原页扫描；连续无对白漫画；数字 6 / 7、五处完整或部分可见的美元吊坠、一处 TEL 和三处 TELEPHONE。
+- Translation coverage: 保留五次美元符号及电话标牌全部重复，不以出现次数的概述替代逐项译文；下半部局部放大核对。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 逐栏核对原文和可读图中文字，未用内容概述代替正文。
+- 保留五次美元符号及电话标牌全部重复，不以出现次数的概述替代逐项译文；下半部局部放大核对。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
+- 本记录为同一执行者的纠错复核，不是新增独立审校；整本重审尚未结束。

@@ -25,7 +25,8 @@ And The Meek Shall Inherit The Whole Earth... |
 
 ## Context Notes
 
-- 2727 × 4165 高清扫描已核验。封底有寄件地址、二类邮件许可提示和一句黑体结语。
+- 本轮扫描清单：封底的寄件机构、558 Santa Cruz Avenue、Menlo Park 94025、二类邮件／许可待批／地点三行，以及完整结语。
+- 对照原始高清扫描核对正文；人名与邮寄地址保留历史专名，不用总结代替原文。
 
 ## Glossary Updates
 
@@ -33,7 +34,7 @@ And The Meek Shall Inherit The Whole Earth... |
 
 ## Final Translation
 
-《全球概览》（WHOLE EARTH CATALOG）
+《全球概览目录》（WHOLE EARTH CATALOG）
 
 558 Santa Cruz Avenue
 
@@ -45,7 +46,7 @@ Menlo Park, CA 94025
 
 Menlo Park, CA
 
-温顺的人将承受整个地球……
+而温顺的人将承受整个地球……
 
 ## Omitted Bibliographic/Order Info
 
@@ -53,8 +54,10 @@ Menlo Park, CA
 
 ## OCR / Uncertainty Notes
 
-- 高清扫描已核验；地球仪图像上的普通地图地名属于底图，不作为新增编辑文字逐项转写。
+- 地球仪是蚯蚓照片内的物件，底图地名不是另设的地图说明；本轮保留原图，不把摄影背景扩写成现代地理说明。
+- 官方 OCR 证据块原样保留；本轮纠错不回写原始证据。
 
 ## Self Critique
 
-- 地址、邮件等级、许可状态和结语均完整保留，没有把封底改写为图像说明。
+- 恢复目录刊名与句首 And 的承接；核实邮件状态不是已经许可。
+- 本轮为同一执行者的逐页纠错复核，不是新增独立审校。

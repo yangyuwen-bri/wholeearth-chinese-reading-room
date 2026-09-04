@@ -26,6 +26,10 @@ record the problem here, then decide whether it is issue-local or reusable.
 | Date | Leaves | Problem | Local Fix | Promote to Template? |
 | --- | --- | --- | --- | --- |
 | 2026-09-02 | 000-131 | Initial source audit found complex mixed layouts and dense transactional back matter. | Require visual inventory and scan verification on every accepted leaf. | no |
+| 2026-09-04 | 039 | Internal Markdown headings terminated the exported translation while accepted labels and page counts still passed. | Delimit by workflow headings only; compare every saved JSON body with its full source translation and test internal-heading order. | parser fix and issue regression tests |
+| 2026-09-04 | 114-125 | An OCR-copying directory generator and generic reviews concealed missing records and address fragments. | Retire the generator without writes; inspect all six columns, preserve duplicate records and fractional addresses, test per-page record counts. | no |
+| 2026-09-04 | 082 | Faint miniature figures were mistaken for illegible writing. | Compare the same painting in color; close only after identifying the actual visual marks as buildings and seated figures. Do not invent a caption or waive genuine unreadable text. | no |
+| 2026-09-04 | 000-131 | Same-executor corrections and stale progress summaries could be mistaken for new independent acceptance. | Record page-specific evidence, keep five unresolved pages blocked, and distinguish local corrective export from published artifacts and independent review. | no |
 
 ## Prompt Change Log
 

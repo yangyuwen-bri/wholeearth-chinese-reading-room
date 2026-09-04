@@ -1,4 +1,4 @@
-# Leaf 100 Independent Review
+# Leaf 100 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
+- Source inventory: 《自然免疫力够不够？》标题、Jack Soltanoff 署名资历，两栏论述与Lane/Miller引文，末句跨页。
+- Translation coverage: 修正 D.C. 资历，不把作者称作医学博士；恢复 apparently 的不确定语气和预防治疗术语。历史反疫苗观点不作现代医学建议。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 逐栏对照 w2000 扫描与正文，保留完整段落、引文和可读图字；未以总结替代。
+- 修正 D.C. 资历，不把作者称作医学博士；恢复 apparently 的不确定语气和预防治疗术语。历史反疫苗观点不作现代医学建议。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
+- 本记录为同一执行者的纠错复核，不是新增独立审校；整本重审尚未结束。

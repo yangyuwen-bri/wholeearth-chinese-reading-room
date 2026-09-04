@@ -31,7 +31,7 @@ SR
 
 ## Final Translation
 
-画家签名：Guindon。
+Guindon
 
 ## Omitted Bibliographic/Order Info
 
@@ -39,8 +39,8 @@ SR
 
 ## OCR / Uncertainty Notes
 
-- 高清扫描确认除签名外没有可翻译文字。
+- 本轮重看 leaf_056 全幅高分辨率扫描，唯一可读文字是左下 Guindon 署名；和平标志为图形，不增添讲解性文字。
 
 ## Self Critique
 
-- 没有用图像描述代替原文；仅保留扫描中确有的署名。
+- 删除原文没有的“画家签名”标签，仅保留原署名；没有用图像描述代替原文。本次为同一执行者扫描核对，不是新增独立复核。

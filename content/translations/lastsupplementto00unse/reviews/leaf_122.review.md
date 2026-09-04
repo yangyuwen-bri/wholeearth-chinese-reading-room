@@ -1,4 +1,4 @@
-# Leaf 122 Independent Review
+# Leaf 122 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐条保留并抽查密集订户名录中的姓名、机构、街道、城市、州与邮编；未压缩、未概述。
-- Permitted omissions: 无。
+- Source inventory: 六栏 238 条记录（42、38、38、41、39、40），从得克萨斯到加利福尼亚的邮寄地址及州标题。
+- Translation coverage: 补回 Tom Lauverman 等姓名，核实 828½、4619½、1906½、4322½、11651¾、11219¾ 门牌；翻译机构、助理教授和邮局留交等说明。
+- Permitted omissions: 无正文省略。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 已对照本页高清扫描核对，不以旧 accepted 标签或 OCR 文件完整度代替源文审查。
+- 保留原刊 Carute、Jackwon、New Braunsfels、Astin、Cedarege、Tuczon、Carwford、Padcliffe、Charels 和 Fied Ler 拼写；不以现代地址代改历史资料。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 名录原刊存在个别老式缩写与破损字形；阅读正文中无未决占位符。
+- 本记录为同一执行者的纠错复核，不是新增独立审校；整本待核项以 status.jsonl 与 qa_report.md 的当前清单为准。
