@@ -76,6 +76,47 @@ class MarchReaderTests(unittest.TestCase):
         self.assertIn("大部分时间", body)
         self.assertIn("上课前", body)
 
+    def test_front_pages_retain_restored_source_units(self):
+        required = {
+            0: ("释放博比", "地上倒下的瓶身", "Southpaw"),
+            2: ("梦结束了",),
+            5: ("贝蒂·克罗克", "玛姬的农场", "Bob Hunter", "Robert Service", "Jerry Garcia"),
+            6: ("让我惊讶的并不是奇迹本身", "二十五美分", "大麻脂", "只是来打个招呼"),
+            7: ("口述予", "Stewart Brand Name", "两则寓言", "狗拉具"),
+            8: ("剑桥大学生殖生理学教授", "制止犯罪教科书", "家长们，有烟就要查", "燃烧的蜡烛", "Dick Tracy"),
+            9: ("Planetary People", "Ed Rosenfeld", "BARNES"),
+            10: ("心理科学在消极方面", "精神病理学", "Rumi the Persian"),
+            12: ("三吨粪肥", "吞下蜜蜂", "免费讲座", "Prof. Batty", "血浆养老金"),
+            13: ("笨鸟", "宇宙之书", "不怎么好笑", "灌木"),
+        }
+        for leaf, phrases in required.items():
+            body = final_translation((march.LEAF_DIR / f"leaf_{leaf:03d}.md").read_text(), leaf)
+            for phrase in phrases:
+                with self.subTest(leaf=leaf, phrase=phrase):
+                    self.assertIn(phrase, body)
+
+    def test_leaf_005_poems_and_leaf_012_cartoon_keep_boundaries(self):
+        body = final_translation((march.LEAF_DIR / "leaf_005.md").read_text(), 5)
+        self.assertEqual(body.count("我还曾<br>"), 4)
+        self.assertGreaterEqual(markdown_to_html(body).count("<br>"), 34)
+        self.assertLess(body.index("Bob Hunter"), body.index("**指针**"))
+        self.assertLess(body.index("Robert Service"), body.index("Jerry Garcia"))
+        body = final_translation((march.LEAF_DIR / "leaf_012.md").read_text(), 12)
+        self.assertLess(body.index("踢人屁股的滑稽鬼屋"), body.index("**漫画**"))
+        self.assertLess(body.index("**漫画**"), body.index("等他们回来时"))
+        self.assertNotIn("等离子养老金", body)
+
+    def test_reopened_small_print_has_visible_notices_and_blocks_release(self):
+        rows = march.load_rows(allow_pending_review=True)
+        payload = march.build_payload(rows)
+        errors = march.validate_issue()
+        for leaf in (8, 11):
+            with self.subTest(leaf=leaf):
+                self.assertEqual(rows[leaf]["status"], "needs_highres_scan")
+                section = next(s for c in payload["chapters"] for s in c["sections"] if s["leaf"] == leaf)
+                self.assertIn("尚不完整", section["review_notice"])
+                self.assertTrue(any(f"{leaf:03d}" in error for error in errors))
+
     def test_reader_uses_established_name(self):
         template = (READER / "index.html").read_text()
         self.assertNotIn("中文精读室", template)

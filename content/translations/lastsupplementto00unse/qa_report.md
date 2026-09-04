@@ -12,9 +12,9 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
 | Check | Current evidence |
 | --- | --- |
 | Translation and review files | 132 of each, leaves 000–131 |
-| Recorded translation status | 131 accepted records (mostly historical); leaf 035 downgraded to needs_highres_scan |
+| Recorded translation status | 129 accepted records (mostly historical); leaves 008, 011 and 035 downgraded to needs_highres_scan |
 | Reader export coverage | All 132 rendered page bodies checked against explicitly delimited Final Translation sections |
-| Fresh source-to-translation audit in this correction | Leaves 034, 036, 037, 038 and 039 corrected; leaf 035 inspected but unresolved; the other 126 pages have not been re-audited in this correction |
+| Fresh source-to-translation audit in this correction | 17 pages corrected: 000–007, 009–010, 012–013, 034, 036–039; 008, 011 and 035 inspected but unresolved; the other 112 pages have not been re-audited in this correction |
 | Overall fidelity re-audit | In progress; do not describe it as completed independent review |
 
 ## Completed Correction
@@ -57,10 +57,31 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
 - These are executor corrections with page-specific scan inventories, not a new
   independent all-book acceptance. Leaf 035 remains unresolved.
 
-## Reproducible Gates
+## Front-of-Book Source Audit — 2026-09-04
+
+- Rechecked leaves 000–013 against local high-resolution scans. Leaf 001's dedication
+  required no translation change, but its review now records the actual inventory.
+- Restored the cover's release slogan (not a byline), second beer label, article titles
+  and authors on leaves 002/009, and the Barnes illustration credit.
+- Replaced substantial omissions and column mixing in leaves 004–008: the complete
+  Bible essay sequence, poems, lyrics and credits; the accident narrative's negation;
+  three missing opening paragraphs and all Crime Stoppers labels on leaf 008.
+- Restored the full Maslow quotation on leaf 010 and separated leaf 012's cartoon
+  from Deboree's speech. Recovered its opening paragraph, three signs and nameplate.
+- Corrected leaf 013's cosmic/comic confusion, inserted very, untranslated Dumb Bird
+  bubble, and magic-cookie bush. Explicit line breaks retain poems and handwritten text.
+- Leaf 008's handwritten illustration signature and leaf 011's two-line tiny road sign
+  remain unresolved. Their prior acceptance is withdrawn; each has a visible reader notice.
+- All 14 reviews are source-specific executor corrections, not an independent review.
+- Verification: 19 regression tests pass; the saved 132-page payload matches all
+  workflow-delimited translations. Local desktop rendering showed the correct n5 scan
+  beside the restored poem; mobile rendering confirmed separate pending notices.
+  The strict release gate correctly fails on leaves 008, 011 and 035.
+
+## Reproducible Gates (Updated)
 
 ```sh
-# Expected to fail while leaf 035 is unresolved: full-book release stays blocked.
+# Expected to fail while leaves 008, 011 and 035 are unresolved.
 python3 content/translations/lastsupplementto00unse/tools/validate_release.py
 python3 reader-prototype/build_march_1971_last_supplement_reader_data.py
 # Explicit corrective draft only; pending pages require notices and matching reviews.
@@ -76,9 +97,9 @@ requires per-page comparison with the original scans.
 
 ## Remaining Work
 
-- Re-audit source coverage for the other 126 leaves, replacing generic review
+- Re-audit source coverage for the other 112 leaves, replacing generic review
   prose with page-specific inventories and explicit unresolved boundaries.
-- Close leaf 035's six documented gaps without guessing. Prioritize other dense calendars, handwritten labels, poems,
+- Close leaf 035's six documented gaps, leaf 008's signature and leaf 011's small sign without guessing. Prioritize other dense calendars, handwritten labels, poems,
   captions, and subscriber directories. Earlier scan-recovery claims must be
   checked, not inherited merely because a file is marked accepted.
 - Keep source fidelity, reader coverage, and public deployment verification
