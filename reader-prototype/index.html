@@ -198,7 +198,8 @@
   .scan-controls input[type=range] { flex: 1; accent-color: var(--blue); }
   .scan-meta a { color: var(--blue-deep); }
   .scan-note { font-size: 11px; line-height: 1.6; margin-top: 8px; }
-  article.chapter { margin-bottom: 56px; }
+  article.chapter { margin-bottom: 56px; scroll-margin-top: 64px; }
+  section.entry { scroll-margin-top: 64px; }
   article.chapter > h2 {
     font-size: 22px;
     border-bottom: 2px solid var(--ink);
@@ -702,20 +703,40 @@
     }
   });
 
-  const observer = new IntersectionObserver(entries => {
-    for (const entry of entries) {
-      if (!entry.isIntersecting) continue;
-      const leaf = Number(entry.target.dataset.leaf);
-      if (!Number.isNaN(leaf)) setLeaf(leaf);
-      const chapterId = entry.target.dataset.chapter || entry.target.id;
-      for (const [id, btn] of Object.entries(navButtons)) {
-        btn.classList.toggle("active", id === chapterId);
-      }
-      const heading = document.getElementById(chapterId)?.querySelector("h2");
-      if (heading) chapterLabel.textContent = heading.textContent.slice(0, 14);
+  const chapterElements = Array.from(content.querySelectorAll("article.chapter"));
+  function syncReadingPosition() {
+    const readingTop = Math.max(nav.getBoundingClientRect().bottom + 16, window.innerHeight * 0.15);
+    let chapter = chapterElements[0];
+    for (const candidate of chapterElements) {
+      if (candidate.getBoundingClientRect().top > readingTop) break;
+      chapter = candidate;
     }
-  }, { rootMargin: "-15% 0px -70% 0px" });
-  document.querySelectorAll("section.entry, article.chapter").forEach(el => observer.observe(el));
+    // A chapter's guide and contents belong to its first source page, even
+    // before that page's translated section reaches the reading line.
+    const entries = Array.from(chapter.querySelectorAll("section.entry[data-leaf]"));
+    let section = entries[0];
+    for (const candidate of entries) {
+      if (candidate.getBoundingClientRect().top > readingTop) break;
+      section = candidate;
+    }
+    setLeaf(section ? Number(section.dataset.leaf) : data.leaf_min ?? 0);
+    for (const [id, btn] of Object.entries(navButtons)) {
+      btn.classList.toggle("active", id === chapter.id);
+    }
+    chapterLabel.textContent = chapter.querySelector("h2").textContent.slice(0, 14);
+  }
+  let syncPending = false;
+  function scheduleReadingSync() {
+    if (syncPending) return;
+    syncPending = true;
+    requestAnimationFrame(() => {
+      syncPending = false;
+      syncReadingPosition();
+    });
+  }
+  window.addEventListener("scroll", scheduleReadingSync, { passive: true });
+  window.addEventListener("resize", scheduleReadingSync);
+  content.addEventListener("toggle", scheduleReadingSync, true);
 
   const toggle = document.querySelectorAll(".view-toggle button");
   toggle.forEach(btn => btn.addEventListener("click", () => {
@@ -775,6 +796,7 @@
   });
 
   setLeaf(data.leaf_min ?? 0);
+  syncReadingPosition();
 })();
 </script>
 </body>
