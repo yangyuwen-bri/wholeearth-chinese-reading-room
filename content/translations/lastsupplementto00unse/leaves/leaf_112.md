@@ -86,7 +86,7 @@ particular philosophy or religion; something: that links
 
 ## Final Translation
 
-**梦，开始了**
+## 梦，开始了
 
 威廉·赫乔茨贝格（William Hjortsberg）
 我们家后面的那条路在普莱亚-博尼塔，是哥斯达黎加加勒比海岸仅有的三英里铺有路面的公路的一部分。

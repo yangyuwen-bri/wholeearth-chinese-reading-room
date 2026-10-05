@@ -193,7 +193,7 @@ per cent drop in criminal convictions. !'
 
 ## Final Translation
 
-**警察官僚机构侵犯阿片成瘾者人权及医疗职业宪法权利、导致城市治安秩序大规模崩溃之阴谋文件**
+## 警察官僚机构侵犯阿片成瘾者人权及医疗职业宪法权利、导致城市治安秩序大规模崩溃之阴谋文件
 
 书记员艾伦·金斯伯格（Allen Ginsberg）编纂
 

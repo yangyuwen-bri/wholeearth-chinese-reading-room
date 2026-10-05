@@ -99,7 +99,7 @@ He predicts disaster. 1
 
 ## Final Translation
 
-**死亡中的效率**
+## 死亡中的效率
 
 贾尼斯·乔普林（Janis Joplin）哭唱出那份岌岌可危的激情时，就知道自己会死；如今广播正在播放它，帮助把世界变成让穆罕默德·拉姆·格雷维（Muhammad Ram Gravy）能够安然生活的地方。
 

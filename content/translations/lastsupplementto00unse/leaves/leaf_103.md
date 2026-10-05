@@ -117,7 +117,7 @@ about 200 pages for free.
 
 ## Final Translation
 
-**陶艺**
+## 陶艺
 
 乔恩·卡普兰（Jon Kaplan）著
 

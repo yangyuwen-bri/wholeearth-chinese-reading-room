@@ -249,7 +249,7 @@ plus four intern students and six
 
 ## Final Translation
 
-**各种替代方案**
+## 各种替代方案
 ——Robert Wolf
 这是关于哥伦比亚大学一场“各种替代方案”会议的报道；会议由 Jane Garmey 协调。
 

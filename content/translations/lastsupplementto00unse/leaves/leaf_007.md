@@ -95,7 +95,7 @@ If you have a mind’s eye picture of drug-crazed |
 
 ## Final Translation
 
-《金枪鱼屁连环画》（TUNA FART funnies）
+## 《金枪鱼屁连环画》（TUNA FART funnies）
 
 - 金枪鱼：“噗！”（Poot!）
 - “……所以，耶稣才是你唯一的救赎！”

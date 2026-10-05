@@ -116,7 +116,7 @@ ae
 
 ## Final Translation
 
-**七十年代的替代教育**
+## 七十年代的替代教育
 
 尼尔·波兹曼（Neil Postman）著
 

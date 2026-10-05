@@ -209,7 +209,7 @@ class MarchReaderTests(unittest.TestCase):
             complete = source.split("## Final Translation\n", 1)[1].split(
                 "\n## Omitted Bibliographic/Order Info\n", 1
             )[0].strip()
-            title, body = split_display_title(complete, section["title"])
+            title, body = march.split_page_title(complete, section["title"], leaf)
             with self.subTest(leaf=leaf):
                 self.assertEqual(section["title"], title)
                 self.assertEqual(section["html"], markdown_to_html(body))

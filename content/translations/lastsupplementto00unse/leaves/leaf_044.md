@@ -156,7 +156,7 @@ for yourself. It’s called the Public File ploy.
 
 ## Final Translation
 
-**关于广播与电视，你一直想知道的一切**  
+## 关于广播与电视，你一直想知道的一切
 **（而你友善的本地广播商绝不会告诉你……）**  
 
 洛伦佐·W·米拉姆（Lorenzo W. Milam）著<br>KTAO，加利福尼亚州洛斯加托斯（Los Gatos）

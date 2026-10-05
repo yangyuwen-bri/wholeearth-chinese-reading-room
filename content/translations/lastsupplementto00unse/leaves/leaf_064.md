@@ -119,7 +119,7 @@ It made me say “Far out!’’ for the first time.
 
 ## Final Translation
 
-**从堆肥到洗发水**
+## 从堆肥到洗发水
 
 一本即将出版、名为《城市生活》（City Life）的杂志，将探讨另类生活方式中的城市生活与群体生活。下面是创刊号中的两段摘录。如需更多信息，请联系 托尼·韦莱拉（Tony Vellela），地址：749 West End Ave., New York, N.Y. 10025。
 

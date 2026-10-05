@@ -72,7 +72,7 @@ cove Hayy * TOMOLLY
 
 ## Final Translation
 
-**打字机**
+## 打字机
 ——Lee Quarnstrom
 
 在马歇尔·麦克卢汉和电子媒介当道的今天，把打字机视作“最喜欢的工具”，也许显得不合时宜。可是，尽管电视具有即时性、视觉冲击力和仿佛能移物的力量，可靠的老打字机似乎仍有一席之地。我最喜欢的是一台 Underwood Five，已经用了几年。所有非电动的 Underwood 都很好；我过去以为老式黑色 Standard 型最好，如今却认为Five 型更耐用。

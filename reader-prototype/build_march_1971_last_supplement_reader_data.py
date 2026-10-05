@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from collections import Counter
 from pathlib import Path
@@ -79,6 +80,16 @@ CHAPTERS = [
 ]
 
 
+# These pages begin with a photo caption or a short blurb before the first
+# article heading. The heading is still the page's useful display title, but
+# the shared parser intentionally leaves headings after prose in place.
+DISPLAY_TITLE_HINTS = {
+    23: "法律作为革命工具（Law as a Revolutionary Tool）",
+    86: "警方与“奶罐”队混战——一场疯狂球赛",
+    93: "我在这里！（HERE I AM!）",
+}
+
+
 PREFACE = [
     {
         "title": "这是什么",
@@ -138,6 +149,21 @@ def printed_page(row: dict) -> int | None:
     return None
 
 
+def split_page_title(markdown: str, fallback: str, leaf: int) -> tuple[str, str]:
+    title, body = split_display_title(markdown, fallback)
+    if title != fallback:
+        return title, body
+    hint = DISPLAY_TITLE_HINTS.get(leaf)
+    if not hint:
+        return title, body
+    lines = markdown.splitlines()
+    for index, line in enumerate(lines):
+        match = re.match(r"^#{1,6}\s+(.+)$", line.strip())
+        if match and match.group(1).strip() == hint:
+            return hint, "\n".join(lines[:index] + lines[index + 1 :]).strip()
+    return title, body
+
+
 def build_payload(rows: list[dict]) -> dict:
     chapters = []
     for index, definition in enumerate(CHAPTERS, start=1):
@@ -149,7 +175,7 @@ def build_payload(rows: list[dict]) -> dict:
             raw_body = final_translation(source.read_text(), leaf)
             page = printed_page(row)
             fallback = f"原书第 {page} 页" if page is not None else f"扫描叶 {leaf:03d}"
-            title, body = split_display_title(raw_body, fallback)
+            title, body = split_page_title(raw_body, fallback, leaf)
             sections.append(
                 {
                     "title": title,
@@ -229,7 +255,7 @@ def validate_reader_payload(payload: dict) -> list[str]:
         # the shared reader parser. Rebuilding with the same buggy parser is
         # not evidence that a published page contains the full translation.
         complete = source_final_translation(source).strip()
-        title, body = split_display_title(complete, section["title"])
+        title, body = split_page_title(complete, section["title"], leaf)
         if not complete or section["title"] != title or section["html"] != markdown_to_html(body):
             errors.append(f"leaf {leaf:03d}: reader body differs from complete Final Translation")
     return errors

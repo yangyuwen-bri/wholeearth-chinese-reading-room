@@ -126,7 +126,7 @@ rte cits
 
 ## Final Translation
 
-**嗜酸乳杆菌与双歧杆菌**
+## 嗜酸乳杆菌与双歧杆菌
 
 葆拉·贝弗特（Paula Bevirt）与卡罗琳（“黑玛丽亚”）·汉娜（Carolyn [Black Maria] Hannah）著
 

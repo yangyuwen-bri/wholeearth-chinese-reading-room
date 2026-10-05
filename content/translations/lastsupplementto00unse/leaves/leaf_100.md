@@ -144,7 +144,7 @@ but the manipulation of the environment has created ser-
 
 ## Final Translation
 
-**自然免疫力够不够？**<br>
+## 自然免疫力够不够？
 杰克·索尔塔诺夫（Jack Soltanoff），D.C.（脊椎矫正学位）
 
 一段时间以来，“科学家”对自发性或人工免疫的兴趣远大于对增强自然免疫力的关注。这种人工免疫已被深入研究、改进，并且多年来一直被使用，如今已成为所有各种形式的疫苗接种和免疫的基础。<br>

@@ -254,3 +254,17 @@ requires per-page comparison with the original scans.
   OCR evidence blocks are byte-identical to HEAD. The strict release gate fails
   only on the six documented pending leaves. This is an executor audit checkpoint,
   not completed independent review and not a public deployment.
+
+## Reader Title Audit — 2026-10-05
+
+- Audited all 132 March 1971 reader sections. The initial 91 fallback titles were
+  split into real title-extraction misses and pages without a page-level title.
+- Promoted 27 source-visible article, advertisement, calendar, tool and continuation
+  titles from the translation body. Added three explicit leading-caption cases for
+  pages 23, 86 and 93, where the confirmed heading follows a photo caption or blurb.
+- The remaining 61 fallback titles are retained deliberately: they are continuation
+  pages, directory/address pages, dedication or quotation pages, bibliography/image
+  pages, or scan-only graphic pages. No title was invented for those pages.
+- Rebuilt the reader with 132 accepted sections; 34 regression tests and
+  `git diff --check` pass. The local browser reload shows promoted titles in the
+  published March 1971 payload.

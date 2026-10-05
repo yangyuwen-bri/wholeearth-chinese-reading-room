@@ -109,7 +109,7 @@ what things are and what they ought to be.”
 
 ## Final Translation
 
-食人者解放运动（续）
+## 食人者解放运动（续）
 
 明确剥夺他们这一权利的成文法。”
 斯皮格尔曼一家代表了越来越多拒绝在羞耻与恐惧中生活的美国食人者。

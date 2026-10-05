@@ -92,7 +92,7 @@ from both sides. We'll make out. . .
 
 ## Final Translation
 
-**我箱中的更多工具**
+## 我箱中的更多工具
 
 ### 披头士
 

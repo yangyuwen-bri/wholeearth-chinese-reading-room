@@ -74,7 +74,7 @@ our sins. in the Ultimate Junkyard.
 
 ## Final Translation
 
-**林德·沃德（Lynd Ward）**
+## 林德·沃德（Lynd Ward）
 
 林德·沃德是20 年代的一位艺术家，创作过一些完全以木刻组成的小说，其效果不同于任何其他小说作品。这里四页木刻选自《上帝之人》（God’s Man）。
 

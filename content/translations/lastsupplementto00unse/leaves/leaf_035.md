@@ -127,7 +127,7 @@ For complete almanac send $.50 to Atlantis Almanac, Marcola, Oregon. 3 4
 
 ## Final Translation
 
-**《亚特兰蒂斯年历》**
+## 《亚特兰蒂斯年历》
 
 轻轻地。回到大地。新闻！！
 

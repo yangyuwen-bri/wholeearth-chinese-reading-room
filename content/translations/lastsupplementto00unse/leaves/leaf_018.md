@@ -77,7 +77,7 @@ a we PIRATE EDITIONS, 640 Broadway, New York, N.Y. 10012
 
 ## Final Translation
 
-**《偷这本书》**
+## 《偷这本书》
 
 阿比·霍夫曼（Abbie Hoffman），2 美元
 
