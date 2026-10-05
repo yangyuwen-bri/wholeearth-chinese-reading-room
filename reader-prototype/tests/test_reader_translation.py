@@ -47,7 +47,7 @@ class MarchReaderTests(unittest.TestCase):
     def test_minor_exception_cannot_hide_notice_or_waive_calendar_prose(self):
         rows = march.load_rows(allow_pending_review=True)
         rows[62]["reader_notice"] = ""
-        rows[35]["source_exception"] = "Unapproved prose waiver"
+        rows[34]["source_exception"] = "Unapproved prose waiver"
         original_read = Path.read_text
         def read_text(path, *args, **kwargs):
             if path == march.STATUS_PATH:
@@ -56,19 +56,19 @@ class MarchReaderTests(unittest.TestCase):
         with patch.object(Path, "read_text", read_text):
             errors = march.validate_issue()
         self.assertIn("leaf 062: source exception requires accepted status and reader notice", errors)
-        self.assertIn("leaf 035: no authorized minor source exception", errors)
+        self.assertIn("leaf 034: no authorized minor source exception", errors)
 
     def test_hazlitt_quote_keeps_predicate(self):
         body = final_translation((march.LEAF_DIR / "leaf_062.md").read_text(), 62)
         self.assertIn("差异所触动", body)
 
-    def test_current_preface_matches_pending_leaves(self):
-        rows = march.load_rows(allow_pending_review=True)
+    def test_current_preface_matches_authorized_exception_count(self):
+        rows = march.load_rows()
         notice = next(s["html"] for s in march.PREFACE if s["title"] == "校订说明")
-        pending = [row for row in rows if row["status"] != "accepted"]
-        self.assertIn(f"{len(rows) - len(pending)} 页", notice)
-        self.assertIn(f"{len(pending)} 页仍待补证", notice)
-        self.assertIn("、".join(f'{row["leaf"]:03d}' for row in pending), notice)
+        exceptions = [row for row in rows if row.get("source_exception")]
+        self.assertIn(f"{len(rows)} 页可供阅读", notice)
+        self.assertIn(f"{len(exceptions)} 页按用户授权", notice)
+        self.assertIn("第 34 页", notice)
         self.assertIn("不是另一位审校者的独立验收", notice)
 
     def test_kesey_translation_is_consistent_in_last_pages(self):
@@ -279,24 +279,25 @@ class MarchReaderTests(unittest.TestCase):
         self.assertLess(bodies[21].index("**罗宾：**"), bodies[21].index("## 蓝幽灵"))
         self.assertLess(bodies[21].index("## 蓝幽灵"), bodies[21].index("## 来自气象局"))
 
-    def test_reopened_small_print_has_visible_notices_and_blocks_release(self):
+    def test_authorized_source_exceptions_have_visible_notices(self):
         rows = march.load_rows(allow_pending_review=True)
         payload = march.build_payload(rows)
         errors = march.validate_issue()
         for leaf in (35,):
             with self.subTest(leaf=leaf):
-                self.assertEqual(rows[leaf]["status"], "needs_highres_scan")
+                self.assertEqual(rows[leaf]["status"], "accepted")
                 section = next(s for c in payload["chapters"] for s in c["sections"] if s["leaf"] == leaf)
-                self.assertIn("尚不完整", section["review_notice"])
-                self.assertTrue(any(f"{leaf:03d}" in error for error in errors))
+                self.assertIn("用户授权", section["review_notice"])
+                self.assertIn("不作猜补", section["review_notice"])
+                self.assertFalse(any(f"leaf {leaf:03d}:" in error for error in errors))
         for leaf in (11, 62, 84, 86):
             with self.subTest(authorized_minor_exception=leaf):
                 self.assertEqual(rows[leaf]["status"], "accepted")
                 self.assertIn("用户允许", rows[leaf]["source_exception"])
                 self.assertIn("不作猜补", rows[leaf]["reader_notice"])
                 self.assertFalse(any(f"leaf {leaf:03d}:" in error for error in errors))
-        self.assertNotIn("source_exception", rows[35])
-        self.assertEqual(len(errors), 1)
+        self.assertIn("source_exception", rows[35])
+        self.assertEqual(len(errors), 0)
         # The matching color painting resolves leaf 082's suspected inscription
         # as architecture and seated figures, not omitted source text.
         self.assertEqual(rows[82]["status"], "accepted")
@@ -345,25 +346,25 @@ class MarchReaderTests(unittest.TestCase):
         self.assertNotIn("中文精读室", template)
         self.assertIn('document.title = (data.display_title || data.title) + " · 中文阅读室"', template)
 
-    def test_complete_release_stays_blocked_by_leaf_035(self):
-        with self.assertRaisesRegex(ValueError, "all leaves to be accepted"):
-            march.load_rows()
-        self.assertTrue(any("035" in error for error in march.validate_issue()))
-        self.assertEqual(march.validate_issue(allow_pending_review=True), [])
+    def test_complete_release_allows_authorized_leaf_035(self):
+        rows = march.load_rows()
+        self.assertEqual(rows[35]["status"], "accepted")
+        self.assertIn("source_exception", rows[35])
+        self.assertEqual(march.validate_issue(), [])
 
-    def test_pending_page_requires_matching_visible_notice(self):
-        rows = march.load_rows(allow_pending_review=True)
-        self.assertEqual(rows[35]["status"], "needs_highres_scan")
+    def test_authorized_page_requires_matching_visible_notice(self):
+        rows = march.load_rows()
+        self.assertEqual(rows[35]["status"], "accepted")
         payload = march.build_payload(rows)
         section = next(s for c in payload["chapters"] for s in c["sections"] if s["leaf"] == 35)
-        self.assertIn("尚不完整", section["review_notice"])
+        self.assertIn("次要的年历插页", section["review_notice"])
         self.assertEqual(march.validate_reader_payload(payload), [])
         section["review_notice"] = ""
         self.assertTrue(any("035" in error for error in march.validate_reader_payload(payload)))
         rows[35].pop("reader_notice")
         with patch.object(Path, "read_text", return_value="\n".join(json.dumps(row) for row in rows)):
-            with self.assertRaisesRegex(ValueError, "requires a reader notice"):
-                march.load_rows(allow_pending_review=True)
+            errors = march.validate_issue()
+        self.assertIn("leaf 035: source exception requires accepted status and reader notice", errors)
         template = (READER / "index.html").read_text()
         self.assertIn("escapeHtml(sec.review_notice)", template)
         self.assertIn("编者校订说明（非原文）", template)

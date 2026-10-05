@@ -12,10 +12,16 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
 | Check | Current evidence |
 | --- | --- |
 | Translation and review files | 132 of each, leaves 000–131 |
-| Recorded translation status | 131 accepted records: 127 closed with source evidence and 4 accepted with user-authorized, visibly disclosed minor source gaps (011/062/084/086). Only 035 remains needs_highres_scan |
-| Reader export coverage | Rebuilt after minor-gap scope decision: 132 sections, 34 regression tests pass, complete workflow-delimited bodies match saved JSON; local corrective draft, not deployed |
-| Fresh source-to-translation audit in this correction | All 132 leaves inspected from cover to cover. The four minor gaps were not deciphered; user permission changed their acceptance treatment, not the source evidence |
-| Overall fidelity re-audit | Cover-to-cover executor audit performed; substantive calendar prose on 035 prevents complete-book acceptance. This is not a new independent review |
+| Recorded translation status | 132 accepted records: 127 closed with source evidence and 5 accepted with user-authorized, visibly disclosed source gaps (011/035/062/084/086) |
+| Reader export coverage | Rebuilt after the page-exception decision: 132 sections, 34 regression tests pass, complete workflow-delimited bodies match saved JSON |
+| Fresh source-to-translation audit in this correction | All 132 leaves inspected from cover to cover. The five authorized gaps were not deciphered; user permission changed their acceptance treatment, not the source evidence |
+| Overall fidelity re-audit | Cover-to-cover executor audit performed; 035 remains an explicitly disclosed user-authorized page exception. This is not a new independent review |
+
+## User-Authorized Page Exception — 2026-10-05
+
+- The user approved treating leaf 035 (printed page 34, the Atlantis Almanac calendar insert) as a secondary page exception so it no longer blocks the reading-room release.
+- The readable calendar, astronomical records, gardening list, song, and verified corrections remain in the translation. The Earth prose block, the longer May 6 white-text passage, and a small set of memorial lines, planetary glyphs, and handwriting remain omitted because the scans do not support reliable character-level transcription.
+- `status.jsonl` records leaf 035 as `accepted` with both `source_exception` and `reader_notice`. This is a disclosed omission decision, not evidence that the omitted text was recovered or independently reviewed.
 
 The table above is the current checkpoint. Earlier sections below retain the audit history; their intermediate counts and pending lists are not current totals.
 
@@ -126,11 +132,9 @@ The table above is the current checkpoint. Earlier sections below retain the aud
 ## Reproducible Gates
 
 ```sh
-# Expected to fail while leaves 011, 035, 062, 084 and 086 are unresolved.
+# Strict release validation now passes with five user-authorized, visibly disclosed source exceptions.
 python3 content/translations/lastsupplementto00unse/tools/validate_release.py
 python3 reader-prototype/build_march_1971_last_supplement_reader_data.py
-# Explicit corrective draft only; pending pages require notices and matching reviews.
-python3 reader-prototype/build_march_1971_last_supplement_reader_data.py --allow-pending-review
 python3 -m unittest discover -s reader-prototype/tests -v
 ```
 
@@ -142,9 +146,10 @@ requires per-page comparison with the original scans.
 
 ## Remaining Work
 
-- Leaf 035 remains incomplete: six documented source-gap groups include two
-  prose passages, not only signatures or prices. Do not silently apply the
-  minor-detail exception to this substantive text.
+- Leaf 035 remains a disclosed page-level exception: six documented source-gap
+  groups include two prose passages, not only signatures or prices. The user
+  explicitly authorized this exception, so it no longer blocks the release;
+  the reader notice keeps the omission visible.
 - The user's 2026-09-04 reply explicitly allowed unrecoverable minor details
   after checking the original. Accordingly 011's small sign, 062's signature,
   084's cartoon price and 086's damaged name no longer block page acceptance.
@@ -155,8 +160,8 @@ requires per-page comparison with the original scans.
   Hazlitt quote. Restored is struck by as 所触动; this is not covered by the
   signature exception. Regression tests protect that predicate, the exception
   notices and the prohibition against silently waiving 035's prose.
-- The updated local browser renders all 132 sections, the 131-page preface,
-  all four minor-gap notices, 035's substantive-gap warning and the repaired
+- The updated local browser renders all 132 sections, the 132-page reading-room
+  preface, all five authorized-gap notices and the repaired
   Hazlitt predicate. The prior preview process returned empty HTTP responses;
   restarted this task's port-4191 server and verified JSON HTTP 200 and DOM load.
 - Leaf 008's signature is Cieciorka. Leaf 082's suspected boar inscription is
