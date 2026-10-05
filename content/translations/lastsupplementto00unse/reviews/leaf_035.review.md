@@ -25,6 +25,12 @@ needs_highres_scan
 - F：恢复被遮挡的玛雅行星名称句，并核对“赢家”旁第二个对话框、左侧动物和蛇身周边小号字。
 - 在以上缺口闭合且逐字复核前，本页必须保留待核提示，不得恢复 accepted。
 
+## Follow-up Audit — 2026-10-05
+
+- 从 Internet Archive 原始 JP2 压缩包中定点取回 `lastsupplementto00unse_0036.jp2`，解码为 2727×4165 图像。该页对应本 leaf 的印刷页 34，较旧的网页缩略扫描更适合局部核对。
+- 已逐字确认并回填两处：第二组“观测行星”首行为 “Venus rises at 12:10 am (D)”；金牛座说明末行为 “The Mayans called this planet Quizzar”。
+- F 因右侧第二个手写对话框、左侧动物及蛇身周边小号字仍未逐字确认，继续保留为未闭合项；A、B、C、D 也仍未闭合，状态继续为 `needs_highres_scan`。
+
 ## Residual Risks
 
 - JP2、独立扫描及对比度增强都没有消除低反差字的歧义；不得根据现代生日资料、历算或上下文反推原刊字样。
