@@ -1,4 +1,4 @@
-# Leaf 060 Independent Review
+# Leaf 060 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
+- Source inventory: w2000 原页扫描；Ed Brown 自述续篇、1966 年 5 月和 22 岁、三个夏天两个冬天、About Tassajara 双栏全文与 Carmel Valley 93924；十项讽刺清单及第九项英语押尾音词串。
+- Translation coverage: 恢复 059 的跨页时间衔接；核对五十至六十名学生、5–9 月、一千条面包及全部词串，未把十项条目改为总结。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 逐栏核对原文和可读图中文字，未用内容概述代替正文。
+- 恢复 059 的跨页时间衔接；核对五十至六十名学生、5–9 月、一千条面包及全部词串，未把十项条目改为总结。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
+- 本记录为同一执行者的纠错复核，不是新增独立审校；整本重审尚未结束。

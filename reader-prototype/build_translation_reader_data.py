@@ -329,6 +329,13 @@ def markdown_to_html(markdown: str) -> str:
             close_lists()
             index += 1
             continue
+        if stripped == "---":
+            flush_paragraph()
+            flush_quote()
+            close_lists()
+            out.append("<hr>")
+            index += 1
+            continue
         heading = re.match(r"^(#{1,6})\s+(.+)$", stripped)
         if heading:
             flush_paragraph()

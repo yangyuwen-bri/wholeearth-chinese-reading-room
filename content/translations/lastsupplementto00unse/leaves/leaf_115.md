@@ -698,7 +698,7 @@ Kennebunk, ME 04043 iy
 
 ## Context Notes
 
-- 高密度名录页；姓名和邮寄地址按扫描原样保留，说明性文字译成中文。
+- 本轮扫描清单：THE MAILING LIST 标题、SB 全部编辑说明（含1969年引文、18个月与2000人/七分之一）；六栏 203 条记录（38、40、23、24、38、40）。
 
 ## Glossary Updates
 
@@ -706,259 +706,7 @@ Kennebunk, ME 04043 iy
 
 ## Final Translation
 
-### 邮寄名单——姓名与地址按扫描原样保留
-
-```text
-_ Puerto Rico
-Brown Associates, Inc.
-Box 1046
-- Guayama, PR 00654
-Robert J. Fyffe, Jr.
-Calle 1, L-66
-Vista Alegre
-Ponce, PR 00731
-Dr. J. Del Castillo
-University of Puerto Rico
-School of Medicine
-San Juan, PR 00905
-Thomas S. Marvel
-8 Mexico Street
-Hato Rey, PR 00917
-Virgin Islands
-John Vai
-Box 3125
-St. Thomas, V! 00801
-Marie O'Keefe
-Box 111
-Cruz Bay
-St. John, V1 00830
-Roger March
-Box 515"
-Fredericksted
-St. Croix, VI 00840
-Susan L. Courtney
-Box 18
-Kingshill
-St. Croix, Vi 00850
-Massachusetts
-Trilby Coolidge
-c/o Hampshire College
-Amherst, MA 01002
-Serials Department
-Hampshire College Library
-Amherst, MA 01002
-Kenneth R. Hoffman
-24 Berkshire Terrace
-Amherst, MA 01002
-Edwin Sapp G
-Box 689 *
-Amherst, MA 01002
-Len Sole
-92 Rolling Green Apts.
-Amherst, MA 01002
-David R, Miner, Director
-Wildwood Nature Center
-Barre, MA 01005
-Elias & Christina Velonis
-RD 1
-Chester, MA 01011
-Victor 1, Covaieski
-Nash Hill Road
-RFD 1
-Haydenville, MA 01039.
-Fred Stocking
-Box 309
-North Amherst, MA 01059
-David Bathelder
-11 Washington Avenue
-Northampton, MA 01060
-James Aaron
-Box 68
-Shutesbury, MA 01072
-Don Hendrie
-4 Dunlap Place
-South Hadley, MA 01075
-William Ilson
-Village Hill Road
-Williamsburg, MA 01096
-Richard Warren
-Village Hill
-Williamsburg, MA 01096
-R.L. Smith
-81 Princeton Street
-Springfield, MA 01109
-David Burger
-American Inst. Econ. Research
-Great Barrington, MA 01230
-D. L. Schermerhorn
-Peru Road
-Hinsdale, MA 01235
-Clifton Lawson
-Zacharia Field Tavern
-Main Street
-Ashfield, MA 01330
-Harry Stewart
-Box 68
-Ashfield, MA 01330
-Holly A. Harris
-Warwick Road
-Orange, MA 01364
-Thomas A. Wilson, D.0.S.
-105 Main Street
-Shelbourne Falls, MA 01370
-Joseph De Rivera
-Box 308
-Brookfield, MA 01506
-Techniturf
-49 Bellevue Road
-South Berlin, MA 01549
-Thomas Roy
-8 Elmwood Street
-Worcester, MA 01602
-G. C, Harrington
-842 Edmunds Road
-Framingham Centre, MA 01701
-Ronald Evans
-44 Parker Street
-Acton, MA 01720
-Donald A. Littlefield
-35 Nash Road
-Acton, MA 01720
-Joan Stockebrand
-Depot Road
-Boxboro, MA 01720
-H. Alden Bunker
-204 Eliot Street
-Ashland, MA 01721
-John T. Barrows
-18 Burlington Road
-Bedford, MA 01730
-THE MAILING L
-Willis C. McDonald
-BOQ Box 1026
-Hanscom Field, MA 01730
-Allan Schmidt
-56 Coburn Hill Road
-Concord, MA 01742
-Terry F. Allen
-Merchants Welcome Service
-Clark Building
-Natick, MA 01750
-F. Michael Harris
-Box 382
-Maynard, MA 01754
-J.W. Strickler
-Box 108
-Maynard, MA 01754
-Michael Wells
-11 Linden Street
-Maynard, MA 01754
-Ted & Harriet Bronsnick
-18 Lovers’ Lane
-Southboro, MA 01772
-Susan Franklin
-Stonehedge Road
-Lincoln, MA 01773
-Mrs. R. M. Kanter
-Juniper Ridge Road
-Lincoln, MA 01773
-Woodcraft Supply Corp.
-313 Montvale Avenue
-Woburn, MA 01801
-Mike Hartrich
-6 Johnson Road
-Andover, MA 01810
-Gilbert Roth
-116 Osgood Street
-Andover, MA 01810
-Or. & Mrs. Raymond Baggs
-25 Ashcroft Terrace
-Groveland, MA 01834
-Andrew Bucchiere
-254 Lincoln Avenue
-Saugus, MA 01906
-George W. Dahlberg
-* 255 Lincoln Avenue
-Saugus, MA 01906
-Dr. & Mrs. Howard L. Fields
-15 Gardner Street
-Beverly, MA 01915
-Thomas J. Manning, Jr.
-7 Cornell Road
-Beverly, Ma 01915
-Margaret W. Nelson
-Sunrise Road
-Boxford, MA 01921
-Mrs. Donald Monell
-Fort Hill Avenue
-Gloucester, MA 01930
-Peter Parsons
-38 Fort Square
-Gloucester, MA 01930
-Wheeler Piano Service
-215 Granita Street
-Pigeon Cove, MA 01967
-Randolph Brown
-222 High Street
-Westwood, MA 02090
-Charles & Alice Carmel
-222 Concord Avenue Apt 2
-Cambridge, MA 02109
-Peter A. Rossetti Jr.
-Box 8244
-John F. Kennedy Station
-Boston, MA 02114
-Edwin P. Tiffany
-18 Pinkney Street
-Boston, MA 02114
-Hal Moorman
-416 Beacon Street
-Boston, MA 02115
-Paul L. Fishman
-20 Appleton Street
-Boston, MA 02116
-John Holt
-308 Boylston Street
-Boston, MA 02116
-Tom Roberts
-690 Massachusetts Avenue
-Boston, MA C2118
-Richard Borofsky
-88 Lambert Avenue
-Roxbury, MA 02119
-Aldous Ginsberg
-21 Beech Glen Street
-Roxbury, MA 02119
-Tom Jarrell
-Media Merchant
-44 Mascot Street
-Dorchester, MA 02124
-Alan Palder
-44 Rockwood Street
-Jamaica Plain, MA 02130
-Workshop & Things
-Children’s Museum
-The Jamaica Way
-Boston, MA 02130
-C. G. A. Murphy
-8 Kittredge Street, Apt. 3
-Roslindale, MA 02131
-Charles H. Bennett
-8 Ashford Street
-Allston, MA 02134
-Edward & Pamela Grade
-33 Adamson Street, Apt. 1
-Allston, MA 02134
-Peter D. Haines
-12 Haskell Street
-Allston, MA 02134
-Peter Himot
-79 Euston Road
-Brighton, MA 02135
-Don Beach
-240 Garden Street
-Cambridge, MA 02138
-```
+### 邮寄名单
 
 ### 《全球概览》邮寄名单（自愿公开）
 
@@ -970,7 +718,7 @@ Cambridge, MA 02138
 
 如果到那时，还没有人和想法能把这件事做得比我们更好，那我们就失败了：我们没能让别的东西取代自己。不过更可能的是，那时我们已经过时、成了障碍，我们的离开会引来松一口气的叹息和一场聚会。
 
-Menlo Park 的 Truck Store 大概会继续运作，作为邮购服务，也作为已经“死去”的《概览》工作人员从事更古怪活动的基地。
+门洛帕克（Menlo Park）的卡车商店（Truck Store） 大概会继续运作，作为邮购服务，也作为已经“死去”的《概览》工作人员从事更古怪活动的基地。
 
 有人把我们称为“印刷品上的社群”。我想这话是有所指的——或者等我们把这座城烧掉时，它就会显出意义。如果订户愿意，也许我们 1971 年的最后一期《增刊》可以就是我们的邮寄名单。
 
@@ -982,397 +730,855 @@ Menlo Park 的 Truck Store 大概会继续运作，作为邮购服务，也作�
 
 ——SB
 
+### 波多黎各（Puerto Rico）
 
-```text
-Daniel S. Brody
-85 Trowbridge Street
+Brown Associates, Inc.<br>
+Box 1046<br>
+Guayama, PR 00654
+
+Robert J. Fyffe, Jr.<br>
+Calle 1, L-66<br>
+Vista Alegre<br>
+Ponce, PR 00731
+
+Dr. J. Del Castillo<br>
+波多黎各大学（University of Puerto Rico）<br>
+医学院（School of Medicine）<br>
+San Juan, PR 00905
+
+Thomas S. Marvel<br>
+8 Mexico Street<br>
+Hato Rey, PR 00917
+
+### 维尔京群岛（Virgin Islands）
+
+John Vai<br>
+Box 3125<br>
+St. Thomas, VI 00801
+
+Marie O'Keefe<br>
+Box 111<br>
+Cruz Bay<br>
+St. John, VI 00830
+
+Roger March<br>
+Box 515<br>
+Fredericksted<br>
+St. Croix, VI 00840
+
+Susan L. Courtney<br>
+Box 18<br>
+Kingshill<br>
+St. Croix, VI 00850
+
+### 马萨诸塞州（Massachusetts）
+
+Trilby Coolidge<br>
+c/o Hampshire College<br>
+Amherst, MA 01002
+
+连续出版物部（Serials Department）<br>
+汉普郡学院图书馆（Hampshire College Library）<br>
+Amherst, MA 01002
+
+Kenneth R. Hoffman<br>
+24 Berkshire Terrace<br>
+Amherst, MA 01002
+
+Edwin Sapp<br>
+Box 689<br>
+Amherst, MA 01002
+
+Len Sole<br>
+92 Rolling Green Apts.<br>
+Amherst, MA 01002
+
+David R. Miner, Director<br>
+怀尔德伍德自然中心（Wildwood Nature Center）<br>
+Barre, MA 01005
+
+Elias & Christina Velonis<br>
+RD 1<br>
+Chester, MA 01011
+
+Victor I. Covaleski<br>
+Nash Hill Road<br>
+RFD 1<br>
+Haydenville, MA 01039
+
+Fred Stocking<br>
+Box 309<br>
+North Amherst, MA 01059
+
+David Bathelder<br>
+11 Washington Avenue<br>
+Northampton, MA 01060
+
+James Aaron<br>
+Box 68<br>
+Shutesbury, MA 01072
+
+Don Hendrie<br>
+4 Dunlap Place<br>
+South Hadley, MA 01075
+
+William Ilson<br>
+Village Hill Road<br>
+Williamsburg, MA 01096
+
+Richard Warren<br>
+Village Hill<br>
+Williamsburg, MA 01096
+
+R.L. Smith<br>
+81 Princeton Street<br>
+Springfield, MA 01109
+
+David Burger<br>
+美国经济研究所（American Inst. Econ. Research）<br>
+Great Barrington, MA 01230
+
+D. L. Schermerhorn<br>
+Peru Road<br>
+Hinsdale, MA 01235
+
+Clifton Lawson<br>
+Zacharia Field Tavern<br>
+Main Street<br>
+Ashfield, MA 01330
+
+Harry Stewart<br>
+Box 68<br>
+Ashfield, MA 01330
+
+Holly A. Harris<br>
+Warwick Road<br>
+Orange, MA 01364
+
+Thomas A. Wilson, D.D.S.<br>
+105 Main Street<br>
+Shelbourne Falls, MA 01370
+
+Joseph De Rivera<br>
+Box 308<br>
+Brookfield, MA 01506
+
+Techniturf<br>
+49 Bellevue Road<br>
+South Berlin, MA 01549
+
+Thomas Roy<br>
+8 Elmwood Street<br>
+Worcester, MA 01602
+
+G. C. Harrington<br>
+842 Edmunds Road<br>
+Framingham Centre, MA 01701
+
+Ronald Evans<br>
+44 Parker Street<br>
+Acton, MA 01720
+
+Donald A. Littlefield<br>
+35 Nash Road<br>
+Acton, MA 01720
+
+Joan Stockebrand<br>
+Depot Road<br>
+Boxboro, MA 01720
+
+H. Alden Bunker<br>
+204 Eliot Street<br>
+Ashland, MA 01721
+
+John T. Barrows<br>
+18 Burlington Road<br>
+Bedford, MA 01730
+
+Willis C. McDonald<br>
+BOQ Box 1026<br>
+Hanscom Field, MA 01730
+
+Allan Schmidt<br>
+56 Coburn Hill Road<br>
+Concord, MA 01742
+
+Terry F. Allen<br>
+Merchants Welcome Service<br>
+Clark Building<br>
+Natick, MA 01750
+
+F. Michael Harris<br>
+Box 382<br>
+Maynard, MA 01754
+
+J.W. Strickler<br>
+Box 108<br>
+Maynard, MA 01754
+
+Michael Wells<br>
+11 Linden Street<br>
+Maynard, MA 01754
+
+Ted & Harriet Bronsnick<br>
+18 Lovers’ Lane<br>
+Southboro, MA 01772
+
+Susan Franklin<br>
+Stonehedge Road<br>
+Lincoln, MA 01773
+
+Mrs. R. M. Kanter<br>
+Juniper Ridge Road<br>
+Lincoln, MA 01773
+
+Woodcraft Supply Corp.<br>
+313 Montvale Avenue<br>
+Woburn, MA 01801
+
+Mike Hartrich<br>
+6 Johnson Road<br>
+Andover, MA 01810
+
+Gilbert Roth<br>
+116 Osgood Street<br>
+Andover, MA 01810
+
+Dr. & Mrs. Raymond Baggs<br>
+25 Ashcroft Terrace<br>
+Groveland, MA 01834
+
+Andrew Bucchiere<br>
+254 Lincoln Avenue<br>
+Saugus, MA 01906
+
+George W. Dahlberg<br>
+255 Lincoln Avenue<br>
+Saugus, MA 01906
+
+Dr. & Mrs. Howard L. Fields<br>
+15 Gardner Street<br>
+Beverly, MA 01915
+
+Thomas J. Manning, Jr.<br>
+7 Cornell Road<br>
+Beverly, Ma 01915
+
+Margaret W. Nelson<br>
+Sunrise Road<br>
+Boxford, MA 01921
+
+Mrs. Donald Monell<br>
+Fort Hill Avenue<br>
+Gloucester, MA 01930
+
+Peter Parsons<br>
+38 Fort Square<br>
+Gloucester, MA 01930
+
+Wheeler Piano Service<br>
+215 Granita Street<br>
+Pigeon Cove, MA 01967
+
+Randolph Brown<br>
+222 High Street<br>
+Westwood, MA 02090
+
+Charles & Alice Carmel<br>
+222 Concord Avenue Apt 2<br>
+Cambridge, MA 02109
+
+Peter A. Rossetti Jr.<br>
+Box 8244<br>
+John F. Kennedy Station<br>
+Boston, MA 02114
+
+Edwin P. Tiffany<br>
+18 Pinkney Street<br>
+Boston, MA 02114
+
+Hal Moorman<br>
+416 Beacon Street<br>
+Boston, MA 02115
+
+Paul L. Fishman<br>
+20 Appleton Street<br>
+Boston, MA 02116
+
+John Holt<br>
+308 Boylston Street<br>
+Boston, MA 02116
+
+Tom Roberts<br>
+690 Massachusetts Avenue<br>
+Boston, MA 02118
+
+Richard Borofsky<br>
+88 Lambert Avenue<br>
+Roxbury, MA 02119
+
+Aldous Ginsberg<br>
+21 Beech Glen Street<br>
+Roxbury, MA 02119
+
+Tom Jarrell<br>
+Media Merchant<br>
+44 Mascot Street<br>
+Dorchester, MA 02124
+
+Alan Palder<br>
+44 Rockwood Street<br>
+Jamaica Plain, MA 02130
+
+Workshop & Things<br>
+儿童博物馆（Children’s Museum）<br>
+The Jamaica Way<br>
+Boston, MA 02130
+
+C. G. A. Murphy<br>
+8 Kittredge Street, Apt. 3<br>
+Roslindale, MA 02131
+
+Charles H. Bennett<br>
+8 Ashford Street<br>
+Allston, MA 02134
+
+Edward & Pamela Grade<br>
+33 Adamson Street, Apt. 1<br>
+Allston, MA 02134
+
+Peter D. Haines<br>
+12 Haskell Street<br>
+Allston, MA 02134
+
+Peter Himot<br>
+79 Euston Road<br>
+Brighton, MA 02135
+
+Don Beach<br>
+240 Garden Street<br>
 Cambridge, MA 02138
-Ellen Brody
-48 Irving Street
-Lawrence Z. Brandstein
-Lenox-Richmond Road
+
+Daniel S. Brody<br>
+85 Trowbridge Street<br>
+Cambridge, MA 02138
+
+Ellen Brody<br>
+48 Irving Street<br>
+Cambridge, MA 02138
+
+Geoffrey Dutton<br>
+6 Ashton Place<br>
+Cambridge, MA 02138
+
+W.P. Hull<br>
+40 Reservoir Street<br>
+Cambridge, MA 02138
+
+David M. Irons<br>
+Lowell House J 41<br>
+哈佛学院（Harvard College）<br>
+Cambridge, MA 02138
+
+John D. Jordan<br>
+29 Wendell Street<br>
+Cambridge, MA 02138
+
+Alexis Morgan<br>
+3 Howland Street<br>
+Cambridge, MA 02138
+
+Michael Mostoller<br>
+设计研究生院（Graduate School of Design）<br>
+哈佛大学（Harvard University）<br>
+Cambridge, MA 02138
+
+Charles Peck<br>
+45 Highland Street<br>
+Cambridge, MA 02138
+
+R.N. Pomerance<br>
+7 Rutland Street<br>
+Cambridge, MA 02138
+
+剑桥市动物园（Cambridge City Zoo）<br>
+381 Norfolk Street<br>
+Cambridge, MA 02139
+
+Marsha Chapman<br>
+538 Green Street<br>
+Cambridge, MA 02139
+
+Leland Cott<br>
+400 Broadway<br>
+Cambridge, MA 02139
+
+Mr. & Mrs. Mac du Pont<br>
+12 Maynard Place<br>
+Cambridge, MA 02139
+
+Coburn Everdell<br>
+135 Antrim Street<br>
+Cambridge, MA 02139
+
+J. Gintell<br>
+9 West Street<br>
+Cambridge, MA 02139
+
+Jonathan H. Harris<br>
+31 Lawrence Street<br>
+Cambridge, MA 02139
+
+T. Nickel<br>
+68 Putnam Avenue<br>
+Cambridge, MA 02139
+
+Carol Ann Robins, M.D.<br>
+295 Harvard Street<br>
+Cambridge, MA 02139
+
+Robert A. Schaeffer<br>
+教育研究中心（Education Research Center）<br>
+20 C-101, M.I.T.<br>
+Cambridge, MA 02139
+
+William R. Stocking<br>
+453 Franklin Street<br>
+Cambridge, MA 02139
+
+Leslie Turek<br>
+Drawer J<br>
+M.I.T. Branch P.O.<br>
+Cambridge, MA 02139
+
+R. B. Turner<br>
+95 Antrim Street, Apt. 3<br>
+Cambridge, MA 02139
+
+Lawrence Z. Brandstein<br>
+Lenox-Richmond Road<br>
 Lenox, MA 02140
-Tom Evans
-225 Walden Street, Apt. 1-H
-Cambridge, MA 02138
-Geoffrey Dutton
-6 Ashton Place
-Cambridge, MA 02138
-W. P. Hull
-40 Reservoir Street
-Cambridge, MA 02138
-David M. Irons
-Lowell House J 41
-Harvard College
-Cambridge, MA 02138
-John D. Jordan
-29 Wendell Street
-Cambridge, MA 02138
-Alexis Morgan
-3 Howland Street
-Cambridge, MA 02138
-Michael Mostoller
-Graduate School of Design
-Harvard University
-Cambridge, MA 02138
-Charles Peck
-45 Highland Street
-Cambridge, MA 02138
-R.N. Pomerance
-7 Rutland Street
-Cambridge, MA 02138
-Cambridge City Zoo
-381 Norfolk Street
-Cambridge, MA 02139
-Marsha Chapman
-538 Green Street
-Cambridge, MA 02139
-Leland Cott
-, 400 Broadway
-Cambridge, MA 02139
-Mr. & Mrs. Mac du Pont
-12 Maynard Place
-Cambridge, MA 02139
-Coburn Everdell
-135 Antrim Street
-Cambridge, MA 02139
-J. Gintell
-9 West Street
-Cambridge, MA 02139
-Jonathan H. Harris
-31 Lawrence Street
-Cambridge, MA 02139
-T. Nickel
-68 Putnam Avenue
-Cambridge, MA 02139
-Carol Ann Robins, M.D.
-295 Harvard Street
-Cambridge, MA 02139
-Robert A. Schaeffer
-Education Research Center
-20 C-101, M.I.T.
-Cambridge, MA 02139
-William R. Stocking
-453 Franklin Street
-Cambridge, MA 02139
-Leslie Turek
-Drawer J
-M.1.T. Branch P.O.
-Cambridge, MA 02139
-R. B. Turner
-95 Antrim Street, Apt. 3
-Cambridge, MA 02139
+
+Tom Evans<br>
+225 Walden Street, Apt. 1-H<br>
 Cambridge, MA 02140
-Robert R. Fenichel »
-225 Walden Street |
+
+Robert R. Fenichel<br>
+225 Walden Street<br>
 Cambridge, MA 02140
-David C, Freeman
-19 Magoun Street
+
+David C. Freeman<br>
+19 Magoun Street<br>
 Cambridge, MA 02140
-Mitchell Ryerson
-71 Washington Avenue
+
+Mitchell Ryerson<br>
+71 Washington Avenue<br>
 Cambridge, MA 02140
-Darryl Wally
-” 8 Forest Street, Apt. 3
+
+Darryl Wally<br>
+8 Forest Street, Apt. 3<br>
 Cambridge, MA 02140
-Molly & Danny Watt
-46 Avon Hill Street
+
+Molly & Danny Watt<br>
+46 Avon Hill Street<br>
 Cambridge, MA 02140
-Dugald D. Chisholm
-92 Gore Street
+
+Dugald D. Chisholm<br>
+92 Gore Street<br>
 Cambridge, MA 02141
-John Ellis
-8 Riverside Street, Apt. 34
+
+John Ellis<br>
+8 Riverside Street, Apt. 34<br>
 Watertown, MA 02142
-Harold K. Burch
-155R Summer Street, Apt. 14
+
+Harold K. Burch<br>
+155R Summer Street, Apt. 14<br>
 Somerville, MA 02143
-David & Barbara Holmstrom
-72 Line Street
+
+David & Barbara Holmstrom<br>
+72 Line Street<br>
 Somerville, MA 02143
-Natalie A. Simon
-63 Waterhouse Street
+
+Natalie A. Simon<br>
+63 Waterhouse Street<br>
 Somerville, MA 02144
-Josh Wallman
-77 Liberty Avenue
+
+Josh Wallman<br>
+77 Liberty Avenue<br>
 Somerville, MA 02144
-Donald Eastlake
-140 Pleasant Street
+
+Donald Eastlake<br>
+140 Pleasant Street<br>
 Brooklin, MA 02146
-Frank W. Farlow
-8 Bowker Street
+
+Frank W. Farlow<br>
+8 Bowker Street<br>
 Brookline, MA 02146
-Leonard Feshkens
-64 Brington Road
+
+Leonard Feshkens<br>
+64 Brington Road<br>
 Brookline, MA 02146
-Kalen Hamman
-15 Francis Street
+
+Kalen Hamman<br>
+15 Francis Street<br>
 Brookline, MA 02146
-Marjorie F. Holt
-78 St. Paul Street, Apt. 6
+
+Marjorie F. Holt<br>
+78 St. Paul Street, Apt. 6<br>
 Brookline, MA 02146
-Anne R. O’Brien
-19 Lancaster Terrace
+
+Anne R. O’Brien<br>
+19 Lancaster Terrace<br>
 Brookline, MA 02146
-Sidney Smith
-22 Lowel! Road
+
+Sidney Smith<br>
+22 Lowell Road<br>
 Brookline, MA 02146
-Mrs; W. W. Barton
-Shun Toll Road
+
+Mrs. W. W. Barton<br>
+Shun Toll Road<br>
 North Egremont, MA 02152
-Experimental College
-Tufts University
+
+实验学院（Experimental College）<br>
+塔夫茨大学（Tufts University）<br>
 Medford, MA 02155
-Vicki Piovia & Mike Scott
-37 Beechcroft Road
+
+Vicki Piovia & Mike Scott<br>
+37 Beechcroft Road<br>
 Newton, MA 02158
-Mr. & Mrs, M. P. Wynd
-145 Sargent Street
+
+Mr. & Mrs. M. P. Wynd<br>
+145 Sargent Street<br>
 Newton, MA 02158
-114
-Mr, &. Mrs. James Blout
-360 Dedham Street
+
+Mr. & Mrs. James Blout<br>
+360 Dedham Street<br>
 Newton Centre, MA 02159
-Lalor Burdick ©
-180 Dudley Road ve
+
+Lalor Burdick<br>
+180 Dudley Road<br>
 Newton Centre, MA 02159
-Herb Levy
-244 Ward Street
+
+Herb Levy<br>
+244 Ward Street<br>
 Newton, MA 02159
-Skip Ascheim
-Follow Through Project
-Education Development Center
-55 Chapel Street
+
+Skip Ascheim<br>
+后续跟进计划（Follow Through Project）<br>
+教育发展中心（Education Development Center）<br>
+55 Chapel Street<br>
 Newton, MA 02160
-Larry, Kate & Benjamin Sloss
-84 Central Avenue
+
+Larry, Kate & Benjamin Sloss<br>
+84 Central Avenue<br>
 Newtonville, MA 02160
-Dr. Gerald Leader
-Harvard Business School
-Soldiers Field Road
+
+Dr. Gerald Leader<br>
+哈佛商学院（Harvard Business School）<br>
+Soldiers Field Road<br>
 Boston, MA 02163
-Michael Loviglio
-62 Davis Avenue
+
+Michael Loviglio<br>
+62 Davis Avenue<br>
 West Newton, MA 02165
-Richard S. Palais
-70 Temple Street
+
+Richard S. Palais<br>
+70 Temple Street<br>
 West Newton, MA 02165
-Spaceforms, Inc.
-Box 112
+
+Spaceforms, Inc.<br>
+Box 112<br>
 Auburndale, MA 02166
-James E. Anderson
-Jill C. Anderson
-86 Algonquin Road
-Chestnut Hill, MA 02167 B
-Leigh Freeman
-Perry House
-William College
+
+James E. Anderson<br>
+Jill C. Anderson<br>
+86 Algonquin Road<br>
+Chestnut Hill, MA 02167
+
+Leigh Freeman<br>
+Perry House<br>
+威廉学院（William College）<br>
 Williamstown, MA 02167
-Pat A. Labine
-Stetson Court
+
+Pat A. Labine<br>
+Stetson Court<br>
 Williamstown, MA 02167
-Mary Jane Markley
-Green River Road
+
+Mary Jane Markley<br>
+Green River Road<br>
 Williamstown, MA 01267
-D. A. Feldman
-302 Arlington Street
+
+D. A. Feldman<br>
+302 Arlington Street<br>
 Watertown, MA 02172
-Joseph Murray
-599 Mount Auburn
+
+Joseph Murray<br>
+599 Mount Auburn<br>
 Watertown, MA 02172
-Mrs, David Goodstein
-147 Warren Street
+
+Mrs. David Goodstein<br>
+147 Warren Street<br>
 Arlington, MA 02174
-Tom Neddham
-145 Westminster Avenue
+
+Tom Neddham<br>
+145 Westminster Avenue<br>
 Arlington, MA 02174
-Miss Jean Townes
-351 Centre Street
+
+Miss Jean Townes<br>
+351 Centre Street<br>
 Jamaica Plain, MA 02180
-Laurie Forti
-80 Martin Road
+
+Laurie Forti<br>
+80 Martin Road<br>
 Milton, MA 02186
-Frederic Worden & Karen Cairns
-c/o 45 Hilltop Road
+
+Frederic Worden & Karen Cairns<br>
+c/o 45 Hilltop Road<br>
 Weston, MA 02193
-Albert H. Curtis,
-501 Glen Road
+
+Albert H. Curtis, II<br>
+501 Glen Road<br>
 Weston, MA 02193
-Diane Gude
-149 Park Drive, Apt. 15
+
+Diane Gude<br>
+149 Park Drive, Apt. 15<br>
 Boston, MA 02215
-John Poundstone, M.D.
-127-A Bay State Road
+
+John Poundstone, M.D.<br>
+127-A Bay State Road<br>
 Boston, MA 02215
-Steve Dubnoff
-RFD 3 Park Street
+
+Steve Dubnoff<br>
+RFD 3 Park Street<br>
 Duxbury, MA 02332
-David C. Whiting
-1022 Washington Street
+
+David C. Whiting<br>
+1022 Washington Street<br>
 Abington, MA 02351
-Carol Tyndale
-174 Lakeshore Drive
+
+Carol Tyndale<br>
+174 Lakeshore Drive<br>
 East Falmouth, MA 02536
-John H. Todd
-20 Shanks Pond Road
-Sippewissett
+
+John H. Todd<br>
+20 Shanks Pond Road<br>
+Sippewissett<br>
 Falmouth, MA 02540
-Mr. & Mrs. Thomas Lineaweaver
-Quisset Road
+
+Mr. & Mrs. Thomas Lineaweaver<br>
+Quisset Road<br>
 Woods Hole, MA 02543
-Ruth Schleicher
-Woods Hole Library
-Box 185
+
+Ruth Schleicher<br>
+伍兹霍尔图书馆（Woods Hole Library）<br>
+Box 185<br>
 Woods Hole, MA 02543
-David B. Voorheese, M.D.
-Vesper Lane
+
+David B. Voorheese, M.D.<br>
+Vesper Lane<br>
 Natucket, MA 02554
-Robert M. Ward
-Box 182
+
+Robert M. Ward<br>
+Box 182<br>
 Vineyard Haven, MA 02568
-Susan B. Whiting
-Box 47
+
+Susan B. Whiting<br>
+Box 47<br>
 West Tisbury, MA 02575
-Byron Parrish
-RED 1 Stony Hill Road
+
+Byron Parrish<br>
+RFD 1 Stony Hill Road<br>
 North Chatham, MA 02650
-Derek C. A. Aldred i
-RR 1, Box 206-B_ F
+
+Derek C. A. Aldred<br>
+RR 1, Box 206-B<br>
 Orleans, MA 02653
-Carol Vedrody
-Box 517
+
+Carol Vedrody<br>
+Box 517<br>
 Marion, MA 02738
-George W. Miller
-799 Shawmut. Avenue
+
+George W. Miller<br>
+799 Shawmut Avenue<br>
 New Bedford, MA 02746
-James Cox Dept. of Bio
-Dept. of Biol. Sci.
-University of Massachusetts
+
+James Cox Dept. of Bio<br>
+生物科学系（Dept. of Biol. Sci.）<br>
+马萨诸塞大学（University of Massachusetts）<br>
 North Dartmouth, MA 02747
-Rhode Island
-Don E, Lewis
-RFD
-Bradford, R! 02808
-Peter cy
-RR2Box2
-Greenville Road
-North Scituate, R! 028
-Glenn Ashworth
-680 Windwood Drive, Apt.
-Tiverton, RI 02878 et
-Eugene Lee
-15 Emmons Avenue
-Warwick, Rl 02888 —
-T.A. Gaucher
-188 East Avenue
-Westerly, Rl 02891
-Gerard Del Monte }
-40 Angle Street, Apt. 12
-Providence, Rl 02906
-B. L. Faber
-152 Evergreen Street
-Providence, RI 02906_
-Carol Franklin
-69 Barnes Street
-Providence, Rl 02906
-William L. Shepherd
-Walter Carey Road
-Esmond, R! 02917
-New Hampshire
-L. J. Bond
-RFD 1, Box F-5
+
+### 罗得岛州（Rhode Island）
+
+Don E. Lewis<br>
+RFD<br>
+Bradford, RI 02808
+
+Mrs. Virginia McReel<br>
+266 Turner Road<br>
+Middletown, RI 02840
+
+Thomas M. Wolfe<br>
+Box 187 M. P.O.<br>
+Newport, RI 02840
+
+Peter C. Williams<br>
+RR 2 Box 2<br>
+Greenville Road<br>
+North Scituate, RI 02857
+
+Glenn Ashworth<br>
+680 Windwood Drive, Apt. 3<br>
+Tiverton, RI 02878
+
+Eugene Lee<br>
+15 Emmons Avenue<br>
+Warwick, RI 02888
+
+T.A. Gaucher<br>
+188 East Avenue<br>
+Westerly, RI 02891
+
+Gerard Del Monte<br>
+40 Angle Street, Apt. 12<br>
+Providence, RI 02906
+
+B. L. Faber<br>
+152 Evergreen Street<br>
+Providence, RI 02906
+
+Carol Franklin<br>
+69 Barnes Street<br>
+Providence, RI 02906
+
+William L. Shepherd<br>
+Walter Carey Road<br>
+Esmond, RI 02917
+
+### 新罕布什尔州（New Hampshire）
+
+L. J. Bond<br>
+RFD 1, Box F-5<br>
 Hudson, NH 03051
-Mrs. Patricia Morin
-458 Lowell Street
+
+Mrs. Patricia Morin<br>
+458 Lowell Street<br>
 Manchester, NH 03104
-Rev. Edward Nelson
-322 Webster Street
+
+Rev. Edward Nelson<br>
+322 Webster Street<br>
 Manchester, NH 03104
-John R. McAlevy
-Bradford Object Works
-Box 199
+
+John R. McAlevy<br>
+Bradford Object Works<br>
+Box 199<br>
 Bradford, NH 03221
-Sands
-Ragged Edge
+
+Sands<br>
+Ragged Edge<br>
 Danbury, NH 03230
-Peter Cusson
-Box 237
+
+Peter Cusson<br>
+Box 237<br>
 Laconia, NH 03246
-Fred Wixenberg
-Box 386
+
+Fred Wixenberg<br>
+Box 386<br>
 New Hampton, NH 03256
-Derek Owen
-RFD No. 2
+
+Derek Owen<br>
+RFD No. 2<br>
 Concord, NH 03301
-Samuel Azzaro
-The Crossroads Route 16
+
+Samuel Azzaro<br>
+The Crossroads Route 16<br>
 Keene, NH 03431
-Bill Shaw
-13 West Diane Drive
+
+Bill Shaw<br>
+13 West Diane Drive<br>
 Keene, NH 03431
-Guy Murchie
+
+Guy Murchie<br>
 Marlboro, NH 03455
-Judy Havey
-33 Granite Street
+
+Judy Havey<br>
+33 Granite Street<br>
 Peterborough, NH 03458
-Arthur S. Eldredge
-Windy Row
-RFD 2
+
+Arthur S. Eldredge<br>
+Windy Row<br>
+RFD 2<br>
 Peterborough, NH 03458
-Phil Palmer
-Welcome Hill Road
+
+Phil Palmer<br>
+Welcome Hill Road<br>
 West Chesterfield, NH 03466
-Carol Smith
-RFD3
+
+Carol Smith<br>
+RFD 3<br>
 Richmond, NH 03470
-George J. Putz
-Farr Hill Road
+
+George J. Putz<br>
+Farr Hill Road<br>
 Littleton, NH 03561
-Franconia College Library
-Franconia College
+
+弗兰科尼亚学院图书馆（Franconia College Library）<br>
+弗兰科尼亚学院（Franconia College）<br>
 Franconia, NH 03570
-John Clarke
-Box 85
-Acworth, NH 03601;
-David Lyle
+
+John Clarke<br>
+Box 85<br>
+Acworth, NH 03601
+
+David Lyle<br>
 South Acworth, NH 03607
-Mrs. Sandra P. Miller
-RFD Toad Hollow ;
+
+Mrs. Sandra P. Miller<br>
+RFD Toad Hollow<br>
 West Canaan, NH 03741
-Steve Millman
-104 Streeter Hall
+
+Steve Millman<br>
+104 Streeter Hall<br>
 Hanover, NH 03755
-Daniel Wing
-Dartmouth Medical School
+
+Daniel Wing<br>
+达特茅斯医学院（Dartmouth Medical School）<br>
 Hanover, NH 03755
-Adrienne Brown
-Baker Hill Road
+
+Adrienne Brown<br>
+Baker Hill Road<br>
 Lyme Center, NH 03769
-David A. Jordan
-768 Middle Road
+
+David A. Jordan<br>
+768 Middle Road<br>
 Portsmouth, NH 03801
-Roger F. Murry, (Il
-Box 235 jl
+
+Roger F. Murry, III<br>
+Box 235<br>
 Wolfeboro, NH 03894
-Maine
-Nancy Dibner
-RR 1, Box 27
+
+### 缅因州（Maine）
+
+Nancy Dibner<br>
+RR 1, Box 27<br>
 Casco, ME 04015
-Donald Dorsey
-Porters ‘Landing
+
+Donald Dorsey<br>
+Porters Landing<br>
 Freeport, ME 04032
-Dick Watson
-Collins Brook School —
-RD2
+
+Dick Watson<br>
+柯林斯溪学校（Collins Brook School）<br>
+RD 2<br>
 Freeport, ME 04032
-Peter Aceves & Rinda Metz
-Noah's Ark 5
-Star Route, Monk Road
+
+Peter Aceves & Rinda Metz<br>
+Noah‘s Ark<br>
+Star Route, Monk Road<br>
 Harrison, ME 04040
-John Standish —
-12 Depot Stfeet org
-Kennebunk, ME 04043 iy
-```
+
+John Standish<br>
+12 Depot Street<br>
+Kennebunk, ME 04043
 
 ## Omitted Bibliographic/Order Info
 
@@ -1380,8 +1586,9 @@ Kennebunk, ME 04043 iy
 
 ## OCR / Uncertainty Notes
 
-- 邮寄名单保留历史扫描 OCR 拼写；不擅自纠改人名或地址。
+- 保留原刊 William College、Natucket、Brooklin 及不一致的邮编；名单为原刊自愿公开的历史记录，未补充现时个人资料。
 
 ## Self Critique
 
-- 已保留所有可恢复姓名、地址、机构和数字；待独立复核。
+- 补原刊完整说明，名单按邮编边界重建，修复跨栏串行、Lineaweaver/Cairns 末字和大学/医学单位名称；波多黎各、维尔京群岛及四州标题译出。
+- 以上为同一执行者的源文纠错，不是新增独立审校；原始 OCR 证据保留在 Source Pack。

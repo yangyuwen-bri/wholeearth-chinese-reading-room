@@ -1,4 +1,4 @@
-# Leaf 096 Independent Review
+# Leaf 096 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
+- Source inventory: w2000 全部两栏；教会史、植物与治疗/收获/集会、†/†† 书目、GAS 图题及两段油料工具叙述。
+- Translation coverage: 补原文 poisonous、袋/编织盘及两到十二人；恢复两处脚注，删除无原文依据的照片概述。炉子接满气罐不是给气罐现场充装；明火验漏原叙述和现代警示严格分开。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 对照扫描逐栏核对原文、正文与可读图字；不以总结替换段落。
+- 补原文 poisonous、袋/编织盘及两到十二人；恢复两处脚注，删除无原文依据的照片概述。炉子接满气罐不是给气罐现场充装；明火验漏原叙述和现代警示严格分开。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
+- 本记录为同一执行者的纠错复核，不是新增独立审校；整本重审尚未结束。

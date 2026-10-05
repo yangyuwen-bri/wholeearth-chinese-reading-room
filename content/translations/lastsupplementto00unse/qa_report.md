@@ -12,10 +12,18 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
 | Check | Current evidence |
 | --- | --- |
 | Translation and review files | 132 of each, leaves 000–131 |
-| Recorded translation status | 129 accepted records (mostly historical); leaves 008, 011 and 035 downgraded to needs_highres_scan |
-| Reader export coverage | All 132 rendered page bodies checked against explicitly delimited Final Translation sections |
-| Fresh source-to-translation audit in this correction | 29 pages corrected: 000–007, 009–010, 012–025, 034, 036–039; 008, 011 and 035 inspected but unresolved; the other 100 pages have not been re-audited in this correction |
-| Overall fidelity re-audit | In progress; do not describe it as completed independent review |
+| Recorded translation status | 132 accepted records: 127 closed with source evidence and 5 accepted with user-authorized, visibly disclosed source gaps (011/035/062/084/086) |
+| Reader export coverage | Rebuilt after the page-exception decision: 132 sections, 34 regression tests pass, complete workflow-delimited bodies match saved JSON |
+| Fresh source-to-translation audit in this correction | All 132 leaves inspected from cover to cover. The five authorized gaps were not deciphered; user permission changed their acceptance treatment, not the source evidence |
+| Overall fidelity re-audit | Cover-to-cover executor audit performed; 035 remains an explicitly disclosed user-authorized page exception. This is not a new independent review |
+
+## User-Authorized Page Exception — 2026-10-05
+
+- The user approved treating leaf 035 (printed page 34, the Atlantis Almanac calendar insert) as a secondary page exception so it no longer blocks the reading-room release.
+- The readable calendar, astronomical records, gardening list, song, and verified corrections remain in the translation. The Earth prose block, the longer May 6 white-text passage, and a small set of memorial lines, planetary glyphs, and handwriting remain omitted because the scans do not support reliable character-level transcription.
+- `status.jsonl` records leaf 035 as `accepted` with both `source_exception` and `reader_notice`. This is a disclosed omission decision, not evidence that the omitted text was recovered or independently reviewed.
+
+The table above is the current checkpoint. Earlier sections below retain the audit history; their intermediate counts and pending lists are not current totals.
 
 ## Completed Correction
 
@@ -106,14 +114,27 @@ did not detect the omission. The earlier blanket completeness claim is withdrawn
 - Verification: 21 regression tests pass and all 132 saved page bodies match the current
   translations. Strict complete-release validation still fails on 008, 011 and 035.
 
+## Mantras, Sufism, Yoga and Lyrics — 2026-09-04
+
+- Re-audited leaves 026–033 against their high-resolution scans. Rebuilt Mantras'
+  column order and repeated prayer; restored its final paragraph and Have Faith!
+  caption. Restored Sufism's title and corrected its cross-page book review.
+- Recovered the omitted dervish dialogue and action, distinguished the Bindu to
+  Ojas review from its preceding story, and retained the sundae / Sunday school pun.
+- Removed the invented 15-dollar price: the original reads ॐ 15, paired with
+  ॐ CVII on the other illustration. Retained all four PARADOX repetitions.
+- Restored numbered sutras, the Yoruba tale's actors and hot amala, and both
+  labels on the Hell's Angels emblem. Recovered the large omitted opening-right
+  paragraph on leaf 033, full repeated lyrics, allusions and a separate footnote.
+- These are executor corrections, not new independent reviews. Remaining fresh
+  audit: 040–131, plus the unresolved items on 008, 011 and 035.
+
 ## Reproducible Gates
 
 ```sh
-# Expected to fail while leaves 008, 011 and 035 are unresolved.
+# Strict release validation now passes with five user-authorized, visibly disclosed source exceptions.
 python3 content/translations/lastsupplementto00unse/tools/validate_release.py
 python3 reader-prototype/build_march_1971_last_supplement_reader_data.py
-# Explicit corrective draft only; pending pages require notices and matching reviews.
-python3 reader-prototype/build_march_1971_last_supplement_reader_data.py --allow-pending-review
 python3 -m unittest discover -s reader-prototype/tests -v
 ```
 
@@ -125,10 +146,111 @@ requires per-page comparison with the original scans.
 
 ## Remaining Work
 
-- Re-audit source coverage for the other 100 leaves, replacing generic review
-  prose with page-specific inventories and explicit unresolved boundaries.
-- Close leaf 035's six documented gaps, leaf 008's signature and leaf 011's small sign without guessing. Prioritize other dense calendars, handwritten labels, poems,
-  captions, and subscriber directories. Earlier scan-recovery claims must be
-  checked, not inherited merely because a file is marked accepted.
+- Leaf 035 remains a disclosed page-level exception: six documented source-gap
+  groups include two prose passages, not only signatures or prices. The user
+  explicitly authorized this exception, so it no longer blocks the release;
+  the reader notice keeps the omission visible.
+- The user's 2026-09-04 reply explicitly allowed unrecoverable minor details
+  after checking the original. Accordingly 011's small sign, 062's signature,
+  084's cartoon price and 086's damaged name no longer block page acceptance.
+  Each has a source_exception, permitted-omission review and visible notice.
+  This is permission to retain disclosed gaps, not new transcription evidence.
+  No further scan request to the user is needed for these four details.
+- Rechecking 062's original also exposed a missing Chinese predicate in the
+  Hazlitt quote. Restored is struck by as 所触动; this is not covered by the
+  signature exception. Regression tests protect that predicate, the exception
+  notices and the prohibition against silently waiving 035's prose.
+- The updated local browser renders all 132 sections, the 132-page reading-room
+  preface, all five authorized-gap notices and the repaired
+  Hazlitt predicate. The prior preview process returned empty HTTP responses;
+  restarted this task's port-4191 server and verified JSON HTTP 200 and DOM load.
+- Leaf 008's signature is Cieciorka. Leaf 082's suspected boar inscription is
+  actually miniature architecture and seated figures, verified against the same
+  painting in color. The older sections below record earlier checkpoints, not
+  current unresolved status.
 - Keep source fidelity, reader coverage, and public deployment verification
   separate. A release hash proves artifact identity, not translation accuracy.
+
+## Source Audit Through Leaf 131 — 2026-09-04
+
+- Rebuilt the seven remaining six-column directory pages (119–125) from scan
+  inspection: 230, 239, 235, 238, 246, 246 and 214 postal records respectively.
+  Preserved separate and repeated names, source spellings, fractional house
+  numbers, state/country headings, addresses and military unit identifiers.
+  Translated institutional descriptions without inventing standardized names.
+- Restored the complete Max Picard quotation on 125; Meher Baba information
+  heading on 126; all ten left-column notices and the middle/right continuations
+  on 127; the full Realist subscription form and book/interview listing on 128;
+  the June 11 closing-party invitation and RSVP instructions on 129; the complete
+  talcum-powder aside on 130; and the title, quotation and mailing imprint on 131.
+  Yippie in 128 means a Youth International Party member, not a Yuppie.
+- Corrected 127's press cards, aboveground alternatives, address line and
+  cross-column continuation, and 129's party date and total attendance count.
+  Historical fuel/product and talc claims have separate editorial notices; the
+  original-text translation does not contain added safety advice.
+- Resolved 082 using the matching color painting at
+  https://ferrebeekeeper.wordpress.com/wp-content/uploads/2010/12/varaha.jpg:
+  the alleged inscription consists of temples and seated figures. No new source
+  text was inferred or replaced with an image description.
+- A 1991 reprint of Flip Decision, found at
+  https://random-happenstance.blogspot.com/2026/07/its-coin-toss-whether-or-not-you-like.html,
+  confirms the same two small sign rows and arrows on 011, but does not establish
+  a reliable literal reading. The leaf remains pending. Likewise, Realist 89
+  scans of printed pages 61, 83 and 85 do not resolve the signature, price or name.
+- Latest local verification: all 132 source bodies match saved reader JSON,
+  32 regression tests pass, and git diff --check passes. Strict release validation
+  fails only on 011/035/062/084/086. The corrected artifact has not been published.
+- Browser verification on the local corrective reader confirmed 132 DOM sections,
+  the current 127/5 preface, distinct editorial notices with no duplicated prefix,
+  and 15 rendered separators on leaf 127. The scan finished loading at n127 with
+  printed page 126, matching the Chinese page. Screenshots also checked the
+  preface and the first subscriber table. This is not a public deployment check.
+- Corrected the stale preface and literal Markdown separators, and standardized
+  Ken Kesey as 肯·凯西 on leaves 127/128/130. New regression checks cover the
+  preface/status agreement, thematic breaks and these name occurrences.
+
+## Source Audit Through Leaf 099 — 2026-09-04
+
+- Corrected leaves 072–099 against original full-resolution scans, with individual
+  source inventories. Restored omitted lyrics in musical scores, the downers
+  paragraph and cartoon text, the voter/politician paragraph, the military article
+  opening, and the final lead-poisoning committee paragraph.
+- Fixed misread titles, names, ages, negations, column order and page-spanning
+  sentences. Actual source repetitions and historical claims remain intact.
+- Leaves 082 (boar inscription), 084 (one cartoon price), and 086 (damaged name)
+  are reopened, not falsely accepted. Nancy Mann on 099 was resolved using the
+  scan and the original-book authorship record at Wellcome.
+- Added separate, sourced historical safety notices for ginseng/strychnine,
+  dentistry, unsafe propane leak testing, and obsolete blood-lead thresholds.
+  These notices are not inserted into the original-text translation.
+- Restored the immutable official OCR evidence blocks after detecting accidental
+  name substitutions in nine blocks; translation corrections remain separate.
+- Not a new independent review, not yet a completed book, and not yet deployed.
+
+## Source Audit Through Leaf 118 — 2026-09-04
+
+- Rechecked leaves 100–113: restored the anti-vaccination essay's qualifications,
+  missing alginate continuation, complete drug-policy citations and repeated
+  quotations, the CIA article's cross-page opening and omitted Joel Fort passage,
+  the full manuscript letter, alternative-community report and Dream article.
+- Rechecked disputed values against scan crops: 1969-04-13, 350 personnel,
+  $5,000, CN 221, March 16, and two-thirds/one-third cups. Original source
+  disagreements, historical claims, slurs and repeated text are not normalized.
+- Rebuilt leaves 114–118 from column-by-column scan inspection: 231 name/location
+  rows on 114 and 203/242/240/243 postal records on 115/116/117/118. Restored
+  the full comic and editorial, omitted names and addresses, fractional house
+  numbers, state headings and descriptive institution names. Names and historical
+  postal identifiers retain their original spelling, including source errors.
+- Disabled the obsolete directory OCR copier: rerunning it now fails without
+  modifying translations or status. Regression coverage verifies this safeguard,
+  record counts, source repetitions and restored late-book text units.
+- Added separate non-source notices for historical anti-vaccination claims,
+  alginate research, gas kilns and borax. Sources include WHO's smallpox history
+  (https://www.who.int/health-topics/smallpox), propane safety
+  (https://propane.com/safety/safety-guide-for-propane-users/) and Poison Control
+  (https://www.poison.org/articles/borates). Original translations are unchanged
+  by these editorial notices.
+- Rebuilt 132 reader sections; 29 tests and git diff --check pass. All 132 official
+  OCR evidence blocks are byte-identical to HEAD. The strict release gate fails
+  only on the six documented pending leaves. This is an executor audit checkpoint,
+  not completed independent review and not a public deployment.

@@ -25,7 +25,8 @@ ee nc
 
 ## Context Notes
 
-- 2734 × 4212 高清扫描已核验。整页为 Meher Baba 肖像、手写引文、姓名及联系地址。
+- 本轮扫描清单：Meher Baba 肖像上的完整手写引文、署名、资料处名称与 Box 1101 / Berkeley / 94701 地址。
+- 对照原始高清扫描核对正文；人名与邮寄地址保留历史专名，不用总结代替原文。
 
 ## Glossary Updates
 
@@ -37,7 +38,7 @@ ee nc
 
 梅赫·巴巴（Meher Baba）
 
-Meher Baba Information
+梅赫·巴巴资料处（Meher Baba Information）
 
 Box 1101
 
@@ -49,8 +50,10 @@ Berkeley, California 94701
 
 ## OCR / Uncertainty Notes
 
-- 官方 OCR 和 Tesseract 均几乎为空；引文与地址由高清扫描人工逐字恢复。
+- 肖像为原刊图像，不添加人物生平或教义概述。
+- 官方 OCR 证据块原样保留；本轮纠错不回写原始证据。
 
 ## Self Critique
 
-- 引文的命令语气、分号关系及完整邮寄地址均已保留，没有改写成教义简介。
+- 复核 Ancient One、every heart、love / happy / serve、discomfort、love Me 全部语义；补译 Meher Baba Information。
+- 本轮为同一执行者的逐页纠错复核，不是新增独立审校。

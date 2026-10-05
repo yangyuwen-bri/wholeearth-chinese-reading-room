@@ -1,4 +1,4 @@
-# Leaf 107 Independent Review
+# Leaf 107 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
+- Source inventory: 上页Haylift句、Daily World/Air America等全部CIA书目、Joel Fort三段引文、Karnow跨栏、Time、附录监狱叙述、舒尔茨漫画及署名日期。
+- Translation coverage: 补Haylift续句与整段层层阴谋引文；mufti译便服；CN221为书号非页码；改正少校、雅典郊区、上校、两次交货、取货人及阿斯皮达冤案；漫画两气泡全译并保留SNOOPY/SCHULZ/2-9。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 逐栏对照 w2000 扫描与正文，保留完整段落、引文和可读图字；未以总结替代。
+- 补Haylift续句与整段层层阴谋引文；mufti译便服；CN221为书号非页码；改正少校、雅典郊区、上校、两次交货、取货人及阿斯皮达冤案；漫画两气泡全译并保留SNOOPY/SCHULZ/2-9。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
+- 本记录为同一执行者的纠错复核，不是新增独立审校；整本重审尚未结束。

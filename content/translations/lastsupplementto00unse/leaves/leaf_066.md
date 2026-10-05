@@ -38,11 +38,23 @@ ae
 
 ## Final Translation
 
-场景编号：6；7。
+6
 
-衣服上的符号：$。
+$
 
-电话亭标签：电话。（完整标签出现三次，缩写 `TEL` 出现一次。）
+7<br>
+$<br>
+$
+
+电话（TEL）
+
+$<br>
+电话（TELEPHONE）
+
+$<br>
+电话（TELEPHONE）
+
+电话（TELEPHONE）
 
 ## Omitted Bibliographic/Order Info
 
@@ -50,7 +62,7 @@ ae
 
 ## OCR / Uncertainty Notes
 
-- 高清扫描确认漫画没有对白、标题、说明或署名。
+- 2026-09-04 核对全页及下半部放大：数字 6、7，五处可见或部分可见的美元吊坠，一处 TEL、三处 TELEPHONE。将重复标牌逐次列出，不以次数概述替代。漫画无对白。
 
 ## Self Critique
 

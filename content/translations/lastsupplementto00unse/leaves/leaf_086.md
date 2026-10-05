@@ -99,42 +99,44 @@ crazy-fun gym.
 
 ## Final Translation
 
-CLASS “C” 冠军。Jugs，Springfield Creamery 的篮球队，于周四在 Springfield Junior High School 以 88-79 击败 Farrell’s，赢得了 Willamalane 工业 C 联赛冠军。前排从左至右的是 David Caldwell、Luke Freeman、Sheryl Kesey、Leslie Block、Isaac Babbs、Mouse Babbs、Billy Block、Kit Kesey、Sq. Rabbs 和 Grim Babbs。第二排的是 Joe Baker、Ken Garrison、John “Jaybird” Martin、Dave Smilouitze、Don Rushin、Zodiac Carl 和 Sue Kesey。后排的是 Garrett Rosenthal、Bill Block、Terry Trenhom、Gary Mikkelson、Steve Van Brasch、Jay Crittenden、Bobby Steinbrecher 和 Ken Babbs。
+“C” 级冠军。斯普林菲尔德乳品厂（Springfield Creamery）的“奶罐”（Jugs）篮球队，周四在斯普林菲尔德初中以 88–79 战胜 Farrell’s 队，夺得威拉马莱恩（Willamalane）工业 C 级联赛冠军。前排从左至右的是 David Caldwell、Luke Freeman、Sheryl Kesey、Leslie Block、Isaac Babbs、Mouse Babbs、Billy Block、Kit Kesey、Sq〔余字不清〕 Babbs 和 Grim Babbs。第二排的是 Joe Baker、Ken Garrison、John “Jaybird” Martin、Dave Smilouitze、Don Rushin、Zodiac Carl 和 Sue Kesey。后排的是 Garrett Rosenthal、Bill Block、Terry Trenhom、Gary Mikkelson、Steve Van Brasch、Jay Crittenden、Bobby Steinbrecher 和 Ken Babbs。
 
-长发者的进攻随着警长的“帮派”逼近而减缓  
-法律，“Jugs”缠斗——在激烈的比赛中  
-作者：RAY MYERS  
-《Register-Guard》报  
+长发族攻势放缓，警长的“追捕队”逼近
 
-“我们等找到是谁偷走了篮球后，再开始下半场比赛，”满头大汗的裁判对谁也没说。  
+### 警方与“奶罐”队混战——一场疯狂球赛
 
-周五晚上，围绕着困惑的官员，南尤金高中体育馆内是一幅狂野、跺脚、大喊大叫的欢乐场面。这是本赛季最不寻常的篮球比赛之一的中段。  
+雷·迈尔斯（RAY MYERS）
+《登记卫报》（Register-Guard）
 
-这场比赛的对阵双方是警察队对长发者队。  
+“我们等找到是谁偷走了篮球后，再开始下半场比赛，”满头大汗的裁判对谁也没说。
 
-法律的长臂——兰恩县警长办公室的队伍——与共同生活英雄——Springfield Creamery 赞助的 Jugs 队——在友好的、充满激情的战斗中交锋。这一切都在观众和在包厢里演奏的 Amazing Grace 摇滚乐队的伴奏下进行。  
+周五晚上，围绕着困惑的官员，南尤金高中体育馆内是一幅狂野、跺脚、大喊大叫的欢乐场面。这是本赛季最不寻常的篮球比赛之一的中段。
 
-挤在看台上，1300 多名观众每人支付 1 美元，观看这场为尤金 White Bird Socio-Medical /Free 诊所筹款的慈善比赛。  
+这场比赛的对阵双方是警察队对长发者队。
 
-而在硬木地板上，一旦裁判找到了丢失的篮球（有几个三英尺高的 Bob Couseys 正用它投篮），穿着色彩鲜艳的 Jugs 队克服了自身的困难，击败了穿着绿色和黄色制服的警长队伍，以加时赛 104-94 获胜。  
+法律的长臂——兰恩县警长办公室的队伍——与公社生活的英雄们——斯普林菲尔德乳品厂赞助的 “奶罐”队——在友好的、充满激情的战斗中交锋。这一切都在观众和在楼座演奏的“奇异恩典”（Amazing Grace）摇滚乐队的伴奏下进行。
 
-这场持续两个小时的比赛由一些兰恩社区学院的学生用电视录像带记录下来，“只是为了好玩”，其中一人说道。这场比赛由尤金的毒品销售商 Gary Middelsen 策划并制作，他同时也为 Jugs 队效力。比赛过程中多次被数十个孩子打断，他们无法克制自己不进入比赛区域。  
+挤在看台上，1300 多名观众每人支付 1 美元，观看这场为尤金 White Bird Socio-Medical /Free 诊所筹款的慈善比赛。
 
-没有人似乎在意。  
+而在硬木地板上，一旦裁判找到了丢失的篮球（有几个身高三英尺的小鲍勃·库西们（Bob Couseys） 正用它投篮），穿着色彩鲜艳的 “奶罐”队克服了自身的困难，击败了穿着绿色和黄色制服的警长队伍，以加时赛 104-94 获胜。
 
-大多数时候，这是一场激动人心、激烈的篮球比赛。根据满员且大多支持 Jugs 队的观众自由奔放的“氛围”来看，这场比赛只是非常有趣的娱乐。  
+这场持续两个小时的比赛由一些兰恩社区学院的学生用电视录像带记录下来，“只是为了好玩”，其中一人说道。这场比赛由尤金的药品推销员 Gary Middelsen 策划并制作，他同时也为 “奶罐”队效力。比赛过程中多次被数十个孩子打断，他们无法克制自己不进入比赛区域。
 
-警长队由后卫 Gary Stewart 和球员兼教练 Don Lighty 领导，在上半场的最后一分钟除外，他们一直表现火热。Jugs 队一度落后多达 8 分，直到他们突破了警卫的区域防守，将比分扳平至 44-44。  
+没有人似乎在意。
 
-中场休息时，Amazing Grace 乐队进行了表演，观众们在篮球场上走动和跳舞，公共广播员威胁说，如果找不到车主，就要拍卖一套福特汽车钥匙。  
+大多数时候，这是一场激动人心、激烈的篮球比赛。根据满员且大多支持 “奶罐”队的观众自由奔放的“氛围”来看，这场比赛只是非常有趣的娱乐。
 
-下半场完全属于 Jugs 队。Bobby Steinbrecher、John “Jaybird” Martin、Chris Cotton、球员兼教练 Ken Babbs 和 Dave Smilouitze 带领 Creamery 队在比赛还剩 2 分 46 秒时以 79-72 领先。  
+警长队由后卫 Gary Stewart 和球员兼教练 Don Lighty 领导，在上半场的最后一分钟除外，他们一直表现火热。“奶罐”队一度落后多达 8 分，直到他们突破了副警长们的区域联防，将比分扳平至 44-44。
 
-然后 Stewart 和后卫 Frank McCartt 在一堆堆的 Jugs 队中翻滚，争取到足够的分数，将比分追至 83-83，比赛结束。  
+中场休息时，“奇异恩典”乐队进行了表演，观众们在篮球场上走动和跳舞，公共广播员威胁说，如果找不到车主，就要拍卖一套福特汽车钥匙。
 
-赢得比赛的疯狂场面全在 Jugs 队。他们一直领先于苦苦挣扎的警卫队，轻松获胜。  
+下半场完全属于 “奶罐”队。Bobby Steinbrecher、John “Jaybird” Martin、Chris Cotton、球员兼教练 Ken Babbs 和 Dave Smilouitze 带领 乳品厂队在比赛还剩 2 分 46 秒时以 79-72 领先。
 
-但总体的胜利属于那个疯狂有趣的体育馆里的每个人。  
+然后 Stewart 和后卫 Frank McCartt 从堆成一团的“奶罐”球员中硬挤过去，争取到足够的分数，将比分追至 83-83，常规比赛时间结束。
+
+赢得比赛的疯狂场面全在 “奶罐”队。他们一直领先于苦苦追赶的副警长队，轻松获胜。
+
+但总体的胜利属于那个疯狂有趣的体育馆里的每个人。
 
 
 ## Omitted Bibliographic/Order Info

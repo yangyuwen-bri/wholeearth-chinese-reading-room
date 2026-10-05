@@ -1,4 +1,4 @@
-# Leaf 075 Independent Review
+# Leaf 075 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
+- Source inventory: w2000 扫描；Burroughs / Nova Express、完整引文及两段原刊重复；Brautigan / Abortion 与 Ed McClanahan 评语。
+- Translation coverage: 统一人物、作品和虚构机构中文名；保留原页真的重复的 ersatz immortality 两段，修复 Garden of Delights 与倒计时含义。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 逐栏逐段核对原页扫描、可读图中文字及译文，保留原文重复，不以概述代替正文。
+- 统一人物、作品和虚构机构中文名；保留原页真的重复的 ersatz immortality 两段，修复 Garden of Delights 与倒计时含义。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
+- 本记录为同一执行者的纠错复核，不是新增独立审校；整本重审尚未结束。

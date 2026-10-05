@@ -57,7 +57,8 @@ You're invited too of course. ;
 
 ## Context Notes
 
-- 已以官方 OCR 逐项初译；高清扫描和独立 OCR 仅作文字补证，待独立复核。
+- 本轮扫描清单：Notice Notice 与制作者称呼、整份终结聚会邀请、七类受邀者、RSVP 地址、着装与食物要求、税务局附言。
+- 对照原始高清扫描核对正文；人名与邮寄地址保留历史专名，不用总结代替原文。
 
 ## Glossary Updates
 
@@ -65,39 +66,47 @@ You're invited too of course. ;
 
 ## Final Translation
 
-你被邀请参加一个  
-专属派对，  
-庆祝《Whole Earth Catalog》的  
-**终结**  
-在旧金山举行，  
-时间是6月17日星期五，晚上7点开始。  
 
-以下人士受邀参加：  
-所有曾在Menlo Park和Portola Institute的Whole Earth Truck Store & Catalog工作的现职和前任员工。  
-所有曾与《Whole Earth Catalog》合作的Nowels Publications、Book People、Smith Co（邮寄）、East Wind、Bohannen P.O.和Random House的员工。  
-所有曾在《Whole Earth Catalog》或其补充刊物上发表评论、来信或建议的人。  
+### 注意　注意
 
-请回复（RSVP）：请将你的姓名、地址以及你将带多少人，寄送至：  
-**终结**  
-《Whole Earth Catalog》  
-558 Santa Cruz Ave  
-Menlo Park, CA 94025  
-我们将告诉你派对的地点。  
+所有《全球概览目录》的制作者：
 
-**注意 注意**  
-所有《Whole Earth Catalog》的制造者，  
-所有曾在《Whole Earth Catalog》或其补充刊物中列出项目或创作内容的作者和创作者，  
-所有持续订阅和支持的订阅者，  
-所有参与LIFERAFT EARTH和ALLOY项目的人，  
-所有曾对《Whole Earth Catalog》或LIFERAFT EARTH进行评论或撰写文章的媒体人员。  
+邀你参加一场专属聚会，<br>
+庆祝《全球概览目录》的<br>
+**终结**，<br>
+地点在旧金山，<br>
+6 月 11 日，星期五，晚上 7 点开始。
 
-着装：你可以打扮成一件工具。  
+以下人士均在邀请之列：
 
-注意美国国内税务局：  
-此次活动是一场教育性质的活动，其确切性质  
-可能要到6月11日晚上10点才会揭晓。  
+门洛帕克全球概览卡车商店与目录，以及波托拉研究所（Portola Institute）的所有现任与前任员工。
 
-当然，你也受邀参加。
+Nowels 出版社、书人公司（Book People）、史密斯公司（Smith Co，邮寄业务）、东风（East Wind）、Bohannen 邮局以及兰登书屋中，所有与《目录》打过交道的员工。
+
+评论、来信或建议曾在《目录》或增刊上刊出的所有评论者、来信者和建议者。
+
+《目录》或增刊所列项目的所有作者与创作者。
+
+所有赞助订户与续订订户。
+
+所有“地球救生筏”（LIFERAFT EARTH）和“合金”（ALLOY）活动的参与者。
+
+所有曾评论或报道过《目录》或“地球救生筏”的媒体人士。
+
+请回复（RSVP）：将你的姓名、地址，以及你们一共多少人，寄到：
+
+终结（DEMISE）<br>
+《全球概览目录》（Whole Earth Catalog）<br>
+558 Santa Cruz Ave<br>
+Menlo Park, CA 94025
+
+我们会告诉你聚会在哪里举行。
+
+着装：你可以打扮成一件工具来。
+
+带点好吃的、好喝的，给别人享用。
+
+美国国内税务局请注意：这是一次教育活动，其确切性质或许要到 6 月 11 日晚上 10 点才会揭晓。当然，也邀请你们来。
 
 ## Omitted Bibliographic/Order Info
 
@@ -105,8 +114,10 @@ Menlo Park, CA 94025
 
 ## OCR / Uncertainty Notes
 
-- 官方 OCR 的断行、连字号和栏序仍须对照高清扫描确认。
+- 保留原刊对终结聚会和税务局的调侃，不把活动改写为常规宣传。
+- 官方 OCR 证据块原样保留；本轮纠错不回写原始证据。
 
 ## Self Critique
 
-- 已按可恢复文本单元逐项初译，未用概述代替源文；待独立复核。
+- 把误读的 6 月 17 日改回扫描所示 6 月 11 日；补回为别人带吃喝的整句；恢复赞助与续订两类订户；人数改为含本人总人数。
+- 本轮为同一执行者的逐页纠错复核，不是新增独立审校。

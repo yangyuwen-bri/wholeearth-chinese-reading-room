@@ -1,4 +1,4 @@
-# Leaf 125 Independent Review
+# Leaf 125 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐条保留并抽查密集订户名录中的姓名、机构、街道、城市、州与邮编；未压缩、未概述。
-- Permitted omissions: 无。
+- Source inventory: 六栏 214 条记录（42、41、38、39、32、22）、14 个地区标题及 Max Picard《论沉默》完整引文和署名。
+- Translation coverage: 补回图书馆、大学、农场与项目说明；修正三处 ½ 门牌；保留 John Wilcox 单独姓名及后面的同名地址；重接绕页码排印的 Jean Mollinson、2770 Bellevue Avenue、West Vancouver；逐句翻译沉默引文。
+- Permitted omissions: 无正文省略。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 已对照本页高清扫描核对，不以旧 accepted 标签或 OCR 文件完整度代替源文审查。
+- 保留原刊 Kerstettter、Paraika、Fort Chino、Pointe Claire 等本页历史拼写及邮址；不把没有邮编的加拿大记录与下一条合并。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 名录原刊存在个别老式缩写与破损字形；阅读正文中无未决占位符。
+- 本记录为同一执行者的纠错复核，不是新增独立审校；整本待核项以 status.jsonl 与 qa_report.md 的当前清单为准。

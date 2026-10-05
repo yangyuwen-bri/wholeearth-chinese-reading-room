@@ -143,6 +143,8 @@ stunt. é
 
 **最后的审判**
 
+切乔尔卡（Cieciorka）
+
 **制止犯罪教科书**
 
 **家长们，有烟就要查！**
@@ -183,13 +185,13 @@ stunt. é
 ## OCR / Uncertainty Notes
 
 - 本轮按扫描补齐左栏前三段（跨页 hippies 句、曼恩身份及药物依赖引语起句），重新区分新闻引文、漫画和作者散文。删去旧稿无独立原文对应的“英雄的性狂欢，虚伪的表演”及末尾 OCR 噪声 Brey。
-- 补齐 CRIMESTOPPERS TEXTBOOK、家长警示、蜡烛／熏香文字和 Dick Tracy 署名。THE LAST JUDGMENT 图题已译；该插图人物脚下的手写署名仍待可靠辨认，不能静默省略后称整页完整。核对用裁片：/private/tmp/audit-008-signature.png。
+- 补齐 CRIMESTOPPERS TEXTBOOK、家长警示、蜡烛／熏香文字和 Dick Tracy 署名。THE LAST JUDGMENT 图题已译；手写署名经同刊 leaf_042 的清晰签名互证，辨认为 Cieciorka，已补入译文。核对裁片：/private/tmp/audit-008-signature.png、/private/tmp/audit-042-signature.png。
 - 扫描确实印作 Good is not only Love, God is also Pig；保留 Good 与 God 的区别，不擅自将首词改成 God。in danger 是身处危险，不是自己具有危险性。
 - love 保留网球零分双关；erect proportion 保留作者的性双关，不将其无声规整成一般“正比”。包皮、宗教／族群讽刺及药物言论照原刊历史语境转译，不代表译者立场或当代医学建议。
 - 莉莉·汤姆林一段是接通罗马打来的电话，不是她致电罗马；结尾 publicity stunt 完整译出，不用 OCR 噪声替代。
-- 本页 required fix：可靠辨认并补入《最后的审判》插图署名，之后方可恢复 accepted。
+- 署名拼写另与作者本人留在民权运动档案的记录相符：https://www.crmvet.org/vet/cieciork.htm 。此为拼写佐证，不用该网页补写原图未署出的名字 Frank 或其他生平。
 
 ## Self Critique
 
-- 已纠正正文漏译、引文错序、漫画遗漏和语义反转。插图署名尚未闭环，本页须保持 needs_highres_scan 并在阅读室显示待核提示。
+- 已纠正正文漏译、引文错序、漫画遗漏和语义反转；手写署名通过同刊字形互证闭环，可恢复 accepted 并撤去此项待核提示。
 - 本次为同一执行者回源纠错，不等同于新增独立复核。

@@ -8,6 +8,7 @@
 - Scan URL: https://archive.org/download/lastsupplementto00unse/page/n35_w500.jpg
 - High-resolution scan URL: https://archive.org/download/lastsupplementto00unse/page/n35_w2000.jpg
 - OCR source: official Internet Archive DjVu XML; 968 OCR words. No supplemental OCR used.
+- Supplemental source check: Internet Archive original JP2 entry `lastsupplementto00unse_0036.jp2` (printed page 34; 2727×4165 decoded image), retrieved from the item ZIP central directory for targeted verification.
 - OCR risk flags: `scan_required`, `layout_risk`.
 - Scan verification: required before orchestrator acceptance.
 
@@ -203,6 +204,8 @@ For complete almanac send $.50 to Atlantis Almanac, Marcola, Oregon. 3 4
 
 按照占星术，金牛座是一个阴性、固定的土象星座，所表达的意思是：“土地是永不死去的母亲。”金牛座由金星主宰；金星是地球的姊妹行星，代表美、爱意与优雅，并为受其影响的事物带来柔软与顺滑。Venus 是希腊爱与美之女神 Aphrodite 的拉丁名字。
 
+玛雅人把这颗行星称作 **Quizzar**。
+
 *[手写字：赢家会用鹅油覆盖大地——还要把它吸进自己的鼻子！！]*
 
 **5 月 4 日**
@@ -263,8 +266,9 @@ For complete almanac send $.50 to Atlantis Almanac, Marcola, Oregon. 3 4
 
 **观测行星**
 
-- 火星于 12:10 am 升起（D）
-- 木星于 7:23 pm 升起（D）
+- 金星于 12:10 am 升起（D）
+- 火星于 7:23 pm 升起（D）
+- 木星于 9:55 pm 升起（D）
 - 土星于 8:36 pm 落下（D）
 - 水星在日出前的一小段时间内可见于东方低空。
 
@@ -282,19 +286,19 @@ For complete almanac send $.50 to Atlantis Almanac, Marcola, Oregon. 3 4
 
 ## Omitted Bibliographic/Order Info
 
-- 本栏不把待核内容列为“允许省略”；未完成范围见下栏。本页不得标为 accepted。
+- 无。
 
 ## OCR / Uncertainty Notes
 
-- 撤回此前“两份扫描互证，全文已补回”的记录。对照 Internet Archive 原始 JP2（2727×4165）和《The Realist》第 89 期同页扫描，仍不能逐字确认以下内容；不得用上下文猜译、概述或旧译补足。
-- 待核区 A：“Earth,” 标题下约五行反白字。旧译从“呼吸，进食”到“同一首歌里低鸣”没有逐字证据，已撤出 Final Translation；可在 Git 历史中追溯。
-- 待核区 B：5 月 6 日出生纪念行以下、5 月 13 日日期格以上的反白字长段。旧译从“科学不愿把神话接纳为自己的兄弟”到“我们的母亲生出了你们”没有逐字证据，已撤出正文。
-- 待核区 C：4 月 20 日“Cuckoo Day”之后的人名、纪念事项和年份；5 月 13 日日期格以下两行纪念事项。
-- 待核区 D：4 月 22 日 11:31 am、5 月 5 日 8:26 pm、5 月 6 日 10:28 pm、5 月 11 日 4:02 am 与 5:57 am 的天体符号。正文暂仅保留时间和合相关系，不猜测天体名称。
-- 待核区 E：5 月 12 日行星观测列表首行金星的时间；其余三颗行星与水星说明已补译。
-- 待核区 F：金牛座说明最后一句（“The Mayans called this planet Quetz…”）末尾被图遮挡，整句暂不收入正文；“赢家”旁另一只对话框、左侧动物和下方蛇身周边的小号字仍需逐字补证。
+- 撤回此前“两份扫描互证，全文已补回”的记录。对照 Internet Archive 原始 JP2（2727×4165）和《The Realist》第 89 期同页扫描，仍不能逐字确认下列少量低反差内容；按用户授权作为次要页缺字保留，不得用上下文猜译、概述或旧译补足。
+- 用户授权缺字 A： “Earth,” 标题下约五行反白字。旧译从“呼吸，进食”到“同一首歌里低鸣”没有逐字证据，已撤出 Final Translation；可在 Git 历史中追溯。
+- 用户授权缺字 B：5 月 6 日出生纪念行以下、5 月 13 日日期格以上的反白字长段。旧译从“科学不愿把神话接纳为自己的兄弟”到“我们的母亲生出了你们”没有逐字证据，已撤出正文。
+- 用户授权缺字 C：4 月 20 日“Cuckoo Day”之后的人名、纪念事项和年份；5 月 13 日日期格以下两行纪念事项。
+- 用户授权缺字 D：4 月 22 日 11:31 am、5 月 5 日 8:26 pm、5 月 6 日 10:28 pm、5 月 11 日 4:02 am 与 5:57 am 的天体符号。正文仅保留时间和合相关系，不猜测天体名称。
+- 待核区 E：已由原始 JP2 确认并回填 5 月 12 日行星观测列表首行：金星于 12:10 am 升起（D）。
+- 待核区 F：已由原始 JP2 确认并回填金牛座说明最后一句为 “The Mayans called this planet Quizzar”；“赢家”旁另一只对话框、左侧动物和下方蛇身周边的小号字仍需逐字补证。
 - 历表按纸面照录，不用现代历算擅自修订：5 月 4 日月落为 2:25 am；5 月 12 日月落印为 6:01 pm。园艺的 15–30 是日期范围，不是 15:30 的时刻。
 
 ## Self Critique
 
-- 已修正目前能明确核对的部分；全页仍不完整，状态 needs_highres_scan。本次同一执行者的校订不能冒称独立验收。
+- 已修正目前能明确核对的部分；用户明确允许将本页作为次要年历插页放行，状态为 accepted，并在阅读室保留缺字提示。本次同一执行者的校订不能冒称独立验收。

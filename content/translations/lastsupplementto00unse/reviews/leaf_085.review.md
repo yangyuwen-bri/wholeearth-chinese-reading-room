@@ -1,4 +1,4 @@
-# Leaf 085 Independent Review
+# Leaf 085 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
+- Source inventory: w2000 扫描；Cassady 续文、征集磁带地址及承诺、法官故事全文、月球/藤椅收尾；enough、Krassner 署名与毛皮茶具句。
+- Translation coverage: microbus 不是微波车；修复轮胎、档案、返还原磁带承诺和 IT IS 缩写。原文是 really veer one from the mark Neal had in mind，译为故事使人偏离尼尔的目标，不凭 OCR 或预期改成 rarely。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 逐栏逐段核对原页扫描、可读图中文字及译文，保留原文重复，不以概述代替正文。
+- microbus 不是微波车；修复轮胎、档案、返还原磁带承诺和 IT IS 缩写。原文是 really veer one from the mark Neal had in mind，译为故事使人偏离尼尔的目标，不凭 OCR 或预期改成 rarely。
 
 ## Required Fixes
 
@@ -21,4 +21,4 @@ accepted
 
 ## Residual Risks
 
-- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
+- 本记录为同一执行者的纠错复核，不是新增独立审校；整本重审尚未结束。

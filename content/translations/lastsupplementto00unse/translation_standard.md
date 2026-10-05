@@ -28,6 +28,19 @@ the exact unresolved boundary outside the reader-facing body and keep the leaf
 out of `accepted`. Never replace unresolved source text with a summary or page
 description.
 
+## Issue-local minor source exception — 2026-09-04
+
+The user explicitly allowed illegible minor details such as signatures and
+prices to remain unresolved after checking the original magazine. For this
+issue only, leaves 011 (two tiny comic sign rows), 062 (artist signature),
+084 (one cartoon menu price), and 086 (one damaged caption name) may be marked
+`accepted` with a documented `source_exception` and a visible `reader_notice`.
+This means accepted for reading with a disclosed minor source gap, not that the
+missing characters have been recovered. Preserve every legible element and do
+not guess or summarize the missing text. This exception does not authorize
+omitting substantive paragraphs, including the unresolved prose on leaf 035.
+It does not change the default standard for other leaves or other issues.
+
 ## Prohibited Drift
 
 Do not:

@@ -1,4 +1,4 @@
-# Leaf 050 Independent Review
+# Leaf 050 Corrective Review — 2026-09-04
 
 ## Conclusion
 
@@ -6,14 +6,14 @@ accepted
 
 ## Coverage Evidence
 
-- Source inventory: 官方 OCR 逐行文本、w2000 高清扫描及页面版式。
-- Translation coverage: 逐项对照正文、标题、图注、表格、标签、重复文字、价格与地址；未发现实义遗漏、误译或总结性替代。
+- Source inventory: w2000 原页扫描；Almonds, Apricots, Cancer & FDA 标题、George Walker 署名和整页文章；Barclay、苦杏仁苷、转移灶、约一百万人及数十亿美元。
+- Translation coverage: Barclay 十年前是濒死而非已经死亡；修复苦杏仁苷和转移灶术语，补回人数金额；末句停在是一种，衔接 051。历史医疗主张不等于现代疗效证据。
 - Permitted omissions: 无。
 
 ## Reasons
 
-- 已完成逐页高清复核；译文按原页阅读顺序保留全部可读内容。
-- 未使用页面概述或总结性描述替代原文。
+- 本页按扫描栏序核对正文、跨页衔接及可读图中文字，不以概述替代原文。
+- Barclay 十年前是濒死而非已经死亡；修复苦杏仁苷和转移灶术语，补回人数金额；末句停在是一种，衔接 051。历史医疗主张不等于现代疗效证据。
 
 ## Required Fixes
 
@@ -21,4 +21,5 @@ accepted
 
 ## Residual Risks
 
-- 仅存原刊排印与扫描噪声造成的字形风险；阅读正文中无未决占位符。
+- 本记录为同一执行者的逐页纠错复核，不是新增独立审校；accepted 不代表整本已重新验收。
+- 历史文本中的观点与实用建议照原文保留，不构成现代事实、医疗或安全建议。

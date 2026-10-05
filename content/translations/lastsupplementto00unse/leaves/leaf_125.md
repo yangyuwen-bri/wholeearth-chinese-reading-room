@@ -707,7 +707,8 @@ London, Ontario
 
 ## Context Notes
 
-- 高密度名录页；姓名和邮寄地址按扫描原样保留，说明性文字译成中文。
+- 本轮扫描清单：六栏 214 条记录（42、41、38、39、32、22）、14 个地区标题及 Max Picard《论沉默》完整引文和署名。
+- 对照原始高清扫描核对正文；人名与邮寄地址保留历史专名，不用总结代替原文。
 
 ## Glossary Updates
 
@@ -715,698 +716,939 @@ London, Ontario
 
 ## Final Translation
 
-### 《全球概览》自愿公开邮寄名单
-
-以下姓名、机构、邮寄地址、州名缩写与邮编均按扫描文字原样保留，不改写专名或数字。
-
-```text
-4 H
-Steve Coffe!
-Route One, Box 664
+Steve Coffel<br>
+Route One, Box 664<br>
 Dallas, OR 97338
-John Daws Thomas
-Route One, Box 104
+
+John Daws Thomas<br>
+Route One, Box 104<br>
 Mount Angel, OR 97362
-Jay Jensen
-Rock Creek Pottery
-Route Two, Box 176
+
+Jay Jensen<br>
+岩溪陶坊（Rock Creek Pottery）<br>
+Route Two, Box 176<br>
 Sheridan, OR 97378
-Richard Allen
-1820 Olive Street
+
+Richard Allen<br>
+1820 Olive Street<br>
 Eugene, OR 97401
-Barry H. Lopez
+
+Barry H. Lopez<br>
 Finn Rock, OR 97401
-Russeli B. Warkentin
-260% East 17th Avenue
+
+Russell B. Warkentin<br>
+260½ East 17th Avenue<br>
 Eugene, Oregon 97401
-* Monte Marshall
-37 North Madison
-1 Eugene, OR 97402
-Ken Murdoff
-2363 Pershing Street
+
+Monte Marshall<br>
+37 North Madison<br>
 Eugene, OR 97402
-T..E. Anderson
-10 Prail Street
+
+Ken Murdoff<br>
+2363 Pershing Street<br>
+Eugene, OR 97402
+
+T. E. Anderson<br>
+10 Prail Street<br>
 Eugene, OR 97405
-Charles Howard
-517 West 27th Avenue
+
+Charles Howard<br>
+517 West 27th Avenue<br>
 Eugene, OR 97405
-P. J. Runkel
-610 Kingswood
+
+P. J. Runkel<br>
+610 Kingswood<br>
 Eugene, OR 97405
-Gary Spehar
-Box 1288
-} Brookings, OR 97415
-Frank Horcajo
-Box 34 North Reuben Road
+
+Gary Spehar<br>
+Box 1288<br>
+Brookings, OR 97415
+
+Frank Horcajo<br>
+Box 34 North Reuben Road<br>
 Glendale, OR 97442
-Maria A. Balint
-Amira Farms
-1255 Alvadere Road
+
+Maria A. Balint<br>
+Amira 农场<br>
+1255 Alvadere Road<br>
 Junction City, OR 97448
-Joan Norris
-Route One, Box 39
-Junction City, Or 97448
-Gregory L. Applen
-11022 Blackwell Road
+
+Joan Norris<br>
+Route One, Box 39<br>
+Junction City, OR 97448
+
+Gregory L. Applen<br>
+11022 Blackwell Road<br>
 Central Point, OR 97501
-Beverly Shafer
-General Delivery
+
+Beverly Shafer<br>
+邮局留交<br>
 New Pine Creek, OR 97635
-David Dierdorff
-1915 West Second
+
+David Dierdorff<br>
+1915 West Second<br>
 Bend, OR 97701
-Charles Landis
-1655 Aubrey Road
+
+Charles Landis<br>
+1655 Aubrey Road<br>
 Bend, OR 97701
-Barry Kast
-Mann Lake Ranch
+
+Barry Kast<br>
+曼恩湖牧场（Mann Lake Ranch）<br>
 Princeton, OR 97721
-} Washington
-Michael R. Hill
-34243 45th Avenue South
+
+### 华盛顿州
+
+Michael R. Hill<br>
+34243 45th Avenue South<br>
 Auburn, WA 98002
-Mrs. Robert W. Solibakke
-2846 105th Avenue SE
+
+Mrs. Robert W. Solibakke<br>
+2846 105th Avenue SE<br>
 Bellevue, WA 98004
-Maynard A. Steinberg
-2358 127th Avenue, SE
+
+Maynard A. Steinberg<br>
+2358 127th Avenue, SE<br>
 Bellevue, WA 98004
-Robert Westling
-23025 57th Avenue
+
+Robert Westling<br>
+23025 57th Avenue<br>
 Woodinville, WA 98012
-Mrs. Berthe Greimes
-17905 Talbot Road
+
+Mrs. Berthe Greimes<br>
+17905 Talbot Road<br>
 Edmonds, WA 98020
-Robert L. Olmsted
-1014 15th East Apt. 3
+
+Robert L. Olmsted<br>
+1014 15th East Apt. 3<br>
 Seattle, WA 98021
-Robert Fletcher
-430 SW Forest Place
+
+Robert Fletcher<br>
+430 SW Forest Place<br>
 Issaquah, WA 98027
-Highline College Library
-Technical Services Department
+
+海莱恩学院图书馆（Highline College Library）<br>
+技术服务部<br>
 Midway, WA 98031
-Mrs. Coy L. Russell, JR
-1012 East Laurel Street
+
+Mrs. Coy L. Russell, JR<br>
+1012 East Laurel Street<br>
 Kent, WA 98031
-Steve Fitzpatrick
-11664% 98th NE
+
+Steve Fitzpatrick<br>
+11664½ 98th NE<br>
 Kirkland, WA 98033
-Robert Small
-6841 NE 132nd Street
+
+Robert Small<br>
+6841 NE 132nd Street<br>
 Kirkland, WA 98033
-Garth McDonald
-4611 Forest Avenue
+
+Garth McDonald<br>
+4611 Forest Avenue<br>
 Mercer Island, WA 98040
-Bruce A. Vik
-548 First Place SE
+
+Bruce A. Vik<br>
+548 First Place SE<br>
 Pacific, WA 98047
-Richard K. Worthington
-11450 206th NE
+
+Richard K. Worthington<br>
+11450 206th NE<br>
 Redmond, WA 98052
-Dr. & Mrs. Charles L, Nagel
-Route Two, Box 475
+
+Dr. & Mrs. Charles L. Nagel<br>
+Route Two, Box 475<br>
 Vashon, WA 98070
-Bob Smidt
-17354 206th NE
+
+Bob Smidt<br>
+17354 206th NE<br>
 Woodinville, WA 98072
-Gordon R. ties
-305 Lloyd Building
-Seattle. WA 98101
-John David Lamb
-1907 East Blaine Street
+
+Gordon R. Iles<br>
+305 Lloyd Building<br>
+Seattle, WA 98101
+
+John David Lamb<br>
+1907 East Blaine Street<br>
 Seattle, WA 98102
-Sidney E. Stibbard
-3218 Eastlake East
+
+Sidney E. Stibbard<br>
+3218 Eastlake East<br>
 Seattle, WA 98102
-Peggy Heironimus
-4229 Phinney Avenue North
+
+Peggy Heironimus<br>
+4229 Phinney Avenue North<br>
 Seattle, WA 98103
-C. C, Chambers, Jr.
-2525 Seattle First Natl. Bank Bidg
+
+C. C. Chambers, Jr.<br>
+2525 Seattle First Natl. Bank Bldg（西雅图第一国民银行大厦）<br>
 Seattle, WA 98104
-Angela and Geoff Borneman
-5758 26th Avenue NE
+
+Angela and Geoff Borneman<br>
+5758 26th Avenue NE<br>
 Seattle, WA 98105
-D. Anita Brown
-Box 176
-University Station
+
+D. Anita Brown<br>
+Box 176<br>
+University Station<br>
 Seattle, WA 98105
-Or. James D. Kerstettter
-Department of Chemistry
-University of Washington
+
+Dr. James D. Kerstettter<br>
+化学系<br>
+华盛顿大学<br>
 Seattle, WA 98105
-Emmanuel Meyer
-5201 19th Avenue NE
+
+Emmanuel Meyer<br>
+5201 19th Avenue NE<br>
 Seattle, WA 98105
-James S. Thomas
-5810 16th NE
+
+James S. Thomas<br>
+5810 16th NE<br>
 Seattle, WA 98105
-M. Soso
-4135 Brooklyn Ave NE Apt. 317
+
+M. Soso<br>
+4135 Brooklyn Ave NE Apt. 317<br>
 Seattle, WA 98105
-Joe & Elizabeth Valentine
-5517 Brooklyn Avenue
+
+Joe & Elizabeth Valentine<br>
+5517 Brooklyn Avenue<br>
 Seattle, WA 98105
-Gordon W. Woods
-560 Prospect
+
+Gordon W. Woods<br>
+560 Prospect<br>
 Seattle, WA 98109
-Maurice Sauser
-Route Eight, Box 8615
+
+Maurice Sauser<br>
+Route Eight, Box 8615<br>
 Bainbridge Island, WA 98110
-Dan Luchtel
-6215 38th NE
+
+Dan Luchtel<br>
+6215 38th NE<br>
 Seattle, WA 98115
-Michael Templeton
-6528 19th NE
+
+Michael Templeton<br>
+6528 19th NE<br>
 Seattle, WA 98115
-Laurens D. Dawes Jr
-217 West Boston, Apt. 1
+
+Laurens D. Dawes Jr<br>
+217 West Boston, Apt. 1<br>
 Seattle, WA 98119
-Arthur L. Miller
-2312 Third Avenue
+
+Arthur L. Miller<br>
+2312 Third Avenue<br>
 Seattle, WA 98121
-Ron Brooks
-1722 105th Street N
+
+Ron Brooks<br>
+1722 105th Street N<br>
 Seattle, WA 98133
-Mrs. Charles O, Lennstrom
-1915 SW 170th Street
+
+Mrs. Charles O. Lennstrom<br>
+1915 SW 170th Street<br>
 Seattle, WA 98166
-Gerald Berton
-186 Lake Louise Road
+
+Gerald Berton<br>
+186 Lake Louise Road<br>
 Bellingham, WA 98225
-Christopher B. Hall
-1395 Pacific Highway
+
+Christopher B. Hall<br>
+1395 Pacific Highway<br>
 Bellingham, WA 98225
-Kenneth Brydges
-Route One, Whidbey Island
+
+Kenneth Brydges<br>
+Route One, Whidbey Island<br>
 Clinton, WA 98236
-M. J. McCLure
-c/o Winkes
-Route Five Box 307
+
+M. J. McCLure<br>
+转交 Winkes<br>
+Route Five Box 307<br>
 Mount Vernon, WA 98273
-Jack A. McFarland
-STRT 2, Box 259
+
+Jack A. McFarland<br>
+STRT 2, Box 259<br>
 Kingston, WA 98346
-Gregory A. Myrick
-Drawer C
+
+Gregory A. Myrick<br>
+Drawer C<br>
 Southworth, WA 98386
-Dennis Flannigan
-416 North Tacoma Avenue
+
+Dennis Flannigan<br>
+416 North Tacoma Avenue<br>
 Tacoma, WA 98403
-Bob Ness
-809 North M Street
+
+Bob Ness<br>
+809 North M Street<br>
 Tacoma, WA 98403
-Dusty Trail
-1402 North Eleventh
+
+Dusty Trail<br>
+1402 North Eleventh<br>
 Tacoma, WA 98403
-Dennis L. Kerr
-901% East 32nd Street
+
+Dennis L. Kerr<br>
+901½ East 32nd Street<br>
 Tacoma, WA 98404
-Luana Sever
-3635 64th Avenue West
+
+Luana Sever<br>
+3635 64th Avenue West<br>
 Tacoma, WA 98466
-Charles L. Morgan
-8017 Thorne Lane North
+
+Charles L. Morgan<br>
+8017 Thorne Lane North<br>
 Tacoma, WA 98498
-Garland Cox
-Route Seven, Box 480
+
+Garland Cox<br>
+Route Seven, Box 480<br>
 Olympia, WA 98501
-Ross Davis, Jr.
-Route Three, Box 232
+
+Ross Davis, Jr.<br>
+Route Three, Box 232<br>
 Chehalis, WA 98532
-Donald Call
-General Delivery
+
+Donald Call<br>
+邮局留交<br>
 Westport, WA 98595
-Lt. Lowe Johnston
-5008th SPT SQ (AAC)
-CMR One, Box 2245
+
+Lowe Johnston 中尉<br>
+第 5008 支援中队（AAC）<br>
+CMR One, Box 2245<br>
 APO Seattle 98742
-Lawrence J. Murray
-USC & GSS Oceanographer
+
+Lawrence J. Murray<br>
+USC & GSS“海洋学家”号（Oceanographer）<br>
 FPO Seattle 98799
-Mike Strange
-Box 272
+
+Mike Strange<br>
+Box 272<br>
 Tonasket, WA 98855
-Taylors
-c/o Dreschers
-Havillah Route
+
+Taylors<br>
+转交 Dreschers<br>
+Havillah Route<br>
 Tonasket, WA 98855
-Bart Alexander
-14th & B, Kamiakin Village No. 9
+
+Bart Alexander<br>
+14th & B, Kamiakin Village No. 9<br>
 Ellensburg, WA 98926
-Dr. Ralph G, Connor
-Department of Sociology
-EWSsCc
+
+Dr. Ralph G. Connor<br>
+社会学系<br>
+E W S C<br>
 Cheney, WA 99004
-Sue & Jim Wallace
-351 Nolan Brown
+
+Sue & Jim Wallace<br>
+351 Nolan Brown<br>
 Cheney, WA 99004
-R. G. Davis
-Route One
+
+R. G. Davis<br>
+Route One<br>
 Colbert, WA 99005
-George R. Mead
-West 206 Fairview
+
+George R. Mead<br>
+West 206 Fairview<br>
 Colfax, WA 99111
-Bruce Peterson
-1400 Maiden Lane No 34
+
+Bruce Peterson<br>
+1400 Maiden Lane No 34<br>
 Pullman, WA 99163
-Mary Abernathy.
-East 2608 31st Street
+
+Mary Abernathy<br>
+East 2608 31st Street<br>
 Spokane, WA 99203
-Deborah Schleef
-South 4615 Hogan
+
+Deborah Schleef<br>
+South 4615 Hogan<br>
 Spokane, WA 99203
-Barney L, Larson
-South 220 Elm, No6
+
+Barney L. Larson<br>
+South 220 Elm, No 6<br>
 Spokane, WA 99204
-Mrs. B. W. LeFave
-Route Two, 120A
+
+Mrs. B. W. LeFave<br>
+Route Two, 120A<br>
 Spokane, WA 99207
-Gary W. Stitzinger
-1410 East Courtland
+
+Gary W. Stitzinger<br>
+1410 East Courtland<br>
 Spokane, WA 99207
-William E, Parker
-1402 Lee Boulevard
+
+William E. Parker<br>
+1402 Lee Boulevard<br>
 Richland, WA 99352
-Alaska
-Mr. & Mrs. Peter H. Bergeron
-Box 3-3987
+
+### 阿拉斯加州
+
+Mr. & Mrs. Peter H. Bergeron<br>
+Box 3-3987<br>
 Anchorage, AK 99501
-Don E, Parker
-Box 3-3913
-Anchorage, Ak 99501
-Carole H. Wall
-Box 1374 /
+
+Don E. Parker<br>
+Box 3-3913<br>
 Anchorage, AK 99501
-Warren Matthews
-8916 Gloralee
+
+Carole H. Wall<br>
+Box 1374<br>
+Anchorage, AK 99501
+
+Warren Matthews<br>
+8916 Gloralee<br>
 Anchorage, AK 99502
-Donald Lamb
-Box 108
-Anchor Point, AK 99556 ~
-Ted Schultz
-Box 22, Star Route A
+
+Donald Lamb<br>
+Box 108<br>
+Anchor Point, AK 99556
+
+Ted Schultz<br>
+Box 22, Star Route A<br>
 Anchorage, AK 99502
-Don Sagmoen
-Box 70
+
+Don Sagmoen<br>
+Box 70<br>
 Dillingham, AK 99576
-Charles E. Green
-Box 2577
+
+Charles E. Green<br>
+Box 2577<br>
 Kodiak, AK 99615
-Mr. & Mrs, Rhonald J, Duke
-Star Route, Knik Road
+
+Mr. & Mrs. Rhonald J. Duke<br>
+Star Route, Knik Road<br>
 Wasilla, AK 99687
-Douglas K. Bingham
-Box 50727
+
+Douglas K. Bingham<br>
+Box 50727<br>
 College, AK 99701
-Guy Burneko
-c/o Department of English
-University of Alaska
+
+Guy Burneko<br>
+转交英语系<br>
+阿拉斯加大学<br>
 College, AK 99701
-Merritt R. Helfferich
-c/o Geophysical Institute
+
+Merritt R. Helfferich<br>
+转交地球物理研究所<br>
 College, AK 99701
-Gordon Herreid
-Wolverine Lane
+
+Gordon Herreid<br>
+Wolverine Lane<br>
 Fairbanks, AK 99701
-P.W. Kearton
-Box 5901
+
+P. W. Kearton<br>
+Box 5901<br>
 College, AK 99701
-Dr. Eugene Wescott
-Box 5-086
+
+Dr. Eugene Wescott<br>
+Box 5-086<br>
 College, AK 99701
-Scot Wheat
-313 Charles Street
+
+Scot Wheat<br>
+313 Charles Street<br>
 Fairbanks, AK 99701
-D, H. Matsutani, M.D.
-PHS Alaska Native Hospital
+
+D. H. Matsutani, M. D.<br>
+公共卫生署阿拉斯加原住民医院（PHS Alaska Native Hospital）<br>
 Barrow, AK 99723
-James C. Stevens
-Box 627
+
+James C. Stevens<br>
+Box 627<br>
 Barrow, AK 99723
-Tom |. Robinson
-BIA
+
+Tom I. Robinson<br>
+BIA<br>
 Kotzebue, AK 99752
-William M. Dann
-Box 609
+
+William M. Dann<br>
+Box 609<br>
 Nome, AK 99762
-Richard A. Blair
+
+Richard A. Blair<br>
 Noorvik, AK 99763
-Dan Denslow
+
+Dan Denslow<br>
 Ambler, AK 99786
-David & Bettye Dean
-Box 655
+
+David & Bettye Dean<br>
+Box 655<br>
 Juneau, AK 99801
-Michael Swift
-Box 1034
+
+Michael Swift<br>
+Box 1034<br>
 Sitka, AK 99835
+
+### 美属萨摩亚
+
+Greenman<br>
+教育部<br>
+Pago Pago Tutuila<br>
 American Samoa
-Greenman
-Department of Education
-Pago Pago Tutuila
-American Samoa
-Brazil
-Sr. Frank Antonson
-c/o Coopoli
-Catolé do Rocha
+
+### 巴西
+
+Sr. Frank Antonson<br>
+转交 Coopoli<br>
+Catolé do Rocha<br>
 Paraika, Brazil
-Canada
-Wayne Adams
-2736 Forbes Street
+
+### 加拿大
+
+Wayne Adams<br>
+2736 Forbes Street<br>
 Victoria, British Columbia
-Tom Baron
-121 Pine Street
+
+Tom Baron<br>
+121 Pine Street<br>
 Sherwood Park, Alberta
-Mr. & Mrs. D. Bellaar-Spruyt
-Musk Ox Project
+
+Mr. & Mrs. D. Bellaar-Spruyt<br>
+麝牛项目（Musk Ox Project）<br>
 Fort Chino, Quebec
-S. W. Bellworthy
-21 Bayview Drive
+
+S. W. Bellworthy<br>
+21 Bayview Drive<br>
 Clayton Park, Halifax
-W. G. Brown
-c/o 1416 Fairfield Road
+
+W. G. Brown<br>
+转交 1416 Fairfield Road<br>
 Victoria, BC
-Joseph Buch
-160 Huron Street
+
+Joseph Buch<br>
+160 Huron Street<br>
 Toronto 2B, Ontario
-Albert Burger
-Box 6
+
+Albert Burger<br>
+Box 6<br>
 Faust, Alberta
-Don Burke
-Box 8
-Espanola, Ontario jean Mollin
-2770 Bellew
-West Vanco
-Herbert Burke — 4
-Box 1345 ~ .
+
+Don Burke<br>
+Box 8<br>
+Espanola, Ontario
+
+Herbert Burke<br>
+Box 1345<br>
 Sackville, New Brunswick
-Or, Howard Bussey
-Department of Biology
-McGill University
+
+Dr. Howard Bussey<br>
+生物学系<br>
+麦吉尔大学<br>
 Montreal, Quebec
-K. Coburn
-1926 Balsam Street Apt. 301
+
+K. Coburn<br>
+1926 Balsam Street Apt. 301<br>
 Vancouver, British Columbia
-Mrs. Robert C. Cooke
-1154 Tower Road
+
+Mrs. Robert C. Cooke<br>
+1154 Tower Road<br>
 Halifax, Nova Scotia
-‘Gilles Couture
-Box 666
-Val d’‘Or, Quebec
-J. Kelley Dresser
-Box 62 D
+
+Gilles Couture<br>
+Box 666<br>
+Val d'Or, Quebec
+
+J. Kelley Dresser<br>
+Box 62<br>
 Dawson Creek, British Columbia
-East Coast Community School
-5500 Inglis Street
+
+东海岸社区学校（East Coast Community School）<br>
+5500 Inglis Street<br>
 Halifax, Nova Scotia
-Edelweiss Valley
-Larry, Jill & Family
-RR 2 Wakefield
+
+雪绒花谷（Edelweiss Valley）<br>
+Larry、Jill 及家人<br>
+RR 2 Wakefield<br>
 Quebec
-Dr. D. H. Elliott
-Box 428
+
+Dr. D. H. Elliott<br>
+Box 428<br>
 Bedford, Nova Scotia
-John Engleman
-RR 2
+
+John Engleman<br>
+RR 2<br>
 King City, Ontario
-Frank Fice
-172 Regatta Avenue
+
+Frank Fice<br>
+172 Regatta Avenue<br>
 Pointe Claire, Quebec
-Daniel Fox
-5939 Sixth Street
+
+Daniel Fox<br>
+5939 Sixth Street<br>
 Burnaby, British Columbia
-Professor Bruno B. Fresch
-School of Architecture
-University of British Columbia
+
+Bruno B. Fresch 教授<br>
+建筑学院<br>
+不列颠哥伦比亚大学<br>
 Vancouver 8, British Columbia
-Gilles Gheerbrant
-Centre Audio-Visual
-Universite de Montreal
-Case Postale 612B
+
+Gilles Gheerbrant<br>
+视听中心<br>
+蒙特利尔大学<br>
+邮政信箱 612B<br>
 Montreal 101, Quebec
-J. F.R. Gower
-4588 West 14th
+
+J. F. R. Gower<br>
+4588 West 14th<br>
 Vancouver, British Columbia
-Dianne Green
-3520 Second Avenue SW
+
+Dianne Green<br>
+3520 Second Avenue SW<br>
 Calgary, Alberta
-John Gusdorf
-c/o Irene Kon
-56 Columbia
+
+John Gusdorf<br>
+转交 Irene Kon<br>
+56 Columbia<br>
 Montreal, Quebec
-Jennifer Hackett
-2171 Old Orchard Road
+
+Jennifer Hackett<br>
+2171 Old Orchard Road<br>
 Montreal, Quebec
-George Hall
-Box 39
+
+George Hall<br>
+Box 39<br>
 Lake Cowichan, British Columbia
-Lex Hanson
+
+Lex Hanson<br>
 Gambier Island, British Columbia
-Alice Harmon
-Tranquille School
+
+Alice Harmon<br>
+Tranquille 学校<br>
 Tranquille, British Columbia
-Mr. & Mrs. Michael Hayden
-252 Adelaide Street E
+
+Mr. & Mrs. Michael Hayden<br>
+252 Adelaide Street E<br>
 Toronto, 2, Ontario
-Frank Hodder
-104 Autumnwood Drive
-Thunder Bay “‘P’’, Ontario
-Benjamin Hollander
-15 Avenal Drive
+
+Frank Hodder<br>
+104 Autumnwood Drive<br>
+Thunder Bay “P”, Ontario
+
+Benjamin Hollander<br>
+15 Avenal Drive<br>
 Toronto 137, Ontario
-Frederick Hunrath
-Box 427
-West Vancouver, British Columbia to, Ray
-International Cinemedia Center
-Limited
-245 Victoria Avenue, Suite 701
+
+Frederick Hunrath<br>
+Box 427<br>
+West Vancouver, British Columbia
+
+国际电影媒体中心<br>
+有限公司<br>
+245 Victoria Avenue, Suite 701<br>
 Montreal, Quebec
-Robert M, Ireland
-c/o The Local Improvement
-District of Wabash
-Box 190 ‘
-Wabash, Labrador
+
+Robert M. Ireland<br>
+转交地方改善区<br>
+Wabash<br>
+Box 190<br>
+Wabash, Labrador<br>
 Newfoundland
-Helen Kane
-Box 26
+
+Helen Kane<br>
+Box 26<br>
 Georgeville, Quebec
-John S. Katz
-Ontario Institute for Studies
-on Education
-252 Bloor Street West
+
+John S. Katz<br>
+安大略教育研究所<br>
+252 Bloor Street West<br>
 Toronto 5, Ontario
-George | Killy
-2570 Laurier Crescent
+
+George I Killy<br>
+2570 Laurier Crescent<br>
 Prince George, British Columbia
-J. Kral
-1009 Harvard Avenue
+
+J. Kral<br>
+1009 Harvard Avenue<br>
 Montreal 260, Quebec
-Or, Hans A. Kuechler
-33 Russell Street
+
+Dr. Hans A. Kuechler<br>
+33 Russell Street<br>
 Toronto 4, Ontario
-R, L. McCauley
-c/o Control Data
-89 Carlingsview Drive
+
+R. L. McCauley<br>
+转交控制数据公司（Control Data）<br>
+89 Carlingsview Drive<br>
 Toronto, Ontario
-Tim McGee
-1688 Vernon Street
+
+Tim McGee<br>
+1688 Vernon Street<br>
 Halifax, Nova Scotia
-Manson's Landing
+
+Manson's Landing<br>
 Cortez Island, British Columbia
-George R. Marshall
-c/o Psychology Department
-Sir George Williams University
+
+George R. Marshall<br>
+转交心理学系<br>
+乔治·威廉斯爵士大学<br>
 Montreal, Quebec
-Robert D. Menhennett
-Hutchinson Road, RR 1
+
+Robert D. Menhennett<br>
+Hutchinson Road, RR 1<br>
 Cobble Hill, British Columbia
-William Mentin
-1717 Dunbar
+
+William Mentin<br>
+1717 Dunbar<br>
 Vancouver, 8, British Columbia
-son
-ue Avenue |
-uver, British Columbia
-‘Silence han peda alighy heat use it
-It is, and that is its greatness, its”
-There is no beginning to
-Man does not put silence to the test, “silence
-man to the test. D
-Silence contains eyerything within itself; it is no
-waiting for anything, it is'always wholly. present
-in itself and completely, fills one the space
-in which it appears.
-Silence is original and self-evident, like the other
-basic phenomena, like love and liberty and:
-death and life itself. zs
-But it existed before all of these and is in all of
-them. Gass
-And there is more silence than speech in them, more
-of the invisible than the visible. — R
-There is also more silence in one person than can he
-used in a single human life.
---Max Hiean
-Edwin Townshend
-Box 638, Seaview Hotel
-Souris East, P.E.1
-Serials Division
-Main Library
-University of British Columbia
-Vancouver 8, British Columbia
-Peter Weaver
-Box 1842, Station B
-Montreal 110, Quebec
-Elgin County Library
-Courthouse - 9 Gladstone Avenue ap
-St. Thomas, Ontario
-Jon Moynes
-35 Charles Street West No.1506
+
+Jean Mollinson<br>
+2770 Bellevue Avenue<br>
+West Vancouver, British Columbia
+
+Jon Moynes<br>
+35 Charles Street West No.1506<br>
 Toronto 5, Ontario
-Fritz Mueller
+
+Fritz Mueller<br>
 Hills, British Columbia
-Mr. & Mrs. Brahim Muhawi
-RR 1, Fonthill
+
+Mr. & Mrs. Brahim Muhawi<br>
+RR 1, Fonthill<br>
 Ontario
-Richard Murrin
-136 Famham Avenue
+
+Richard Murrin<br>
+136 Farnham Avenue<br>
 Toronto 7, Ontario
-Barry Napier
-Innisfree Farm
-John Wilcox:
-Box 43
-Otterville, Ontario |
-Michael Nelson John Wilcox
-164 East 2nd Street 4907 Prospect Avenue
-North Vancouver, British ColumbiagR 7 '
-Victoria, British Columbia
-David B. Wortman :
-23 Valley Woods Road Suite 40 —
-Don Mills 401, Ontario
-W. C, Yeomans
-4512B West Saanich Road
-Hornby Island, British Columbia
-Frank Nissen
-1 St. Thomas Street
-Toronto 181, Ontario
-Alfred North
-511 Montcalm
-Montreal 132, Quebec.
-Ottawa New School
-c/o Shirley Greenberg
-~H, Yuill
-5 Commanche Drive Deane nue
-Ottawa 5, Ontario Box 756
-Mr. & Mrs. Van Penick Medicine Hat, Alberta
-RR5 :
-Canning, Nova Scotia 2 Canal Zone
-pone seni enelps Gordon E. Thiel
-c/o Physics Department Box 1956 |
-University of British Columbia
-Vancouver 8, British Columbia
-Thomas Piper
-1021 Greene Avenue
-Montreal 215, Quebec
-Edward Pomeroy
-c/o Psychology Department
-Brock University
-St. Catherines, Ontario
-Balboa, Canal'Zone
-Costa Rica
-David Sliwa
-Apdo. 81 1.1.C.A.
-Turrialbo, Costa Rica
-Lewis Poteet Cyprus
-44 York Street
-Westmount, Quebec A.P. Lanitis
-Box 203
-David & Tamara Rasmusen
-Meat Cove
-Inverness County
-Nova Scotia,
-Limassol, Cyprus
-England
-Theodore Ravetz r
-1637 Stephens Street
-Vancouver 8, British Columbia
-Mrs. Linda Careaga
-31A Windermere Avenue
-London N3 30X, England
-Box 343 Larry Gilbart
-Vanderhoof, British Columbia Redstacks |
-Ed Remming Compton Avenue
-Hampstead Lane
-London N6 4LB, England _
-Latin American Newsletters, iia?
-69 Cannon Street ~ 9 cane
-Earthworks . }
-5270 Marine Drive Tendon ECS agendas ;
-West Vancouver, British Columbia R. L. Seiffert
-Jaynes Court
-Bisley Near Stroud
-Gloucestershire, England
-1A Olive Avenue No. 4
-Toronto 4, Ontario A
-Davy Rippner
-Jerry Rothstein
-Gestalt Institute of Canada
-Lake Cowichan, British Columbia
-Mr. & Mrs. Ruppell f
-Bosea 2a Netherlands
-Hearst, Ontario ‘
-Arnold Saba Robert L. A. Troost
-14 Ereprysstraat
-General Delivery Sense Uenlacd
-Whaletown, British Columbia
-John B. Scriven
-136 Pinegrove Avenue
-Scarborough 714, Ontario
-David Sellers
-1452 Arbutus Street
-Vancouver 9, British Columbia
-Craig Silverberg
-Rural Route Two
-Courtenay, British Columbia
-John & Wendy Smaliman
-Tyrone Village RR 5S
-Bowmanville, Ontario
-Donald Smith
-8504 99th Street Suite 201
-Edmonton, Alberta
-Kenya
-Ronald Jorgensen :
-c/o The Ford Foundstontt 4
-Box 1081 ¥ ,
-Nairobi, Kenya
-New Zealand
-William Gruam
-Pakiri Beach
-Via Wellsford
-North Auckland
-New Zealand
-Mr. & Mrs, James Stansbury Pee doled
-321 Manor Road East Neldon RR 1
-Toronto 7, Ontario New Zealand
-Kate Stevens
-Department of East Asian Studies
-University of Toronto
-Toronto 5, Ontario
-Nicaragua
-Mike Swink
-Banco Central
-Managua, Nicaragua
-Thomas S. Tarr
-1470 Columbia Street
+
+Barry Napier<br>
+茵尼斯弗利农场（Innisfree Farm）<br>
+Box 43<br>
+Otterville, Ontario
+
+Michael Nelson<br>
+164 East 2nd Street<br>
 North Vancouver, British Columbia
-Les Thimmig
-3480 May fair Drive
+
+Frank Nissen<br>
+1 St. Thomas Street<br>
+Toronto 181, Ontario
+
+Alfred North<br>
+511 Montcalm<br>
+Montreal 132, Quebec
+
+渥太华新学校（Ottawa New School）<br>
+转交 Shirley Greenberg<br>
+5 Commanche Drive<br>
+Ottawa 5, Ontario
+
+Mr. & Mrs. Van Penick<br>
+R R 5<br>
+Canning, Nova Scotia
+
+Dan & Jan Phelps<br>
+转交物理学系<br>
+不列颠哥伦比亚大学<br>
+Vancouver 8, British Columbia
+
+Thomas Piper<br>
+1021 Greene Avenue<br>
+Montreal 215, Quebec
+
+Edward Pomeroy<br>
+转交心理学系<br>
+布鲁克大学<br>
+St. Catherines, Ontario
+
+Lewis Poteet<br>
+44 York Street<br>
+Westmount, Quebec
+
+David & Tamara Rasmusen<br>
+Meat Cove<br>
+Inverness County<br>
+Nova Scotia
+
+Theodore Ravetz<br>
+1637 Stephens Street<br>
+Vancouver 8, British Columbia
+
+Tom Ray<br>
+Box 343<br>
+Vanderhoof, British Columbia
+
+Ed Remming<br>
+1A Olive Avenue No. 4<br>
+Toronto 4, Ontario
+
+Davy Rippner<br>
+大地工程（Earthworks）<br>
+5270 Marine Drive<br>
+West Vancouver, British Columbia
+
+Jerry Rothstein<br>
+加拿大格式塔研究所（Gestalt Institute of Canada）<br>
+Lake Cowichan, British Columbia
+
+Mr. & Mrs. Ruppell<br>
+Box 1282<br>
+Hearst, Ontario
+
+Arnold Saba<br>
+邮局留交<br>
+Whaletown, British Columbia
+
+John B. Scriven<br>
+136 Pinegrove Avenue<br>
+Scarborough 714, Ontario
+
+David Sellers<br>
+1452 Arbutus Street<br>
+Vancouver 9, British Columbia
+
+Craig Silverberg<br>
+Rural Route Two<br>
+Courtenay, British Columbia
+
+John & Wendy Smallman<br>
+Tyrone Village R R 5<br>
+Bowmanville, Ontario
+
+Donald Smith<br>
+8504 99th Street Suite 201<br>
+Edmonton, Alberta
+
+Mr. & Mrs. James Stansbury<br>
+321 Manor Road East<br>
+Toronto 7, Ontario
+
+Kate Stevens<br>
+东亚研究系<br>
+多伦多大学<br>
+Toronto 5, Ontario
+
+Thomas S. Tarr<br>
+1470 Columbia Street<br>
+North Vancouver, British Columbia
+
+Les Thimmig<br>
+3480 Mayfair Drive<br>
 Victoria, British Columbia
-Switzerland
-F. Rodgers
-Robert T, Todd Eleon A. G. Baarerst
-17 Redford Road, RR 2 CH 6301 Zug
+
+Robert T. Todd<br>
+17 Redford Road, RR 2<br>
 London, Ontario
-```
+
+Edwin Townshend<br>
+Box 638，海景旅馆（Seaview Hotel）<br>
+Souris East, P.E. 1
+
+连续出版物部<br>
+总图书馆<br>
+不列颠哥伦比亚大学<br>
+Vancouver 8, British Columbia
+
+Peter Weaver<br>
+Box 1842, Station B<br>
+Montreal 110, Quebec
+
+埃尔金县图书馆（Elgin County Library）<br>
+法院大楼——9 Gladstone Avenue<br>
+St. Thomas, Ontario
+
+John Wilcox
+
+John Wilcox<br>
+4907 Prospect Avenue<br>
+RR 7<br>
+Victoria, British Columbia
+
+David B. Wortman<br>
+23 Valley Woods Road Suite 40<br>
+Don Mills 401, Ontario
+
+W. C. Yeomans<br>
+4512B West Saanich Road<br>
+Hornby Island, British Columbia
+
+W. H. Yuill<br>
+Burnside 农场<br>
+Box 756<br>
+Medicine Hat, Alberta
+
+### 运河区
+
+Gordon E. Thiel<br>
+Box 1956<br>
+Balboa, Canal Zone
+
+### 哥斯达黎加
+
+David Sliwa<br>
+Apdo. 81 I.I.C.A.<br>
+Turrialbo, Costa Rica
+
+### 塞浦路斯
+
+A. P. Lanitis<br>
+Box 203<br>
+Limassol, Cyprus
+
+### 英格兰
+
+Mrs. Linda Careaga<br>
+31A Windermere Avenue<br>
+London N3 3QX, England
+
+Larry Gilbart<br>
+Redstacks<br>
+Compton Avenue<br>
+Hampstead Lane<br>
+London N6 4LB, England
+
+拉丁美洲通讯有限公司（Latin American Newsletters, Ltd.）<br>
+69 Cannon Street<br>
+London EC4, England
+
+R. L. Seiffert<br>
+Jaynes Court<br>
+Bisley Near Stroud<br>
+Gloucestershire, England
+
+### 荷兰
+
+Robert L. A. Troost<br>
+14 Ereprysstraat<br>
+Soest, Holland
+
+### 肯尼亚
+
+Ronald Jorgensen<br>
+转交福特基金会（The Ford Foundation）<br>
+Box 1081<br>
+Nairobi, Kenya
+
+### 新西兰
+
+William Gruam<br>
+Pakiri Beach<br>
+Via Wellsford<br>
+North Auckland<br>
+New Zealand
+
+Dick Roberts<br>
+Todd's Valley<br>
+Neldon RR 1<br>
+New Zealand
+
+### 尼加拉瓜
+
+Mike Swink<br>
+中央银行（Banco Central）<br>
+Managua, Nicaragua
+
+### 瑞士
+
+F. Rodgers<br>
+Eleon A. G. Baarerstrasse 43<br>
+CH 6301 Zug<br>
+Switzerland
+
+### 论沉默
+
+沉默之所以伟大，只因它存在。
+它存在；它的伟大就在于此，就在于它纯粹的存在。
+沉默没有开端，也没有终点。
+人并不考验沉默，沉默考验人。
+
+沉默把一切包含在自身之中；它不等待任何东西，它总是完整地存在于自身之中，完全充满它所出现的空间。
+
+沉默是本原的、不言自明的，就像其他基本现象，就像爱、自由、死亡和生命本身。
+但它早于这一切而存在，也存在于这一切之中。
+而且，在这一切之中，沉默比言语更多，不可见的比可见的更多。
+一个人所包含的沉默，也多于他一生所能用尽的。
+
+——马克斯·皮卡德（Max Picard）
 
 ## Omitted Bibliographic/Order Info
 
@@ -1414,8 +1656,10 @@ London, Ontario
 
 ## OCR / Uncertainty Notes
 
-- 邮寄名单保留历史扫描 OCR 拼写；不擅自纠改人名或地址。
+- 保留原刊 Kerstettter、Paraika、Fort Chino、Pointe Claire 等本页历史拼写及邮址；不把没有邮编的加拿大记录与下一条合并。
+- 官方 OCR 证据块原样保留；本轮纠错不回写原始证据。
 
 ## Self Critique
 
-- 已保留所有可恢复姓名、地址、机构和数字；待独立复核。
+- 补回图书馆、大学、农场与项目说明；修正三处 ½ 门牌；保留 John Wilcox 单独姓名及后面的同名地址；重接绕页码排印的 Jean Mollinson、2770 Bellevue Avenue、West Vancouver；逐句翻译沉默引文。
+- 本轮为同一执行者的逐页纠错复核，不是新增独立审校。
