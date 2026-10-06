@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "routes": {
+    "wholeearthcatalo00unse_8": {"kind":"reader","label":"开放阅读室","path":"中文对照 / 1968 Fall Catalog","action":"进入中文阅读室","url":"../../reader-prototype/1968/index.html","note":"这一期已开放中文对照阅读室。"},
+    "wholeearthcatalo00unse_10": {"kind":"reader","label":"开放阅读室","path":"中文对照 / 1969 Spring Catalog","action":"进入中文阅读室","url":"../../reader-prototype/1969/index.html","note":"这一期已开放中文对照阅读室。"},
+    "wholeearthcatalo00unse_7": {"kind":"reader","label":"开放阅读室","path":"中文对照 / 1969 Fall Catalog","action":"进入中文阅读室","url":"../../reader-prototype/index.html?issue=fall-1969","note":"这一期已开放中文对照阅读室。"},
+    "wholeearthcatalo00unse_1": {"kind":"reader","label":"开放阅读室","path":"中文对照 / 1970 Spring Catalog","action":"进入中文阅读室","url":"../../reader-prototype/index.html?issue=spring-1970","note":"这一期已开放中文对照阅读室。"},
+    "wholeearthcatalo00unse_0": {"kind":"reader","label":"开放阅读室","path":"中文对照 / 1970 Fall Catalog","action":"进入中文阅读室","url":"../../reader-prototype/index.html?issue=fall-1970","note":"这一期已开放中文对照阅读室。"},
+    "wholeearthcatalo00unse_3": {"kind":"reader","label":"开放阅读室","path":"中文对照 / 1971 January Catalog","action":"进入中文阅读室","url":"../../reader-prototype/index.html?issue=january-1971","note":"这一期已开放中文对照阅读室。"},
+    "lastsupplementto00unse": {"kind":"reader","label":"开放阅读室","path":"中文对照 / 1971 March Last Supplement","action":"进入中文阅读室","url":"../../reader-prototype/index.html?issue=march-1971-last-supplement","note":"这一期已开放中文对照阅读室；页内保留已注明的次要缺字。"}
+  }
+}

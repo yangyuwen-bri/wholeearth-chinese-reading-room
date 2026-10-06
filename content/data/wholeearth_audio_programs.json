@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "host": {
+    "id": "host-01",
+    "name": "Whole Earth Radio",
+    "locale": "zh-CN",
+    "voiceType": "synthetic",
+    "voiceLabel": "近场普通话档案电台声线",
+    "synthetic": true,
+    "rightsNote": "原创导览稿与合成声音；不模仿真人或名人声音。"
+  },
+  "programs": {
+    "lastsupplementto00unse": {
+      "issueId": "lastsupplementto00unse",
+      "hostId": "host-01",
+      "audioUrl": "../assets/audio/wholeearth-radio/lastsupplementto00unse.mp3",
+      "durationSeconds": 25,
+      "status": "published-preview",
+      "scriptSource": "issue metadata and accepted translation scope",
+      "transcriptStatus": "available-on-request"
+    }
+  }
+}
