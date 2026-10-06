@@ -41,7 +41,7 @@ a { color: inherit; }
   position: relative;
   width: min(1600px, 100%);
   height: min(980px, calc(100vh - 32px));
-  min-height: 760px;
+  min-height: min(760px, calc(100vh - 32px));
   display: grid;
   grid-template-rows: 64px minmax(0, 1fr) 116px;
   gap: 12px;
@@ -149,6 +149,18 @@ input[type=range] { position: absolute; inset: -10px 0; width: 100%; opacity: 0;
 .ticker-line em { grid-column: 2; overflow: hidden; color: var(--phosphor); font-family: var(--mono); font-size: 9px; font-style: normal; text-overflow: ellipsis; white-space: nowrap; }
 .status-note { color: var(--muted); font-family: var(--mono); font-size: 10px; line-height: 1.4; }
 @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: .001ms !important; } }
+@media (min-width: 1181px) and (max-height: 780px) {
+  .deck { padding: 10px; }
+  .machine { padding: 10px; gap: 8px; grid-template-rows: 54px minmax(0, 1fr) 96px; }
+  .bay h2 { padding: 10px 12px 9px; }
+  .channels { padding: 9px; gap: 5px; }
+  .channel { min-height: 52px; padding: 7px 9px; }
+  .side-content { gap: 8px; padding: 11px; }
+  .selected-cover { width: 112px; height: 150px; }
+  .issue-identity { grid-template-columns: 112px minmax(0,1fr); gap: 12px; }
+  .control { padding: 10px 12px; }
+  .ticker { gap: 12px; }
+}
 @media (max-width: 1180px) { .machine { height: auto; min-height: calc(100vh - 32px); grid-template-rows: 64px auto auto; } body { overflow: auto; } .upper { grid-template-columns: 200px minmax(0,1fr); } .side { grid-column: 1 / -1; } .frequency-deck { grid-template-columns: 1fr; } .crt { min-height: 620px; } }
 </style>
 </head>
