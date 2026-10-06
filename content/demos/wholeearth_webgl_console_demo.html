@@ -1,797 +1,175 @@
 <!doctype html>
 <html lang="zh-CN">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Whole Earth WebGL Signal Console</title>
-  <link rel="icon" href="data:,">
-  <style>
-    :root {
-      --black: #030402;
-      --deep: #090b07;
-      --metal: #2b2d22;
-      --metal-dark: #11130d;
-      --edge: #5f5d47;
-      --cream: #f4e8b9;
-      --paper: #d6c480;
-      --green: #8cff72;
-      --green-dim: #52794b;
-      --amber: #e8a93b;
-      --red: #d36b50;
-      --blue: #61b5c7;
-      --violet: #9d84cf;
-      --mono: "Courier New", ui-monospace, monospace;
-      --serif: "Iowan Old Style", "Songti SC", "STSong", Georgia, serif;
-      --status-reader: #8cff72;
-      --status-guide: #e8a93b;
-      --status-map: #61b5c7;
-      --status-index: #d6c480;
-      --status-scan: #8b856a;
-    }
-
-    * { box-sizing: border-box; }
-    html, body { min-height: 100%; }
-    body {
-      margin: 0;
-      overflow: hidden;
-      color: var(--cream);
-      background:
-        radial-gradient(circle at 50% 14%, rgba(140,255,114,.16), transparent 26rem),
-        radial-gradient(circle at 70% 88%, rgba(232,169,59,.16), transparent 28rem),
-        radial-gradient(circle at 15% 62%, rgba(97,181,199,.08), transparent 22rem),
-        linear-gradient(180deg, #11140d, var(--black));
-      font-family: var(--serif);
-    }
-
-    body::before {
-      content: "";
-      position: fixed;
-      inset: 0;
-      pointer-events: none;
-      z-index: 40;
-      background:
-        repeating-linear-gradient(0deg, rgba(255,255,255,.032) 0 1px, transparent 1px 4px),
-        radial-gradient(circle at 50% 47%, transparent 42%, rgba(0,0,0,.54));
-      mix-blend-mode: screen;
-      opacity: .55;
-    }
-
-    button, input { font: inherit; color: inherit; }
-    button { cursor: pointer; }
-
-    .deck {
-      min-height: 100vh;
-      padding: clamp(10px, 2vw, 24px);
-      display: grid;
-      place-items: center;
-      perspective: 1200px;
-    }
-
-    .machine {
-      position: relative;
-      width: min(1560px, 100%);
-      height: min(1000px, calc(100vh - 24px));
-      display: grid;
-      grid-template-rows: minmax(0, 1fr) 178px;
-      gap: 10px;
-      padding: 14px;
-      border: 2px solid #474637;
-      border-radius: 16px 16px 34px 34px;
-      background:
-        repeating-linear-gradient(90deg, transparent 0 48px, rgba(255,255,255,.025) 48px 49px),
-        linear-gradient(135deg, rgba(255,255,255,.08), transparent 22%),
-        linear-gradient(180deg, #303226, #15170f 54%, #0a0b07);
-      box-shadow:
-        inset 0 2px 0 rgba(255,255,255,.12),
-        inset 0 -42px 70px rgba(0,0,0,.58),
-        0 40px 100px rgba(0,0,0,.72);
-      transform: rotateX(1deg);
-      overflow: hidden;
-    }
-
-    .plate {
-      position: absolute;
-      left: 34px;
-      top: 26px;
-      z-index: 12;
-      display: flex;
-      align-items: center;
-      gap: 10px;
-      padding: 6px 10px;
-      border: 1px solid rgba(244,232,185,.42);
-      background: rgba(8,8,5,.82);
-      color: #ffe6a6;
-      font-family: var(--mono);
-      font-size: 12px;
-      letter-spacing: .1em;
-      text-transform: uppercase;
-      box-shadow: 0 0 20px rgba(232,169,59,.16);
-    }
-
-    .plate i {
-      width: 9px;
-      height: 9px;
-      border-radius: 50%;
-      background: var(--green);
-      box-shadow: 0 0 12px var(--green), 0 0 26px rgba(140,255,114,.42);
-      animation: blink 1.6s steps(2,end) infinite;
-    }
-
-    .upper {
-      min-height: 0;
-      display: grid;
-      grid-template-columns: 238px minmax(560px, 1fr) 370px;
-      gap: 14px;
-    }
-
-    .bay {
-      min-height: 0;
-      border: 1px solid #4a4938;
-      border-radius: 8px;
-      background:
-        repeating-linear-gradient(90deg, rgba(255,255,255,.022) 0 1px, transparent 1px 9px),
-        linear-gradient(180deg, rgba(255,255,255,.04), rgba(0,0,0,.28)),
-        var(--metal-dark);
-      box-shadow: inset 0 0 38px rgba(0,0,0,.62);
-      overflow: hidden;
-    }
-
-    .bay h2 {
-      margin: 0;
-      padding: 12px 13px;
-      border-bottom: 1px solid rgba(244,232,185,.18);
-      color: #ffe7a7;
-      font-family: var(--mono);
-      font-size: 12px;
-      letter-spacing: .12em;
-      text-transform: uppercase;
-    }
-
-    .channels {
-      padding: 42px 12px 12px;
-      display: grid;
-      gap: 10px;
-    }
-
-    .channel {
-      position: relative;
-      display: grid;
-      grid-template-columns: 28px minmax(0, 1fr);
-      gap: 10px;
-      align-items: center;
-      min-height: 58px;
-      border: 1px solid rgba(244,232,185,.16);
-      border-radius: 5px;
-      background:
-        linear-gradient(180deg, rgba(255,255,255,.07), rgba(0,0,0,.18)),
-        #20221a;
-      box-shadow: inset 0 1px rgba(255,255,255,.08), 0 5px 0 rgba(0,0,0,.28);
-      padding: 9px;
-      text-align: left;
-    }
-
-    .channel::before {
-      content: "";
-      width: 16px;
-      height: 16px;
-      border-radius: 50%;
-      background: var(--tone);
-      box-shadow: 0 0 15px var(--tone);
-      opacity: .72;
-    }
-
-    .channel strong {
-      display: block;
-      max-width: calc(100% - 36px);
-      overflow: hidden;
-      white-space: nowrap;
-      text-overflow: ellipsis;
-      font-size: 16px;
-      line-height: 1.08;
-    }
-
-    .channel small {
-      display: block;
-      margin-top: 3px;
-      color: var(--green-dim);
-      font-family: var(--mono);
-      font-size: 10px;
-      line-height: 1.2;
-    }
-
-    .channel b {
-      position: absolute;
-      right: 10px;
-      top: 9px;
-      color: var(--tone);
-      font-family: var(--mono);
-      font-size: 16px;
-    }
-
-    .channel.active {
-      border-color: color-mix(in srgb, var(--tone) 70%, #fff);
-      background:
-        linear-gradient(90deg, color-mix(in srgb, var(--tone) 25%, transparent), transparent),
-        #24261d;
-    }
-
-    .crt {
-      position: relative;
-      min-height: 0;
-      padding: 20px;
-      border: 2px solid #414236;
-      border-radius: 32px;
-      background:
-        radial-gradient(circle at 50% 10%, rgba(255,255,255,.06), transparent 40%),
-        linear-gradient(145deg, #333529, #11130e 55%, #070806);
-      box-shadow: inset 0 2px 0 rgba(255,255,255,.12), inset 0 -18px 34px rgba(0,0,0,.62), 0 0 0 8px rgba(0,0,0,.2);
-    }
-
-    .screen {
-      position: relative;
-      width: 100%;
-      height: 100%;
-      min-height: 0;
-      overflow: hidden;
-      border: 2px solid #080b07;
-      border-radius: 46% / 7%;
-      background:
-        radial-gradient(circle at 50% 48%, rgba(140,255,114,.18), transparent 30%),
-        radial-gradient(circle at 50% 62%, rgba(232,169,59,.08), transparent 45%),
-        #020402;
-      box-shadow: inset 0 0 38px rgba(0,0,0,.85), inset 0 0 130px rgba(140,255,114,.2), 0 0 34px rgba(140,255,114,.16);
-      isolation: isolate;
-    }
-
-    .screen canvas {
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-      display: block;
-      filter: contrast(1.08) saturate(1.15);
-    }
-
-    .screen::before {
-      content: "";
-      position: absolute;
-      inset: 0;
-      pointer-events: none;
-      z-index: 4;
-      background:
-        linear-gradient(128deg, transparent 0 16%, rgba(255,255,255,.08) 18%, transparent 33%),
-        repeating-linear-gradient(0deg, rgba(255,255,255,.055) 0 1px, transparent 1px 5px),
-        radial-gradient(circle at 50% 50%, transparent 52%, rgba(0,0,0,.5));
-      mix-blend-mode: screen;
-    }
-
-    .screen::after {
-      content: "";
-      position: absolute;
-      left: -24%;
-      right: -24%;
-      top: -12%;
-      height: 38px;
-      pointer-events: none;
-      z-index: 5;
-      background: linear-gradient(180deg, transparent, rgba(140,255,114,.18), transparent);
-      filter: blur(2px);
-      animation: vertical-scan 5.4s linear infinite;
-    }
-
-    .hud {
-      position: absolute;
-      z-index: 6;
-      left: 24px;
-      right: 24px;
-      top: 18px;
-      display: flex;
-      justify-content: space-between;
-      gap: 12px;
-      color: var(--green);
-      font-family: var(--mono);
-      font-size: 12px;
-      letter-spacing: .08em;
-      text-transform: uppercase;
-      text-shadow: 0 0 12px rgba(140,255,114,.72);
-      pointer-events: none;
-    }
-
-    .hud::before,
-    .hud::after {
-      content: "";
-      position: absolute;
-      top: 22px;
-      width: 90px;
-      height: 1px;
-      background: linear-gradient(90deg, rgba(140,255,114,.65), transparent);
-      opacity: .65;
-    }
-
-    .hud::before { left: 0; }
-    .hud::after {
-      right: 0;
-      transform: rotate(180deg);
-    }
-
-    .hud b { color: #ffe7a7; }
-
-    .hud-bottom {
-      top: auto;
-      bottom: 18px;
-      left: 40px;
-      right: 40px;
-      color: rgba(216,255,205,.8);
-      font-size: 11px;
-    }
-
-    .hud b {
-      max-width: 56%;
-      overflow: hidden;
-      white-space: nowrap;
-      text-overflow: ellipsis;
-    }
-
-    .side {
-      display: grid;
-      grid-template-rows: auto 1fr auto auto;
-      gap: 10px;
-      padding: 12px;
-    }
-
-    .mini {
-      position: relative;
-      min-height: 0;
-      overflow: hidden;
-      display: grid;
-      grid-template-rows: auto auto auto auto minmax(0, 1fr);
-      border: 2px solid #090d08;
-      border-radius: 18px;
-      background:
-        linear-gradient(180deg, rgba(140,255,114,.1), transparent),
-        #061006;
-      box-shadow: inset 0 0 42px rgba(0,0,0,.85), 0 0 18px rgba(140,255,114,.12);
-      padding: 14px;
-    }
-
-    .mini::before {
-      content: "";
-      position: absolute;
-      inset: 12px;
-      border: 1px solid rgba(140,255,114,.14);
-      border-radius: 12px;
-      pointer-events: none;
-    }
-
-    .mini::after {
-      content: "";
-      position: absolute;
-      inset: 0;
-      pointer-events: none;
-      background: repeating-linear-gradient(0deg, rgba(255,255,255,.045) 0 1px, transparent 1px 4px);
-    }
-
-    .mini .meta {
-      position: relative;
-      z-index: 1;
-      display: flex;
-      justify-content: space-between;
-      gap: 12px;
-      color: var(--green);
-      font-family: var(--mono);
-      font-size: 11px;
-      letter-spacing: .08em;
-      text-transform: uppercase;
-    }
-
-    .mini h3 {
-      position: relative;
-      z-index: 1;
-      margin: 10px 0 8px;
-      color: var(--cream);
-      font-size: clamp(20px, 1.75vw, 30px);
-      line-height: 1;
-      font-weight: 500;
-      text-wrap: balance;
-    }
-
-    .selected-cover {
-      position: relative;
-      z-index: 1;
-      width: min(82px, 30%);
-      aspect-ratio: 3 / 4;
-      margin-top: 10px;
-      border: 1px solid rgba(244,232,185,.38);
-      background: #10130c;
-      object-fit: cover;
-      box-shadow: 0 0 0 5px rgba(140,255,114,.05), 0 16px 34px rgba(0,0,0,.48);
-      transform: rotate(-1.5deg);
-    }
-
-    .status-strip {
-      position: relative;
-      z-index: 1;
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      gap: 7px;
-      margin-top: 10px;
-      font-family: var(--mono);
-      font-size: 10px;
-      letter-spacing: .08em;
-      text-transform: uppercase;
-    }
-
-    .status-badge {
-      display: inline-flex;
-      align-items: center;
-      min-height: 22px;
-      padding: 4px 8px;
-      border: 1px solid currentColor;
-      background: rgba(0,0,0,.35);
-      color: var(--status-scan);
-      box-shadow: 0 0 16px color-mix(in srgb, currentColor 24%, transparent);
-    }
-
-    .status-badge[data-status="reader"] { color: var(--status-reader); }
-    .status-badge[data-status="guide"] { color: var(--status-guide); }
-    .status-badge[data-status="map"] { color: var(--status-map); }
-    .status-badge[data-status="indexed"] { color: var(--status-index); }
-
-    .status-path {
-      color: rgba(216,255,205,.7);
-    }
-
-    .mini p {
-      position: relative;
-      z-index: 1;
-      margin: 0;
-      color: #d8ffcd;
-      font-size: 12px;
-      line-height: 1.32;
-    }
-
-    .tape {
-      border: 1px dashed rgba(244,232,185,.34);
-      background: rgba(214,196,125,.12);
-      padding: 10px;
-      color: #ffe7a7;
-      font-family: var(--mono);
-      font-size: 10px;
-      line-height: 1.32;
-      min-height: 46px;
-    }
-
-    .scan-link {
-      display: block;
-      border: 1px solid rgba(232,169,59,.68);
-      border-radius: 3px;
-      background: linear-gradient(180deg, #3a2a10, #1d170d);
-      color: #ffe7a7;
-      text-align: center;
-      text-decoration: none;
-      padding: 10px;
-      font-family: var(--mono);
-      font-size: 12px;
-      letter-spacing: .12em;
-      text-transform: uppercase;
-      box-shadow: inset 0 1px rgba(255,255,255,.14), 0 4px 0 rgba(0,0,0,.35);
-    }
-
-    .scan-link[data-status="reader"] {
-      border-color: rgba(140,255,114,.85);
-      background: linear-gradient(180deg, #24411c, #101d0d);
-      box-shadow: inset 0 1px rgba(255,255,255,.16), 0 4px 0 rgba(0,0,0,.35), 0 0 20px rgba(140,255,114,.12);
-    }
-
-    .scan-link[data-status="guide"] {
-      border-color: rgba(232,169,59,.9);
-      background: linear-gradient(180deg, #483212, #1d170d);
-    }
-
-    .scan-link[data-status="map"] {
-      border-color: rgba(97,181,199,.8);
-      background: linear-gradient(180deg, #18313a, #0d181d);
-    }
-
-    .controls {
-      display: grid;
-      grid-template-columns: 250px minmax(400px, 1fr) 300px;
-      gap: 10px;
-      transform: rotateX(2deg);
-      transform-origin: top;
-    }
-
-    .control {
-      position: relative;
-      overflow: hidden;
-      border: 1px solid #4a4938;
-      border-radius: 8px 8px 20px 20px;
-      background:
-        linear-gradient(150deg, rgba(255,255,255,.08), transparent 35%),
-        linear-gradient(180deg, #303125, #14160f);
-      box-shadow: inset 0 1px rgba(255,255,255,.12), inset 0 -20px 35px rgba(0,0,0,.46);
-      padding: 12px;
-    }
-
-    .paper-label {
-      display: inline-block;
-      margin-bottom: 8px;
-      padding: 4px 9px;
-      background: rgba(244,232,185,.9);
-      color: #17150e;
-      font-family: var(--mono);
-      font-size: 11px;
-      font-weight: 700;
-      letter-spacing: .08em;
-      text-transform: uppercase;
-      transform: rotate(-1deg);
-      box-shadow: 0 2px 0 rgba(0,0,0,.32);
-    }
-
-    .knob-row {
-      display: grid;
-      grid-template-columns: 88px 1fr;
-      gap: 12px;
-      align-items: center;
-    }
-
-    .knob {
-      width: 78px;
-      height: 78px;
-      border-radius: 50%;
-      border: 2px solid #090a07;
-      background:
-        radial-gradient(circle at 35% 28%, rgba(255,255,255,.16), transparent 18%),
-        radial-gradient(circle, #4a493b 0 24%, #202219 25% 48%, #0a0b07 49% 53%, #343528 54% 100%);
-      box-shadow: inset 0 0 20px rgba(0,0,0,.68), 0 9px 0 rgba(0,0,0,.36);
-      position: relative;
-    }
-
-    .knob::after {
-      content: "";
-      position: absolute;
-      left: 50%;
-      top: 7px;
-      width: 3px;
-      height: 21px;
-      transform: translateX(-50%) rotate(var(--knob-angle));
-      transform-origin: 50% 32px;
-      background: var(--amber);
-      box-shadow: 0 0 10px rgba(232,169,59,.6);
-    }
-
-    .year-number {
-      color: var(--amber);
-      font-family: var(--mono);
-      font-size: 34px;
-      line-height: .9;
-    }
-
-    .year-number span {
-      display: block;
-      margin-top: 6px;
-      color: var(--green-dim);
-      font-size: 10px;
-      letter-spacing: .1em;
-      text-transform: uppercase;
-    }
-
-    .tuner {
-      height: 62px;
-      display: grid;
-      align-items: center;
-      position: relative;
-    }
-
-    .rail {
-      position: relative;
-      height: 28px;
-      border: 1px solid rgba(244,232,185,.22);
-      background:
-        repeating-linear-gradient(90deg, rgba(244,232,185,.16) 0 1px, transparent 1px 25px),
-        #0c100b;
-      overflow: hidden;
-    }
-
-    .bars {
-      position: absolute;
-      inset: 3px;
-      display: grid;
-      grid-template-columns: repeat(var(--years), 1fr);
-      gap: 2px;
-      align-items: end;
-    }
-
-    .bars i {
-      display: block;
-      height: var(--h);
-      background: rgba(140,255,114,.4);
-      box-shadow: 0 0 8px rgba(140,255,114,.22);
-    }
-
-    .needle {
-      position: absolute;
-      top: -18px;
-      bottom: -18px;
-      left: var(--needle);
-      width: 3px;
-      background: var(--amber);
-      box-shadow: 0 0 18px var(--amber);
-      pointer-events: none;
-    }
-
-    input[type=range] {
-      position: absolute;
-      inset: 0;
-      width: 100%;
-      opacity: 0;
-      z-index: 3;
-      cursor: ew-resize;
-    }
-
-    .switches {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 10px;
-      margin-top: 6px;
-    }
-
-    .switch {
-      border: 1px solid rgba(244,232,185,.2);
-      background: #171910;
-      padding: 8px;
-      color: var(--green-dim);
-      font-family: var(--mono);
-      font-size: 11px;
-      letter-spacing: .08em;
-      text-transform: uppercase;
-      box-shadow: inset 0 1px rgba(255,255,255,.07), 0 4px 0 rgba(0,0,0,.32);
-    }
-
-    .switch.active {
-      color: #17150e;
-      background: var(--amber);
-      border-color: #ffc65c;
-    }
-
-    .ticker {
-      height: 96px;
-      overflow: hidden;
-      border: 1px solid rgba(244,232,185,.2);
-      background: #0b0e09;
-      padding: 8px;
-      color: #b6f0a8;
-      font-family: var(--mono);
-      font-size: 10px;
-    }
-
-    .scan-link:hover,
-    .switch:hover,
-    .channel:hover {
-      filter: brightness(1.12);
-    }
-
-    .ticker-line {
-      display: grid;
-      grid-template-columns: 46px minmax(0, 1fr) auto;
-      gap: 8px;
-      padding: 4px 0;
-      border-bottom: 1px dashed rgba(140,255,114,.12);
-    }
-
-    .ticker-line b {
-      color: var(--amber);
-      font-weight: 400;
-    }
-
-    .ticker-line span {
-      overflow: hidden;
-      white-space: nowrap;
-      text-overflow: ellipsis;
-    }
-
-    .ticker-line em {
-      color: rgba(244,232,185,.72);
-      font-style: normal;
-      white-space: nowrap;
-    }
-
-    .ticker-line[data-status="reader"] em { color: var(--status-reader); }
-    .ticker-line[data-status="guide"] em { color: var(--status-guide); }
-    .ticker-line[data-status="map"] em { color: var(--status-map); }
-
-    .upper > .bay:first-child h2 {
-      visibility: hidden;
-    }
-
-    @keyframes blink { 50% { opacity: .35; } }
-    @keyframes vertical-scan { from { top: -12%; } to { top: 108%; } }
-
-    @media (max-width: 1100px) {
-      body { overflow: auto; }
-      .machine {
-        height: auto;
-        min-height: 100vh;
-      }
-      .upper,
-      .controls {
-        grid-template-columns: 1fr;
-      }
-      .crt { order: 1; }
-      .side { order: 2; }
-      .upper > .bay:first-child { order: 3; }
-      .crt { min-height: 660px; }
-      .screen { min-height: 600px; }
-      .upper > .bay:first-child h2 { visibility: hidden; }
-    }
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#080b09">
+<title>Whole Earth Radio · 中文档案探索</title>
+<link rel="icon" href="data:,">
+<style>
+:root {
+  --bg: #080b09;
+  --surface: #101611;
+  --surface-hi: #172019;
+  --line: rgba(229,236,203,.18);
+  --line-strong: rgba(229,236,203,.32);
+  --text: #e9e7d0;
+  --muted: #96a18d;
+  --phosphor: #c5f3a8;
+  --tuning: #d4a15a;
+  --live: #e07a5f;
+  --cyan: #7fa9a7;
+  --violet: #9a8dab;
+  --mono: "SFMono-Regular", "SF Mono", "IBM Plex Mono", ui-monospace, monospace;
+  --serif: "Iowan Old Style", "Songti SC", "STSong", Georgia, serif;
+}
+* { box-sizing: border-box; }
+html, body { min-height: 100%; }
+body {
+  margin: 0;
+  color: var(--text);
+  background:
+    radial-gradient(circle at 50% 4%, rgba(126,171,108,.12), transparent 32rem),
+    linear-gradient(180deg, #0d120e 0%, var(--bg) 64%);
+  font-family: var(--serif);
+}
+button, input { font: inherit; color: inherit; }
+button { cursor: pointer; }
+a { color: inherit; }
+.deck { min-height: 100vh; padding: 16px; display: grid; place-items: center; }
+.machine {
+  position: relative;
+  width: min(1600px, 100%);
+  height: min(980px, calc(100vh - 32px));
+  min-height: 760px;
+  display: grid;
+  grid-template-rows: 64px minmax(0, 1fr) 116px;
+  gap: 12px;
+  padding: 14px;
+  border: 1px solid var(--line-strong);
+  border-radius: 20px 20px 30px 30px;
+  background: linear-gradient(145deg, #1b241b, #10150f 48%, #0b0e0b);
+  box-shadow: 0 22px 70px rgba(0,0,0,.48), inset 0 1px rgba(255,255,255,.08);
+  overflow: hidden;
+}
+.station-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 18px;
+  padding: 0 8px;
+  border-bottom: 1px solid var(--line);
+}
+.station-name { display: flex; align-items: center; gap: 12px; }
+.station-mark { width: 10px; height: 10px; border-radius: 50%; background: var(--phosphor); box-shadow: 0 0 14px rgba(197,243,168,.8); }
+.station-name strong { display: block; font-family: var(--mono); font-size: 15px; font-weight: 500; letter-spacing: .12em; color: #f5e6b4; }
+.station-name small { display: block; margin-top: 5px; color: var(--muted); font-family: var(--mono); font-size: 10px; letter-spacing: .08em; }
+.station-readout { display: flex; align-items: center; gap: 18px; color: var(--muted); font-family: var(--mono); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; }
+.station-readout b { color: var(--phosphor); font-weight: 500; }
+.upper { min-height: 0; display: grid; grid-template-columns: 222px minmax(0, 1fr) 350px; gap: 12px; }
+.bay { min-height: 0; border: 1px solid var(--line); border-radius: 11px; background: rgba(11,16,11,.72); overflow: hidden; }
+.bay h2 { margin: 0; padding: 14px 15px 12px; border-bottom: 1px solid var(--line); color: #f4e3b0; font-family: var(--mono); font-size: 11px; font-weight: 500; letter-spacing: .12em; text-transform: uppercase; }
+.channels { padding: 12px; display: grid; align-content: start; gap: 7px; }
+.channel { position: relative; display: grid; grid-template-columns: 12px minmax(0,1fr) auto; gap: 9px; align-items: center; min-height: 58px; padding: 9px 10px; border: 1px solid transparent; border-radius: 7px; background: rgba(255,255,255,.015); text-align: left; transition: background 220ms ease, border-color 220ms ease, transform 220ms ease; }
+.channel:hover, .channel:focus-visible { border-color: var(--line-strong); background: rgba(197,243,168,.06); }
+.channel:focus-visible, .switch:focus-visible, .scan-link:focus-visible, .ticker-line:focus-visible, .host-play:focus-visible, input:focus-visible { outline: 2px solid var(--tuning); outline-offset: 3px; }
+.channel.active { border-color: rgba(197,243,168,.62); background: rgba(197,243,168,.08); }
+.channel::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--tone); box-shadow: 0 0 10px color-mix(in srgb, var(--tone) 60%, transparent); }
+.channel strong { display: block; overflow: hidden; color: var(--text); font-size: 14px; font-weight: 500; line-height: 1.2; text-overflow: ellipsis; white-space: nowrap; }
+.channel small { display: block; margin-top: 5px; color: var(--muted); font-family: var(--mono); font-size: 10px; line-height: 1.2; }
+.channel b { color: var(--tone); font-family: var(--mono); font-size: 10px; font-weight: 500; letter-spacing: .08em; }
+.crt { min-height: 0; padding: 10px; border: 1px solid var(--line); border-radius: 16px; background: linear-gradient(145deg, rgba(255,255,255,.05), rgba(0,0,0,.25)); }
+.screen { position: relative; width: 100%; height: 100%; min-height: 0; overflow: hidden; border: 1px solid rgba(197,243,168,.32); border-radius: 28px; background: radial-gradient(circle at 50% 48%, rgba(126,224,101,.16), transparent 30%), #030603; box-shadow: inset 0 0 56px rgba(0,0,0,.92), inset 0 0 130px rgba(126,224,101,.12); isolation: isolate; }
+.screen::before { content: ""; position: absolute; inset: 0; pointer-events: none; z-index: 4; background: repeating-linear-gradient(0deg, rgba(255,255,255,.035) 0 1px, transparent 1px 6px), radial-gradient(circle at 50% 50%, transparent 55%, rgba(0,0,0,.56)); mix-blend-mode: screen; }
+.screen-fallback { position: absolute; inset: 0; z-index: 1; opacity: .48; pointer-events: none; }
+.fallback-earth { position: absolute; left: 50%; top: 52%; width: 224px; height: 224px; transform: translate(-50%,-50%); border: 1px solid rgba(197,243,168,.7); border-radius: 50%; background: radial-gradient(circle at 34% 30%, rgba(197,243,168,.55), rgba(51,119,56,.6) 38%, rgba(4,17,8,.95) 76%); box-shadow: 0 0 38px rgba(126,224,101,.35), inset -22px -20px 35px rgba(0,0,0,.55); }
+.fallback-earth::before, .fallback-earth::after { content: ""; position: absolute; inset: 20px 0; border-top: 1px solid rgba(197,243,168,.36); border-bottom: 1px solid rgba(197,243,168,.3); border-radius: 50%; }
+.fallback-earth::after { inset: 0 46px; border: 1px solid rgba(197,243,168,.33); border-top: 0; border-bottom: 0; }
+.fallback-orbit { position: absolute; left: 50%; top: 52%; width: 500px; height: 290px; transform: translate(-50%,-50%) rotate(14deg); border: 1px solid rgba(127,169,167,.42); border-radius: 50%; }
+.fallback-orbit-b { width: 400px; height: 230px; transform: translate(-50%,-50%) rotate(-18deg); border-color: rgba(197,243,168,.48); }
+.fallback-orbit-c { width: 610px; height: 350px; transform: translate(-50%,-50%) rotate(30deg); border-color: rgba(127,169,167,.26); }
+.fallback-cover { position: absolute; width: 58px; height: 80px; border: 1px solid rgba(244,232,185,.64); background: linear-gradient(145deg,#b9684b,#1b2b18); box-shadow: 0 10px 22px rgba(0,0,0,.5); transform: rotate(-10deg); }
+.fallback-cover-a { left: 17%; top: 24%; }
+.fallback-cover-b { right: 17%; top: 23%; transform: rotate(12deg); background: linear-gradient(145deg,#6aa8aa,#192b2c); }
+.fallback-cover-c { left: 18%; bottom: 19%; transform: rotate(8deg); background: linear-gradient(145deg,#6b9d5b,#26351d); }
+.fallback-cover-d { right: 18%; bottom: 18%; transform: rotate(-8deg); background: linear-gradient(145deg,#bc8a4f,#43261b); }
+.screen canvas { position: absolute; inset: 0; z-index: 2; width: 100%; height: 100%; display: block; filter: contrast(1.05) saturate(1.05); }
+.hud { position: absolute; z-index: 6; left: 24px; right: 24px; top: 18px; display: flex; justify-content: space-between; gap: 12px; color: var(--phosphor); font-family: var(--mono); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; pointer-events: none; }
+.hud b { max-width: 62%; overflow: hidden; color: #f3deb0; font-weight: 500; text-overflow: ellipsis; white-space: nowrap; }
+.hud-bottom { top: auto; bottom: 17px; color: rgba(197,243,168,.78); font-size: 10px; }
+.side { display: grid; grid-template-rows: auto minmax(0,1fr); gap: 0; }
+.side-content { min-height: 0; display: grid; grid-template-rows: auto auto 1fr auto auto; gap: 11px; padding: 15px; }
+.issue-meta { display: flex; justify-content: space-between; gap: 12px; color: var(--muted); font-family: var(--mono); font-size: 10px; letter-spacing: .06em; text-transform: uppercase; }
+.issue-meta span:last-child { color: var(--tuning); }
+.issue-identity { display: grid; grid-template-columns: 126px minmax(0,1fr); gap: 15px; align-items: start; }
+.selected-cover { width: 126px; height: 168px; display: block; border: 1px solid rgba(244,232,185,.42); background: #11180f; object-fit: cover; box-shadow: 0 16px 30px rgba(0,0,0,.42); }
+.issue-copy { min-width: 0; }
+.issue-copy h3 { margin: 3px 0 7px; display: -webkit-box; overflow: hidden; color: #f2e5bb; font-size: clamp(21px, 1.6vw, 29px); font-weight: 500; line-height: 1.08; text-wrap: balance; -webkit-box-orient: vertical; -webkit-line-clamp: 2; }
+.issue-copy p { display: -webkit-box; margin: 0; overflow: hidden; color: var(--muted); font-size: 12px; line-height: 1.45; -webkit-box-orient: vertical; -webkit-line-clamp: 3; }
+.status-strip { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+.status-badge { display: inline-flex; align-items: center; min-height: 23px; padding: 4px 8px; border: 1px solid currentColor; color: var(--muted); font-family: var(--mono); font-size: 10px; letter-spacing: .04em; }
+.status-badge[data-status="reader"] { color: var(--phosphor); }
+.status-badge[data-status="guide"] { color: var(--tuning); }
+.status-badge[data-status="map"] { color: var(--cyan); }
+.status-badge[data-status="indexed"] { color: #c5b27b; }
+.status-path { color: var(--muted); font-family: var(--mono); font-size: 10px; }
+.host-dock { display: grid; grid-template-columns: 32px minmax(0,1fr) auto; gap: 9px; align-items: center; padding: 9px 10px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.host-led { width: 25px; height: 25px; display: grid; place-items: center; border: 1px solid rgba(197,243,168,.56); border-radius: 50%; color: var(--phosphor); font-family: var(--mono); font-size: 9px; }
+.host-dock strong { display: block; color: var(--text); font-family: var(--mono); font-size: 10px; font-weight: 500; letter-spacing: .08em; }
+.host-dock small { display: block; margin-top: 4px; color: var(--muted); font-size: 11px; }
+.host-play { border: 1px solid var(--phosphor); border-radius: 3px; background: rgba(197,243,168,.1); color: var(--phosphor); padding: 7px 9px; font-family: var(--mono); font-size: 10px; letter-spacing: .05em; transition: background 180ms ease, color 180ms ease; }
+.host-play:hover:not(:disabled) { background: var(--phosphor); color: #10200e; }
+.host-play:disabled { cursor: not-allowed; opacity: .42; }
+.host-audio { display: none; }
+.tape { min-height: 43px; padding: 10px; border: 1px solid var(--line); background: rgba(255,255,255,.018); color: var(--muted); font-family: var(--mono); font-size: 10px; line-height: 1.35; overflow-wrap: anywhere; }
+.scan-link { display: block; border: 1px solid var(--line-strong); border-radius: 4px; background: rgba(255,255,255,.025); color: var(--text); padding: 10px; text-align: center; text-decoration: none; font-family: var(--mono); font-size: 11px; letter-spacing: .05em; transition: background 180ms ease, border-color 180ms ease, color 180ms ease; }
+.scan-link:hover { border-color: var(--tuning); background: rgba(212,161,90,.12); }
+.scan-link[data-status="reader"] { border-color: rgba(197,243,168,.76); background: rgba(197,243,168,.12); color: var(--phosphor); }
+.scan-link[data-status="reader"]:hover { background: var(--phosphor); color: #10200e; }
+.frequency-deck { display: grid; grid-template-columns: 260px minmax(0,1fr) 320px; gap: 12px; min-height: 0; }
+.control { min-width: 0; padding: 13px 15px; border: 1px solid var(--line); border-radius: 9px; background: rgba(16,22,15,.72); }
+.paper-label { display: inline-block; color: #f0ddb0; font-family: var(--mono); font-size: 10px; letter-spacing: .09em; text-transform: uppercase; }
+.tuner { position: relative; height: 26px; margin-top: 14px; border: 1px solid var(--line); background: #080e08; }
+.tuner::before { content: ""; position: absolute; left: 10px; right: 10px; top: 12px; height: 1px; background: var(--phosphor); box-shadow: 0 0 10px rgba(197,243,168,.55); }
+.rail { position: absolute; inset: 2px; display: grid; grid-template-columns: repeat(var(--years),1fr); align-items: end; gap: 2px; }
+.bars i { display: block; height: var(--h); background: rgba(197,243,168,.38); }
+.needle { position: absolute; top: -8px; bottom: -8px; left: var(--needle); width: 2px; background: var(--tuning); box-shadow: 0 0 13px rgba(212,161,90,.7); pointer-events: none; }
+input[type=range] { position: absolute; inset: -10px 0; width: 100%; opacity: 0; z-index: 3; cursor: ew-resize; }
+.year-readout { display: flex; justify-content: space-between; margin-top: 9px; color: var(--muted); font-family: var(--mono); font-size: 10px; }
+.switches { display: flex; gap: 7px; margin-top: 11px; }
+.switch { border: 1px solid var(--line); background: transparent; color: var(--muted); padding: 6px 8px; font-family: var(--mono); font-size: 10px; letter-spacing: .04em; transition: background 180ms ease, color 180ms ease, border-color 180ms ease; }
+.switch.active { border-color: var(--tuning); background: rgba(212,161,90,.14); color: #f2d9a0; }
+.program-strip { min-width: 0; display: grid; grid-template-columns: auto minmax(0,1fr); gap: 16px; align-items: start; }
+.program-strip .strip-heading { color: var(--muted); font-family: var(--mono); font-size: 10px; letter-spacing: .08em; white-space: nowrap; }
+.ticker { min-width: 0; display: flex; gap: 17px; overflow: hidden; }
+.ticker-line { flex: 0 0 220px; min-width: 0; display: grid; grid-template-columns: 42px minmax(0,1fr); gap: 8px; padding: 0 0 8px; border: 0; border-bottom: 1px solid var(--line); background: transparent; color: var(--muted); text-align: left; }
+.ticker-line:hover, .ticker-line:focus-visible, .ticker-line[aria-current="true"] { color: var(--text); border-color: rgba(197,243,168,.62); }
+.ticker-line b { color: var(--tuning); font-family: var(--mono); font-size: 10px; font-weight: 500; }
+.ticker-line span { overflow: hidden; font-size: 12px; text-overflow: ellipsis; white-space: nowrap; }
+.ticker-line em { grid-column: 2; overflow: hidden; color: var(--phosphor); font-family: var(--mono); font-size: 9px; font-style: normal; text-overflow: ellipsis; white-space: nowrap; }
+.status-note { color: var(--muted); font-family: var(--mono); font-size: 10px; line-height: 1.4; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; transition-duration: .001ms !important; } }
+@media (max-width: 1180px) { .machine { height: auto; min-height: calc(100vh - 32px); grid-template-rows: 64px auto auto; } body { overflow: auto; } .upper { grid-template-columns: 200px minmax(0,1fr); } .side { grid-column: 1 / -1; } .frequency-deck { grid-template-columns: 1fr; } .crt { min-height: 620px; } }
+</style>
 </head>
+
 <body>
   <main class="deck">
-    <section class="machine" aria-label="Whole Earth WebGL signal console">
-      <div class="plate"><i></i>WHOLE EARTH / WEBGL SIGNAL ACQUISITION</div>
-
+    <section class="machine" aria-label="Whole Earth Radio archive console">
+      <header class="station-bar">
+        <div class="station-name"><i class="station-mark" aria-hidden="true"></i><div><strong>WHOLE EARTH RADIO</strong><small>ARCHIVE BROADCAST / 中文档案探索</small></div></div>
+        <div class="station-readout"><span>ON AIR</span><b id="screenMode">ALL PUBLICATIONS</b><span id="rangeReadout">RANGE</span></div>
+      </header>
       <section class="upper">
-        <aside class="bay">
-          <h2>Channel Patchbay</h2>
-          <div class="channels" id="channels"></div>
-        </aside>
-
-        <section class="crt">
-          <div class="screen" id="screen">
-            <canvas id="webgl"></canvas>
-            <div class="hud"><span>TRACKING</span><b id="screenMode">ALL PUBLICATIONS</b></div>
-            <div class="hud hud-bottom"><span id="rangeReadout">RANGE</span><span id="visibleReadout">0 SIGNALS</span><span id="lockReadout">YEAR FREE</span></div>
-          </div>
-        </section>
-
-        <aside class="bay side">
-          <h2>Selected Signal</h2>
-          <section class="mini">
-            <div class="meta"><span id="issueSeries">series</span><span id="issueYear">year</span></div>
-            <img class="selected-cover" id="issueCover" alt="">
-            <div class="status-strip"><span class="status-badge" id="issueStatus" data-status="scan">acquiring</span><span class="status-path" id="issuePath">library route</span></div>
-            <h3 id="issueTitle">Acquiring signal</h3>
-            <p id="issueSummary">正在读取本地索引。</p>
-          </section>
-          <div class="tape" id="issueTape">topics: --</div>
-          <a class="scan-link map-link" id="mapLink" href="#" rel="noreferrer">Open Reading Map</a>
-          <a class="scan-link" id="scanLink" href="#" target="_blank" rel="noreferrer">Open Original Scan</a>
-        </aside>
+        <aside class="bay channels-bay"><h2>Channels / 频道</h2><div class="channels" id="channels"></div></aside>
+        <section class="crt"><div class="screen" id="screen"><div class="screen-fallback" aria-hidden="true"><i class="fallback-orbit fallback-orbit-a"></i><i class="fallback-orbit fallback-orbit-b"></i><i class="fallback-orbit fallback-orbit-c"></i><i class="fallback-earth"></i><i class="fallback-cover fallback-cover-a"></i><i class="fallback-cover fallback-cover-b"></i><i class="fallback-cover fallback-cover-c"></i><i class="fallback-cover fallback-cover-d"></i></div><canvas id="webgl"></canvas><div class="hud"><span>NOW PLAYING</span><b id="screenModeMirror">ARCHIVE SIGNAL</b></div><div class="hud hud-bottom"><span id="visibleReadout">0 SIGNALS</span><span id="lockReadout">YEAR FREE</span></div></div></section>
+        <aside class="bay side"><h2>Now playing / 当前期刊</h2><div class="side-content"><div class="issue-meta"><span id="issueSeries">series</span><span id="issueYear">year</span></div><div class="issue-identity"><img class="selected-cover" id="issueCover" width="126" height="168" alt="所选出版物封面"><div class="issue-copy"><h3 id="issueTitle" aria-live="polite">Acquiring signal</h3><p id="issueSummary" aria-live="polite">正在读取档案索引。</p></div></div><div class="status-strip"><span class="status-badge" id="issueStatus" data-status="scan">acquiring</span><span class="status-path" id="issuePath">library route</span></div><div class="host-dock"><span class="host-led" aria-hidden="true">MIC</span><span><strong>HOST / 主播讲述</strong><small id="hostState">选择节目后播放声音</small></span><button class="host-play" id="hostPlay" type="button" disabled>播放</button><audio class="host-audio" id="hostAudio" preload="metadata"></audio></div><div class="tape" id="issueTape">route: --</div><a class="scan-link map-link" id="mapLink" href="#" rel="noreferrer">进入中文阅读室</a><a class="scan-link" id="scanLink" href="#" target="_blank" rel="noreferrer">打开原刊扫描</a></div></aside>
       </section>
-
-      <section class="controls">
-        <div class="control">
-          <span class="paper-label">frequency year</span>
-          <div class="knob-row">
-            <div class="knob" id="knob"></div>
-            <div class="year-number" id="yearNumber">ALL<span>turn to tune archive year</span></div>
-          </div>
-        </div>
-
-        <div class="control">
-          <span class="paper-label">publication tuner</span>
-          <div class="tuner">
-            <div class="rail"><div class="bars" id="bars"></div><div class="needle" id="needle"></div></div>
-            <input id="yearRange" type="range" min="1968" max="2002" value="1985" step="1" aria-label="Publication year">
-          </div>
-          <div class="switches">
-            <button class="switch active" id="allYears">all years</button>
-            <button class="switch" id="lockYear">lock year</button>
-            <button class="switch active" id="autoScan">auto scan</button>
-          </div>
-        </div>
-
-        <div class="control">
-          <span class="paper-label">signal tape</span>
-          <div class="ticker" id="ticker"></div>
-        </div>
-      </section>
+      <section class="frequency-deck"><div class="control"><span class="paper-label">Frequency year / 年份</span><div class="tuner"><div class="rail"><div class="bars" id="bars"></div></div><div class="needle" id="needle"></div><input id="yearRange" type="range" min="1968" max="2002" value="1985" step="1" aria-label="Publication year"></div><div class="year-readout"><span id="yearNumber">ALL</span><span>1968 → 2002</span></div><div class="switches"><button class="switch active" id="allYears" aria-pressed="true">all</button><button class="switch" id="lockYear" aria-pressed="false">lock</button><button class="switch active" id="autoScan" aria-pressed="true">scan</button></div></div><div class="control program-strip"><span class="strip-heading">Program guide<br>节目单</span><div class="ticker" id="ticker"></div></div><div class="control"><span class="paper-label">Station state / 电台状态</span><div class="status-note" style="margin-top:12px">选择频道、年份或封面，右侧节目卡会同步更新。已开放中文阅读室的期刊会显示绿色入口。</div></div></section>
     </section>
   </main>
 
-  <script type="module">
+<script type="module">
     import * as THREE from "../vendor/three.module.min.js";
 
     const colors = {
@@ -818,7 +196,7 @@
         kind: "reader",
         label: "开放阅读室",
         path: "中文对照 / 1968 Fall Catalog",
-        action: "Enter Chinese Reading Room",
+        action: "进入中文阅读室",
         url: here("../../reader-prototype/1968/index.html"),
         note: "这一期 68 个扫描叶已完成中文翻译与独立审校，并开放中文对照阅读室。"
       },
@@ -826,7 +204,7 @@
         kind: "reader",
         label: "开放阅读室",
         path: "中文对照 / 1969 Spring Catalog",
-        action: "Enter Chinese Reading Room",
+        action: "进入中文阅读室",
         url: here("../../reader-prototype/1969/index.html"),
         note: "这一期 134 个扫描叶已完成中文翻译与独立审校，并开放中文对照阅读室。"
       },
@@ -834,7 +212,7 @@
         kind: "reader",
         label: "开放阅读室",
         path: "中文对照 / 1971 January Catalog",
-        action: "Enter Chinese Reading Room",
+        action: "进入中文阅读室",
         url: here("../../reader-prototype/index.html?issue=january-1971"),
         note: "这一期 48 个扫描叶已完成忠实全文翻译、原始高清扫描复核与独立审校，并开放中文对照阅读室。"
       },
@@ -842,7 +220,7 @@
         kind: "reader",
         label: "开放阅读室",
         path: "中文对照 / 1971 March Last Supplement",
-        action: "Enter Chinese Reading Room",
+        action: "进入中文阅读室",
         url: here("../../reader-prototype/index.html?issue=march-1971-last-supplement"),
         note: "这一期 132 个扫描叶已完成中文翻译与逐页校订；5 页次要缺字已注明，现开放中文对照阅读室。"
       },
@@ -850,7 +228,7 @@
         kind: "reader",
         label: "开放阅读室",
         path: "中文对照 / 1970 Fall Catalog",
-        action: "Enter Chinese Reading Room",
+        action: "进入中文阅读室",
         url: here("../../reader-prototype/index.html?issue=fall-1970"),
         note: "这一期已完成 148 个扫描叶的忠实全文翻译、高清复核与独立审校，并开放中文对照阅读室。"
       },
@@ -858,7 +236,7 @@
         kind: "reader",
         label: "开放阅读室",
         path: "中文对照 / 1970 Spring Catalog",
-        action: "Enter Chinese Reading Room",
+        action: "进入中文阅读室",
         url: here("../../reader-prototype/index.html?issue=spring-1970"),
         note: "这一期已完成 148 个扫描叶的忠实全文翻译、高清复核与独立审校，并开放中文对照阅读室。"
       },
@@ -866,7 +244,7 @@
         kind: "reader",
         label: "开放阅读室",
         path: "中文精读 / 1969 Fall Catalog",
-        action: "Enter Chinese Reading Room",
+        action: "进入中文阅读室",
         url: here("../../reader-prototype/index.html?issue=fall-1969"),
         note: "这一期已完成 132 个扫描叶的全文翻译与逐页复核，并开放中文对照阅读室。"
       },
@@ -874,7 +252,7 @@
         kind: "reader",
         label: "开放阅读室",
         path: "中文精读 / 1974 Epilog",
-        action: "Enter Chinese Reading Room",
+        action: "进入中文阅读室",
         url: here("../../reader-prototype/index.html"),
         note: "这一期已开放中文对照阅读室：左侧是真实扫描页，右侧是中文精读正文。"
       },
@@ -882,7 +260,7 @@
         kind: "guide",
         label: "导读本",
         path: "中文导读 / 1985 Software",
-        action: "Open Chinese Guide",
+        action: "打开中文导读",
         url: localMaps.wholeearthsoftwa00unse_3,
         note: "这一期已有中文导读和知识地图，是下一间阅读室的候选。"
       },
@@ -890,12 +268,13 @@
         kind: "map",
         label: "样本地图",
         path: "可视化导读 / 1985 Review",
-        action: "Open Reading Map",
+        action: "打开阅读地图",
         url: localMaps.wholeearthreview00unse_3,
         note: "这一期已有可视化导读样本，可从地图进入原刊结构。"
       }
     };
-    const featuredIdentifier = "wholeearthepilog00unse";
+    const featuredIdentifier = "lastsupplementto00unse";
+    let audioPrograms = {};
 
     const canvas = document.getElementById("webgl");
     const screen = document.getElementById("screen");
@@ -908,6 +287,10 @@
     const allYearsEl = document.getElementById("allYears");
     const lockYearEl = document.getElementById("lockYear");
     const autoScanEl = document.getElementById("autoScan");
+    const hostAudio = document.getElementById("hostAudio");
+    const hostPlay = document.getElementById("hostPlay");
+    const hostState = document.getElementById("hostState");
+    const screenModeMirror = document.getElementById("screenModeMirror");
 
     let stats;
     let coverManifest = {};
@@ -953,6 +336,15 @@
 
     function safe(value) {
       return String(value ?? "").replace(/[&<>"']/g, ch => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;", "'": "&#39;" }[ch]));
+    }
+
+    function syncStateUrl(issue) {
+      if (!issue?.identifier) return;
+      const url = new URL(window.location.href);
+      url.searchParams.set("issue", issue.identifier);
+      if (activeSeries) url.searchParams.set("series", activeSeries); else url.searchParams.delete("series");
+      if (lockedYear) url.searchParams.set("year", lockedYear); else url.searchParams.delete("year");
+      window.history.replaceState({}, "", url);
     }
 
     function readableSections(issue) {
@@ -1011,7 +403,7 @@
           kind: "map",
           label: "阅读地图",
           path: "可视化导读 / map",
-          action: "Open Reading Map",
+          action: "打开阅读地图",
           url: localMaps[issue.identifier],
           note: "这一期已有可视化阅读地图，可先从地图进入原刊结构。"
         };
@@ -1377,21 +769,22 @@
         signalGroup.add(mesh);
         issueMeshes.push(mesh);
       });
-      document.getElementById("visibleReadout").textContent = activeSeries || lockedYear ? `${focusedList.length} FOCUSED / 147` : "147 SIGNALS";
+      document.getElementById("visibleReadout").textContent = activeSeries || lockedYear ? `${focusedList.length} FOCUSED` : "ARCHIVE LIVE";
       setSelected(selected && isFocusedIssue(selected) ? selected : focusedList[0] || stats.issues[0]);
     }
 
     function renderChannels() {
       channelsEl.innerHTML = stats.series.map(series => `
         <button class="channel ${activeSeries === series.collection ? "active" : ""}" data-series="${safe(series.collection)}" style="--tone:${series.color}">
-          <span><strong>${safe(series.zh)}</strong><small>${series.count} objects · ${series.year_min}-${series.year_max}</small></span>
-          <b>${series.count}</b>
+          <span><strong>${safe(series.zh)}</strong><small>${series.year_min}-${series.year_max} · ${activeSeries === series.collection ? "正在收听" : "频道"}</small></span>
+          <b>${activeSeries === series.collection ? "ON" : "—"}</b>
         </button>
       `).join("");
       channelsEl.querySelectorAll(".channel").forEach(button => {
         button.onclick = () => {
           activeSeries = activeSeries === button.dataset.series ? null : button.dataset.series;
           document.getElementById("screenMode").textContent = activeSeries || "ALL PUBLICATIONS";
+          screenModeMirror.textContent = activeSeries || "ARCHIVE SIGNAL";
           setSelected(visibleIssues()[0]);
           renderChannels();
           renderTicker();
@@ -1413,17 +806,22 @@
       const list = visibleIssues().slice(0, 18);
       tickerEl.innerHTML = list.map(issue => {
         const status = issueStatus(issue);
-        return `<div class="ticker-line" data-status="${safe(status.kind)}"><b>${issue.year}</b><span>${safe(issue.title)}</span><em>${safe(status.label)}</em></div>`;
+        const displayTitle = issue.display_title || issue.title;
+        return `<button type="button" class="ticker-line" data-identifier="${safe(issue.identifier)}" data-status="${safe(status.kind)}" aria-current="${selected?.identifier === issue.identifier ? "true" : "false"}" aria-label="${safe(`${issue.year} · ${displayTitle} · ${status.label}`)}"><b>${issue.year}</b><span>${safe(displayTitle)}</span><em>${safe(status.label)}</em></button>`;
       }).join("");
     }
 
     function setSelected(issue) {
       selected = issue || visibleIssues()[0] || stats.issues[0];
+      if (!selected) return;
+      syncStateUrl(selected);
       const series = stats.series.find(item => item.collection === selected.collection);
       const status = issueStatus(selected);
       document.getElementById("issueSeries").textContent = selected.collection;
       document.getElementById("issueYear").textContent = [selected.year, selected.season].filter(Boolean).join(" ");
-      document.getElementById("issueTitle").textContent = selected.title;
+      const displayTitle = selected.display_title || selected.title;
+      document.getElementById("issueTitle").textContent = displayTitle;
+      screenModeMirror.textContent = `${selected.year}${selected.season ? ` ${selected.season}` : ""} · ${displayTitle}`;
       document.getElementById("issueCover").src = coverPath(selected);
       const statusBadge = document.getElementById("issueStatus");
       statusBadge.textContent = status.label;
@@ -1434,14 +832,27 @@
       document.getElementById("issueSummary").textContent = entries.length
         ? `${status.note} ${series?.role || "这一期"}。可先从「${entries.join("」「")}」进入；${topicLine ? `主题信号集中在「${topicLine}」。` : "它更像一组等待继续深读的档案信号。"}`
         : `${status.note} ${series?.summary || "索引里暂无稳定目录入口"}`;
-      document.getElementById("issueTape").textContent = `route: ${status.label} · signals: ${(selected.topics || []).join(" / ") || "--"} · pages: ${selected.pages || "--"} · archive id: ${selected.identifier || "--"}`;
+      document.getElementById("issueTape").textContent = `route: ${status.label} · pages: ${selected.pages || "--"} · signals: ${(selected.topics || []).slice(0, 3).join(" / ") || "--"}`;
       const mapLink = document.getElementById("mapLink");
       mapLink.href = readingMapUrl(selected);
       mapLink.textContent = status.action;
       mapLink.dataset.status = status.kind;
+      const audioProgram = audioPrograms[selected.identifier];
+      if (audioProgram) {
+        hostAudio.src = audioProgram.src;
+        hostAudio.load();
+        hostPlay.disabled = false;
+        hostPlay.textContent = "播放";
+        hostState.textContent = audioProgram.label;
+      } else {
+        hostAudio.removeAttribute("src");
+        hostPlay.disabled = true;
+        hostPlay.textContent = "暂无";
+        hostState.textContent = "该节目暂未配音";
+      }
       const scanLink = document.getElementById("scanLink");
       scanLink.href = archiveUrl(selected);
-      scanLink.textContent = "Open Archive Scan";
+      scanLink.textContent = "打开原刊扫描";
       issueMeshes.forEach(mesh => {
         const isSelected = mesh.userData.issue.identifier === selected.identifier;
         const focused = isFocusedIssue(mesh.userData.issue);
@@ -1449,11 +860,13 @@
         mesh.material.opacity = isSelected ? 1 : focused ? 0.82 : 0.16;
         mesh.scale.setScalar(isSelected ? 3 : focused ? 1.22 : 0.42);
       });
+      tickerEl.querySelectorAll(".ticker-line").forEach(button => button.setAttribute("aria-current", String(button.dataset.identifier === selected.identifier)));
       updateSelectedMarker();
     }
 
     function setYearLock(year) {
       lockedYear = year;
+      if (selected) syncStateUrl(selected);
       const label = year ? String(year) : "ALL";
       document.getElementById("yearNumber").innerHTML = `${label}<span>turn to tune archive year</span>`;
       document.getElementById("lockReadout").textContent = year ? `YEAR ${year}` : "YEAR FREE";
@@ -1559,6 +972,15 @@
       autoScan = !autoScan;
       autoScanEl.classList.toggle("active", autoScan);
     };
+    hostPlay.addEventListener("click", async () => {
+      if (!hostAudio.src) return;
+      if (hostAudio.paused) {
+        try { await hostAudio.play(); hostPlay.textContent = "暂停"; hostState.textContent = "正在讲述"; }
+        catch (error) { hostState.textContent = "声音暂时无法播放"; }
+      } else { hostAudio.pause(); hostPlay.textContent = "播放"; hostState.textContent = "已暂停"; }
+    });
+    hostAudio.addEventListener("ended", () => { hostPlay.textContent = "重播"; hostState.textContent = "讲述结束"; });
+
     document.getElementById("mapLink").addEventListener("click", event => {
       if (!selected) return;
       event.preventDefault();
@@ -1568,7 +990,24 @@
     async function boot() {
       stats = await fetch("../data/wholeearth_macro_stats.json").then(response => response.json());
       coverManifest = (await fetch("../assets/covers_manifest.json").then(response => response.json())).covers || {};
-      const featuredIssue = stats.issues.find(issue => issue.identifier === featuredIdentifier) || stats.issues[0];
+      const audioManifestResponse = await fetch("../data/wholeearth_audio_programs.json");
+      if (audioManifestResponse.ok) {
+        const audioManifest = await audioManifestResponse.json();
+        audioPrograms = Object.fromEntries(Object.entries(audioManifest.programs || {}).map(([id, item]) => [id, { ...item, src: here(item.audioUrl), label: "档案电台试播" }]));
+      }
+      const routeManifestResponse = await fetch("../data/wholeearth_publication_routes.json");
+      if (routeManifestResponse.ok) {
+        const routeManifest = await routeManifestResponse.json();
+        Object.entries(routeManifest.routes || {}).forEach(([identifier, route]) => {
+          readingDestinations[identifier] = { ...route, url: here(route.url) };
+        });
+      }
+      const params = new URLSearchParams(window.location.search);
+      activeSeries = params.get("series") || null;
+      const requestedYear = Number(params.get("year"));
+      lockedYear = Number.isFinite(requestedYear) && requestedYear >= stats.year_min && requestedYear <= stats.year_max ? requestedYear : null;
+      const requestedIssue = params.get("issue");
+      const featuredIssue = stats.issues.find(issue => issue.identifier === requestedIssue) || stats.issues.find(issue => issue.identifier === featuredIdentifier) || stats.issues[0];
       document.getElementById("rangeReadout").textContent = `RANGE ${stats.year_min}-${stats.year_max}`;
       rangeEl.min = stats.year_min;
       rangeEl.max = stats.year_max;
@@ -1586,6 +1025,6 @@
 
     addEventListener("resize", resize);
     boot();
-  </script>
+</script>
 </body>
 </html>
