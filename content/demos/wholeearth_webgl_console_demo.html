@@ -311,6 +311,11 @@ input[type=range] { position: absolute; inset: -10px 0; width: 100%; opacity: 0;
     let autoScan = true;
     let issueMeshes = [];
     let ringMeshes = [];
+    // Cover scale communicates the current tuning target only. Translation
+    // status is rendered in the issue card and route badge, never by resizing
+    // every issue that happens to match a filter.
+    const ARCHIVE_COVER_SCALE = 0.42;
+    const SELECTED_COVER_SCALE = 3;
     let earthGroup;
     let signalGroup;
     let selectedMarker;
@@ -776,7 +781,7 @@ input[type=range] { position: absolute; inset: -10px 0; width: 100%; opacity: 0;
           focused,
           seriesIndex
         };
-        mesh.scale.setScalar(focused ? 1.22 : 0.42);
+        mesh.scale.setScalar(ARCHIVE_COVER_SCALE);
         signalGroup.add(mesh);
         issueMeshes.push(mesh);
       });
@@ -869,7 +874,7 @@ input[type=range] { position: absolute; inset: -10px 0; width: 100%; opacity: 0;
         const focused = isFocusedIssue(mesh.userData.issue);
         mesh.userData.focused = focused;
         mesh.material.opacity = isSelected ? 1 : focused ? 0.82 : 0.16;
-        mesh.scale.setScalar(isSelected ? 3 : focused ? 1.22 : 0.42);
+        mesh.scale.setScalar(isSelected ? SELECTED_COVER_SCALE : ARCHIVE_COVER_SCALE);
       });
       tickerEl.querySelectorAll(".ticker-line").forEach(button => button.setAttribute("aria-current", String(button.dataset.identifier === selected.identifier)));
       updateSelectedMarker();
