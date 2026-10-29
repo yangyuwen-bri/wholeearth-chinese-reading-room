@@ -294,7 +294,6 @@ input[type=range] { position: absolute; inset: -10px 0; width: 100%; opacity: 0;
     const tickerEl = document.getElementById("ticker");
     const barsEl = document.getElementById("bars");
     const rangeEl = document.getElementById("yearRange");
-    const knobEl = document.getElementById("knob");
     const needleEl = document.getElementById("needle");
     const allYearsEl = document.getElementById("allYears");
     const lockYearEl = document.getElementById("lockYear");
@@ -889,9 +888,8 @@ input[type=range] { position: absolute; inset: -10px 0; width: 100%; opacity: 0;
       rebuildSignals();
     }
 
-    function updateKnob(year) {
+    function updateTuner(year) {
       const pct = (year - stats.year_min) / (stats.year_max - stats.year_min);
-      knobEl.style.setProperty("--knob-angle", `${-140 + pct * 280}deg`);
       needleEl.style.setProperty("--needle", `${pct * 100}%`);
       if (!lockedYear) {
         document.getElementById("yearNumber").innerHTML = `ALL<span>tuned near ${year}</span>`;
@@ -975,8 +973,14 @@ input[type=range] { position: absolute; inset: -10px 0; width: 100%; opacity: 0;
 
     rangeEl.addEventListener("input", () => {
       const year = Number(rangeEl.value);
-      updateKnob(year);
+      updateTuner(year);
       if (lockedYear) setYearLock(year);
+    });
+    tickerEl.addEventListener("click", event => {
+      const button = event.target.closest(".ticker-line");
+      if (!button) return;
+      const issue = stats.issues.find(item => item.identifier === button.dataset.identifier);
+      if (issue) setSelected(issue);
     });
     allYearsEl.onclick = () => setYearLock(null);
     lockYearEl.onclick = () => setYearLock(Number(rangeEl.value));
@@ -1030,7 +1034,7 @@ input[type=range] { position: absolute; inset: -10px 0; width: 100%; opacity: 0;
       renderTicker();
       rebuildSignals();
       setSelected(featuredIssue);
-      updateKnob(Number(rangeEl.value));
+      updateTuner(Number(rangeEl.value));
       resize();
       animate();
     }
